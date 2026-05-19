@@ -1,0 +1,10 @@
+node_modules/
+.astro/
+dist/
+.env
+.env.local
+*.db
+*.db-journal
+data/raw/
+vault/04_logs/
+.DS_Store
