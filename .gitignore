@@ -1,10 +1,41 @@
+# Node
 node_modules/
 .astro/
 dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data
+data/raw/
+data/raw/_archive_overbroad/
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Environment
 .env
 .env.local
-*.db
-*.db-journal
-data/raw/
-vault/04_logs/
+
+# Backups
+*.bak
+_backup/
+site_old_empty/
+
+# macOS
 .DS_Store
+
+# Logs
+logs/
+*.log
+
+# Vault (個人メモ・公開しない)
+vault/04_logs/
+vault/03_logs/
+
+# Astro
+site/node_modules/
+site/dist/
+site/.astro/

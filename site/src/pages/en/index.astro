@@ -1,0 +1,24 @@
+---
+import { getDraftedFestivals } from '../../lib/festivals';
+const festivals = getDraftedFestivals('en');
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Nipponexus - Festivals of Japan</title>
+  <meta name="description" content="Comprehensive multilingual database of festivals and annual events across Japan." />
+  <link rel="alternate" hreflang="ja" href="https://nipponexus.com/" />
+  <link rel="alternate" hreflang="en" href="https://nipponexus.com/en/" />
+  <style>body{font-family:-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px;line-height:1.8}h1{color:#5b21b6}</style>
+</head>
+<body>
+  <h1>Nipponexus - Festivals of Japan</h1>
+  <p>Comprehensive multilingual database of festivals and annual events across Japan. Publishing in progress.</p>
+  <p><a href="/">日本語 →</a></p>
+  <h2>Published Festivals ({festivals.length})</h2>
+  <ul>
+    {festivals.map(f => <li><a href={`/en/${f.slug_en}`}>{f.label_en}</a> ({f.prefecture || 'Japan'})</li>)}
+  </ul>
+</body>
+</html>
