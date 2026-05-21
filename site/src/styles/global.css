@@ -649,3 +649,6 @@ a:hover { color: var(--color-shu-dark); }
   color: white;
 }
 
+/* Index hero variants (per tab) */
+.index-hero--region{background:linear-gradient(135deg,var(--color-shu) 0%,var(--color-shu-dark) 100%)}
+.index-hero--prefecture{background:linear-gradient(135deg,var(--color-kincha) 0%,#78350f 100%)}
