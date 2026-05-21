@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import IndexTabs from '../../../components/IndexTabs.astro';
+import IndexSection from '../../../components/IndexSection.astro';
+import { getAllFestivalsForIndex, groupByPrefecture } from '../../../lib/festivals';
+const all = getAllFestivalsForIndex('en');
+const groups = groupByPrefecture(all, 'en');
+---
+<BaseLayout
+  title="Browse by Prefecture | Nipponexus"
+  description="Discover Japanese festivals organized by all 47 prefectures."
+  locale="en"
+  altLang="https://nipponexus.com/index/prefecture/"
+>
+  <section class="index-hero">
+    <div class="container">
+      <h1>Browse by Prefecture</h1>
+      <p>Find festivals in the prefecture you want to visit.</p>
+    </div>
+  </section>
+  <div class="container" style="padding-top:2rem;">
+    <IndexTabs active="prefecture" locale="en" />
+    <IndexSection groups={groups} locale="en" />
+  </div>
+</BaseLayout>

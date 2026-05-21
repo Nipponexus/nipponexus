@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import IndexTabs from '../../../components/IndexTabs.astro';
+import IndexSection from '../../../components/IndexSection.astro';
+import { getAllFestivalsForIndex, groupBySeason } from '../../../lib/festivals';
+const all = getAllFestivalsForIndex('en');
+const groups = groupBySeason(all, 'en');
+---
+<BaseLayout
+  title="Browse by Season | Nipponexus"
+  description="Discover Japanese festivals held in spring, summer, autumn, and winter."
+  locale="en"
+  altLang="https://nipponexus.com/index/season/"
+>
+  <section class="index-hero">
+    <div class="container">
+      <h1>Browse by Season</h1>
+      <p>Festivals that follow the rhythm of Japan's four seasons.</p>
+    </div>
+  </section>
+  <div class="container" style="padding-top:2rem;">
+    <IndexTabs active="season" locale="en" />
+    <IndexSection groups={groups} locale="en" />
+  </div>
+</BaseLayout>

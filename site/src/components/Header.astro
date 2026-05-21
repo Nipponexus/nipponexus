@@ -1,0 +1,29 @@
+---
+interface Props { locale?: 'ja' | 'en'; }
+const { locale = 'ja' } = Astro.props;
+const isJa = locale === 'ja';
+const homePath = isJa ? '/' : '/en/';
+const indexPath = isJa ? '/index/region/' : '/en/index/region/';
+const altLangPath = isJa ? '/en/' : '/';
+---
+<header class="site-header" id="siteHeader">
+  <div class="site-header-inner">
+    <a href={homePath} class="site-logo">
+      Nippo<span>nexus</span>
+    </a>
+    <nav class="site-nav">
+      <a href={indexPath}>{isJa ? '索引' : 'Index'}</a>
+      <a href={homePath}>{isJa ? 'ホーム' : 'Home'}</a>
+      <a href={altLangPath} class="lang-switch">{isJa ? 'EN' : '日本語'}</a>
+    </nav>
+  </div>
+</header>
+<script>
+  const header = document.getElementById('siteHeader');
+  if (header) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 20) header.classList.add('scrolled');
+      else header.classList.remove('scrolled');
+    });
+  }
+</script>

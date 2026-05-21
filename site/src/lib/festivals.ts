@@ -26,10 +26,15 @@ export interface Festival {
   slug_ja: string | null;
   slug_en: string | null;
   status: string;
+  priority_score: number;
+}
+
+function open() {
+  return new Database(DB_PATH, { readonly: true });
 }
 
 export function getDraftedFestivals(locale: 'ja' | 'en'): Festival[] {
-  const db = new Database(DB_PATH, { readonly: true });
+  const db = open();
   const slugCol = locale === 'ja' ? 'slug_ja' : 'slug_en';
   const stmt = db.prepare(`
     SELECT * FROM festivals
@@ -43,10 +48,90 @@ export function getDraftedFestivals(locale: 'ja' | 'en'): Festival[] {
 }
 
 export function getFestivalBySlug(slug: string, locale: 'ja' | 'en'): Festival | null {
-  const db = new Database(DB_PATH, { readonly: true });
+  const db = open();
   const slugCol = locale === 'ja' ? 'slug_ja' : 'slug_en';
   const stmt = db.prepare(`SELECT * FROM festivals WHERE ${slugCol} = ?`);
   const row = stmt.get(slug) as Festival | undefined;
   db.close();
   return row || null;
+}
+
+/**
+ * 全祭り取得（索引ページ用・status問わず・ラベルあるもののみ）
+ * 公開済みでないものはリンクなしで表示する。
+ */
+export function getAllFestivalsForIndex(locale: 'ja' | 'en'): Festival[] {
+  const db = open();
+  const labelCol = locale === 'ja' ? 'label_ja' : 'label_en';
+  const stmt = db.prepare(`
+    SELECT * FROM festivals
+    WHERE ${labelCol} IS NOT NULL AND ${labelCol} != ''
+    ORDER BY priority_score DESC, qid
+  `);
+  const rows = stmt.all() as Festival[];
+  db.close();
+  return rows;
+}
+
+export interface GroupedFestivals {
+  key: string;
+  label: string;
+  festivals: Festival[];
+}
+
+export function groupByRegion(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
+  const regionOrder = ['hokkaido', 'tohoku', 'kanto', 'chubu', 'kansai', 'chugoku', 'shikoku', 'kyushu', 'okinawa', 'unknown'];
+  const regionLabels: Record<string, { ja: string; en: string }> = {
+    hokkaido: { ja: '北海道', en: 'Hokkaido' },
+    tohoku: { ja: '東北', en: 'Tohoku' },
+    kanto: { ja: '関東', en: 'Kanto' },
+    chubu: { ja: '中部', en: 'Chubu' },
+    kansai: { ja: '関西', en: 'Kansai' },
+    chugoku: { ja: '中国', en: 'Chugoku' },
+    shikoku: { ja: '四国', en: 'Shikoku' },
+    kyushu: { ja: '九州', en: 'Kyushu' },
+    okinawa: { ja: '沖縄', en: 'Okinawa' },
+    unknown: { ja: 'その他', en: 'Others' },
+  };
+  const map = new Map<string, Festival[]>();
+  for (const f of festivals) {
+    const k = f.region || 'unknown';
+    if (!map.has(k)) map.set(k, []);
+    map.get(k)!.push(f);
+  }
+  return regionOrder
+    .filter(k => map.has(k))
+    .map(k => ({ key: k, label: regionLabels[k][locale], festivals: map.get(k)! }));
+}
+
+export function groupBySeason(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
+  const seasonOrder = ['spring', 'summer', 'autumn', 'winter', 'unknown'];
+  const seasonLabels: Record<string, { ja: string; en: string }> = {
+    spring: { ja: '春', en: 'Spring' },
+    summer: { ja: '夏', en: 'Summer' },
+    autumn: { ja: '秋', en: 'Autumn' },
+    winter: { ja: '冬', en: 'Winter' },
+    unknown: { ja: '通年・不明', en: 'Year-round / Unknown' },
+  };
+  const map = new Map<string, Festival[]>();
+  for (const f of festivals) {
+    const k = f.season || 'unknown';
+    if (!map.has(k)) map.set(k, []);
+    map.get(k)!.push(f);
+  }
+  return seasonOrder
+    .filter(k => map.has(k))
+    .map(k => ({ key: k, label: seasonLabels[k][locale], festivals: map.get(k)! }));
+}
+
+export function groupByPrefecture(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
+  const map = new Map<string, Festival[]>();
+  for (const f of festivals) {
+    const k = f.prefecture || (locale === 'ja' ? '不明' : 'Unknown');
+    if (!map.has(k)) map.set(k, []);
+    map.get(k)!.push(f);
+  }
+  return [...map.entries()]
+    .sort((a, b) => b[1].length - a[1].length)
+    .map(([k, v]) => ({ key: k, label: k, festivals: v }));
 }

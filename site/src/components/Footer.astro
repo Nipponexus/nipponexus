@@ -1,0 +1,32 @@
+---
+interface Props { locale?: 'ja' | 'en'; }
+const { locale = 'ja' } = Astro.props;
+const isJa = locale === 'ja';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div>
+      <h4>Nipponexus</h4>
+      <p style="opacity:0.8;font-size:0.9rem;">
+        {isJa
+          ? '日本の祭りと文化を、世界へ伝える総合データベース。'
+          : 'A comprehensive database of Japanese festivals and culture, for the world.'}
+      </p>
+    </div>
+    <div>
+      <h4>{isJa ? '探す' : 'Explore'}</h4>
+      <a href={isJa ? '/index/region/' : '/en/index/region/'}>{isJa ? '地域から' : 'By Region'}</a>
+      <a href={isJa ? '/index/season/' : '/en/index/season/'}>{isJa ? '季節から' : 'By Season'}</a>
+      <a href={isJa ? '/index/prefecture/' : '/en/index/prefecture/'}>{isJa ? '都道府県から' : 'By Prefecture'}</a>
+    </div>
+    <div>
+      <h4>{isJa ? 'リンク' : 'Links'}</h4>
+      <a href={isJa ? '/en/' : '/'}>{isJa ? 'English' : '日本語'}</a>
+      <a href="https://github.com/donki2015-web/nipponexus" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+  <div class="site-footer-bottom">
+    © {year} Nipponexus. Data sourced from Wikidata & Wikipedia (CC BY-SA).
+  </div>
+</footer>

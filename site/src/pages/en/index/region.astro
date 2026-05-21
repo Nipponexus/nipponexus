@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import IndexTabs from '../../../components/IndexTabs.astro';
+import IndexSection from '../../../components/IndexSection.astro';
+import { getAllFestivalsForIndex, groupByRegion } from '../../../lib/festivals';
+const all = getAllFestivalsForIndex('en');
+const groups = groupByRegion(all, 'en');
+---
+<BaseLayout
+  title="Browse by Region | Nipponexus"
+  description="Discover Japanese festivals across 8 regions: Hokkaido, Tohoku, Kanto, Chubu, Kansai, Chugoku, Shikoku, Kyushu, and Okinawa."
+  locale="en"
+  altLang="https://nipponexus.com/index/region/"
+>
+  <section class="index-hero">
+    <div class="container">
+      <h1>Browse by Region</h1>
+      <p>Explore Japanese festivals across 8 distinct regions.</p>
+    </div>
+  </section>
+  <div class="container" style="padding-top:2rem;">
+    <IndexTabs active="region" locale="en" />
+    <IndexSection groups={groups} locale="en" />
+  </div>
+</BaseLayout>

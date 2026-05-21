@@ -1,0 +1,19 @@
+---
+interface Props {
+  active: 'region' | 'season' | 'prefecture';
+  locale: 'ja' | 'en';
+}
+const { active, locale } = Astro.props;
+const isJa = locale === 'ja';
+const base = isJa ? '/index' : '/en/index';
+const items = [
+  { key: 'region', href: `${base}/region/`, label: isJa ? '地域から' : 'By Region' },
+  { key: 'season', href: `${base}/season/`, label: isJa ? '季節から' : 'By Season' },
+  { key: 'prefecture', href: `${base}/prefecture/`, label: isJa ? '都道府県から' : 'By Prefecture' },
+];
+---
+<div class="index-tabs">
+  {items.map(i => (
+    <a href={i.href} class={`index-tab ${i.key === active ? 'active' : ''}`}>{i.label}</a>
+  ))}
+</div>

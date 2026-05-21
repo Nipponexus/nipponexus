@@ -1,24 +1,98 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
 import { getDraftedFestivals } from '../lib/festivals';
+
 const festivals = getDraftedFestivals('ja');
 ---
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <title>Nipponexus 日本の祭り図鑑</title>
-  <meta name="description" content="日本全国の祭り・年中行事を網羅した多言語データベース。" />
-  <link rel="alternate" hreflang="ja" href="https://nipponexus.com/" />
-  <link rel="alternate" hreflang="en" href="https://nipponexus.com/en/" />
-  <style>body{font-family:-apple-system,"Hiragino Sans",sans-serif;max-width:760px;margin:0 auto;padding:24px;line-height:1.8}h1{color:#5b21b6}ul{padding-left:20px}</style>
-</head>
-<body>
-  <h1>Nipponexus 日本の祭り図鑑</h1>
-  <p>日本全国の祭り・年中行事を網羅した多言語データベース。順次公開中。</p>
-  <p><a href="/en/">English →</a></p>
-  <h2>掲載済み祭り（{festivals.length}件）</h2>
-  <ul>
-    {festivals.map(f => <li><a href={`/${f.slug_ja}`}>{f.label_ja}</a> ({f.prefecture || '日本'})</li>)}
-  </ul>
-</body>
-</html>
+<BaseLayout
+  title="Nipponexus - 日本の祭りと文化"
+  description="日本全国の祭りと年中行事を、地域・季節・都道府県から探せる総合データベース。"
+  locale="ja"
+  altLang="https://nipponexus.com/en/"
+>
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">日本の祭り、ここに集う。</h1>
+      <p class="hero-subtitle">
+        全国1,200を超える祭りと年中行事を、地域・季節・歴史から辿る。<br />
+        Nipponexus は、日本文化を世界へ伝える旅の入口です。
+      </p>
+      <div class="hero-cta">
+        <a href="/index/region/" class="btn btn-primary">祭りを探す</a>
+      </div>
+    </div>
+    <div class="hero-scroll">↓ Scroll</div>
+  </section>
+
+  <section class="section bg-seigaiha">
+    <div class="container">
+      <div class="reveal" style="text-align:center;">
+        <h2>季節から探す</h2>
+        <p style="color:var(--color-sumi-light);max-width:600px;margin:0 auto;">
+          四季それぞれに、その時にしか出会えない祭りがあります。
+        </p>
+      </div>
+      <div class="season-grid">
+        <a href="/index/season/#spring" class="season-card season-spring reveal">
+          <h3>春</h3>
+          <p>桜と共に始まる、新しい一年の祭り</p>
+        </a>
+        <a href="/index/season/#summer" class="season-card season-summer reveal">
+          <h3>夏</h3>
+          <p>炎と神輿が織りなす、日本の夏</p>
+        </a>
+        <a href="/index/season/#autumn" class="season-card season-autumn reveal">
+          <h3>秋</h3>
+          <p>実りに感謝する、収穫の祭典</p>
+        </a>
+        <a href="/index/season/#winter" class="season-card season-winter reveal">
+          <h3>冬</h3>
+          <p>雪と灯りが幻想を生む、静寂の祭り</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="reveal" style="text-align:center;">
+        <h2>注目の祭り</h2>
+        <p style="color:var(--color-sumi-light);">最新追加・厳選された祭り</p>
+      </div>
+      <div class="festival-grid">
+        {festivals.map((f) => (
+          <a href={`/${f.slug_ja}/`} class="festival-card reveal">
+            <div
+              class="festival-card-image"
+              style={f.image_url ? `background-image:url('${f.image_url}')` : ''}
+            />
+            <div class="festival-card-body">
+              <h3 class="festival-card-title">{f.label_ja}</h3>
+              <p class="festival-card-meta">
+                {f.prefecture || '日本'} · {f.season || '通年'}
+              </p>
+            </div>
+          </a>
+        ))}
+      </div>
+      {festivals.length === 0 && (
+        <p style="text-align:center;color:var(--color-sumi-light);margin-top:2rem;">
+          現在準備中です。まもなく公開予定。
+        </p>
+      )}
+    </div>
+  </section>
+
+  <section class="section bg-asanoha">
+    <div class="container-narrow reveal" style="text-align:center;">
+      <h2>Nipponexus について</h2>
+      <p>
+        Nipponexus は、Wikidata と Wikipedia の協働データを基盤に、日本の祭礼・年中行事・伝統文化を体系的に記録・公開する非営利的データベースプロジェクトです。
+      </p>
+      <p>
+        すべてのコンテンツは <strong>CC BY-SA 4.0</strong> ライセンスで提供され、研究・教育・観光に自由にご活用いただけます。
+      </p>
+      <a href="/en/" class="btn btn-outline" style="margin-top:1rem;">English Version →</a>
+    </div>
+  </section>
+</BaseLayout>

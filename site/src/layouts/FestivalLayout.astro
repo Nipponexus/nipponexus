@@ -1,20 +1,26 @@
 ---
+import BaseLayout from './BaseLayout.astro';
 import type { Festival } from '../lib/festivals';
+
 interface Props {
   festival: Festival;
   locale: 'ja' | 'en';
   contentHtml: string;
 }
 const { festival, locale, contentHtml } = Astro.props;
-const siteName = locale === 'ja' ? 'Nipponexus 日本の祭り図鑑' : 'Nipponexus - Festivals of Japan';
-const title = locale === 'ja' ? festival.label_ja : festival.label_en;
-const desc = locale === 'ja'
+
+const isJa = locale === 'ja';
+const siteName = isJa ? 'Nipponexus 日本の祭り図鑑' : 'Nipponexus - Festivals of Japan';
+const title = isJa ? festival.label_ja : (festival.label_en || festival.label_ja);
+const desc = isJa
   ? (festival.description_ja || `${festival.label_ja}の歴史・見どころ・開催情報を網羅した詳細ガイド。`)
-  : (festival.description_en || `Complete guide to ${festival.label_en}, including history, highlights, and visitor information.`);
-const otherLocale = locale === 'ja' ? 'en' : 'ja';
-const otherSlug = locale === 'ja' ? festival.slug_en : festival.slug_ja;
-const otherUrl = otherSlug ? `https://nipponexus.com/${otherLocale === 'ja' ? '' : 'en/'}${otherSlug}` : null;
-const selfUrl = `https://nipponexus.com/${locale === 'ja' ? '' : 'en/'}${locale === 'ja' ? festival.slug_ja : festival.slug_en}`;
+  : (festival.description_en || `Complete guide to ${festival.label_en || festival.label_ja}, including history, highlights, and visitor information.`);
+
+const otherLocale = isJa ? 'en' : 'ja';
+const otherSlug = isJa ? festival.slug_en : festival.slug_ja;
+const otherUrl = otherSlug ? `https://nipponexus.com/${otherLocale === 'ja' ? '' : 'en/'}${otherSlug}/` : null;
+const selfUrl = `https://nipponexus.com/${isJa ? '' : 'en/'}${isJa ? festival.slug_ja : festival.slug_en}/`;
+const pageTitle = `${title} | ${siteName}`;
 
 // JSON-LD Event schema
 const jsonLd: any = {
@@ -28,7 +34,7 @@ if (festival.image_url) jsonLd.image = festival.image_url;
 if (festival.location_label_ja || festival.location_label_en) {
   jsonLd.location = {
     "@type": "Place",
-    "name": locale === 'ja' ? festival.location_label_ja : festival.location_label_en,
+    "name": isJa ? festival.location_label_ja : (festival.location_label_en || festival.location_label_ja),
   };
   if (festival.latitude && festival.longitude) {
     jsonLd.location.geo = {
@@ -38,46 +44,96 @@ if (festival.location_label_ja || festival.location_label_en) {
     };
   }
 }
+
+// 季節ラベル
+const seasonLabels: Record<string, { ja: string; en: string }> = {
+  spring: { ja: '春', en: 'Spring' },
+  summer: { ja: '夏', en: 'Summer' },
+  autumn: { ja: '秋', en: 'Autumn' },
+  winter: { ja: '冬', en: 'Winter' },
+};
+const seasonLabel = festival.season && seasonLabels[festival.season]
+  ? seasonLabels[festival.season][locale]
+  : null;
+
+const locationLabel = isJa ? festival.location_label_ja : (festival.location_label_en || festival.location_label_ja);
+const prefectureLabel = festival.prefecture;
 ---
-<!DOCTYPE html>
-<html lang={locale}>
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} | {siteName}</title>
-  <meta name="description" content={desc} />
-  <link rel="canonical" href={selfUrl} />
-  <link rel="alternate" hreflang={locale} href={selfUrl} />
-  {otherUrl && <link rel="alternate" hreflang={otherLocale} href={otherUrl} />}
-  <link rel="alternate" hreflang="x-default" href={`https://nipponexus.com/${festival.slug_ja || ''}`} />
-  <meta property="og:title" content={title} />
-  <meta property="og:description" content={desc} />
-  {festival.image_url && <meta property="og:image" content={festival.image_url} />}
-  <meta property="og:locale" content={locale === 'ja' ? 'ja_JP' : 'en_US'} />
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  <style>
-    body { font-family: -apple-system, "Hiragino Sans", sans-serif; max-width: 760px; margin: 0 auto; padding: 24px; color: #1e293b; line-height: 1.8; }
-    h1 { font-size: 28px; border-bottom: 3px solid #7c3aed; padding-bottom: 8px; }
-    h2 { font-size: 22px; color: #5b21b6; margin: 32px 0 12px; }
-    img.hero { width: 100%; height: auto; border-radius: 8px; margin: 16px 0; }
-    .meta { font-size: 13px; color: #64748b; }
-    a { color: #5b21b6; }
-  </style>
-</head>
-<body>
-  <h1>{title}</h1>
-  {festival.image_url && <img class="hero" src={festival.image_url} alt={title} loading="lazy" />}
-  <article set:html={contentHtml}></article>
-  <hr />
-  <p class="meta">
-    {locale === 'ja' ? '出典' : 'Sources'}: Wikipedia, Wikidata
-    {festival.wikipedia_ja && <> · <a href={festival.wikipedia_ja}>Wikipedia (ja)</a></>}
-    {festival.wikipedia_en && <> · <a href={festival.wikipedia_en}>Wikipedia (en)</a></>}
-  </p>
-  {otherUrl && (
-    <p class="meta">
-      {locale === 'ja' ? <>English version: <a href={otherUrl}>{festival.label_en}</a></> : <>日本語版: <a href={otherUrl}>{festival.label_ja}</a></>}
-    </p>
-  )}
-</body>
-</html>
+<BaseLayout
+  title={pageTitle}
+  description={desc}
+  locale={locale}
+  canonical={selfUrl}
+  altLang={otherUrl || undefined}
+  ogImage={festival.image_url || undefined}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
+
+  <section
+    class="article-hero"
+    style={festival.image_url
+      ? `background-image: linear-gradient(135deg, rgba(28,25,23,0.75) 0%, rgba(153,27,27,0.75) 100%), url('${festival.image_url}'); background-size: cover; background-position: center;`
+      : ''}
+  >
+    <div class="article-hero-content">
+      <nav style="font-size:0.85rem;opacity:0.85;margin-bottom:1rem;">
+        <a href={isJa ? '/' : '/en/'} style="color:white;">{isJa ? 'ホーム' : 'Home'}</a>
+        {' / '}
+        <a href={isJa ? '/index/region/' : '/en/index/region/'} style="color:white;">{isJa ? '索引' : 'Index'}</a>
+        {' / '}
+        <span style="opacity:0.7;">{title}</span>
+      </nav>
+      <h1>{title}</h1>
+      <div class="article-meta">
+        {locationLabel && <span>📍 {locationLabel}</span>}
+        {prefectureLabel && prefectureLabel !== locationLabel && <span>🗾 {prefectureLabel}</span>}
+        {seasonLabel && <span>🍃 {seasonLabel}</span>}
+        {festival.inception_year && <span>📜 {isJa ? `${festival.inception_year}年〜` : `Since ${festival.inception_year}`}</span>}
+      </div>
+    </div>
+  </section>
+
+  <article class="article-body bg-asanoha">
+    {contentHtml ? (
+      <div set:html={contentHtml}></div>
+    ) : (
+      <p style="color:var(--color-sumi-light);font-style:italic;">
+        {isJa ? '詳細記事は準備中です。' : 'Detailed article coming soon.'}
+      </p>
+    )}
+
+    <hr style="margin:3rem 0 2rem;border:none;border-top:2px solid var(--color-shu);opacity:0.3;" />
+
+    <section style="background:var(--color-washi-warm);padding:1.5rem;border-radius:8px;margin-bottom:2rem;">
+      <h3 style="margin-top:0;color:var(--color-kincha);">
+        {isJa ? '出典・関連リンク' : 'Sources & Related Links'}
+      </h3>
+      <ul style="list-style:none;padding-left:0;margin:0;">
+        <li style="margin-bottom:0.5rem;">
+          📚 {isJa ? '出典' : 'Sources'}: Wikipedia, Wikidata (CC BY-SA 4.0)
+        </li>
+        {festival.wikipedia_ja && (
+          <li style="margin-bottom:0.5rem;">
+            🇯🇵 <a href={festival.wikipedia_ja} target="_blank" rel="noopener">Wikipedia (日本語)</a>
+          </li>
+        )}
+        {festival.wikipedia_en && (
+          <li style="margin-bottom:0.5rem;">
+            🌐 <a href={festival.wikipedia_en} target="_blank" rel="noopener">Wikipedia (English)</a>
+          </li>
+        )}
+        {otherUrl && (
+          <li style="margin-bottom:0.5rem;">
+            🔁 {isJa ? <>English version: <a href={otherUrl}>{festival.label_en || festival.label_ja}</a></> : <>日本語版: <a href={otherUrl}>{festival.label_ja}</a></>}
+          </li>
+        )}
+      </ul>
+    </section>
+
+    <div style="text-align:center;margin-top:2rem;">
+      <a href={isJa ? '/index/region/' : '/en/index/region/'} class="btn btn-outline">
+        {isJa ? '← 他の祭りを探す' : '← Explore More Festivals'}
+      </a>
+    </div>
+  </article>
+</BaseLayout>

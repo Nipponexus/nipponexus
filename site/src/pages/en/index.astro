@@ -1,24 +1,98 @@
 ---
+import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getDraftedFestivals } from '../../lib/festivals';
+
 const festivals = getDraftedFestivals('en');
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Nipponexus - Festivals of Japan</title>
-  <meta name="description" content="Comprehensive multilingual database of festivals and annual events across Japan." />
-  <link rel="alternate" hreflang="ja" href="https://nipponexus.com/" />
-  <link rel="alternate" hreflang="en" href="https://nipponexus.com/en/" />
-  <style>body{font-family:-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px;line-height:1.8}h1{color:#5b21b6}</style>
-</head>
-<body>
-  <h1>Nipponexus - Festivals of Japan</h1>
-  <p>Comprehensive multilingual database of festivals and annual events across Japan. Publishing in progress.</p>
-  <p><a href="/">日本語 →</a></p>
-  <h2>Published Festivals ({festivals.length})</h2>
-  <ul>
-    {festivals.map(f => <li><a href={`/en/${f.slug_en}`}>{f.label_en}</a> ({f.prefecture || 'Japan'})</li>)}
-  </ul>
-</body>
-</html>
+<BaseLayout
+  title="Nipponexus - Japanese Festivals & Culture"
+  description="A comprehensive database of over 1,200 Japanese festivals and seasonal events, searchable by region, season, and prefecture."
+  locale="en"
+  altLang="https://nipponexus.com/"
+>
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Where Japan's Festivals Converge.</h1>
+      <p class="hero-subtitle">
+        Discover over 1,200 traditional festivals and seasonal events across Japan.<br />
+        Nipponexus is your gateway to Japanese culture, for the world.
+      </p>
+      <div class="hero-cta">
+        <a href="/en/index/region/" class="btn btn-primary">Explore Festivals</a>
+      </div>
+    </div>
+    <div class="hero-scroll">↓ Scroll</div>
+  </section>
+
+  <section class="section bg-seigaiha">
+    <div class="container">
+      <div class="reveal" style="text-align:center;">
+        <h2>Browse by Season</h2>
+        <p style="color:var(--color-sumi-light);max-width:600px;margin:0 auto;">
+          Each season brings festivals you can only experience in that moment.
+        </p>
+      </div>
+      <div class="season-grid">
+        <a href="/en/index/season/#spring" class="season-card season-spring reveal">
+          <h3>Spring</h3>
+          <p>New beginnings under the cherry blossoms</p>
+        </a>
+        <a href="/en/index/season/#summer" class="season-card season-summer reveal">
+          <h3>Summer</h3>
+          <p>Fire, mikoshi, and the heart of Japanese summer</p>
+        </a>
+        <a href="/en/index/season/#autumn" class="season-card season-autumn reveal">
+          <h3>Autumn</h3>
+          <p>Festivals of harvest and gratitude</p>
+        </a>
+        <a href="/en/index/season/#winter" class="season-card season-winter reveal">
+          <h3>Winter</h3>
+          <p>Snow, light, and quiet wonder</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="reveal" style="text-align:center;">
+        <h2>Featured Festivals</h2>
+        <p style="color:var(--color-sumi-light);">Recently added and carefully curated</p>
+      </div>
+      <div class="festival-grid">
+        {festivals.map((f) => (
+          <a href={`/en/${f.slug_en}/`} class="festival-card reveal">
+            <div
+              class="festival-card-image"
+              style={f.image_url ? `background-image:url('${f.image_url}')` : ''}
+            />
+            <div class="festival-card-body">
+              <h3 class="festival-card-title">{f.label_en || f.label_ja}</h3>
+              <p class="festival-card-meta">
+                {f.prefecture || 'Japan'} · {f.season || 'Year-round'}
+              </p>
+            </div>
+          </a>
+        ))}
+      </div>
+      {festivals.length === 0 && (
+        <p style="text-align:center;color:var(--color-sumi-light);margin-top:2rem;">
+          Coming soon. Content is being curated.
+        </p>
+      )}
+    </div>
+  </section>
+
+  <section class="section bg-asanoha">
+    <div class="container-narrow reveal" style="text-align:center;">
+      <h2>About Nipponexus</h2>
+      <p>
+        Nipponexus is a non-commercial database project documenting Japanese festivals, seasonal events, and traditional culture, built upon collaborative data from Wikidata and Wikipedia.
+      </p>
+      <p>
+        All content is provided under the <strong>CC BY-SA 4.0</strong> license, free for research, education, and tourism.
+      </p>
+      <a href="/" class="btn btn-outline" style="margin-top:1rem;">日本語版 →</a>
+    </div>
+  </section>
+</BaseLayout>

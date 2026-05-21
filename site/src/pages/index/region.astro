@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import IndexTabs from '../../components/IndexTabs.astro';
+import IndexSection from '../../components/IndexSection.astro';
+import { getAllFestivalsForIndex, groupByRegion } from '../../lib/festivals';
+const all = getAllFestivalsForIndex('ja');
+const groups = groupByRegion(all, 'ja');
+---
+<BaseLayout
+  title="地域から探す | Nipponexus 日本の祭り図鑑"
+  description="日本全国の祭りを8地域（北海道・東北・関東・中部・関西・中国・四国・九州・沖縄）から探せる索引ページ。"
+  locale="ja"
+  altLang="https://nipponexus.com/en/index/region/"
+>
+  <section class="index-hero">
+    <div class="container">
+      <h1>地域から探す</h1>
+      <p>日本を8つの地域に分けて、祭りを見つけよう。</p>
+    </div>
+  </section>
+  <div class="container" style="padding-top:2rem;">
+    <IndexTabs active="region" locale="ja" />
+    <IndexSection groups={groups} locale="ja" />
+  </div>
+</BaseLayout>
