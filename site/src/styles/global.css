@@ -44,7 +44,12 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+html, body {
+  min-height: 100vh;
+}
 body {
+  display: flex;
+  flex-direction: column;
   font-family: var(--font-sans);
   color: var(--color-sumi);
   background-color: var(--color-washi);
@@ -597,3 +602,6 @@ a:hover { color: var(--color-shu-dark); }
   background: var(--color-shu);
   color: white;
 }
+
+
+main { flex: 1 0 auto; display: block; }
