@@ -8,7 +8,7 @@ const { groups, locale } = Astro.props;
 const isJa = locale === 'ja';
 ---
 {groups.map(g => (
-  <section class="reveal" id={g.key} style="margin-bottom:3rem;">
+  <section class="reveal" id={g.key} style="margin-bottom:2rem;">
     <h2 style="display:flex;align-items:baseline;gap:1rem;margin-bottom:1rem;border-bottom:3px solid var(--color-shu);padding-bottom:0.5rem;">
       {g.label}
       <span style="font-size:1rem;color:var(--color-sumi-light);font-weight:normal;">
