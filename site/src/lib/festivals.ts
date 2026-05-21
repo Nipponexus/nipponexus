@@ -80,7 +80,7 @@ export interface GroupedFestivals {
 }
 
 export function groupByRegion(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
-  const regionOrder = ['hokkaido', 'tohoku', 'kanto', 'chubu', 'kansai', 'chugoku', 'shikoku', 'kyushu', 'okinawa', 'unknown'];
+  const regionOrder = ['hokkaido', 'tohoku', 'kanto', 'chubu', 'kansai', 'chugoku', 'shikoku', 'kyushu', 'okinawa'];
   const regionLabels: Record<string, { ja: string; en: string }> = {
     hokkaido: { ja: '北海道', en: 'Hokkaido' },
     tohoku: { ja: '東北', en: 'Tohoku' },
@@ -95,7 +95,8 @@ export function groupByRegion(festivals: Festival[], locale: 'ja' | 'en'): Group
   };
   const map = new Map<string, Festival[]>();
   for (const f of festivals) {
-    const k = f.region || 'unknown';
+    if (!f.region) continue;  // 地域未確定は除外
+    const k = f.region;
     if (!map.has(k)) map.set(k, []);
     map.get(k)!.push(f);
   }
@@ -105,7 +106,7 @@ export function groupByRegion(festivals: Festival[], locale: 'ja' | 'en'): Group
 }
 
 export function groupBySeason(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
-  const seasonOrder = ['spring', 'summer', 'autumn', 'winter', 'unknown'];
+  const seasonOrder = ['spring', 'summer', 'autumn', 'winter'];
   const seasonLabels: Record<string, { ja: string; en: string }> = {
     spring: { ja: '春', en: 'Spring' },
     summer: { ja: '夏', en: 'Summer' },
@@ -115,7 +116,8 @@ export function groupBySeason(festivals: Festival[], locale: 'ja' | 'en'): Group
   };
   const map = new Map<string, Festival[]>();
   for (const f of festivals) {
-    const k = f.season || 'unknown';
+    if (!f.season) continue;  // 季節未確定は除外
+    const k = f.season;
     if (!map.has(k)) map.set(k, []);
     map.get(k)!.push(f);
   }
@@ -127,7 +129,8 @@ export function groupBySeason(festivals: Festival[], locale: 'ja' | 'en'): Group
 export function groupByPrefecture(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
   const map = new Map<string, Festival[]>();
   for (const f of festivals) {
-    const k = f.prefecture || (locale === 'ja' ? '不明' : 'Unknown');
+    if (!f.prefecture) continue;  // 都道府県未確定は除外
+    const k = f.prefecture;
     if (!map.has(k)) map.set(k, []);
     map.get(k)!.push(f);
   }
