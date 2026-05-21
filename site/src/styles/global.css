@@ -111,6 +111,9 @@ a:hover { color: var(--color-shu-dark); }
 .section {
   padding: var(--space-lg) 0;
 }
+.section:last-child {
+  padding-bottom: var(--space-md);
+}
 
 /* ============================================
    ボタン
@@ -301,6 +304,40 @@ a:hover { color: var(--color-shu-dark); }
   margin: 0;
   opacity: 0.95;
   font-size: 0.95rem;
+  position: relative;
+  z-index: 3;
+}
+.season-card h3 {
+  position: relative;
+  z-index: 3;
+}
+.season-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='104' viewBox='0 0 60 104'><g fill='none' stroke='white' stroke-width='1.5' opacity='0.50'><path d='M30 0 L60 17 L60 52 L30 69 L0 52 L0 17 Z'/><path d='M30 0 L30 69 M0 17 L60 52 M60 17 L0 52'/><path d='M30 35 L60 52 L30 69 L0 52 Z'/></g></svg>");
+  pointer-events: none;
+  z-index: 1;
+  transition: transform 0.6s ease, opacity 0.4s ease;
+}
+.season-card::after {
+  content: '';
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 180px;
+  height: 180px;
+  background: radial-gradient(circle, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0) 70%);
+  border-radius: 50%;
+  z-index: 2;
+  pointer-events: none;
+  transition: transform 0.6s ease;
+}
+.season-card:hover::before {
+  transform: rotate(8deg) scale(1.15);
+}
+.season-card:hover::after {
+  transform: scale(1.3);
 }
 
 /* ============================================
@@ -439,7 +476,7 @@ a:hover { color: var(--color-shu-dark); }
   background: var(--color-sumi);
   color: var(--color-washi);
   padding: var(--space-lg) 0 var(--space-md);
-  margin-top: var(--space-md);
+  margin-top: 0;
 }
 
 .site-footer-inner {
@@ -567,10 +604,24 @@ a:hover { color: var(--color-shu-dark); }
    索引ページ
    ============================================ */
 .index-hero {
+  position: relative;
   background: linear-gradient(135deg, var(--color-asagi) 0%, #1e40af 100%);
   color: white;
   padding: var(--space-lg) 0;
   text-align: center;
+  overflow: hidden;
+}
+.index-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='40' viewBox='0 0 80 40'><g fill='none' stroke='white' stroke-width='1.5' opacity='0.45'><circle cx='20' cy='40' r='20'/><circle cx='60' cy='40' r='20'/><circle cx='0' cy='40' r='20'/><circle cx='80' cy='40' r='20'/><circle cx='40' cy='40' r='20'/><circle cx='20' cy='20' r='20'/><circle cx='60' cy='20' r='20'/><circle cx='40' cy='20' r='20'/></g></svg>");
+  animation: heroPattern 80s linear infinite;
+  pointer-events: none;
+}
+.index-hero > * {
+  position: relative;
+  z-index: 2;
 }
 
 .index-hero h1 { color: white; }
