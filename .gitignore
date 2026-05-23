@@ -45,3 +45,4 @@ data/sqlite/*.db
 data/sqlite/*.db-journal
 data/sqlite/*.db-shm
 data/sqlite/*.db-wal
+data/sqlite/
