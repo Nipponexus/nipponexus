@@ -80,13 +80,13 @@ export interface GroupedFestivals {
 }
 
 export function groupByRegion(festivals: Festival[], locale: 'ja' | 'en'): GroupedFestivals[] {
-  const regionOrder = ['hokkaido', 'tohoku', 'kanto', 'chubu', 'kansai', 'chugoku', 'shikoku', 'kyushu', 'okinawa'];
+  const regionOrder = ['hokkaido', 'tohoku', 'kanto', 'chubu', 'kinki', 'chugoku', 'shikoku', 'kyushu', 'okinawa'];
   const regionLabels: Record<string, { ja: string; en: string }> = {
     hokkaido: { ja: '北海道', en: 'Hokkaido' },
     tohoku: { ja: '東北', en: 'Tohoku' },
     kanto: { ja: '関東', en: 'Kanto' },
     chubu: { ja: '中部', en: 'Chubu' },
-    kansai: { ja: '関西', en: 'Kansai' },
+    kinki: { ja: '近畿', en: 'Kinki' },
     chugoku: { ja: '中国', en: 'Chugoku' },
     shikoku: { ja: '四国', en: 'Shikoku' },
     kyushu: { ja: '九州', en: 'Kyushu' },
