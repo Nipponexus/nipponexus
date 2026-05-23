@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prebuild": "cd .. && bash scripts/restore_db.sh"
+    "prebuild": "cd .. && python3 scripts/restore_db.py"
   },
   "dependencies": {
     "astro": "^6.3.6",
