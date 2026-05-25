@@ -1314,11 +1314,83 @@ INSERT INTO "festivals" VALUES('Q124363255','山留め','Yamadome','博多祇園
 INSERT INTO "festivals" VALUES('Q121646023','JAMAICA FESTIVAL レゲエ＆キュイジーヌ','Jamaica Festival Reggae & Cuisine in Tokyo',NULL,NULL,'Q1204253','代々木公園','Yoyogi Park',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q122353106','大湯祭','Daitōsai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%AF%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q117006841','POP YOURS','POP YOURS','日本のヒップホップフェスティバル','Japanese hip hop festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2022,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/POP_YOURS',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q116056816','2027年国際園芸博覧会','International Horticultural Expo 2027','2027年に神奈川県横浜市で開催予定の国際園芸博覧会','International Horticultural Expo in Yokohama, Japan','Q4420137','上瀬谷通信施設','Naval Support Facility Kamiseya','神奈川県','kanto',35.486388888,139.490277777,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Expo%202027.svg','https://ja.wikipedia.org/wiki/2027%E5%B9%B4%E5%9B%BD%E9%9A%9B%E5%9C%92%E8%8A%B8%E5%8D%9A%E8%A6%A7%E4%BC%9A',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q116056816','2027年国際園芸博覧会','International Horticultural Expo 2027','2027年に神奈川県横浜市で開催予定の国際園芸博覧会','International Horticultural Expo in Yokohama, Japan','Q4420137','上瀬谷通信施設','Naval Support Facility Kamiseya','神奈川県','kanto',35.486388888,139.490277777,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Expo%202027.svg','https://ja.wikipedia.org/wiki/2027%E5%B9%B4%E5%9B%BD%E9%9A%9B%E5%9C%92%E8%8A%B8%E5%8D%9A%E8%A6%A7%E4%BC%9A',NULL,95,'drafted','## 概要
+
+2027年国際園芸博覧会（GREEN×EXPO 2027）は、神奈川県横浜市旭区・瀬谷区の上瀬谷通信施設跡地で2027年3月19日から9月26日まで開催予定の国際園芸博覧会である。国際園芸家協会（AIPH）認定のA1クラス（最高位）に位置付けられ、テーマは「幸せを創る明日の風景」。日本では1990年の大阪「花の万博」以来37年ぶりの国際園芸博覧会となる。
+
+## 歴史
+
+会場となる上瀬谷地区は戦後長らく米軍通信施設として使用され、2015年に返還された242ヘクタールの広大な土地である。返還跡地の活用策として横浜市が国際園芸博覧会の招致を進め、2017年にAIPH承認、2020年にBIE（博覧会国際事務局）承認を取得した。コロナ禍を経て、2024年に正式名称「GREEN×EXPO 2027」が決定し、準備が本格化している。
+
+## 見どころ
+
+園芸・農業・環境技術を融合した最先端の屋外展示が中心で、世界各国のガーデンデザイン、日本古来の園芸文化、SDGsやカーボンニュートラルに対応する次世代農業技術が一堂に集まる。会期中は約1,500万人の来場が見込まれ、夜間ライトアップやドローンショーなど演出も計画されている。
+
+## 開催情報・アクセス
+
+会場は神奈川県横浜市旭区・瀬谷区の上瀬谷通信施設跡地（約80ヘクタール使用）。最寄駅は相鉄線瀬谷駅で、シャトルバスや臨時鉄道アクセスが整備される予定。会期は2027年3月19日〜9月26日の192日間。
+
+## 周辺観光
+
+横浜市内には横浜赤レンガ倉庫、みなとみらい21、横浜中華街など定番観光地が揃い、博覧会と組み合わせた周遊観光が想定される。近隣の瀬谷区・旭区は里山風景が残り、農業体験施設や四季の森公園など自然観光も楽しめる。','## Overview
+
+The International Horticultural Expo 2027 (GREEN×EXPO 2027) is an international horticultural exposition scheduled to be held from March 19 to September 26, 2027, on the former Kamiseya Communications Facility site spanning Asahi Ward and Seya Ward in Yokohama City, Kanagawa Prefecture. Recognized by the International Association of Horticultural Producers (AIPH) as an A1-class event (the highest rank), the expo carries the theme "Scenery of the Future for Happiness." It marks Japan''s first international horticultural exposition in 37 years since the 1990 "Flower Expo" in Osaka.
+
+## History
+
+The Kamiseya district that will serve as the venue was used as a United States military communications facility for many decades after World War II, with the 242-hectare expanse returned to Japan in 2015. Yokohama City pursued the hosting of an international horticultural exposition as a strategy for utilizing the returned land. The city secured AIPH approval in 2017 and recognition from the Bureau International des Expositions (BIE) in 2020. After delays related to the COVID-19 pandemic, the official name "GREEN×EXPO 2027" was finalized in 2024, and preparations entered their main phase.
+
+## Highlights
+
+The expo will feature cutting-edge outdoor displays integrating horticulture, agriculture, and environmental technologies, bringing together garden designs from countries worldwide, traditional Japanese horticultural culture, and next-generation agricultural technologies responding to the SDGs and carbon neutrality goals. Approximately 15 million visitors are expected during the run, and elaborate evening illuminations and drone shows are being planned to provide spectacular nighttime entertainment.
+
+## Event Details and Access
+
+The venue occupies approximately 80 hectares of the former Kamiseya Communications Facility site straddling Asahi Ward and Seya Ward in Yokohama City, Kanagawa Prefecture. The nearest station is Seya Station on the Sōtetsu Line, with shuttle bus services and temporary rail access infrastructure being developed for the event. The exposition runs for 192 days from March 19 to September 26, 2027.
+
+## Surrounding Attractions
+
+Yokohama City offers a wealth of established tourist attractions including the Yokohama Red Brick Warehouse, Minato Mirai 21 district, and Yokohama Chinatown, allowing visitors to combine the expo with broader sightseeing tours. The neighboring Seya and Asahi wards preserve traditional satoyama countryside landscapes, with agricultural experience facilities and Shiki no Mori Park offering additional nature-focused attractions to complement the horticultural theme of the expo itself.','international-horticultural-expo-2027','international-horticultural-expo-2027',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q117084954','パンムジーク・フェスティバル東京',NULL,'日本で開催された現代音楽の音楽祭',NULL,'Q3892342','東京文化会館','Tokyo Bunka Kaikan','東京都','kanto',NULL,NULL,1976,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%A0%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E6%9D%B1%E4%BA%AC',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q123698819','紅葉八幡宮獅子まつり','Momiji Hachiman-gū Shishi Matsuri','福岡市文化財保護条例に基づき無形民俗文化財に登録された祭り',NULL,'Q110915527','高取','Takatori',NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q124751043','土祭','Hijisai','日本の栃木県益子町で行われている町おこしアートフェスティバル','Japanese Tochigi, Mashiko, community building art festival','Q122146730','陶芸メッセ・益子','Ceramic Art Messe Mashiko','栃木県','kanto',NULL,NULL,2009,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q115680256','横手の雪まつり','Yokote’s Winter Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.31395,140.565816666,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kamakura%20at%20Yokote%20Castle%20202402.jpg','https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q115680256','横手の雪まつり','Yokote’s Winter Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.31395,140.565816666,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kamakura%20at%20Yokote%20Castle%20202402.jpg','https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
+
+横手の雪まつり（よこてのゆきまつり）は、秋田県横手市で毎年2月15日・16日に開催される、約450年の歴史を持つ小正月の伝統行事である。市内各所に大小100基以上の「かまくら」が築かれ、内部に祀られた水神様に家内安全・五穀豊穣を祈願する、日本を代表する雪の祭典のひとつである。
+
+## 歴史
+
+横手のかまくらは室町時代後期から続く伝統行事とされ、武家の左義長（小正月の火祭り）と商人の鎌倉大明神信仰、農民の井戸の神信仰などが融合して成立した。江戸期には町内ごとに大規模なかまくらが築かれ、子どもたちが籠もって甘酒・餅を振る舞う風習が定着した。1936年（昭和11年）にドイツの建築家ブルーノ・タウトが訪れて絶賛したことでも知られ、戦後は観光行事として再興され、現在の規模に発展した。
+
+## 見どころ
+
+メイン会場の横手公園・羽黒町通りなどに高さ約3メートルの大型かまくらが並び、内部では子どもたちが「はいってたんせ（入ってください）」「おがんでたんせ（お参りしてください）」と訪問客を招き入れ、甘酒や餅をふるまう。蛇の崎川原には数千の小型「ミニかまくら」にろうそくが灯され、雪原に幻想的な光の海が広がる。
+
+## 開催情報・アクセス
+
+会場は秋田県横手市中心部の複数エリア（横手公園・羽黒町通り・蛇の崎川原ほか）。JR奥羽本線横手駅から徒歩圏内で、観覧は無料。2日間で約30万人の来場者を迎える。
+
+## 周辺観光
+
+横手市内には増田町の伝統的建造物群保存地区、後三年合戦金沢資料館、横手城址など、平安〜近世の歴史を感じる観光地が多い。冬季はかまくら以外にもボンデン祭り、横手やきそばも名物として人気。','## Overview
+
+The Yokote Snow Festival (Yokote no Yuki Matsuri), also known as the Kamakura Festival, is a traditional Koshōgatsu (Little New Year) celebration with approximately 450 years of history, held annually on February 15 and 16 in Yokote City, Akita Prefecture. More than 100 large and small "kamakura" snow huts are constructed throughout the city, each enshrining the water deity (Suijin) within, before whom visitors pray for family safety and bountiful harvests. It stands as one of Japan''s most iconic snow festivals.
+
+## History
+
+The Yokote kamakura tradition is believed to date back to the late Muromachi period, evolving from a fusion of the warrior class Sagichō fire festival of Koshōgatsu, merchant veneration of the Kamakura Daimyōjin deity, and rural worship of well-water gods. During the Edo period, each neighborhood constructed large kamakura where children would gather to serve sweet amazake rice drink and rice cakes to visitors, establishing customs still practiced today. The festival gained international recognition when German architect Bruno Taut visited in 1936 (Shōwa 11) and praised it enthusiastically in his writings. After World War II, the festival was revived as a major tourist event and developed into its current grand scale.
+
+## Highlights
+
+At main venues such as Yokote Park and Haguro-machi Street, large kamakura snow huts approximately three meters tall stand in long rows. Inside each hut, children warmly invite passersby with the dialect calls "Haitte tanse" (Please come in) and "Ogande tanse" (Please pray), offering visitors amazake and grilled mochi. At the Janosaki riverside, thousands of palm-sized "mini-kamakura" are lined up in the snow with candles flickering inside, creating an enchanting sea of warm light across the snowscape that has become an iconic image of Japanese winter.
+
+## Event Details and Access
+
+The festival takes place across multiple areas of central Yokote City, including Yokote Park, Haguro-machi Street, and the Janosaki riverside. All venues are within walking distance of Yokote Station on the JR Ōu Main Line, and admission is free. The two-day event attracts approximately 300,000 visitors annually.
+
+## Surrounding Attractions
+
+Yokote City offers numerous historical attractions, including the Masuda traditional architecture preservation district featuring magnificent Edo and Meiji-period merchant houses, the Gosannen Battle Kanazawa Museum commemorating the late Heian-period conflict, and the ruins of Yokote Castle. The winter season also features the Bonden Festival and the famous Yokote Yakisoba noodles, making the area a rich destination for both cultural and culinary tourism.','yokote-no-yuki-matsuri','yokote-no-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q116838033','八代妙見祭','Yatsushiro Myōken Festival','熊本県八代市にある八代神社の秋の例大祭',NULL,'Q11428677','塩屋八幡宮','Shioya Hachimangū','熊本県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q116045081','未体験ゾーンの映画たち','Movies in the Unexperienced Zone','東京テアトル株式会社主催の劇場発信型映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%AA%E4%BD%93%E9%A8%93%E3%82%BE%E3%83%BC%E3%83%B3%E3%81%AE%E6%98%A0%E7%94%BB%E3%81%9F%E3%81%A1',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q123294949','日本セルビア映画祭','Japanese Serbian Film Festival',NULL,NULL,'Q3711','ベオグラード','Belgrade',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2282,22 +2354,166 @@ INSERT INTO "festivals" VALUES('Q11546062','武生国際音楽祭','Takefu Inter
 INSERT INTO "festivals" VALUES('Q11557606','浜名湖花博','Pacific Flora 2004',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%90%8D%E6%B9%96%E8%8A%B1%E5%8D%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11533908','染織祭',NULL,NULL,NULL,'Q34600','京都市','Kyoto','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9F%93%E7%B9%94%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11573781','琴弾八幡宮大祭','Kotohiki Hachimangū Taisai','香川県観音寺市の琴弾八幡宮の秋季大祭',NULL,'Q3199184','琴弾八幡宮','Kotohiki Hachimangū','香川県','shikoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nanagouchi.jpg','https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AB%E5%B9%A1%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11549314','水郷潮来あやめまつり','Suigō Itako Iris Festival','茨城県潮来市の水郷潮来あやめ園で行われる祭り',NULL,'Q11397147','水郷潮来あやめ園','Suigō Itako Iris Garden','茨城県','kanto',35.9366,140.5461,1952,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Suigo%20Itako%20Ayame%20Garden%2015.jpg','https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E6%BD%AE%E6%9D%A5%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11549314','水郷潮来あやめまつり','Suigō Itako Iris Festival','茨城県潮来市の水郷潮来あやめ園で行われる祭り',NULL,'Q11397147','水郷潮来あやめ園','Suigō Itako Iris Garden','茨城県','kanto',35.9366,140.5461,1952,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Suigo%20Itako%20Ayame%20Garden%2015.jpg','https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E6%BD%AE%E6%9D%A5%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
+
+水郷潮来あやめまつり（すいごういたこあやめまつり）は、茨城県潮来市の水郷潮来あやめ園で毎年5月下旬から6月下旬にかけて開催される、約100万本のあやめ・花菖蒲が咲き誇る大規模な花の祭典である。1952年（昭和27年）に始まり、関東屈指のあやめ名所として知られる。
+
+## 歴史
+
+潮来は江戸時代から水運で栄えた水郷の町として、利根川と霞ヶ浦・北浦を結ぶ要衝に位置し、湿地帯に自生していたあやめが古くから親しまれてきた。1932年（昭和7年）、地元有志が観光資源としてあやめ園の整備を始め、1952年に正式に「あやめまつり」として開催が始まった。1955年に発表された花村菊江の歌謡曲「潮来花嫁さん」のヒットにより全国的に知名度が高まり、嫁入り舟をはじめとする観光イベントが定着していった。
+
+## 見どころ
+
+園内には約500種100万本のあやめ・花菖蒲が植えられ、紫・白・黄・絞り模様など多彩な品種が見頃を迎える。期間中の土日には「嫁入り舟」が運行され、白無垢の花嫁が舟で水路を渡る往時の婚礼風景が再現される。夜間ライトアップやろ舟遊覧、地元産品の販売も行われる。
+
+## 開催情報・アクセス
+
+会場は水郷潮来あやめ園（茨城県潮来市あやめ1-5）。JR鹿島線潮来駅から徒歩約3分とアクセス良好で、入園は無料。期間中は約80万人の観光客が訪れる。
+
+## 周辺観光
+
+近隣には霞ヶ浦・北浦の水辺景観、鹿島神宮、香取神宮など歴史的な観光地が点在し、舟運の名残を伝える前川を巡るろ舟遊覧も人気。','## Overview
+
+The Suigō Itako Iris Festival (Suigō Itako Ayame Matsuri) is a major flower festival held annually from late May to late June at the Suigō Itako Ayame Garden in Itako City, Ibaraki Prefecture, showcasing approximately one million iris and Japanese iris (hanashōbu) blooms. Begun in 1952, it is recognized as one of the most renowned iris-viewing destinations in the Kantō region and a signature event of Japan''s "water country" cultural tradition.
+
+## History
+
+Itako thrived as a water-transport hub during the Edo period, strategically located where the Tone River meets Lake Kasumigaura and Lake Kitaura. Native irises growing in the surrounding wetlands have long been cherished by local residents. In 1932 (Shōwa 7), local volunteers began developing the iris garden as a tourism resource, and in 1952 the official "Iris Festival" was launched. The release of Kikue Hanamura''s popular song "Itako Hanayome-san" (Bride of Itako) in 1955 propelled the festival to nationwide fame, and tourist events such as the bridal boat procession became firmly established traditions.
+
+## Highlights
+
+The garden hosts approximately 500 varieties and one million iris plants, displaying a spectacular palette of purple, white, yellow, and variegated blooms at peak bloom. On weekends during the festival period, the famous "Bridal Boat" (Yomeiri-bune) procession reenacts traditional water-borne wedding ceremonies, with brides in pristine white wedding kimono ferried across the canal in wooden boats. Evening illuminations, traditional rowboat (ro-bune) tours of the surrounding waterways, and stalls selling local specialty products complement the floral display.
+
+## Event Details and Access
+
+The venue is the Suigō Itako Ayame Garden (1-5 Ayame, Itako City, Ibaraki Prefecture), conveniently located about a three-minute walk from Itako Station on the JR Kashima Line, with free admission throughout the festival. The event draws approximately 800,000 visitors during its month-long run.
+
+## Surrounding Attractions
+
+Nearby attractions include the scenic waterscapes of Lake Kasumigaura and Lake Kitaura, the historic Kashima Shrine and Katori Shrine, and ro-bune rowboat tours along the Maekawa River that preserve the atmosphere of the old water-transport era. The combination of traditional canals, flowers, and shrines offers visitors an immersive experience of Japan''s water culture heritage.','suigo-itako-ayame-matsuri','suigo-itako-ayame-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11537271','桐生八木節まつり','Kiryū Yagibushi festival',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11614771','芦別健夏山笠','Ashibetsu Kenka Yamakasa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%88%A5%E5%81%A5%E5%A4%8F%E5%B1%B1%E7%AC%A0',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11594394','福神流','Fukujin-nagare','博多松囃子（博多どんたく）の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%A5%9E%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11580598','白鳥神社','Shiratori Shrine','大阪府羽曳野市にある神社','Shinto shrine in Habikino, Japan',NULL,NULL,NULL,'大阪府','kinki',34.553777777,135.609416666,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Shiratori-jinja%20haiden.jpg','https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B3%A5%E7%A5%9E%E7%A4%BE_(%E7%BE%BD%E6%9B%B3%E9%87%8E%E5%B8%82)',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11580598','白鳥神社','Shiratori Shrine','大阪府羽曳野市にある神社','Shinto shrine in Habikino, Japan',NULL,NULL,NULL,'大阪府','kinki',34.553777777,135.609416666,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Shiratori-jinja%20haiden.jpg','https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B3%A5%E7%A5%9E%E7%A4%BE_(%E7%BE%BD%E6%9B%B3%E9%87%8E%E5%B8%82)',NULL,95,'drafted','## 概要
+
+白鳥神社（しらとりじんじゃ）は、大阪府羽曳野市古市にある神社で、ヤマトタケル（日本武尊）を祀る式内社級の古社である。例祭は毎年10月に行われ、地元では「白鳥さん」と呼ばれ親しまれる。古市古墳群の中心部に位置し、ヤマトタケル伝説と深く結びついた由緒を持つ。
+
+## 歴史
+
+『古事記』『日本書紀』が伝えるところによれば、ヤマトタケルは東征から大和への帰途に伊勢国能煩野で病没し、その魂が白鳥となって大和琴弾原を経て河内古市に降り立ったとされる。白鳥神社はこの白鳥伝説の終焉地として古市古墳群（応神天皇陵の南方）に鎮座し、ヤマトタケルの霊を祀ったのが起源と伝わる。律令期には朝廷の崇敬を受け、中世を通じて地域の守護神として崇められてきた。
+
+## 見どころ
+
+社殿は江戸期の建築様式を残し、境内には白鳥伝説を象徴する白鳥のレリーフや、古墳群と一体化した深い杜の景観が広がる。古市古墳群（2019年世界遺産登録）の構成資産に隣接し、近接する白鳥陵古墳（軽里大塚古墳）はヤマトタケルの陵墓に治定されている。
+
+## 開催情報・アクセス
+
+近鉄南大阪線古市駅から徒歩約10分。境内は終日参拝自由。例祭は10月に執り行われ、地元自治会による神輿渡御や奉納行事が行われる。
+
+## 周辺観光
+
+百舌鳥・古市古墳群（世界遺産）の応神天皇陵古墳、白鳥陵古墳、誉田八幡宮など、古代史の核心に触れられる史跡が密集する。羽曳野市・藤井寺市一帯は古墳ウォーキングルートが整備されており、徒歩で多くの古墳を巡ることができる。','## Overview
+
+Shiratori Shrine (Shiratori Jinja) is an ancient shrine located in Furuichi, Habikino City, Osaka Prefecture, enshrining Yamato Takeru no Mikoto, the legendary prince of the Yamato royal family. Recognized at the rank of a Shikinaisha (shrine listed in the 10th-century Engishiki register), the shrine holds its annual main festival each October and is affectionately known to locals as "Shiratori-san." Situated within the heart of the Furuichi Kofun Cluster, it preserves deep connections to the legend of Yamato Takeru.
+
+## History
+
+According to the Kojiki and Nihon Shoki, Japan''s earliest chronicles, Prince Yamato Takeru fell ill and died at Nobono in Ise Province on his return journey from his eastern military campaign. His soul is said to have transformed into a white swan that flew via the Kotohiki Plain in Yamato before alighting at Furuichi in Kawachi Province. Shiratori Shrine was established at this final landing site of the swan, within what would later become the Furuichi Kofun Cluster south of Emperor Ōjin''s mausoleum, and is believed to have originated as a place of worship for the spirit of Yamato Takeru. During the Ritsuryō period, the shrine received imperial patronage, and throughout the medieval era it was venerated as a guardian deity of the surrounding region.
+
+## Highlights
+
+The main shrine hall preserves architectural elements from the Edo period, while the precincts feature reliefs depicting the swan symbolizing the Yamato Takeru legend and a deep forest landscape integrated with the surrounding ancient burial mounds. The shrine is adjacent to constituent sites of the Mozu-Furuichi Kofun Cluster, which was inscribed on the UNESCO World Heritage List in 2019. The nearby Shiratori-ryō Kofun (also known as Karusato Ōtsuka Kofun) is officially designated by the Imperial Household Agency as the tomb of Yamato Takeru himself.
+
+## Event Details and Access
+
+The shrine is approximately a ten-minute walk from Furuichi Station on the Kintetsu Minami-Osaka Line. The grounds are open for worship throughout the day. The annual main festival is held in October, featuring a portable shrine (mikoshi) procession organized by local neighborhood associations and various dedicatory rituals.
+
+## Surrounding Attractions
+
+The area is densely packed with historic sites at the heart of ancient Japanese history, including the Mozu-Furuichi Kofun Cluster (a UNESCO World Heritage Site) with the Emperor Ōjin Mausoleum Tumulus, the Shiratori-ryō Kofun, and Konda Hachimangū Shrine. The Habikino and Fujiidera area has developed an extensive kofun walking route system, enabling visitors to explore numerous ancient burial mounds on foot in a single immersive cultural pilgrimage.','shiratori-jinja-habikino','shiratori-jinja-habikino',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11629036','西流','Nishi-nagare','博多祇園山笠や博多松囃子（博多どんたく）の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11613747','舟っこ流し','Funekko Nagashi','盆の送り火・精霊舟の一種','annual event in Morioka, Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%88%9F%E3%81%A3%E3%81%93%E6%B5%81%E3%81%97',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596078','秦野たばこ祭','Hadano Tobacco Festival',NULL,NULL,'Q460806','秦野市','Hadano',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%A6%E9%87%8E%E3%81%9F%E3%81%B0%E3%81%93%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11586814','石清水祭','Iwashimizu-sai','京都府八幡市の石清水八幡宮の例祭',NULL,'Q710098','石清水八幡宮','Iwashimizu Hachimangū','京都府','kinki',NULL,NULL,863,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%B8%85%E6%B0%B4%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎年7月に福島県相馬市および南相馬市で開催される祭り・神事',NULL,NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/The%20Soma%20Nomaoi%202005-5.jpg','https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E9%87%8E%E9%A6%AC%E8%BF%BD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11612066','能褒野神社','Nobono Shrine','三重県亀山市田村町にある神社','Shinto shrine in Mie Prefecture, Japan',NULL,NULL,NULL,'三重県','kinki',34.886111,136.482778,1895,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nobono-jinja%20torii.JPG','https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%A5%9E%E7%A4%BE',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11612066','能褒野神社','Nobono Shrine','三重県亀山市田村町にある神社','Shinto shrine in Mie Prefecture, Japan',NULL,NULL,NULL,'三重県','kinki',34.886111,136.482778,1895,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nobono-jinja%20torii.JPG','https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
+
+能褒野神社(のぼのじんじゃ)は、三重県亀山市田村町にある神社で、ヤマトタケル(日本武尊)を主祭神として祀る古社である。背後に控える能褒野墓は、宮内庁によりヤマトタケルの陵墓に治定されており、白鳥伝説発祥の地として歴史的価値が極めて高い。
+
+## 歴史
+
+『古事記』『日本書紀』によれば、ヤマトタケルは東国遠征の帰途、伊吹山の神との戦いで深手を負い、伊勢国能褒野の地でこの世を去ったとされる。これがいわゆる「能褒野の物語」であり、その魂は白鳥となって大和、河内へと飛び立ち、各地に白鳥伝説の聖地を残した。能褒野神社は明治12年(1879年)に宮内省がヤマトタケルの陵墓を能褒野王塚古墳に治定したことを受け、明治28年(1895年)に正式に創建された比較的新しい社だが、伝承の歴史は古代まで遡る。
+
+## 見どころ
+
+社殿は明治期の神社建築様式で整えられ、深い杜に囲まれた静謐な境内が広がる。背後の能褒野王塚古墳(全長約90メートルの前方後円墳)はヤマトタケル陵として宮内庁管理下にあり、神社の聖性を一層高めている。秋季例大祭(10月)には地元による神輿渡御や雅楽の奉納が行われる。
+
+## 開催情報・アクセス
+
+JR関西本線井田川駅から徒歩約25分またはバス利用が便利。境内参拝は終日自由で、能褒野王塚古墳も外周より見学可能。例大祭は毎年10月。
+
+## 周辺観光
+
+亀山市は東海道五十三次の宿場町「亀山宿」「関宿」の歴史的町並みが残り、特に関宿は重要伝統的建造物群保存地区として人気が高い。鈴鹿サーキット、椿大神社など、伊勢国の古代史と近世東海道文化を一度に楽しめる。','## Overview
+
+Nobono Shrine (Nobono Jinja) is a Shinto shrine located in Tamura-chō, Kameyama City, Mie Prefecture, dedicated to the legendary Prince Yamato Takeru no Mikoto as its principal deity. The Nobono Mausoleum situated behind the shrine has been officially designated by the Imperial Household Agency as the tomb of Yamato Takeru, making the site of exceptional historical significance as the origin point of the famous white swan legend.
+
+## History
+
+According to the Kojiki and Nihon Shoki, Japan''s earliest chronicles, Prince Yamato Takeru sustained grave wounds in a battle with the deity of Mount Ibuki on his return journey from his eastern military campaigns, and ultimately passed away at Nobono in Ise Province. This forms the so-called "Nobono Story," after which his soul is said to have transformed into a white swan that flew toward Yamato and Kawachi provinces, leaving sacred sites associated with the white swan legend across various locations. While the shrine itself is relatively recent—formally established in 1895 (Meiji 28) following the Imperial Household Ministry''s 1879 designation of the Nobono Ōzuka Kofun as Yamato Takeru''s tomb—the legendary history reaches back to ancient times.
+
+## Highlights
+
+The main hall is built in the Meiji-era shrine architectural style, set within a serene precinct enclosed by deep forest. The Nobono Ōzuka Kofun directly behind the shrine—a keyhole-shaped burial mound approximately 90 meters in total length—is administered as Yamato Takeru''s mausoleum by the Imperial Household Agency, lending an additional layer of sacredness to the shrine itself. The autumn grand festival held in October features portable shrine (mikoshi) processions organized by local communities and dedicatory performances of gagaku court music.
+
+## Event Details and Access
+
+The shrine is accessible by an approximately 25-minute walk from Idagawa Station on the JR Kansai Main Line, with bus service also available. The precincts are open for worship throughout the day, and the Nobono Ōzuka Kofun can be viewed from its outer perimeter. The annual grand festival is held each October.
+
+## Surrounding Attractions
+
+Kameyama City preserves the historic post-station town atmospheres of Kameyama-juku and Seki-juku, which formed part of the famous Tōkaidō Fifty-three Stations route during the Edo period. Seki-juku in particular is renowned as a nationally designated Important Preservation District for Groups of Traditional Buildings. Other regional attractions include the Suzuka Circuit racetrack and Tsubaki Grand Shrine, allowing visitors to experience the ancient history of Ise Province alongside the early-modern Tōkaidō culture in a single trip.','nobono-jinja','nobono-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11581191','益子祇園祭','Mashiko Gion Matsuri','栃木県益子町で行われる祇園祭','Gion Matsuri of Mashiko',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AD%90%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11592992','福島わらじまつり','Fukushima Waraji Matsuri',NULL,NULL,NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E3%82%8F%E3%82%89%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11580520','白鳥おどり','Shirotori Odori','岐阜県郡上市で開催される盆踊り',NULL,NULL,NULL,NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B3%A5%E3%81%8A%E3%81%A9%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11625215','蘇民祭','Somin-sai','岩手県奥州市をはじめとする日本各地で行われる裸祭り',NULL,NULL,NULL,NULL,'岩手県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%98%87%E6%B0%91%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11621139','葦稲葉神社','Ashiinaba Shrine','徳島県板野郡上板町にある神社','Shinto shrine in Tokushima Prefecture, Japan',NULL,NULL,NULL,'兵庫県','kinki',34.130276,134.412463,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Ashiinaba%20shrine%2C%20Tokushima.jpg','https://ja.wikipedia.org/wiki/%E8%91%A6%E7%A8%B2%E8%91%89%E7%A5%9E%E7%A4%BE',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11621139','葦稲葉神社','Ashiinaba Shrine','徳島県板野郡上板町にある神社','Shinto shrine in Tokushima Prefecture, Japan',NULL,NULL,NULL,'徳島県','shikoku',34.130276,134.412463,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Ashiinaba%20shrine%2C%20Tokushima.jpg','https://ja.wikipedia.org/wiki/%E8%91%A6%E7%A8%B2%E8%91%89%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
+
+葦稲葉神社(あしいなばじんじゃ)は、徳島県板野郡上板町神宅(かんやけ)に鎮座する式内社で、葦稲羽神(あしいなばのかみ)を主祭神として祀る古社である。『延喜式神名帳』に記載される阿波国板野郡の式内社の一座であり、稲作・五穀豊穣信仰の中心として地域住民に崇敬されてきた。
+
+## 歴史
+
+創建年代は不詳だが、『延喜式神名帳』(927年)に式内社として記載され、少なくとも平安時代以前に遡る古社であることが確認される。祭神の葦稲羽神は『古事記』神話に登場する大国主神と関わる神格と推定され、葦原と稲作を象徴する地母神的存在として崇敬された。阿波国(現徳島県)は古代から麻・藍・稲作で知られ、葦稲羽神への信仰は阿波の農耕文化の根幹に位置する。中世以降は地域の鎮守として存続し、明治期の社格制度では郷社に列せられた。
+
+## 見どころ
+
+社殿は近世以降の建築で、地元産の自然石を用いた素朴な石垣と簡素な拝殿が田園風景と調和する。境内には樹齢数百年とされる神木があり、農村信仰の素朴な雰囲気が残されている。例祭は秋季10月で、地元の氏子による神事と新穀奉納が行われ、現代でも農耕儀礼の伝統が継承されている。
+
+## 開催情報・アクセス
+
+JR徳島線板野駅から車・タクシーで約15分。境内参拝は終日自由。秋季例祭は毎年10月。
+
+## 周辺観光
+
+上板町・板野町一帯は阿波藍の本場として知られ、藍染体験施設や歴史的な藍商の屋敷が点在する。徳島県内では大塚国際美術館(鳴門市)、霊山寺をはじめとする四国八十八ヶ所霊場巡礼の起点が近く、信仰と工芸文化を一度に体験できる。','## Overview
+
+Ashiinaba Shrine (Ashiinaba Jinja) is an ancient Shikinaisha (shrine listed in the 10th-century Engishiki register) located in Kanyake, Kamiita Town, Itano District, Tokushima Prefecture. The shrine enshrines Ashiinaba no Kami as its principal deity and is one of the Engishiki-registered shrines of Itano District in Awa Province, having been revered by local residents for centuries as a central place of worship for rice cultivation and agricultural prosperity.
+
+## History
+
+Though the founding date is unknown, the shrine is recorded as a Shikinaisha in the Engishiki Jinmyōchō (Register of Deities) compiled in 927, confirming its existence as an ancient shrine reaching at least as far back as the Heian period. The enshrined deity Ashiinaba no Kami is considered to be related to Ōkuninushi no Kami appearing in the Kojiki mythology and was venerated as a mother-earth-like deity symbolizing reed plains and rice cultivation. Awa Province (present-day Tokushima Prefecture) has been known since ancient times for hemp, indigo, and rice cultivation, and worship of Ashiinaba no Kami occupies a fundamental position in the agricultural culture of Awa. The shrine continued as a regional guardian deity throughout the medieval period and was ranked as a Gōsha (district shrine) under the Meiji-era shrine ranking system.
+
+## Highlights
+
+The shrine buildings date from the early modern period onward, featuring rustic stone walls constructed from locally quarried natural stones and a simple worship hall (haiden) that harmonizes beautifully with the surrounding rural landscape. The precincts contain sacred trees estimated to be several centuries old, preserving the unpretentious atmosphere of rural folk faith. The annual main festival is held in October, when local parishioners conduct sacred rituals and offer freshly harvested grain, continuing agricultural ceremonial traditions that survive to this day.
+
+## Event Details and Access
+
+The shrine is accessible by car or taxi in approximately 15 minutes from Itano Station on the JR Tokushima Line. The precincts are open for worship throughout the day, and the autumn main festival is held in October each year.
+
+## Surrounding Attractions
+
+The Kamiita and Itano area is renowned as the heartland of Awa indigo dyeing, with numerous indigo-dyeing experience facilities and historic indigo merchant residences scattered throughout the region. Within Tokushima Prefecture, the Otsuka Museum of Art in Naruto City and the starting points of the Shikoku Eighty-Eight Temple Pilgrimage at Ryōzenji Temple are nearby, allowing visitors to experience both traditional faith culture and craft heritage in a single visit.','ashiinaba-jinja','ashiinaba-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11594455','福野夜高祭','Fukuno Yotaka Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E9%87%8E%E5%A4%9C%E9%AB%98%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11611950','能地春祭り','Nochi Spring Festival',NULL,'festival in Hiroshima Prefecture, Japan','Q820760','三原市','Mihara',NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E8%83%BD%E5%9C%B0%E6%98%A5%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11618171','草津国際音楽アカデミー&フェスティバル','Kusatsu International Summer Music Academy & Festival','日本の群馬県草津温泉で毎年夏に開催される音楽祭',NULL,NULL,NULL,NULL,'群馬県','kanto',NULL,NULL,1980,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E8%8D%89%E6%B4%A5%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%26%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E5%A4%A9%E7%8B%97%E5%B1%B1%E3%83%AC%E3%82%B9%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9.jpg','https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B4%A5%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%26%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2339,7 +2555,43 @@ INSERT INTO "festivals" VALUES('Q11620393','萩夏まつり','Hagi Summer Festiv
 INSERT INTO "festivals" VALUES('Q11628376','西日本大濠花火大会','Nishinippon Ohori Fireworks Festival','福岡市で1949年から2018年まで開催されていた花火大会',NULL,'Q846710','大濠公園','Ōhori Park',NULL,NULL,NULL,NULL,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishi-Nippon%20Ohori%20Fireworks%20Festival%202009.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E5%A4%A7%E6%BF%A0%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11611892','能代役七夕','Noshiro Yakutanabata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11613284','臼杵祇園まつり','Usuki Gion Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%87%BC%E6%9D%B5%E7%A5%87%E5%9C%92%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11620954','葛木坐火雷神社','Katsuraki ni Imasu Honoikaduchi Shrine','奈良県葛城市笛吹にある神社','Shinto shrine in Nara Prefecture, Japan',NULL,NULL,NULL,'大阪府','kinki',34.47164,135.710049,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Katsuragi-imasuhonoikaduchi-jinja%20haiden1.jpg','https://ja.wikipedia.org/wiki/%E8%91%9B%E6%9C%A8%E5%9D%90%E7%81%AB%E9%9B%B7%E7%A5%9E%E7%A4%BE',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11620954','葛木坐火雷神社','Katsuraki ni Imasu Honoikaduchi Shrine','奈良県葛城市笛吹にある神社','Shinto shrine in Nara Prefecture, Japan',NULL,NULL,NULL,'奈良県','kinki',34.47164,135.710049,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Katsuragi-imasuhonoikaduchi-jinja%20haiden1.jpg','https://ja.wikipedia.org/wiki/%E8%91%9B%E6%9C%A8%E5%9D%90%E7%81%AB%E9%9B%B7%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
+
+葛木坐火雷神社(かつらきにいますほのいかづちじんじゃ)は、奈良県葛城市笛吹に鎮座する式内大社で、火雷大神(ほのいかづちのおおかみ)と天香山命(あめのかぐやまのみこと)を祀る古社である。通称「笛吹神社」とも呼ばれ、雷神信仰と古代豪族・笛吹連(ふえふきのむらじ)との結びつきで知られる。
+
+## 歴史
+
+『延喜式神名帳』(927年)に大社として記載される式内大社で、創建年代は不詳ながら少なくとも奈良時代以前に遡る。祭神の天香山命は神武天皇東征に従った神とされ、その子孫が笛吹連を名乗り、宮中の音楽・祭祀を司った。火雷大神は雷・火・雨を司る神であり、農耕と密接に結びつく信仰として大和盆地南西部一帯で篤く崇敬された。中世以降は神仏習合のもと天台宗系の管理下にあったが、明治の神仏分離で純粋な神社として再整備された。
+
+## 見どころ
+
+本殿は江戸時代の建立で、檜皮葺の落ち着いた佇まいが特徴。境内には日露戦争で使用された大砲が奉納されており、地域の近代史とのつながりも垣間見える。雅楽・古代楽器に関わる祭神を祀ることから、笛・楽器奉納の風習が今も残る。例祭は10月10日前後で、神事と地元住民による奉納行事が行われる。
+
+## 開催情報・アクセス
+
+近鉄御所線忍海駅または葛城駅から車・タクシーで約10分。境内参拝は終日自由。例祭は毎年10月の指定日に執り行われる。
+
+## 周辺観光
+
+葛城地域は古代豪族・葛城氏の本拠地として知られ、一言主神社、高鴨神社、九品寺など格式高い古社・古刹が点在する。近隣には葛城山ロープウェイがあり、四季折々の登山・自然観光も楽しめる。','## Overview
+
+Katsuraki ni Imasu Honoikaduchi Shrine (Katsuraki ni Imasu Honoikaduchi Jinja) is an ancient Shikinai Taisha (major shrine listed in the 10th-century Engishiki register) located in Fuefuki, Katsuragi City, Nara Prefecture. It enshrines Honoikaduchi no Ōkami—the great thunder, fire, and rain deity—together with Ame no Kaguyama no Mikoto. Commonly known as Fuefuki Shrine, it is renowned for its association with thunder god worship and its deep connection to the ancient Fuefuki no Muraji clan.
+
+## History
+
+The shrine is recorded as a major shrine in the Engishiki Jinmyōchō (Register of Deities) compiled in 927, with its founding date unknown but reaching at least as far back as before the Nara period. Ame no Kaguyama no Mikoto, one of the enshrined deities, is said to have accompanied Emperor Jinmu on his eastern campaign, and his descendants took the name Fuefuki no Muraji and served as masters of music and ritual at the imperial court. Honoikaduchi no Ōkami governs thunder, fire, and rain, and was deeply venerated throughout the southwestern Yamato Basin as a deity intimately connected to agriculture. From the medieval period onward, the shrine fell under the management of Tendai Buddhism through Shinto-Buddhist syncretism, but it was reorganized as a purely Shinto shrine following the Meiji-era separation of Shinto and Buddhism.
+
+## Highlights
+
+The main hall was built during the Edo period and features a refined cypress bark-shingled (hiwadabuki) construction. Within the precincts, a cannon used in the Russo-Japanese War has been dedicated, offering a glimpse into the shrine''s connection with modern regional history. Because the enshrined deity is associated with ancient music and instruments, the custom of dedicating flutes and other musical instruments persists to this day. The annual main festival is held around October 10, featuring sacred rituals and dedicatory ceremonies performed by local residents.
+
+## Event Details and Access
+
+The shrine is accessible by car or taxi in approximately 10 minutes from either Oshimi Station or Katsuragi Station on the Kintetsu Gose Line. The precincts are open for worship throughout the day, and the annual main festival is conducted on a designated date in October each year.
+
+## Surrounding Attractions
+
+The Katsuragi region was the stronghold of the ancient Katsuragi clan, and the area is dotted with prestigious ancient shrines and temples including Hitokotonushi Shrine, Takakamo Shrine, and Kuhonji Temple. Nearby, the Katsuragi-yama Ropeway provides access to hiking and seasonal nature tourism opportunities, making the area an excellent destination for combining ancient history with natural scenery.','katsuraki-ni-imasu-honoikaduchi-jinja','katsuraki-ni-imasu-honoikaduchi-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11615686','花輪ばやし','Hanawa Bayashi','秋田県鹿角市花輪の祭り',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hanawabayashi%202012.JPG','https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E3%81%B0%E3%82%84%E3%81%97',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11597870','立川まつり国営昭和記念公園花火大会','Showa Kinen Park Fireworks',NULL,NULL,'Q3915473','国営昭和記念公園','Shōwa Memorial Park',NULL,NULL,NULL,NULL,1954,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596130','秩父川瀬祭','Chichibu Kawase Matsuri','毎年7月に開催される埼玉県秩父市の祭り',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chichibu%20Kawase%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B7%9D%E7%80%AC%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2347,7 +2599,43 @@ INSERT INTO "festivals" VALUES('Q17209977','漢字の日','Kanji Day',NULL,'annu
 INSERT INTO "festivals" VALUES('Q11662545','青森花火大会','Aomori Fireworks Display',NULL,'Fireworks show in Japan','Q11662157','青森港','Port of Aomori',NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642088','三熊野神社大祭','Mikumano Jinja Taisai','静岡県掛川市の三熊野神社の祭礼','festival by Mikumano Jinja in Kakegawa City, Shizuoka Prefecture, Japan','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Mikumano%20Jinja%20Taisai%202009%2020090404.jpg','https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q12624253','日韓交流おまつり',NULL,NULL,NULL,'Q8684','ソウル特別市','Seoul',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9F%93%E4%BA%A4%E6%B5%81%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11630000','西馬音内の盆踊','Nishimonai no Bon-odori','秋田県羽後町に伝わる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',39.199556,140.403222,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishimonai%20Bon%20Odori.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%A6%AC%E9%9F%B3%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11630000','西馬音内の盆踊','Nishimonai no Bon-odori','秋田県羽後町に伝わる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',39.199556,140.403222,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishimonai%20Bon%20Odori.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%A6%AC%E9%9F%B3%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
+
+西馬音内の盆踊(にしもないのぼんおどり)は、秋田県雄勝郡羽後町西馬音内で毎年8月16日から18日にかけて行われる伝統盆踊りで、岐阜県の郡上踊り、徳島県の阿波踊りと並んで「日本三大盆踊り」の一つに数えられる。約700年の歴史を持つとされ、1981年(昭和56年)に国の重要無形民俗文化財に指定された。
+
+## 歴史
+
+西馬音内の盆踊の起源は鎌倉時代末期の正応年間(1288〜1293年)に修行僧・源親(げんしん)が蔵王権現の堂前で豊年祈願として行ったのが始まりとされる。その後、慶長6年(1601年)に西馬音内城主・小野寺氏が滅亡し、亡霊を弔う踊りと習合して現在の盆踊りの形になったと伝わる。「彦三頭巾(ひこさずきん)」と呼ばれる黒い覆面、「端縫い(はぬい)」と呼ばれる継ぎ接ぎ衣装と編み笠で踊り手が顔を隠す独特の様式が特徴で、亡霊の踊りとも称される神秘的な雰囲気を醸し出す。
+
+## 見どころ
+
+囃子(はやし)の音色と「がんけ」「音頭」の2種類の踊りが繰り返され、3日間延べ約10万人の観客が訪れる。編み笠と彦三頭巾で顔を覆った踊り手たちが、ゆるやかなのに艶めかしく、しなやかでありながら張りのある所作で篝火の周りを静かに巡る姿は、観る者に時代を超えた感動を与える。
+
+## 開催情報・アクセス
+
+会場は秋田県雄勝郡羽後町西馬音内本町通り。JR奥羽本線湯沢駅から羽後交通バスで約30分。観覧は無料。
+
+## 周辺観光
+
+羽後町は美しい里山風景に囲まれ、近隣には湯沢市の小安峡温泉、稲庭うどんの里、横手のかまくらなど秋田県南部の観光資源が集中する。8月は雄勝の伝統行事と温泉を組み合わせた旅行が定番。','## Overview
+
+Nishimonai no Bon-odori (Nishimonai Bon Dance) is a traditional Bon dance held annually from August 16 to 18 in Nishimonai, Ugo Town, Ogachi District, Akita Prefecture. It ranks alongside Gujō Odori in Gifu Prefecture and Awa Odori in Tokushima Prefecture as one of the "Three Great Bon Dances of Japan." With a history reportedly spanning approximately 700 years, it was designated as a National Important Intangible Folk Cultural Property in 1981 (Shōwa 56).
+
+## History
+
+The origins of the Nishimonai Bon-odori are traced to the Shōō era (1288–1293) at the end of the Kamakura period, when the ascetic monk Genshin is said to have performed dances in front of the Zaō Gongen hall as prayers for bountiful harvests. Subsequently, following the destruction of the Onodera clan, lords of Nishimonai Castle, in 1601 (Keichō 6), the dance is believed to have merged with mourning rituals for the spirits of the deceased, taking on its present form as a Bon dance. The distinctive style features dancers concealing their faces with black hoods called "Hikosa-zukin" and patchwork garments called "Hanui" combined with woven straw hats. This face-concealing tradition has earned the dance the nickname "the dance of spirits," lending it a mysterious atmosphere unmatched in Japanese folk performing arts.
+
+## Highlights
+
+To the accompaniment of traditional festival music (hayashi), two types of dance—"Ganke" and "Ondo"—are performed in alternation, drawing approximately 100,000 spectators over the three-day event. Dancers concealing their faces behind woven hats and Hikosa-zukin hoods move slowly yet sensually, gracefully yet firmly around the central bonfires, creating a hauntingly beautiful spectacle that conveys to viewers a deep emotional resonance transcending the centuries.
+
+## Event Details and Access
+
+The venue is Honchō Street in Nishimonai, Ugo Town, Ogachi District, Akita Prefecture. Access is approximately 30 minutes by Ugo Kōtsū bus from Yuzawa Station on the JR Ōu Main Line. Viewing the dance is free of charge.
+
+## Surrounding Attractions
+
+Ugo Town is nestled within picturesque satoyama countryside landscapes, with nearby attractions concentrating the tourism resources of southern Akita Prefecture, including Oyasukyō Hot Spring in Yuzawa City, the home village of Inaniwa udon noodles, and the kamakura snow huts of Yokote. August in particular offers an ideal opportunity to combine traditional festivals of the Ogachi region with hot spring tourism in a memorable cultural journey.','nishimonai-no-bon-odori','nishimonai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11670289','高松冬のまつり','Takamatsu Fuyu no Matsuri',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%86%AC%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642072','遠州はまきた飛竜まつり','Hamakita Hiryū festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E3%81%AF%E3%81%BE%E3%81%8D%E3%81%9F%E9%A3%9B%E7%AB%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11633921','豊浜ちょうさ祭','Toyohama Chōsa Festival','香川県観音寺市豊浜町で行われる祭礼',NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Toyohama%20Chosa%20example%20Apr%2001%202021%2004-45PM.jpeg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2363,10 +2651,82 @@ INSERT INTO "festivals" VALUES('Q11678799','黒船祭','Shimoda Black Ship Festi
 INSERT INTO "festivals" VALUES('Q11678183','黒崎祇園山笠','Kurosaki Gion Yamagasa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kurosakigionn3.JPG','https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11667185','香取神宮御田植祭','Otaue Festival at Katori Jingū',NULL,NULL,'Q372380','香取神宮','Katori Jingū','千葉県','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Rice-transplanting%20Festival%20in%20Katori-jingu%201%2Ckatori-city%2Cjapan.jpg','https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17193576','今宮祭','Imamiya Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine',NULL,NULL,NULL,NULL,994,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Imamiya%20shrine%20Kanko-sai%202013-05B.JPG','https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11642725','那売佐神社','Namesa Shrine','島根県出雲市東神西町にある神社','Shinto shrine in Shimane Prefecture, Japan',NULL,NULL,NULL,'島根県','chugoku',35.314364,132.699845,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Namesajinjahonden.JPG','https://ja.wikipedia.org/wiki/%E9%82%A3%E5%A3%B2%E4%BD%90%E7%A5%9E%E7%A4%BE',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11642725','那売佐神社','Namesa Shrine','島根県出雲市東神西町にある神社','Shinto shrine in Shimane Prefecture, Japan',NULL,NULL,NULL,'島根県','chugoku',35.314364,132.699845,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Namesajinjahonden.JPG','https://ja.wikipedia.org/wiki/%E9%82%A3%E5%A3%B2%E4%BD%90%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
+
+那売佐神社(なめさじんじゃ)は、島根県出雲市東神西町(ひがしじんざいちょう)に鎮座する式内社で、葦原醜男命(あしはらしこおのみこと、大国主神の別名)を主祭神として祀る古社である。『延喜式神名帳』に記載される出雲国神門郡の式内社の一座で、出雲神話の中核をなす大国主信仰の一翼を担う。
+
+## 歴史
+
+『延喜式神名帳』(927年)に式内社として記載される那売佐神社は、創建年代は不詳ながら、出雲国風土記(733年成立)にも関連記述があり、奈良時代以前まで遡る古社である。祭神の葦原醜男命は大国主神の異名で、国土経営と医薬・縁結びの神として知られる。出雲地方は古代より大国主神を中心とした神話体系の本拠地であり、那売佐神社もそうした出雲信仰の枠組みの中で地域の中核的存在として機能してきた。中世以降は地元の鎮守として存続し、明治期に郷社に列せられた。
+
+## 見どころ
+
+社殿は出雲大社造を簡素化した近世建築で、出雲地方特有の大社造系の意匠を残す。境内には古代神西湖の名残を伝える地形が見られ、出雲国風土記の世界観を体感できる場所として研究者にも注目されている。例祭は秋季10月で、地元氏子による神事と神楽の奉納が行われる。
+
+## 開催情報・アクセス
+
+JR山陰本線出雲市駅から車・タクシーで約20分。一畑バスの神西経由路線も利用可能。境内参拝は終日自由。秋季例祭は毎年10月。
+
+## 周辺観光
+
+出雲市内には出雲大社(縁結びの神様)、稲佐の浜、日御碕神社・日御碕灯台、出雲文化伝承館など、出雲神話の聖地が集中する。神西湖周辺は静かな田園地帯で、神話の里らしい風情が今も残る。','## Overview
+
+Namesa Shrine (Namesa Jinja) is an ancient Shikinaisha (shrine listed in the 10th-century Engishiki register) located in Higashi-Jinzai-chō, Izumo City, Shimane Prefecture. The shrine enshrines Ashihara Shikoo no Mikoto—another name for Ōkuninushi no Kami—as its principal deity, and is one of the Shikinaisha shrines of Kando District in Izumo Province. It plays an integral role in the worship of Ōkuninushi, which forms the core of Izumo mythology.
+
+## History
+
+Recorded as a Shikinaisha in the Engishiki Jinmyōchō (Register of Deities) compiled in 927, Namesa Shrine has an unknown founding date but appears in related descriptions within the Izumo no Kuni Fudoki (Records of Izumo Province) compiled in 733, confirming its existence as an ancient shrine reaching back at least to before the Nara period. The enshrined deity Ashihara Shikoo no Mikoto is an alternative name for Ōkuninushi no Kami, known as the deity of nation-building, medicine, and matchmaking. The Izumo region has served as the heartland of the mythological system centered on Ōkuninushi no Kami since ancient times, and Namesa Shrine has functioned as a regional anchor within this framework of Izumo belief. The shrine continued as a local guardian deity throughout the medieval period and was ranked as a Gōsha (district shrine) under the Meiji-era shrine ranking system.
+
+## Highlights
+
+The main shrine hall is a simplified early-modern construction in the Izumo Taisha-zukuri style, preserving design elements distinctive to the Taisha-zukuri tradition characteristic of the Izumo region. Within the precincts, topographical features preserving traces of the ancient Lake Jinzai can be observed, attracting attention from researchers as a location where visitors can experience the worldview of the Izumo no Kuni Fudoki firsthand. The annual main festival is held in October, featuring sacred rituals and dedicatory kagura sacred dance performances offered by local parishioners.
+
+## Event Details and Access
+
+The shrine is accessible by car or taxi in approximately 20 minutes from Izumo City Station on the JR San''in Main Line, with Ichibata Bus service via Jinzai also available. The precincts are open for worship throughout the day, and the autumn main festival is held in October each year.
+
+## Surrounding Attractions
+
+Izumo City is dense with sacred sites of Izumo mythology, including the famous Izumo Taisha Grand Shrine (deity of matchmaking), Inasa Beach where deities are said to convene, Hinomisaki Shrine and the historic Hinomisaki Lighthouse, and the Izumo Cultural Heritage Museum. The area around Lake Jinzai remains a quiet rural landscape that still preserves the atmosphere of the legendary "Land of the Gods," offering visitors a serene complement to the more famous sites of central Izumo.','namesa-jinja','namesa-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11636377','越中八尾曳山祭','Etchuyatsuo parade float festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Yatsuo%20Hikiyama%20Museum.jpg','https://ja.wikipedia.org/wiki/%E8%B6%8A%E4%B8%AD%E5%85%AB%E5%B0%BE%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11661913','青柏祭','Seihaku Festival','石川県七尾市の大地主神社の例大祭（国の重要無形民俗文化財、ユネスコの無形文化遺産）',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Dekayama%20sanno.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%8F%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11631901','諏訪湖祭湖上花火大会','Lake Suwa Fireworks Festival','長野県の諏訪湖で行われる花火大会',NULL,'Q1206692','諏訪湖','Lake Suwa','長野県','chubu',36.049167,138.085278,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Suwa-ko%20firework%2020080815%2002.jpg','https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,95,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11631901','諏訪湖祭湖上花火大会','Lake Suwa Fireworks Festival','長野県の諏訪湖で行われる花火大会',NULL,'Q1206692','諏訪湖','Lake Suwa','長野県','chubu',36.049167,138.085278,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Suwa-ko%20firework%2020080815%2002.jpg','https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,95,'drafted','## 概要
+
+諏訪湖祭湖上花火大会(すわこまつりこじょうはなびたいかい)は、長野県諏訪市の諏訪湖で毎年8月15日に開催される、約40,000発の花火が打ち上げられる国内最大級の花火大会である。諏訪湖の地形を活かした水中スターマインや、湖面に映る花火の二重映像で知られ、毎年約50万人の観客を集める。
+
+## 歴史
+
+諏訪湖祭湖上花火大会は1949年(昭和24年)、戦後復興の一環として地元有志により始められた。諏訪湖を取り囲む山々に音が反響する独特の音響効果と、湖面に映る花火の幻想的な美しさで早くから評判を呼び、毎年規模が拡大していった。1980年代には全国屈指の花火大会としての地位を確立し、現在では国内最大級の打上数を誇る夏の風物詩となっている。長野県の夏祭りを代表するイベントとして定着している。
+
+## 見どころ
+
+最大の見どころは諏訪湖の水面を活かした「水上スターマイン」と、湖中央から扇状に広がる「Kiss of Fire(大ナイアガラ瀑布)」と呼ばれる仕掛け花火である。山々に囲まれた地形ゆえに花火の音が反響して全身に振動が伝わり、視覚と聴覚の両方で圧倒される。湖面に映り込む花火と相まって、上下対称の光景が広がる。
+
+## 開催情報・アクセス
+
+会場は長野県諏訪市湖畔(諏訪湖畔公園周辺)。JR中央本線上諏訪駅から徒歩約8〜15分。一部有料観覧席あり、その他は湖畔から無料で観覧可能だが場所取りが極めて競争的。
+
+## 周辺観光
+
+諏訪地域は諏訪大社(上社本宮・下社秋宮など四宮)で知られ、御柱祭(7年に一度)でも有名。上諏訪温泉・下諏訪温泉などの温泉地、霧ヶ峰高原、ビーナスライン、北八ヶ岳ロープウェイなど自然観光資源も豊富で、花火大会と組み合わせた旅行が人気。','## Overview
+
+The Lake Suwa Fireworks Festival (Suwako Matsuri Kojō Hanabi Taikai) is one of Japan''s largest fireworks displays, held annually on August 15 at Lake Suwa in Suwa City, Nagano Prefecture, launching approximately 40,000 fireworks. Renowned for its underwater star mine displays leveraging the lake''s distinctive topography and the spectacular double-image effects created by fireworks reflecting on the lake surface, the festival draws approximately 500,000 spectators each year.
+
+## History
+
+The Lake Suwa Fireworks Festival was initiated in 1949 (Shōwa 24) by local volunteers as part of postwar reconstruction efforts. The unique acoustic effects caused by sound reverberating off the mountains surrounding Lake Suwa, combined with the magical beauty of fireworks reflected on the lake''s surface, quickly earned the festival widespread acclaim, and its scale expanded year by year. By the 1980s, it had established itself as one of the nation''s premier fireworks events, and today it has become a defining summer tradition boasting one of the largest launch counts of any fireworks festival in Japan. It is widely regarded as the signature summer event of Nagano Prefecture.
+
+## Highlights
+
+The festival''s main attractions are the "Aquatic Star Mine" displays utilizing the lake''s water surface and the famous "Kiss of Fire" (Dai Niagara Falls)—a spectacular set piece in which fireworks cascade in a fan-shaped pattern from the center of the lake. The mountainous terrain surrounding the venue causes fireworks sounds to reverberate, creating physical vibrations that overwhelm spectators through both visual and auditory channels simultaneously. Combined with the reflections on the lake surface, the result is an awe-inspiring vertically symmetrical light spectacle unique to this location.
+
+## Event Details and Access
+
+The venue is the lakefront in Suwa City, Nagano Prefecture (centered on Lake Suwa Lakefront Park). Access is approximately 8 to 15 minutes on foot from Kami-Suwa Station on the JR Chūō Main Line. Reserved paid seating is available, while general lakefront viewing is free, though securing a viewing spot is highly competitive due to the festival''s enormous popularity.
+
+## Surrounding Attractions
+
+The Suwa region is renowned for the four shrines of Suwa Taisha (including the Kamisha Honmiya and Shimosha Akimiya), and is also famous for the Onbashira Festival held once every seven years. The area boasts abundant natural tourism resources including Kami-Suwa and Shimo-Suwa hot springs, the Kirigamine Highlands, the Venus Line scenic route, and the Kita-Yatsugatake Ropeway, making it a popular destination for combining the fireworks festival with broader sightseeing tours.','lake-suwa-fireworks-festival','lake-suwa-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17193693','岩瀬曳山車祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E6%9B%B3%E5%B1%B1%E8%BB%8A%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11669708','高崎まつり','Takasaki Matsuri',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B4%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11669772','高崎映画祭','Takasaki Film Festival',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B4%8E%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2412,11 +2772,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
