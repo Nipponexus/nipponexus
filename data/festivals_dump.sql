@@ -316,7 +316,51 @@ The festival is held in the central district of Hirosaki City, Aomori Prefecture
 ## Nearby Attractions
 
 Hirosaki Park (Hirosaki Castle) is one of Japan''s Top 100 Cherry Blossom Spots and home to the original Hirosaki Castle Keep — one of only twelve original castle keeps still standing in Japan. At Tsugaru-han Neputa Village, visitors can observe Neputa float construction and enjoy live performances of Tsugaru shamisen year-round. Iwakiyama Shrine and the Dake Onsen hot-spring district are within easy reach, and the conical peak of Mount Iwaki (the "Tsugaru Fuji") provides a stunning backdrop. Local specialties such as igamenchi (squid fritters), kaiyaki miso (scallop and miso grilled in shell), and ke no shiru soup can be enjoyed at festival food stalls.','hirosaki-neputa','hirosaki-neputa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11465312','尾張津島天王祭','Owari Tsushima Tennō Festival','津島神社の祭事','annual festival in Tsushima, Aichi, Japan','Q705136','津島神社','Tsushima Shrine','三重県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tushimatennousai1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E5%A4%A9%E7%8E%8B%E7%A5%AD','https://en.wikipedia.org/wiki/Tenno_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11465312','尾張津島天王祭','Owari Tsushima Tennō Festival','津島神社の祭事','annual festival in Tsushima, Aichi, Japan','Q705136','津島神社','Tsushima Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tushimatennousai1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E5%A4%A9%E7%8E%8B%E7%A5%AD','https://en.wikipedia.org/wiki/Tenno_Matsuri',85,'drafted','## 尾張津島天王祭とは
+
+尾張津島天王祭（おわりつしまてんのうまつり）は、愛知県津島市の津島神社で毎年夏に行われる、約600年の歴史を持つ川祭りです。日本三大川祭りのひとつに数えられ、宵祭(よいまつり)では、提灯で半円形に飾られた5艘の「巻藁船(まきわらぶね)」が天王川を進む、幽玄かつ華麗な光景で全国に知られています。津島神社の祭礼として、尾張地方の夏を彩る、優美で勇壮な水上の祭典です。
+
+## 歴史と由来
+
+尾張津島天王祭は、津島神社の祭礼として室町時代から続くと伝えられ、約600年の歴史を誇ります。津島神社は、全国に約3,000社あるとされる天王社(津島神社・牛頭天王を祀る社)の総本社で、疫病退散の信仰を集める由緒ある古社です。織田信長や豊臣秀吉も保護したと伝えられ、その篤い信仰を背景に、天王祭は壮大な川祭りへと発展しました。船を舞台とする独特の祭礼様式は、天王川とともに生きてきた津島の人々の信仰と財力を今に伝えています。
+
+## 見どころ
+
+最大の見どころは、宵祭で天王川を進む「巻藁船」の幻想的な光景です。船上に半円形に組まれた提灯が約500個も灯され、その灯りが川面に映り込む様は、息をのむほどの美しさ。提灯の数は1年の月数と日数を表すとされ、ろうそくの柔らかな灯りが幽玄な雰囲気を醸し出します。翌日の朝祭では、能の演目にちなんだ車楽船(だんじりぶね)が登場し、布鉾(ぬのぼこ)を持った若者が川へ飛び込む勇壮な場面も。夜と昼で趣の異なる、二日間にわたる華麗な川祭りを堪能できます。
+
+## 開催情報
+
+例年夏（7月）の第4土曜日とその翌日に、愛知県津島市の津島神社および天王川公園で開催されます。夏の天王祭であり、季節は夏。宵祭(土曜夜)と朝祭(日曜朝)で見どころが異なります。日程の詳細は、津島市および津島神社の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の天王川公園・津島神社へは、名鉄津島線「津島駅」から徒歩圏内とアクセスが良好です。名古屋方面から名鉄を利用してアクセスできます。車の場合は周辺の駐車場を利用できますが、祭り当日は大変な混雑が予想されるため、公共交通機関の利用が強く推奨されます。
+
+## 周辺観光
+
+津島市は、津島神社の門前町として栄えた歴史ある町で、古い町並みや歴史的な建造物が残ります。尾張地方西部に位置し、名古屋市にも近い立地です。近隣には、なばなの里(三重県桑名市)や木曽三川公園などの観光地も。名古屋からの足を延ばせば、名古屋城や熱田神宮、グルメも楽しめます。尾張津島天王祭とあわせて、尾張・濃尾平野の歴史と信仰、自然を満喫できるエリアです。','## What Is the Owari Tsushima Tennō Festival?
+
+The Owari Tsushima Tennō Festival is a river festival with a history of some 600 years, held each summer at Tsushima Shrine in Tsushima, Aichi Prefecture. Counted among Japan''s three great river festivals, it is known nationwide for the profound and resplendent sight of its eve festival (*yoi-matsuri*), in which five "makiwara boats" decorated with lanterns in a semicircular shape advance along the Tennō River. As the festival of Tsushima Shrine, it is a graceful and spirited water festival that colors the summer of the Owari region.
+
+## History and Origins
+
+The Owari Tsushima Tennō Festival is said to have continued since the Muromachi period as the festival of Tsushima Shrine, boasting a history of about 600 years. Tsushima Shrine is the head shrine of the Tennō shrines (shrines of Tsushima Shrine / Gozu Tennō), said to number some 3,000 across the country, and is a venerable old shrine that draws faith for the dispelling of epidemics. Said to have been protected by Oda Nobunaga and Toyotomi Hideyoshi as well, the Tennō Festival developed into a grand river festival against the background of this deep devotion. The distinctive festival style staged on boats conveys to this day the faith and wealth of the people of Tsushima, who have lived alongside the Tennō River.
+
+## Highlights
+
+The greatest attraction is the magical sight of the "makiwara boats" advancing along the Tennō River at the eve festival. Some 500 lanterns assembled in a semicircular shape on the boats are lit, and the sight of their light reflected on the river''s surface is of breathtaking beauty. The number of lanterns is said to represent the number of months and days in a year, and the soft light of the candles evokes a profound atmosphere. At the morning festival the following day, *danjiri* boats based on Noh plays appear, with the spirited scene of young men holding cloth halberds leaping into the river. Visitors can savor a resplendent river festival spanning two days, with different characters by night and by day.
+
+## When It Takes Place
+
+The festival is typically held on the fourth Saturday of July in summer and the following day at Tsushima Shrine and Tennōgawa Park in Tsushima, Aichi Prefecture. As a summer Tennō festival, its season is summer. The highlights differ between the eve festival (Saturday night) and the morning festival (Sunday morning). Visitors are advised to confirm the details of the dates in advance through official announcements from Tsushima City and Tsushima Shrine.
+
+## Access
+
+Tennōgawa Park and Tsushima Shrine enjoy good access, within walking distance of Tsushima Station on the Meitetsu Tsushima Line. They can be accessed by Meitetsu from the direction of Nagoya. By car, nearby parking is available, but as tremendous crowds are expected on the day of the festival, public transport is strongly recommended.
+
+## Around the Area
+
+Tsushima is a historic town that prospered as the gate town of Tsushima Shrine, where old streets and historic buildings remain. Located in the western part of the Owari region, it is also close to Nagoya City. Nearby tourist destinations include Nabana no Sato (in Kuwana, Mie Prefecture) and the Kiso Sansen Park. A trip extended from Nagoya allows one to enjoy Nagoya Castle, Atsuta Shrine, and gourmet fare as well. Together with the Owari Tsushima Tennō Festival, it is an area where one can savor the history, faith, and nature of Owari and the Nōbi Plain.','owari-tsushima-tenno-festival','owari-tsushima-tenno-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q219122','三社祭','Sanja Matsuri','ヤクザによる東京都台東区浅草の浅草神社の例大祭','Shinto festival in Japan','Q670049','浅草神社','Asakusa Shrine','東京都','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20mikoshi%20from%20sensoji%20Sanja%20Matsuri%202006-3.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%A4%BE%E7%A5%AD','https://en.wikipedia.org/wiki/Sanja_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1046742','コミックマーケット','Comiket','世界最大規模の同人誌即売会','world''s largest dōjinshi fair, held twice a year in Tokyo, Japan','Q1359125','東京国際展示場','Tokyo Big Sight','東京都','kanto',35.630833333,139.796666666,1975,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cosplayers%20of%20Comiket%2069.jpg','https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88','https://en.wikipedia.org/wiki/Comiket',95,'drafted','## 概要
 
@@ -3947,7 +3991,51 @@ Manazuru''s identity as a fishing town shapes the culinary experience available 
 
 Access to Manazuru is convenient despite the town''s small size. JR Manazuru Station on the Tokaido Main Line lies approximately twenty minutes on foot from the festival area, with free shuttle buses available reducing the journey to about five minutes during peak festival hours. From Tokyo, Manazuru can be reached in roughly one hundred minutes by Tokaido Line rapid service, making the festival accessible as a day trip from the capital. The wider area offers exceptional opportunities to combine festival viewing with broader explorations of western Kanagawa, including the renowned hot springs of Hakone and Yugawara, the historic Odawara Castle, and the dramatic coastal scenery of the Manazuru Peninsula itself, where preserved coastal forests, fishing villages, and dramatic rocky outcroppings provide one of the most photogenic landscapes within day-trip reach of Tokyo.','kibune-matsuri-manazuru','kibune-matsuri-manazuru',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86735439','甲子秋まつり','Kinoene Aki Matsuri',NULL,'festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q114874856','津久野だんじり祭','Tsukuno Danjiri Matsuri','堺市西区津久野町周辺で行われるだんじり祭','It held in Tsukuno, Nishi-ku, Sakai, Osaka, is one of the Danjiri festivals in Japan.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2022%20K%C5%8Dno-ch%C5%8D%27%EF%BD%93%20Danjiri%20at%20Tsukuno%20Danjiri%20Festival%20in%20Tsukuno%20Area%20001.jpg','https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q114874856','津久野だんじり祭','Tsukuno Danjiri Matsuri','堺市西区津久野町周辺で行われるだんじり祭','It held in Tsukuno, Nishi-ku, Sakai, Osaka, is one of the Danjiri festivals in Japan.',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2022%20K%C5%8Dno-ch%C5%8D%27%EF%BD%93%20Danjiri%20at%20Tsukuno%20Danjiri%20Festival%20in%20Tsukuno%20Area%20001.jpg','https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,85,'drafted','## 津久野だんじり祭とは
+
+津久野だんじり祭（つくのだんじりまつり）は、大阪府堺市西区津久野町周辺で毎年秋に行われる、だんじり祭です。重厚な木製の「だんじり(地車)」を、大勢の曳き手が威勢のよい掛け声とともに猛スピードで曳き回す、大阪・泉州地域ならではの勇壮な秋祭りとして知られています。各町のだんじりが地域を巡行し、なかでも勢いよく方向転換する「やりまわし」が見どころの、活気あふれる祭礼です。
+
+## 歴史と由来
+
+だんじり祭は、大阪南部の泉州地域を中心に古くから盛んに行われてきた、秋の収穫を感謝する祭礼です。岸和田だんじり祭で全国的に有名な「だんじり」は、精緻な彫刻が施された豪華な木製の山車で、各町が地域の誇りとして大切に守り伝えてきました。津久野のだんじり祭も、この泉州だんじり文化を受け継ぐもので、地域の神社の祭礼として、町を挙げて執り行われてきました。だんじりに施された彫刻は、歴史物語や合戦の場面などを題材とし、職人技の粋を集めた芸術品でもあります。
+
+## 見どころ
+
+最大の見どころは、だんじりを猛スピードで曳きながら、交差点などで一気に方向転換する「やりまわし」です。重量数トンにも及ぶだんじりが、勢いを保ったまま角を曲がる様は、迫力満点で観客を沸かせます。曳き手たちの息の合った連携と、大工方が屋根の上で華麗に舞う姿も見どころ。だんじりに施された精緻な彫刻の美しさや、笛・太鼓・鉦の鳴り物(なりもの)が奏でる賑やかな囃子も、祭りを大いに盛り上げます。地域一体となった熱気あふれる秋祭りを体感できます。
+
+## 開催情報
+
+例年秋（10月）に、大阪府堺市西区津久野町周辺で開催されます。秋祭りであり、季節は秋。だんじりの曳行ルートや日程は年によって異なるため、堺市および地元の祭礼関係団体の公式発表で事前に確認することをおすすめします。曳行中は安全のため、観覧の際は指示に従うことが大切です。
+
+## アクセス
+
+会場の津久野町周辺へは、JR阪和線「津久野駅」から徒歩圏内とアクセスが良好です。大阪市方面や和歌山方面からJR阪和線を利用してアクセスできます。期間中は周辺で交通規制が敷かれるため、公共交通機関の利用がおすすめです。だんじりの曳行に伴い、見学エリアが限られる場合があります。
+
+## 周辺観光
+
+堺市は、中世に貿易港として栄え、茶の湯文化(千利休)や刃物・線香などの伝統産業で知られる歴史都市です。世界遺産・百舌鳥古墳群(仁徳天皇陵古墳など)や、千利休・与謝野晶子ゆかりの史跡が見どころ。大阪市中心部にも近く、アクセスも良好です。泉州地域は各地でだんじり祭が盛んなため、秋には各町の祭りを巡ることもできます。津久野だんじり祭とあわせて、堺の歴史と泉州の祭り文化を満喫できるエリアです。','## What Is the Tsukuno Danjiri Matsuri?
+
+The Tsukuno Danjiri Matsuri is a *danjiri* festival held each autumn around Tsukuno in Nishi Ward, Sakai, Osaka Prefecture. Known as a spirited autumn festival distinctive to the Senshū area of Osaka, in which massive wooden "danjiri" (festival floats) are pulled around at high speed by many pullers to spirited calls, it is a lively festival in which each neighborhood''s danjiri processes through the area, with the vigorous turning of the *yarimawashi* as its highlight.
+
+## History and Origins
+
+The *danjiri* festival is a festival of gratitude for the autumn harvest, long flourishing chiefly in the Senshū area of southern Osaka. The "danjiri" made famous nationwide by the Kishiwada Danjiri Matsuri are gorgeous wooden floats with intricate carvings, carefully protected and handed down by each neighborhood as a source of local pride. The Tsukuno Danjiri Matsuri, too, inherits this Senshū danjiri culture, and has been carried out by the whole town as the festival of the local shrine. The carvings on the danjiri take historical tales and battle scenes as their subjects and are also works of art that gather the finest of artisanship.
+
+## Highlights
+
+The greatest attraction is the *yarimawashi*, in which the danjiri are pulled at high speed and turned sharply all at once at intersections and the like. The sight of danjiri weighing several tons rounding a corner while maintaining their momentum is full of intensity and thrills spectators. The well-coordinated teamwork of the pullers and the figures of the *daikugata* dancing splendidly atop the roofs are also highlights. The beauty of the intricate carvings on the danjiri and the lively music played by the flutes, drums, and gongs greatly enliven the festival. Visitors can experience an autumn festival full of fervor, with the whole community as one.
+
+## When It Takes Place
+
+The festival is typically held in autumn (October) around Tsukuno in Nishi Ward, Sakai, Osaka Prefecture. As an autumn festival, its season is autumn. Because the pulling routes and dates of the danjiri vary from year to year, visitors are advised to confirm details in advance through official announcements from Sakai City and the local festival-related organizations. For safety during the pulling, it is important to follow instructions when viewing.
+
+## Access
+
+The area around Tsukuno enjoys good access, within walking distance of Tsukuno Station on the JR Hanwa Line. It can be accessed via the JR Hanwa Line from the directions of Osaka City and Wakayama. As traffic restrictions are imposed in the area during the festival, public transport is recommended. Viewing areas may be limited in accordance with the pulling of the danjiri.
+
+## Around the Area
+
+Sakai is a historic city that prospered as a trading port in the medieval period and is known for the culture of the tea ceremony (Sen no Rikyū) and traditional industries such as cutlery and incense. Highlights include the World Heritage Mozu Tombs (including the tomb of Emperor Nintoku) and historic places associated with Sen no Rikyū and Yosano Akiko. Close to central Osaka, access is also good. As danjiri festivals flourish throughout the Senshū area, one can also tour the festivals of various neighborhoods in autumn. Together with the Tsukuno Danjiri Matsuri, it is an area where one can savor the history of Sakai and the festival culture of Senshū.','tsukuno-danjiri-matsuri','tsukuno-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86740734','しばれフェスティバル','Shibare Festival','北海道足寄郡陸別町で毎年2月に開催される催事','festival held annually in Rikubetsu, Hokkaido, Japan',NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,2,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Shibare%20Festival%202019.jpg','https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%B0%E3%82%8C%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,90,'drafted','しばれフェスティバルは、北海道足寄郡陸別町で毎年2月の第1週目の土日に開催される極寒体験イベントであり、「日本一寒い町」を自称する陸別町の独自性を最大限に活かしたユニークな冬の祭典である。「しばれる」とは北海道弁で「凍えるほど寒い」を意味し、その名の通り氷点下20度を下回ることも珍しくない極寒の屋外で繰り広げられる耐寒イベントが、全国の冬好きや寒冷地マニアを惹きつけている。
 
 陸別町は北海道東部の十勝管内に位置する人口約2,300人の小さな町で、その地理的条件から北海道内で最も低い気温を記録することが多い。観測史上の最低気温は1978年に記録された氷点下31.5度に達し、町は「日本一寒い町」をブランド化することで町興しを進めてきた。しばれフェスティバルは1985年（昭和60年）に始まったこの町興し戦略の中核イベントで、町民総出で運営する手作りの祭りとして40年近い歴史を持つ。
@@ -4385,14 +4473,190 @@ INSERT INTO "festivals" VALUES('Q11440004','大阪ヨーロッパ映画祭','Osa
 INSERT INTO "festivals" VALUES('Q11481688','常陸國總社宮大祭','Hitachinokuni Soshagu Reitaisai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B8%B8%E9%99%B8%E5%9C%8B%E7%B8%BD%E7%A4%BE%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11477022','島立裸まつり','Shimadachi Hadaka Matsuri',NULL,NULL,NULL,NULL,NULL,'長野県','chubu',36.2310354,137.9440724,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%AB%8B%E8%A3%B8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11455993','富士山河口湖音楽祭','Mt. Fuji Kawaguchiko Music Festival','富士河口湖町を中心とした地域で毎年7・8月に開かれる音楽祭',NULL,NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,2002,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%B2%B3%E5%8F%A3%E6%B9%96%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11457147','富田の鯨船行事','Kujirabune Festival','三重県四日市市の行事',NULL,'Q85884751','鳥出神社','Toride Shrine','三重県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kujirabune01.jpg','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11457147','富田の鯨船行事','Kujirabune Festival','三重県四日市市の行事',NULL,'Q85884751','鳥出神社','Toride Shrine','三重県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kujirabune01.jpg','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','## 富田の鯨船行事とは
+
+富田の鯨船行事（とみだのくじらぶねぎょうじ）は、三重県四日市市富田地区の鳥出神社で毎年8月に行われる、勇壮な「鯨船(くじらぶね)」の祭礼です。豪華に飾り立てられた山車を、本物の捕鯨を模して鯨を追い、銛(もり)を打ち込む様を再現する、海辺の町ならではの独特な行事として知られ、国の重要無形民俗文化財に指定されるとともに、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。
+
+## 歴史と由来
+
+富田の鯨船行事は、捕鯨の様子を陸上で再現するという、全国でも珍しい祭礼です。江戸時代に各地で行われた捕鯨にちなみ、漁の安全と豊漁、そして地域の繁栄を願って始まったと伝えられます。富田は伊勢湾に面した港町で、海とともに生きてきた人々の暮らしと信仰を背景に、この独特の行事が育まれました。鯨船を模した山車「鯨船山車(くじらぶねだし)」は、各町が誇る豪華な造りで、地域の宝として大切に守り伝えられています。
+
+## 見どころ
+
+最大の見どころは、鯨に見立てた張りぼての「鯨」を、鯨船山車が追いかけ、勇壮に銛を打ち込む「鯨突き」の場面です。若者たちが鯨船を巧みに操り、暴れる鯨を追い込んでいく様は迫力満点で、捕鯨の興奮を陸上で体感できます。豪華に飾られた鯨船山車の美しさや、囃子にのった勇壮な所作も見どころ。海とともに生きてきた港町ならではの、独創的でダイナミックな祭りを堪能できます。
+
+## 開催情報
+
+例年8月に、三重県四日市市富田地区の鳥出神社および周辺で開催されます。夏祭りであり、季節は夏。「鯨突き」をはじめとする行事の日程は年によって異なるため、四日市市および地元の保存会・観光協会の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の富田地区へは、JR関西本線「富田駅」や近鉄名古屋線「近鉄富田駅」からアクセスできます。四日市市の北部に位置し、名古屋方面からJRや近鉄を利用してアクセスできます。鳥出神社は両駅から徒歩圏内です。期間中は周辺で混雑が予想されるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+四日市市は、三重県北部の工業都市で、四日市コンビナートの工場夜景が近年人気の観光資源となっています。伊勢湾に面した立地で、海の幸も豊富。近隣には、湯の山温泉や御在所岳の自然、伊勢神宮や鈴鹿サーキットなど、三重県北部・中部の見どころが点在します。富田の独特な鯨船行事とあわせて、三重の歴史・文化・産業観光を楽しめるエリアです。','## What Is the Tomida Kujirabune Festival?
+
+The Tomida Kujirabune Festival is a spirited "whale-boat" (*kujirabune*) festival held each August at Toride Shrine in the Tomida district of Yokkaichi, Mie Prefecture. Known as a distinctive event of a seaside town, in which lavishly decorated floats re-enact the chasing of a whale and the hurling of harpoons in imitation of real whaling, it is designated an Important Intangible Folk Cultural Property of Japan and is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals."
+
+## History and Origins
+
+The Tomida Kujirabune Festival is a festival rare even nationwide, re-enacting the scene of whaling on land. It is said to have begun in connection with the whaling carried out in various places during the Edo period, wishing for safety in fishing, bountiful catches, and the prosperity of the region. Tomida is a port town facing Ise Bay, and against the background of the lives and faith of people who have lived alongside the sea, this distinctive event took shape. The "whale-boat floats" modeled on whale boats are gorgeous constructions that each neighborhood takes pride in, carefully protected and handed down as treasures of the region.
+
+## Highlights
+
+The greatest attraction is the "whale-striking" scene, in which the whale-boat floats chase a papier-mâché "whale" and spiritedly hurl harpoons. The sight of young men skillfully maneuvering the whale boats to corner the thrashing whale is full of intensity, allowing visitors to experience the excitement of whaling on land. The beauty of the lavishly decorated whale-boat floats and the spirited movements to festival music are also highlights. Visitors can savor an original and dynamic festival distinctive to a port town that has lived alongside the sea.
+
+## When It Takes Place
+
+The festival is typically held in August at Toride Shrine and the surrounding area in the Tomida district of Yokkaichi, Mie Prefecture. As a summer festival, its season is summer. Because the dates of events including the "whale-striking" vary from year to year, visitors are advised to confirm details in advance through official announcements from Yokkaichi City and the local preservation society and tourism association.
+
+## Access
+
+The Tomida district can be reached from Tomida Station on the JR Kansai Main Line and Kintetsu-Tomida Station on the Kintetsu Nagoya Line. Located in the northern part of Yokkaichi, it can be accessed by JR or Kintetsu from the direction of Nagoya. Toride Shrine is within walking distance of both stations. As crowds are expected in the area during the festival, public transport is recommended.
+
+## Around the Area
+
+Yokkaichi is an industrial city in northern Mie Prefecture, and the factory night views of the Yokkaichi industrial complex have become a popular tourist draw in recent years. With a location facing Ise Bay, seafood is also abundant. Nearby, attractions of northern and central Mie are dotted around, including Yunoyama Onsen, the nature of Mount Gozaisho, the Ise Grand Shrine, and the Suzuka Circuit. Together with the distinctive Tomida whale-boat festival, it is an area where one can enjoy the history, culture, and industrial tourism of Mie.','tomida-kujirabune-festival','tomida-kujirabune-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11476051','峠の国盗り綱引き合戦','Tōge no Kunitori Tsunahiki Gassen',NULL,NULL,'Q11393703','兵越峠','Hyogoshi Pass',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B3%A0%E3%81%AE%E5%9B%BD%E7%9B%97%E3%82%8A%E7%B6%B1%E5%BC%95%E3%81%8D%E5%90%88%E6%88%A6',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11447453','姫路ゆかたまつり','Himeji Yukata Matsuri',NULL,NULL,'Q11651657','長壁神社','Osakabe Shrine','兵庫県','kinki',NULL,NULL,1742,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Himeji%20Yukata%20Matsuri%202009p1%20003.jpg','https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E3%82%86%E3%81%8B%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11437490','大淀祇園祭','Ōyodo Gion Matsuri',NULL,'festival in Meiwa, Mie prefecture, Japan',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B7%80%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11437523','大湊ネブタ','Ōminato Nebuta','青森県むつ市で行われるねぶた',NULL,'Q11437522','大湊','Ōminato','青森県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Ominatonebuta.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E3%83%8D%E3%83%96%E3%82%BF',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11437523','大湊ネブタ','Ōminato Nebuta','青森県むつ市で行われるねぶた',NULL,'Q11437522','大湊','Ōminato','青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ominatonebuta.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E3%83%8D%E3%83%96%E3%82%BF',NULL,85,'drafted','## 大湊ネブタとは
+
+大湊ネブタ（おおみなとネブタ）は、青森県むつ市の大湊地区で毎年夏に行われる、ねぶた（ねぷた）行事です。下北半島の中心都市・むつ市の夏を彩る祭りで、武者絵などを描いた大きな灯籠「ネブタ」が、囃子にのって市街地を練り歩きます。青森ねぶた・弘前ねぷたとはまた異なる、下北地方ならではの趣を持つ、地域に根づいた夏の風物詩です。
+
+## 歴史と由来
+
+大湊ネブタは、青森県内に広く伝わるねぶた行事のひとつで、下北半島の港町・大湊に伝わる夏祭りです。ねぶた行事は、夏の睡魔(ねむた)を払い、無病息災を祈る「眠り流し」の信仰に由来するとされ、青森県各地でそれぞれ独自の発展を遂げてきました。大湊は旧海軍の要港として栄えた歴史を持つ町で、その町の人々の手によって、ねぶたの灯りと囃子が夏の夜を彩る伝統行事として受け継がれてきました。
+
+## 見どころ
+
+最大の見どころは、武者絵や歴史上の人物などを描いた大きなネブタの灯籠が、夜の市街地を巡行する幻想的な光景です。闇に煌々と灯るネブタの彩色の美しさと、笛・太鼓・手振り鉦の囃子にのって踊り歩く跳人(はねと)たちの熱気が、夏の夜を盛り上げます。地域の人々が一体となって作り上げる祭りならではの、親しみやすく温かな雰囲気も魅力。下北の港町に響く囃子と灯りの祭りを体感できます。
+
+## 開催情報
+
+例年夏（8月）に、青森県むつ市の大湊地区で開催されます。夏祭りであり、季節は夏。ネブタの運行は夜間に行われます。最新の日程やルートは、むつ市および地元の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場のむつ市大湊地区へは、JR大湊線「大湊駅」からアクセスできます。青森市方面からJRを利用してアクセスできますが、下北半島は鉄道の便が限られるため、事前に交通手段を確認しておくと安心です。車の場合はむつ市内の駐車場を利用できますが、祭り当日は混雑が予想されます。
+
+## 周辺観光
+
+むつ市は、本州最北端の下北半島の中心都市で、霊場・恐山(おそれざん)で全国に名高い地です。荒涼とした火山地形と硫黄の香りに包まれた恐山は、日本三大霊場のひとつとして知られています。また、北限の猿が暮らす脇野沢や、本州最北端の大間崎(大間のマグロで有名)など、下北ならではの大自然と独特の文化が魅力。夏祭りとあわせて、本州最果ての地・下北半島の旅を楽しめるエリアです。','## What Is Ōminato Nebuta?
+
+Ōminato Nebuta is a *nebuta* (neputa) event held each summer in the Ōminato district of Mutsu, Aomori Prefecture. A festival that colors the summer of Mutsu, the central city of the Shimokita Peninsula, it sees large lantern floats called "Nebuta," painted with warrior pictures and the like, parade through the city center to festival music. With a character distinctive to the Shimokita region, different again from the Aomori Nebuta and the Hirosaki Neputa, it is a summer tradition rooted in the community.
+
+## History and Origins
+
+Ōminato Nebuta is one of the *nebuta* events widely transmitted within Aomori Prefecture, a summer festival handed down in the port town of Ōminato on the Shimokita Peninsula. *Nebuta* events are said to derive from the "nemuri-nagashi" belief of driving away summer drowsiness (*nemuta*) and praying for good health, and each has undergone its own development in various parts of Aomori. Ōminato is a town with a history of prosperity as a key port of the former navy, and through the hands of its people, the light and music of the *nebuta* have been handed down as a traditional event that colors the summer nights.
+
+## Highlights
+
+The greatest attraction is the magical sight of large Nebuta lanterns, painted with warrior pictures and historical figures, processing through the city center at night. The beauty of the Nebuta''s coloring glowing radiantly in the dark, and the fervor of the *haneto* dancers who dance to the music of flute, drum, and hand-gong, enliven the summer night. The approachable and warm atmosphere distinctive to a festival created by local people as one is also part of its appeal. Visitors can experience a festival of music and light echoing through a port town of Shimokita.
+
+## When It Takes Place
+
+The festival is typically held in summer (August) in the Ōminato district of Mutsu, Aomori Prefecture. As a summer festival, its season is summer. The Nebuta procession takes place at night. Visitors are advised to confirm the latest dates and routes in advance through official announcements from Mutsu City and the local organizers.
+
+## Access
+
+The Ōminato district of Mutsu can be reached via Ōminato Station on the JR Ōminato Line. It can be accessed by JR from the direction of Aomori City, but as rail service on the Shimokita Peninsula is limited, it is reassuring to confirm transportation in advance. By car, parking within Mutsu City is available, but crowds are expected on the day of the festival.
+
+## Around the Area
+
+Mutsu is the central city of the Shimokita Peninsula, the northernmost part of Honshu, and is famed nationwide for the sacred site of Mount Osore. Wrapped in desolate volcanic terrain and the scent of sulfur, Mount Osore is known as one of Japan''s three great sacred grounds. The charm of Shimokita also lies in its distinctive culture and great nature, including Wakinosawa, home to the northernmost monkeys, and Cape Ōma at the northern tip of Honshu (famous for Ōma tuna). Together with the summer festival, it is an area where one can enjoy a journey to the Shimokita Peninsula, the far end of Honshu.','ominato-nebuta','ominato-nebuta',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11442078','大黒流','Daikoku-nagare','博多祇園山笠や博多松囃子（博多どんたく）の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BB%92%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11462179','小樽雪あかりの路','Otaru Snow Light Path','北海道小樽市で開催される祭典',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1999,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Otaru%20Yuki%20Akari%20no%20Michi.jpg','https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%9B%AA%E3%81%82%E3%81%8B%E3%82%8A%E3%81%AE%E8%B7%AF',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11465777','山あげ祭','Yamaage Matsuri','栃木県那須烏山市の八雲神社例大祭の奉納行事',NULL,'Q137321824',NULL,'Yakumo Shrine','栃木県','kanto',NULL,NULL,1560,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Yamaage%20Matsuri%2004.JPG','https://ja.wikipedia.org/wiki/%E5%B1%B1%E3%81%82%E3%81%92%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11462179','小樽雪あかりの路','Otaru Snow Light Path','北海道小樽市で開催される祭典',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1999,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Otaru%20Yuki%20Akari%20no%20Michi.jpg','https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%9B%AA%E3%81%82%E3%81%8B%E3%82%8A%E3%81%AE%E8%B7%AF',NULL,85,'drafted','## 小樽雪あかりの路とは
+
+小樽雪あかりの路（おたるゆきあかりのみち）は、北海道小樽市で毎年2月に開催される、雪と灯りの祭典です。歴史的な運河や石造倉庫が残るレトロな港町・小樽を舞台に、スノーキャンドルやガラスの浮き玉に灯したろうそくの灯りが、雪景色の町を温かく照らし出します。「雪あかり」という名のとおり、無数の小さな灯りが冬の小樽を幻想的に彩る、ロマンチックな冬のイベントです。
+
+## 歴史と由来
+
+小樽雪あかりの路は、1999年（平成11年）に始まった比較的新しいイベントです。かつてニシン漁と海運で栄えた小樽の歴史的な街並みを活かし、冬の小樽の魅力を発信しようと企画されました。雪国・小樽ならではの雪と、港町の象徴であるガラス工芸(浮き玉)を組み合わせた灯りの演出が特徴で、市民ボランティアの手によって毎年キャンドルが灯され続けてきました。手作りのあたたかみあふれる演出が人々の心をとらえ、今では北海道の冬を代表するイベントのひとつとなっています。
+
+## 見どころ
+
+最大の見どころは、小樽運河沿いに灯される無数のキャンドルの幻想的な光景です。運河の水面に浮かべられたガラスの浮き玉に揺れるろうそくの灯りや、雪で作られたスノーキャンドルのあたたかな光が、歴史的な運河と石造倉庫を照らし出す様は、息をのむ美しさ。手宮線跡地の会場では、雪のオブジェやトンネル状の灯りの回廊なども楽しめます。雪と炎が織りなす、静かであたたかな小樽の冬の夜を、心ゆくまで堪能できます。
+
+## 開催情報
+
+例年2月（おおむね中旬）の約10日間、北海道小樽市の小樽運河会場・手宮線会場ほか市内各所で開催されます。冬のイベントであり、季節は冬。点灯は夕方から夜にかけて行われます。厳寒期の開催のため、見学の際は十分な防寒・雪対策が必要です。最新の日程は小樽市および主催団体の公式発表で確認してください。
+
+## アクセス
+
+メイン会場の小樽運河へは、JR函館本線「小樽駅」から徒歩圏内とアクセスが良好です。札幌駅からJRで約30〜40分と近く、新千歳空港方面からもアクセスしやすい立地です。冬季は積雪・路面凍結があるため、滑りにくい靴での来訪がおすすめです。同時期開催の「さっぽろ雪まつり」とあわせて訪れる人も多くいます。
+
+## 周辺観光
+
+小樽市は、明治・大正期の歴史的建造物が数多く残る、ノスタルジックな港町です。シンボルの小樽運河や、ガラス工芸・オルゴール・スイーツの店が並ぶ堺町通り、北一硝子などが人気の観光スポット。新鮮な海の幸を味わえる寿司屋通りも有名です。札幌からの日帰り観光地としても人気で、冬は雪景色の運河、夏は爽やかな港町の風情が楽しめます。雪あかりの路とあわせて、レトロな小樽の街歩きを満喫できるエリアです。','## What Is the Otaru Snow Light Path?
+
+The Otaru Snow Light Path is a festival of snow and light held each February in Otaru, Hokkaido. Set in the retro port town of Otaru, where historic canals and stone warehouses remain, the light of snow candles and candles lit in glass fishing floats warmly illuminates the snow-covered town. True to the name "Snow Light," it is a romantic winter event in which countless tiny lights magically color the winter of Otaru.
+
+## History and Origins
+
+The Otaru Snow Light Path is a relatively recent event that began in 1999. It was conceived to make use of the historic streetscape of Otaru, which once prospered through herring fishing and shipping, and to convey the charm of Otaru in winter. It is characterized by a lighting display that combines the snow distinctive to the snow country of Otaru with glasswork (fishing floats), a symbol of the port town, and the candles have continued to be lit each year by the hands of citizen volunteers. The handmade, warmth-filled staging has captured people''s hearts, and today it has become one of the events representative of winter in Hokkaido.
+
+## Highlights
+
+The greatest attraction is the magical sight of countless candles lit along the Otaru Canal. The sight of candlelight flickering in glass fishing floats afloat on the canal''s surface, and the warm light of snow candles made of snow, illuminating the historic canal and stone warehouses, is of breathtaking beauty. At the venue on the former Temiya Line site, snow sculptures and a corridor of tunnel-shaped lights can also be enjoyed. Visitors can savor to their heart''s content the quiet, warm winter night of Otaru woven from snow and flame.
+
+## When It Takes Place
+
+The festival is held for about ten days in February (generally mid-month) at the Otaru Canal venue, the Temiya Line venue, and various other places throughout Otaru, Hokkaido. As a winter event, its season is winter. The lighting takes place from evening into night. As it takes place in the depths of winter, ample protection against the cold and snow is necessary when viewing. Please confirm the latest dates through official announcements from Otaru City and the organizers.
+
+## Access
+
+The Otaru Canal, the main venue, enjoys good access, within walking distance of Otaru Station on the JR Hakodate Main Line. Close to Sapporo Station at about 30–40 minutes by JR, it is also easily reached from the direction of New Chitose Airport. As there is snow and icy roads in winter, a visit in non-slip footwear is recommended. Many people visit it together with the "Sapporo Snow Festival," held around the same time.
+
+## Around the Area
+
+Otaru is a nostalgic port town where many historic buildings of the Meiji and Taishō eras remain. Popular tourist spots include the symbolic Otaru Canal, Sakaimachi-dōri lined with shops of glasswork, music boxes, and sweets, and Kitaichi Glass. The "Sushiya-dōri" street, where one can savor fresh seafood, is also famous. Popular as a day-trip destination from Sapporo, it offers the snowy canal in winter and the refreshing atmosphere of a port town in summer. Together with the Snow Light Path, it is an area where one can savor a stroll through retro Otaru.','otaru-snow-light-path','otaru-snow-light-path',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11465777','山あげ祭','Yamaage Matsuri','栃木県那須烏山市の八雲神社例大祭の奉納行事',NULL,'Q137321824',NULL,'Yakumo Shrine','栃木県','kanto',NULL,NULL,1560,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Yamaage%20Matsuri%2004.JPG','https://ja.wikipedia.org/wiki/%E5%B1%B1%E3%81%82%E3%81%92%E7%A5%AD',NULL,85,'drafted','## 山あげ祭とは
+
+山あげ祭（やまあげまつり）は、栃木県那須烏山市の八雲神社で毎年夏に行われる例大祭の奉納行事です。「山あげ」と呼ばれる、和紙を幾重にも貼り重ねた巨大な舞台背景を野外に組み立て、その前で歌舞伎舞踊「常磐津(ときわず)」を奉納する、全国的にも類を見ない移動式野外歌舞伎の祭りとして知られています。約460年の歴史を持ち、国の重要無形民俗文化財に指定されるとともに、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。
+
+## 歴史と由来
+
+山あげ祭は、永禄3年（1560年）、烏山城主が八雲神社を勧請し、疫病退散と五穀豊穣を祈願したことに始まると伝えられます。当初は相撲や神楽などが奉納されていましたが、江戸時代に歌舞伎舞踊の奉納が加わり、それを彩る背景として「山あげ」が発展しました。「山」とは、烏山特産の那須楮(なすこうぞ)で漉いた和紙を貼り重ねた巨大な背景画のことで、これを「あげる(立てる)」ことから「山あげ」の名がつきました。地域の人々の手で約460年にわたり受け継がれてきた、誇り高き伝統行事です。
+
+## 見どころ
+
+最大の見どころは、巨大な「山」を野外に組み立て、その前で繰り広げられる野外歌舞伎舞踊です。高さ十数メートルにも及ぶ和紙の背景や、はりか山、館などの大道具が、わずかな時間で手際よく組み立てられ、町の通りが瞬く間に歌舞伎の舞台へと変貌する様は圧巻。その大舞台を背景に、優雅な常磐津の舞踊が奉納されます。場所を移動しながら何度も舞台を組み立て直す「移動式」であることも、この祭りならではの特徴。職人技と芸能が一体となった、見ごたえのある祭りです。
+
+## 開催情報
+
+例年夏（7月）の第4金曜日からの3日間、栃木県那須烏山市の市街地で開催されます。夏の例大祭の奉納行事であり、季節は夏。山あげと歌舞伎舞踊の上演場所・日程は年によって異なるため、那須烏山市および地元の保存会・観光協会の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の那須烏山市街地へは、JR烏山線「烏山駅」から徒歩圏内です。宇都宮駅からJR烏山線を利用してアクセスできます。車の場合は周辺の駐車場を利用できますが、開催期間中は市街地で交通規制が敷かれるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+那須烏山市は、那珂川の清流に恵まれた自然豊かな町で、鮎漁や、龍門の滝などの景勝地が知られます。山あげ祭の歴史と魅力を一年中体感できる「山あげ会館」では、ミニチュアの山あげ実演などを見学できます。那須高原や益子焼の里にも比較的近く、栃木の自然・歴史・文化を満喫できるエリア。夏の山あげ祭とあわせて、那珂川流域ののどかな魅力を楽しめます。','## What Is the Yamaage Matsuri?
+
+The Yamaage Matsuri is a votive event of the grand annual festival held each summer at Yakumo Shrine in Nasukarasuyama, Tochigi Prefecture. Known as a festival of mobile open-air kabuki without parallel even nationwide, it involves assembling outdoors a giant stage backdrop called "yamaage"—made of many layers of washi paper pasted together—and dedicating the kabuki dance "Tokiwazu" before it. With a history of some 460 years, it is designated an Important Intangible Folk Cultural Property of Japan and is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals."
+
+## History and Origins
+
+The Yamaage Matsuri is said to have begun in 1560, when the lord of Karasuyama Castle invited the enshrinement of Yakumo Shrine and prayed for the dispelling of epidemics and abundant harvests. Initially, sumo and kagura were dedicated, but in the Edo period the dedication of kabuki dance was added, and the "yamaage" developed as the backdrop to color it. The "yama" is a giant background painting made of layers of washi paper made from the Nasu *kōzo* (paper mulberry) special to Karasuyama, and from "raising" (erecting) this, the name "yamaage" arose. It is a proud traditional event that has been handed down for about 460 years by the hands of local people.
+
+## Highlights
+
+The greatest attraction is the open-air kabuki dance that unfolds before the giant "yama" assembled outdoors. The sight of washi backdrops over ten meters tall and large props such as the *harika-yama* and a mansion being skillfully assembled in a short time, with the town''s streets transforming in an instant into a kabuki stage, is breathtaking. Against that grand stage, graceful Tokiwazu dance is dedicated. Being "mobile," repeatedly reassembling the stage while moving from place to place, is also a feature unique to this festival. It is a rewarding festival in which artisanship and performing art become one.
+
+## When It Takes Place
+
+The festival is typically held over three days from the fourth Friday of July in summer in the city center of Nasukarasuyama, Tochigi Prefecture. As a votive event of the summer grand festival, its season is summer. Because the locations and dates of the yamaage and the kabuki dance performances vary from year to year, visitors are advised to confirm details in advance through official announcements from Nasukarasuyama City and the local preservation society and tourism association.
+
+## Access
+
+The city center of Nasukarasuyama is within walking distance of Karasuyama Station on the JR Karasuyama Line. It can be accessed via the JR Karasuyama Line from Utsunomiya Station. By car, nearby parking is available, but because traffic restrictions are imposed in the city center during the festival, public transport is recommended.
+
+## Around the Area
+
+Nasukarasuyama is a richly natural town blessed with the clear waters of the Naka River, known for *ayu* (sweetfish) fishing and scenic spots such as the Ryūmon Falls. At the "Yamaage Hall," where one can experience the history and charm of the Yamaage Matsuri all year round, visitors can see demonstrations such as a miniature yamaage. Relatively close to the Nasu highlands and the Mashiko ware pottery village, it is an area where one can savor the nature, history, and culture of Tochigi. Together with the summer Yamaage Matsuri, one can enjoy the pastoral charm of the Naka River basin.','yamaage-matsuri','yamaage-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11454224','宮崎国際音楽祭','Miyazaki International Music Festival',NULL,NULL,'Q11454461','宮崎県立芸術劇場','Miyazaki Prefectural Arts Center','宮崎県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11440018','大阪三大夏祭り','Three Great Summer Festivals of Osaka','大阪府大阪市で開催される代表的な3つの夏祭り',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%89%E5%A4%A7%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11450469','安城七夕まつり','Anjo Tanabata Festival','愛知県安城市の祭',NULL,NULL,NULL,NULL,'愛知県','chubu',34.959986,137.08716,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Anjo-Tanabata-Matsuri-2023-6.jpg','https://ja.wikipedia.org/wiki/%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
@@ -4444,7 +4708,51 @@ INSERT INTO "festivals" VALUES('Q11436847','大江戸花火まつり',NULL,NULL,
 INSERT INTO "festivals" VALUES('Q11436902','大池まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11438152','大石りくまつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E3%82%8A%E3%81%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11438548','大胡祇園まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%83%A1%E7%A5%87%E5%9C%92%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11457148','富田の石取祭','Tomida Ishidori Matsuri','三重県四日市市で開催される祭り',NULL,'Q11457136','富田地区','Tomida','三重県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tomida%20ishidori.JPG','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11457148','富田の石取祭','Tomida Ishidori Matsuri','三重県四日市市で開催される祭り',NULL,'Q11457136','富田地区','Tomida','三重県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tomida%20ishidori.JPG','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD',NULL,85,'drafted','## 富田の石取祭とは
+
+富田の石取祭（とみだのいしどりまつり）は、三重県四日市市富田地区で毎年夏に行われる祭りです。「石取祭」は、北勢地方(三重県北部)に広く伝わる祭礼で、太鼓と鉦(かね)を激しく打ち鳴らす「祭車(さいしゃ)」が町を練り歩く、勇壮かつ賑やかな夏祭りとして知られています。「日本一やかましい祭り」とも称される桑名の石取祭で名高い石取祭の系統に連なる、富田地区ならではの夏の風物詩です。
+
+## 歴史と由来
+
+石取祭は、もともと神社の祭りに用いる清浄な石を川から取ってくる神事「石取り」に由来するとされます。北勢地方では、この石取りの行事が、太鼓と鉦を打ち鳴らしながら祭車を曳く賑やかな祭りへと発展しました。富田の石取祭も、この地域の信仰と伝統を受け継ぎ、町衆の手によって守られてきた祭礼です。各町が誇る祭車は、精緻な彫刻や金具で飾られた豪華なもので、地域の人々の心意気を今に伝えています。
+
+## 見どころ
+
+最大の見どころは、太鼓と鉦を力いっぱい打ち鳴らしながら、祭車が町を練り歩く勇壮な光景です。「 コンチキチン」と響く鉦の音と、腹に響く太鼓の音が一体となった迫力ある演奏は、石取祭ならではの醍醐味。提灯で美しく飾られた祭車が夜の町を進む様は幻想的で、囃子方の熱気と相まって祭りを盛り上げます。豪華に飾られた祭車そのものの美しさも見どころのひとつ。北勢の夏を彩る、賑やかで活気あふれる祭りを体感できます。
+
+## 開催情報
+
+例年夏（8月）に、三重県四日市市富田地区で開催されます。夏祭りであり、季節は夏。祭車の運行は夜間が中心です。日程やルートの詳細は年によって異なるため、四日市市および地元の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の富田地区へは、JR関西本線「富田駅」や近鉄名古屋線「近鉄富田駅」からアクセスできます。四日市市の北部に位置し、名古屋方面からJRや近鉄を利用してアクセスできます。期間中は周辺で交通規制や混雑が予想されるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+四日市市は、三重県北部の中核都市で、工場夜景や伊勢湾の海の幸が楽しめます。同じ富田地区では、ユネスコ無形文化遺産にも登録された「富田の鯨船行事」も行われており、あわせて地域の祭り文化に触れられます。近隣の桑名市では、石取祭の本場として名高い「桑名石取祭」が開催されるほか、なばなの里や長島温泉などの観光地も。北勢地方の祭り文化と観光を満喫できるエリアです。','## What Is the Tomida Ishidori Matsuri?
+
+The Tomida Ishidori Matsuri is a festival held each summer in the Tomida district of Yokkaichi, Mie Prefecture. The "Ishidori Matsuri" is a festival widely transmitted in the Hokusei region (northern Mie Prefecture), known as a spirited and lively summer festival in which "festival carts" (*saisha*) fiercely beating drums and gongs parade through the town. It is a summer tradition distinctive to the Tomida district, belonging to the lineage of the Ishidori festivals made famous by the Kuwana Ishidori Matsuri, which is also called "the noisiest festival in Japan."
+
+## History and Origins
+
+The Ishidori Matsuri is said to derive originally from the rite of "ishidori," in which pure stones used in a shrine''s festival were gathered from a river. In the Hokusei region, this stone-gathering event developed into a lively festival in which festival carts are pulled while drums and gongs are beaten. The Tomida Ishidori Matsuri, too, inheriting the faith and tradition of this region, is a festival that has been protected by the hands of the townspeople. The festival carts that each neighborhood takes pride in are gorgeous, adorned with intricate carvings and metalwork, conveying to this day the spirit of local people.
+
+## Highlights
+
+The greatest attraction is the spirited sight of festival carts parading through the town while drums and gongs are beaten with all one''s might. The powerful playing, in which the ringing of the gongs and the belly-shaking sound of the drums become one, is the real charm of the Ishidori Matsuri. The sight of festival carts beautifully adorned with lanterns advancing through the town at night is magical, enlivening the festival together with the fervor of the musicians. The beauty of the lavishly decorated festival carts themselves is also a highlight. Visitors can experience a lively and energetic festival that colors the summer of Hokusei.
+
+## When It Takes Place
+
+The festival is typically held in summer (August) in the Tomida district of Yokkaichi, Mie Prefecture. As a summer festival, its season is summer. The operation of the festival carts is centered on the night. Because the details of dates and routes vary from year to year, visitors are advised to confirm in advance through official announcements from Yokkaichi City and the local organizers.
+
+## Access
+
+The Tomida district can be reached from Tomida Station on the JR Kansai Main Line and Kintetsu-Tomida Station on the Kintetsu Nagoya Line. Located in the northern part of Yokkaichi, it can be accessed by JR or Kintetsu from the direction of Nagoya. As traffic restrictions and crowds are expected in the area during the festival, public transport is recommended.
+
+## Around the Area
+
+Yokkaichi is a core city in northern Mie Prefecture where one can enjoy factory night views and the seafood of Ise Bay. In the same Tomida district, the "Tomida Kujirabune Festival," also inscribed on the UNESCO Intangible Cultural Heritage list, is held, allowing visitors to engage with the region''s festival culture as well. In nearby Kuwana, the "Kuwana Ishidori Matsuri," famed as the home of the Ishidori festival, is held, along with tourist destinations such as Nabana no Sato and Nagashima Onsen. It is an area where one can savor the festival culture and tourism of the Hokusei region.','tomida-ishidori-matsuri','tomida-ishidori-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11438786','大蛇山 (祭り)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%9B%87%E5%B1%B1_(%E7%A5%AD%E3%82%8A)',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11439837','大門曳山まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11442147','天ヶ須賀の石取祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%B6%E9%A0%88%E8%B3%80%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -4462,7 +4770,51 @@ INSERT INTO "festivals" VALUES('Q11479257','川越百万灯夏祭り',NULL,NULL,
 INSERT INTO "festivals" VALUES('Q11458640','将門まつり','Masakado Matsuri','茨城県坂東市で行われる祭',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,1972,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B0%86%E9%96%80%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11481774','幌武者行列',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11439317','大送神社の綱引き','Ōsō Shrine Tug-of-War',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%80%81%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%B6%B1%E5%BC%95%E3%81%8D',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11454559','宮崎神宮大祭','Miyazaki Shrine Grand Festival','宮崎県宮崎市で行われる宮崎神宮の例祭',NULL,'Q704686','宮﨑神宮','Miyazaki Jingū','宮崎県','kyushu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Miyazaki%20Shrine%20Grand%20Festival%20in%202008%20Gohouren%2001.jpg','https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11454559','宮崎神宮大祭','Miyazaki Shrine Grand Festival','宮崎県宮崎市で行われる宮崎神宮の例祭',NULL,'Q704686','宮﨑神宮','Miyazaki Jingū','宮崎県','kyushu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Miyazaki%20Shrine%20Grand%20Festival%20in%202008%20Gohouren%2001.jpg','https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','## 宮崎神宮大祭とは
+
+宮崎神宮大祭（みやざきじんぐうたいさい）は、宮崎県宮崎市の宮崎神宮で毎年秋に行われる例大祭です。「神武さま（じんむさま）」の愛称で親しまれ、宮崎県を代表する祭りとして知られています。神話を題材にした華やかな御神幸行列(ごしんこうぎょうれつ)が市街地を練り歩き、「ミスシャンシャン馬」や神賑(しんしん)パレードなど、多彩な催しで賑わう、宮崎の秋の一大イベントです。
+
+## 歴史と由来
+
+宮崎神宮は、初代天皇とされる神武天皇(神日本磐余彦尊)を主祭神として祀る神社です。神武天皇が日向(宮崎)の地から東征に出発したという神話に由来し、神話と建国にゆかりの深い由緒ある神社として、地域の篤い信仰を集めてきました。宮崎神宮大祭は、その神武天皇を称える例大祭として執り行われ、「神武さま」の愛称とともに、宮崎の人々に長く親しまれてきた秋の風物詩です。
+
+## 見どころ
+
+最大の見どころは、神話の世界を再現した華やかな御神幸行列です。神輿を中心に、稚児行列や時代装束をまとった人々が市街地を練り歩く様は壮観で、見物客を神話の時代へと誘います。なかでも、花嫁が美しく飾られた馬に乗って練り歩く「ミスシャンシャン馬」は、鈴の音とともに進む宮崎ならではの華やかな名物。雅楽や踊りなどの神賑行事も行われ、伝統と賑わいが一体となった、宮崎の秋を彩る祭りを満喫できます。
+
+## 開催情報
+
+例年秋（10月）に、宮崎県宮崎市の宮崎神宮および市街地一帯で開催されます。秋の例大祭であり、季節は秋。御神幸行列やパレードの日程・ルートは年によって異なるため、宮崎神宮および宮崎市の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の宮崎神宮へは、JR日豊本線「宮崎神宮駅」から徒歩圏内とアクセスが良好です。宮崎市中心部からも近く、宮崎駅方面からJRや車でアクセスできます。御神幸行列は市街地を巡行するため、沿道各所で見学できます。期間中は混雑が予想されるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+宮崎市は、温暖な気候とフェニックス並木が南国情緒を醸し出す、日向神話の舞台です。宮崎神宮のほか、海辺の青島神社や鬼の洗濯板、神話で名高い高千穂(県北)など、神話ゆかりの地が県内各所に点在します。チキン南蛮や宮崎牛、マンゴーといった名物グルメも豊富。日南海岸の美しい景観とあわせて、神話の国・宮崎の自然・歴史・食を満喫できるエリアです。','## What Is the Miyazaki Shrine Grand Festival?
+
+The Miyazaki Shrine Grand Festival is the grand annual festival of Miyazaki Jingū shrine in Miyazaki City, Miyazaki Prefecture, held each autumn. Affectionately known as "Jinmu-sama," it is recognized as a festival representative of Miyazaki Prefecture. A gorgeous *goshinkō* procession based on mythology parades through the city center, and with varied events such as the "Miss Shanshan Horse" and the *shinshin* parade, it is a major autumn event of Miyazaki.
+
+## History and Origins
+
+Miyazaki Jingū is a shrine enshrining as its principal deity Emperor Jinmu (Kamuyamato Iwarehiko no Mikoto), regarded as the first emperor. Deriving from the myth that Emperor Jinmu set out on his eastern expedition from the land of Hyūga (Miyazaki), it has drawn the deep devotion of the region as a venerable shrine closely associated with myth and the founding of the nation. The Miyazaki Shrine Grand Festival is held as the grand annual festival honoring Emperor Jinmu, and along with the affectionate name "Jinmu-sama," it is an autumn tradition long cherished by the people of Miyazaki.
+
+## Highlights
+
+The greatest attraction is the gorgeous *goshinkō* procession that recreates the world of myth. The sight of a portable shrine at the center, with a children''s procession and people in period costume parading through the city center, is magnificent, drawing spectators into the age of myth. Among them, the "Miss Shanshan Horse," in which a bride parades on a beautifully decorated horse, is a gorgeous feature distinctive to Miyazaki, advancing to the sound of bells. *Shinshin* events such as *gagaku* court music and dance are also held, allowing visitors to fully enjoy a festival that colors the autumn of Miyazaki, where tradition and liveliness become one.
+
+## When It Takes Place
+
+The festival is typically held in autumn (October) at Miyazaki Jingū and throughout the city center of Miyazaki City, Miyazaki Prefecture. As an autumn grand festival, its season is autumn. Because the dates and routes of the *goshinkō* procession and the parade vary from year to year, visitors are advised to confirm details in advance through official announcements from Miyazaki Jingū and Miyazaki City.
+
+## Access
+
+Miyazaki Jingū enjoys good access, within walking distance of Miyazaki-jingū Station on the JR Nippō Main Line. Close to central Miyazaki City, it can be reached by JR or car from the direction of Miyazaki Station. As the *goshinkō* procession winds through the city center, it can be viewed at various points along the route. As crowds are expected during the festival, public transport is recommended.
+
+## Around the Area
+
+Miyazaki City, with a warm climate and rows of phoenix palms that evoke a southern mood, is the stage of the Hyūga myths. In addition to Miyazaki Jingū, places associated with myth are dotted throughout the prefecture, including the seaside Aoshima Shrine, the "Devil''s Washboard" rock formations, and the famed Takachiho (in the north). Local specialties such as chicken nanban, Miyazaki beef, and mango are also abundant. Together with the beautiful scenery of the Nichinan Coast, it is an area where one can savor the nature, history, and food of Miyazaki, the land of myth.','miyazaki-shrine-grand-festival','miyazaki-shrine-grand-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11471288','岐阜まつり','Gifu Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11465749','層雲峡氷瀑まつり','Sōunkyō Icefall Festival','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.727138888,142.948777777,1976,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Souunkyouhyoubakumatsuri.jpg','https://ja.wikipedia.org/wiki/%E5%B1%A4%E9%9B%B2%E5%B3%A1%E6%B0%B7%E7%80%91%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
@@ -4541,9 +4893,97 @@ The venue is in front of Yakushidō Hall on the main street of Matsunoyama Onsen
 Matsunoyama Onsen is ranked as one of Japan''s three great medicinal hot springs, known for its highly saline, hypertonic waters. Combining the festival with a hot-spring retreat is a popular winter itinerary. The surrounding area is home to numerous installations from the Echigo-Tsumari Art Triennale, often called "the world''s final deep-winter open-air art museum" thanks to its stunning snow-covered landscapes. Visitors who time their trip with the Tōkamachi Snow Festival in February can experience the depth of Japan''s snow country culture.','mukonage-suminuri','mukonage-suminuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11475588','岩船大祭',NULL,'新潟県村上市の祭事',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%B9%E5%A4%A7%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11475809','岸和田十月祭礼',NULL,'大阪府岸和田市の6地区で行われるだんじり祭の総称',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E5%8D%81%E6%9C%88%E7%A5%AD%E7%A4%BC',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11462952','小田原北條五代祭り','Odawara Hōjō Godai Festival','神奈川県小田原市の伝統的な祭り',NULL,'Q267258','小田原市','Odawara','神奈川県','kanto',NULL,NULL,1965,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/HJ5SH1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%8C%97%E6%A2%9D%E4%BA%94%E4%BB%A3%E7%A5%AD%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11462952','小田原北條五代祭り','Odawara Hōjō Godai Festival','神奈川県小田原市の伝統的な祭り',NULL,'Q267258','小田原市','Odawara','神奈川県','kanto',NULL,NULL,1965,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/HJ5SH1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%8C%97%E6%A2%9D%E4%BA%94%E4%BB%A3%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 小田原北條五代祭りとは
+
+小田原北條五代祭り（おだわらほうじょうごだいまつり）は、神奈川県小田原市で毎年5月3日に開催される、小田原を代表する祭りです。戦国時代に関東一円を支配した戦国大名・後北条氏(小田原北条氏)五代の栄華をしのび、武者や姫に扮した人々による華やかな武者行列が小田原城下を練り歩く、勇壮で煌びやかな歴史絵巻が繰り広げられます。ゴールデンウィークの小田原を彩る、人気の春の祭りです。
+
+## 歴史と由来
+
+小田原北條五代祭りは、1965年（昭和40年）に始まった祭りで、後北条氏の偉業を称え、その歴史と文化を顕彰することを目的としています。後北条氏は、北条早雲を祖とし、氏綱・氏康・氏政・氏直の五代にわたって約100年間、小田原を本拠に関東に一大勢力を築いた戦国大名です。難攻不落の名城・小田原城を中心に栄えたその時代を再現するこの祭りは、小田原の歴史を今に伝える、市民に愛される祭礼として定着しました。
+
+## 見どころ
+
+最大の見どころは、甲冑に身を包んだ武者や、艶やかな衣装をまとった姫たちによる「武者行列」です。後北条氏五代をはじめとする総勢1,500人規模ともいわれる大行列が、勇壮な隊列を組んで小田原城周辺を練り歩く様は、まさに戦国絵巻そのもの。鉄砲隊や音楽隊なども加わり、観客を戦国時代へと誘います。出陣式や、小田原城をバックにした勇壮な光景は迫力満点。歴史ファンならずとも楽しめる、華やかで見ごたえのある祭りです。
+
+## 開催情報
+
+毎年5月3日のゴールデンウィークに、神奈川県小田原市の小田原城址公園および市街地一帯で開催されます。春の祭りであり、季節は春。武者行列のルートや関連イベントの日程は年によって異なるため、小田原市および主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の小田原城へは、JR東海道本線・小田急小田原線・東海道新幹線「小田原駅」から徒歩圏内とアクセスが抜群です。新幹線停車駅であるため、東京方面からも約35分とアクセス良好。箱根観光の玄関口でもあり、各方面から訪れやすい立地です。期間中は混雑が予想されるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+小田原市は、戦国時代の名城・小田原城を中心とする歴史の町であり、箱根や湯河原などの温泉地への玄関口としても知られます。天守閣がそびえる小田原城址公園は、桜や花菖蒲の名所としても人気。相模湾に面し、小田原かまぼこや干物などの海の幸も豊富です。箱根の温泉や芦ノ湖、彫刻の森美術館などの観光地も近く、小田原北條五代祭りとあわせて、神奈川西部の歴史・自然・温泉を満喫できるエリアです。','## What Is the Odawara Hōjō Godai Festival?
+
+The Odawara Hōjō Godai Festival is a festival representative of Odawara, held each year on 3 May in Odawara, Kanagawa Prefecture. Recalling the glory of the five generations of the Go-Hōjō clan (the Odawara Hōjō), warlords who ruled the whole Kantō region in the Sengoku period, it unfolds a spirited and resplendent historical pageant, with a gorgeous warrior procession of people dressed as warriors and princesses parading through the castle town of Odawara. It is a popular spring festival that colors Odawara during the Golden Week holidays.
+
+## History and Origins
+
+The Odawara Hōjō Godai Festival is a festival that began in 1965, with the aim of honoring the achievements of the Go-Hōjō clan and commemorating their history and culture. The Go-Hōjō clan were warlords who, founded by Hōjō Sōun and across five generations—Ujitsuna, Ujiyasu, Ujimasa, and Ujinao—built a great power in Kantō over about 100 years with Odawara as their base. This festival, which recreates that era centered on the impregnable famous castle of Odawara, has become established as a festival beloved by citizens that conveys the history of Odawara to the present.
+
+## Highlights
+
+The greatest attraction is the "warrior procession" by warriors clad in armor and princesses in glamorous costumes. The sight of a grand procession said to number some 1,500 people in total—including representations of the five generations of the Go-Hōjō—parading around Odawara Castle in spirited formation is the very image of a Sengoku pageant. A gunner corps and a music corps also join in, drawing spectators into the Sengoku period. The departure ceremony and the spirited scene against the backdrop of Odawara Castle are full of intensity. It is a gorgeous and rewarding festival that can be enjoyed even by those who are not history fans.
+
+## When It Takes Place
+
+The festival is held each year on 3 May during Golden Week at Odawara Castle Park and throughout the city center of Odawara, Kanagawa Prefecture. As a spring festival, its season is spring. Because the route of the warrior procession and the dates of related events vary from year to year, visitors are advised to confirm details in advance through official announcements from Odawara City and the organizers.
+
+## Access
+
+Odawara Castle boasts excellent access, within walking distance of Odawara Station on the JR Tōkaidō Main Line, the Odakyū Odawara Line, and the Tōkaidō Shinkansen. As a Shinkansen stop, access from the direction of Tokyo is good, at about 35 minutes. As a gateway to Hakone sightseeing, it is easily reached from all directions. As crowds are expected during the festival, public transport is recommended.
+
+## Around the Area
+
+Odawara is a town of history centered on Odawara Castle, a famous castle of the Sengoku period, and is also known as a gateway to hot-spring areas such as Hakone and Yugawara. Odawara Castle Park, with its soaring keep, is also popular as a spot for cherry blossoms and Japanese irises. Facing Sagami Bay, it is also rich in seafood such as Odawara *kamaboko* fish cakes and dried fish. Tourist destinations such as the hot springs of Hakone, Lake Ashi, and the Hakone Open-Air Museum are also close, making it an area where, together with the Odawara Hōjō Godai Festival, one can savor the history, nature, and hot springs of western Kanagawa.','odawara-hojo-godai-festival','odawara-hojo-godai-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11471245','山鹿灯籠まつり','Yamaga Lantern Festival',NULL,NULL,NULL,NULL,NULL,'熊本県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%83%E4%BA%BA%E7%87%88%E7%B1%A0%E8%88%9E.jpg','https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11459006','小倉祇園太鼓','Kokura Gion Daiko','北九州市小倉北区で行なわれる祭',NULL,'Q11390696','八坂神社','Yasaka Shrine','京都府','kinki',NULL,NULL,1618,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kokura%20Gion%20Suedaiko.JPG','https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E7%A5%87%E5%9C%92%E5%A4%AA%E9%BC%93',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11459006','小倉祇園太鼓','Kokura Gion Daiko','北九州市小倉北区で行なわれる祭',NULL,'Q11390696','八坂神社','Yasaka Shrine','福岡県','kyushu',NULL,NULL,1618,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kokura%20Gion%20Suedaiko.JPG','https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E7%A5%87%E5%9C%92%E5%A4%AA%E9%BC%93',NULL,85,'drafted','## 小倉祇園太鼓とは
+
+小倉祇園太鼓（こくらぎおんだいこ）は、福岡県北九州市小倉北区の八坂神社で毎年7月に行われる祇園祭です。山車に据えた大太鼓を、両面から勇壮に打ち鳴らしながら町を練り歩くことで知られ、全国的にも珍しい「打ちながら歩く」太鼓の祭りとして名高い祭礼です。約400年の歴史を持ち、映画「無法松の一生」の題材としても知られる、北九州・小倉の夏を熱く彩る祭りです。
+
+## 歴史と由来
+
+小倉祇園太鼓は、元和3年（1618年）、小倉藩主・細川忠興が城下の繁栄と疫病退散を願って始めた祇園祭に由来すると伝えられます。祇園信仰は、疫病をもたらす神を鎮め、その退散を祈る信仰で、夏に各地で祇園祭が行われてきました。小倉のものは、京都の祇園祭のように山鉾を曳くのではなく、太鼓を主役とする独自の形に発展したのが大きな特徴です。約400年にわたり、小倉の町衆の手で受け継がれ、北九州市の無形民俗文化財に指定されています。
+
+## 見どころ
+
+最大の見どころは、山車に据えられた大太鼓を、両面から二人がかりで打ち鳴らす勇壮な太鼓の演奏です。「ヤッサ ヤレヤレ」の掛け声とともに、太鼓と摺鉦(すりがね)が織りなす独特のリズムが町に響き渡ります。打ちながら町を練り歩くスタイルは他に類を見ず、その迫力と一体感は圧巻。担ぎ手や打ち手の熱気、夜には提灯に彩られた山車の幻想的な姿も見どころです。小倉の夏を熱く盛り上げる、勇壮で活気あふれる祭りを体感できます。
+
+## 開催情報
+
+例年7月に、福岡県北九州市小倉北区の八坂神社および小倉の中心市街地で開催されます。夏の祇園祭であり、季節は夏。太鼓の競演や山車巡行の日程は年によって異なるため、北九州市および小倉祇園太鼓の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の小倉中心市街地へは、JR鹿児島本線・山陽新幹線「小倉駅」から徒歩圏内とアクセスが抜群です。新幹線停車駅であるため、本州・九州各方面から訪れやすい立地です。八坂神社は小倉城に隣接しています。期間中は中心市街地で交通規制が敷かれるため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+北九州市小倉は、関門海峡に面した九州の玄関口として栄えた城下町です。祭りの舞台・八坂神社に隣接する小倉城や、レトロな雰囲気の「リバーウォーク北九州」、活気あふれる「旦過市場(たんがいちば)」などが見どころ。下関とを結ぶ関門海峡の景観や、門司港レトロ地区も近く、本州と九州をまたぐ観光が楽しめます。小倉祇園太鼓とあわせて、関門エリアの歴史と食を満喫できるエリアです。','## What Is the Kokura Gion Daiko?
+
+The Kokura Gion Daiko is a Gion festival held each July at Yasaka Shrine in Kokurakita Ward, Kitakyushu, Fukuoka Prefecture. Known for parading through the town while spiritedly beating great drums mounted on floats from both faces, it is a festival famed as a "drumming while walking" festival rare even nationwide. With a history of some 400 years, and known too as the subject of the film "The Rikisha Man" (Muhōmatsu no Isshō), it is a festival that ardently colors the summer of Kokura in Kitakyushu.
+
+## History and Origins
+
+The Kokura Gion Daiko is said to derive from the Gion festival begun in 1618 by the Kokura domain lord Hosokawa Tadaoki, who wished for the prosperity of the castle town and the dispelling of epidemics. Gion faith is the belief of placating the deity who brings epidemics and praying for their dispelling, and Gion festivals have been held in various places in summer. A major feature of Kokura''s is that, rather than pulling *yamahoko* floats as in the Kyoto Gion festival, it developed into a distinctive form with drums as the main element. Handed down for some 400 years by the hands of the townspeople of Kokura, it is designated an Intangible Folk Cultural Property of Kitakyushu City.
+
+## Highlights
+
+The greatest attraction is the spirited drumming, in which two people beat the great drums mounted on the floats from both faces. To the call of "yassa, yare-yare," the distinctive rhythm woven by the drums and *surigane* gongs echoes through the town. The style of parading through the town while drumming is without parallel, and its intensity and sense of unity are breathtaking. The fervor of the bearers and drummers, and the magical figures of the floats adorned with lanterns at night, are also highlights. Visitors can experience a spirited and energetic festival that ardently enlivens the summer of Kokura.
+
+## When It Takes Place
+
+The festival is typically held in July at Yasaka Shrine and in the central district of Kokura in Kokurakita Ward, Kitakyushu, Fukuoka Prefecture. As a summer Gion festival, its season is summer. Because the dates of the drumming competitions and float processions vary from year to year, visitors are advised to confirm details in advance through official announcements from Kitakyushu City and the organizers of the Kokura Gion Daiko.
+
+## Access
+
+The central district of Kokura boasts excellent access, within walking distance of Kokura Station on the JR Kagoshima Main Line and the Sanyō Shinkansen. As a Shinkansen stop, it is easily reached from across Honshu and Kyushu. Yasaka Shrine adjoins Kokura Castle. As traffic restrictions are imposed in the city center during the festival, public transport is recommended.
+
+## Around the Area
+
+Kokura in Kitakyushu is a castle town that prospered as a gateway to Kyushu facing the Kanmon Strait. Highlights include Kokura Castle adjoining Yasaka Shrine, the festival''s stage; the retro-atmosphere "Riverwalk Kitakyushu"; and the lively "Tanga Market." The scenery of the Kanmon Strait linking to Shimonoseki and the Mojikō Retro district are also close, allowing one to enjoy sightseeing that straddles Honshu and Kyushu. Together with the Kokura Gion Daiko, it is an area where one can savor the history and food of the Kanmon area.','kokura-gion-daiko','kokura-gion-daiko',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11447411','姫島盆踊り','Himeshima Bon odori',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E7%9B%86%E8%B8%8A%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11455045','宮津祭','Miyazu Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%B4%A5%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11454119','宮島水中花火大会','Miyajima Water Fireworks Festival',NULL,NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1971,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B3%B6%E6%B0%B4%E4%B8%AD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
