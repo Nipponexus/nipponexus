@@ -24,9 +24,71 @@ const year = new Date().getFullYear();
       <h4>{isJa ? 'リンク' : 'Links'}</h4>
       <a href={isJa ? '/en/' : '/'}>{isJa ? 'English' : '日本語'}</a>
       <a href="https://github.com/donki2015-web/nipponexus" target="_blank" rel="noopener">GitHub</a>
+      <a href="#" id="report-error-toggle">{isJa ? '情報の誤りを報告' : 'Report incorrect info'}</a>
     </div>
   </div>
+
+  <div id="report-error-box" style="display:none;max-width:560px;margin:1.5rem auto 0;padding:1.25rem;background:rgba(255,255,255,0.08);border-radius:8px;">
+    <p style="margin:0 0 0.75rem;font-size:0.9rem;opacity:0.9;">
+      {isJa
+        ? 'このページの情報に誤り（開催日・場所・中止など）がありましたら、お知らせください。確認のうえ修正します。'
+        : 'If you find any incorrect information on this page (dates, location, cancellation, etc.), please let us know. We will verify and correct it.'}
+    </p>
+    <form id="report-error-form" action="https://api.web3forms.com/submit" method="POST" style="display:flex;flex-direction:column;gap:0.6rem;">
+      <input type="hidden" name="access_key" value="ded11802-ddeb-4208-95e5-f62f45955cc8" />
+      <input type="hidden" name="subject" value="【Nipponexus】情報の誤り報告" />
+      <input type="hidden" name="from_name" value="Nipponexus 誤り報告フォーム" />
+      <input type="hidden" name="page_url" id="report-page-url" value="" />
+      <input type="email" name="email" placeholder={isJa ? 'メールアドレス（任意・返信用）' : 'Email (optional, for reply)'}
+        style="padding:0.55rem 0.7rem;border:none;border-radius:5px;font-size:0.9rem;" />
+      <textarea name="message" rows="3" required placeholder={isJa ? '誤りの内容をご記入ください' : 'Please describe the error'}
+        style="padding:0.55rem 0.7rem;border:none;border-radius:5px;font-size:0.9rem;resize:vertical;"></textarea>
+      <button type="submit"
+        style="padding:0.55rem;border:none;border-radius:5px;background:var(--color-shu,#c8503c);color:#fff;font-weight:bold;cursor:pointer;">
+        {isJa ? '送信する' : 'Submit'}
+      </button>
+      <p id="report-error-result" style="margin:0;font-size:0.85rem;opacity:0.9;"></p>
+    </form>
+  </div>
+
   <div class="site-footer-bottom">
     © {year} Nipponexus. Data sourced from Wikidata & Wikipedia (CC BY-SA).
   </div>
+
+  <script is:inline define:vars={{ isJa }}>
+    (function () {
+      var toggle = document.getElementById('report-error-toggle');
+      var box = document.getElementById('report-error-box');
+      var form = document.getElementById('report-error-form');
+      var urlField = document.getElementById('report-page-url');
+      var result = document.getElementById('report-error-result');
+      if (!toggle || !box || !form) return;
+
+      toggle.addEventListener('click', function (e) {
+        e.preventDefault();
+        box.style.display = box.style.display === 'none' ? 'block' : 'none';
+        if (urlField) urlField.value = location.href;
+      });
+
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        if (urlField) urlField.value = location.href;
+        var data = new FormData(form);
+        result.textContent = isJa ? '送信中…' : 'Sending...';
+        fetch('https://api.web3forms.com/submit', { method: 'POST', body: data })
+          .then(function (r) { return r.json(); })
+          .then(function (json) {
+            if (json.success) {
+              result.textContent = isJa ? 'ご報告ありがとうございました。' : 'Thank you for your report.';
+              form.reset();
+            } else {
+              result.textContent = isJa ? '送信に失敗しました。時間をおいて再度お試しください。' : 'Submission failed. Please try again later.';
+            }
+          })
+          .catch(function () {
+            result.textContent = isJa ? '送信に失敗しました。時間をおいて再度お試しください。' : 'Submission failed. Please try again later.';
+          });
+      });
+    })();
+  </script>
 </footer>
