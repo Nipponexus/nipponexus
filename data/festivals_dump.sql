@@ -870,7 +870,51 @@ The venue is Kantō Ōdōri Avenue in Akita City, Akita Prefecture, extending ap
 
 Akita City offers a concentration of historical and cultural attractions including Senshū Park (the ruins of Kubota Castle), the Akarenga Museum of Local History, the Akita Museum of Art, and the Neburi-nagashi Hall (a permanent exhibition of kantō poles). The surrounding area features the Oga Peninsula and Namahage Museum, Lake Tazawa, the Kakunodate samurai district, and the Nyūtō Hot Spring village. Summer travelers can also enjoy Akita''s culinary specialties including kiritanpo, Inaniwa udon noodles, Hinai-jidori chicken, and tours of local sake breweries, making it a richly rewarding destination for both cultural and gastronomic exploration.','kanto-matsuri-akita','kanto-matsuri-akita',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3343765','サイトウ・キネン・フェスティバル松本','Seiji Ozawa Matsumoto Festival',NULL,'annual classical music festival held in the Japanese Alps near Matsumoto',NULL,NULL,NULL,'長野県','chubu',NULL,NULL,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%BB%E3%82%AA%E3%82%B6%E3%83%AF_%E6%9D%BE%E6%9C%AC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Seiji_Ozawa_Matsumoto_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11372403','五所川原立佞武多','Goshogawara Tachineputa Festival','青森県五所川原市で開催される祭り','summer festival in Goshogawara, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tachineputa%EF%BD%9E2007%20%22Mebukiurasaburu%22.JPG','https://ja.wikipedia.org/wiki/%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E7%AB%8B%E4%BD%9E%E6%AD%A6%E5%A4%9A','https://en.wikipedia.org/wiki/Goshogawara_Tachineputa_Festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11372403','五所川原立佞武多','Goshogawara Tachineputa Festival','青森県五所川原市で開催される祭り','summer festival in Goshogawara, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tachineputa%EF%BD%9E2007%20%22Mebukiurasaburu%22.JPG','https://ja.wikipedia.org/wiki/%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E7%AB%8B%E4%BD%9E%E6%AD%A6%E5%A4%9A','https://en.wikipedia.org/wiki/Goshogawara_Tachineputa_Festival',85,'drafted','## 五所川原立佞武多とは
+
+五所川原立佞武多（ごしょがわらたちねぷた）は、青森県五所川原市で毎年8月に開催される、巨大な「立佞武多（たちねぷた）」が練り歩くことで知られる夏祭りです。高さ20メートル超、重さ約19トンにも及ぶ圧倒的な大きさの山車灯籠が、ビルの谷間を見上げるほどの迫力で市街地を巡行します。青森のねぶた、弘前のねぷたと並ぶ津軽の夏を代表する祭りであり、その巨大さは他に類を見ません。
+
+## 歴史と由来
+
+五所川原の立佞武多は、明治時代から大正時代にかけて、豪商や大地主が富を競って巨大なねぷたを作ったことに始まると伝えられます。一時は電線の普及などにより大型のものは姿を消しましたが、平成期に当時の設計図や写真が発見されたことを契機に、地域の人々の熱意によって高さ20メートル超の立佞武多が復活しました。現在は専用の格納・展示施設「立佞武多の館」を拠点に、毎年新作が制作され、津軽の誇りとして受け継がれています。
+
+## 見どころ
+
+最大の見どころは、高さ20メートルを超える巨大な立佞武多の圧倒的な迫力です。武者や神仏をかたどった極彩色の山車灯籠が、闇夜に煌々と灯り、「ヤッテマレ、ヤッテマレ」の掛け声とともに市街地を進む様は圧巻のひとことです。見上げるほどの高さの灯籠が頭上を通り過ぎる体験は、この祭りでしか味わえません。囃子の音色と踊り手たちの熱気、そして巨大な灯籠が織りなす光景が、夏の津軽の夜を熱く彩ります。
+
+## 開催情報
+
+例年8月4日から8日にかけて、青森県五所川原市の市街地で開催されます。夏祭りであり、季節は夏。立佞武多の巡行は夜間に行われます。最新の日程やルート、観覧席の情報は、五所川原市および立佞武多祭りの主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の五所川原市街地へは、JR五能線・津軽鉄道「五所川原駅」から徒歩圏内です。青森市や弘前市方面からJRを利用してアクセスできます。立佞武多を常設展示する「立佞武多の館」は駅から徒歩圏内にあり、祭り期間外でも巨大な立佞武多を見学できます。車の場合は周辺の駐車場を利用できますが、祭り期間中は混雑が予想されます。
+
+## 周辺観光
+
+五所川原市は、津軽平野の中央に位置し、太宰治の故郷・金木町を擁する地です。太宰治の生家「斜陽館」や、ノスタルジックな津軽鉄道のストーブ列車（冬季）が人気の観光資源。岩木山を望む津軽平野の田園風景や、十三湖のしじみ、津軽の伝統工芸など、津軽地方ならではの自然・文化・食を楽しめます。夏祭りとあわせて、文豪ゆかりの地と津軽の風土を満喫できるエリアです。','## What Is the Goshogawara Tachineputa Festival?
+
+The Goshogawara Tachineputa Festival is a summer festival held each August in Goshogawara, Aomori Prefecture, known for the gigantic *tachineputa* (standing neputa) floats that parade through the streets. Float-lanterns of overwhelming size—over 20 meters tall and weighing about 19 tons—process through the city center with such presence that one must look up at them between the buildings. Together with the Nebuta of Aomori and the Neputa of Hirosaki, it is a festival representative of summer in the Tsugaru region, and its sheer scale is without parallel.
+
+## History and Origins
+
+The Tachineputa of Goshogawara is said to have begun in the Meiji and Taishō eras, when wealthy merchants and large landowners vied in their riches to build gigantic neputa. For a time the large floats disappeared owing to the spread of power lines and other factors, but after blueprints and photographs from that period were discovered in the Heisei era, the enthusiasm of local people brought back the tachineputa standing over 20 meters tall. Today, based at the dedicated storage and exhibition facility "Tachineputa no Yakata," new works are created each year and handed down as a source of Tsugaru pride.
+
+## Highlights
+
+The greatest attraction is the overwhelming presence of the gigantic tachineputa standing over 20 meters tall. The sight of the brilliantly colored float-lanterns shaped as warriors and deities, glowing radiantly in the night and advancing through the city center to the call of "yattemare, yattemare," can only be described as breathtaking. The experience of a lantern towering overhead passing by can be had only at this festival. The sounds of the festival music, the fervor of the dancers, and the spectacle woven by the giant lanterns ardently color the summer nights of Tsugaru.
+
+## When It Takes Place
+
+The festival is typically held from 4 to 8 August in the central district of Goshogawara, Aomori Prefecture. As a summer festival, its season is summer. The tachineputa procession takes place at night. Visitors are advised to confirm the latest dates, routes, and information on viewing seats in advance through official announcements from Goshogawara City and the organizers of the Tachineputa festival.
+
+## Access
+
+The central district of Goshogawara is within walking distance of Goshogawara Station on the JR Gonō Line and the Tsugaru Railway. It can be accessed by JR from the directions of Aomori and Hirosaki. "Tachineputa no Yakata," which permanently displays the tachineputa, is within walking distance of the station, allowing visitors to view the giant floats even outside the festival period. By car, nearby parking is available, but crowds are expected during the festival.
+
+## Around the Area
+
+Goshogawara, located at the center of the Tsugaru Plain, is home to Kanagi, the hometown of the author Osamu Dazai. The "Shayōkan," Dazai''s birthplace, and the nostalgic stove train of the Tsugaru Railway (in winter) are popular tourist draws. Visitors can enjoy the nature, culture, and food distinctive to the Tsugaru region, including the rural scenery of the Tsugaru Plain with views of Mount Iwaki, the freshwater clams of Lake Jūsan, and Tsugaru''s traditional crafts. Together with the summer festival, it is an area where one can savor a place associated with a great writer and the character of Tsugaru.','goshogawara-tachineputa-festival','goshogawara-tachineputa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1749262','博多祇園山笠','Hakata Gion Yamakasa Festival','博多の櫛田神社における神事','festival in Hakata, Fukuoka, Japan','Q11433106','大博通り','Taihaku Dōri','福岡県','kyushu',33.59297,130.41045,1241,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hakata%20gion%20yamakasa%202005%2001.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Hakata_Gion_Yamakasa',95,'drafted','## 概要
 
 博多祇園山笠（はかたぎおんやまかさ）は、福岡県福岡市博多区の櫛田神社で毎年7月1日から15日にかけて行われる、約780年の歴史を持つ国指定重要無形民俗文化財の伝統祭礼である。総重量1トンを超える「舁き山笠（かきやまかさ）」を男衆が舁いて博多の街を疾走する勇壮な姿で全国的に知られ、ユネスコ無形文化遺産「山・鉾・屋台行事」を構成する日本三大祇園祭の一つに数えられる。
@@ -1884,7 +1928,51 @@ INSERT INTO "festivals" VALUES('Q11400226','勝山まつり','Katsuyama Festival
 INSERT INTO "festivals" VALUES('Q11400243','勝山左義長','Katsuyama Sagichō','福井県勝山市で2月に行われる祭り','festival in Katsuyama, Fukui Prefecture, Japan','Q847543','勝山市','Katsuyama','福井県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kaminaga.jpg','https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%B1%B1%E5%B7%A6%E7%BE%A9%E9%95%B7',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11404276','北野天神社','Kitano Tenjinsha','埼玉県所沢市の神社','Shinto shrine in Saitama Prefecture, Japan',NULL,NULL,NULL,'埼玉県','kanto',35.790695,139.428834,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kitanotenjinsha-saitama-2012.jpg','https://ja.wikipedia.org/wiki/%E5%8C%97%E9%87%8E%E5%A4%A9%E7%A5%9E%E7%A4%BE_(%E6%89%80%E6%B2%A2%E5%B8%82)',NULL,95,'skipped',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11387821','元始祭','Genshisai','宮中祭祀のひとつ',NULL,'Q7797685','宮中三殿','Three Palace Sanctuaries',NULL,NULL,NULL,NULL,1870,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%83%E5%A7%8B%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11377772','仙台七夕花火祭','Sendai Tanabata Fireworks Festival','8月5日に仙台市で開催される花火大会',NULL,'Q11627260','西公園','Nishi Park','宮城県','tohoku',NULL,NULL,1970,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sendai%20Tanabata%20Fireworks%20Festival%202009.jpg','https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%E8%8A%B1%E7%81%AB%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11377772','仙台七夕花火祭','Sendai Tanabata Fireworks Festival','8月5日に仙台市で開催される花火大会',NULL,'Q11627260','西公園','Nishi Park','宮城県','tohoku',NULL,NULL,1970,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sendai%20Tanabata%20Fireworks%20Festival%202009.jpg','https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%E8%8A%B1%E7%81%AB%E7%A5%AD',NULL,85,'drafted','## 仙台七夕花火祭とは
+
+仙台七夕花火祭（せんだいたなばたはなびさい）は、宮城県仙台市で毎年8月5日に開催される花火大会です。日本三大七夕祭りのひとつとして知られる「仙台七夕まつり」（8月6日〜8日）の前夜を飾る、いわば七夕まつりの開幕を告げる花火大会で、夏の杜の都・仙台の夜空を、約1万6千発もの花火が華やかに彩ります。多くの人々が浴衣姿で集い、夏の風物詩として親しまれています。
+
+## 歴史と由来
+
+仙台七夕花火祭は、1970年（昭和45年）に始まりました。仙台の夏を代表する「仙台七夕まつり」を盛り上げ、その前夜を祝う催しとして企画され、以来半世紀以上にわたって続けられてきました。伊達政宗の時代から続く伝統行事である仙台七夕まつりと一体となって、仙台の夏を彩る一大イベントへと成長し、今では東北の夏を代表する花火大会のひとつとして、多くの人々を魅了しています。
+
+## 見どころ
+
+最大の見どころは、仙台中心部の夜空を埋め尽くす約1万6千発もの花火です。スターマインや大玉、趣向を凝らした仕掛け花火など、多彩な花火が次々と打ち上げられ、観客を魅了します。市街地に近い西公園周辺を会場とするため、ビル群を背景にした花火という都会ならではの景観も特徴的。翌日からの七夕まつりへの期待を高める華やかな演出で、夏の杜の都を熱く盛り上げます。浴衣姿の人々で賑わう会場の雰囲気も夏祭りならではの魅力です。
+
+## 開催情報
+
+例年8月5日、宮城県仙台市の西公園周辺を会場として開催されます。仙台七夕まつりの前夜祭にあたる夏の花火大会であり、季節は夏。打ち上げは夜間に行われます。荒天時は順延・中止となることがあります。最新の日程・会場・観覧情報は、仙台七夕花火祭の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の西公園周辺へは、仙台市地下鉄東西線「大町西公園駅」や、JR「仙台駅」から徒歩・地下鉄でアクセスできます。仙台市の中心部に位置し、東北各地や首都圏からも新幹線で訪れやすい立地です。当日は大変な混雑が予想されるため、公共交通機関の利用が強く推奨されます。
+
+## 周辺観光
+
+仙台市は「杜の都」と称される緑豊かな東北最大の都市で、伊達政宗ゆかりの仙台城跡（青葉城）や瑞鳳殿などの史跡が見どころです。牛タンや笹かまぼこ、ずんだといった仙台名物のグルメも楽しめます。翌日からは豪華絢爛な七夕飾りが市街地を彩る仙台七夕まつりが開催されるため、花火祭とあわせて訪れれば、仙台の夏を存分に満喫できます。松島など周辺の名所への足がかりとしても便利なエリアです。','## What Is the Sendai Tanabata Fireworks Festival?
+
+The Sendai Tanabata Fireworks Festival is a fireworks display held each year on 5 August in Sendai, Miyagi Prefecture. It adorns the eve of the "Sendai Tanabata Festival" (6–8 August), known as one of Japan''s three great Tanabata festivals—in effect a fireworks display announcing the opening of the Tanabata festival. Some 16,000 fireworks splendidly color the summer night sky of Sendai, the "City of Trees." Many people gather in summer kimono, and it is cherished as a summer tradition.
+
+## History and Origins
+
+The Sendai Tanabata Fireworks Festival began in 1970. It was conceived as an event to enliven the "Sendai Tanabata Festival," which represents the summer of Sendai, and to celebrate its eve, and it has continued for more than half a century since. Together with the Sendai Tanabata Festival—a traditional event continuing since the time of Date Masamune—it has grown into a major event that colors the summer of Sendai, and today it captivates many people as one of the fireworks displays representative of summer in the Tōhoku region.
+
+## Highlights
+
+The greatest attraction is the roughly 16,000 fireworks that fill the night sky of central Sendai. A variety of fireworks—star mines, large shells, and ingeniously designed set pieces—are launched one after another, captivating spectators. Because the venue is the area around Nishi Park near the city center, the urban scenery of fireworks against a backdrop of high-rises is also distinctive. With splendid staging that heightens anticipation for the Tanabata festival beginning the next day, it ardently enlivens the summer of the City of Trees. The atmosphere of the venue, bustling with people in summer kimono, is also a charm unique to a summer festival.
+
+## When It Takes Place
+
+The festival is typically held on 5 August in the area around Nishi Park in Sendai, Miyagi Prefecture. As a summer fireworks display serving as the eve of the Sendai Tanabata Festival, its season is summer. The fireworks are launched at night. In the event of bad weather, the festival may be postponed or canceled. Visitors are advised to confirm the latest dates, venue, and viewing information in advance through official announcements from the organizers of the Sendai Tanabata Fireworks Festival.
+
+## Access
+
+The area around Nishi Park can be reached on foot or by subway from Ōmachi-Nishikōen Station on the Sendai City Subway Tōzai Line and from JR Sendai Station. Located in central Sendai, it is easily reached by Shinkansen from across Tōhoku and from the metropolitan area. As tremendous crowds are expected on the day, public transport is strongly recommended.
+
+## Around the Area
+
+Sendai, called the "City of Trees," is the largest, greenery-rich city of Tōhoku, with sights including the ruins of Sendai Castle (Aoba Castle) and the Zuihōden mausoleum associated with Date Masamune. Visitors can also enjoy Sendai specialties such as beef tongue, *sasa-kamaboko* fish cakes, and *zunda* edamame paste. As the gorgeous Sendai Tanabata Festival, in which lavish Tanabata decorations color the city center, begins the following day, a visit combined with the fireworks festival allows one to fully savor the summer of Sendai. It is also a convenient area as a gateway to nearby attractions such as Matsushima.','sendai-tanabata-fireworks-festival','sendai-tanabata-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11402390','北海へそ祭り','Hokkaido Belly Button Festival','日本の北海道の祭り','festival in Furano, Japan',NULL,NULL,NULL,'北海道','hokkaido',43.347434358,142.388015401,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11395759','出石初午大祭','Izushi Hatsuuma Taisai','兵庫県豊岡市で行われる祭',NULL,'Q11516349','有子山稲荷神社','Arikoyama Inari Shrine','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%87%BA%E7%9F%B3%E5%88%9D%E5%8D%88%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11386340','修正鬼会',NULL,NULL,NULL,NULL,NULL,NULL,'大分県','kyushu',33.578744,131.541622,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BF%AE%E6%AD%A3%E9%AC%BC%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -1893,7 +1981,51 @@ INSERT INTO "festivals" VALUES('Q11400363','勝毎花火大会','Kachimai Firewo
 INSERT INTO "festivals" VALUES('Q11381635','但馬牛まつり','Tajima Beef Festival','兵庫県立但馬牧場公園（新温泉町）で開催される祭典',NULL,'Q11392939','兵庫県立但馬牧場公園','Hyōgo Prefectural Tajima Pasture Park','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BD%86%E9%A6%AC%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371735','二百二十日','Nihyakuhatsuka','雑節のひとつ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E4%BA%8C%E5%8D%81%E6%97%A5',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11388927','入梅',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%A5%E6%A2%85',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11381046','伏木曳山祭','Fushiki Hikiyama Festival','富山県高岡市にて行われる伏木神社の春季例大祭',NULL,'Q11381052','伏木神社','Fushiki Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11381046','伏木曳山祭','Fushiki Hikiyama Festival','富山県高岡市にて行われる伏木神社の春季例大祭',NULL,'Q11381052','伏木神社','Fushiki Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','## 伏木曳山祭とは
+
+伏木曳山祭（ふしきひきやままつり）は、富山県高岡市伏木地区の伏木神社で毎年春に行われる例大祭です。昼は花山車（はなやま）、夜は提灯山車（ちょうちんやま）と呼ばれる山車が、その姿を変えて町を巡行することで知られ、特にクライマックスの「かっちゃ」と呼ばれる山車同士の激しいぶつけ合いで全国に名を馳せています。「けんか山」の異名を持つ、勇壮な港町の祭礼です。
+
+## 歴史と由来
+
+伏木曳山祭は、海上の安全と豊漁を司る伏木神社の春季例大祭として、江戸時代から続いてきたと伝えられます。伏木は古代の越中国府が置かれ、また北前船の寄港地として栄えた歴史ある港町で、その繁栄を背景に豪華な山車が育まれました。各町が誇る山車は、昼と夜で装いを変えるという独特の趣向を凝らしており、港町の人々の心意気と財力を今に伝える、伝統ある祭りとして受け継がれています。
+
+## 見どころ
+
+最大の見どころは、夜に行われる提灯山車同士の激しいぶつけ合い「かっちゃ」です。数百個もの提灯で美しく飾られた山車が、たがいに正面から激しくぶつかり合う様は迫力満点で、「けんか山」の名にふさわしい熱気に包まれます。担ぎ手たちの掛け声と提灯の灯りが闇夜に揺れる光景は圧巻です。昼は精緻な花で飾られた花山車の優美な巡行が楽しめ、昼夜で全く異なる二つの顔を持つのがこの祭りの魅力。港町ならではの活気と勇壮さを存分に味わえます。
+
+## 開催情報
+
+例年春（5月）に、富山県高岡市伏木地区の伏木神社および周辺で開催されます。春季例大祭であり、季節は春。昼の花山車巡行と夜の「かっちゃ」が見どころです。日程やルート、観覧情報は年によって異なるため、高岡市および地元観光協会の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の伏木地区へは、JR氷見線「伏木駅」から徒歩圏内とアクセスが良好です。高岡駅方面からJR氷見線を利用してアクセスできます。車の場合は能越自動車道などを利用できますが、開催期間中は周辺で交通規制が敷かれるため、公共交通機関の利用が推奨されます。
+
+## 周辺観光
+
+伏木地区は、古代の越中国府・国分寺が置かれた歴史の地で、万葉集の歌人・大伴家持が国守として赴任したことでも知られます。高岡市万葉歴史館では万葉文化に触れることができ、雨晴海岸からは富山湾越しに立山連峰を望む絶景が広がります。高岡市中心部の国宝・瑞龍寺や高岡大仏、銅器・漆器の伝統工芸とあわせて、富山県西部の歴史・文化・自然を満喫できるエリアです。','## What Is the Fushiki Hikiyama Festival?
+
+The Fushiki Hikiyama Festival is the grand annual festival of Fushiki Shrine in the Fushiki district of Takaoka, Toyama Prefecture, held each spring. Known for floats that change their appearance as they parade through the town—*hanayama* (flower floats) by day and *chōchin''yama* (lantern floats) by night—it has gained nationwide fame especially for its climactic *kaccha*, the fierce collisions between floats. Nicknamed the "fighting floats," it is a spirited festival of a port town.
+
+## History and Origins
+
+The Fushiki Hikiyama Festival is said to have continued since the Edo period as the spring grand festival of Fushiki Shrine, which governs safe sea passage and bountiful catches. Fushiki is a historic port town where the ancient provincial capital of Etchū was situated and which prospered as a port of call for the *kitamaebune* trading ships, and against this prosperity gorgeous floats took shape. The floats that each neighborhood takes pride in are devised with the distinctive idea of changing their guise between day and night, handed down as a tradition-rich festival that conveys to this day the spirit and wealth of the people of the port town.
+
+## Highlights
+
+The greatest attraction is the *kaccha*, the fierce collisions between lantern floats held at night. The sight of floats beautifully decorated with several hundred lanterns crashing head-on into one another is full of intensity, wrapped in a fervor worthy of the name "fighting floats." The scene of the bearers'' calls and the lantern lights swaying in the dark night is breathtaking. By day, the graceful procession of the flower floats adorned with intricate blossoms can be enjoyed, and the appeal of this festival lies in its two utterly different faces between day and night. Visitors can fully savor the vitality and spirited energy distinctive to a port town.
+
+## When It Takes Place
+
+The festival is typically held in spring (May) at Fushiki Shrine and the surrounding area in the Fushiki district of Takaoka, Toyama Prefecture. As a spring grand festival, its season is spring. The daytime flower-float procession and the nighttime *kaccha* are the highlights. Because dates, routes, and viewing information vary from year to year, visitors are advised to confirm details in advance through official announcements from Takaoka City and the local tourism association.
+
+## Access
+
+The Fushiki district enjoys good access, within walking distance of Fushiki Station on the JR Himi Line. It can be reached via the JR Himi Line from the direction of Takaoka Station. By car, routes such as the Noetsu Expressway are available, but because traffic restrictions are imposed in the area during the festival, public transport is recommended.
+
+## Around the Area
+
+The Fushiki district is a place of history where the ancient provincial capital and provincial temple of Etchū were located, and is also known as the place to which Ōtomo no Yakamochi, a poet of the Man''yōshū, was posted as provincial governor. At the Takaoka Man''yō Historical Museum, visitors can engage with Man''yō culture, and from the Amaharashi Coast a superb view of the Tateyama mountain range across Toyama Bay unfolds. Together with the national treasure Zuiryū-ji temple and the Great Buddha in central Takaoka, and the traditional crafts of copperware and lacquerware, it is an area where one can savor the history, culture, and nature of western Toyama.','fushiki-hikiyama-festival','fushiki-hikiyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371737','二百十日','Nihyakutōka','雑節のひとつ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11396267','刈谷わんさか祭り','Kariya Wansaka Festival','愛知県刈谷市で開催されるイベント','event held in Kariya, Aichi, Japan','Q11396287','刈谷市総合運動公園',NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%88%88%E8%B0%B7%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11402392','北海ソーラン祭り','Hokkai Soran Matsuri','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.188471862,140.794824782,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -1955,7 +2087,51 @@ INSERT INTO "festivals" VALUES('Q11408464','南越谷阿波踊り',NULL,NULL,NUL
 INSERT INTO "festivals" VALUES('Q11374839','京都・東山花灯路','Higashiyama Hanatouro',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Illuminated%20Yasakanoto%20Tower%20%28Hokanji%20Temple%29%202.jpg','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E6%9D%B1%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11405274','千代流','Chiyo-nagare','博多祇園山笠の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11377742','仙台クラシックフェスティバル','Sendai Classical Music Festival',NULL,'music festival in Japan','Q46747','仙台市','Sendai','宮城県','tohoku',NULL,NULL,2006,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11378915','伊勢えび祭','Ise Lobster Festival','三重県志摩市で開催される祭り',NULL,NULL,NULL,NULL,'三重県','kinki',NULL,NULL,1961,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Iseebi%20Festival%202011.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E3%81%88%E3%81%B3%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11378915','伊勢えび祭','Ise Lobster Festival','三重県志摩市で開催される祭り',NULL,NULL,NULL,NULL,'三重県','kinki',NULL,NULL,1961,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Iseebi%20Festival%202011.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E3%81%88%E3%81%B3%E7%A5%AD',NULL,85,'drafted','## 伊勢えび祭とは
+
+伊勢えび祭（いせえびまつり）は、三重県志摩市で毎年6月に開催される、地域の名産・伊勢えびに感謝し、その豊漁を祈る祭りです。志摩の海の恵みである伊勢えびをテーマにした、海辺の町ならではのユニークな祭りで、巨大な伊勢えびの張りぼて「大王えび」のパレードや、伊勢えびの即売、海の幸を味わう催しなどで賑わいます。志摩の初夏を彩る、海の幸への感謝の祭りです。
+
+## 歴史と由来
+
+伊勢えび祭は、1961年（昭和36年）に始まりました。伊勢えびの一大産地である志摩半島で、海の恵みに感謝し、漁業の振興と地域の活性化を願って企画された祭りです。伊勢えびは古くから縁起物として、また三重県を代表する高級食材として珍重されてきました。その伊勢えびを地域の宝として称え、海とともに生きる志摩の人々の感謝の心を込めて、半世紀以上にわたり受け継がれてきた、地域に根づいた祭りです。
+
+## 見どころ
+
+最大の見どころは、巨大な伊勢えびの張りぼて「大王えび」が登場する華やかなパレードです。ユーモラスで迫力ある大王えびが町を練り歩く様は、この祭りならではの名物。会場では新鮮な伊勢えびの即売や、伊勢えびをはじめとする志摩の海の幸を味わえる催しも行われ、グルメを目当てに訪れる人々で賑わいます。海辺の町の活気と、海の幸への感謝の心が一体となった、初夏の志摩を楽しめる祭りです。
+
+## 開催情報
+
+例年6月に、三重県志摩市で開催されます。初夏の祭りであり、季節は夏。パレードや即売などの催しの日程・会場は年によって異なるため、志摩市および地元観光協会の公式発表で事前に確認することをおすすめします。荒天の場合は内容が変更されることがあります。
+
+## アクセス
+
+会場の志摩市へは、近鉄志摩線の各駅からアクセスできます。名古屋・大阪方面から近鉄特急を利用すると便利で、伊勢志摩エリアへの観光とあわせて訪れやすい立地です。車の場合は伊勢自動車道から伊勢二見鳥羽ラインなどを利用できます。会場の最寄り駅やアクセス方法は催しによって異なるため、事前の確認をおすすめします。
+
+## 周辺観光
+
+志摩市は、リアス海岸が美しい伊勢志摩国立公園の中心に位置し、英虞湾（あごわん）の絶景や、2016年に主要国首脳会議（伊勢志摩サミット）が開催された地として知られます。横山展望台からの英虞湾の眺めや、海女文化、真珠養殖などが見どころ。近隣には伊勢神宮や鳥羽水族館などの名所もあり、伊勢えびをはじめとする豊かな海の幸を味わいながら、伊勢志摩の自然と文化を満喫できるエリアです。','## What Is the Ise Lobster Festival?
+
+The Ise Lobster Festival is held each June in Shima, Mie Prefecture, to give thanks for the region''s famous product, the Ise lobster (spiny lobster), and to pray for a bountiful catch. A unique festival of a seaside town built around the Ise lobster, a blessing of the sea of Shima, it bustles with a parade featuring a giant papier-mâché Ise lobster, the "Daiō Lobster," along with lobster sales and events for savoring seafood. It is a festival of gratitude for the bounty of the sea that colors the early summer of Shima.
+
+## History and Origins
+
+The Ise Lobster Festival began in 1961. It was conceived on the Shima Peninsula, a major producing area for Ise lobster, to give thanks for the blessings of the sea and to wish for the promotion of fishing and the revitalization of the region. The Ise lobster has long been prized as an auspicious item and as a premium ingredient representative of Mie Prefecture. Celebrating the Ise lobster as a treasure of the region, and imbued with the gratitude of the people of Shima who live alongside the sea, it is a festival rooted in the community that has been handed down for more than half a century.
+
+## Highlights
+
+The greatest attraction is the lively parade featuring the giant papier-mâché Ise lobster, the "Daiō Lobster." The sight of the humorous yet imposing Daiō Lobster parading through the town is a feature unique to this festival. At the venue, sales of fresh Ise lobster and events for savoring Shima''s seafood, including the lobster, are held, bustling with people who come for the gourmet fare. It is a festival where one can enjoy early-summer Shima, with the vitality of a seaside town and gratitude for the bounty of the sea coming together as one.
+
+## When It Takes Place
+
+The festival is typically held in June in Shima, Mie Prefecture. As an early-summer festival, its season is summer. Because the dates and venues of events such as the parade and sales vary from year to year, visitors are advised to confirm details in advance through official announcements from Shima City and the local tourism association. In the event of bad weather, the program may be changed.
+
+## Access
+
+Shima City can be reached from the stations of the Kintetsu Shima Line. The Kintetsu Limited Express from the directions of Nagoya and Osaka is convenient, and the location is easily visited together with sightseeing in the Ise-Shima area. By car, routes such as the Ise-Futami-Toba Line from the Ise Expressway are available. Because the nearest station and access method differ by event, advance confirmation is recommended.
+
+## Around the Area
+
+Shima City lies at the center of Ise-Shima National Park, with its beautiful ria coastline, and is known for the superb scenery of Ago Bay and as the place where the 2016 Group of Seven summit (the Ise-Shima Summit) was held. The view of Ago Bay from the Yokoyama Observatory, the culture of the *ama* female divers, and pearl cultivation are among its highlights. Nearby attractions include the Ise Grand Shrine and the Toba Aquarium, making it an area where one can savor the nature and culture of Ise-Shima while enjoying the rich seafood, including the Ise lobster.','ise-lobster-festival','ise-lobster-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11404742','十万石まつり','Jumangoku festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11400927','北九州国際音楽祭','Kitakyushu International Music Festival','北九州市八幡東区の北九州市立響ホールを主会場として開催される音楽祭','music festival in Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,1988,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11375013','京都市民映画祭','Kyoto Citizen Film Festival','日本映画の映画祭',NULL,'Q34600','京都市','Kyoto','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82%E6%B0%91%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -1965,7 +2141,51 @@ INSERT INTO "festivals" VALUES('Q11389545','全国花火競技大会 (秋田県�
 INSERT INTO "festivals" VALUES('Q11396442','初午祭','Hatsuuma Festival','鹿児島県霧島市の鹿児島神宮で開催される祭り',NULL,'Q704695','鹿児島神宮','Kagoshima Jingū','鹿児島県','kyushu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hatsu%20uma%20sai%2002.jpg','https://ja.wikipedia.org/wiki/%E5%88%9D%E5%8D%88%E7%A5%AD_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%A5%9E%E5%AE%AE)',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11381253','会津田島祇園祭','Aizu Tajima Gion Matsuri',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11408922','博多おくんち','Hakata Okunchi','福岡市博多区の櫛田神社で行われる秋の例祭','autumn festival held at Kushida Shrine in Hakata-ku, Fukuoka City','Q11284628','博多','Hakata','長崎県','kyushu',NULL,NULL,1953,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%8A%E3%81%8F%E3%82%93%E3%81%A1',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11356768','三田祭','Mita festival','慶應義塾大学の学園祭',NULL,'Q3317048','三田','Mita',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Mita%20Festival%2C%20Keio%20University%20-%20Nov%2025%2C%202007%20%281%29.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11356768','三田祭','Mita festival','慶應義塾大学の学園祭',NULL,'Q3317048','三田','Mita','東京都','kanto',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Mita%20Festival%2C%20Keio%20University%20-%20Nov%2025%2C%202007%20%281%29.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%A5%AD',NULL,85,'drafted','## 三田祭とは
+
+三田祭（みたさい）は、東京都港区三田にある慶應義塾大学三田キャンパスで、毎年秋に開催される学園祭です。日本を代表する大学の学園祭のひとつとして知られ、学生が主体となって企画・運営する模擬店、研究発表、ステージイベント、著名人を招いた講演会などが、4日間にわたって繰り広げられます。歴史ある慶應義塾の伝統と、学生たちの活気が融合した、秋の風物詩です。
+
+## 歴史と由来
+
+三田祭は、慶應義塾大学の学生による文化の祭典として長い歴史を重ねてきました。福澤諭吉が創設した慶應義塾の学風を背景に、学問・文化・芸術の成果を発表する場として発展し、現在では各サークルやゼミ、研究会が日頃の活動の集大成を披露する一大イベントとなっています。学生の自治と創意工夫を重んじる伝統のもと、毎年多くの来場者を迎え、地域に開かれた大学祭として親しまれています。
+
+## 見どころ
+
+見どころは、キャンパス全体を使って繰り広げられる多彩な催しの数々です。学生団体による趣向を凝らした模擬店が並び、グルメを楽しみながらキャンパスを歩く来場者で賑わいます。各研究会・ゼミによる学術的な研究発表は、慶應義塾の知の蓄積を感じさせるもので、知的好奇心を満たしてくれます。ステージでは音楽・ダンス・演劇などのパフォーマンスが披露され、著名人を招いた講演会やトークイベントも例年の人気企画。学生たちの熱意あふれる4日間を体感できます。
+
+## 開催情報
+
+例年秋（11月)の文化の日前後の4日間、慶應義塾大学三田キャンパスで開催されます。秋の学園祭であり、季節は秋。入場や各企画の詳細は年によって異なるため、慶應義塾大学三田祭実行委員会の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の慶應義塾大学三田キャンパスへは、JR山手線・京浜東北線「田町駅」、都営地下鉄三田線・浅草線「三田駅」から徒歩圏内と、抜群のアクセスを誇ります。東京都心に位置するため、各方面から訪れやすい立地です。期間中は多くの来場者で賑わうため、公共交通機関の利用がおすすめです。
+
+## 周辺観光
+
+三田キャンパス周辺は、東京タワーや増上寺、芝公園といった東京を代表する名所に近い、都心ならではの立地です。歴史ある寺社と近代的な高層ビルが共存する街並みを散策でき、品川・浜松町方面へのアクセスも良好。学園祭とあわせて、東京観光の拠点としても便利なエリアです。慶應義塾発祥の地としての歴史にも触れられます。','## What Is the Mita Festival?
+
+The Mita Festival (Mitasai) is a university festival held each autumn at the Mita Campus of Keio University in Mita, Minato Ward, Tokyo. Known as one of Japan''s leading university festivals, it unfolds over four days with food stalls, research presentations, stage events, and lectures by prominent figures, all planned and run primarily by students. It is an autumn tradition in which the history of Keio University blends with the vitality of its students.
+
+## History and Origins
+
+The Mita Festival has built up a long history as a cultural celebration by the students of Keio University. Against the backdrop of the academic spirit of Keio, founded by Fukuzawa Yukichi, it developed as a venue for presenting the fruits of learning, culture, and the arts, and today it is a major event at which clubs, seminars, and study groups showcase the culmination of their everyday activities. Under a tradition that values student self-governance and ingenuity, it welcomes many visitors each year and is cherished as a university festival open to the wider community.
+
+## Highlights
+
+The highlights are the many and varied events that unfold across the entire campus. Food stalls run by student groups with creative themes line the grounds, bustling with visitors who stroll the campus while enjoying gourmet treats. The academic research presentations by study groups and seminars convey the accumulated knowledge of Keio and satisfy intellectual curiosity. On the stages, performances of music, dance, and theater are presented, while lectures and talk events featuring prominent figures are popular fixtures each year. Visitors can experience four days brimming with the enthusiasm of the students.
+
+## When It Takes Place
+
+The festival is typically held over four days around Culture Day in autumn (November) at the Mita Campus of Keio University. As an autumn university festival, its season is autumn. Because admission and the details of each program vary from year to year, visitors are advised to confirm in advance through official announcements from the Keio University Mita Festival Executive Committee.
+
+## Access
+
+The Mita Campus of Keio University boasts excellent access, within walking distance of Tamachi Station on the JR Yamanote and Keihin-Tōhoku Lines and Mita Station on the Toei Mita and Asakusa subway lines. Located in central Tokyo, it is easily reached from all directions. As it draws many visitors during the festival, public transport is recommended.
+
+## Around the Area
+
+The area around the Mita Campus enjoys a central-city location close to landmarks representative of Tokyo such as Tokyo Tower, Zōjō-ji temple, and Shiba Park. Visitors can stroll a townscape where historic temples and shrines coexist with modern high-rises, with good access toward Shinagawa and Hamamatsuchō. Together with the university festival, it is a convenient area as a base for Tokyo sightseeing, where one can also engage with the history of the birthplace of Keio.','mita-festival','mita-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11366503','中津祇園','Nakatsu Gion',NULL,'festival in Nakatsu, Oita prefecture, Japan',NULL,NULL,NULL,'大分県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B4%A5%E7%A5%87%E5%9C%92',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11366524','中洲流','Nakasu-nagare','博多祇園山笠の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B4%B2%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11347707','ラ・フォル・ジュルネ TOKYO','La Folle Journée TOKYO','毎年ゴールデンウィーク頃に東京で行われているクラシック音楽を中心とした催し','classical music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%AB%E3%83%8D_TOKYO',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2073,7 +2293,51 @@ INSERT INTO "festivals" VALUES('Q11278988','みちのく国際ミステリー映
 INSERT INTO "festivals" VALUES('Q11280851','ゆふいんこども映画祭','Yufuin Children''s Film Festival','大分県由布市湯布院町で開催される映画祭',NULL,'Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,1998,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B5%E3%81%84%E3%82%93%E3%81%93%E3%81%A9%E3%82%82%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11338823','ボロ市','Boro-ichi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E5%B8%82',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280856','ゆふいん文化・記録映画祭','Yufuin Culture and Record Film Festival','大分県由布市湯布院町で開催される映画祭',NULL,'Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,1998,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B5%E3%81%84%E3%82%93%E6%96%87%E5%8C%96%E3%83%BB%E8%A8%98%E9%8C%B2%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11370941','亀崎潮干祭','Kamezaki Shiohi Festival','愛知県半田市にある神前神社の祭礼',NULL,'Q17226214','神前神社','Kamisaki Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kamezakishiohi%20Festival2.jpg','https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B4%8E%E6%BD%AE%E5%B9%B2%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11370941','亀崎潮干祭','Kamezaki Shiohi Festival','愛知県半田市にある神前神社の祭礼',NULL,'Q17226214','神前神社','Kamisaki Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Kamezakishiohi%20Festival2.jpg','https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B4%8E%E6%BD%AE%E5%B9%B2%E7%A5%AD',NULL,85,'drafted','## 亀崎潮干祭とは
+
+亀崎潮干祭（かめざきしおひまつり）は、愛知県半田市亀崎町の神前神社（かみさきじんじゃ）で毎年春に行われる例祭です。5輌の豪華絢爛な山車が、干潮時の砂浜へと曳き下ろされる勇壮な「潮干」の行事で全国に知られ、国の重要無形民俗文化財に指定されるとともに、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。海へと山車が向かう、海辺の町ならではの独特の祭礼です。
+
+## 歴史と由来
+
+亀崎潮干祭は、神武天皇が亀崎の地に上陸したという伝説に由来すると伝えられ、その上陸を山車を海浜に曳き出すことで再現する祭礼として発展してきました。知多半島の港町・亀崎は、廻船業で栄えた歴史を持ち、その富を背景に精巧な彫刻と刺繍幕で飾られた山車が作られました。江戸時代から続く伝統を持ち、5つの町がそれぞれの山車を守り伝えてきた、地域の誇りとなる祭りです。
+
+## 見どころ
+
+最大の見どころは、5輌の山車が干潮の砂浜へと曳き下ろされる「潮干」の場面です。重厚な山車が海辺の砂浜を進む光景は他に類を見ない迫力で、海を背景にした山車の姿はこの祭り最大の見せ場となります。山車を彩る精緻な彫刻や、からくり人形の上演、豪華な刺繍幕や水引幕の美しさも見どころです。潮の満ち引きという自然の営みと祭礼が一体となった、海辺の町ならではの祭りの妙を堪能できます。
+
+## 開催情報
+
+例年春（5月）の3日から4日にかけて、愛知県半田市亀崎町の神前神社および海岸一帯で開催されます。春の例祭であり、季節は春。「潮干」は干潮の時間帯に合わせて行われるため、見学の際は潮時の確認が大切です。最新の日程や見学情報は、半田市および亀崎潮干祭の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の亀崎へは、JR武豊線「亀崎駅」から徒歩圏内とアクセスが良好です。名古屋方面からJRを利用して訪れることができます。車の場合は知多半島道路などを利用できますが、開催期間中は周辺で交通規制と混雑が予想されるため、公共交通機関の利用が推奨されます。
+
+## 周辺観光
+
+半田市は、知多半島に位置する醸造の town として知られ、酢やみりん、酒などの醸造業で栄えた歴史を持ちます。運河沿いに黒板囲いの蔵が並ぶ「半田運河」周辺は情緒豊かで、ミツカンの博物館「MIZKAN MUSEUM」も人気です。新美南吉の故郷としても知られ、童話「ごんぎつね」ゆかりの地を巡ることもできます。知多半島の海の幸とあわせて、醸造文化と海辺の祭りを楽しめるエリアです。','## What Is the Kamezaki Shiohi Festival?
+
+The Kamezaki Shiohi Festival is the annual festival of Kamisaki Shrine in Kamezaki, Handa, Aichi Prefecture, held each spring. Known nationwide for the spirited *shiohi* (ebb-tide) event in which five resplendent floats are pulled down onto the beach at low tide, it is designated an Important Intangible Folk Cultural Property of Japan and is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals." It is a distinctive festival of a seaside town, in which the floats head toward the sea.
+
+## History and Origins
+
+The Kamezaki Shiohi Festival is said to derive from a legend that Emperor Jimmu came ashore at Kamezaki, and it developed as a festival that re-enacts that landing by pulling floats out onto the beach. Kamezaki, a port town on the Chita Peninsula, has a history of prosperity in the shipping trade, and on the strength of that wealth, floats adorned with intricate carvings and embroidered curtains were created. With a tradition continuing since the Edo period, it is a festival that is a source of local pride, with five neighborhoods each preserving and handing down their own float.
+
+## Highlights
+
+The greatest attraction is the *shiohi* scene, in which five floats are pulled down onto the beach at low tide. The sight of the massive floats advancing across the seaside sand is of unparalleled intensity, and the figures of the floats against the backdrop of the sea are the festival''s foremost spectacle. The intricate carvings adorning the floats, the performances of mechanical *karakuri* dolls, and the beauty of the gorgeous embroidered and decorative curtains are also highlights. Visitors can savor the wonder of a festival unique to a seaside town, in which the natural workings of the tides and the festival become one.
+
+## When It Takes Place
+
+The festival is typically held over the 3rd and 4th of May in spring at Kamisaki Shrine and along the coast in Kamezaki, Handa, Aichi Prefecture. As a spring annual festival, its season is spring. Because the *shiohi* is timed to the low-tide hours, it is important to check the tide times when viewing. Visitors are advised to confirm the latest dates and viewing information in advance through official announcements from Handa City and the organizers of the Kamezaki Shiohi Festival.
+
+## Access
+
+Kamezaki enjoys good access, within walking distance of Kamezaki Station on the JR Taketoyo Line. It can be reached by JR from the direction of Nagoya. By car, routes such as the Chita Peninsula Road are available, but because traffic restrictions and crowds are expected around the venue during the festival, public transport is recommended.
+
+## Around the Area
+
+Handa, located on the Chita Peninsula, is known as a town of brewing, with a history of prosperity in the production of vinegar, mirin, and sake. The area around the "Handa Canal," where black-boarded storehouses line the waterway, is rich in atmosphere, and the Mizkan museum "MIZKAN MUSEUM" is also popular. Known too as the hometown of the writer Nankichi Niimi, it allows visitors to tour places associated with the fairy tale "Gon, the Little Fox." Together with the seafood of the Chita Peninsula, it is an area where one can enjoy brewing culture and a seaside festival.','kamezaki-shiohi-festival','kamezaki-shiohi-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11304313','サウンドコニファー229','Sound Conifer 229',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B3%E3%83%8B%E3%83%95%E3%82%A1%E3%83%BC229',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280366','やっさ祭り','Yassa Festival','広島県三原市で開催される祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1976,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A2.jpg','https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## やっさ祭りとは
 
@@ -2128,7 +2392,51 @@ INSERT INTO "festivals" VALUES('Q11284866','アマチュア無線の日',NULL,NU
 INSERT INTO "festivals" VALUES('Q11305117','サマーフェスタ イン ひさい',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B1%85%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11370288','九州現代音楽祭',NULL,'九州・沖縄作曲家協会が主催する現代音楽祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E7%8F%BE%E4%BB%A3%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11340066','マグマ (音楽イベント)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%9E_(%E9%9F%B3%E6%A5%BD%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11352731','一日市の盆踊','Hitoichi no Bon-odori','秋田県八郎潟町で行われる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hitoichi%20Bon-odori%20Festival%202017b.jpg','https://ja.wikipedia.org/wiki/%E4%B8%80%E6%97%A5%E5%B8%82%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11352731','一日市の盆踊','Hitoichi no Bon-odori','秋田県八郎潟町で行われる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hitoichi%20Bon-odori%20Festival%202017b.jpg','https://ja.wikipedia.org/wiki/%E4%B8%80%E6%97%A5%E5%B8%82%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,85,'drafted','## 一日市の盆踊とは
+
+一日市の盆踊（ひといちのぼんおどり）は、秋田県八郎潟町（はちろうがたまち）で毎年お盆の時期に行われる、伝統的な盆踊りです。秋田県の三大盆踊りのひとつに数えられ、古式ゆかしい優雅な踊りが今に伝えられています。やぐらを囲んで踊り手が輪をつくり、笛・太鼓・三味線の音色にのって、夏の夜の更けるまで踊り続ける、八郎潟町の夏を代表する民俗行事です。
+
+## 歴史と由来
+
+一日市の盆踊は、その起源を江戸時代にさかのぼると伝えられる古い盆踊りです。一日市は古くから市場町・宿場町として栄え、人や物が行き交うなかで踊りの文化が育まれてきました。秋田県三大盆踊りのひとつとして、毛馬内の盆踊・西馬音内の盆踊とともに数えられ、それぞれ異なる趣を持ちながら、秋田の盆踊り文化の豊かさを今に伝えています。先祖の霊を供養し、地域の人々が世代を超えて踊りを受け継いできた、大切な伝統行事です。
+
+## 見どころ
+
+最大の見どころは、やぐらを中心に大きな輪をつくって踊る、優雅で統一感のある盆踊りの所作です。三種類の踊り「キタサカ」「三勝」「どんぱん」が伝えられ、それぞれに異なる趣の振り付けと囃子が楽しめます。揃いの浴衣をまとった踊り手たちが、ゆったりとした優美な動きで夜更けまで踊り続ける様は、見る者を懐かしくも幻想的な夏の世界へと誘います。地元の人だけでなく、観光客も輪に加わって踊りを体験できる温かな雰囲気も魅力です。
+
+## 開催情報
+
+例年お盆の時期（8月中旬）の数日間、秋田県八郎潟町の市街地で開催されます。お盆の夏の行事であり、季節は夏。夜間に行われるため、夕涼みがてら訪れるのに適しています。最新の開催日程や会場は、八郎潟町および地元観光協会の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の八郎潟町中心部へは、JR奥羽本線「八郎潟駅」から徒歩圏内とアクセスが良好です。秋田市の北に位置し、秋田駅方面からJRを利用して訪れることができます。車の場合は周辺の駐車場を利用できますが、公共交通機関の利用が便利です。
+
+## 周辺観光
+
+八郎潟町は、かつて日本第二の広さを誇った湖・八郎潟と、その大規模な干拓事業で知られる地です。干拓によって生まれた大潟村の広大な田園風景や、男鹿半島のなまはげ文化、海岸景観などが近隣の見どころです。秋田の米どころならではの食文化や、男鹿温泉郷とあわせて、秋田の自然と民俗文化を満喫できるエリアです。','## What Is Hitoichi no Bon-odori?
+
+Hitoichi no Bon-odori is a traditional Bon dance held each year during the Obon season in Hachirōgata, Akita Prefecture. Counted among the three great Bon dances of Akita Prefecture, it preserves an elegant dance in the old style. Dancers form a ring around a tower (*yagura*) and dance on to the sounds of flute, drum, and shamisen until late into the summer night—a folk event that represents the summer of Hachirōgata.
+
+## History and Origins
+
+Hitoichi no Bon-odori is an old Bon dance said to trace its origins to the Edo period. Hitoichi long flourished as a market and post town, and a culture of dance developed amid the comings and goings of people and goods. As one of Akita''s three great Bon dances—together with the Bon dances of Kemanai and Nishimonai—it conveys to this day the richness of Akita''s Bon-dance culture, each with its own distinct character. It is a cherished traditional event through which local people have honored the spirits of their ancestors and handed down the dance across generations.
+
+## Highlights
+
+The greatest attraction is the graceful, unified movement of the Bon dance, performed in a great ring centered on the *yagura*. Three dances—"Kitasaka," "Sankatsu," and "Donpan"—have been handed down, each offering choreography and accompaniment of a different flavor. The sight of dancers in matching summer kimono continuing their slow, elegant movements until late at night draws onlookers into a summer world both nostalgic and dreamlike. The warm atmosphere, in which not only locals but also visitors may join the ring and try the dance, is also part of its appeal.
+
+## When It Takes Place
+
+The festival is typically held over several days during the Obon season (mid-August) in the central district of Hachirōgata, Akita Prefecture. As an Obon summer event, its season is summer. As it takes place at night, it is well suited to a visit while enjoying the cool of the evening. Visitors are advised to confirm the latest dates and venues through official announcements from Hachirōgata Town and the local tourism association.
+
+## Access
+
+The central district of Hachirōgata enjoys good access within walking distance of Hachirōgata Station on the JR Ōu Main Line. Located north of Akita City, it can be reached by JR from the direction of Akita Station. By car, nearby parking is available, but public transport is convenient.
+
+## Around the Area
+
+Hachirōgata is known for the lake Hachirōgata, once the second largest in Japan, and the large-scale land reclamation project that transformed it. The vast rural scenery of Ōgata Village born from the reclamation, the Namahage culture of the Oga Peninsula, and the coastal scenery are nearby attractions. Together with the food culture of Akita, a celebrated rice-growing region, and the Oga Onsen hot-spring area, it is a place where one can savor the nature and folk culture of Akita.','hitoichi-no-bon-odori','hitoichi-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280858','ゆふいん音楽祭','Yufuin Music Festival',NULL,'music festival in Japan','Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B5%E3%81%84%E3%82%93%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11355803','三条まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11285021','アメッコ市','Odate Amekko-ichi','日本の秋田県大館市の小正月行事',NULL,NULL,NULL,NULL,'青森県','tohoku',40.270611111,140.558722222,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/AmekkoIchi.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%83%E3%82%B3%E5%B8%82',NULL,95,'drafted','## 概要
@@ -2282,8 +2590,96 @@ Gero Onsen, ranked as one of Japan''s three most famous hot springs, makes the f
 INSERT INTO "festivals" VALUES('Q11280345','やすらい祭','Yasurai Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%99%E3%82%89%E3%81%84%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353495','七尾港まつり','Nanao Port Festival','石川県七尾市で開催される市民祭',NULL,'Q11353471','七尾マリンパーク','Nanao Marine Park','石川県','chubu',NULL,NULL,1940,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11367985','丸亀お城まつり','Marugame Castle Festival',NULL,NULL,'Q250658','丸亀城','Marugame Castle','香川県','shikoku',NULL,NULL,1950,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E3%81%8A%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11360316','上野天神祭','Ueno Tenjin Festival','三重県伊賀市の菅原神社で行なわれる秋祭り',NULL,'Q17218755','菅原神社','Sugawara Shrine','大阪府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Iga%20City%20Danjiri%20Kaikan%20ac.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%A4%A9%E7%A5%9E%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11361280','下総三山の七年祭り','Shimōsa Miyama Seven-Year Festival','千葉県船橋市三山にある二宮神社を中心として開催される大祭',NULL,'Q11371511','二宮神社','Ninomiya Shrine','千葉県','kanto',NULL,NULL,1445,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Shimousamiyamanoshichinennmatsuri.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B7%8F%E4%B8%89%E5%B1%B1%E3%81%AE%E4%B8%83%E5%B9%B4%E7%A5%AD%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11360316','上野天神祭','Ueno Tenjin Festival','三重県伊賀市の菅原神社で行なわれる秋祭り',NULL,'Q17218755','菅原神社','Sugawara Shrine','三重県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Iga%20City%20Danjiri%20Kaikan%20ac.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%A4%A9%E7%A5%9E%E7%A5%AD',NULL,85,'drafted','## 上野天神祭とは
+
+上野天神祭（うえのてんじんまつり）は、三重県伊賀市の菅原神社（上野天神宮）で毎年秋に行われる例大祭です。豪華な楼車（だんじり）の巡行と、鬼や妖怪に扮した「鬼行列」で知られる、伊賀地方を代表する勇壮かつ独特の祭りで、国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。城下町・伊賀上野の秋を彩る、歴史と伝統に満ちた祭礼です。
+
+## 歴史と由来
+
+上野天神祭は、菅原道真を祀る菅原神社の祭礼として、藤堂藩の城下町・伊賀上野で発展してきました。その起源は江戸時代初期にさかのぼると伝えられ、城下の町人たちが財力と技を競って楼車を仕立て、また独特の鬼行列を整えていったとされます。約400年の歴史を持つこの祭りは、町ごとに受け継がれてきた楼車と鬼の面・装束を今に伝え、伊賀の人々の誇りとして大切に守られてきました。
+
+## 見どころ
+
+最大の見どころは、絢爛豪華な楼車の巡行と、百鬼夜行を思わせる「鬼行列」です。各町が誇る楼車は精緻な彫刻や装飾で飾られ、囃子にのって城下町を練り歩きます。一方、鬼行列では、ひょろつき鬼や役行者などに扮した人々が、独特の所作で観衆を沸かせます。鬼たちが沿道の子どもを脅かす場面は、この祭りならではの名物。歴史ある町並みを背景に繰り広げられる楼車と鬼の競演は、見る者を幻想的な世界へと誘います。
+
+## 開催情報
+
+例年秋（10月)に、三重県伊賀市の菅原神社および伊賀上野の城下町一帯で開催されます。秋の例大祭であり、季節は秋。楼車巡行・鬼行列の日程やルートは年によって異なるため、伊賀市および上野天神祭の主催団体の公式発表で事前に確認することをおすすめします。
+
+## アクセス
+
+会場の伊賀上野へは、伊賀鉄道「上野市駅」が最寄りです。大阪・名古屋の中間に位置し、近鉄やJRから伊賀鉄道に乗り継いでアクセスできます。車の場合は名阪国道などを利用できますが、開催期間中は城下町一帯で交通規制が敷かれるため、公共交通機関の利用が推奨されます。
+
+## 周辺観光
+
+伊賀市は、藤堂高虎が築いた上野城（白鳳城）や、忍者の里として名高い土地です。伊賀流忍者博物館では忍術の実演やからくり屋敷を見学でき、松尾芭蕉の生誕地としても知られています。伊賀焼や伊賀牛、地酒など、城下町ならではの食文化も魅力。歴史と忍者文化、そして秋の祭りを一度に楽しめる、伊賀ならではの旅が満喫できるエリアです。','## What Is the Ueno Tenjin Festival?
+
+The Ueno Tenjin Festival is the grand annual festival of Sugawara Shrine (Ueno Tenjin-gū) in Iga, Mie Prefecture, held each autumn. Known for its procession of gorgeous floats (*danjiri*) and its "demon procession" of people dressed as ogres and supernatural beings, it is a spirited and distinctive festival representative of the Iga region. Designated an Important Intangible Folk Cultural Property of Japan, it is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals." It is a festival rich in history and tradition that adorns the autumn of the castle town of Iga-Ueno.
+
+## History and Origins
+
+The Ueno Tenjin Festival developed in Iga-Ueno, the castle town of the Tōdō domain, as the festival of Sugawara Shrine, which enshrines Sugawara no Michizane. Its origins are said to date back to the early Edo period, when the townspeople of the castle town vied in wealth and skill to build floats and assemble the distinctive demon procession. With a history of some 400 years, the festival preserves to this day the floats and the demon masks and costumes handed down by each neighborhood, carefully protected as a source of pride for the people of Iga.
+
+## Highlights
+
+The greatest attractions are the procession of resplendent floats and the "demon procession" reminiscent of the night parade of one hundred demons. The floats that each neighborhood takes pride in are adorned with intricate carvings and decorations and parade through the castle town to festival music. In the demon procession, meanwhile, people dressed as *hyorotsuki* ogres and En no Gyōja delight the crowds with their distinctive movements. The scenes in which the demons frighten children along the route are a famous feature unique to this festival. The interplay of floats and demons unfolding against the historic townscape draws onlookers into a fantastical world.
+
+## When It Takes Place
+
+The festival is typically held in autumn (October) at Sugawara Shrine and throughout the castle town of Iga-Ueno in Iga, Mie Prefecture. As an autumn grand festival, its season is autumn. Because the dates and routes of the float and demon processions vary from year to year, visitors are advised to confirm details through official announcements from Iga City and the organizers of the Ueno Tenjin Festival.
+
+## Access
+
+Iga-Ueno is most conveniently reached via Uenoshi Station on the Iga Railway. Located midway between Osaka and Nagoya, it is accessible by transferring to the Iga Railway from the Kintetsu or JR lines. By car, routes such as the Meihan National Highway are available, but because traffic restrictions are imposed throughout the castle town during the festival, public transport is recommended.
+
+## Around the Area
+
+Iga is famed as the home of Ueno Castle (Hakuhō Castle), built by Tōdō Takatora, and as a land of ninja. At the Iga-ryū Ninja Museum, visitors can see demonstrations of ninja techniques and tour a house full of hidden tricks, and the area is also known as the birthplace of the poet Matsuo Bashō. Iga ware pottery, Iga beef, and local sake are among the food culture distinctive to the castle town. It is an area where one can savor a journey unique to Iga, enjoying history, ninja culture, and the autumn festival all at once.','ueno-tenjin-festival','ueno-tenjin-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11361280','下総三山の七年祭り','Shimōsa Miyama Seven-Year Festival','千葉県船橋市三山にある二宮神社を中心として開催される大祭',NULL,'Q11371511','二宮神社','Ninomiya Shrine','千葉県','kanto',NULL,NULL,1445,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shimousamiyamanoshichinennmatsuri.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B7%8F%E4%B8%89%E5%B1%B1%E3%81%AE%E4%B8%83%E5%B9%B4%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 下総三山の七年祭りとは
+
+下総三山の七年祭り（しもうさみやまのしちねんまつり）は、千葉県船橋市三山の二宮神社を中心に、6年に一度（数え年で7年に一度）執り行われる、近隣9社の神々が集う壮大な合同祭礼です。複数の神社の神輿が三山の地に参集し、それぞれの神を父・母・子などになぞらえた「産屋（うぶや）」の神事を行う、家族の物語になぞらえた独特の祭りとして知られ、千葉県の無形民俗文化財に指定されています。
+
+## 歴史と由来
+
+下総三山の七年祭りは、室町時代の文安2年（1445年）にその起源を持つと伝えられる、600年近い歴史を誇る祭礼です。安産祈願にまつわる伝説に由来するとされ、二宮神社を父、子安神社を母、子の安産を祝う神事として発展しました。船橋・千葉・習志野・八千代の各地に鎮座する9つの神社が、それぞれ父・母・子・産婆・伯父・叔母といった役を担い、家族として三山の地に集うという、全国的にも類を見ない構成を持つ祭りです。6年に一度の大祭として、地域の人々がその年を待ちわびます。
+
+## 見どころ
+
+最大の見どころは、9社の神輿が三山の二宮神社へと続々と参集する壮観な光景です。それぞれの地区から渡御してきた神輿が一堂に会する様は、6年に一度の大祭ならではの迫力に満ちています。神々を家族になぞらえた「産屋の儀」など、独特の神事が古式ゆかしく執り行われ、各地区の担ぎ手たちの熱気が祭りを盛り上げます。広範囲の地域が一体となって繰り広げる神輿の競演は、地域の絆の深さを物語ります。
+
+## 開催情報
+
+6年に一度（数え年7年に一度）、秋（11月）に、千葉県船橋市三山の二宮神社を中心とした地域で執り行われます。秋の大祭であり、季節は秋。次回の開催年や日程の詳細は、船橋市および主催団体の公式発表で確認してください。大祭の年でない場合でも、二宮神社では関連の小祭が行われることがあります。
+
+## アクセス
+
+中心となる二宮神社へは、京成本線「実籾駅」や新京成線「習志野駅」などからアクセスできます。船橋市の東部、習志野市との境に近い三山地区に位置します。車の場合は周辺道路を利用しますが、大祭の年は広範囲で交通規制と混雑が予想されるため、公共交通機関の利用が推奨されます。
+
+## 周辺観光
+
+船橋市は東京湾に面し、東京都心へのアクセスも良好な千葉県北西部の中核都市です。三山地区の二宮神社は緑豊かな社叢に包まれた由緒ある古社で、周辺には習志野・千葉方面の見どころも点在します。東京ディズニーリゾートや幕張新都心へも比較的近く、千葉県北西部の観光とあわせて、6年に一度の大祭の歴史と地域文化に触れられるエリアです。','## What Is the Shimōsa Miyama Seven-Year Festival?
+
+The Shimōsa Miyama Seven-Year Festival is a grand joint festival centered on Ninomiya Shrine in Miyama, Funabashi, Chiba Prefecture, held once every six years (once every seven years by the traditional count) and gathering the deities of nine neighboring shrines. The portable shrines of multiple shrines assemble at Miyama, and rites of the *ubuya* (birthing hut), in which each deity is likened to a father, mother, child, and so on, are performed. Known as a distinctive festival modeled on a family story, it is designated an Intangible Folk Cultural Property of Chiba Prefecture.
+
+## History and Origins
+
+The Shimōsa Miyama Seven-Year Festival is a festival of nearly 600 years'' history, said to trace its origins to 1445 in the Muromachi period. Believed to derive from a legend concerning prayers for safe childbirth, it developed as a rite in which Ninomiya Shrine plays the father and Koyasu Shrine the mother, celebrating the safe birth of a child. Nine shrines situated across Funabashi, Chiba, Narashino, and Yachiyo each take on roles such as father, mother, child, midwife, uncle, and aunt, gathering as a family at Miyama—a structure with few parallels in the country. As a grand festival held once every six years, local people eagerly await the year of its staging.
+
+## Highlights
+
+The greatest attraction is the magnificent sight of the portable shrines of all nine shrines converging one after another on Ninomiya Shrine in Miyama. The scene of *mikoshi* that have processed from each district gathering in one place is full of the intensity unique to a grand festival held only once every six years. Distinctive rites such as the "Ceremony of the Birthing Hut," in which the deities are likened to a family, are performed in the old style, while the fervor of the bearers from each district enlivens the festival. The shared display of portable shrines across a wide area speaks to the depth of the region''s bonds.
+
+## When It Takes Place
+
+The festival is held once every six years (once every seven years by the traditional count), in autumn (November), in the area centered on Ninomiya Shrine in Miyama, Funabashi, Chiba Prefecture. As an autumn grand festival, its season is autumn. Please confirm the next staging year and detailed dates through official announcements from Funabashi City and the organizing bodies. Even in non-grand-festival years, related smaller rites may be held at Ninomiya Shrine.
+
+## Access
+
+The central Ninomiya Shrine can be reached from stations such as Mimomi Station on the Keisei Main Line and Narashino Station on the Shin-Keisei Line. It is located in the Miyama district in eastern Funabashi, near the border with Narashino. By car, local roads are used, but in grand-festival years, traffic restrictions and crowds are expected over a wide area, so public transport is recommended.
+
+## Around the Area
+
+Funabashi, facing Tokyo Bay, is a core city of northwestern Chiba Prefecture with good access to central Tokyo. Ninomiya Shrine in the Miyama district is a venerable old shrine enveloped in a lush sacred grove, and the surrounding area is dotted with attractions toward Narashino and Chiba. Relatively close to Tokyo Disney Resort and the Makuhari new urban center, it is an area where, together with sightseeing in northwestern Chiba, one can engage with the history and local culture of a grand festival held only once every six years.','shimousa-miyama-seven-year-festival','shimousa-miyama-seven-year-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353544','七日堂裸まいり','Nanokado Hadaka Mairi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11302749','コリアン・シネマ・ウィーク','Korean Cinema Week','駐日韓国文化院主催の映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11338451','ホーランエンヤ','Hōran-en''ya','島根県松江市で行われる船渡御祭',NULL,NULL,NULL,NULL,'島根県','chugoku',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Horanenya%20higashimatsue.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)',NULL,85,'drafted','## ホーランエンヤ（島根）とは
@@ -2960,7 +3356,51 @@ The shrine is accessible approximately 10 minutes from Jinbohara Station on the 
 Kamisato Town is located in the northwestern part of Saitama Prefecture near the border with Gunma Prefecture, serving as a town of agriculture and history. Nearby attractions include Okegawa Inari Shrine (one of Japan''s three great Inari shrines), the former Honjō Commercial Bank Brick Warehouse in Honjō City, the Shibusawa Eiichi Memorial Museum in Fukaya City, and on the Gunma Prefecture side, the Takasaki Kannon and the Tomioka Silk Mill (a UNESCO World Heritage Site preserving the modern silk industry heritage). A journey can be designed to explore the trans-temporal connections of silk culture, linking the textile tradition of the Nagahatabe no Muraji clan with the modern Meiji-era Tomioka Silk Mill.','nagahatabe-jinja-kamisato','nagahatabe-jinja-kamisato',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q107340850','蛇も蚊も',NULL,'横浜市鶴見区の祭り',NULL,'Q127513','神奈川県','Kanagawa Prefecture','神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%9B%87%E3%82%82%E8%9A%8A%E3%82%82',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86734962','日向ひょっとこ夏祭り','Hyuga Hyottoko Summer Festival',NULL,NULL,'Q850388','日向市','Hyūga-shi',NULL,NULL,NULL,NULL,1984,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 市島川裾まつりとは
+
+市島川裾まつり（いちじまかわすそまつり）は、兵庫県丹波市市島町で毎年夏に行われる、竹田川の河畔を舞台とした祭りです。川の水にまつわる信仰「川裾祭」を起源とし、夏の夜空を彩る花火大会を中心に、地域の人々が川辺に集う、丹波市市島町の夏の風物詩として親しまれています。川面に映る花火の美しさが、夏のひとときに涼やかな彩りを添えます。
+
+## 歴史と由来
+
+市島川裾まつりは、「川裾祭」と呼ばれる、川や水に感謝し、水難除けや無病息災を祈る古くからの民俗信仰に由来します。竹田川とともに暮らしてきた市島の人々が、夏の盛りに川辺で営んできた祭礼が、現在の祭りへと受け継がれてきました。水の恵みへの感謝と、夏を健やかに過ごすための祈りが込められた行事であり、地域に根づいた夏の伝統として続いています。
+
+## 見どころ
+
+最大の見どころは、竹田川の河畔で打ち上げられる花火大会です。夏の夜空に大輪の花火が咲き、その光が川面に映り込む幻想的な光景は、見る者を魅了します。川辺には露店が並び、浴衣姿の人々で賑わう、夏祭りならではの情緒あふれる雰囲気も魅力。山々に囲まれた丹波の地で、自然と一体となって楽しむ花火は格別で、地域の人々にとって夏の大切なひとときとなっています。
+
+## 開催情報
+
+例年夏（7月)に、兵庫県丹波市市島町の竹田川河畔で開催されます。夏祭りであり、季節は夏。花火大会の日程や打ち上げ時間は年によって異なるため、丹波市および地元観光協会の公式発表で事前に確認することをおすすめします。荒天の場合は順延・中止となることがあります。
+
+## アクセス
+
+会場の市島町へは、JR福知山線「市島駅」からアクセスできます。丹波市の北部、京都府福知山市との境に近い市島町に位置します。車の場合は舞鶴若狭自動車道などを利用できますが、開催当日は周辺で交通規制や混雑が予想されるため、公共交通機関の利用が便利です。
+
+## 周辺観光
+
+丹波市は、四方を山に囲まれた自然豊かな地で、丹波黒大豆や丹波栗、丹波松茸といった特産品で全国に知られています。市島町には円通寺をはじめとする紅葉の名所や、古刹・古社が点在し、丹波焼の里や黒井城跡などの史跡も楽しめます。丹波の山里ならではの食と自然、そして夏の花火を満喫できる、のどかな魅力にあふれたエリアです。','## What Is the Ichijima Kawasuso Matsuri?
+
+The Ichijima Kawasuso Matsuri is a festival held each summer in the Ichijima district of Tamba, Hyōgo Prefecture, set on the banks of the Takeda River. Originating in the *kawasuso* rite of faith connected with river water, it centers on a fireworks display that colors the summer night sky, gathering local people along the riverside. It is cherished as a summer tradition of the Ichijima district of Tamba, where the beauty of the fireworks reflected on the river adds a cool touch to a summer moment.
+
+## History and Origins
+
+The Ichijima Kawasuso Matsuri derives from a long-standing folk belief known as the *kawasuso* rite, which gives thanks to rivers and water and prays for protection from water-related accidents and for good health. The festival that the people of Ichijima, who have lived alongside the Takeda River, have observed by the riverside at the height of summer has been handed down to the present. It is an event imbued with gratitude for the blessings of water and prayers for a healthy passage through summer, continuing as a summer tradition rooted in the community.
+
+## Highlights
+
+The greatest attraction is the fireworks display launched on the banks of the Takeda River. Great blossoms of fireworks open in the summer night sky, and their light reflected on the river''s surface creates a magical scene that captivates onlookers. Food stalls line the riverside, and the evocative atmosphere distinctive to a summer festival, bustling with people in summer kimono, is also part of its charm. Fireworks enjoyed in unity with nature in the mountain-ringed land of Tamba are exceptional, making this a precious summer moment for local people.
+
+## When It Takes Place
+
+The festival is typically held in summer (July) on the banks of the Takeda River in the Ichijima district of Tamba, Hyōgo Prefecture. As a summer festival, its season is summer. Because the dates and launch times of the fireworks vary from year to year, visitors are advised to confirm details in advance through official announcements from Tamba City and the local tourism association. In the event of bad weather, the festival may be postponed or canceled.
+
+## Access
+
+The Ichijima district can be reached via Ichijima Station on the JR Fukuchiyama Line. It is located in the Ichijima district in northern Tamba, near the border with Fukuchiyama in Kyoto Prefecture. By car, routes such as the Maizuru-Wakasa Expressway are available, but because traffic restrictions and crowds are expected around the venue on the day, public transport is convenient.
+
+## Around the Area
+
+Tamba is a richly natural land ringed by mountains on all sides, known nationwide for specialties such as Tamba black soybeans, Tamba chestnuts, and Tamba matsutake mushrooms. The Ichijima district is dotted with autumn-foliage spots including Entsū-ji temple, as well as ancient temples and shrines, and visitors can also enjoy the Tamba ware pottery village and historic sites such as the Kuroi Castle ruins. It is an area full of pastoral charm where one can savor the food and nature distinctive to the mountain villages of Tamba, along with the summer fireworks.','ichijima-kawasuso-matsuri','ichijima-kawasuso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q112222177','世田谷パン祭り','Setagaya Panmatsuri','日本の食文化の祭典','Japanese food and drink festival','Q231645','世田谷区','Setagaya','東京都','kanto',NULL,NULL,2011,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E3%83%91%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86727428','田辺祭','Tanabe Matsuri','和歌山県田辺市で行われる鬪雞神社の例大祭',NULL,'Q11656593','鬪雞神社','Tōkei Shrine','和歌山県','kinki',NULL,NULL,1600,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E7%94%B0%E8%BE%BA%E7%A5%AD%28%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE%29.jpg','https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q97280756','目白バ・ロック音楽祭','Mejiro Ba-Rock Music Festival',NULL,'former music festival (Japan)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9B%AE%E7%99%BD%E3%83%90%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
