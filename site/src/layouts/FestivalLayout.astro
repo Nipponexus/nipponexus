@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import type { Festival } from '../lib/festivals';
+import { getRelatedByPrefecture, getRelatedBySeason } from '../lib/festivals';
 
 interface Props {
   festival: Festival;
@@ -58,6 +59,15 @@ const seasonLabel = festival.season && seasonLabels[festival.season]
 
 const locationLabel = isJa ? festival.location_label_ja : (festival.location_label_en || festival.location_label_ja);
 const prefectureLabel = festival.prefecture;
+
+// 関連祭り（内部リンク・回遊強化）
+const relatedPref = getRelatedByPrefecture(festival.prefecture, festival.qid, locale, 6);
+const relatedSeason = getRelatedBySeason(festival.season, festival.qid, locale, 6);
+const relSlugCol = isJa ? 'slug_ja' : 'slug_en';
+const relUrl = (f: Festival) => `/${isJa ? '' : 'en/'}${(isJa ? f.slug_ja : f.slug_en)}/`;
+const relName = (f: Festival) => isJa ? f.label_ja : (f.label_en || f.label_ja);
+const prefLinkLabel = festival.prefecture;
+const seasonLinkLabel = seasonLabel;
 ---
 <BaseLayout
   title={pageTitle}
@@ -129,6 +139,39 @@ const prefectureLabel = festival.prefecture;
         )}
       </ul>
     </section>
+
+    {(relatedPref.length > 0 || relatedSeason.length > 0) && (
+      <section style="margin-bottom:2rem;">
+        {relatedPref.length > 0 && (
+          <div style="margin-bottom:1.5rem;">
+            <h3 style="color:var(--color-kincha);border-bottom:2px solid var(--color-shu);padding-bottom:0.4rem;">
+              {isJa ? `${prefLinkLabel}の他の祭り` : `More festivals in ${prefLinkLabel}`}
+            </h3>
+            <ul style="list-style:none;padding-left:0;margin:0.8rem 0 0;display:flex;flex-wrap:wrap;gap:0.6rem;">
+              {relatedPref.map((f) => (
+                <li>
+                  <a href={relUrl(f)} class="btn btn-outline" style="font-size:0.9rem;padding:0.35rem 0.9rem;">{relName(f)}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {relatedSeason.length > 0 && seasonLinkLabel && (
+          <div>
+            <h3 style="color:var(--color-kincha);border-bottom:2px solid var(--color-shu);padding-bottom:0.4rem;">
+              {isJa ? `${seasonLinkLabel}の祭り` : `${seasonLinkLabel} festivals`}
+            </h3>
+            <ul style="list-style:none;padding-left:0;margin:0.8rem 0 0;display:flex;flex-wrap:wrap;gap:0.6rem;">
+              {relatedSeason.map((f) => (
+                <li>
+                  <a href={relUrl(f)} class="btn btn-outline" style="font-size:0.9rem;padding:0.35rem 0.9rem;">{relName(f)}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </section>
+    )}
 
     <div style="text-align:center;margin-top:2rem;">
       <a href={isJa ? '/index/region/' : '/en/index/region/'} class="btn btn-outline">

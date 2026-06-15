@@ -138,3 +138,57 @@ export function groupByPrefecture(festivals: Festival[], locale: 'ja' | 'en'): G
     .sort((a, b) => b[1].length - a[1].length)
     .map(([k, v]) => ({ key: k, label: k, festivals: v }));
 }
+
+/**
+ * 同じ都道府県の他の祭りを取得（内部リンク用）。
+ * drafted/published かつ該当localeのslugありのみ。自分自身(excludeQid)を除外。
+ */
+export function getRelatedByPrefecture(
+  prefecture: string | null,
+  excludeQid: string,
+  locale: 'ja' | 'en',
+  limit = 6
+): Festival[] {
+  if (!prefecture) return [];
+  const db = open();
+  const slugCol = locale === 'ja' ? 'slug_ja' : 'slug_en';
+  const stmt = db.prepare(`
+    SELECT * FROM festivals
+    WHERE prefecture = ?
+      AND status IN ('drafted', 'published')
+      AND ${slugCol} IS NOT NULL
+      AND qid != ?
+    ORDER BY priority_score DESC, qid
+    LIMIT ?
+  `);
+  const rows = stmt.all(prefecture, excludeQid, limit) as Festival[];
+  db.close();
+  return rows;
+}
+
+/**
+ * 同じ季節の他の祭りを取得（内部リンク用）。
+ * drafted/published かつ該当localeのslugありのみ。自分自身(excludeQid)を除外。
+ */
+export function getRelatedBySeason(
+  season: string | null,
+  excludeQid: string,
+  locale: 'ja' | 'en',
+  limit = 6
+): Festival[] {
+  if (!season) return [];
+  const db = open();
+  const slugCol = locale === 'ja' ? 'slug_ja' : 'slug_en';
+  const stmt = db.prepare(`
+    SELECT * FROM festivals
+    WHERE season = ?
+      AND status IN ('drafted', 'published')
+      AND ${slugCol} IS NOT NULL
+      AND qid != ?
+    ORDER BY priority_score DESC, qid
+    LIMIT ?
+  `);
+  const rows = stmt.all(season, excludeQid, limit) as Festival[];
+  db.close();
+  return rows;
+}
