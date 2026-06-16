@@ -666,7 +666,59 @@ Tokyo from late October to early November enjoys mild weather just before the au
 - International Accreditation: FIAPF-accredited competitive film festival
 ','tokyo-international-film-festival','tokyo-international-film-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11249715','TOKYO IDOL FESTIVAL','Tokyo Idol Festival','2010年より開催されている日本の音楽イベント','annual music event in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL','https://en.wikipedia.org/wiki/Tokyo_Idol_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q446474','酒まつり','Sake Matsuri','毎年10月第2土・日曜の2日間にわたって広島県東広島市西条町の西条中央公園と西条酒蔵通りを中心にして行われる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D%20Sake%20Matsuri%202017.jpg','https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saij%C5%8D_Sake_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q446474','酒まつり','Sake Matsuri','毎年10月第2土・日曜の2日間にわたって広島県東広島市西条町の西条中央公園と西条酒蔵通りを中心にして行われる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D%20Sake%20Matsuri%202017.jpg','https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saij%C5%8D_Sake_Matsuri',85,'drafted','## 概要
+
+酒まつり（さけまつり）は、広島県東広島市西条地区の西条中央公園と西条酒蔵通りを中心に、毎年10月の第2土・日曜の2日間にわたって行われる祭りである。西条は灘・伏見と並ぶ日本三大銘醸地のひとつとして知られる酒どころで、両日合わせて毎年20万人が来場する、酒都西条を代表する一大イベントである。
+
+## 歴史と由来
+
+酒まつりの前身は、1974年（昭和49年）に誕生した「みんなの祭り」である。これを1990年（平成2年）に、当時の商工会議所のメンバーが中心となって「酒」をシンボルに据えて発展させたのが現在の酒まつりである。以来、酒好きはもちろん、酒が飲めない人や家族連れなど幅広い年齢層が楽しめる祭りとして定着した。西条は古くから酒造業で栄えた町で、酒蔵通りには白壁となまこ壁の酒蔵が建ち並び、赤瓦と煙突の景観が酒都らしい風情を醸している。
+
+## 見どころ
+
+メイン会場の西条中央公園には、全国の銘柄の酒を飲み比べできる「酒ひろば」（有料）が設けられ、ここが祭りの象徴的なコーナーとなっている。同じく中央公園の「5千人の居酒屋ひろば」ではステージで神楽や市民パフォーマンスが披露される。歩行者天国となる西条酒蔵通りでは、沿道の各酒造会社が酒蔵見学・試飲・販売を行い、西条名物の「美酒鍋（びしゅなべ）」やうどんが振る舞われ、酒蔵コンサートも催される。賀茂鶴の蔵を会場とするKIZUNA会場では神楽やジャズコンサートが行われる。子供が楽しめるヒーローショーやゲームコーナー、地元プロスポーツチームのブースもあり、酒を飲まない来場者にも配慮された構成となっている。
+
+## 開催情報・アクセス
+
+開催は毎年10月の第2土・日曜の2日間（年により変動あり）。会場は東広島市西条地区で、最寄りはJR山陽本線西条駅。メイン会場の中央公園までは徒歩約5分、酒蔵通りは駅手前にある。祭り期間中は広島〜西条間で臨時列車が運行され、会場周辺は歩行者天国となる。駐車スペースが限られるため広島大学周辺に臨時駐車場が設けられ、シャトルバスも運行される。
+
+## 周辺の見どころ
+
+西条酒蔵通りは、白壁の酒蔵やレンガ煙突が連なる歴史的な町並みで、祭りの時期以外でも酒蔵見学や試飲を楽しめる人気の散策路である。賀茂鶴・白牡丹・亀齢など名だたる酒蔵が集まり、日本酒文化に触れられる。東広島市は広島大学を擁する学術都市でもあり、広島市街からも近く、広島観光と合わせて訪れやすい。
+
+## 関連情報
+
+- 開催月: 10月第2土・日曜（秋）
+- 都道府県: 広島県（中国）
+- 会場: 西条中央公園・西条酒蔵通り（東広島市）
+- 前身: 「みんなの祭り」（1974年）→ 1990年に「酒」をシンボルに発展
+- 来場者数: 両日で約20万人','## Overview
+
+The Saijo Sake Matsuri is held over two days on the second Saturday and Sunday of October each year, centered on Saijo Central Park and the Saijo Sakagura-dori in the Saijo district of Higashihiroshima City, Hiroshima Prefecture. Saijo is a renowned sake-producing town known as one of Japan''s three great brewing regions alongside Nada and Fushimi, and the festival draws 200,000 visitors over the two days as a leading event representing the "sake capital" of Saijo.
+
+## History and Origins
+
+The predecessor of the Sake Matsuri is the "Everyone''s Festival" born in 1974. In 1990, members of the chamber of commerce of the time took the lead in developing it into today''s Sake Matsuri, placing "sake" at its symbolic center. Since then it has become established as a festival enjoyable by a wide range of ages, including sake lovers as well as those who cannot drink and families. Saijo has long prospered through the sake-brewing industry, and the Sakagura-dori is lined with breweries of white plaster and namako walls, with red tiles and chimneys creating an atmosphere befitting the sake capital.
+
+## Highlights
+
+The main venue, Saijo Central Park, has the "Sake Hiroba" (paid), where one can compare and taste renowned sake from across Japan, a symbolic corner of the festival. Also in the park, the "Izakaya Plaza for 5,000 People" features kagura and citizen performances on stage. On the Saijo Sakagura-dori, which becomes a pedestrian zone, each brewery along the road offers brewery tours, tastings, and sales, serves the Saijo specialty "bishu-nabe" hotpot and udon, and holds brewery concerts. The KIZUNA venue at the Kamotsuru brewery hosts kagura and jazz concerts. There are also hero shows and game corners for children and booths of local professional sports teams, making the program considerate of visitors who do not drink.
+
+## Event Information & Access
+
+It is held over two days on the second Saturday and Sunday of October each year (subject to variation). The venue is the Saijo district of Higashihiroshima City; the nearest station is Saijo on the JR Sanyo Main Line. The main venue, Central Park, is about a 5-minute walk away, and the Sakagura-dori is just before the station. During the festival, special trains run between Hiroshima and Saijo, and the area around the venue becomes a pedestrian zone. As parking is limited, temporary parking is set up around Hiroshima University, with shuttle buses operating.
+
+## Around the Venue
+
+The Saijo Sakagura-dori is a historic townscape of white-plaster breweries and brick chimneys, a popular walking route where one can enjoy brewery tours and tastings even outside the festival period. Famous breweries such as Kamotsuru, Hakubotan, and Kirei gather here, offering a chance to experience sake culture. Higashihiroshima City is also an academic city home to Hiroshima University, and being close to central Hiroshima, it is easy to combine with Hiroshima sightseeing.
+
+## Related Information
+
+- Month: Second Saturday-Sunday of October (autumn)
+- Prefecture: Hiroshima (Chugoku)
+- Venue: Saijo Central Park and Saijo Sakagura-dori (Higashihiroshima City)
+- Predecessor: "Everyone''s Festival" (1974), developed around "sake" from 1990
+- Attendance: About 200,000 over the two days','saijo-sake-matsuri','saijo-sake-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q493695','唐津くんち','Karatsu Kunchi','佐賀県唐津市にある唐津神社の秋季例大祭','festival in Japan','Q11418639','唐津神社','Karatsu Shrine','佐賀県','kyushu',33.445171292,129.967403864,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Hikiyama.jpg','https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Karatsu_Kunchi',95,'drafted','## 概要
 
 唐津くんち（からつくんち）は、佐賀県唐津市の唐津神社の秋季例大祭で、毎年11月2日から4日にかけて開催される、約400年の歴史を持つ伝統祭礼である。14台の豪華絢爛な「曳山（ひきやま）」が城下町を巡行する勇壮な姿で全国的に知られ、1980年（昭和55年）に国の重要無形民俗文化財に指定、2016年にはユネスコ無形文化遺産「山・鉾・屋台行事」の構成要素として登録された。
@@ -818,7 +870,63 @@ The name "Shan-Shan" is said to derive from the cool sound—"shan shan"—made 
 The festival''s greatest highlight is the "mass umbrella dance," in which thousands of dancers present perfectly coordinated group dancing. The spectacle of colorful flower-umbrellas spreading across the entire main street, with the sound of bells and festival music resounding through the city, is magnificent, and its scale boasts one of the largest umbrella dances in the country. The splendid wave of light woven by handmade flower-umbrellas captivates onlookers. Ardently coloring summer in Tottori, the Shan-Shan Festival is a dynamic modern summer festival nurtured by the hands of the citizens.','tottori-shan-shan-festival','tottori-shan-shan-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16642915','土用の丑の日','Midsummer Day of the Ox','土用の時期中で、十二支が丑に当たる日','Day of the Japanese calendar',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%94%A8%E3%81%AE%E4%B8%91%E3%81%AE%E6%97%A5','https://en.wikipedia.org/wiki/Midsummer_Ox_Day',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16909481','SUPER ROCK ''85 IN JAPAN','Super Rock ''85 in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/SUPER_ROCK_%2785_IN_JAPAN','https://en.wikipedia.org/wiki/Super_Rock_%2785_in_Japan',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3610588','ひろしまフラワーフェスティバル','Hiroshima Flower Festival','広島県広島市で開催される祭り','annual Flower Festival in Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1977,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hana-no-to2.jpg','https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Hiroshima_Flower_Festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3610588','ひろしまフラワーフェスティバル','Hiroshima Flower Festival','広島県広島市で開催される祭り','annual Flower Festival in Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1977,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hana-no-to2.jpg','https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Hiroshima_Flower_Festival',85,'drafted','## 概要
+
+ひろしまフラワーフェスティバル（Hiroshima Flower Festival）は、広島県広島市の平和大通りおよび平和記念公園周辺をメイン会場に、毎年5月3日から5日まで開催される祭りである。「FF」「フラワー」の愛称で親しまれ、動員数は毎年160万人を超える。博多どんたくなどと並び、ゴールデンウィーク中の日本の祭りのなかでも最大級の規模を誇る。
+
+## 歴史と由来
+
+きっかけは1975年（昭和50年）、平和大通りで行われた広島東洋カープのセントラル・リーグ初優勝パレードである。当時としては驚異的な30万人を動員したこの熱狂が種となり、すでに平和大通り一帯を会場とする新しい祭りの構想を練っていた中国新聞社が中心となって商工会や市と折衝を重ね、1977年（昭和52年）に初開催された。初回は3日間で計125万人を集める大成功を収め、以後2019年まで毎年開催された。
+
+2020年は新型コロナウイルスの世界的流行で、初開催以来初めての中止となった。2021年はパレードを行わず規模を縮小して開催。2023年はG7広島サミットが市内で開催されたことに伴い、警備への配慮から6月の2日間に日程を移して開催し、中断していたパレードも復活した。祭りには開催当初から「広島を花と緑と音楽のあふれる都市にしよう」「平和に生きることのすばらしさを分かち合おう」「広島から世界へ豊かな交流を呼びかけよう」という3つのテーマが掲げられ、被爆地・広島ならではの平和への願いが込められている。
+
+## 見どころ
+
+最大の見どころは、5月3日に平和大通りを行く「花の総合パレード」である。11時に平和記念公園内で「花の塔」に点火されて祭りが開幕し、花車や市民団体、企業がパレードを繰り広げる。2008年からは折り鶴みこし連も加わった。5月5日には「きんさいYOSAKOI」（2025年からはダンスやマーチングバンドも加えた「パフォーマンスパレード」）が行われ、鳴子を手にした演舞が大通りを彩る。平和大通り沿いには花の名を冠した約30のステージが設けられ、有名歌手やゲストが出演する。公式テーマ曲「花ぐるま」（作曲・小椋佳）は開会セレモニーで歌われる恒例となっている。
+
+## 開催情報・アクセス
+
+開催は例年5月3日から5日の3日間。メイン会場は広島市の平和大通りと平和記念公園周辺で、市内各所に協賛会場が設けられる。最寄りは広島電鉄の中電前・袋町・比治山下などの各停留場。期間中、広島電鉄の路面電車にはラッピング車両も走る。パレード時間帯の平和大通りは歩行者天国となる。
+
+## 周辺の見どころ
+
+メイン会場の平和記念公園には原爆ドーム（世界遺産）や広島平和記念資料館があり、祭りと合わせて平和学習の地を訪れることができる。広島市内には広島城やマツダスタジアム（広島東洋カープ本拠地）もあり、祭りでもカープ関連のブースやトークショーが恒例となっている。少し足を延ばせば世界遺産の厳島神社（宮島）もあり、ゴールデンウィークの広島観光と合わせやすい。
+
+## 関連情報
+
+- 開催月: 5月3〜5日（春・ゴールデンウィーク）
+- 都道府県: 広島県（中国）
+- 会場: 平和大通り・平和記念公園周辺（広島市）
+- 初回開催: 1977年
+- 来場者数: 毎年160万人超（2024年は約181万人）','## Overview
+
+The Hiroshima Flower Festival is held each year from May 3 to 5, with its main venues along Peace Boulevard and around the Peace Memorial Park in Hiroshima City, Hiroshima Prefecture. Affectionately known as "FF" or "Flower," it draws over 1.6 million visitors annually. Alongside events such as Hakata Dontaku, it is among the largest of Japan''s festivals held during the Golden Week holidays.
+
+## History and Origins
+
+The spark came in 1975, with the parade celebrating the Hiroshima Toyo Carp''s first Central League championship along Peace Boulevard. The astonishing turnout of 300,000 people for that time became the seed; the Chugoku Shimbun newspaper, which had already been planning a new festival using the Peace Boulevard area, took the lead and, after negotiations with the chamber of commerce and the city, held the first festival in 1977. The inaugural event was a great success, gathering 1.25 million people over three days, and it was held every year through 2019.
+
+In 2020 it was canceled for the first time since its inception due to the global COVID-19 pandemic. In 2021 it was held on a reduced scale without a parade. In 2023, as the G7 Hiroshima Summit was held in the city, the schedule was moved to two days in June out of consideration for security, and the suspended parade revived. Since its inception the festival has carried three themes—"Make Hiroshima a city overflowing with flowers, greenery, and music," "Share the wonder of living in peace," and "Call out from Hiroshima to the world for rich exchange"—reflecting a wish for peace unique to the atomic-bombed city.
+
+## Highlights
+
+The greatest highlight is the "Grand Flower Parade" along Peace Boulevard on May 3. At 11 a.m. the "Flower Tower" in the Peace Memorial Park is lit to open the festival, and flower floats, citizen groups, and companies unfold a parade. From 2008 a paper-crane mikoshi procession joined as well. On May 5 the "Kinsai YOSAKOI" (from 2025 a "Performance Parade" adding dance and marching bands) is held, with dancers holding naruko clappers coloring the boulevard. About 30 stages named after flowers line Peace Boulevard, where famous singers and guests perform. The official theme song "Hanaguruma" (composed by Kei Ogura) is customarily sung at the opening ceremony.
+
+## Event Information & Access
+
+It is normally held over three days from May 3 to 5. The main venues are Peace Boulevard and the area around the Peace Memorial Park in Hiroshima City, with cooperating venues set up across the city. The nearest stops are the Chuden-mae, Fukuromachi, and Hijiyamashita stations of the Hiroshima Electric Railway. During the festival, wrapped streetcars of the Hiroshima Electric Railway also run. Peace Boulevard becomes a pedestrian zone during parade hours.
+
+## Around the Venue
+
+The main venue, the Peace Memorial Park, contains the Atomic Bomb Dome (World Heritage) and the Hiroshima Peace Memorial Museum, allowing visitors to combine the festival with sites of peace education. Hiroshima City also has Hiroshima Castle and Mazda Stadium (home of the Hiroshima Toyo Carp), and Carp-related booths and talk shows are customary at the festival. A short trip away is the World Heritage Itsukushima Shrine (Miyajima), making it easy to combine with Golden Week sightseeing in Hiroshima.
+
+## Related Information
+
+- Month: May 3-5 (spring, Golden Week)
+- Prefecture: Hiroshima (Chugoku)
+- Venue: Peace Boulevard and around the Peace Memorial Park (Hiroshima City)
+- First held: 1977
+- Attendance: Over 1.6 million annually (about 1.81 million in 2024)','hiroshima-flower-festival','hiroshima-flower-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4947265','藤崎八旛宮秋季例大祭','Boshita Festival',NULL,'festival in Japan','Q167146','藤崎八旛宮','Fujisaki Hachimangū',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Boshita-kazarioroshi2009.9.19Higo-chiyukai.jpg','https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/The_Great_Festival_of_Fujisaki_Hachimangu_Shrine',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3837559','LOUD PARK','Loud Park Festival','日本で行われるヘヴィメタルのフェス','heavy metal festival held annually at Saitama Super Arena in Saitama City or Makuhari Messe in Chiba City, Japan','Q862452','幕張メッセ','Makuhari Messe',NULL,NULL,NULL,NULL,2006,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/LOUD_PARK','https://en.wikipedia.org/wiki/Loud_Park_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5288609','土居太鼓祭り','Doi taikomatsuri',NULL,NULL,NULL,NULL,NULL,'愛媛県','shikoku',33.965,133.43,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Doi_taikomatsuri',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -844,7 +952,63 @@ The festival''s most dramatic events are the kiotoshi, or log drop, and the kawa
 After the dramatic transportation phase comes the satobiki, or town pulling, during which the logs are drawn through populated areas to the shrines themselves. Parishioners in matching happi coats pull the logs with cries of "Yoisa, yoisa!" while specialized brass bands play marching tunes and traditional kiyari folk songs ring out along the route. Households along the path set up small stalls offering local foods, sake, and refreshments to the workers and spectators, transforming the towns into spontaneous festival spaces. Tourists may participate in certain designated segments of the pulling, providing visitors with the rare opportunity to take part directly in one of Japan''s largest religious observances.
 
 The festival is staged across a wide area encompassing the cities of Suwa, Chino, Okaya, and the towns of Shimosuwa and Fujimi in the Suwa region. The upper shrine log drop site can be reached from the Suwaminami interchange of the Chuo Expressway, while the lower shrine site is approximately twenty-five minutes on foot from JR Shimosuwa Station. Visitors during non-festival years can still appreciate the four shrines through a traditional pilgrimage circuit, and the broader Suwa region offers extensive attractions including Lake Suwa, the alpine plateaus of Kirigamine, and the dramatic peaks of the Yatsugatake mountains, making the area a worthwhile destination throughout the seven-year cycle between festivals.','onbashira-matsuri','onbashira-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3307937','壬生の花田植','Mibu no Hana Taue','広島県北広島町で行われる伝統行事','Rice transplanting ritual in Hiroshima, Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mibu-hanadaue01.JPG','https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D','https://en.wikipedia.org/wiki/Mibu_no_Hana_Taue',85,'drafted','壬生の花田植は、広島県北広島町壬生で6月に行われる伝統的な田植え行事です。華やかに飾った牛が田を耕し、早乙女たちが田植え歌に合わせて苗を植える、豊作祈願の予祝行事です。太鼓や笛の囃子が響くなか、色鮮やかな衣装と装飾が水田に映える光景は壮観です。2011年にユネスコ無形文化遺産に登録され、日本の田植え文化を伝える貴重な民俗芸能として知られています。','Mibu no Hana Taue is a traditional rice-planting ritual held in June in Mibu, Kitahiroshima Town, Hiroshima Prefecture. Lavishly decorated cattle till the paddy while saotome (young female planters) set out seedlings in time with rice-planting songs, in a rite of pre-celebration praying for a good harvest. Against the sound of drums and flutes, the vivid costumes and ornaments reflected in the flooded paddy create a spectacular sight. Inscribed on the UNESCO Intangible Cultural Heritage list in 2011, it is known as a precious folk performing art that conveys Japan''s rice-planting culture.','mibu-no-hana-taue','mibu-no-hana-taue',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3307937','壬生の花田植','Mibu no Hana Taue','広島県北広島町で行われる伝統行事','Rice transplanting ritual in Hiroshima, Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mibu-hanadaue01.JPG','https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D','https://en.wikipedia.org/wiki/Mibu_no_Hana_Taue',85,'drafted','## 概要
+
+壬生の花田植（みぶのはなだうえ）は、広島県山県郡北広島町壬生で、毎年6月の第1日曜日に豊作を願って行われる伝統的な田植え行事である。1976年（昭和51年）に国の重要無形民俗文化財に指定され、2011年（平成23年）にはユネスコ無形文化遺産保護条約の「人類の無形文化遺産の代表的な一覧表」に記載された。現在西日本に残る花田植としては最大の規模を誇る。
+
+## 歴史と由来
+
+西日本には鎌倉時代の頃より、田植えの際に音頭取りが打ち合わせるささらの拍子にあわせ、大太鼓・小太鼓・笛・手打鉦で囃し、早乙女が田植歌を歌いながら苗を植えていくという風習があった。これはサンバイ（田の神）を祭って無病息災と豊穣を願う農耕儀礼であるとともに、重労働である田植え作業を皆で楽しくこなすための工夫でもあった。
+
+やがて田植えの行事は大勢の人々を集めて一層華やかになり、代掻きをする牛は造花で飾った花鞍をのせ、早乙女らは赤い襷や腰巻で着飾ってハレの日を演出するようになった。その華やかな様子から「花田植」の名が付いたといわれている。壬生の花田植は「川東田楽団」と「壬生田楽団」によってその伝統が伝えられ、歴史の深さから国の重要無形民俗文化財に指定され、さらにユネスコ無形文化遺産に登録された。
+
+## 見どころ
+
+きらびやかな装具をつけた飾り牛、絣の着物に菅笠をかぶった早乙女、見事なバチさばきを見せる囃子手——そのいずれもが新緑の山と田んぼの水面に映え、初夏の一大絵巻をなす。儀礼はまず田の神であるサンバイを迎えるところから始まり、田植歌が歌い継がれていく。「唄の初めにまずサンバイを参らしょう」「何と早乙女さんや 浅う植えてたもれ」といった田植歌には、田の神への祈りと豊作への願いが込められている。飾り牛による代掻きから早乙女の田植えへと進む一連の所作は、田植え文化を今に伝える貴重な民俗芸能である。
+
+## 開催情報・アクセス
+
+開催は毎年6月の第1日曜日。会場は広島県山県郡北広島町壬生の水田で、広島市街から車でアクセスする来訪者が多い。新緑の山里を背景に水田で繰り広げられる行事のため、初夏の屋外観覧となる。
+
+## 周辺の見どころ
+
+北広島町は中国山地のなかに位置し、神楽（芸北神楽）の盛んな地域としても知られる。豊かな自然と農村景観が広がり、田楽・神楽といった民俗芸能の伝統が色濃く残る。同じ広島県内には世界遺産の厳島神社や原爆ドームなどの著名な観光地もあり、広島観光と合わせて中国山地の伝統文化に触れる旅程が組める。
+
+## 関連情報
+
+- 開催月: 6月第1日曜日（夏）
+- 都道府県: 広島県（中国）
+- 会場: 北広島町壬生の水田
+- 指定: 国の重要無形民俗文化財（1976年）/ ユネスコ無形文化遺産（2011年）
+- 伝承団体: 川東田楽団・壬生田楽団','## Overview
+
+Mibu no Hana Taue is a traditional rice-planting ritual held in Mibu, Kitahiroshima Town, Yamagata District, Hiroshima Prefecture, on the first Sunday of June each year to pray for a bountiful harvest. Designated a National Important Intangible Folk Cultural Property in 1976, it was inscribed in 2011 on UNESCO''s Representative List of the Intangible Cultural Heritage of Humanity. It boasts the largest scale among the hana-taue rituals surviving in western Japan today.
+
+## History and Origins
+
+Since around the Kamakura period, western Japan had a custom in which, during rice planting, musicians played large and small drums, flutes, and hand gongs in time with the sasara clappers of a song leader, while saotome (young female planters) set out seedlings as they sang planting songs. This was an agricultural rite honoring Sanbai, the deity of the rice paddy, to pray for good health and an abundant harvest, and also a device for performing the heavy labor of rice planting enjoyably together.
+
+In time the ritual grew more splendid by gathering many people: the cattle that tilled the paddy wore flower-decorated saddles, and the saotome dressed up in red sashes and waistcloths to mark the festive day. This splendor is said to be the origin of the name "hana-taue" (flower rice-planting). The tradition of Mibu no Hana Taue is carried on by the Kawahigashi Dengaku troupe and the Mibu Dengaku troupe, and for its depth of history it was designated a national important property and inscribed on the UNESCO list.
+
+## Highlights
+
+The brilliantly adorned decorated cattle, the saotome in kasuri kimono and sedge hats, and the musicians displaying superb stick technique all stand out against the fresh green mountains and the water of the paddy, forming a grand scroll of early summer. The rite begins by welcoming Sanbai, the deity of the paddy, after which planting songs are sung in succession. Songs such as "At the song''s start, let us first welcome Sanbai" and "Saotome, plant shallowly" carry prayers to the deity and wishes for a rich harvest. The sequence of motions, from the cattle''s tilling to the saotome''s planting, is a precious folk performing art that conveys Japan''s rice-planting culture to the present.
+
+## Event Information & Access
+
+It is held on the first Sunday of June each year. The venue is a paddy field in Mibu, Kitahiroshima Town, Hiroshima Prefecture, with many visitors arriving by car from central Hiroshima. As the ritual unfolds in a paddy against a backdrop of fresh green hills, it is an outdoor early-summer event.
+
+## Around the Venue
+
+Kitahiroshima Town lies within the Chugoku Mountains and is also known as an area where kagura (Geihoku kagura) flourishes. Rich nature and rural scenery extend across the region, and traditions of folk performing arts such as dengaku and kagura remain strong. Within Hiroshima Prefecture there are also famous sights such as the World Heritage Itsukushima Shrine and the Atomic Bomb Dome, allowing a trip that combines Hiroshima sightseeing with the traditional culture of the Chugoku Mountains.
+
+## Related Information
+
+- Month: First Sunday of June (summer)
+- Prefecture: Hiroshima (Chugoku)
+- Venue: Paddy field in Mibu, Kitahiroshima Town
+- Designation: National Important Intangible Folk Cultural Property (1976) / UNESCO Intangible Cultural Heritage (2011)
+- Preserving troupes: Kawahigashi Dengaku and Mibu Dengaku','mibu-no-hana-taue','mibu-no-hana-taue',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5174676','コスキン・エン・ハポン','Cosquín en Japón','福島県伊達郡川俣町で毎年開催されているフォルクローレの音楽祭','a South American folk festival held annually in Kawamata, Fukushima, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%9D%E3%83%B3','https://en.wikipedia.org/wiki/Cosqu%C3%ADn_en_Jap%C3%B3n',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11301756','ゲームマーケット','Game Market','日本最大級の電源不要ゲーム(アナログゲーム)のイベント','Japanese gaming convention',NULL,NULL,NULL,'千葉県','kanto',35.6308,139.797,2000,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Gamemarket2014autumn08.jpg','https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88','https://en.wikipedia.org/wiki/Game_Market',95,'drafted','## 概要
 
@@ -949,7 +1113,67 @@ The area around Osaka ATC Hall lies in the Osaka South Port waterfront district,
 - Scale: Over 20,000 attendees, hundreds of exhibitor booths
 - Organizer: Arclight Inc.
 ','game-market','game-market',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3562464','信玄公祭り','Shingen-ko Festival','山梨県甲府市において行われているイベント','Annual traditional Japanese festival',NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,1947,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Paradeimregen3.JPG','https://ja.wikipedia.org/wiki/%E4%BF%A1%E7%8E%84%E5%85%AC%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Shingen-ko_Festival',85,'drafted','信玄公祭りは、山梨県甲府市で毎年4月に行われる戦国武将・武田信玄をたたえる祭りです。1947年に始まり、最大の見どころは「甲州軍団出陣」で、信玄役を中心に甲冑姿の武者が市内を練り歩きます。参加する武者の数では世界最大級とされ、ギネス世界記録に認定されたこともあります。武田信玄の遺徳をしのぶとともに、甲府の春を彩る一大イベントとして親しまれています。','The Shingen-ko Festival is held every April in Kofu City, Yamanashi Prefecture, in honor of the Warring States warlord Takeda Shingen. Begun in 1947, its greatest highlight is the "Koshu Army Deployment," in which warriors in armor, led by a figure playing Shingen, parade through the city. It is considered one of the largest gatherings of armored warriors in the world and has been recognized by Guinness World Records. While honoring the legacy of Takeda Shingen, it is cherished as a major event that brings color to spring in Kofu.','shingen-ko-festival','shingen-ko-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3562464','信玄公祭り','Shingen-ko Festival','山梨県甲府市において行われているイベント','Annual traditional Japanese festival',NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,1947,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Paradeimregen3.JPG','https://ja.wikipedia.org/wiki/%E4%BF%A1%E7%8E%84%E5%85%AC%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Shingen-ko_Festival',85,'drafted','## 概要
+
+信玄公祭り（しんげんこうまつり）は、山梨県甲府市で、戦国大名・武田信玄の命日（4月12日）の前の金曜日から日曜日にかけて開催される都市祭礼である。武田二十四将を模した時代行列「甲州軍団出陣」を最大の目玉とし、近年は20万人以上が訪れる。地域住民による伝統的な祭礼ではなく、山梨県や甲府市の観光PRを目的とした行政主導のイベントとして位置づけられている。
+
+## 歴史と由来
+
+発祥は1947年（昭和22年）4月、山梨県・甲府市の観光協会と甲府商工会議所が共同で始めた「桜祭り」にさかのぼる。桜祭りは花見の季節に合わせた売り出しを目的に甲府城（舞鶴公園）で開催され、最終日には武田神社の例大祭にあわせて地元相川地区の住民が甲冑姿で騎馬行列を行っていた。
+
+戦後、観光業が山梨県の主要産業となるなか、京都の時代祭や金沢百万石まつりといった歴史的観光資源を活かした都市祭礼の先行例にならい、武田信玄が観光資源として着目された。1966年（昭和41年）に第一回「甲府信玄祭り」が開催され、やがて騎馬行列を中心とした構成へと発展。1969年放送のNHK大河ドラマ『天と地と』の影響を受け、翌1970年から「信玄公祭り」と改称して2日間の日程となった。
+
+国道20号を封鎖して有料観覧席を設ける大規模な「武田軍団出陣絵巻」へと成長したが、1976年にはオイルショックによる不況で中止となり、翌年からは自治体中心のイベントへ再編された。1988年放送の大河ドラマ『武田信玄』で再び活気を取り戻し、信玄役に著名俳優を起用するなど華やかさを加えながら現在に至っている。2011年は東日本大震災の影響で35年ぶりに中止となった。
+
+## 見どころ
+
+最大の見どころは「甲州軍団出陣」である。信玄役を中心に、武田二十四将に扮した甲冑姿の武者たちが軍団を編成し、舞鶴城公園での出陣式を経て市内を練り歩く。この武者の参加規模は世界最大級とされ、「侍が最も多く集まる祭り」として2012年（平成24年）にギネス世界記録に認定された。信玄役には歴代、渡哲也・藤岡弘、・松平健・冨永愛など著名人が起用され、話題を呼んできた。出陣式・軍団終結・川中島ミニ決戦など、戦国絵巻さながらの演出が祭りを彩る。
+
+## 開催情報・アクセス
+
+開催は信玄の命日（4月12日）前後の金曜から日曜にかけて。主会場は甲府城跡の舞鶴城公園と甲府駅周辺、平和通り・城東通りなど甲府市内一帯である。最寄りは甲府駅で、駅から会場へは徒歩圏内。期間中は甲府駅北口ロータリーなどから直通バスも運行される。なお祭りの開催時期は、その年の事情により秋へ振り替えられた回もある。
+
+## 周辺の見どころ
+
+甲府市内には、信玄を祭神として1919年（大正8年）に創建された武田神社（躑躅ヶ崎館跡）があり、命日には例大祭が行われる。祭り期間中は甲府駅南口の武田信玄銅像前に線香立てが設けられ、煙を浴びて信玄の知恵と勇気を授かるという礼拝も行われる。甲府は甲府城跡や昇仙峡、ぶどう・ワインの産地としても知られ、春の観光と合わせて訪れやすい。
+
+## 関連情報
+
+- 開催月: 4月（春・信玄の命日前後の金〜日曜）
+- 都道府県: 山梨県（中部）
+- 会場: 舞鶴城公園・甲府駅周辺ほか甲府市内
+- 初回開催: 1970年（第1回・前身の桜祭りは1947年）
+- 記録: 「侍が最も多く集まる祭り」ギネス世界記録（2012年）','## Overview
+
+The Shingen-ko Festival is an urban festival held in Kofu City, Yamanashi Prefecture, from the Friday to Sunday preceding the death anniversary (April 12) of the Warring States warlord Takeda Shingen. Its greatest highlight is the period procession "Koshu Army Deployment," reenacting Takeda''s Twenty-Four Generals, and in recent years it has drawn over 200,000 visitors. Rather than a traditional rite run by local residents, it is positioned as a government-led event aimed at promoting tourism for Yamanashi Prefecture and Kofu City.
+
+## History and Origins
+
+The festival originates in the "Cherry Blossom Festival" jointly launched in April 1947 by the tourism associations of Yamanashi and Kofu and the Kofu Chamber of Commerce. Held at Kofu Castle (Maizuru Park) to coincide with the cherry-blossom season, its final day featured local Aikawa-district residents performing a mounted procession in armor in step with the grand festival of Takeda Shrine.
+
+As tourism became a major industry of Yamanashi after the war, Takeda Shingen drew attention as a tourism resource, following precedents such as Kyoto''s Jidai Matsuri and Kanazawa''s Hyakumangoku Festival that drew on historical resources. The first "Kofu Shingen Festival" was held in 1966, gradually developing into a structure centered on the mounted procession. Influenced by the 1969 NHK historical drama "Ten to Chi to," it was renamed the "Shingen-ko Festival" from 1970 and expanded to two days.
+
+It grew into a large-scale "Takeda Army Deployment Scroll" with paid grandstand seating along a closed National Route 20, but was canceled in 1976 amid the oil-crisis recession, after which it was reorganized as a municipality-centered event. The 1988 NHK drama "Takeda Shingen" revived its energy, and it has continued to the present, adding splendor by casting famous actors as Shingen. In 2011 it was canceled for the first time in 35 years due to the Great East Japan Earthquake.
+
+## Highlights
+
+The greatest highlight is the "Koshu Army Deployment." Led by a figure playing Shingen, warriors in armor portraying the Twenty-Four Generals form an army and parade through the city after a deployment ceremony at Maizuru Castle Park. The scale of participating warriors is among the largest in the world, and in 2012 it was recognized by Guinness World Records as the "largest gathering of samurai." Over the years celebrities such as Tetsuya Watari, Hiroshi Fujioka, Ken Matsudaira, and Ai Tominaga have played Shingen, generating much attention. Deployment ceremonies, the gathering of the army, and a mini reenactment of the Battle of Kawanakajima color the festival like a Warring States scroll.
+
+## Event Information & Access
+
+It is held from Friday to Sunday around Shingen''s death anniversary (April 12). The main venues are Maizuru Castle Park on the site of Kofu Castle, the area around Kofu Station, and city streets such as Heiwa-dori and Joto-dori. The nearest hub is Kofu Station, within walking distance of the venues, and direct buses run from the station''s north exit during the festival. Depending on circumstances in a given year, the festival has occasionally been shifted to autumn.
+
+## Around the Venue
+
+Kofu is home to Takeda Shrine (site of the Tsutsujigasaki Residence), founded in 1919 enshrining Shingen, where a grand festival is held on his death anniversary. During the festival, an incense stand is set up before the Takeda Shingen statue at the south exit of Kofu Station, where one may receive the smoke to gain Shingen''s wisdom and courage. Kofu is also known for the Kofu Castle ruins, Shosenkyo Gorge, and as a grape and wine region, making it easy to combine with spring sightseeing.
+
+## Related Information
+
+- Month: April (spring, Friday-Sunday around Shingen''s death anniversary)
+- Prefecture: Yamanashi (Chubu)
+- Venue: Maizuru Castle Park, around Kofu Station, and other parts of the city
+- First held: 1970 (1st edition; predecessor Cherry Blossom Festival from 1947)
+- Record: Guinness World Record for "largest gathering of samurai" (2012)','shingen-ko-festival','shingen-ko-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4663470','あばれ祭り','Abare Festival','石川県能登町で行われるキリコ祭り',NULL,NULL,NULL,NULL,'石川県','chubu',NULL,NULL,1700,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B0%E3%82%8C%E7%A5%AD','https://en.wikipedia.org/wiki/Abare_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4926801',NULL,'Blip Festival',NULL,'music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2006,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Dubmood%20blipfestival%202008%202.jpg',NULL,'https://en.wikipedia.org/wiki/Blip_Festival',45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4806729','アジアンクィア映画祭','Asian Queer Film Festival',NULL,'Japanese LGBT film festival','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2007,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%A2%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Asian_Queer_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -1133,7 +1357,69 @@ The venues are the former Foreign Settlement district (Nakamachi-dōri) and Higa
 Central Kobe offers a wealth of tourist attractions including the Kitano Ijinkan foreign residences district, Nankin-machi (Kobe Chinatown), Meriken Park, Harbor Land, and the Kobe Port Tower. The winter season also offers opportunities to enjoy Kobe beef cuisine, the city''s bakery culture, Arima hot spring resort, and the night views from Mount Rokko, making a one- or two-night urban tourism stay combined with the Luminarie experience particularly popular among visitors.','kobe-luminarie','kobe-luminarie',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2915444','ファンタズミック!','Fantasmic!',NULL,'night-time pyrotechnic and light performance at multiple Disney Parks','Q1345090','ディズニー・ハリウッド・スタジオ','Disney''s Hollywood Studios',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmic%21%20Evil%20Queen%20spell.jpg','https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF!','https://en.wikipedia.org/wiki/Fantasmic!',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3092868','二本松の提灯祭り','Nihonmatsu Lantern Festival',NULL,'festival held in Nihonmatsu, Fukushima, Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A.jpg','https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Nihonmatsu_Lantern_Festival',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3119229','隅田川花火大会','Sumidagawa Fireworks Festival','東京都の花火大会','Fireworks show in Japan','Q222149','隅田川','Sumida River','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hanabi%20in%20Adachi-ku1.jpg','https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Sumidagawa_Fireworks_Festival',85,'drafted','隅田川花火大会は、東京都の隅田川沿いで毎年7月最終土曜日に開催される花火大会です。その起源は1733年（享保18年）の両国川開きの花火にさかのぼり、日本最古級の花火大会として知られます。現在は二つの会場から約2万発が打ち上げられ、夏の風物詩として国内外から多くの見物客が訪れます。隅田川の水面に映る花火と下町の情緒が一体となった、東京を代表する夏の祭典です。','The Sumidagawa Fireworks Festival is a fireworks display held along the Sumida River in Tokyo on the last Saturday of July each year. Its origins date back to the Ryogoku river-opening fireworks of 1733, making it one of the oldest fireworks festivals in Japan. Today around 20,000 fireworks are launched from two sites, and it draws large crowds of spectators from Japan and abroad as a quintessential feature of summer. With the fireworks reflected on the surface of the Sumida River blending with the atmosphere of the old town, it is one of Tokyo''s most iconic summer celebrations.','sumidagawa-fireworks-festival','sumidagawa-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3119229','隅田川花火大会','Sumidagawa Fireworks Festival','東京都の花火大会','Fireworks show in Japan','Q222149','隅田川','Sumida River','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hanabi%20in%20Adachi-ku1.jpg','https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Sumidagawa_Fireworks_Festival',85,'drafted','## 概要
+
+隅田川花火大会（すみだがわはなびたいかい）は、東京都の隅田川沿い、台東区浅草（右岸）と墨田区向島（左岸）周辺の河川敷で、毎年7月最終土曜日に開催される花火大会である。第一会場（桜橋下流〜言問橋上流）と第二会場（駒形橋下流〜厩橋上流）の二会場合わせて約2万発が打ち上げられ、毎年90万人を超える人出を記録する。毎年8月開催の江戸川区花火大会とともに東京二大花火大会の一つに数えられ、東京スカイツリーを背景にした花火は夏の風物詩として国内外に広く知られている。
+
+## 歴史と由来
+
+隅田川での花火の起源は、江戸時代に隅田川の船遊びが許された納涼期間の開始日に、花火師の鍵屋・玉屋が自らの花火を宣伝する目的で大々的に打ち上げたことにさかのぼる。なお「享保18年（1733年）に8代将軍徳川吉宗が飢饉・疫病の死者慰霊のために水神祭で花火を上げたのが起源」という説が広く流布してきたが、福澤徹三の研究（2018年）により、この言説は明治中期から昭和初期にかけて徐々に創作されたものであり、歴史的事実とはかけ離れていることが明らかにされている。実際の新聞記事では明治20年代まで開始時期の記述は一定せず、花火業者の広告目的で始まったと書かれていた。
+
+近代の両国川開きは、1897年（明治30年）に見物客の重みで両国橋の欄干が崩落し多数の死傷者を出す大惨事に見舞われるなど波乱もあった。第二次世界大戦による中断を経て、1948年（昭和23年）には第一回全国花火コンクールが開催され復活した。しかしその後、周辺の交通規制の社会問題化や隅田川の水質汚濁などにより、川開き花火は1961年（昭和36年）を最後にいったん途絶える。
+
+その後、水質浄化が進んだことを受けて1978年（昭和53年）、打ち上げ会場を上流に移し「隅田川花火大会」と名を改めて復活した。以後ほぼ毎年続けられ、現在に至っている。
+
+## 見どころ
+
+最大の見どころは、第一会場で行われる花火コンクールである。全国の花火業者10社が技を競い、コンクール玉を含む創作花火が次々と打ち上げられる。第二会場では1万発を超える花火が夜空を埋め尽くし、東京スカイツリーと花火が一枚の画に収まる構図は本大会ならではの絶景として人気が高い。下町情緒あふれる浅草・向島の街並みと、隅田川の水面に映る光の競演も見ものである。
+
+なお過去には2023年に過去最多の約103万人が訪れた。雑踏事故防止のため立ち止まっての観覧は制限され、順路に沿って巡回する形式がとられている。
+
+## 開催情報・アクセス
+
+開催日は毎年7月最終土曜日で、打ち上げは夕刻から夜にかけて行われる。荒天等の場合は中止となり、開催可否は当日朝8時に判断される。第一会場の最寄駅は浅草駅・押上駅・とうきょうスカイツリー駅・曳舟駅、第二会場は浅草駅・蔵前駅・両国駅・浅草橋駅。いずれも当日夕刻から大変混雑するため、早めの到着と帰路の分散が推奨される。観覧は無料。
+
+## 周辺の見どころ
+
+会場周辺は浅草寺・雷門・仲見世通り、東京スカイツリータウンといった東京有数の観光名所が集まるエリアである。隅田川を挟んで下町の風情と現代的なランドマークが共存し、花火大会と合わせて浅草観光・スカイツリー観光を組み込んだ旅程が立てやすい。屋形船から花火を楽しむ伝統的な納涼の過ごし方も根強い人気がある。
+
+## 関連情報
+
+- 開催月: 7月最終土曜日（夏）
+- 都道府県: 東京都（関東）
+- 会場: 隅田川沿い（浅草・向島周辺）二会場
+- 打ち上げ数: 約2万発
+- 旧称: 両国川開き大花火 / 現名称での初回: 1978年','## Overview
+
+The Sumidagawa Fireworks Festival is held each year on the last Saturday of July along the Sumida River in Tokyo, around Asakusa in Taito Ward (right bank) and Mukojima in Sumida Ward (left bank). About 20,000 fireworks are launched from two sites, the first venue (downstream of Sakurabashi to upstream of Kototoibashi) and the second venue (downstream of Komagatabashi to upstream of Umayabashi), drawing crowds of more than 900,000 spectators. Counted alongside the Edogawa Fireworks Festival as one of Tokyo''s two great fireworks events, the fireworks set against the Tokyo Skytree are widely known both in Japan and abroad as a feature of summer.
+
+## History and Origins
+
+Fireworks on the Sumida River trace back to the Edo period, when fireworks makers Kagiya and Tamaya staged grand displays to advertise their own fireworks on the opening day of the riverside cooling-off season, when boating on the Sumida was permitted. A widely circulated account holds that the festival began in 1733, when the eighth shogun Tokugawa Yoshimune held a water-god ceremony to mourn the dead of famine and epidemic. However, research by Tetsuzo Fukuzawa (2018) revealed that this account was gradually fabricated between the mid-Meiji and early Showa eras and differs greatly from historical fact. Newspaper articles up to the 1890s gave inconsistent founding dates and described the event as having begun for the commercial advertisement of fireworks.
+
+The Ryogoku river-opening of the modern era saw turbulent moments, including an 1897 disaster in which the railing of Ryogoku Bridge collapsed under the weight of spectators, causing many casualties. After interruption by World War II, the event revived in 1948 with the first National Fireworks Competition. Yet traffic-regulation problems and pollution of the Sumida River led the river-opening fireworks to cease after 1961.
+
+Following improvements in water quality, the event revived in 1978 under the new name "Sumidagawa Fireworks Festival," with the launch sites moved upstream. It has continued almost every year since.
+
+## Highlights
+
+The greatest highlight is the fireworks competition held at the first venue, where ten fireworks companies from across Japan compete in skill, launching creative competition shells one after another. At the second venue, more than 10,000 fireworks fill the night sky, and the composition capturing the Tokyo Skytree and fireworks in a single frame is a uniquely popular sight of this festival. The interplay of light reflected on the river''s surface against the old-town streets of Asakusa and Mukojima is also a spectacle. In 2023 a record of about 1.03 million people attended; to prevent crowd accidents, standing to watch is restricted and spectators circulate along a set route.
+
+## Event Information & Access
+
+The festival is held on the last Saturday of July, with launches from evening into night. It is canceled in bad weather, with the decision announced at 8 a.m. on the day. The nearest stations for the first venue are Asakusa, Oshiage, Tokyo Skytree, and Hikifune; for the second venue, Asakusa, Kuramae, Ryogoku, and Asakusabashi. As all become extremely crowded from evening, early arrival and dispersed return routes are recommended. Viewing is free.
+
+## Around the Venue
+
+The area gathers some of Tokyo''s foremost attractions, including Sensoji Temple, Kaminarimon, Nakamise shopping street, and Tokyo Skytree Town. Old-town atmosphere and modern landmarks coexist across the river, making it easy to combine the festival with sightseeing in Asakusa and at the Skytree. Enjoying the fireworks from a traditional yakatabune pleasure boat remains a popular way to spend a summer evening.
+
+## Related Information
+
+- Month: Last Saturday of July (summer)
+- Prefecture: Tokyo (Kanto)
+- Venue: Two sites along the Sumida River (Asakusa / Mukojima area)
+- Fireworks: Approx. 20,000
+- Former name: Ryogoku River-Opening Grand Fireworks / First held under current name: 1978','sumidagawa-fireworks-festival','sumidagawa-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2071242','おわら風の盆','Kaze no bon','富山県富山市八尾地区で、毎年9月1日から3日にかけて行われている盆踊り','annual Japanese festival','Q204266','富山市','Toyama','富山県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kazenobon01.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86','https://en.wikipedia.org/wiki/Kaze_no_bon',85,'drafted','おわら風の盆（おわらかぜのぼん）は、富山県富山市八尾(やつお)地区で、毎年9月1日から3日にかけて行われる盆踊りである。哀切な胡弓(こきゅう)の音色と、編笠を目深にかぶった踊り手たちの優雅で幻想的な舞で知られ、越中富山の秋の訪れを告げる風物詩として全国的に高い人気を誇る。
 
 「風の盆」の名は、台風が来襲する二百十日(にひゃくとおか)の頃に、風を鎮め豊作を祈願したことに由来するとされる。約300年の歴史を持つこの行事は、一般的な盆踊りの賑やかさとは一線を画し、しっとりとした情緒と気品にあふれている。三味線・太鼓に加え、おわら独特の胡弓が奏でる物悲しくも美しい旋律「越中おわら節」が、踊りの世界を一層深いものにしている。
@@ -1249,7 +1535,63 @@ Tanabata is said to have arisen from the union of a star festival called "Kikōd
 The most beloved custom of Tanabata is writing wishes on paper strips and hanging them on bamboo. People entrust various wishes, such as success in studies, good health, and fulfillment in love. In addition, many large-scale festivals are held across the country that adorn towns with gorgeous Tanabata decorations, such as the Sendai Tanabata Festival, the Hiratsuka Tanabata Festival, and the Asagaya Tanabata Festival. This observance of entrusting wishes to the stars is handed down as an important annual event of the Japanese summer, enjoyed with family while feeling the changing of the seasons.','tanabata','tanabata',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6518561','東京湾大華火祭','Tokyo Bay Grand Fireworks Festival',NULL,NULL,'Q11090204','晴海','Harumi','東京都','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20bay%20fireworks%202015.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE%E5%A4%A7%E8%8F%AF%E7%81%AB%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11235573','NHK音楽祭','NHK Music Festival','日本放送協会（NHK）とNHKプロモーションが企画制作する音楽祭','music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/NHK%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q510847','初午','Hatsuuma','2月の最初の午の日',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hatsuuma-festival%2CHrooka-inari%2CTajyuku%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E5%88%9D%E5%8D%88',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q510847','初午','Hatsuuma','2月の最初の午の日',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hatsuuma-festival%2CHrooka-inari%2CTajyuku%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E5%88%9D%E5%8D%88',NULL,85,'drafted','## 概要
+
+初午（はつうま）は、2月の最初の午（うま）の日に、全国の稲荷神社で行われる祭りである。稲荷信仰に基づく年中行事で、五穀豊穣・商売繁盛・家内安全を祈願して、京都の伏見稲荷大社をはじめ各地の稲荷社が参詣者でにぎわう。特定の地域に紐づく祭礼ではなく、日本各地で広く行われる通過儀礼的な年中行事である。
+
+## 歴史と由来
+
+初午の由来は、稲荷信仰の総本社である伏見稲荷大社の祭神・宇迦御霊神（うかのみたまのかみ）が、和銅4年（711年）の初午の日に伊奈利山へ降臨したとの伝承にさかのぼる。これにちなんで全国で稲荷社を祀るようになった。本来は旧暦2月の最初の午の日に行われ、春先の農耕開始を前にその年の豊作を祈る行事であった。やがて稲荷信仰と結びつき、現在の形となった。
+
+明治政府による新暦採用以降は、新暦2月の最初の午の日に行うことが多くなった。そのため、もともと春先の行事だったものが、暦の上では冬の一番寒い時期の行事となっている。旧暦で行う地域では新暦の3月になることもある。2月の2回目の午の日を「二の午」、3回目を「三の午」と呼び、これらの日にも祭礼を行う地方がある。
+
+## 見どころ・風習
+
+初午の日には、稲荷社の使いとされる狐にちなみ、油揚げや稲荷寿司を供える風習が広く知られる。「初午だんご」を供える地域もある。地域ごとに特色ある風習が伝わっており、奈良県では子供たちが近所の家を訪ね歩いて飴をもらう「旗飴（はたあめ）」、栃木県では「しもつかれ」を food として食べる風習がある。富山県南砺市利賀村では、子供たちが藁の馬の頭を持って家々を回り囃し歌に合わせて舞う「利賀のはつうま」が伝わり、国の選択無形民俗文化財・富山県無形民俗文化財に指定されている。江戸時代には、この日に子供が寺子屋へ入門する習わしもあった。火の用心を呼びかけてお札を配る地方もある。
+
+## 行事の時期
+
+行われるのは2月の最初の午の日（旧暦で行う地域では3月になることもある）。全国の稲荷神社で行われ、京都の伏見稲荷大社のほか、各地の稲荷社・初午祭で参詣者を集める。なお2月11日は「初午いなりの日」として登録されている。
+
+## 全国に広がる稲荷信仰
+
+稲荷信仰は商売繁盛・五穀豊穣の神として全国に広がり、街角の小さな稲荷祠から伏見稲荷大社のような大社まで、日本各地に無数の稲荷社が祀られている。初午はその稲荷信仰が一年で最も賑わう日であり、地域に根ざした素朴な信仰行事として今も各地で受け継がれている。
+
+## 関連情報
+
+- 時期: 2月最初の午の日（冬・旧暦地域では3月のことも）
+- 都道府県: 全国（特定地域に紐づかない年中行事のため指定なし）
+- 場所: 全国の稲荷神社（伏見稲荷大社ほか）
+- 由来: 宇迦御霊神の伊奈利山降臨（和銅4年・711年の初午の日）
+- 風習: 油揚げ・稲荷寿司を供える / 旗飴（奈良）/ しもつかれ（栃木）/ 利賀のはつうま（富山・国選択無形民俗文化財）','## Overview
+
+Hatsuuma is a festival held at Inari shrines throughout Japan on the first Day of the Horse (uma) in February. An annual event based on Inari worship, it draws worshippers to Inari shrines across the country, including Fushimi Inari Taisha in Kyoto, to pray for an abundant harvest, prosperous business, and family safety. Rather than a rite tied to a particular region, it is a rite-of-passage-like annual event widely observed throughout Japan.
+
+## History and Origins
+
+The origin of Hatsuuma traces back to the tradition that Uka-no-Mitama-no-Kami, the deity of Fushimi Inari Taisha, the head shrine of Inari worship, descended upon Mt. Inari on the first Day of the Horse in 711 (Wado 4). In commemoration, Inari shrines came to be worshipped throughout the country. Originally held on the first Day of the Horse in the second lunar month, it was a rite praying for that year''s good harvest ahead of the start of spring farming. In time it became linked with Inari worship and took its present form.
+
+After the Meiji government adopted the new calendar, it came to be held mostly on the first Day of the Horse in February by the new calendar. As a result, what was originally an early-spring event falls, by the calendar, in the coldest part of winter. In regions that follow the old calendar, it may fall in March by the new calendar. The second Day of the Horse in February is called "Ni-no-uma" and the third "San-no-uma," and some regions hold rites on these days as well.
+
+## Highlights and Customs
+
+On the day of Hatsuuma, the custom of offering fried tofu and inari-zushi—after the fox said to be the messenger of the Inari deity—is widely known. Some regions offer "hatsuuma dango." Distinctive local customs are handed down in each area: in Nara Prefecture, children visit neighboring houses to receive "hata-ame" candy; in Tochigi Prefecture, there is a custom of eating "shimotsukare." In Toga, Nanto City, Toyama Prefecture, the "Toga no Hatsuuma" is handed down, in which children carry straw horse heads from house to house and dance in time with chanting songs; it is designated a Selected Intangible Folk Cultural Property of Japan and an Intangible Folk Cultural Property of Toyama Prefecture. In the Edo period, children also customarily entered terakoya schools on this day. In some regions, people call out for fire prevention and hand out talismans.
+
+## Timing of the Event
+
+It is held on the first Day of the Horse in February (sometimes March in regions following the old calendar). Observed at Inari shrines throughout Japan, it gathers worshippers at Fushimi Inari Taisha in Kyoto and at Inari shrines and Hatsuuma festivals across the country. February 11 is registered as "Hatsuuma Inari Day."
+
+## Inari Worship Across Japan
+
+Inari worship spread throughout the country as faith in a deity of prosperous business and abundant harvests, and countless Inari shrines are enshrined across Japan, from small street-corner Inari shrines to great shrines like Fushimi Inari Taisha. Hatsuuma is the day Inari worship is liveliest in the year, and it is still carried on across the country as a simple devotional event rooted in local communities.
+
+## Related Information
+
+- Timing: First Day of the Horse in February (winter; sometimes March in old-calendar regions)
+- Prefecture: Nationwide (no designation, as it is an annual event not tied to a particular region)
+- Place: Inari shrines throughout Japan (Fushimi Inari Taisha and others)
+- Origin: The descent of Uka-no-Mitama-no-Kami upon Mt. Inari (first Day of the Horse, 711 / Wado 4)
+- Customs: offering fried tofu and inari-zushi / hata-ame (Nara) / shimotsukare (Tochigi) / Toga no Hatsuuma (Toyama, Selected Intangible Folk Cultural Property)','hatsuuma','hatsuuma',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11246063','Shintoku空想の森映画祭','Shintoku Fantasy Forest Film Festival','北海道上川郡新得町で主に9月に行われている映画祭',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/Shintoku%E7%A9%BA%E6%83%B3%E3%81%AE%E6%A3%AE%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5860973','福岡国際映画祭','Fukuoka International Film Festival',NULL,'film festival','Q26600','福岡市','Fukuoka','福岡県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q10855476','京都三大祭り','Three Great Festivals of Kyoto','京都府京都市内で行われる3つの祭り',NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%89%E5%A4%A7%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -4493,7 +4835,63 @@ The shrine is accessible approximately 15 minutes on foot or 5 minutes by car fr
 ## Surrounding Attractions
 
 Hamada City is a port town facing the Sea of Japan in the San''in region, offering a concentration of tourism resources for experiencing the nature, history, and culture of the Iwami area, including Iwami Tatamigaura (a nationally designated Natural Monument and Place of Scenic Beauty), the Shimane Aquarium Aquas, the ruins of Hamada Castle, and the nearby UNESCO World Heritage Site of the Iwami Ginzan Silver Mine in adjacent Ōda City. Visitors can also enjoy Iwami Kagura performance venues and the hot spring culture of Yunotsu Onsen and Arifuku Onsen, making it possible to combine sightseeing with Izumo Taisha Grand Shrine and Matsue Castle for a comprehensive tour of the San''in region.','iyu-jinja','iyu-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q30925655','矢作神社秋の大祭','Yahagi Shrine Autumn Grand Festival','愛知県岡崎市で開催される祭り',NULL,'Q11583921','矢作神社','Yahagi Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Yahagi-Jinja-1.jpg','https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%A5%9E%E7%A4%BE%E7%A7%8B%E3%81%AE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','矢作神社秋の大祭は、愛知県岡崎市の矢作神社で毎年10月に行われる秋祭りです。矢作神社は古くから矢作の地に鎮座し、地域の氏神として崇敬されてきました。秋の大祭では、山車や神輿の巡行、奉納行事などが行われ、収穫への感謝と地域の繁栄を祈ります。岡崎市東部の伝統的な祭礼として、地元住民に親しまれています。','The Yahagi Shrine Autumn Grand Festival is an autumn festival held every October at Yahagi Shrine in Okazaki City, Aichi Prefecture. Yahagi Shrine has long stood in the Yahagi area and has been revered as the local guardian deity. During the autumn grand festival, floats and portable shrines (mikoshi) are paraded and dedicatory rites are performed to give thanks for the harvest and pray for the prosperity of the community. It is cherished by local residents as a traditional rite of eastern Okazaki.','yahagi-shrine-autumn-festival','yahagi-shrine-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q30925655','矢作神社秋の大祭','Yahagi Shrine Autumn Grand Festival','愛知県岡崎市で開催される祭り',NULL,'Q11583921','矢作神社','Yahagi Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Yahagi-Jinja-1.jpg','https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%A5%9E%E7%A4%BE%E7%A7%8B%E3%81%AE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','## 概要
+
+矢作神社秋の大祭（やはぎじんじゃあきのたいさい）は、愛知県岡崎市の矢作神社および矢作町界隈で毎年10月に行われる祭りである。江戸時代末期を起源とし、彫刻や漆塗りで飾られた祭礼山車の引き回しを中心とする。山車2台は岡崎市の有形民俗文化財に指定されている。
+
+## 歴史と由来
+
+江戸時代より、矢作の4つの集落——「東の切」（一区）、「東中の切」（二区）、「西中の切」（三区）、「上の切」（四区）——がそれぞれ山車を保有し、町曳きを競い合ってきた。かつては祭礼山車が矢作橋の西に集結し、日が暮れると提灯に火を入れて神社へくり込む宮入りが行われたと伝えられている。
+
+時代の変化のなかで山車は数を減らした。明治末から大正初めにかけて「上の切」の山車は知多郡の山海（現・南知多町）へ売却され、現在も同地の八幡社の祭礼山車として保管されている。また1923年（大正12年）の愛知電気鉄道の路線開設により「東の切」の山車は巡行が困難となって刈谷へ売却され、のちに知立市へ再売却されて、現在は知立まつりで披露されている。こうして現在引き回されるのは二区・三区の2台となった。なお祭りはかつて7月中旬の夏祭りであったが、現在は10月に行われている。
+
+## 見どころ
+
+現存する2台の祭礼山車は、いずれも名工・大山庄八の作とされる。二区の山車は1814年（文化11年）に建造され、1840年（天保11年）に上山の建造と漆塗りが施された。彫り師は瀬川治助重光と伝えられる。三区の山車は天保10年頃の建造で、「楠木正成親子の別れ」「竹虎」「獅子の谷落し」「飛竜力神」などの精緻な彫刻を瀬川治助父子が手がけた。三区の山車は戦時中、飾りを桜井寺に疎開させて戦災を免れた経緯をもつ。重層構造の山車に施された彫刻や漆塗りは見ごたえがあり、神社境内の神楽殿では神子の舞も奉納される。
+
+## 開催情報・アクセス
+
+開催は毎年10月（かつては10月1日・2日）。会場は愛知県岡崎市矢作町の矢作神社および周辺。最寄りは名鉄名古屋本線の矢作橋駅。山車の引き回しは曜日の条件により行われない年もあり、旧東海道沿いの弥五騰神社や竊樹神社を経由する順路で巡行する。
+
+## 周辺の見どころ
+
+矢作は旧東海道の宿場・矢作橋で知られる歴史ある土地で、矢作川を渡る交通の要衝として栄えた。岡崎市は徳川家康ゆかりの岡崎城や八丁味噌の産地として知られ、城下町の歴史や東海道の面影をたどる観光と合わせて訪れることができる。
+
+## 関連情報
+
+- 開催月: 10月（秋）
+- 都道府県: 愛知県（中部）
+- 会場: 矢作神社・矢作町界隈（岡崎市）
+- 起源: 江戸時代末期
+- 文化財: 二区・三区の祭礼山車（岡崎市有形民俗文化財）','## Overview
+
+The Yahagi Shrine Autumn Grand Festival is held every October at Yahagi Shrine and around the Yahagi district of Okazaki City, Aichi Prefecture. Originating in the late Edo period, it centers on the procession of festival floats adorned with carvings and lacquer. The two floats are designated tangible folk cultural properties of Okazaki City.
+
+## History and Origins
+
+Since the Edo period, four communities of Yahagi—"Higashi-no-kiri" (Ward 1), "Higashinaka-no-kiri" (Ward 2), "Nishinaka-no-kiri" (Ward 3), and "Ue-no-kiri" (Ward 4)—each owned a float and competed in pulling them through the town. It is said that the floats once gathered west of Yahagibashi and, at nightfall, lit their lanterns and entered the shrine in a miyairi procession.
+
+Amid the changes of the times, the number of floats declined. From the late Meiji to early Taisho era the "Ue-no-kiri" float was sold to Yamami in Chita District (now Minamichita Town), where it is still kept as a festival float of the local Hachiman Shrine. The opening of the Aichi Electric Railway line in 1923 made it difficult to parade the "Higashi-no-kiri" float, which was sold to Kariya and later resold to Chiryu City, where it now appears in the Chiryu Festival. Thus the floats paraded today are the two of Wards 2 and 3. The festival was once a summer festival held in mid-July but is now held in October.
+
+## Highlights
+
+The two surviving festival floats are both attributed to the master craftsman Shohachi Oyama. The Ward 2 float was built in 1814, with its upper tier constructed and lacquered in 1840; its carver is said to be Jisuke Segawa Shigemitsu. The Ward 3 float was built around 1839, with intricate carvings such as "The Parting of Kusunoki Masashige and His Son," "Bamboo and Tiger," "Lion Dropping into the Valley," and "Flying Dragon Power God" by Jisuke Segawa and his son. The Ward 3 float survived wartime destruction by evacuating its ornaments to Sakurai-ji Temple. The carvings and lacquer on the multi-tiered floats are well worth seeing, and a maiden''s dance is dedicated at the kagura hall in the shrine precincts.
+
+## Event Information & Access
+
+It is held every October (formerly October 1-2). The venue is Yahagi Shrine and its surroundings in Yahagi-cho, Okazaki City, Aichi Prefecture. The nearest station is Yahagibashi on the Meitetsu Nagoya Main Line. The float procession is not held in some years depending on the calendar, and follows a route passing Yagoto Shrine and Hisoko Shrine along the old Tokaido road.
+
+## Around the Venue
+
+Yahagi is a historic place known for Yahagibashi, a post town on the old Tokaido, which prospered as a key crossing of the Yahagi River. Okazaki City is known for Okazaki Castle associated with Tokugawa Ieyasu and as a producer of Hatcho miso, so the festival can be visited together with sightseeing that traces the history of the castle town and the old Tokaido.
+
+## Related Information
+
+- Month: October (autumn)
+- Prefecture: Aichi (Chubu)
+- Venue: Yahagi Shrine and the Yahagi district (Okazaki City)
+- Origin: Late Edo period
+- Cultural property: Ward 2 and Ward 3 festival floats (Okazaki City tangible folk cultural properties)','yahagi-shrine-autumn-festival','yahagi-shrine-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48762792','かみのやま温泉全国かかし祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BF%E3%81%AE%E3%82%84%E3%81%BE%E6%B8%A9%E6%B3%89%E5%85%A8%E5%9B%BD%E3%81%8B%E3%81%8B%E3%81%97%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q60996972','アーラ映画祭',NULL,NULL,NULL,'Q11411815','可児市文化創造センター',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%A9%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q56348130','東京イラン映画祭','Iranian Film Festival in Tokyo',NULL,NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,2018,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%A4%E3%83%A9%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -4556,11 +4954,175 @@ INSERT INTO "festivals" VALUES('Q60996676','松原神社秋季大祭',NULL,'兵�
 INSERT INTO "festivals" VALUES('Q55526350','本町の八月踊り','August dance in Honmachi','鹿児島県肝付町で江戸時代から続く豊作を祈る踊り','pray for good Harvest danced had been 300 year ago',NULL,NULL,NULL,'鹿児島県','kyushu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/8gatu2%20b%20%28Kimotsuki%29.jpg','https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E3%81%AE%E5%85%AB%E6%9C%88%E8%B8%8A%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q60985206','神奈川新聞花火大会','Kanagawa Shimbun Fireworks Festival',NULL,'fireworks festival held in Yokohama, Japan from 1986 to 2016','Q38283','横浜市','Yokohama','神奈川県','kanto',NULL,NULL,1986,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E8%81%9E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q56026191','吉野川市納涼花火大会',NULL,NULL,NULL,NULL,NULL,NULL,'奈良県','kinki',34.084833333,134.349916666,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q48748967','大垣十万石まつり','Ōgaki Jūmangoku Matsuri','岐阜県大垣市で行われる祭',NULL,NULL,NULL,NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B2%90%E9%98%9C%E7%9C%8C%E5%A4%A7%E5%9E%A3%E5%B8%82%E6%9D%B1%E5%A4%96%E5%81%B4%E7%94%BA%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q48748967','大垣十万石まつり','Ōgaki Jūmangoku Matsuri','岐阜県大垣市で行われる祭',NULL,NULL,NULL,NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B2%90%E9%98%9C%E7%9C%8C%E5%A4%A7%E5%9E%A3%E5%B8%82%E6%9D%B1%E5%A4%96%E5%81%B4%E7%94%BA%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
+
+大垣十万石まつり（おおがきじゅうまんごくまつり）は、岐阜県大垣市の市街地（大垣駅通り）で、毎年10月の第2日曜日に行われる祭りである。単に「十万石まつり」と呼ばれることも多い。大垣藩十万石の城下町の歴史をしのぶ、地元の商工会が中心となった都市祭礼である。
+
+## 歴史と由来
+
+起源は、大垣の総社である常葉（ときわ）神社の例祭にさかのぼる。大正時代の頃から、毎年9月25日の常葉神社の例祭にあわせて「大垣の秋祭り」として行われ、軕（やま）と神輿が出されていた。しかし太平洋戦争の影響などにより中断する。戦後の1956年（昭和31年）、この大垣の秋祭りが「十万石まつり」として再開され、現在に受け継がれている。なお、常葉神社の神輿以外の神輿は、1973年（昭和48年）から「十万石ふるさとまつり」の名称で行われている。
+
+## 見どころ
+
+現在は神輿とパレードがメインとなっている。主会場の大垣駅通りでは、常葉神社の神輿に加え、子供神輿・大人神輿、大垣市の企業が創作した「企業神輿」が練り歩く。大垣商業高校の吹奏楽部や少年団によるパレード、そして「十万石おどり」が祭りを盛り上げる。地元商工会が中心であることから、地元商店による大売り出し、菓子の即売会、地酒の振る舞い、チャリティーなども行われ、城下町ならではの賑わいを見せる。常葉神社では神事と餅撒きが執り行われる。
+
+## 開催情報・アクセス
+
+開催は毎年10月の第2日曜日。会場は岐阜県大垣市の大垣駅通り（岐阜県道57号大垣停車場線）を中心とする市街地。最寄りはJR東海道本線・養老鉄道の大垣駅で、駅前通りが主会場となるためアクセスは良好である。
+
+## 周辺の見どころ
+
+大垣市は「水の都」と呼ばれる湧水豊かな城下町で、市街地には大垣城がそびえる。松尾芭蕉の『おくのほそ道』結びの地としても知られ、奥の細道むすびの地記念館がある。城下町の歴史と水の風景を巡る散策と合わせて、祭りを楽しむことができる。
+
+## 関連情報
+
+- 開催月: 10月第2日曜日（秋）
+- 都道府県: 岐阜県（中部）
+- 会場: 大垣駅通りを中心とする市街地（大垣市）
+- 起源: 常葉神社の例祭（大正期の「大垣の秋祭り」）→ 1956年に「十万石まつり」として再開
+- 別称: 十万石まつり','## Overview
+
+The Ogaki Jumangoku Matsuri is held in the city center (Ogaki Station Avenue) of Ogaki City, Gifu Prefecture, on the second Sunday of October each year. It is often called simply the "Jumangoku Festival." It is an urban festival centered on the local chamber of commerce, commemorating the history of the castle town of the 100,000-koku Ogaki domain.
+
+## History and Origins
+
+The origin traces back to the annual festival of Tokiwa Shrine, the general shrine of Ogaki. From around the Taisho era, it was held as the "Ogaki Autumn Festival" in conjunction with the Tokiwa Shrine festival on September 25 each year, with floats (yama) and mikoshi paraded. However, it was interrupted due to the effects of the Pacific War and other causes. In 1956, after the war, this Ogaki Autumn Festival was revived as the "Jumangoku Festival" and has been carried on to the present. Mikoshi other than that of Tokiwa Shrine have been carried since 1973 under the name "Jumangoku Hometown Festival."
+
+## Highlights
+
+Today mikoshi and parades are the main features. On the main venue of Ogaki Station Avenue, in addition to the Tokiwa Shrine mikoshi, children''s and adults'' mikoshi and "corporate mikoshi" created by Ogaki companies parade through. Parades by the wind band of Ogaki Commercial High School and youth groups, along with the "Jumangoku Odori" dance, enliven the festival. As the local chamber of commerce is central, local shops hold sales, candy markets, servings of local sake, and charity events, showing the bustle characteristic of a castle town. At Tokiwa Shrine, rituals and a mochi-throwing are held.
+
+## Event Information & Access
+
+It is held on the second Sunday of October each year. The venue is the city center centered on Ogaki Station Avenue (Gifu Prefectural Route 57) in Ogaki City, Gifu Prefecture. The nearest station is Ogaki on the JR Tokaido Main Line and the Yoro Railway, and as the avenue in front of the station is the main venue, access is excellent.
+
+## Around the Venue
+
+Ogaki City is a castle town rich in spring water, called the "City of Water," with Ogaki Castle rising in the city center. It is also known as the closing place of Matsuo Basho''s "Oku no Hosomichi," and is home to the Oku no Hosomichi Musubi-no-chi Memorial Hall. One can enjoy the festival together with a walk touring the history of the castle town and its watery scenery.
+
+## Related Information
+
+- Month: Second Sunday of October (autumn)
+- Prefecture: Gifu (Chubu)
+- Venue: City center centered on Ogaki Station Avenue (Ogaki City)
+- Origin: Annual festival of Tokiwa Shrine (the Taisho-era "Ogaki Autumn Festival"), revived as the "Jumangoku Festival" in 1956
+- Alias: Jumangoku Festival','ogaki-jumangoku-matsuri','ogaki-jumangoku-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q57388689','いいやま雪まつり','Iiyama Snow Festival',NULL,NULL,'Q851097','飯山市','Iiyama',NULL,NULL,NULL,NULL,1980,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A6%8F%E5%AF%BF%E7%94%BA%E9%9B%AA%E5%83%8F.jpg','https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%84%E3%82%84%E3%81%BE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q61057617','大阪世界帆船まつり','Osaka Sekai Hansen Matsuri',NULL,'festival',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%96%E7%95%8C%E5%B8%86%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q48744152','湯涌ぼんぼり祭り','Yuwaku Bonbori Matsuri','石川県金沢市湯涌温泉の祭り',NULL,'Q11563731','湯涌温泉','Yuwaku Onsen','石川県','chubu',NULL,NULL,2011,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Yuwaku%20Bonbori%20sending-off%20ceremony%20for%20the%20god%202012-10-06.JPG','https://ja.wikipedia.org/wiki/%E6%B9%AF%E6%B6%8C%E3%81%BC%E3%82%93%E3%81%BC%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q30925738','須賀神社大祭','Suga Shrine Taisai','愛知県岡崎市で行われる祭り',NULL,'Q11664821','須賀神社','Suga Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kashiyamacho-Suga-Jinja-2.jpg','https://ja.wikipedia.org/wiki/%E9%A0%88%E8%B3%80%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','須賀神社大祭は、愛知県岡崎市樫山町の須賀神社で行われる祭りです。須賀神社はスサノオノミコトを祀り、地域の鎮守として信仰を集めてきました。大祭では神輿渡御や奉納芸能が行われ、五穀豊穣と無病息災を祈願します。岡崎市山間部の集落に伝わる素朴な祭礼として受け継がれています。','The Suga Shrine Taisai is a festival held at Suga Shrine in Kashiyama-cho, Okazaki City, Aichi Prefecture. Suga Shrine enshrines Susanoo-no-Mikoto and has long been worshipped as the local tutelary shrine. During the grand festival, a mikoshi procession and dedicatory performing arts are held to pray for a bountiful harvest and good health. It has been handed down as a simple, traditional rite of the mountain communities of Okazaki.','suga-shrine-taisai','suga-shrine-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q48744152','湯涌ぼんぼり祭り','Yuwaku Bonbori Matsuri','石川県金沢市湯涌温泉の祭り',NULL,'Q11563731','湯涌温泉','Yuwaku Onsen','石川県','chubu',NULL,NULL,2011,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Yuwaku%20Bonbori%20sending-off%20ceremony%20for%20the%20god%202012-10-06.JPG','https://ja.wikipedia.org/wiki/%E6%B9%AF%E6%B6%8C%E3%81%BC%E3%82%93%E3%81%BC%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
+
+湯涌ぼんぼり祭り（ゆわくぼんぼりまつり）は、石川県金沢市の湯涌温泉で2011年（平成23年）より開催されている祭りである。2011年放送のテレビアニメ『花咲くいろは』の劇中に登場する架空の神事「ぼんぼり祭り」を現実に再現したもので、アニメと地域が結びついた現代的な祭りとして知られる。
+
+## 歴史と由来
+
+湯涌温泉は、アニメ『花咲くいろは』の主要舞台「湯乃鷺温泉」のモデルとなり、放送開始後に多くのアニメファンが訪れる聖地巡礼の名所となった。これを受けて湯涌温泉観光協会は、劇中の架空の神事「ぼんぼり祭り」を「きれいな祭りだ」として、アニメ制作会社ピーエーワークスの協力を得て2011年秋に現実に開催することを決定した。この祭りには、2008年に発生した浅野川水害からの復興3周年記念イベントとしての性格もあった。
+
+初回となった2011年は約5000人が集まり、その模様の生中継には延べ1万4000人を超える視聴があった。北陸新幹線の金沢開業後の2015年には初回の約2.8倍にあたる1万4000人が来場している。観光協会は当初から「地域に根付く祭りにすること」にこだわり、宿のサービスもあえてアニメと連携しすぎないようにした。その姿勢がファンの好評を得て、現在ではファンのみならずカップルや家族連れ、祭りがアニメ発祥と知らない人々も多数訪れる行事へと定着している。
+
+## 見どころ
+
+祭りの世界観は、狐を従えた小さな女の子の神様の物語に基づく。神無月に日本中の神様が出雲へ帰る日、迷子になりやすいこの女神が道に迷わぬよう、人々がぼんぼりを掲げて道しるべをつくる——そのお礼に、女神が「のぞみ札」に書かれた皆の願いを出雲の八百万の神々のもとへ届けてくれる、という筋立てである。毎年7月には約300基のぼんぼりが温泉街に灯され、点灯期間中は夜19時から22時まで湯涌稲荷神社の境内と扇階段を照らす。10月の本祭では、夕方から湯涌稲荷神社で神迎え式・神送り行列・神送り式が執り行われ、境内に奉納された「のぞみ札」が玉泉湖でお焚き上げされる。温泉街入口から湯涌稲荷神社を経て玉泉湖までの約500メートルを行列が進む幻想的な光景が見どころである。
+
+## 開催情報・アクセス
+
+7月に「ぼんぼり点灯式」と「のぞみ札奉納」が行われ、10月の連休に本祭が開催される。会場は石川県金沢市の湯涌温泉一帯。金沢市街からバスでアクセスする山あいの温泉地で、近年は祭りの日程が春に発表されると温泉街の旅館が満室になるほどの人気を集めている。
+
+## 周辺の見どころ
+
+湯涌温泉は金沢の奥座敷と呼ばれる山あいの温泉地で、竹久夢二ゆかりの地としても知られ、金沢湯涌夢二館がある。金沢市街には兼六園・金沢城・ひがし茶屋街・21世紀美術館など全国有数の観光名所が集まり、湯涌温泉での宿泊と金沢観光を組み合わせた旅程が立てやすい。
+
+## 関連情報
+
+- 開催月: 7月（点灯式）・10月（本祭）（秋）
+- 都道府県: 石川県（中部）
+- 会場: 湯涌温泉（金沢市）
+- 初回開催: 2011年（アニメ『花咲くいろは』由来・浅野川水害復興3周年記念）
+- 特徴: アニメと地域が結びついた現代的な聖地巡礼型の祭り','## Overview
+
+The Yuwaku Bonbori Matsuri has been held at Yuwaku Onsen in Kanazawa City, Ishikawa Prefecture, since 2011. It recreates in reality the fictional rite "Bonbori Festival" depicted in the 2011 television anime "Hanasaku Iroha," and is known as a modern festival linking anime and the local community.
+
+## History and Origins
+
+Yuwaku Onsen served as the model for "Yunosagi Onsen," the main setting of the anime "Hanasaku Iroha," and after the broadcast began it became a popular pilgrimage site visited by many anime fans. In response, the Yuwaku Onsen Tourism Association, calling the fictional rite "Bonbori Festival" depicted in the anime "a beautiful festival," decided to hold it in reality in autumn 2011 with the cooperation of the anime studio P.A.Works. The festival also had the character of an event commemorating the third anniversary of recovery from the 2008 Asano River flood.
+
+The inaugural 2011 event gathered about 5,000 people, and its live broadcast drew over 14,000 cumulative viewers. In 2015, after the Hokuriku Shinkansen opened to Kanazawa, about 14,000 people attended—roughly 2.8 times the first year. From the outset the tourism association insisted on "making it a festival rooted in the community" and deliberately avoided tying lodging services too closely to the anime. That stance won fans'' approval, and today it has become established as an event drawing not only fans but also couples, families, and many who do not even know the festival originated from anime.
+
+## Highlights
+
+The festival''s worldview is based on the story of a small girl deity attended by a fox. On the day in the godless month when the gods of all Japan return to Izumo, people raise bonbori lanterns to make a path so that this easily-lost goddess does not go astray; in thanks, the goddess delivers everyone''s wishes written on "Nozomi-fuda" slips to the myriad gods of Izumo. Each July about 300 bonbori are lit in the hot-spring town, illuminating the precincts of Yuwaku Inari Shrine and the fan-shaped stairway from 7 p.m. to 10 p.m. during the lighting period. At the main festival in October, a god-welcoming ceremony, a god-sending procession, and a god-sending ceremony are held from evening at Yuwaku Inari Shrine, after which the "Nozomi-fuda" slips offered in the precincts are burned in an Otakiage at Lake Gyokusen. The fantastical sight of the procession advancing about 500 meters from the entrance of the hot-spring town past Yuwaku Inari Shrine to Lake Gyokusen is a highlight.
+
+## Event Information & Access
+
+A "bonbori lighting ceremony" and "Nozomi-fuda offering" are held in July, and the main festival takes place during the October holiday weekend. The venue is the Yuwaku Onsen area of Kanazawa City, Ishikawa Prefecture. It is a hot-spring resort in the mountains accessed by bus from central Kanazawa, and in recent years it has become so popular that the inns of the hot-spring town fill up as soon as the festival dates are announced in spring.
+
+## Around the Venue
+
+Yuwaku Onsen is a mountain hot-spring resort called the "inner parlor" of Kanazawa, also known for its association with Yumeji Takehisa and home to the Kanazawa Yuwaku Yumeji Museum. Central Kanazawa gathers some of Japan''s foremost attractions, including Kenrokuen Garden, Kanazawa Castle, the Higashi Chaya District, and the 21st Century Museum, making it easy to plan a trip combining a stay at Yuwaku Onsen with Kanazawa sightseeing.
+
+## Related Information
+
+- Month: July (lighting ceremony), October (main festival) (autumn)
+- Prefecture: Ishikawa (Chubu)
+- Venue: Yuwaku Onsen (Kanazawa City)
+- First held: 2011 (originating from the anime "Hanasaku Iroha"; commemorating the 3rd anniversary of recovery from the Asano River flood)
+- Feature: A modern pilgrimage-type festival linking anime and the local community','yuwaku-bonbori-matsuri','yuwaku-bonbori-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q30925738','須賀神社大祭','Suga Shrine Taisai','愛知県岡崎市で行われる祭り',NULL,'Q11664821','須賀神社','Suga Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Kashiyamacho-Suga-Jinja-2.jpg','https://ja.wikipedia.org/wiki/%E9%A0%88%E8%B3%80%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','## 概要
+
+須賀神社大祭（すがじんじゃたいさい）は、愛知県岡崎市樫山町で行われる須賀神社の祭りである。「樫山の山車祭り」とも呼ばれ、4台の祭礼山車と祭りばやしが岡崎市（旧額田町）の無形民俗文化財に指定されている。現在は毎年4月の第2日曜日に開催される。
+
+## 歴史と由来
+
+口伝によれば起源は江戸時代とされ、1875年（明治8年）の『祭礼記』に当時の様子が記されている。もとは旧暦6月の祇園祭として催されていたが、明治末期より4月14日に移り、近年は4月第2日曜日に実施されている。
+
+かつては山車の収納庫がなく、解体して須賀神社の舞台に収めていたが、1893年（明治26年）の火事により舞台が焼失し、すべての山車が灰燼に帰した。現在の4台の山車は1895年（明治28年）以降に新たに築造、あるいは他所から買い入れられたものである。氏子は6組で構成され、「原」と「宮北市」、「河瀬」と「仲」、「庄野」と「新居野」というように二組ずつが3年ごとに年番（当番）を務める。1982年（昭和57年）、祭礼山車と祭りばやしが無形民俗文化財に指定された。
+
+## 見どころ
+
+見どころは個性豊かな4台の山車である。「竜神山車」（原組）は前山車の両柱に手長足長の彫物をもつ。「鳳凰山車」（庄野組）は能見神明宮大祭で使われていた山車を1909年（明治42年）に購入したもの。「恵比寿山車」（仲組）は鬼板に金箔を施し、前山車の扉や下山の彫刻周囲に螺鈿細工を施した華やかな造り。「入船山車」（新居野組）は焼失を免れた下山を使って明治期に舟形に築造され、のちに新造された経緯をもつ。これらに加え、河瀬・宮北市の「花組」が桜の造花で飾ったチャラボコ車で参加する。当日は朝の幟立てに始まり、山車・お手道具・神輿が連なって渡御し、折り返し地点の神明宮では年番組がお囃子を披露する「御照覧」が行われ、宮入り後には号砲花火と餅投げで祭りを締めくくる。
+
+## 開催情報・アクセス
+
+開催は毎年4月の第2日曜日。会場は愛知県岡崎市樫山町の須賀神社および折り返し地点の神明宮周辺。岡崎市中心部から東へ入った額田地区の山里にあり、車でのアクセスが中心となる。
+
+## 周辺の見どころ
+
+樫山町のある額田地区は、岡崎市東部の自然豊かな山里で、山里のくらしにみる歴史的風致が今も残る地域である。岡崎市中心部には徳川家康ゆかりの岡崎城があり、八丁味噌の産地としても知られる。城下町岡崎の歴史と、額田の里山の伝統行事を合わせて巡ることができる。
+
+## 関連情報
+
+- 開催月: 4月第2日曜日（春）
+- 都道府県: 愛知県（中部）
+- 会場: 須賀神社（岡崎市樫山町）・神明宮周辺
+- 起源: 江戸時代（旧暦6月の祇園祭 → 明治末に4月へ）
+- 文化財: 祭礼山車4台・祭りばやし（岡崎市無形民俗文化財・1982年指定）','## Overview
+
+The Suga Shrine Taisai is a festival of Suga Shrine held in Kashiyama-cho, Okazaki City, Aichi Prefecture. Also called the "Kashiyama Float Festival," its four festival floats and festival music are designated intangible folk cultural properties of Okazaki City (former Nukata Town). It is now held on the second Sunday of April each year.
+
+## History and Origins
+
+According to oral tradition the festival originates in the Edo period, and an 1875 record, the "Sairei-ki," describes its appearance at that time. Originally held as a Gion festival in the sixth lunar month, it moved to April 14 from the late Meiji era and in recent years is held on the second Sunday of April.
+
+There was once no storehouse for the floats, which were dismantled and kept on the stage of Suga Shrine; but a fire in 1893 burned the stage and reduced all the floats to ashes. The four floats of today were newly built or purchased from elsewhere after 1895. The parishioners form six groups, with two groups—"Hara" and "Miyakita-ichi," "Kawase" and "Naka," "Shono" and "Nyuno"—serving as the year''s stewards every three years. In 1982 the festival floats and music were designated intangible folk cultural properties.
+
+## Highlights
+
+The highlight is the four distinctive floats. The "Ryujin float" (Hara group) bears carvings of Tenaga and Ashinaga on the two pillars of its front section. The "Hoo float" (Shono group) was purchased in 1909 from a float used at the Nomi Shinmeigu Grand Festival. The "Ebisu float" (Naka group) is a gorgeous work with gold leaf on its gable board and mother-of-pearl inlay around the door and lower carvings. The "Irifune float" (Nyuno group) was built in boat form in the Meiji era using a lower section that escaped the fire, and was later rebuilt. In addition, the "Hana-gumi" of Kawase and Miyakita-ichi join with a charaboko float decorated with cherry-blossom artificial flowers. The day begins with raising banners in the morning, after which the floats, sacred implements, and portable shrine proceed in a line; at the turnaround point of Shinmeigu, the steward groups perform festival music in a rite called "Goshoran," and after the miyairi the festival concludes with signal fireworks and a mochi-throwing.
+
+## Event Information & Access
+
+It is held on the second Sunday of April each year. The venue is Suga Shrine in Kashiyama-cho, Okazaki City, and the area around Shinmeigu, the turnaround point. Located in a mountain village of the Nukata district east of central Okazaki, access is mainly by car.
+
+## Around the Venue
+
+The Nukata district, where Kashiyama-cho lies, is a nature-rich mountain village in eastern Okazaki, an area that still preserves the historical character of mountain-village life. Central Okazaki is home to Okazaki Castle associated with Tokugawa Ieyasu and is known as a producer of Hatcho miso. One can tour the history of the castle town of Okazaki together with the traditional events of the Nukata countryside.
+
+## Related Information
+
+- Month: Second Sunday of April (spring)
+- Prefecture: Aichi (Chubu)
+- Venue: Suga Shrine (Kashiyama-cho, Okazaki City) and around Shinmeigu
+- Origin: Edo period (Gion festival in the 6th lunar month, moved to April in late Meiji)
+- Cultural property: Four festival floats and festival music (Okazaki City intangible folk cultural property, designated 1982)','suga-shrine-taisai','suga-shrine-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q55528785','EDC Japan','EDC Japan',NULL,'music festival in Japan','Q170616','千葉市','Chiba','千葉県','kanto',NULL,NULL,2017,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/EDC_Japan',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q30928413','城端むぎや祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9F%8E%E7%AB%AF%E3%82%80%E3%81%8E%E3%82%84%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q30934365','排禍ばやし',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%8E%92%E7%A6%8D%E3%81%B0%E3%82%84%E3%81%97',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -6362,11 +6924,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
