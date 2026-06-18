@@ -931,7 +931,71 @@ INSERT INTO "festivals" VALUES('Q4947265','藤崎八旛宮秋季例大祭','Bosh
 INSERT INTO "festivals" VALUES('Q3837559','LOUD PARK','Loud Park Festival','日本で行われるヘヴィメタルのフェス','heavy metal festival held annually at Saitama Super Arena in Saitama City or Makuhari Messe in Chiba City, Japan','Q862452','幕張メッセ','Makuhari Messe',NULL,NULL,NULL,NULL,2006,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/LOUD_PARK','https://en.wikipedia.org/wiki/Loud_Park_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5288609','土居太鼓祭り','Doi taikomatsuri',NULL,NULL,NULL,NULL,NULL,'愛媛県','shikoku',33.965,133.43,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Doi_taikomatsuri',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11276889','ぴあフィルムフェスティバル','Pia Film Festival',NULL,'film festival in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1977,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%B4%E3%81%82%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Pia_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q5371810','天神祭','Tenjin Matsuri','大阪天満宮を中心として大阪市で行われる祭り','Annual festival in Japan','Q385793','大阪天満宮','Ōsaka Tenmangū','大阪府','kinki',NULL,NULL,951,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/120725%20Osaka%20Tenjinmatsuri%20Japan08bs.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E7%A5%AD','https://en.wikipedia.org/wiki/Tenjin_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q5371810','天神祭','Tenjin Matsuri','大阪天満宮を中心として大阪市で行われる祭り','Annual festival in Japan','Q385793','大阪天満宮','Ōsaka Tenmangū','大阪府','kinki',NULL,NULL,951,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/120725%20Osaka%20Tenjinmatsuri%20Japan08bs.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E7%A5%AD','https://en.wikipedia.org/wiki/Tenjin_Matsuri',85,'drafted','## 概要
+
+天神祭（てんじんまつり）は、大阪市北区の大阪天満宮を中心に行われる祭礼で、京都の祇園祭・東京の神田祭とともに「日本三大祭」のひとつに数えられる。同時に、住吉祭・愛染祭と並ぶ「大阪三大夏祭り」の一角でもある。祭神である菅原道真公をまつる天満宮の祭礼として、毎年6月下旬の吉日から7月25日まで、約1か月にわたって一連の神事と行事が連なる。なかでも最大の見せ場は7月24日の宵宮（よいみや）と25日の本宮（ほんみや）で、陸渡御・船渡御と奉納花火が重なる25日には、大川（旧淀川）の水面と夜空を舞台にした壮大な祭礼絵巻が繰り広げられる。千年以上の歴史を背景に、町人文化が育てた都市祭礼として、今日も国内外から多くの見物客を集めている。
+
+## 歴史・由来
+
+天神祭の起源は、天暦5年（951年）6月1日に大阪天満宮の前を流れる川で行われた「鉾流神事（ほこながししんじ）」にさかのぼるとされる。神鉾を川に流し、流れ着いた場所に御旅所を設けて神霊を迎えたのが祭りの始まりと伝えられ、これが現在まで続く船渡御の原型となった。菅原道真公を学問・文化の神としてまつる天満宮の祭礼は、当初は神事を中心とした素朴なものであったと考えられる。
+
+中世から近世にかけて、大阪が「天下の台所」と称される商都へと発展するなかで、天神祭も町人文化を背景に規模を拡大した。江戸時代には「大祭」と称されるほどの賑わいを見せ、川面を彩る船の数や奉納行事が年々充実していった。船渡御に繰り出す講（こう）や町々が競うように趣向を凝らし、都市の経済力と祭礼が結びついて発展した点に、天神祭の特色がある。
+
+一方で、その長い歴史のなかでは中断も少なくない。戦乱や社会情勢の影響で休止した時期があり、近代以降も第二次世界大戦の戦中・戦後の混乱、昭和49年（1974年)のオイルショックによる自粛、そして2020年から2022年にかけての新型コロナウイルス感染症の流行などにより、船渡御や花火が見送られた年がある。とりわけ近年のコロナ禍では行事の多くが縮小・中止を余儀なくされたが、2023年には船渡御・奉納花火がそろって復活し、本来の祭礼の姿が取り戻された。中断を経るたびに祭りを立て直してきた歴史そのものが、地域に根づいた信仰と熱意のあらわれといえる。
+
+## 見どころ
+
+### 宵宮（7月24日）と鉾流神事
+
+本宮前日の宵宮には、祭りの幕開けを告げる鉾流神事が営まれる。神童が神鉾を川に流し、一年の無事を祈るこの神事は、天神祭の起源を今に伝える象徴的な儀式である。あわせて催太鼓（からだいこ）の勇壮な打ち手たちが姿を見せ、祭りの気分が一気に高まっていく。
+
+### 陸渡御
+
+7月25日の午後、大阪天満宮を出発する陸渡御は、御神霊を乗せた鳳輦（ほうれん)を中心に、催太鼓・獅子舞・御神輿など多彩な行列が市中を練り歩く神事である。総勢約3,000人ともいわれる供奉者が、それぞれの役を表す装束をまとって御旅所へと向かう様は、平安以来の祭礼の格式を今に伝える。
+
+### 船渡御
+
+陸渡御の列が大川沿いに到着すると、御神霊は船に乗り移り、夕刻から船渡御が始まる。100隻前後ともいわれる大小の船が川面を行き交い、御神霊を乗せた奉安船、囃子を奏でる船、催太鼓を積んだ船などが連なって遡上・下航する。船上の篝火と提灯の灯りが水面に揺れる光景は、天神祭を象徴する一場面である。
+
+### 奉納花火
+
+船渡御と並行して打ち上げられる奉納花火は、本宮の夜を締めくくる最大の見どころのひとつである。川面を進む船列と夜空の花火が同時に視界に入る構図は他に類を見ず、毎年多くの見物客が川沿いに集まる。
+
+## 開催情報・アクセス
+
+天神祭は例年6月下旬の神事から始まり、7月7日前後の行事、中旬の諸式を経て、7月24日が宵宮、7月25日が本宮にあたる。神事や行事はこの期間に段階的に行われるため、訪れる日によって見られる内容が異なる点に留意したい。本宮の陸渡御・船渡御・奉納花火を目当てに訪れるなら、25日の日程を中心に計画するとよい。
+
+会場の中心となる大阪天満宮へは、JR東西線「大阪天満宮駅」、または大阪メトロ谷町線・堺筋線「南森町駅」が最寄りで、いずれも駅から徒歩圏内である。本宮当日は周辺の交通規制や混雑が大きいため、公共交通機関の利用が推奨される。最新の日程・進行・観覧情報は大阪天満宮および天神祭の公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+大阪天満宮の界隈は、日本一長い商店街として知られる天神橋筋商店街が南北に延び、参拝とあわせて食べ歩きや買い物を楽しめる。少し足を延ばせば、大川沿いの遊歩道や水都・大阪の象徴である中之島エリア、大阪の都心部の名所へもアクセスしやすい。祭り期間以外でも、菅原道真公をまつる学問の神社として受験生をはじめ多くの参拝者が訪れる地域である。
+
+## 関連情報
+
+天神祭は近年、伝統を守りながらも新たな取り組みを進めている。2020年以降はインターネットでの動画配信が行われ、現地に足を運べない人々にも祭りの様子が届けられるようになった。また、女性たちが担ぐ「ギャルみこし」や地域の催しなど、関連行事も祭りを多面的に彩っている。日本三大祭の名にふさわしい歴史と規模を備えつつ、時代に応じて姿を変え続けている点が、天神祭の大きな特徴といえる。','## Overview
+
+Tenjin Matsuri is a festival centered on Osaka Tenmangu Shrine in Osaka City, counted as one of Japan''s "three great festivals" alongside the Gion Matsuri of Kyoto and the Kanda Matsuri of Tokyo. It is also one of the "three great summer festivals of Osaka," together with the Ikutama Matsuri and the Sumiyoshi Matsuri. Held in honor of the enshrined deity Sugawara no Michizane, its many rites unfold over roughly a month from late June to July 25. The climax comes on the night of the main day, July 25, when a flotilla of boats moves along the Okawa River in the "funa-togyo" boat procession and votive fireworks light the sky. The interplay of bonfires, lanterns, and fireworks reflected on the water has earned it the name "festival of fire and water."
+
+## History and Origins
+
+Tenjin Matsuri is said to have begun on the first day of the sixth month of 951 (Tenryaku 5), two years after Osaka Tenmangu was established. At that time a sacred halberd was floated down the Okawa, and a rite of purification was performed where it came ashore. This became the basis of the present "hoko-nagashi" (halberd-floating) rite, and the practice of welcoming the site by boat became the origin of the boat procession. It came to be called one of the three great festivals during the Edo period. Toyotomi Hideyoshi bestowed a ceremonial drum in the Azuchi-Momoyama era, and by the Genroku period two-meter "welcoming dolls" were mounted on boats and devotional associations known as "ko" were formed, its grandeur even appearing in Edo-period literature. It also weathered repeated interruptions, including a cancellation in 1865 and suspensions of the boat procession due to cholera and land subsidence in the modern era, before being revived each time.
+
+## Highlights
+
+The highlights of the main day are the "riku-togyo" land procession beginning in the late afternoon and the "funa-togyo" boat procession that follows. In the land procession, some 3,000 people march about four kilometers, led by the ceremonial drum and including Sarutahiko, court-lady figures, flower parasols, floats bearing dolls, and the sacred palanquin carrying the deity''s spirit. In the boat procession, vessels of many kinds—boats bearing the deity, accompanying boats playing festival music, and welcoming boats adorned with elegant dolls—move along the Okawa, exchanging the rhythmic "Osaka-jime" hand-clapping as they pass. Votive fireworks rise around this time, bringing the festival to its peak. Other attractions include the halberd-floating rite, the entry of the ceremonial drum, and the "gal mikoshi" portable shrine carried by women.
+
+## Event Information and Access
+
+The rites begin with the late-June "shozoku-tabari-shiki" that opens the festival season, reaching their peak at the eve festival on July 24 and the main day on July 25. Osaka Tenmangu, the central venue, is a short walk from Osaka-Tenmangu Station on the JR Tozai Line or Minamimorimachi Station on the Osaka Metro Tanimachi Line. The boat procession and fireworks take place along the Okawa, and the area is extremely crowded on the night of the main day. Visitors may take part by applying for public viewing boats or purchasing tickets for corporate boats. A local television station traditionally broadcasts the main night live.
+
+## Around the Site
+
+East of Osaka Tenmangu runs the Tenjinbashisuji shopping street, known as one of the longest covered arcades in Japan, whose entrance is adorned with four "welcoming dolls" depicting figures such as Toyotomi Hideyoshi. The surrounding district preserves much of Osaka''s history and popular culture, and is rich in attractions such as the cherry-blossom passage of the Mint Bureau in spring and the cluster of modern architecture in the Nakanoshima area. The riverside promenades along the Okawa are also pleasant for strolling.
+
+## Additional Information
+
+Tenjin Matsuri is a rite of the parishioners of Osaka Tenmangu with more than a thousand years of history, and participation in its rites generally requires belonging to a "ko" association. The conditions are not strict, however, and new associations are recognized, with opportunities to take part as a volunteer as well. The COVID-19 pandemic forced the full cancellation of the festive events in 2020 and 2021, leaving only the religious rites, but the boat procession and fireworks were fully revived in 2023. Having even been held overseas in recent years, it is widely known at home and abroad as a defining feature of Osaka''s summer.','tenjin-matsuri','tenjin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5332426','大地の芸術祭 越後妻有アートトリエンナーレ','Echigo-Tsumari Art Triennial','新潟県十日町市、津南町で開催される国際芸術祭','international modern art festival held once every three years in the Niigata prefecture, Japan',NULL,NULL,NULL,'新潟県','chubu',37.016666666,138.6,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%88%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC','https://en.wikipedia.org/wiki/Echigo-Tsumari_Art_Triennial',75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3698846','御柱祭','Onbashira',NULL,'festival held every six years in the Lake Suwa area of Nagano, Japan','Q11631849','諏訪地域','Suwa area','長野県','chubu',36.075277777,138.091388888,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/ONBASHIRA%20festival%20%28tree%20drop%29%20Nagano%2CJAPAN.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%9F%B1%E7%A5%AD','https://en.wikipedia.org/wiki/Onbashira',90,'drafted','御柱祭は、長野県諏訪地域の諏訪大社で寅年と申年の7年に一度（数え年の7年・実際は満6年間隔）開催される神事であり、日本三大奇祭の一つに数えられる天下の大祭である。山中から切り出した樅の大木16本を、氏子たちの手と組織された曳行隊によって諏訪大社の上社本宮・上社前宮・下社春宮・下社秋宮の四社の社殿四隅に建て替える壮大な行事で、約1,200年以上の歴史を持つ諏訪信仰の中核をなす。次回開催は2028年（令和10年・申年）の春から夏にかけて予定されている。
 
@@ -1179,7 +1243,43 @@ INSERT INTO "festivals" VALUES('Q4926801',NULL,'Blip Festival',NULL,'music festi
 INSERT INTO "festivals" VALUES('Q4806729','アジアンクィア映画祭','Asian Queer Film Festival',NULL,'Japanese LGBT film festival','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2007,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%A2%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Asian_Queer_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4829650','阿波の狸まつり','Awa no Tanuki Festival','徳島県徳島市で毎年11月上旬に催される祭り','Japanese festival',NULL,NULL,NULL,'徳島県','shikoku',NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E3%81%AE%E7%8B%B8%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Awa_no_Tanuki_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5327561','イースト・イースト','East-East',NULL,'Japanese-Lithuanian architecture festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88','https://en.wikipedia.org/wiki/East-East',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q5347024','ええじゃないか','ee ja nai ka','日本の慶応3年8月から12月にかけて発生した騒動','carnivalesque celebrations, communal activities, and protests in Japan in 1867–68',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/EeJaNaiKaScene.jpg','https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B','https://en.wikipedia.org/wiki/Ee_ja_nai_ka',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q5347024','ええじゃないか','ee ja nai ka','日本の慶応3年8月から12月にかけて発生した騒動','carnivalesque celebrations, communal activities, and protests in Japan in 1867–68',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/EeJaNaiKaScene.jpg','https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%88%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B','https://en.wikipedia.org/wiki/Ee_ja_nai_ka',85,'drafted','## 概要
+
+「ええじゃないか」は、江戸時代末期の慶応3年（1867年）8月から12月にかけて、近畿・四国・東海地方などで発生した民衆の集団的熱狂現象である。「天から御札（神符）が降ってくる、これは慶事の前触れだ」という噂が広まると、人々は仮装して町へ繰り出し、「ええじゃないか」という囃子言葉を連呼しながら集団で踊り歩いた。この時期はちょうど大政奉還（慶応3年10月）から王政復古の大号令（同12月9日）へと至る、明治維新直前の政治的激動期にあたる。毎年決まって行われる祭礼ではなく、幕末という特定の時代状況のなかで一度だけ燃え上がり、そして消えた歴史的社会現象である点が、ほかの年中行事と大きく異なる。
+
+## 歴史と由来
+
+御札が降ると、人々は藩に届け出たうえで屏風を立て、笹竹で家を飾り、酒や肴を供えて町ぐるみで札を祀った。名古屋では降札後の祭事が7日間に及び、その間は日常生活が麻痺したと伝えられる。伊勢神宮の御札が降って人々が伊勢へ向かう「お蔭参り」とは異なり、「ええじゃないか」では地域で信仰される社寺の御札が降ったとされ、その土地で祭祀が営まれることが多かった。なお「お蔭参り」自体は、元和3年（1617年）以降およそ60年周期で繰り返された現象で、明和8年（1771年）には300〜400万人、文政13年（1830年）には3か月で約500万人が伊勢に殺到したと記録されており、「ええじゃないか」もこうした民衆宗教の系譜のなかで理解されている。
+
+## 発祥地をめぐる論争
+
+「ええじゃないか」の発祥地については、現在も定説がない。古くは岩倉具視の『岩倉公実記』が「八月下旬に京で始まり、十二月九日の王政復古発令の日に止んだ」と記し、福地源一郎や『西宮市史』などの史料とあわせて京都・京阪発祥説の根拠とされてきた。一方、戦後の研究では東海地方発祥説が台頭し、藤谷俊雄（1968年）は尾張・慶応3年8月説を、その後の研究者は静岡県磐田市・愛知県豊川市・豊橋市など、より早い時期・より東の地点を相次いで主張した。豊橋市の牟呂八幡宮神主が残したメモ「留記」には慶応3年7月14日の「御祓い」が記されており、これを発祥とみる説もある。ただし東海地方では「ええじゃないか」という掛け声を伴わない「御札降り」のみが共通する地域も多く、掛け声を要件とすれば京都発祥説に、御札降り全般を含めれば東海発祥説に傾くなど、何をもって「ええじゃないか」とするかによって結論が変わる。本データベースでは特定の発祥地を断定せず、複数の説が併存している現状をそのまま記す。
+
+## 性格をめぐる解釈
+
+その目的や性格についても見解が分かれてきた。歌詞に政治情勢が織り込まれたことから、世直しを求める民衆運動と解釈するのが一般的である。歌詞は各地で作られ、「今年は世直りええじゃないか」（淡路）のような世直しの訴え、「長州がのぼた、物が安うなる」（西宮）のような政治情勢を歌うもの、さらには性の解放を露わにしたものまで、多様な内容が含まれていた。研究史をたどると、羽仁五郎はマルクス主義の立場から、王政復古のクーデターがこの混乱に乗じて行われたことに着目し、背景に西郷隆盛らの策謀を見て、結果的に王政復古の「煙幕」の役を演じさせられたとしてその意義を低く評価した。これに対し井上清は、封建制の矛盾の鬱積が民衆を行動に駆り立て、それに倒幕派が乗じることで権力側を麻痺させたとして、むしろ積極的に評価した。倒幕派が人心を撹乱するために仕組んだ陽動だったという当時の噂も伝わるが、福地源一郎自身が「その真偽は分からない」と書き残している。このように「ええじゃないか」は、自然発生的な民衆運動とみるか政治的に利用された現象とみるかで評価が大きく揺れており、単純な断定を避けるべき主題である。
+
+## 関連する民俗と位置づけ
+
+「御札降り」「ええじゃないか」「お蔭参り」は、しばしば一体のものとして語られるが、本来は別個の現象である。近畿や四国などの西日本では「ええじゃないか」「よいじゃないか」という掛け声が顕著だが、東海地方では掛け声を伴わず「御札降り」のみが共通し、御鍬祭りや御蔭参りと結びつけて解釈される傾向がある。文化現象としては、世界各地でみられる集団的熱狂や、伊勢踊りといった先行する民俗芸能との連続性も指摘される。一度きりの歴史的現象であるため特定の開催季節を持たず、本データベースでは季節分類の対象外として扱う。幕末の社会不安と民衆エネルギーが噴出した象徴的な出来事として、日本近世史・民俗学の双方で重要な研究対象であり続けている。','## Overview
+
+"Ee ja nai ka" (literally "Why not? / Ain''t it great?") was a wave of carnivalesque mass excitement that swept through the Kinki, Shikoku, and Tokai regions of Japan from the eighth to the twelfth month of 1867 (Keio 3), at the very end of the Edo period. When rumors spread that paper talismans (ofuda) were falling from the sky as an auspicious omen, ordinary people put on costumes, poured into the streets, and danced in ecstatic crowds while chanting the refrain "ee ja nai ka." This coincided precisely with the turbulent months between the restoration of imperial rule and the formal Decree of the Restoration of Imperial Rule on the ninth day of the twelfth month. Unlike an annual festival, it flared up only once amid the specific upheaval of the late Tokugawa era and then vanished, which sets it apart from ordinary calendrical observances.
+
+## History and Origins
+
+When a talisman was said to have fallen, people reported it to the domain authorities, set up folding screens, decorated their houses with bamboo, and offered sake and food to enshrine the talisman collectively. In Nagoya, the rites following such an event reportedly lasted seven days, during which daily life ground to a halt. This differed from the okage-mairi pilgrimages to Ise, prompted by talismans of the Ise Grand Shrine; in "ee ja nai ka," the talismans were said to be those of locally worshipped shrines and temples, so rites were often held on the spot. The okage-mairi phenomenon itself recurred roughly every sixty years from 1617 onward; in 1771 some three to four million people are said to have flooded into Ise, and in 1830 about five million over three months, situating "ee ja nai ka" within this lineage of popular religious fervor.
+
+## Debate over Its Place of Origin
+
+The place where "ee ja nai ka" began remains unsettled. The Iwakura-ko Jikki by Iwakura Tomomi records that it "began in Kyoto in late autumn and ceased on the day the imperial restoration was decreed," and together with sources such as the chronicle of Fukuchi Genichiro and the Nishinomiya City History, this supports a Kyoto/Keihan-origin theory. Postwar scholarship, however, advanced a Tokai-origin theory: Fujitani Toshio (1968) proposed Owari in the eighth month of 1867, and later researchers pointed successively to earlier dates and points farther east, including Iwata in Shizuoka and Toyokawa and Toyohashi in Aichi. A memo left by a Shinto priest of Muro Hachiman Shrine in Toyohashi notes a purification rite on the fourteenth day of the seventh month of 1867, which some regard as the origin. Yet in much of the Tokai region only the "falling talismans" were common, without the chant; whether one defines the phenomenon by the chant (favoring Kyoto) or by the falling talismans more broadly (favoring Tokai) changes the conclusion. This database does not assert a single point of origin and instead records the coexistence of competing theories.
+
+## Interpretations of Its Character
+
+Its purpose and character have likewise been disputed. Because political circumstances were woven into the lyrics, it is commonly read as a popular movement demanding "world renewal" (yonaoshi). Verses were composed locally and ranged from appeals for renewal to commentary on the political situation and even frank expressions of sexual liberation. In the history of scholarship, Hani Goro, writing from a Marxist standpoint, noted that the coup of the imperial restoration was carried out amid this confusion and, seeing the scheming of figures such as Saigo Takamori behind it, judged its significance low, as a mere "smokescreen." Inoue Kiyoshi, by contrast, valued it more positively, arguing that the accumulated contradictions of the feudal order drove the people to act and that the anti-shogunate forces, by exploiting this, paralyzed those in power. A contemporary rumor held that it was an orchestrated diversion, though Fukuchi Genichiro himself wrote that its truth was unknown. The phenomenon thus swings between being seen as a spontaneous popular movement and a politically exploited event, making it a subject best treated without simple conclusions.
+
+## Related Folklore and Significance
+
+"Falling talismans," "ee ja nai ka," and "okage-mairi" are often spoken of together but were originally distinct. In western Japan such as Kinki and Shikoku the chant was prominent, whereas in the Tokai region only the falling talismans were shared, often interpreted in connection with the Okuwa festivals and Ise pilgrimage. As a cultural phenomenon, continuities have been noted with mass ecstatic outbreaks seen worldwide and with earlier folk performances such as the Ise odori. Because it was a one-time historical event without a fixed season, this database treats it as outside the seasonal classification. As a symbolic eruption of late-Tokugawa social anxiety and popular energy, it remains an important subject of study in both early-modern Japanese history and folklore.','ee-ja-nai-ka','ee-ja-nai-ka',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4701224','竿燈','Akita Kantō','秋田県秋田市で行われる祭り','Japanese festival celebrated from 3–7 August in Akita, Japan','Q17139','秋田市','Akita','秋田県','tohoku',39.71847222,140.11319444,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Akita%20Kanto%20Festival%202017.jpg','https://ja.wikipedia.org/wiki/%E7%AB%BF%E7%87%88','https://en.wikipedia.org/wiki/Akita_Kant%C5%8D',95,'drafted','## 概要
 
 竿燈まつり（かんとうまつり）は、秋田県秋田市で毎年8月3日から6日までの4日間にわたって行われる、五穀豊穣・無病息災・厄除けを祈念する伝統行事である。重さ50キログラム、長さ12メートルにも及ぶ「竿燈（かんとう）」と呼ばれる竹竿に46個もの提灯を吊るし、それを腰や額、肩、手のひらで支える妙技を披露する。青森ねぶた・仙台七夕と並んで「東北三大祭り」に数えられ、1980年（昭和55年）に国の重要無形民俗文化財に指定されている。
@@ -2435,7 +2535,51 @@ Fuji-Q Highland is situated between Lake Kawaguchi and Lake Yamanaka, two of the
 The festival''s cultural significance extended beyond its immediate musical impact. For Japanese jazz musicians and fans, it provided direct access to the international jazz scene at a level previously available only through expensive overseas travel. For visiting international musicians, it offered exposure to Japanese audiences known for their deep appreciation and meticulous attention to musical detail. The festival was also emblematic of the cultural ambitions of Japan during its economic peak in the late 1980s and early 1990s, when major corporate sponsors could underwrite cultural events at scales that proved difficult to sustain after the economic transitions of subsequent decades.
 
 After the festival''s conclusion in 1998, Fuji-Q Highland continued operations as an amusement park, while the broader Mount Fuji area achieved UNESCO World Heritage status in 2013 and consolidated its position as an international tourist destination. The festival itself has not been revived, but recordings, photographs, and printed materials documenting its thirteen-year run remain available through the Fuji Express corporate archives, jazz specialty magazines, and academic studies of Japanese music history. For visitors interested in the cultural geography of Japanese jazz, the area around Mount Fuji retains layers of meaning that connect the natural sublime with one of the twentieth century''s most important international musical convergences, making a visit a worthwhile pilgrimage even decades after the music has stopped.','mount-fuji-jazz-festival','mount-fuji-jazz-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q5637073','八戸三社大祭','Hachinohe Sansha Taisai','青森県八戸市で行われる祭礼','festival of Hachinohe, Aomori, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,1721,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hachinohe%20Sansha%20Taisai%20Festival%2C%202%20August%202014-001.JPG','https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E4%B8%89%E7%A4%BE%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Hachinohe_Sansha_Taisai',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q5637073','八戸三社大祭','Hachinohe Sansha Taisai','青森県八戸市で行われる祭礼','festival of Hachinohe, Aomori, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,1721,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hachinohe%20Sansha%20Taisai%20Festival%2C%202%20August%202014-001.JPG','https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E4%B8%89%E7%A4%BE%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Hachinohe_Sansha_Taisai',85,'drafted','## 概要
+
+八戸三社大祭（はちのへさんしゃたいさい）は、毎年7月31日から8月4日にかけて青森県八戸市で行われる神社神道の祭礼である。「三社」とは市内に鎮座する法霊山龗（おがみ）神社・長者山新羅神社・神明宮の三社を指し、これら三社の神輿行列と、市内各町が中心となって製作する20数台の華麗な人形山車が、八戸市中心市街地を巡行する。期間中はおよそ105万から140万人もの観光客が訪れる、北東北を代表する夏祭りの一つである。人形がせり上がり、左右に大きく広がる豪華絢爛な山車が最大の見どころで、近年では煙が吹き上がるなどの仕掛けも凝らされ、その規模と荘厳さは他に類を見ない。
+
+## 歴史と由来
+
+祭りの起源は江戸時代の享保6年（1721年）、陸奥国八戸藩の総鎮守であった法霊社（現在の龗神社）の神輿を、日和乞いと豊作感謝の意を込めて長者山の虚空蔵堂へ渡らせたことに始まる。当初は法霊社の神輿行列が市内を巡幸し、長者山で例祭を行って還御するという神事であった。やがてこの行列に町民が踊りや屋台山車を奉納する形で加わり、現在の姿へとつながっていく。明治期に入ると大祭は一時衰退するが、大澤多門の発案で明治14年（1881年）に長者山新羅神社が、明治19年（1886年）に神明宮が行列に加わり、城内の龗神社・城下の神明宮・城外の新羅神社という三社合同例祭としての八戸三社大祭が成立した。山車を町内ごとに製作する方式や、八戸全域から神楽・手踊り・虎舞などの伝統芸能を参加させて城下町の祭礼を市全体の祭りへ広げる試みも、この大澤の発案によるものである。なお祭りの根拠はあくまで発祥である龗神社の祭礼にあるとされ、二社と比べて龗神社を重んじる伝統が今も強く残る。
+
+## 見どころ
+
+最大の見どころは、27台にのぼる人形山車の合同運行である。当初は1体の人形を乗せる程度だった山車は、明治中頃から物語を表現する風流山車へと発展し、昭和50年代以降はせり上がりや左右への展開といった大がかりな仕掛けが加わった。神話や歌舞伎、地域の伝説などを題材にした極彩色の山車が連なる光景は壮観である。神社神道の祭祀として執り行われる神輿行列、神楽や虎舞といった伝統芸能の奉納も見どころで、青森ねぶたのような夜の客参加型の祭りとは異なり、昼間の神事を中心とする厳粛さを併せ持つ点が特徴である。
+
+## 開催情報・アクセス
+
+開催は毎年7月31日から8月4日。7月31日の前夜祭では八戸市中心市街地と市庁前に山車が集結して一斉にお囃子を演じ、8月1日の「お通り（神幸祭）」、2日の「中日」（夜間合同運行）、3日の「お還り（還幸祭）」、4日の後夜祭という日程で進む。会場へは、JR八戸線・本八戸駅南口から徒歩圏に龗神社などの中心市街地がある。お通り・お還り・後夜祭の各コースには有料観覧席が用意されるほか、2007年からは市外の人や観光客が山車の引き子として参加できる「引っ張り隊」の制度も導入されている。
+
+## 周辺の見どころ
+
+祭り期間以外でも、八戸地域地場産業振興センター「ユートリー」（八戸駅東口近く）の1階ホールや、龗神社（本八戸駅南口から徒歩5分・江戸時代の山車人形と起源となった神輿を展示）、八戸ポータルミュージアム「はっち」などで山車を見学できる。八戸は太平洋に面した港町で、新鮮な海産物や、八食センター、種差海岸といった観光資源にも恵まれている。
+
+## 関連情報
+
+八戸三社大祭は2004年2月6日に「八戸三社大祭の山車行事」として国の重要無形民俗文化財に指定され、2016年11月30日には全国33の「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産代表一覧表への記載が決定した。300年の歴史を持つ神社神事でありながら、観光化や山車の動力使用をめぐる論点など、伝統と現代のあいだで揺れ動く側面も抱えており、地域の祭りが時代とともにどう変容していくかを考えるうえでも興味深い事例である。','## Overview
+
+Hachinohe Sansha Taisai is a Shinto festival held in Hachinohe, Aomori Prefecture, every year from July 31 to August 4. The "three shrines" (sansha) are Ogami Shrine, Choja-san Shinra Shrine, and Shinmeigu, all located within the city. Portable-shrine processions of these three shrines, together with more than twenty ornate figure floats (dashi) built mainly by the city''s neighborhoods, parade through central Hachinohe. The festival draws roughly 1.05 to 1.4 million visitors and is one of the leading summer festivals of northern Tohoku. Its greatest attraction is the gorgeous floats, on which figures rise up and unfold widely to the left and right; in recent years devices that even emit smoke have been added, and their scale and grandeur are unrivaled.
+
+## History and Origins
+
+The festival originated in 1721 (Kyoho 6), when the portable shrine of Horyo-sha (now Ogami Shrine), the chief tutelary shrine of the Hachinohe domain in Mutsu Province, was carried to the Kokuzo Hall on Choja-san to pray for good weather and give thanks for a bountiful harvest. At first the procession of Horyo-sha paraded through the city, held a rite at Choja-san, and returned. In time townspeople joined by dedicating dances and float-stalls, leading to the present form. After a period of decline in the Meiji era, at the suggestion of Osawa Tamon, Choja-san Shinra Shrine joined the procession in 1881 and Shinmeigu in 1886, establishing the joint festival of three shrines—Ogami within the castle, Shinmeigu in the castle town, and Shinra outside it. The practice of building floats by neighborhood and the effort to broaden the castle-town rite into a citywide festival by inviting performing arts such as kagura, hand dances, and tiger dances from across Hachinohe also stemmed from Osawa''s proposals. The festival''s basis is held to rest with the rite of Ogami Shrine, its place of origin, and a tradition of honoring Ogami above the other two shrines remains strong.
+
+## Highlights
+
+The greatest highlight is the joint procession of as many as 27 figure floats. Floats that once bore only a single figure developed from the mid-Meiji period into elaborate "furyu" floats depicting stories, and from the late 1970s onward gained large mechanisms that rise up and expand to the sides. The sight of vividly colored floats based on myths, kabuki, and local legends lined up in procession is spectacular. The portable-shrine processions conducted as Shinto rites and the dedications of performing arts such as kagura and tiger dances are also worth seeing. Unlike nighttime, audience-participation festivals such as the Aomori Nebuta, it is distinguished by the solemnity of daytime rites at its core.
+
+## Event Information and Access
+
+The festival is held annually from July 31 to August 4. On the eve festival of July 31, floats gather in central Hachinohe and in front of city hall to play festival music in unison, followed by the "o-tori" sacred procession on August 1, the "middle day" on August 2 (joint nighttime run), the "o-kaeri" return procession on August 3, and the after-festival on August 4. The central district, including Ogami Shrine, is within walking distance of the south exit of Hon-Hachinohe Station on the JR Hachinohe Line. Paid viewing seats are provided along the procession routes, and since 2007 a "pulling team" program has allowed people from outside the city and tourists to take part in pulling the floats.
+
+## Around the Site
+
+Outside the festival period, the floats can also be viewed at the first-floor hall of the Hachinohe Regional Local Industry Promotion Center "U-tory" (near the east exit of Hachinohe Station), at Ogami Shrine (a five-minute walk from the south exit of Hon-Hachinohe Station, which displays Edo-period float figures and the portable shrine that gave rise to the festival), and at the Hachinohe Portal Museum "Hacchi." Hachinohe is a port town facing the Pacific, blessed with fresh seafood and attractions such as the Hassyoku Center and the Tanesashi Coast.
+
+## Additional Information
+
+Hachinohe Sansha Taisai was designated an Important Intangible Folk Cultural Property of Japan as the "float event of Hachinohe Sansha Taisai" on February 6, 2004, and on November 30, 2016, it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as one of 33 nationwide "festival float events." A Shinto rite with three centuries of history, it also faces tensions between tradition and the modern age, such as debates over commercialization and the use of engines to move the floats, making it a compelling case for considering how local festivals change over time.','hachinohe-sansha-taisai','hachinohe-sansha-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11408926','博多どんたく','Hakata Dontaku','祭り','annual festival in Fukuoka, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hakata%20Dontaku%2078338697%20org.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%A9%E3%82%93%E3%81%9F%E3%81%8F','https://en.wikipedia.org/wiki/Hakata_Dontaku',85,'drafted','## 博多どんたくとは
 
 博多どんたくは、福岡県福岡市で毎年5月3日・4日に開催される、ゴールデンウィークを代表する祭りです。正式名称を「福岡市民の祭り 博多どんたく港まつり」といい、2日間で200万人を超える観客を集める、日本有数の動員数を誇る祭りとして知られています。市民が思い思いの仮装で「どんたく隊」を組み、しゃもじを打ち鳴らしながら街を練り歩く、市民総参加の賑やかな祭りです。
@@ -4897,7 +5041,51 @@ INSERT INTO "festivals" VALUES('Q60996972','アーラ映画祭',NULL,NULL,NULL,'
 INSERT INTO "festivals" VALUES('Q56348130','東京イラン映画祭','Iranian Film Festival in Tokyo',NULL,NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,2018,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%A4%E3%83%A9%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q65272329','泳げ鯉のぼり相模川','Sagami River Koinobori Matsuri','神奈川県相模原市の相模川高田橋上流で開催されていた行事','former koinobori event in Sagamihara, Kanagawa, Japan','Q209779','相模原市','Sagamihara','神奈川県','kanto',NULL,NULL,1988,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B3%B3%E3%81%92%E9%AF%89%E3%81%AE%E3%81%BC%E3%82%8A%E7%9B%B8%E6%A8%A1%E5%B7%9D.jpg','https://ja.wikipedia.org/wiki/%E6%B3%B3%E3%81%92%E9%AF%89%E3%81%AE%E3%81%BC%E3%82%8A%E7%9B%B8%E6%A8%A1%E5%B7%9D',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q38277461','高塔山ジャム',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E5%A1%94%E5%B1%B1%E3%82%B8%E3%83%A3%E3%83%A0',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q56863439','こまねこまつり','Komaneko Festival','京丹後市峰山で民間主導で2016年にはじまったまちおこしイベント','festival in Kyoto, Japan','Q56523409','金刀比羅神社','Kotohira Shrine',NULL,NULL,NULL,NULL,2016,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A%E7%B4%A0%E7%84%BC%E3%81%8D%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93.jpg','https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q56863439','こまねこまつり','Komaneko Festival','京丹後市峰山で民間主導で2016年にはじまったまちおこしイベント','festival in Kyoto, Japan','Q56523409','金刀比羅神社','Kotohira Shrine','京都府','kinki',NULL,NULL,2016,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A%E7%B4%A0%E7%84%BC%E3%81%8D%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93.jpg','https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
+
+こまねこまつりは、京都府京丹後市峰山町の金刀比羅神社とその周辺市街地で、毎年9月上旬に行われる「まちあるきイベント」である。金刀比羅神社境内の末社・木島神社に鎮座する全国的にも珍しい「狛猫（こまねこ）」を核に据え、地域おこしをめざす町民らによって2016年（平成28年）に第1回が開催された、比較的新しい祭りである。手づくり市やアート展、保護猫セミナー、町内の飲食店による猫モチーフの限定メニューなど、多彩な催しが神社エリアとまちなかエリアに展開され、人と人とのつながりを広げながら、峰山の魅力を再発見することをめざしている。
+
+## 歴史と由来
+
+峰山町は、1720年（享保5年）に絹屋佐平治がこの地で織り出した丹後ちりめんの主要産地として栄えた町である。養蚕に害をなすネズミを退治する猫が大切にされ、金刀比羅神社境内の木島神社・猿田彦神社には、養蚕の守護として狛犬ならぬ「狛猫」が奉納された。木島神社は1830年（文政13年）、京都・太秦の蚕ノ社から養蚕の守護神として勧請された社である。しかし、オイルショック以降の不況や格安の輸入製品におされて絹織物の生産量は激減し、町の活気も失われていった。その状況に危機感を抱いた地元住民らが、町の歴史に誇りを取り戻そうと、この珍しい狛猫を中心とした地域おこしを発案。金刀比羅神社の御鎮座200年にあたる2011年（平成23年）に「ねこプロジェクト」が発足した。アーティストが制作した素焼きの陶製こまねこに市内の小学生らが絵付けを行って境内に並べる取り組みなどが続けられ、その発展形として2016年に「こまねこまつり」が始まった。
+
+## 見どころ
+
+中心となる金刀比羅神社エリアでは、2009年から続く「こんぴら手づくり市」をはじめ、陶製こまねこやねこ絵馬の絵付けといった体験型の催し、プロのアーティストによるキルト展や「猫の目」作品展などのアート展、保護猫活動の展示や猫グッズの販売などが行われる。丹後ちりめんを用いた伝統のつるし飾りや、撮影スポットも用意される。一方「まちなかエリア」では、丹後ちりめんの老舗の店内公開や、ちりめん風呂敷・手機（てばた）の体験、空き店舗を活用したアート展などが展開される。町内の飲食店や菓子店では、「狛猫ばらずし」「狛猫もなか」など猫をモチーフにした限定メニューや商品が並び、約1か月前から行われるスタンプラリーも人気を集めている。
+
+## 開催情報・アクセス
+
+開催は毎年9月上旬。会場は京丹後市峰山町の金刀比羅神社および周辺地域である。最寄り駅は京都丹後鉄道宮豊線の峰山駅で、駐車場は京丹後市役所前や金刀比羅神社駐車場が利用できる。関連企画として、京都丹後鉄道の1日乗り放題切符「こまねこきっぷ」（222枚＝にゃんにゃんにゃん枚限定）が毎年販売されるなど、鉄道とも連携した催しが行われている。なお、屋外イベントが中心のため、台風や悪天候の影響で一部が中止・延期となる年もある。
+
+## 周辺の見どころ
+
+会場の中心である金刀比羅神社の境内には、由来となった狛猫が鎮座する木島神社のほか、参道の石段に自然石へ猫の絵を描いた「石ねこ」が常設展示されている。峰山町を含む京丹後市一帯は、日本遺産「丹後ちりめん回廊」の構成地域であり、丹後ちりめんの歴史を today に伝える商家や町並みが残る。日本海に面した丹後半島は、海の幸や景勝地にも恵まれ、織物文化と自然の両方を楽しめる土地である。
+
+## 関連情報
+
+こまねこまつりの核である狛猫は、2020年（令和2年）9月に「金刀比羅神社石像狛猫」として京丹後市の文化財に指定された。各種メディアでも京丹後市を代表する観光名所として取り上げられるようになり、峰山町が「狛猫の町」として認知される一翼を担っている。第1回は来場者1,000人を目標としながら、SNSでの拡散もあって2,000人以上が訪れ、飲食店が満席になるなど町に賑わいをもたらした。歴史ある伝統行事ではなく、衰退した地場産業の記憶と地域資源を掘り起こして生まれた現代の祭りであり、住民主導のまちおこしの一つの成功例として注目される。','## Overview
+
+Komaneko Matsuri is a "town-walking event" held in early September each year at Kotohira Shrine and the surrounding town in Mineyama, Kyotango, Kyoto Prefecture. Centered on the nationally rare "komaneko" (guardian cats) enshrined at Konoshima Shrine, an auxiliary shrine within the grounds of Kotohira Shrine, it is a relatively new festival whose first edition was held in 2016 by townspeople seeking to revitalize the community. A wide variety of events—a handmade-goods market, art exhibitions, rescue-cat seminars, and cat-themed limited menus at local eateries—unfold across the shrine area and the town area, aiming to widen connections among people while rediscovering the appeal of Mineyama.
+
+## History and Origins
+
+Mineyama flourished as a major center of Tango chirimen silk crepe, first woven here in 1720 (Kyoho 5) by Kinuya Saheiji. Cats that hunted the mice harmful to silkworm cultivation were prized, and at Konoshima and Sarutahiko shrines within the grounds of Kotohira Shrine, "guardian cats" rather than guardian dogs were dedicated as protectors of sericulture. Konoshima Shrine was established in 1830 (Bunsei 13), inviting the deity of sericulture from the Kaiko-no-Yashiro in Uzumasa, Kyoto. But recession after the oil crisis and competition from cheap imports caused silk production to plummet, and the town lost its vitality. Local residents who felt a sense of crisis sought to restore pride in the town''s history and conceived of community revitalization centered on these rare guardian cats. In 2011 (Heisei 23), the 200th anniversary of Kotohira Shrine''s establishment, the "Neko Project" was launched. Efforts such as having local elementary-school children paint unglazed ceramic komaneko made by an artist and line them up in the shrine grounds continued, and as an outgrowth of this the Komaneko Matsuri began in 2016.
+
+## Highlights
+
+In the central Kotohira Shrine area, attractions include the "Konpira Handmade Market" running since 2009, hands-on activities such as painting ceramic komaneko and cat votive tablets, art exhibitions such as quilt shows and "cat''s eye" exhibits by professional artists, displays of rescue-cat activities, and sales of cat goods. Traditional hanging ornaments made of Tango chirimen and photo spots are also set up. In the "town area," meanwhile, long-established Tango chirimen shops open their interiors, and there are chirimen-furoshiki and hand-loom experiences and art exhibitions using vacant storefronts. Local eateries and confectioners offer cat-themed limited menus and products such as "komaneko barazushi" and "komaneko monaka," and a stamp rally held from about a month beforehand is also popular.
+
+## Event Information and Access
+
+The festival is held in early September each year at Kotohira Shrine and the surrounding area in Mineyama, Kyotango. The nearest station is Mineyama Station on the Kyoto Tango Railway Miyatoyo Line, with parking available in front of Kyotango City Hall and at the Kotohira Shrine lot. As a tie-in, the one-day unlimited-ride "Komaneko ticket" for the Kyoto Tango Railway (limited to 222 tickets—"nyan nyan nyan") is sold each year, among events linked with the railway. Because the events are mainly outdoors, parts of the festival are canceled or postponed in some years due to typhoons or bad weather.
+
+## Around the Site
+
+Within the grounds of Kotohira Shrine, the central venue, stand Konoshima Shrine, where the namesake guardian cats are enshrined, as well as a permanent display of "ishi-neko"—natural stones painted with cats—along the stone steps of the approach. The Kyotango area, including Mineyama, is part of the Japan Heritage "Tango Chirimen Corridor," and merchant houses and townscapes that convey the history of Tango chirimen remain. The Tango Peninsula, facing the Sea of Japan, is also rich in seafood and scenic spots, a land where one can enjoy both textile culture and nature.
+
+## Additional Information
+
+The guardian cats at the heart of the Komaneko Matsuri were designated cultural properties of Kyotango as the "Stone Guardian Cats of Kotohira Shrine" in September 2020. Featured in various media as a representative attraction of Kyotango, they have helped Mineyama become known as the "town of guardian cats." Though the first edition aimed for 1,000 visitors, more than 2,000 came thanks in part to social-media buzz, filling local restaurants and bringing life to the town. Rather than a long-standing traditional rite, it is a contemporary festival born from unearthing the memory of a declined local industry and regional resources, attracting attention as a successful example of resident-led community revitalization.','komaneko-matsuri','komaneko-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48745443','尾張横須賀まつり','Owari Yokosuka Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%A8%AA%E9%A0%88%E8%B3%80%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q65247980','上杉雪灯篭まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E9%9B%AA%E7%81%AF%E7%AF%AD%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q65258543','大石田まつり最上川花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A%E6%9C%80%E4%B8%8A%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -4951,7 +5139,51 @@ The shrine is accessible approximately 15 minutes on foot or 5 minutes by car fr
 Anan City is the central urban hub of southern Tokushima Prefecture, with Byōdō-ji Temple (the 22nd temple on the Shikoku Pilgrimage) and the nearby Yakuō-ji Temple (the 23rd temple, in Mugi Town) making it a major waypoint along the famous Shikoku Henro pilgrimage route. The area also features rich natural scenery including the spectacular views of Tachibana Bay, Kamoda Misaki (the easternmost point of Shikoku), and the Tairyū-ji Ropeway. Within Tokushima Prefecture, combined sightseeing tours are possible with attractions allowing visitors to experience Awa culture, including the Awa Odori dance festival in Tokushima City (August), the Otsuka Museum of Art in Naruto City, and the Iya Valley with its famous Kazura-bashi vine bridges in Miyoshi City.','hanoura-jinja','hanoura-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48748975','水都まつり','Suito Matsuri',NULL,'festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%BD%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q60996676','松原神社秋季大祭',NULL,'兵庫県尼崎市の浜田町にある神社で行われる秋祭り',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%8E%9F%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E5%A4%A7%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q55526350','本町の八月踊り','August dance in Honmachi','鹿児島県肝付町で江戸時代から続く豊作を祈る踊り','pray for good Harvest danced had been 300 year ago',NULL,NULL,NULL,'鹿児島県','kyushu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/8gatu2%20b%20%28Kimotsuki%29.jpg','https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E3%81%AE%E5%85%AB%E6%9C%88%E8%B8%8A%E3%82%8A',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q55526350','本町の八月踊り','August dance in Honmachi','鹿児島県肝付町で江戸時代から続く豊作を祈る踊り','pray for good Harvest danced had been 300 year ago',NULL,NULL,NULL,'鹿児島県','kyushu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/8gatu2%20b%20%28Kimotsuki%29.jpg','https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E3%81%AE%E5%85%AB%E6%9C%88%E8%B8%8A%E3%82%8A',NULL,85,'drafted','## 概要
+
+本町の八月踊り（ほんまちのはちがつおどり）は、鹿児島県肝属郡肝付町に伝承される民俗芸能である。隔年（偶数年）の9月第4土曜日の夜に、五穀豊穣と無病息災を祈願して踊られる、鹿児島県指定の無形民俗文化財である。大隅半島の肝属川流域と奄美に広く伝わる「八月踊」の一つで、太鼓・鉦・三味線・胡弓の音に合わせ、独特の衣装をまとった人々が櫓を囲んで輪になって踊る。民俗学写真家の須藤功は、その光景を「西馬音内の盆踊りと風の盆を合わせたような感じがする」と評しており、胡弓の音色や覆面、古風な衣装が見る者に強い印象を残す。
+
+## 歴史と由来
+
+本町の八月踊りの起源には諸説あり、一定していない。古くは1671年（寛文11年）、灌漑用水路の竣工を記念して踊りが奉納されたといわれるが、根本にあるのは豊作への感謝の心だと考えられている。『串良町郷土誌』によれば、八月踊りは神霊への祭祀と収穫の祭りが一体化したもので、もともと水神祭と八月踊りは別々に行われていたという。元禄年間（1688年〜1704年）以降、とくに文化・文政年間（1804年〜1830年）から盛んになったとされる。なお、大隅半島に広く伝わる八月踊りは宮崎県南部からの影響が大きいと指摘されており、鉦踊りの後に手踊りが延々と続く形式は、日向（宮崎県）側の盆踊りがそのまま伝わったものだという。薩摩半島や大隅半島で盆の時期に手踊りをする地域はごく限られ、その多くが島嶼部であることから、薩摩藩による一向宗弾圧で盆踊りが禁じられたため、七月盆（旧盆）ではないことを強調しようとして、あえて「八月踊り」と呼んだのではないか、とも考察されている。
+
+## 見どころ
+
+夕方、踊りに先立って行われる「水神祭」が一つの見どころである。町内に祀られる水神の祠に五色の紙旗を立て、太鼓と鉦の音頭に合わせて、紋付羽織の男たちが輪になり、唄いながら左右の足を交互に揺らして踊りを奉納する。この踊りは「鉦踊り」または「水神様の法楽（ふらく）」と呼ばれる。日が暮れると、本町中央町通りに組まれた櫓を囲んで八月踊りが始まる。男性は藺草の陣笠に黒の紋付羽織、女性は浴衣に黒帯を合わせ、若い娘は華やかに、婦人は黒の御高祖頭巾と白鉢巻で淑やかに装う。櫓では三味線・太鼓・拍子木・胡弓が合奏し、「五尺」「思案橋」「大阪京町」など14曲が歌われる。
+
+## 開催情報・アクセス
+
+開催は隔年（偶数年）の9月第4土曜日の夜。会場は肝付町新富の本町中央町通りである。かつては毎年、旧暦8月18日に稲の収穫を祝って奉納されていた。踊りの途中には「なかあがい」と呼ばれる休憩が挟まれ、その後は自由服となって、町民以外の一般の人も踊りの輪に加わることが許される。鹿児島県の大隅半島南部に位置する肝付町は、公共交通の便が限られるため、訪れる際は事前に交通手段を確認しておくとよい。
+
+## 周辺の見どころ
+
+肝付町の周辺、肝属川流域や鹿屋市には、同じ系譜に連なる八月踊りが数多く伝承されている。鹿屋市祓川町の「祓川町八月踊り」（市指定無形民俗文化財）、鹿屋市吾平町の八月踊り、東串良町の「唐仁の八月踊り」、志布志市有明町の「蓬原中野の八月踊り」などがその例で、地域ごとに少しずつ趣の異なる踊りを見比べることができる。大隅半島は豊かな自然と農業に育まれた土地で、各地に残る民俗芸能とともに、その風土を味わうことができる。
+
+## 関連情報
+
+本町の八月踊りは、1962年（昭和37年）10月24日に「高山町本町の八月踊」として鹿児島県の無形民俗文化財に指定された（指定当時の自治体名による）。日向系の盆踊りの伝播、薩摩藩の宗教政策との関わり、水神信仰と稲作の結びつきなど、南九州の歴史と民俗を映し出す貴重な芸能である。隔年開催であるため見る機会は限られるが、それだけに地域の人々によって大切に受け継がれてきた踊りといえる。','## Overview
+
+Honmachi no Hachigatsu Odori (the August Dance of Honmachi) is a folk performing art handed down in Kimotsuki, Kagoshima Prefecture. Designated an Intangible Folk Cultural Property of Kagoshima Prefecture, it is danced on the night of the fourth Saturday of September in even-numbered years to pray for abundant harvests and freedom from illness. It is one of the "August dances" widely transmitted along the Kimotsuki River basin of the Osumi Peninsula and in the Amami Islands. To the sound of drums, gongs, shamisen, and kokyu, people in distinctive costumes form a circle around a wooden tower and dance. The folklore photographer Suto Isao described the scene as "a blend of the Nishimonai Bon dance and the Owara Kaze no Bon," noting that the tone of the kokyu and the veiled, old-fashioned costumes leave a strong impression.
+
+## History and Origins
+
+The origins of the dance are uncertain, with several theories. It is said that a dance was dedicated in 1671 (Kanbun 11) to mark the completion of an irrigation canal, but at its root lies gratitude for a good harvest. According to the Kushira Town local history, the August dance united rites to the deities with a harvest festival, and the water-deity rite and the August dance were originally held separately. It is said to have flourished from the Genroku era (1688–1704) onward, and especially from the Bunka-Bunsei era (1804–1830). The August dances widely transmitted across the Osumi Peninsula are noted to owe much to influence from southern Miyazaki; the form in which hand dances continue at length after the gong dance is said to have been transmitted directly from the Bon dances of the Hyuga (Miyazaki) side. Because regions that perform hand dances at Bon on the Satsuma and Osumi peninsulas are very few and mostly limited to the islands, it has been suggested that, since the Satsuma domain''s suppression of the Ikko sect banned Bon dances, the name "August dance" was deliberately used to emphasize that it was not the seventh-month (old Bon) observance.
+
+## Highlights
+
+One highlight is the "water-deity rite" held in the evening before the dance. Five-colored paper banners are raised at the shrine of the water deity worshipped in the town, and men in crested haori coats form a circle and dedicate a dance, singing as they shift their feet from side to side to the rhythm of drums and gongs. This dance is called the "gong dance" or the "amusement of the water deity." After dark, the August dance begins around a tower erected on the central Honmachi street. Men wear rush hats and black crested haori, while women combine yukata with black sashes—young women dressed brightly, married women demurely with black hoods and white headbands. On the tower, shamisen, drum, wooden clappers, and kokyu play together, and fourteen songs such as "Goshaku," "Shiambashi," and "Osaka Kyomachi" are sung.
+
+## Event Information and Access
+
+The dance is held on the night of the fourth Saturday of September in even-numbered years, on the central Honmachi street in Shintomi, Kimotsuki. It was once dedicated every year on the eighteenth day of the eighth lunar month to celebrate the rice harvest. A rest called "nakaagai" is taken partway through, after which dress becomes informal and people from outside the town are also allowed to join the circle. Kimotsuki, in the southern part of Kagoshima''s Osumi Peninsula, has limited public transport, so it is wise to confirm transportation in advance.
+
+## Around the Site
+
+Many August dances of the same lineage are transmitted in the area around Kimotsuki, along the Kimotsuki River basin and in Kanoya. Examples include the "Haraikawa-cho August Dance" in Kanoya (a municipally designated property), the August dance of Aira-cho in Kanoya, the "Toujin August Dance" in Higashikushira, and the "Futsuhara Nakano August Dance" in Ariake, Shibushi—allowing visitors to compare dances that differ subtly from place to place. The Osumi Peninsula is a land nurtured by rich nature and agriculture, where one can savor the local character along with the folk arts that survive throughout the region.
+
+## Additional Information
+
+Honmachi no Hachigatsu Odori was designated an Intangible Folk Cultural Property of Kagoshima Prefecture on October 24, 1962, as the "August Dance of Honmachi, Takayama-cho" (under the municipal name of the time). Reflecting the transmission of Hyuga-style Bon dances, ties to the Satsuma domain''s religious policy, and the link between water-deity worship and rice cultivation, it is a valuable art that mirrors the history and folklore of southern Kyushu. Held only every other year, opportunities to see it are limited, which makes all the more notable the care with which local people have preserved it.','honmachi-hachigatsu-odori','honmachi-hachigatsu-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q60985206','神奈川新聞花火大会','Kanagawa Shimbun Fireworks Festival',NULL,'fireworks festival held in Yokohama, Japan from 1986 to 2016','Q38283','横浜市','Yokohama','神奈川県','kanto',NULL,NULL,1986,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E8%81%9E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q56026191','吉野川市納涼花火大会',NULL,NULL,NULL,NULL,NULL,NULL,'奈良県','kinki',34.084833333,134.349916666,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48748967','大垣十万石まつり','Ōgaki Jūmangoku Matsuri','岐阜県大垣市で行われる祭',NULL,NULL,NULL,NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B2%90%E9%98%9C%E7%9C%8C%E5%A4%A7%E5%9E%A3%E5%B8%82%E6%9D%B1%E5%A4%96%E5%81%B4%E7%94%BA%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
