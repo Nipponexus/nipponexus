@@ -2537,27 +2537,43 @@ The festival''s cultural significance extended beyond its immediate musical impa
 After the festival''s conclusion in 1998, Fuji-Q Highland continued operations as an amusement park, while the broader Mount Fuji area achieved UNESCO World Heritage status in 2013 and consolidated its position as an international tourist destination. The festival itself has not been revived, but recordings, photographs, and printed materials documenting its thirteen-year run remain available through the Fuji Express corporate archives, jazz specialty magazines, and academic studies of Japanese music history. For visitors interested in the cultural geography of Japanese jazz, the area around Mount Fuji retains layers of meaning that connect the natural sublime with one of the twentieth century''s most important international musical convergences, making a visit a worthwhile pilgrimage even decades after the music has stopped.','mount-fuji-jazz-festival','mount-fuji-jazz-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5637073','八戸三社大祭','Hachinohe Sansha Taisai','青森県八戸市で行われる祭礼','festival of Hachinohe, Aomori, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,1721,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hachinohe%20Sansha%20Taisai%20Festival%2C%202%20August%202014-001.JPG','https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E4%B8%89%E7%A4%BE%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Hachinohe_Sansha_Taisai',85,'drafted','## 概要
 
-八戸三社大祭（はちのへさんしゃたいさい）は、毎年7月31日から8月4日にかけて青森県八戸市で行われる神社神道の祭礼である。「三社」とは市内に鎮座する法霊山龗（おがみ）神社・長者山新羅神社・神明宮の三社を指し、これら三社の神輿行列と、市内各町が中心となって製作する20数台の華麗な人形山車が、八戸市中心市街地を巡行する。期間中はおよそ105万から140万人もの観光客が訪れる、北東北を代表する夏祭りの一つである。人形がせり上がり、左右に大きく広がる豪華絢爛な山車が最大の見どころで、近年では煙が吹き上がるなどの仕掛けも凝らされ、その規模と荘厳さは他に類を見ない。
+八戸三社大祭（はちのへさんしゃたいさい）は、青森県八戸市で毎年7月31日から8月4日にかけて行われる祭礼で、東北を代表する夏祭りのひとつである。「三社」の名のとおり、龗神社（おがみじんじゃ／法霊山龗神社）・長者山新羅神社（ちょうじゃさんしんらじんじゃ）・神明宮（しんめいぐう）という三つの神社の神霊が、神輿に乗って市中を巡行する神事を核とする。これに、各町内が制作する豪華絢爛な山車（だし）が加わり、五日間にわたって街全体が祭り一色に染まる。豪壮な山車と神輿行列が織りなす祭礼絵巻には、例年100万人を超える見物客が訪れる。
 
-## 歴史と由来
+## 歴史・由来
 
-祭りの起源は江戸時代の享保6年（1721年）、陸奥国八戸藩の総鎮守であった法霊社（現在の龗神社）の神輿を、日和乞いと豊作感謝の意を込めて長者山の虚空蔵堂へ渡らせたことに始まる。当初は法霊社の神輿行列が市内を巡幸し、長者山で例祭を行って還御するという神事であった。やがてこの行列に町民が踊りや屋台山車を奉納する形で加わり、現在の姿へとつながっていく。明治期に入ると大祭は一時衰退するが、大澤多門の発案で明治14年（1881年）に長者山新羅神社が、明治19年（1886年）に神明宮が行列に加わり、城内の龗神社・城下の神明宮・城外の新羅神社という三社合同例祭としての八戸三社大祭が成立した。山車を町内ごとに製作する方式や、八戸全域から神楽・手踊り・虎舞などの伝統芸能を参加させて城下町の祭礼を市全体の祭りへ広げる試みも、この大澤の発案によるものである。なお祭りの根拠はあくまで発祥である龗神社の祭礼にあるとされ、二社と比べて龗神社を重んじる伝統が今も強く残る。
+八戸三社大祭の起源は、享保6年（1721年）にさかのぼるとされる。凶作に見舞われた際、豊作を祈願して龗神社の神輿を長者山三社堂（現在の長者山新羅神社）へ渡御させたのが始まりと伝えられ、これが三社による神輿渡御の原型となった。その後、時代を経るなかで長者山新羅神社、さらに神明宮が加わり、現在の「三社」による祭礼の形が整っていった。
+
+当初は神事を中心とした行事であったが、町人文化の隆盛とともに各町内が山車を出して競うようになり、祭りは次第に華やかさを増していった。山車は年ごとに新しく作り替えられ、歴史や神話、歌舞伎の名場面などを題材とした大掛かりな造形が施されるようになる。こうした山車行事の伝統が評価され、平成16年（2004年）には国の重要無形民俗文化財に指定された。さらに平成28年（2016年）には、「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、国内外にその価値が知られることとなった。
+
+近年では、令和2年（2020年）に新型コロナウイルス感染症の影響で巡行行事が中止となるなど、開催が見送られた年もあった。その後、規模を調整しながら段階的に再開され、令和5年（2023年）には本来の行事がそろって復活している。三百年にわたって受け継がれてきた祭りが、困難を経ても地域の手で守られ続けている点に、八戸の人々の祭りへの思いがあらわれている。
 
 ## 見どころ
 
-最大の見どころは、27台にのぼる人形山車の合同運行である。当初は1体の人形を乗せる程度だった山車は、明治中頃から物語を表現する風流山車へと発展し、昭和50年代以降はせり上がりや左右への展開といった大がかりな仕掛けが加わった。神話や歌舞伎、地域の伝説などを題材にした極彩色の山車が連なる光景は壮観である。神社神道の祭祀として執り行われる神輿行列、神楽や虎舞といった伝統芸能の奉納も見どころで、青森ねぶたのような夜の客参加型の祭りとは異なり、昼間の神事を中心とする厳粛さを併せ持つ点が特徴である。
+### 豪華絢爛な山車
+
+八戸三社大祭最大の見どころは、約27台ともいわれる山車の華やかな行列である。各町内が一年がかりで制作する山車は、神話や歴史、伝説を題材にした立体的な造形で、高さや幅が大きく広がる仕掛けを備えるものも多い。前後左右にせり出すからくりや、場面を彩る演出など、各町内が技と趣向を競い合う様は圧巻である。
+
+### 神輿渡御と行列
+
+三社の神霊を乗せた神輿が市中を巡る神輿渡御は、祭りの本義である神事の中心をなす。神輿を中心に、虎舞や法霊神楽、武者行列など多彩な芸能・行列が連なり、伝統の装束をまとった担ぎ手や囃子方が街路を埋める。山車の豪華さと神事の厳かさが同居する点に、この祭りの奥行きがある。
+
+### 五日間の構成
+
+祭りは、7月31日の前夜祭に始まり、8月1日の「お通り」、2日の「中日（なかび）」、3日の「お還り」、4日の後夜祭という流れで進行する。前夜祭と後夜祭では山車が一堂に集まってライトアップされ、昼間とは異なる幻想的な姿を楽しむことができる。
 
 ## 開催情報・アクセス
 
-開催は毎年7月31日から8月4日。7月31日の前夜祭では八戸市中心市街地と市庁前に山車が集結して一斉にお囃子を演じ、8月1日の「お通り（神幸祭）」、2日の「中日」（夜間合同運行）、3日の「お還り（還幸祭）」、4日の後夜祭という日程で進む。会場へは、JR八戸線・本八戸駅南口から徒歩圏に龗神社などの中心市街地がある。お通り・お還り・後夜祭の各コースには有料観覧席が用意されるほか、2007年からは市外の人や観光客が山車の引き子として参加できる「引っ張り隊」の制度も導入されている。
+八戸三社大祭は、例年7月31日から8月4日までの五日間にわたって開催される。日によって山車の合同運行や神輿渡御など見られる行事が異なるため、目当てに応じて訪れる日を選ぶとよい。中心市街地が会場となるため、見物には公共交通機関の利用が便利である。
+
+会場へは、JR八戸線「本八戸駅」が最寄りで、駅から徒歩圏内に祭りの主要なエリアが広がる。東北新幹線「八戸駅」からは在来線やバスで中心市街地へアクセスできる。会期中は交通規制や混雑が予想されるため、最新の日程・運行・観覧情報は八戸市や祭りの公式情報で確認するのが確実である。
 
 ## 周辺の見どころ
 
-祭り期間以外でも、八戸地域地場産業振興センター「ユートリー」（八戸駅東口近く）の1階ホールや、龗神社（本八戸駅南口から徒歩5分・江戸時代の山車人形と起源となった神輿を展示）、八戸ポータルミュージアム「はっち」などで山車を見学できる。八戸は太平洋に面した港町で、新鮮な海産物や、八食センター、種差海岸といった観光資源にも恵まれている。
+八戸は、太平洋に面した港町として知られ、新鮮な海の幸を楽しめる地域である。朝市や横丁文化など、独特の食と人情に触れられる街でもある。祭り期間以外にも、ユネスコ無形文化遺産に登録された山車を展示する施設などがあり、八戸三社大祭の魅力を一年を通して感じることができる。三陸海岸の自然や周辺の観光地とあわせて訪れるのもよい。
 
 ## 関連情報
 
-八戸三社大祭は2004年2月6日に「八戸三社大祭の山車行事」として国の重要無形民俗文化財に指定され、2016年11月30日には全国33の「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産代表一覧表への記載が決定した。300年の歴史を持つ神社神事でありながら、観光化や山車の動力使用をめぐる論点など、伝統と現代のあいだで揺れ動く側面も抱えており、地域の祭りが時代とともにどう変容していくかを考えるうえでも興味深い事例である。','## Overview
+八戸三社大祭は、観光の活性化に大きく寄与する一方で、山車の制作や運営を担う各町内の負担、伝統の継承といった課題にも向き合っている。祭りを支える人々の努力によって、豪壮な山車と厳かな神事が今日まで受け継がれてきた。重要無形民俗文化財・ユネスコ無形文化遺産という評価は、その文化的価値の高さを示すものであり、訪れる際には祭りの華やかさだけでなく、それを守り続ける地域の営みにも目を向けたい。','## Overview
 
 Hachinohe Sansha Taisai is a Shinto festival held in Hachinohe, Aomori Prefecture, every year from July 31 to August 4. The "three shrines" (sansha) are Ogami Shrine, Choja-san Shinra Shrine, and Shinmeigu, all located within the city. Portable-shrine processions of these three shrines, together with more than twenty ornate figure floats (dashi) built mainly by the city''s neighborhoods, parade through central Hachinohe. The festival draws roughly 1.05 to 1.4 million visitors and is one of the leading summer festivals of northern Tohoku. Its greatest attraction is the gorgeous floats, on which figures rise up and unfold widely to the left and right; in recent years devices that even emit smoke have been added, and their scale and grandeur are unrivaled.
 
