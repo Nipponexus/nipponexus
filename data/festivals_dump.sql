@@ -2392,8 +2392,160 @@ INSERT INTO "festivals" VALUES('Q11263450','お蔵出し映画祭','Okuradashi F
 INSERT INTO "festivals" VALUES('Q11263106','お手火祭り','Otebi Matsuri','広島県福山市の沼名前神社で行われる火祭り',NULL,'Q11554446','沼名前神社','Nunakuma Shrine','広島県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E6%89%8B%E7%81%AB%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7677467','高山祭','Takayama Festival','岐阜県高山市で開催される春の山王祭と秋の八幡祭の総称','Japanese festival','Q11537980','桜山八幡宮','Sakurayama Hachimangū','岐阜県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%A7%E5%9B%BD%E5%8F%B0%20%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%29%20-%20panoramio%20%282%29.jpg','https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B1%B1%E7%A5%AD','https://en.wikipedia.org/wiki/Takayama_Festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6406163',NULL,'Kijimuna Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Kijimuna_Festival',25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q5952410','金沢百万石まつり','Hyakumangoku Matsuri','毎年6月に石川県金沢市で行われる祭り',NULL,NULL,NULL,NULL,'石川県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hyakumangoku%20Matsuri%20in%20front%20of%20Kanazawa%20station.jpg','https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E7%99%BE%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hyakumangoku_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6416609','岸和田だんじり祭','Kishiwada Danjiri Matsuri','大阪府岸和田市旧市地区で行われる祭','Danjiri Matsuri festival in Japan',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,1745,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kishiwada-Danjiri-Matsuri%20Osaka%20Japan.jpg','https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD','https://en.wikipedia.org/wiki/Kishiwada_Danjiri_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q5952410','金沢百万石まつり','Hyakumangoku Matsuri','毎年6月に石川県金沢市で行われる祭り',NULL,NULL,NULL,NULL,'石川県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hyakumangoku%20Matsuri%20in%20front%20of%20Kanazawa%20station.jpg','https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E7%99%BE%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hyakumangoku_Matsuri',85,'drafted','## 概要
+
+金沢百万石まつり（かなざわひゃくまんごくまつり）は、石川県金沢市で毎年6月に行われる、金沢を代表する祭りである。加賀藩の藩祖・前田利家が金沢城に入城し、加賀百万石の礎を築いた偉業をしのんで開催される。最大の見どころは、絢爛豪華な時代絵巻「百万石行列」で、前田利家公とその正室・お松の方に扮した一行を中心に、武者行列や音楽パレードなどが市の中心部を練り歩く。例年、国内外から数十万人もの見物客が訪れ、初夏の金沢を華やかに彩る。比較的新しい時代に始まった祭りでありながら、城下町・金沢の歴史と誇りを今に伝える行事として定着している。
+
+## 歴史・由来
+
+金沢百万石まつりは、加賀藩の藩祖・前田利家を顕彰する祭りである。利家は天正11年（1583年）に金沢城へ入城し、以後、加賀・能登・越中にまたがる加賀百万石と称される大藩の基礎を築いた。その功績をたたえ、城下町として発展した金沢の歴史を未来に伝えるために、この祭りは生まれた。
+
+祭りの中核をなす百万石行列は、利家の金沢入城の様子を再現する時代絵巻として構成されている。武具をまとった武者や奴(やっこ)、当時の装いを再現した行列が連なり、城下町に栄えた加賀の文化と威容を表現する。前田利家公やお松の方の役を著名人が務めることも、毎年大きな話題となっている。
+
+金沢百万石まつりは、長い歴史を持つ古来の神事とは性格を異にし、近代以降に地域の振興と歴史の顕彰を目的として整えられてきた祭りである。それでも、加賀百万石という土地の記憶と、城下町・金沢が育んだ伝統文化を背景に持つことで、市民にとって誇りある年中行事として根づいている。年を重ねるごとに内容も充実し、今日では石川県を代表する観光イベントのひとつに数えられている。
+
+## 見どころ
+
+### 百万石行列
+
+祭りのメインイベントが、絢爛豪華な百万石行列である。前田利家公の金沢入城を再現した一行を中心に、加賀獅子や加賀鳶(とび)のはしご登り、音楽パレードなどが続き、金沢駅から金沢城公園へと至る道のりを華やかに進む。総勢数千人ともいわれる参加者による壮大な時代絵巻は、見る者を圧倒する。
+
+### 加賀の伝統芸能
+
+行列に登場する加賀獅子や加賀鳶のはしご登りは、金沢に伝わる勇壮な伝統芸能である。高く掲げられたはしごの上で繰り広げられる妙技や、迫力ある獅子の舞は、行列に彩りと緊張感を添える。城下町・金沢ならではの芸能を間近で楽しめる貴重な機会である。
+
+### 関連行事
+
+祭り期間中には、百万石行列のほかにもさまざまな催しが行われる。兼六園とその周辺で開かれる百万石茶会や、金沢城公園での薪能(たきぎのう)など、加賀文化の奥深さにふれられる行事が並ぶ。華やかな行列だけでなく、茶の湯や能といった洗練された文化を味わえる点も、この祭りの魅力である。
+
+## 開催情報・アクセス
+
+金沢百万石まつりは、例年6月上旬に行われる。メインの百万石行列は土曜日の午後に実施されるのが通例で、これに前後して茶会や薪能などの関連行事が数日間にわたって催される。年によって日程や内容が変わることがあるため、訪れる際には事前に確認しておきたい。
+
+会場の中心は、JR「金沢駅」から金沢城公園・兼六園にかけてのエリアである。行列は金沢駅を起点に市の中心部を進むため、駅周辺からアクセスしやすい。祭り当日は交通規制や混雑が予想されるため、公共交通機関の利用が推奨される。最新の日程・行列のコース・観覧情報は、金沢市や祭りの公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+金沢は、加賀百万石の城下町として栄えた、伝統文化と美の薫り高い街である。日本三名園のひとつに数えられる兼六園、復元が進む金沢城公園、武家屋敷跡やひがし茶屋街など、見どころに事欠かない。祭りとあわせて、加賀料理や和菓子、金沢の工芸にふれるのもよい。近隣には能登半島や加賀温泉郷など、石川県を代表する観光地も広がっており、周遊の拠点としても魅力的である。
+
+## 関連情報
+
+金沢百万石まつりは、加賀藩祖・前田利家の偉業と、城下町・金沢が育んだ伝統文化を背景に、市民と地域の手によって育てられてきた祭りである。古来の神事とは異なる成り立ちを持ちながらも、加賀百万石の歴史を未来へ伝える行事として、多くの人々に親しまれている。豪華な行列や伝統芸能、茶会や薪能といった多彩な内容は、金沢という街が積み重ねてきた文化の厚みを映し出している。訪れる際には、行列の華やかさだけでなく、その背景にある加賀百万石の歴史と、金沢が守り続ける伝統文化にも目を向けると、この祭りをより深く楽しめる。','## Overview
+
+The Kanazawa Hyakumangoku Matsuri is a festival representative of Kanazawa, held each June in Kanazawa City, Ishikawa Prefecture. It is held to honor the great achievement of Maeda Toshiie, founding lord of the Kaga domain, who entered Kanazawa Castle and laid the foundation of the "million-koku" (hyakumangoku) Kaga domain. The greatest highlight is the magnificent historical pageant known as the "Hyakumangoku Parade," in which a procession centered on figures portraying Lord Maeda Toshiie and his wife, Lady Matsu, along with warrior processions and music parades, marches through the center of the city. Each year, hundreds of thousands of spectators visit from within Japan and abroad, splendidly coloring early-summer Kanazawa. Although it began in a comparatively recent era, it has become established as an event that conveys the history and pride of the castle town of Kanazawa to the present day.
+
+## History and Origins
+
+The Kanazawa Hyakumangoku Matsuri is a festival that honors Maeda Toshiie, founding lord of the Kaga domain. Toshiie entered Kanazawa Castle in 1583 (Tensho 11), and thereafter laid the foundation of the great domain known as the million-koku Kaga domain, spanning Kaga, Noto, and Etchu. To praise this achievement and to convey to the future the history of Kanazawa as a castle town, this festival was born.
+
+The Hyakumangoku Parade, which forms the core of the festival, is composed as a historical pageant reenacting Toshiie''s entry into Kanazawa. Warriors clad in armor, yakko (footmen), and processions reproducing the attire of the time form a continuous line, expressing the culture and grandeur of Kaga that flourished as a castle town. The fact that prominent figures portray the roles of Lord Maeda Toshiie and Lady Matsu also becomes a major topic each year.
+
+The Kanazawa Hyakumangoku Matsuri differs in character from ancient Shinto rites of long history; it is a festival shaped in the modern era and afterward for the purposes of regional promotion and the commemoration of history. Even so, by holding in its background the memory of the land known as the million-koku Kaga domain and the traditional culture nurtured by the castle town of Kanazawa, it has taken root as an annual event of pride for the city''s residents. Growing richer in content year by year, it is today counted among the sightseeing events representative of Ishikawa Prefecture.
+
+## Highlights
+
+### The Hyakumangoku Parade
+
+The main event of the festival is the magnificent Hyakumangoku Parade. Centered on a procession reenacting Lord Maeda Toshiie''s entry into Kanazawa, it is followed by the Kaga lion dance, the ladder-climbing acrobatics of the Kaga firefighters (Kaga tobi), and music parades, advancing splendidly along the route from Kanazawa Station to Kanazawa Castle Park. The grand historical pageant by participants said to number several thousand overwhelms all who see it.
+
+### Traditional Performing Arts of Kaga
+
+The Kaga lion dance and the ladder-climbing of the Kaga firefighters that appear in the parade are spirited traditional performing arts handed down in Kanazawa. The feats performed atop a high-raised ladder and the powerful lion dance add color and tension to the procession. It is a precious opportunity to enjoy at close range the performing arts unique to the castle town of Kanazawa.
+
+### Related Events
+
+During the festival period, various events are held in addition to the Hyakumangoku Parade. Events through which one can touch the depth of Kaga culture line up, such as the Hyakumangoku tea ceremony held in and around Kenrokuen Garden, and the Takigi Noh (firelight Noh) at Kanazawa Castle Park. Being able to savor refined culture such as the tea ceremony and Noh, not only the splendid parade, is also part of the festival''s appeal.
+
+## Event Information and Access
+
+The Kanazawa Hyakumangoku Matsuri is held in early June each year. The main Hyakumangoku Parade is customarily held on a Saturday afternoon, with related events such as the tea ceremony and Takigi Noh held over several days around it. As the schedule and content can change from year to year, visitors should confirm them in advance.
+
+The center of the venue is the area stretching from Kanazawa Station on the JR line to Kanazawa Castle Park and Kenrokuen Garden. Because the parade advances through the center of the city starting from Kanazawa Station, it is easily accessed from around the station. As traffic restrictions and crowds are expected on the festival day, the use of public transportation is recommended. The latest schedule, parade route, and viewing information should be confirmed through Kanazawa City or the festival''s official sources.
+
+## Around the Area
+
+Kanazawa is a city rich in the fragrance of traditional culture and beauty, having flourished as the castle town of the million-koku Kaga domain. It has no shortage of attractions, including Kenrokuen Garden, counted among the three great gardens of Japan; Kanazawa Castle Park, where restoration is progressing; the remains of samurai residences; and the Higashi Chaya District. In keeping with the festival, experiencing Kaga cuisine, traditional sweets, and Kanazawa''s crafts is also worthwhile. Nearby spread sightseeing destinations representative of Ishikawa Prefecture, such as the Noto Peninsula and the Kaga Onsen hot-spring district, making it attractive as a base for touring as well.
+
+## Additional Information
+
+The Kanazawa Hyakumangoku Matsuri is a festival that has been nurtured by the hands of the city''s residents and the region, against the background of the achievements of Maeda Toshiie, founding lord of the Kaga domain, and the traditional culture nurtured by the castle town of Kanazawa. While having an origin different from ancient Shinto rites, it is cherished by many people as an event that conveys the history of the million-koku Kaga domain to the future. Its varied content—the splendid parade, traditional performing arts, the tea ceremony, and Takigi Noh—reflects the depth of culture that the city of Kanazawa has accumulated. When visiting, paying attention not only to the splendor of the parade but also to the history of the million-koku Kaga domain behind it and the traditional culture that Kanazawa continues to protect will allow a deeper enjoyment of this festival.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q6416609','岸和田だんじり祭','Kishiwada Danjiri Matsuri','大阪府岸和田市旧市地区で行われる祭','Danjiri Matsuri festival in Japan',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,1745,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kishiwada-Danjiri-Matsuri%20Osaka%20Japan.jpg','https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD','https://en.wikipedia.org/wiki/Kishiwada_Danjiri_Matsuri',85,'drafted','## 概要
+
+岸和田だんじり祭（きしわだだんじりまつり）は、大阪府岸和田市で行われる祭礼で、勇壮かつ豪快な「やりまわし」で全国に知られる秋祭りである。重さ数トンにもなる「だんじり」と呼ばれる地車（じぐるま）を、大勢の曳き手が町中を全速力で曳き、交差点で一気に方向転換させるやりまわしは、この祭り最大の見せ場として多くの観客を魅了する。300年以上の歴史を持ち、岸和田の人々が一年で最も熱くなる祭りとして、地域のアイデンティティそのものとなっている。例年9月に行われる祭礼を中心に、各町の地車が一体となって街を駆け抜ける。
+
+## 歴史・由来
+
+岸和田だんじり祭の起源については、複数の説が伝えられている。一般によく語られるのは、元禄16年（1703年）、当時の岸和田藩主・岡部長泰が、京都の伏見稲荷を城内の三の丸神社に勧請し、城下の人々が祭礼を行ったことに始まるという説である。五穀豊穣を祈願する稲荷祭がその出発点であったとされる。
+
+一方で、延享2年（1745年）に、北町の茶屋新右衛門が大坂の祭礼を見聞し、それを持ち帰って始めたとする説も伝わっている。こうした複数の伝承が併存しており、いずれが祭りの直接の起源であるかを今日確定することは難しい。ただ、いずれの説も江戸時代中期に祭礼の原型が形づくられたことを示しており、300年以上にわたって受け継がれてきた長い歴史があることは間違いない。
+
+その後、だんじりの曳行は岸和田の町人文化のなかで発展し、各町がそれぞれの地車を持ち、競い合うように技と意気込みを磨いていった。第二次世界大戦の空襲により地車を失った町もあったが、人々は祭りを絶やすことなく再建し、受け継いできた。困難のたびに祭りを立て直してきた歴史は、岸和田の人々の祭りへの深い思い入れを物語っている。
+
+## 見どころ
+
+### やりまわし
+
+岸和田だんじり祭を象徴するのが、交差点で地車を直角に方向転換させる「やりまわし」である。速度を落とさずに重い地車を一気に曲げるこの技は、曳き手・前梃子（まえてこ）・後梃子（うしろてこ）、そして屋根の上で舞う大工方（だいくがた）の息の合った連携によって成り立つ。一瞬の判断と力が試される危険と隣り合わせの妙技であり、成功した瞬間には大きな歓声が沸き起こる。
+
+### 大工方の舞
+
+走る地車の屋根の上で、団扇（うちわ）を手に舞う大工方の姿も大きな見どころである。激しく揺れる地車の上で堂々と舞う様子は、祭りの花形として観客の目を引きつける。
+
+### 昼と夜の表情
+
+日中は全速力の曳行とやりまわしの迫力が際立つが、夜になると地車に多数の提灯が灯され、ゆっくりと町を巡る「灯入れ曳行」が行われる。豪快な昼と、幻想的な夜という対照的な表情を一日で味わえるのも、この祭りの魅力である。
+
+## 開催情報・アクセス
+
+岸和田だんじり祭は、例年9月に行われる祭礼が広く知られている。試験曳きを経て、宵宮・本宮の二日間が中心となる。地区によって祭礼の日程が異なる場合があるため、訪れる際には目当ての地区の日程を確認しておきたい。
+
+会場の中心となる岸和田の市街地へは、南海本線「岸和田駅」「蛸地蔵駅」が便利で、駅周辺から曳行のコースが広がる。祭礼当日は大変な混雑と交通規制が敷かれるため、公共交通機関の利用が推奨される。やりまわしが見られる主要な交差点は特に人気が高く、最新の日程・コース・観覧情報は岸和田市や祭りの公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+祭りの名を冠する岸和田城は、市街地のシンボルであり、城とその周辺は散策に適している。だんじり会館では、実物の地車や祭りの様子を一年を通して見ることができ、祭礼の期間以外でもその迫力にふれられる。大阪湾に面した岸和田は、海の幸や地元の味も楽しめる地域であり、祭りとあわせて町歩きを楽しむのもよいだろう。
+
+## 関連情報
+
+岸和田だんじり祭は、各町が地車を所有し、町ごとの結束のもとで運営される、地域共同体の力が色濃くあらわれた祭りである。曳き手の安全確保や担い手の継承といった課題と向き合いながらも、その熱気と伝統は今日まで途切れることなく受け継がれてきた。なお、地車を曳く祭礼は岸和田市内でも地区によって時期が分かれており、よく知られる祭礼のほかにも秋に行われるものがある。訪れる際には、やりまわしの迫力だけでなく、それを支える町の人々の一体感にも目を向けると、この祭りの本質をより深く感じられる。','## Overview
+
+The Kishiwada Danjiri Matsuri is a festival held in Kishiwada City, Osaka Prefecture, famous throughout Japan for its bold and dynamic "yarimawashi" cornering technique. Teams of pullers haul massive wooden floats called "danjiri," weighing several tons, through the streets at full speed, swinging them around corners in a single sweeping motion. This yarimawashi is the festival''s greatest spectacle and draws large crowds of spectators. With a history of more than 300 years, the festival is the moment of the year when the people of Kishiwada are at their most passionate, and it has become a core part of the region''s identity. Centered on the festival held each September, the danjiri of every neighborhood race through the town as one.
+
+## History and Origins
+
+Several theories exist regarding the origins of the Kishiwada Danjiri Matsuri. The most commonly told account holds that in 1703 (Genroku 16), the then lord of Kishiwada, Okabe Nagayasu, invited the deity of Fushimi Inari in Kyoto to be enshrined at the Sannomaru Shrine within the castle, and the townspeople held a festival to mark the occasion. This Inari festival, a prayer for a bountiful harvest, is said to have been its starting point.
+
+Another tradition holds that in 1745 (Enkyo 2), Chaya Shin''emon of the Kita-machi district observed a festival in Osaka and brought the practice back to begin the festival. Multiple such accounts coexist, and it is difficult today to determine with certainty which marks the festival''s direct origin. In any case, all of these accounts indicate that the basic form of the festival took shape in the mid-Edo period, and there is no doubt that it carries a long history spanning more than three centuries.
+
+The pulling of the danjiri subsequently developed within the merchant culture of Kishiwada, with each neighborhood owning its own float and refining its skills and spirit in friendly rivalry. Some neighborhoods lost their floats to air raids during World War II, yet the people never let the festival lapse, rebuilding and passing it on. This history of restoring the festival after each hardship speaks to the deep attachment the people of Kishiwada feel toward it.
+
+## Highlights
+
+### Yarimawashi
+
+The symbol of the Kishiwada Danjiri Matsuri is the "yarimawashi," in which the heavy float is turned at a right angle at an intersection. Swinging the massive float around in one motion without slowing down depends on the perfectly coordinated efforts of the pullers, the front and rear brake operators (maeteko and ushiroteko), and the "daikugata" who dances atop the roof. It is a feat that tests split-second judgment and strength, performed alongside genuine danger, and when it succeeds a great roar of cheers erupts.
+
+### The Dance of the Daikugata
+
+The figure of the daikugata, dancing fan in hand atop the roof of the speeding float, is another major highlight. Dancing boldly upon the violently swaying float, the daikugata is the star of the festival and draws every eye.
+
+### Faces of Day and Night
+
+By day, the full-speed pulling and the power of the yarimawashi stand out, but at night the floats are lit with numerous lanterns and the "hi-ire eiko," a slow lantern-lit procession through the town, takes place. Being able to experience both the bold daytime and the magical nighttime in a single day is part of the festival''s appeal.
+
+## Event Information and Access
+
+The Kishiwada Danjiri Matsuri is best known for the festival held each September. After trial runs, the two central days are the eve festival (yoimiya) and the main festival (hongu). Because the dates can differ by district, visitors should check the schedule of the district they wish to see.
+
+The central festival area in Kishiwada is best reached via Kishiwada Station or Takojizo Station on the Nankai Main Line, with the pulling routes spreading out from around the stations. On festival days, heavy crowds and traffic restrictions are in place, so the use of public transportation is recommended. The main intersections where the yarimawashi can be seen are especially popular, and the latest schedule, route, and viewing information should be confirmed through Kishiwada City or the festival''s official sources.
+
+## Around the Area
+
+Kishiwada Castle, which shares its name with the festival, is a symbol of the city, and the castle and its surroundings make for pleasant strolling. At the Danjiri Kaikan (Danjiri Hall), actual floats and scenes of the festival can be viewed year-round, allowing visitors to experience their power even outside the festival period. Facing Osaka Bay, Kishiwada is also a region where seafood and local flavors can be enjoyed, making it a fine place to combine the festival with a walk around town.
+
+## Additional Information
+
+The Kishiwada Danjiri Matsuri is a festival in which the strength of the local community is vividly expressed, with each neighborhood owning a float and operating under the unity of the district. While facing challenges such as ensuring the safety of the pullers and passing on the tradition to new generations, its heat and heritage have been handed down without interruption to this day. It should be noted that within Kishiwada City, the festivals in which floats are pulled are divided by district and held at different times, and in addition to the well-known festival there are others held in autumn. When visiting, paying attention not only to the power of the yarimawashi but also to the sense of unity among the townspeople who support it will allow a deeper appreciation of the festival''s essence.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7813900','東京国際レズビアン&ゲイ映画祭','Rainbow Reel Tokyo',NULL,'International film festival for LGBT audiences','Q1490','東京都','Tokyo','東京都','kanto',35.683333333,139.766666666,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%AB%E6%9D%B1%E4%BA%AC','https://en.wikipedia.org/wiki/Rainbow_Reel_Tokyo',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,1803,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7814002','〈東京の夏〉音楽祭','Tokyo Summer Festival','アリオン音楽財団が開催する音楽祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%80%88%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A4%8F%E3%80%89%E9%9F%B3%E6%A5%BD%E7%A5%AD','https://en.wikipedia.org/wiki/Tokyo_Summer_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2513,7 +2665,83 @@ INSERT INTO "festivals" VALUES('Q6417750','北上・みちのく芸能まつり'
 INSERT INTO "festivals" VALUES('Q6455253','皇霊祭','Kōreisai','宮中祭祀のひとつ','Japanese holiday',NULL,NULL,NULL,NULL,NULL,NULL,NULL,1878,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9A%87%E9%9C%8A%E7%A5%AD','https://en.wikipedia.org/wiki/K%C5%8Dreisai',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q120776905','LuckyFes','LuckyFes','日本の音楽フェスティバル','Japanese music festival',NULL,NULL,NULL,'茨城県','kanto',36.400555555,140.591388888,2022,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/LuckyFes','https://en.wikipedia.org/wiki/LuckyFes',75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7119701','教祖祭PL花火芸術','PL Art of Fireworks','パーフェクト リバティー教団（PL）の祭礼','Fireworks show in Japan','Q490928','富田林市','Tondabayashi',NULL,NULL,NULL,NULL,1953,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/PL%20Fireworks2010-5.jpg','https://ja.wikipedia.org/wiki/%E6%95%99%E7%A5%96%E7%A5%ADPL%E8%8A%B1%E7%81%AB%E8%8A%B8%E8%A1%93','https://en.wikipedia.org/wiki/PL_Art_of_Fireworks',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6080166','石取祭','Ishidori Matsuri','日本の三重県桑名市で開催される祭','festival in Kuwana, Mie, Japan','Q11537501','桑名宗社','Kuwana Sōsha','三重県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/IshidoriMatsuri.JPG','https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD','https://en.wikipedia.org/wiki/Ishidori_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q6080166','石取祭','Ishidori Matsuri','日本の三重県桑名市で開催される祭','festival in Kuwana, Mie, Japan','Q11537501','桑名宗社','Kuwana Sōsha','三重県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/IshidoriMatsuri.JPG','https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD','https://en.wikipedia.org/wiki/Ishidori_Matsuri',85,'drafted','## 概要
+
+石取祭（いしどりまつり）は、三重県桑名市の桑名宗社（春日神社）で行われる夏祭りで、「天下の奇祭」「日本一やかましい祭り」とも称される祭礼である。約40台にも及ぶ祭車（さいしゃ）が、鉦（かね）と太鼓を力いっぱい打ち鳴らしながら町を練り歩く様は、文字どおり町中を音で満たし、その独特の迫力で知られる。2007年に国の重要無形民俗文化財に指定され、2016年には「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録された。江戸時代から桑名の人々に受け継がれてきた、地域を代表する夏の風物詩である。
+
+## 歴史・由来
+
+石取祭の起源は江戸時代初期にさかのぼるといわれ、桑名城下の町人や藩士が楽しみにしていた祭礼として、当時から脈々と受け継がれてきた。「石取」という名称は、川原から石を取って神社に奉納する神事に由来すると伝えられる。町屋川（員弁川）の清浄な石を採取し、神前に供えるという行為が祭りの根底にあり、これが祭りの名の由来とされている。
+
+祭りは桑名宗社（春日神社）の祭礼として営まれ、城下町の発展とともに、各町がそれぞれの祭車を持ち、装飾や囃子を競い合うように発展していった。祭車は漆塗りや彫刻、金具などで豪華に飾り立てられ、各町の誇りと意気込みが込められている。鉦と太鼓を打ち鳴らす独特の祭礼様式は、長い年月をかけて桑名の人々のなかで磨かれ、受け継がれてきた。
+
+こうした祭車行事の伝統的価値が評価され、2007年に国の重要無形民俗文化財に指定された。さらに2016年には、全国各地の同種の祭礼とともにユネスコ無形文化遺産に登録され、その文化的価値が国際的にも認められた。江戸時代以来の歴史と、地域の人々による継承の努力が、今日の石取祭を支えている。
+
+## 見どころ
+
+### 鉦と太鼓の大音響
+
+石取祭最大の特徴は、何といっても鉦と太鼓が一斉に打ち鳴らされる圧倒的な音である。「日本一やかましい祭り」の異名のとおり、約40台の祭車が同時に奏でる音が町中に響きわたり、その熱気と迫力は他に類を見ない。耳を満たす大音響そのものが、この祭りの神髄であり、最大の見どころとなっている。
+
+### 豪華絢爛な祭車
+
+各町が所有する祭車は、漆塗りや精緻な彫刻、きらびやかな金具で飾られた工芸品ともいうべき存在である。提灯に灯がともされた祭車が連なる夜の光景は、昼間の勇壮さとはまた異なる華やかさを見せる。町ごとに趣向を凝らした祭車を見比べるのも、この祭りの楽しみのひとつである。
+
+### 本楽の渡祭
+
+祭りの中心となるのが、祭車が春日神社の前を順番に進む「渡祭（とさい）」である。各町の祭車が神社前を通過する際には、鉦と太鼓の打ち方が最高潮に達し、担い手たちの熱気が一気に高まる。祭礼のクライマックスを飾るこの場面には、多くの見物客が詰めかける。
+
+## 開催情報・アクセス
+
+石取祭は、例年8月の第1日曜日とその前日を中心に行われる。前日の試楽（しがく）から始まり、本楽（ほんがく）で最高潮を迎える流れが一般的である。夜を徹して鉦と太鼓が鳴り響くため、時間帯によって異なる表情を見せる点も特徴である。訪れる際には、目当ての行事の時間を確認しておきたい。
+
+会場の桑名宗社（春日神社）へは、JR・近鉄「桑名駅」が便利で、駅から徒歩圏内に祭りの主要なエリアが広がる。祭礼当日は交通規制や混雑が予想されるため、公共交通機関の利用が推奨される。最新の日程・行事の進行・観覧情報は、桑名市や桑名宗社の公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+桑名は、かつて東海道の宿場町・城下町として栄えた、歴史と水に恵まれた町である。木曽三川の河口に位置し、焼き蛤(はまぐり)をはじめとする豊かな食文化でも知られる。祭りとあわせて、桑名城跡や旧東海道の名残を訪ね歩くのもよい。近隣には長島温泉などの観光地もあり、伊勢・三重方面への旅とあわせて楽しむこともできる。
+
+## 関連情報
+
+石取祭は、重要無形民俗文化財・ユネスコ無形文化遺産という評価を受けながら、各町の人々の手によって今日まで守り継がれてきた、地域共同体の力が結実した祭礼である。祭車の維持や囃子の継承、安全な運行の確保といった課題と向き合いながらも、その伝統と熱気は途切れることなく受け継がれている。訪れる際には、「日本一やかましい祭り」の異名のとおりの大音響と祭車の豪華さだけでなく、川の石を神前に供えるという素朴な神事の起源や、それを支える桑名の人々の思いにも目を向けると、この祭りの奥行きをより深く味わえる。','## Overview
+
+The Ishidori Matsuri is a summer festival held at Kuwana Sosha (Kasuga Shrine) in Kuwana City, Mie Prefecture, a festival also called "the most eccentric festival under heaven" and "the noisiest festival in Japan." Some forty festival carts (saisha) parade through the town while beating gongs (kane) and drums with all their might, literally filling the entire town with sound and known for their distinctive power. It was designated a national Important Intangible Folk Cultural Property in 2007, and in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, and Yatai float events." It is a summer tradition representative of the region, handed down among the people of Kuwana since the Edo period.
+
+## History and Origins
+
+The origins of the Ishidori Matsuri are said to date back to the early Edo period, and it has been continuously handed down from that time as a festival to which the townspeople and samurai of the Kuwana castle town looked forward. The name "Ishidori" (stone-taking) is said to derive from a rite of taking stones from a riverbed and offering them to the shrine. The act of gathering pure stones from the Machiya River (Inabe River) and offering them before the deity lies at the root of the festival, and this is held to be the source of its name.
+
+The festival is conducted as a rite of Kuwana Sosha (Kasuga Shrine), and as the castle town developed, each district came to own its own festival cart, developing the tradition as if competing over decoration and music. The festival carts are lavishly adorned with lacquer, carvings, and metal fittings, embodying the pride and spirit of each district. The distinctive festival style of beating gongs and drums has been refined and handed down among the people of Kuwana over many long years.
+
+The traditional value of this festival-cart event was recognized, leading to its designation as a national Important Intangible Folk Cultural Property in 2007. Furthermore, in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list together with similar festivals from across Japan, gaining international recognition of its cultural value. Its history since the Edo period and the efforts of the local people to carry it on support the Ishidori Matsuri of today.
+
+## Highlights
+
+### The Great Sound of Gongs and Drums
+
+The greatest feature of the Ishidori Matsuri is, above all, the overwhelming sound of gongs and drums struck all at once. True to its nickname as "the noisiest festival in Japan," the sound produced simultaneously by some forty festival carts reverberates throughout the town, and its fervor and power are without parallel. The great sound that fills the ears is itself the very essence of this festival and its greatest highlight.
+
+### Splendid Festival Carts
+
+The festival carts owned by each district are works of craftsmanship, adorned with lacquer, intricate carvings, and gleaming metal fittings. The nighttime sight of festival carts lit with lanterns in procession reveals a splendor different from the boldness of daytime. Comparing the carts, each crafted with the ingenuity of its district, is one of the pleasures of this festival.
+
+### The Tosai of the Main Festival
+
+At the heart of the festival is the "tosai," in which the festival carts advance in turn before Kasuga Shrine. As each district''s cart passes before the shrine, the beating of gongs and drums reaches its peak, and the fervor of the bearers surges all at once. Many spectators throng to this scene, which forms the climax of the festival.
+
+## Event Information and Access
+
+The Ishidori Matsuri is held mainly on the first Sunday of August each year and the day before it. It typically begins with the eve festival (shigaku) on the preceding day and reaches its climax with the main festival (hongaku). Because gongs and drums sound through the night, the festival shows different faces depending on the time of day. Visitors should check the times of the events they wish to see.
+
+Kuwana Sosha (Kasuga Shrine), the venue, is conveniently reached from Kuwana Station on the JR and Kintetsu lines, with the festival''s main area spreading out within walking distance of the station. As traffic restrictions and crowds are expected on festival days, the use of public transportation is recommended. The latest schedule, progression of events, and viewing information should be confirmed through Kuwana City or Kuwana Sosha''s official sources.
+
+## Around the Area
+
+Kuwana is a town blessed with history and water, having once flourished as a post town and castle town on the Tokaido road. Located at the mouths of the three rivers of Kiso, it is also known for a rich food culture, including grilled clams (yaki-hamaguri). In keeping with the festival, exploring the ruins of Kuwana Castle and the traces of the old Tokaido is also worthwhile. Nearby are sightseeing destinations such as Nagashima Onsen, and the area can also be enjoyed as part of a trip toward the Ise and Mie region.
+
+## Additional Information
+
+The Ishidori Matsuri, while receiving recognition as an Important Intangible Folk Cultural Property and UNESCO Intangible Cultural Heritage, is a festival in which the strength of the local community is brought to fruition, protected and carried on to this day by the people of each district. While facing challenges such as the upkeep of the festival carts, the passing on of the music, and ensuring safe operation, its tradition and fervor have been handed down without interruption. When visiting, paying attention not only to the great sound true to its nickname as "the noisiest festival in Japan" and the splendor of the festival carts, but also to the humble origins of the rite of offering river stones before the deity and to the feelings of the people of Kuwana who support it, will allow a deeper appreciation of the festival''s depth.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6920834','マウント・フジ・ジャズ・フェスティバル','Mount Fuji Jazz Festival',NULL,'Music festival in Japan',NULL,NULL,NULL,'山梨県','kanto',35.4192899,138.9014125,1986,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Fuji%20Jazz%20fess%201994%208%2028%2002.jpg','https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%95%E3%82%B8%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Mount_Fuji_Jazz_Festival',90,'drafted','マウント・フジ・ジャズ・フェスティバルは、山梨県の富士急ハイランド特設会場で1986年から1998年まで毎年8月に開催された国際的ジャズフェスティバルであり、日本のジャズ史において最も重要な野外音楽イベントの一つとして記憶されている。富士山の壮大な景観を背景に、世界トップクラスのジャズミュージシャンが一堂に会したこの祭典は、最盛期には3日間で約8万人を動員し、ニューポート・ジャズ・フェスティバルやモントルー・ジャズ・フェスティバルと並ぶアジア最大級のジャズイベントとして国際的な評価を得た。
 
 フェスティバルは、米国のブルーノート・レコードの創設に関わったプロデューサー、ジョージ・ウェインが手がけた「ニューポート・ジャズ・フェスティバル」のフォーマットを富士山麓に移植する形で始まった。日本企業の協賛を得て、富士急ハイランドという既存の大規模娯楽施設を会場として活用することで、宿泊・交通・観光のインフラを一体化した稀有なフェスティバルが実現した。1986年の第1回には、マイルス・デイビス、ハービー・ハンコック、ウィントン・マルサリス、ソニー・ロリンズなど、ジャズ界の頂点に立つアーティストが集結し、その後12年間にわたってジャズ史を彩る伝説的な公演が次々と繰り広げられた。
@@ -2642,7 +2870,83 @@ The area around Meiji-dōri, the main venue, can be reached from stations such a
 
 Fukuoka, the largest city in Kyushu, is a gourmet city known for its downtown areas centered on Hakata and Tenjin and for its food-stall (*yatai*) culture. Visitors can enjoy local specialties such as Hakata ramen, *motsunabe* hotpot, and *mentaiko*. There are also abundant sights, including temples and shrines that convey the history of Hakata such as Kushida Shrine and Jōten-ji, and the ruins of Fukuoka Castle and Ōhori Park. In addition to Hakata Dontaku, the Hakata Gion Yamakasa is held in summer, and as a city where festival culture is deeply rooted, it is an area where one can savor the history, cuisine, and festivals of Fukuoka.','hakata-dontaku','hakata-dontaku',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7972772','わっしょい百万夏祭り','Wasshoi Hyakuman Natsumatsuri',NULL,'matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%A3%E3%81%97%E3%82%87%E3%81%84%E7%99%BE%E4%B8%87%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Wasshoi_Hyakuman_Natsumatsuri',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6349714','角館のお祭り','Kakunodate Festival','秋田県仙北市の神明社と成就院薬師堂の祭','Japanese festival','Q11630890','角館','Kakunodate','秋田県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kakunodate%20maturi%202008a.jpg','https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Kakunodate-matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q6349714','角館のお祭り','Kakunodate Festival','秋田県仙北市の神明社と成就院薬師堂の祭','Japanese festival','Q11630890','角館','Kakunodate','秋田県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kakunodate%20maturi%202008a.jpg','https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Kakunodate-matsuri',85,'drafted','## 概要
+
+角館のお祭り（かくのだてのおまつり）は、秋田県仙北市角館で毎年9月に行われる祭礼で、「角館祭りのやま行事」として国の重要無形民俗文化財に指定され、2016年にはユネスコ無形文化遺産にも登録された、東北を代表する秋祭りである。「みちのくの小京都」と称される城下町・角館を舞台に、各町内が曳山（ひきやま／「やま」）を曳き出し、笛・太鼓・三味線による「飾山囃子（おやまばやし）」の音色とともに町を巡行する。最大の見どころは、やま同士が進路を譲らずぶつかり合う「やまぶっつけ」であり、勇壮な迫力が訪れる人々を圧倒する。
+
+## 歴史・由来
+
+角館は、江戸時代に佐竹北家が治めた城下町として栄えた地である。武家屋敷の町並みが今も色濃く残り、その風情から「みちのくの小京都」と呼ばれている。角館のお祭りは、この城下町の伝統のなかで育まれてきた祭礼で、神事としての性格と、町人文化を背景とした華やかな曳山行事とが結びついて発展してきた。
+
+祭りで曳き出されるやまは、各町内が趣向を凝らして飾り立てるもので、武者人形や歌舞伎の名場面などを題材とした人形が乗せられ、上部には踊り手のための舞台が設けられる。この曳山を巡行させ、囃子を奏で、踊りを披露するという一連の様式が、長い年月をかけて受け継がれてきた。
+
+こうした「やま行事」の伝統的価値が高く評価され、国の重要無形民俗文化財に指定された。さらに2016年には、全国各地の同種の祭礼とともに「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、その文化的価値が国際的にも認められることとなった。城下町の歴史と、地域の人々の手による継承の努力が、今日の角館のお祭りを支えている。
+
+## 見どころ
+
+### やまぶっつけ
+
+角館のお祭り最大の見どころが、やま同士が出会った際に、互いに進路を譲らずに激しくぶつかり合う「やまぶっつけ」である。町内同士の意地と意地がぶつかる場面は緊張感に満ち、観客の目の前で繰り広げられる衝突の迫力は圧巻である。交渉の末に進路が決まることもあれば、本気のぶつかり合いに発展することもあり、その熱気は祭りの核心といえる。
+
+### 飾山囃子（おやまばやし）
+
+笛・太鼓・三味線などで奏でられる飾山囃子は、角館のお祭りを象徴する音色である。曳山の巡行に合わせて演じられ、軽快な調子から勇壮な調子まで、場面に応じて表情を変える。やまの上や周囲では、囃子に合わせて手踊りも披露され、祭り全体に華やぎを添える。
+
+### 城下町を巡る曳山
+
+武家屋敷の黒板塀が続く角館の町並みを、飾り立てられたやまが巡行する光景は、この祭りならではの美しさを見せる。歴史ある城下町の風情と、華やかな曳山行事とが一体となった眺めは、訪れる人々を惹きつけてやまない。
+
+## 開催情報・アクセス
+
+角館のお祭りは、例年9月7日から9日までの三日間にわたって行われる。日によって行事の内容が異なり、夜に向けてやまぶっつけが本格化する傾向があるため、目当てに応じて訪れる時間帯を選ぶとよい。期間中は大変な賑わいとなるため、時間に余裕を持って計画したい。
+
+会場の角館へは、JR秋田新幹線・秋田内陸縦貫鉄道「角館駅」が便利で、駅から城下町の中心部まで徒歩圏内である。祭礼当日は交通規制や混雑が予想されるため、公共交通機関の利用が推奨される。最新の日程・行事の進行・観覧情報は、仙北市や祭りの公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+角館は、武家屋敷の町並みやしだれ桜で知られる、四季を通じて魅力的な観光地である。春の桜、初夏の新緑、秋の紅葉と、季節ごとに異なる風情を楽しめる。祭りの時期にあわせて、武家屋敷の散策や郷土の味を味わうのもよい。また、近隣には田沢湖や乳頭温泉郷など、東北を代表する自然・温泉の名所も多く、あわせて訪れる旅にも適している。
+
+## 関連情報
+
+角館のお祭りは、重要無形民俗文化財・ユネスコ無形文化遺産という評価を受けながら、各町内の人々の手によって今日まで守り継がれてきた、地域共同体の力が結実した祭礼である。やまの制作や囃子・踊りの継承、安全な運行の確保といった課題と向き合いながらも、その伝統と熱気は途切れることなく受け継がれている。訪れる際には、やまぶっつけの迫力や飾山囃子の音色だけでなく、城下町の歴史と、祭りを支える地域の人々の思いにも目を向けると、この祭りの奥行きをより深く味わえる。','## Overview
+
+Kakunodate no Omatsuri (the Kakunodate Festival) is a festival held each September in Kakunodate, Semboku City, Akita Prefecture. Designated a national Important Intangible Folk Cultural Property as the "Yama Event of the Kakunodate Festival" and inscribed on the UNESCO Intangible Cultural Heritage list in 2016, it is a representative autumn festival of the Tohoku region. Set in the castle town of Kakunodate, known as the "Little Kyoto of Michinoku," each neighborhood pulls out a festival float called a "yama," parading through the town to the strains of the "oyama-bayashi" music played on flute, drum, and shamisen. The greatest highlight is the "yama-buttsuke," in which the floats collide as neither yields the way, overwhelming visitors with its bold power.
+
+## History and Origins
+
+Kakunodate flourished as a castle town governed by the Satake-Kita family during the Edo period. The streetscape of samurai residences still strongly remains, and for this atmosphere the town is called the "Little Kyoto of Michinoku." Kakunodate no Omatsuri is a festival nurtured within the traditions of this castle town, developing through the union of its character as a Shinto rite and the splendid float event rooted in merchant culture.
+
+The yama pulled out at the festival are elaborately decorated by each neighborhood, bearing figures based on warrior dolls or famous scenes from kabuki, with a stage for dancers set on the upper part. The whole style of parading these floats, playing the festival music, and performing dances has been handed down over many long years.
+
+The traditional value of this "yama event" was highly esteemed, leading to its designation as a national Important Intangible Folk Cultural Property. Furthermore, in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, and Yatai float events" together with similar festivals from across Japan, gaining international recognition of its cultural value. The history of the castle town and the efforts of the local people to carry on the tradition support the Kakunodate Festival of today.
+
+## Highlights
+
+### Yama-buttsuke
+
+The greatest highlight of Kakunodate no Omatsuri is the "yama-buttsuke," in which floats, upon meeting, refuse to yield the way to one another and collide fiercely. The scene in which the pride of one neighborhood clashes with that of another is charged with tension, and the power of the collisions unfolding right before the spectators is overwhelming. Sometimes the route is settled through negotiation, and at other times it develops into an earnest clash; this fervor can be called the heart of the festival.
+
+### Oyama-bayashi
+
+The oyama-bayashi, performed on flute, drum, shamisen, and other instruments, is the music that symbolizes Kakunodate no Omatsuri. Played to accompany the procession of the floats, it shifts its expression from lively to spirited depending on the scene. Atop and around the yama, hand dances are also performed in time with the music, adding brilliance to the festival as a whole.
+
+### Floats Through the Castle Town
+
+The sight of the ornately decorated yama parading through the streets of Kakunodate, lined with the black plank fences of samurai residences, reveals a beauty unique to this festival. The view in which the atmosphere of the historic castle town and the splendid float event become one continually draws visitors in.
+
+## Event Information and Access
+
+Kakunodate no Omatsuri is held over three days each year, from September 7 to 9. The content of the events differs by day, and the yama-buttsuke tends to intensify toward the evening, so visitors should choose the time of their visit according to what they wish to see. As the period is extremely lively, it is best to plan with plenty of time to spare.
+
+Kakunodate is conveniently reached via Kakunodate Station on the JR Akita Shinkansen and the Akita Nairiku Jukan Railway, with the center of the castle town within walking distance of the station. As traffic restrictions and crowds are expected on festival days, the use of public transportation is recommended. The latest schedule, progression of events, and viewing information should be confirmed through Semboku City or the festival''s official sources.
+
+## Around the Area
+
+Kakunodate is an attractive sightseeing destination throughout the four seasons, known for its streets of samurai residences and its weeping cherry trees. Spring cherry blossoms, early-summer greenery, and autumn foliage offer different charms in each season. In keeping with the festival, strolling among the samurai residences and savoring local flavors is also a fine choice. Nearby are many of Tohoku''s representative natural and hot-spring attractions, such as Lake Tazawa and the Nyuto Onsen hot-spring villages, making the area well suited to a combined journey.
+
+## Additional Information
+
+Kakunodate no Omatsuri, while receiving recognition as an Important Intangible Folk Cultural Property and UNESCO Intangible Cultural Heritage, is a festival in which the strength of the local community is brought to fruition, protected and carried on to this day by the people of each neighborhood. While facing challenges such as the making of the yama, the passing on of the music and dance, and ensuring safe operation, its tradition and fervor have been handed down without interruption. When visiting, paying attention not only to the power of the yama-buttsuke and the strains of the oyama-bayashi but also to the history of the castle town and the feelings of the local people who support the festival will allow a deeper appreciation of its depth.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q8054630',NULL,'Yokohama Jazz Festival',NULL,'jazz festival',NULL,NULL,NULL,'神奈川県','kanto',35.3794,139.647,NULL,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Yokohama_Jazz_Festival',35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6003417','伊万里トンテントン祭り','Imari Ton-Ten-Ton Festival',NULL,'annual fighting festival held in Japan','Q857266','伊万里市','Imari','佐賀県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E9%87%8C%E3%83%88%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88%E3%83%B3%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Imari_Ton-Ten-Ton_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11615626','山形花笠まつり','Yamagata Hanagasa Festival','山形県山形市で開催される祭','tōhoku Japanese festival',NULL,NULL,NULL,'山形県','tohoku',NULL,NULL,1963,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hanagasa%20Festa%202002.jpg',NULL,'https://en.wikipedia.org/wiki/Yamagata_Hanagasa_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -5137,7 +5441,83 @@ INSERT INTO "festivals" VALUES('Q38277088','騎馬武者ロックフェス',NULL
 INSERT INTO "festivals" VALUES('Q48748728','江差かもめ島祭り','Esashi Kamomejima Festival',NULL,NULL,NULL,NULL,NULL,'北海道','hokkaido',41.866013833,140.118369833,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%AE%E3%81%8B%E3%82%82%E3%82%81%E5%B3%B6%E7%A5%AD%E3%82%8A',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q56347969','鳴門市納涼花火大会','Naruto Fireworks Festival','徳島県鳴門市で開催される花火大会',NULL,'Q17217384','撫養川親水公園','Muya River Park','徳島県','shikoku',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E5%B8%82%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q65236261','むらやま徳内まつり','Murayama Tokunai Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q60848673','十日えびす','Tōka Ebisu','1月10日前後に関西地方で行われる年中行事',NULL,'Q705297','西宮神社','Nishinomiya Shrine','兵庫県','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Horikawaebisu-jinja%20Osaka%20Japan04-r.jpg','https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q60848673','十日えびす','Tōka Ebisu','1月10日前後に関西地方で行われる年中行事',NULL,'Q705297','西宮神社','Nishinomiya Shrine','兵庫県','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Horikawaebisu-jinja%20Osaka%20Japan04-r.jpg','https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99',NULL,85,'drafted','## 概要
+
+十日えびす（とおかえびす）は、商売繁盛の神様として親しまれる「えびす様（えべっさん）」をまつる祭礼で、毎年1月に行われる新春の風物詩である。なかでも兵庫県西宮市の西宮神社は、全国に約3,500社あるといわれるえびす神社の総本社「えびす宮総本社」として知られ、その十日えびすは特に名高い。1月9日の宵えびす、10日の本えびす、11日の残り福と、三日間にわたって多くの参拝者が福を求めて訪れる。とりわけ10日早朝に行われる「開門神事 福男選び」は、勇壮かつユニークな神事として全国に知られ、新年の話題をにぎわせる。
+
+## 歴史・由来
+
+えびす信仰は、漁業の神、そして商売繁盛・福徳の神として、古くから日本各地で広く親しまれてきた。鯛を抱え釣り竿を持つ姿で描かれるえびす様は、人々に最も身近な福の神のひとつである。西宮神社はそのえびす信仰の中心地として、長い歴史のなかで篤い崇敬を集めてきた。
+
+毎年1月10日を中心とする十日えびすは、一年の商売繁盛と家内安全を願う祭礼として定着し、参拝者は「福笹（ふくざさ）」や縁起物を求めて社頭に列をなす。福笹に小判や俵などの小宝（こだから）を結びつけて持ち帰る習わしは、新年に福を授かる象徴的な光景である。
+
+西宮神社の名物として全国に知られる「開門神事 福男選び」も、長い歴史を持つ神事である。一時は二十年ほど続いたとされるが、終戦直前の空襲によって社殿が全焼したため翌年から中止を余儀なくされた。その後、南門が新設されたのを機に復活し、今日まで受け継がれている。戦災による中断を乗り越えて再興された経緯は、この神事が地域の人々にとっていかに大切なものであったかを物語っている。
+
+## 見どころ
+
+### 開門神事 福男選び
+
+十日えびす最大の名物が、本えびすの1月10日早朝に行われる「開門神事 福男選び」である。表大門が開かれると同時に、待ち構えた大勢の参拝者が本殿を目指して一斉に駆け出す。本殿に到達した順に「福男」が選ばれ、その年の幸運を授かるとされる。境内を全力で駆け抜ける人々の熱気と、最後まで結末がわからない展開は、毎年大きな注目を集める。
+
+### 福笹と縁起物
+
+商売繁盛を願う人々が求めるのが、笹に縁起物を結びつけた福笹である。「商売繁盛で笹もってこい」の掛け声とともに授与される福笹は、十日えびすを象徴する縁起物であり、これを目当てに訪れる参拝者も多い。社頭には数多くの露店も並び、新春らしい活気に包まれる。
+
+### 三日間の賑わい
+
+祭礼は1月9日の宵えびすに始まり、10日の本えびすで最高潮を迎え、11日の残り福へと続く。三日間を通じて途切れることのない参拝者の波が、新年の福を求める人々の願いの強さを伝えている。
+
+## 開催情報・アクセス
+
+十日えびすは、例年1月9日（宵えびす）・10日（本えびす）・11日（残り福）の三日間にわたって行われる。福男選びは10日の早朝に実施される。期間中、特に本えびすの10日は終日大変な賑わいとなるため、時間に余裕を持って訪れたい。
+
+西宮神社へは、阪神電車「西宮駅」が最寄りで、駅から徒歩圏内に位置する。JRや阪急の最寄り駅からもアクセスできる。期間中は周辺が大変混雑し、交通規制が敷かれることもあるため、公共交通機関の利用が推奨される。最新の日程・神事の詳細・参拝情報は、西宮神社の公式情報で確認するのが確実である。
+
+## 周辺の見どころ
+
+西宮は、阪神間に位置し、古くからの社寺や酒造の文化で知られる地域である。西宮神社の周辺には、初詣や新春の参拝とあわせて楽しめる名所が点在している。少し足を延ばせば、阪神間ならではの落ち着いた街並みや海辺のエリアにもアクセスしやすい。新年の福を授かったあとに、周辺をめぐって阪神間の風情を味わうのもよいだろう。
+
+## 関連情報
+
+十日えびすは、西宮神社を総本社としながら、大阪の今宮戎神社や京都の恵美須神社など、各地のえびす神社でも盛大に行われ、関西の新春を代表する祭礼となっている。商売繁盛を願う人々の信仰に支えられ、福笹や福男選びといった独特の習わしが今日まで受け継がれてきた。社殿の焼失という困難を経てなお神事を再興してきた歴史は、この祭礼が地域に深く根づいていることを示している。訪れる際には、賑わいや福男選びの迫力だけでなく、人々が一年の福を願う素朴な祈りの心にも目を向けたい。','## Overview
+
+Toka Ebisu is a festival honoring "Ebisu" (affectionately called "Ebessan"), the deity cherished as the god of prosperous business, and it is a seasonal highlight of the new year held every January. Among the many sites that celebrate it, Nishinomiya Shrine in Nishinomiya City, Hyogo Prefecture, is especially renowned as the "head shrine of all Ebisu shrines," the chief of the roughly 3,500 Ebisu shrines said to exist throughout Japan. Over three days—the eve festival (yoi-ebisu) on January 9, the main festival (hon-ebisu) on the 10th, and the lingering blessing (nokori-fuku) on the 11th—great numbers of worshippers visit in search of good fortune. The "opening-gate ritual and selection of the Lucky Man (fuku-otoko)," held in the early morning of the 10th, is especially famous nationwide as a spirited and unique rite that enlivens the news of the new year.
+
+## History and Origins
+
+Faith in Ebisu has long been widely cherished across Japan, as a god of fishing and as a god of prosperous business and good fortune. Depicted holding a sea bream and a fishing rod, Ebisu is one of the most familiar gods of fortune to the people. Nishinomiya Shrine, as the center of this Ebisu faith, has drawn deep reverence throughout its long history.
+
+Toka Ebisu, centered on January 10 each year, became established as a festival to pray for a year of prosperous business and household safety, and worshippers line up before the shrine seeking "fukuzasa" (lucky bamboo branches) and auspicious items. The custom of tying small treasures (kodakara) such as koban coins and rice bales to a fukuzasa and bringing it home is a symbolic sight of receiving fortune in the new year.
+
+The "opening-gate ritual and selection of the Lucky Man," known nationwide as a specialty of Nishinomiya Shrine, is also a rite with a long history. It is said to have continued for some twenty years at one point, but because the shrine buildings were completely destroyed by an air raid just before the end of the war, it was forced to cease the following year. It was later revived when a new south gate was built, and it has been carried on to this day. The way it was restored after a wartime interruption speaks to how precious this rite was to the people of the region.
+
+## Highlights
+
+### The Opening-Gate Ritual and the Lucky Man
+
+The greatest attraction of Toka Ebisu is the "opening-gate ritual and selection of the Lucky Man," held in the early morning of hon-ebisu on January 10. The moment the main front gate opens, the great crowd of waiting worshippers dashes off all at once toward the main hall. Those who reach the main hall first are chosen as "fuku-otoko" (Lucky Men) and are said to receive that year''s good fortune. The fervor of people sprinting through the precincts at full speed, and the suspense of an outcome unknown until the very end, draw great attention every year.
+
+### Fukuzasa and Auspicious Items
+
+What people praying for prosperous business seek is the fukuzasa, a bamboo branch hung with auspicious items. Granted to the cry of "Bring your bamboo for prosperous business," the fukuzasa is an emblem of Toka Ebisu, and many worshippers visit with it as their goal. Numerous food stalls also line the approach, filling the grounds with the lively spirit of the new year.
+
+### Three Days of Festivity
+
+The festival begins with yoi-ebisu on January 9, reaches its climax with hon-ebisu on the 10th, and continues into nokori-fuku on the 11th. The unbroken waves of worshippers throughout the three days convey the strength of people''s wishes as they seek fortune for the new year.
+
+## Event Information and Access
+
+Toka Ebisu is held over three days each year: January 9 (yoi-ebisu), 10 (hon-ebisu), and 11 (nokori-fuku). The selection of the Lucky Man takes place in the early morning of the 10th. During this period, and especially on hon-ebisu on the 10th, the shrine is extremely crowded all day, so visitors should allow plenty of time.
+
+Nishinomiya Shrine is most easily reached from Nishinomiya Station on the Hanshin Electric Railway, located within walking distance of the station. It can also be accessed from nearby JR and Hankyu stations. During the festival the surrounding area becomes very crowded and traffic restrictions may be in place, so the use of public transportation is recommended. The latest schedule, ritual details, and visiting information should be confirmed through the official sources of Nishinomiya Shrine.
+
+## Around the Area
+
+Nishinomiya, located in the Hanshin area between Osaka and Kobe, is a region known for its old shrines and temples and its sake-brewing culture. Around Nishinomiya Shrine are scattered sites that can be enjoyed together with a new year''s visit. A short trip away brings easy access to the calm townscapes characteristic of the Hanshin area and to the seaside districts. After receiving the new year''s fortune, exploring the surroundings to savor the atmosphere of the Hanshin region is also a fine choice.
+
+## Additional Information
+
+While Nishinomiya Shrine serves as its head shrine, Toka Ebisu is also celebrated grandly at Ebisu shrines throughout the region, such as Imamiya Ebisu Shrine in Osaka and Ebisu Shrine in Kyoto, making it a festival representative of the new year in the Kansai region. Supported by the faith of people praying for prosperous business, distinctive customs such as the fukuzasa and the selection of the Lucky Man have been handed down to the present. The history of reviving the rite even after the hardship of the loss of the shrine buildings shows how deeply rooted this festival is in the region. When visiting, it is worth paying attention not only to the festivity and the excitement of the Lucky Man selection, but also to the simple, prayerful hearts of people wishing for a year of good fortune.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48758315','羽浦神社','Hanoura Shrine','徳島県阿南市羽ノ浦町中庄にある神社','Shinto shrine in Tokushima Prefecture, Japan',NULL,NULL,NULL,'徳島県','shikoku',33.964836,134.629643,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Haura-jinja%20%28anan%29.jpg','https://ja.wikipedia.org/wiki/%E7%BE%BD%E6%B5%A6%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
 
 羽浦神社（はのうらじんじゃ）は、徳島県阿南市羽ノ浦町中庄（はのうらちょうなかしょう）に鎮座する神社で、誉田別命（ほんだわけのみこと・応神天皇）を主祭神として祀る古社である。羽ノ浦町の総鎮守として地域住民に篤く崇敬され、阿波国南部の歴史と農耕文化を伝える郷社として継承されてきた。
