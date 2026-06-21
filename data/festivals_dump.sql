@@ -2859,7 +2859,60 @@ Komatsu City is endowed with historical and natural attractions, including the A
 
 Viewed alongside the float culture of Takaoka and Johana in Toyama Prefecture and other parts of Hokuriku, as well as the traditions of children''s kabuki and local theater across Japan, the Otabi Matsuri''s hikiyama children''s kabuki offers a deeper understanding of the rich festival culture nurtured by Hokuriku''s townspeople. Held in May (spring) in Komatsu City, Ishikawa Prefecture, the festival traces its origins to around 1640, while the children''s kabuki performances began in 1951. The children''s kabuki event is an Intangible Folk Cultural Property of Ishikawa Prefecture, and the eight surviving floats are Tangible Cultural Properties of Komatsu City.
 ','otabi-matsuri','otabi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11272648','てだこまつり','Urasoe Tedako Festival',NULL,NULL,'Q695895','浦添市','Urasoe',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tedako%20Matsuri%20festival%20brings%20communities%20together%20140720-M-LN208-489.jpg','https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A0%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11272648','てだこまつり','Urasoe Tedako Festival',NULL,NULL,'Q695895','浦添市','Urasoe','沖縄県','okinawa',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Tedako%20Matsuri%20festival%20brings%20communities%20together%20140720-M-LN208-489.jpg','https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A0%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+てだこまつりは、沖縄県浦添市で毎年10月に行われる市民祭である。「てだこ」とは沖縄の言葉で「太陽の子」を意味し、その名は、かつて浦添を都として活躍した琉球国王・英祖王（えいそおう）の神号「英祖日子（えそのてだこ）」に由来する。浦添市民の一体感を育む祭りとして親しまれ、勇壮な演舞や花火、多彩なイベントによって秋の浦添を華やかに彩る。
+
+正式には「浦添てだこまつり」と呼ばれ、勇壮な演舞を競う「てだこ演舞まつり」や、家族連れで楽しめる「ポケットフェスタ」など、複数のプログラムから構成される。琉球王国発祥の地としての深い歴史と、現代の市民が集う賑わいが融合した、浦添を代表する一大行事である。
+
+## 歴史・由来
+
+てだこまつりの名の由来となった英祖王は、13世紀に浦添を都とした琉球の名君である。浦添は、琉球王国がのちに首里へ都を移すまで王都として栄えた地であり、英祖王は平和と繁栄をもたらした王として今に語り継がれている。その神号「英祖日子（えそのてだこ）」、すなわち「太陽の子」が、祭りの名に冠されている。英祖王が生まれたと伝わる伊祖グスクや、その陵墓とされる浦添ようどれなど、王にまつわる史跡が今も浦添の各所に残されており、浦添が琉球王国の礎を築いた由緒ある土地であるという誇りが、この祭りの根底に流れている。
+
+てだこまつりは、こうした浦添の歴史的アイデンティティを基盤に、市民のまとまりを作ることを目的として始められた市民祭である。回を重ねるごとに規模を広げ、現在では浦添市の秋を代表する一大イベントへと発展した。市民が主体となって演舞や催しに参加し、地域の絆を確かめ合う場として、また浦添の歴史と文化を次世代へ伝える機会として、毎年営まれている。近年では浦添三大王統まつりなど、浦添の王統の歴史にちなんだ催しも加わり、まつりを通じて琉球王国発祥の地としての歩みを振り返る性格も強まっている。
+
+## 見どころ
+
+最大の見どころは、勇壮な演舞を競う「てだこ演舞まつり」である。市民や各団体が日頃の練習の成果を披露し、力強い演舞でまつりを盛り上げる。沖縄の伝統芸能であるエイサーをはじめ、創作演舞などが次々と繰り広げられ、太鼓の響きと熱気が会場を包む。出演団体は地域の自治会や学校、サークルなど多岐にわたり、それぞれが趣向を凝らした演舞を披露することで、まつりは市民総出の催しとなる。夜には花火が打ち上げられ、秋の夜空を彩る光景もまつりのハイライトの一つとなっている。
+
+また、家族連れで楽しめる「ポケットフェスタ」では、さまざまなブースやステージイベント、ゲストによるライブなどが催され、子どもから大人まで幅広い世代が一日中楽しめる。浦添の歴史にちなんだ催しや展示も行われ、まつりを通じて琉球王国発祥の地としての浦添を体感できる。市民が主役となって作り上げる手づくりの賑わいと、浦添ならではの歴史的な深みが両立している点が、てだこまつりの大きな魅力である。
+
+## 開催情報・アクセス
+
+てだこまつりは毎年10月に、沖縄県浦添市で行われる。会場では「てだこ演舞まつり」や「ポケットフェスタ」など複数のプログラムが、数日間にわたって展開される。期間中には花火の打ち上げも行われ、多くの来場者で賑わう。
+
+浦添市は沖縄本島中南部、那覇市の北に隣接して位置する。那覇市内からは沖縄都市モノレール（ゆいレール）や路線バス、自動車でのアクセスとなる。まつり当日は会場周辺で交通規制が敷かれることがあるため、公共交通機関の利用や臨時の案内に従っての来場が推奨される。
+
+## 周辺の見どころ
+
+浦添市は琉球王国発祥の地として、英祖王ゆかりの史跡が点在する。英祖王の陵墓と伝えられる「浦添ようどれ」や、英祖王が生まれたと伝わる「伊祖グスク」など、琉球の歴史を物語る場所が残されている。浦添城跡周辺は史跡公園として整備され、琉球王国の黎明期に思いをはせることができる。また、沖縄三大夜景の一つに数えられる浦添の夜景も知られており、まつりと併せて浦添の歴史と自然の双方を楽しむことができる。
+
+## 関連情報
+
+- 開催月: 10月
+- 都道府県: 沖縄県
+- 開催地: 浦添市
+- 種別: 市民祭
+- 名の由来: 琉球国王・英祖王の神号「英祖日子（えそのてだこ・太陽の子）」
+- 主な行事: てだこ演舞まつり・ポケットフェスタ・花火
+- 周辺: 浦添ようどれ（英祖王の陵墓）・伊祖グスク・浦添城跡
+','## Overview
+The Tedako Festival (Tedako Matsuri) is one of the largest summer-to-autumn festivals in Urasoe City, Okinawa Prefecture, drawing crowds from across the central Okinawa region. The festival''s name derives from "Teda-ko," meaning "child of the sun," the divine title of King Eiso (Eiso-no-Teda-ko), the 13th-century Ryukyuan monarch closely associated with Urasoe. Held in October over two days, the event combines a grand stage program, a fireworks display, and the long-running "Tedako Walk," a walking event that has become a signature part of the city''s identity.
+
+## History & Origins
+The festival is rooted in the legend of King Eiso, who according to tradition was conceived after his mother received a vision of the sun, giving rise to the epithet "Teda-ko" (child of the sun). Urasoe served as the royal capital of the Ryukyu Kingdom before the seat of power moved to Shuri, and the nearby Urasoe Castle (Urasoe Gusuku) and the Iso Gusuku area are tied to Eiso''s reign. The modern Tedako Festival was established as a civic event to celebrate this heritage and to foster community pride, taking the solar imagery of its legendary king as its central theme. Over the years it has grown from a local gathering into one of the representative festivals of central Okinawa.
+
+## Highlights
+The two-day program centers on a large outdoor stage featuring Okinawan performing arts such as eisa drum dancing, modern music acts, and citizen participation programs. The fireworks display is among the most anticipated moments, illuminating the October night sky over Urasoe. The "Tedako Walk," held in connection with the festival period, invites participants to traverse routes through the city, blending sightseeing, health, and community spirit. The combination of traditional Ryukyuan culture and contemporary entertainment gives the festival broad appeal across generations.
+
+## Access & Information
+The Tedako Festival is held in Urasoe City, Okinawa Prefecture, typically over a weekend in October (for example, October 17-18). Urasoe is located just north of Naha and is accessible by car or bus from central Naha; the Okinawa Urban Monorail (Yui Rail) serves nearby areas, with bus connections to the festival venues. Because parking is limited during the event, visitors are encouraged to use public transportation. Exact dates and venue details are announced annually by the city and the festival organizers.
+
+## Around the Area
+Visitors can combine the festival with a visit to Urasoe Castle Ruins (Urasoe Gusuku) and the Urasoe Yodore, the royal mausoleum associated with King Eiso and later kings, which offer panoramic views and a window into the early history of the Ryukyu Kingdom. The Urasoe Art Museum, known for its collection of Ryukyuan lacquerware, is also nearby. Central Okinawa''s beaches and the cultural attractions of neighboring Naha are within easy reach.
+
+## Related Information
+The Tedako Festival is part of Okinawa''s rich calendar of community festivals, which often blend Ryukyuan history, eisa performance, and modern civic celebration. For travelers interested in the broader heritage behind the festival, the story of King Eiso and the role of Urasoe as an early Ryukyuan capital provide valuable historical context.','urasoe-tedako-matsuri','urasoe-tedako-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11271457','定禅寺ストリートジャズフェスティバル','Jozenji Street Jazz Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%A6%85%E5%AF%BA%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11278423','まつりつくば','Matsuri Tsukuba',NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%A4%E3%81%8F%E3%81%B0',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11270952','たけふ菊人形','Takefu Chrysanthemum Doll Festival','毎年10月上旬から11月上旬にかけて福井県越前市の武生中央公園で行われる菊人形',NULL,'Q18337240','武生中央公園','Takefu Central Park','福井県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Takefu%20Chrysanthemum%20Doll%20Festival%202014-01.jpg','https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%91%E3%81%B5%E8%8F%8A%E4%BA%BA%E5%BD%A2',NULL,85,'drafted','たけふ菊人形は、福井県越前市の武生中央公園で毎年10月上旬から11月上旬にかけて開催される、日本有数の菊の祭典です。1952年（昭和27年）に始まり、半世紀以上の歴史を重ねてきた「日本最大級の菊人形展」として知られています。秋の深まりとともに、色とりどりの菊花が会場を埋め尽くし、越前の街を華やかに彩ります。
@@ -3589,7 +3642,61 @@ A short trip to central Akita City offers abundant highlights, such as Senshū P
 The Float Events of the Tsuchizaki Shinmei Shrine Festival was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. It is one of Akita''s representative summer festivals, conveying the history of the port town of Tsuchizaki and the spirit of its people to the present day.
 
 Please note that the origins and the details of its history partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','tsuchizaki-shinmei-sha-matsuri','tsuchizaki-shinmei-sha-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'drafted','## 概要
+
+那覇大綱挽（なはおおつなひき）は、沖縄県那覇市で毎年10月に行われる伝統行事であり、「那覇まつり」の中心を成す催しである。国道を東西に分けて巨大な綱を引き合うまつりで、その大綱は全長約200メートル、重さ約40トンに及び、1995年にはギネスブックに「世界最大の綱」として登録された。琉球王国時代から受け継がれてきた伝統を背景に、繁栄や幸福への願いを込めて繰り広げられる約30分の激闘は、沖縄最大の伝統文化催事として知られる。
+
+那覇大綱挽は那覇三大祭りの一つに数えられ、地元の人々だけでなく、毎年多くの観光客が国内外から訪れる、那覇を代表する秋の行事である。巨大な綱を数万人が引き合う光景は、沖縄の祭りのなかでも随一の迫力を誇る。
+
+## 歴史・由来
+
+那覇大綱挽は、琉球王国時代の「那覇四町綱（なはゆまちづな）」の伝統を引き継ぐ、長い歴史を有する行事である。その発祥は西暦1450年頃とされ、もともと地方の農村行事として行われていた綱引きが、那覇の町の発展とともに大規模な行事へと姿を変えていった。琉球王国の中心都市であった那覇において、町を挙げて行われる綱引きは、地域の繁栄と人々の結束を象徴する重要な催事として受け継がれてきた。綱を引くという素朴な行為に、豊穣や繁栄を願う人々の祈りが込められていたのである。
+
+時代の変遷のなかで一時途絶えた時期もあったが、戦後に復興され、現在では沖縄最大規模の伝統文化催事として定着している。1995年には、全長約200メートル・重さ約40トンに達した大綱が、世界最大の綱としてギネスブックに登録され、その規模が国際的にも認められた。近年の大綱も全長160メートル・重さ35トン級に達し、毎年その年に新たに、多くの市民の手によって編み上げられる。本綱から枝分かれした無数の手綱を引き手が握ることで、数万人もの人々が同時に綱を引くことができる仕組みになっている。琉球の歴史と那覇の人々の誇りを今に伝える行事として、世代を超えて多くの参加者を集めている。
+
+## 見どころ
+
+最大の見どころは、文字どおり国道を埋め尽くす巨大な綱の引き合いである。東西に分かれた二本の綱が中央で結び合わされ、「ハーイヤ」のかけ声に合わせて、数万人もの引き手が一斉に綱を引く光景は圧巻である。約30分にわたる激闘の末に勝敗が決し、東が勝てば豊作、西が勝てば大漁になると伝えられている。勝負の行方に観客も一体となって熱狂し、会場全体が大きな興奮に包まれる。
+
+綱引きに先立っては、勇壮な旗頭（はたがしら）の行列や、伝統的な衣装をまとった演舞などが行われ、まつりを盛り上げる。引き合いの後には、巨大な綱の一部を縁起物として切り取り、持ち帰る人々の姿も見られる。大綱から切り取られた縄は幸運を呼ぶとされ、まつりの締めくくりを彩る光景となっている。那覇まつり全体としては、綱引きのほかにも市民演芸やステージイベント、市民パレードなど多彩な催しが行われ、街全体が数日間にわたって祭りの熱気に包まれる。那覇大綱挽は、こうした那覇まつりのなかでも最大の呼び物として、まつり全体を象徴する存在となっている。
+
+## 開催情報・アクセス
+
+那覇大綱挽は毎年10月（体育の日の前後の連休）に、沖縄県那覇市の国道58号久茂地交差点付近を主会場として行われる。那覇まつりの期間中に開催され、綱引き本番のほか、関連する催しが市内各所で繰り広げられる。
+
+会場は那覇市の中心部に位置し、沖縄都市モノレール（ゆいレール）の県庁前駅や美栄橋駅から徒歩圏内とアクセスが良い。まつり当日は会場周辺で大規模な交通規制が敷かれ、大変な混雑となるため、公共交通機関の利用が強く推奨される。
+
+## 周辺の見どころ
+
+那覇市は沖縄県の県庁所在地であり、見どころが豊富である。世界遺産に登録された首里城跡をはじめ、琉球王国の歴史を伝える史跡が点在する。土産物店や飲食店が立ち並ぶ国際通りは、まつり会場からもほど近く、沖縄の食や文化を気軽に楽しむことができる。まつりと併せて那覇の街を巡れば、琉球王国の歴史と現代の活気の双方に触れることができる。
+
+## 関連情報
+
+- 開催月: 10月（体育の日前後の連休）
+- 都道府県: 沖縄県
+- 開催地: 那覇市（国道58号久茂地交差点付近 ほか）
+- 種別: 伝統行事（那覇まつりの中心催事）
+- 規模: 全長約200m・重さ約40トン（1995年ギネスブック登録）
+- 由来: 琉球王国時代の那覇四町綱（発祥は1450年頃）
+- 言い伝え: 東が勝てば豊作・西が勝てば大漁
+- 周辺: 首里城跡（世界遺産）・国際通り
+','## Overview
+The Naha Festival (Naha Matsuri) is one of Okinawa Prefecture''s largest autumn festivals, held in Naha City around the Sports Day holiday period in October. Its centerpiece is the Naha Great Tug-of-War (Naha Otsunahiki), a spectacular event in which an enormous rice-straw rope is pulled by tens of thousands of participants. The rope has been recognized by Guinness World Records as the largest rope of its kind, and the festival as a whole combines this dramatic contest with parades, stage performances, and fireworks.
+
+## History & Origins
+The tradition of the Naha Great Tug-of-War traces its roots to around the mid-15th century, during the era of the Ryukyu Kingdom, when tug-of-war rituals were performed as prayers for good harvests, prosperity, and communal harmony. The event was historically tied to the prosperity of the port town of Naha. After a long interruption, the modern tug-of-war was revived in the postwar period as a symbol of the city''s recovery and identity, and the rope''s extraordinary scale eventually earned Guinness World Records recognition in 1995 (with the rope measured at roughly 160-200 meters and weighing on the order of 35-40 tons in record-setting years).
+
+## Highlights
+The Great Tug-of-War divides the city into east and west sides, each pulling a massive rope joined at the center by a giant wooden pin called the "kanuchi-bo." Before the pull begins, a ceremonial confrontation of decorated banner-bearers and the cheers of the crowd build the atmosphere. Once the signal is given, an estimated tens of thousands of participants—residents and visitors alike—heave together in a contest that is as much a communal ritual as a competition. After the event, pieces of the sacred rope are cut and taken home as talismans believed to bring good fortune. The surrounding festival program includes a colorful citizens'' parade along Kokusai Street and fireworks.
+
+## Access & Information
+The Naha Festival is held in Naha City, Okinawa Prefecture, typically over three days around the October Sports Day weekend, with the Great Tug-of-War taking place on Route 58 near the Kumoji area. Naha is easily reached via Naha Airport, and the city center is served by the Okinawa Urban Monorail (Yui Rail). Because major roads are closed during the tug-of-war, visitors should rely on the monorail and public transport. Exact dates and the tug-of-war schedule are announced each year by the organizing committee.
+
+## Around the Area
+The festival venues are close to Naha''s main attractions, including the lively Kokusai Street shopping district, the Tsuboya pottery district, and Fukushu-en Garden. Shurijo Castle, the historic seat of the Ryukyu Kingdom, is a short monorail ride away and provides essential context for understanding the kingdom-era origins of the tug-of-war tradition. Naha also serves as a gateway to the beaches and islands of the wider Okinawa region.
+
+## Related Information
+The Naha Great Tug-of-War belongs to a broader Okinawan and East Asian tradition of large-scale ritual tug-of-war events held as prayers for prosperity and good harvests. Its Guinness World Records status makes it a notable draw for international visitors, and it pairs naturally with exploration of Ryukyuan history at sites such as Shurijo Castle and the cultural districts of central Naha.','naha-otsunahiki','naha-otsunahiki',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7398902','佐賀インターナショナルバルーンフェスタ','Saga International Balloon Fiesta','日本の佐賀県で行われる熱気球の競技会・イベント','Hot air balloon festival in Saga, Japan',NULL,NULL,NULL,'佐賀県','kyushu',33.255555555,130.244444444,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saga%20balloon%202007%201.jpg','https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF','https://en.wikipedia.org/wiki/Saga_International_Balloon_Fiesta',100,'drafted','## 概要
 
 佐賀インターナショナルバルーンフェスタは、毎年10月下旬から11月初旬にかけて佐賀県佐賀市で開催される、アジア最大級の熱気球競技大会です。佐賀平野を流れる嘉瀬川河川敷を会場に、世界各国から100機を超える色とりどりの熱気球が集結し、5日間の開催期間中に約80万人もの観客が訪れる、佐賀を代表する秋の風物詩となっています。
@@ -8971,7 +9078,81 @@ INSERT INTO "festivals" VALUES('Q11568981','熊野速玉祭','Kumano Hayatama Ma
 The festival unfolds over two days. On the 15th, the "Shinme Togyo" rite sees a sacred horse, carrying the divine spirit, parade through the parishioners'' district. The "Mifune Matsuri" boat festival on the 16th is the main highlight. In this dramatic riverborne procession, nine swift boats race around Mifune Island on the Kumano River, escorting the sacred vessel bearing the divine spirit. The swift boats speeding across the water, the spray, and the chants of the rowers fill Kumano''s sacred river with fervor.
 
 Kumano Hayatama Taisha has long been one of the centers of Kumano faith, famed for the "Kumano pilgrimage," a sacred site visited by countless people from retired emperors and aristocrats to commoners. Its grand festival, the Kumano Hayatama Matsuri, is deeply tied to the sacred flow of the Kumano River, distinguished by its expression of the deities'' procession by boat. Designated an Important Intangible Folk Cultural Property of Japan in 2016, it conveys the essence of Kumano''s nature worship and festival culture to the present day.','kumano-hayatama-matsuri','kumano-hayatama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11566794','灘のけんか祭り','Nada no kenka matsuri',NULL,'festival in Himeji, Japan',NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nada%20no%20Kenka%20matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11566794','灘のけんか祭り','Nada no kenka matsuri',NULL,'festival in Himeji, Japan',NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Nada%20no%20Kenka%20matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,80,'drafted','## 概要
+
+灘のけんか祭りは、兵庫県姫路市の松原八幡神社で毎年10月14日・15日に行われる秋季例大祭である。「灘祭り」とも呼ばれ、3基の神輿を勢いよくぶつけ合わせる神事と、絢爛豪華な7台の屋台（やぐら）の練り合わせで知られる、日本でも有数の勇壮な祭りである。神輿同士を激しく衝突させるその荒々しさから「けんか祭り」の名で全国に知られ、毎年2日間で十数万人の見物客を集める。
+
+宵宮（14日）と本宮（15日）の二日間にわたって繰り広げられ、白装束や法被をまとった男たちが重い神輿や屋台を担ぎ上げる姿は、播州の秋を代表する光景となっている。神輿のぶつかり合いという荒々しい神事と、豪華絢爛な屋台練りという華やかさ、二つの異なる魅力を併せ持つ点が、この祭りを全国でも屈指の名祭たらしめている。
+
+## 歴史・由来
+
+灘のけんか祭りは、松原八幡神社の秋季例大祭として古くから営まれてきた祭礼である。松原八幡神社は姫路市東部の灘地区に鎮座し、周辺の旧七ヶ村、すなわち旧東山・木場・松原・八家・宇佐崎・中村・妻鹿の氏子によって祭りが支えられてきた。各村がそれぞれ屋台を擁し、毎年交代で祭りの中心的役割を担う「練り番（年番）」を務める仕組みが受け継がれており、7村あるため練り番は7年に1度巡ってくる役目となっている。練り番を務める村は神輿を担ぐ大役を担い、その年の祭りの顔となるため、各村にとって練り番の年は数年がかりで準備を重ねる特別な意味を持つ。
+
+祭りで担がれる3基の神輿は「一の丸」「二の丸」「三の丸」と呼ばれ、その年の練り番の村が担ぐ。神輿をぶつけ合う神事は、神様を慰め、より大きな力を授かるためのものと伝えられ、激しくぶつかり合うほど神慮にかなうとされてきた。屋台の練り合わせや各村に伝わる獅子舞の所作など、固有の芸能が長い年月をかけて世代から世代へと受け継がれており、祭りは地域の結束と誇りを示す場として、また若者が一人前と認められる通過儀礼の場としても機能してきた。
+
+## 見どころ
+
+最大の見どころは、本宮の日に御旅山の麓に設けられた練り場「広畠（ひろばたけ）」で行われる3基の神輿のぶつかり合いである。氏子の男たちが担ぐ「一の丸」「二の丸」「三の丸」の神輿を勢いよく激突させる神事は、見る者を圧倒する迫力に満ちており、けんか祭りの名にふさわしい荒々しさを見せる。神輿が壊れるほど激しくぶつけ合うことが神への奉仕とされる点も、この祭り独特の信仰であり、担ぎ手たちは一年の鍛錬の成果をこの一瞬に込める。
+
+もう一つの見どころは、金色の装飾と豪華な彫刻で飾られた7台の屋台の練り合わせである。重量のある屋台を多くの担ぎ手が高々と差し上げ、息を合わせて練り歩く様子は華やかかつ勇壮である。本宮では早朝に獅子屋台が松原八幡神社を出発し、道中を清めながら御旅山へと向かう。前夜祭にあたる宵宮から各村の屋台や獅子舞が登場し、二日間を通じて祭りの熱気が次第に高まっていく構成も、この祭りを最後まで見飽きさせない魅力となっている。観覧席からは練り場全体を見渡すことができ、神輿と屋台が一堂に会する光景は圧巻である。
+
+## 開催情報・アクセス
+
+灘のけんか祭りは毎年10月14日（宵宮）・15日（本宮）に、兵庫県姫路市の松原八幡神社およびその周辺で行われる。本宮では神社近くの御旅山の麓に設けられた練り場「広畠」で、神輿のぶつかり合いと屋台の練り合わせが繰り広げられ、斜面を利用した段状の大きな観覧席が設けられる。宵宮では各村の屋台が松原八幡神社へ宮入りし、二日間にわたって祭りが展開される。
+
+会場の松原八幡神社へは、山陽電鉄の白浜の宮駅から徒歩圏内とアクセスが良く、姫路市街からも近い。祭り当日は周辺で大規模な交通規制が敷かれ、多くの見物客で混雑するため、公共交通機関の利用が推奨される。
+
+## 周辺の見どころ
+
+姫路市は世界遺産・国宝の姫路城を擁する城下町であり、白漆喰の優美な天守は国内外から多くの観光客を集めている。松原八幡神社のある灘地区は瀬戸内海に面し、海沿いの風景も楽しめる。祭りと併せて姫路城や城下町の街並みを巡れば、播州の歴史と文化に深く触れることができる。
+
+## 関連情報
+
+- 開催月: 10月（14日 宵宮・15日 本宮）
+- 都道府県: 兵庫県
+- 開催地: 姫路市（松原八幡神社・御旅山「広畠」練り場 ほか）
+- 種別: 秋季例大祭（けんか祭り）
+- 主な行事: 3基の神輿（一の丸・二の丸・三の丸）のぶつかり合い・7台の屋台の練り合わせ・獅子舞
+- 氏子: 旧灘七ヶ村（旧東山・木場・松原・八家・宇佐崎・中村・妻鹿／練り番は7年に1度）
+- 周辺: 姫路城（世界遺産・国宝）
+','## Overview
+
+The Nada no Kenka Matsuri (Nada Fighting Festival) is the autumn grand festival of Matsubara Hachiman Shrine in Himeji City, Hyogo Prefecture, held every year on October 14 and 15. Also called the Nada Festival, it is famous for the rite of vigorously colliding three mikoshi (portable shrines) and for the spirited jostling of seven gorgeously decorated yatai floats. The roughness of slamming the mikoshi together has earned it the name "fighting festival," and it draws well over a hundred thousand spectators across its two days.
+
+The festival unfolds over two days, the eve festival (yoimiya) on the 14th and the main festival (hongu) on the 15th. The sight of men in white garments and happi coats hoisting heavy mikoshi and floats is a defining image of autumn in the Banshu region, combining the fierce ritual of the mikoshi clash with the splendor of the float jostling.
+
+## History and Origins
+
+The Nada no Kenka Matsuri has long been held as the autumn grand festival of Matsubara Hachiman Shrine. The shrine sits in the Nada district of eastern Himeji City and has been supported by the parishioners of the former seven villages, namely Higashiyama, Koba, Matsubara, Yaka, Usazaki, Nakamura, and Mega. Each village maintains its own float, and a system of rotating the central role of the festival, called the neriban (the year''s duty village), has been handed down. Because there are seven villages, the neriban role comes around once every seven years, and the village serving it carries the great responsibility of bearing the mikoshi, making it a year of special significance prepared for over several years.
+
+The three mikoshi carried at the festival are called Ichi-no-maru, Ni-no-maru, and San-no-maru, and are borne by the neriban village of that year. The rite of colliding the mikoshi is said to console the deity and to draw down greater divine power, and the more fiercely they collide, the more it is believed to please the gods. The float jostling and the lion-dance forms unique to each village have been passed down over generations, and the festival functions as an occasion that displays the unity and pride of the community.
+
+## Highlights
+
+The greatest highlight is the collision of the three mikoshi held on the main festival day at the Hirobatake jostling ground at the foot of Otabiyama. The rite in which parishioners slam together the Ichi-no-maru, Ni-no-maru, and San-no-maru mikoshi is overwhelming in its force and displays the roughness befitting the name "fighting festival." The belief that colliding the mikoshi until they break constitutes service to the deity is a faith unique to this festival, and the bearers pour a year of training into this single moment.
+
+Another highlight is the jostling of the seven floats adorned with golden decorations and lavish carvings. The sight of many bearers lifting the heavy floats high and parading in unison is both gorgeous and spirited. On the main day, the lion float departs Matsubara Hachiman Shrine in the early morning and proceeds toward Otabiyama, purifying the route along the way. From the eve festival onward, the floats and lion dances of each village appear, and the heat of the festival gradually builds across the two days.
+
+## Event Information and Access
+
+The Nada no Kenka Matsuri is held every year on October 14 (eve festival) and 15 (main festival) at Matsubara Hachiman Shrine and its surroundings in Himeji City, Hyogo. On the main day, the mikoshi collision and float jostling take place at the Hirobatake jostling ground at the foot of Otabiyama, where large tiered spectator stands are set up using the slope.
+
+Matsubara Hachiman Shrine is within walking distance of Shirahama-no-miya Station on the Sanyo Electric Railway and is close to central Himeji. Large-scale traffic restrictions are in place around the venue on festival days, and crowds are heavy, so use of public transport is recommended.
+
+## Nearby Attractions
+
+Himeji City is a castle town home to Himeji Castle, a UNESCO World Heritage Site and National Treasure, whose elegant white-plastered keep draws many visitors from Japan and abroad. The Nada district, where Matsubara Hachiman Shrine stands, faces the Seto Inland Sea, offering coastal scenery as well. Visiting Himeji Castle and the castle town streets together with the festival allows a deeper encounter with the history and culture of the Banshu region.
+
+## Related Information
+
+- Month held: October (14th eve festival, 15th main festival)
+- Prefecture: Hyogo
+- Location: Himeji City (Matsubara Hachiman Shrine, Hirobatake ground at Otabiyama, etc.)
+- Type: autumn grand festival (fighting festival)
+- Main events: collision of three mikoshi (Ichi-no-maru, Ni-no-maru, San-no-maru), jostling of seven floats, lion dance
+- Parishioners: the former seven Nada villages (neriban duty rotates once every seven years)
+- Nearby: Himeji Castle (UNESCO World Heritage Site, National Treasure)
+','nada-no-kenka-matsuri','nada-no-kenka-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11568918','熊野本宮大社例大祭','Kumano Hongū Taisha Reitaisha','和歌山県田辺市にある熊野本宮大社の例大祭',NULL,'Q705035','熊野本宮大社','Kumano Hongū Taisha','和歌山県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E6%9C%AC%E5%AE%AE%E5%A4%A7%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11538304','桶川祇園祭','Okegawa Gion Matsuri',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%A1%B6%E5%B7%9D%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11547768','毛馬内の盆踊','Kemanai no Bon-odori','秋田県鹿角市十和田毛馬内行われる盆踊り','Bon dance held in Towada Kemauchi, Kazuno City, Akita Prefecture',NULL,NULL,NULL,'青森県','tohoku',40.2715,140.766667,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%AF%9B%E9%A6%AC%E5%86%85%E7%9B%86%E8%B8%8A%E3%82%8A%E3%81%AE%E9%A2%A8%E6%99%AF.jpg','https://ja.wikipedia.org/wiki/%E6%AF%9B%E9%A6%AC%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
@@ -9019,7 +9200,83 @@ INSERT INTO "festivals" VALUES('Q11568888','熊野大花火大会','Kumano Great
 INSERT INTO "festivals" VALUES('Q11559869','深井だんじり祭り','Fukai Danjiri Festival',NULL,'danjiri float festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E6%B7%B1%E4%BA%95%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11551423','池ノ上みそぎ祭','Ikenoue Misogi Matsuri',NULL,NULL,'Q11620951','葛懸神社','Katsuragake Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B1%A0%E3%83%8E%E4%B8%8A%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11542169','樋山路盆踊り','Hiyamaji Bon-odori',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%B1%B1%E8%B7%AF%E7%9B%86%E8%B8%8A%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11557680','浜崎祇園山笠','Hamasaki Gion Yamakasa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hamasaki%20gion%20yamakasa%202008.jpg','https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11557680','浜崎祇園山笠','Hamasaki Gion Yamakasa',NULL,NULL,NULL,NULL,NULL,'佐賀県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hamasaki%20gion%20yamakasa%202008.jpg','https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'drafted','## 概要
+
+浜崎祇園山笠は、佐賀県唐津市浜玉町浜崎で毎年7月に行われる祇園祭であり、山笠行事である。諏訪神社の境内に祀られている須賀神社（祇園社）へ奉納される祭りで、高さ15メートル、重さ5トンにも及ぶ全国でも最大級の山笠で知られる。屋形や人形で豪華絢爛に飾り付けられた3台の山笠が、豊作や豊漁、商売繁盛などの願いを込めて町を練り歩く様子は壮観であり、260年を超える歴史を誇る。
+
+その規模の大きさから「日本最大級の祇園山笠」とも称され、2002年（平成14年）5月10日に唐津市の重要無形民俗文化財に指定された。海とともに生きてきた浜崎の町の歴史と信仰を映す、佐賀県を代表する夏祭りの一つである。
+
+## 歴史・由来
+
+浜崎祇園山笠の起源は、今から260年以上前の宝暦3年（1753年・江戸時代中期）にさかのぼる。伝承によれば、浜崎の浜区の網元であった中村屋久兵衛が、商用のため京都の祇園社を参拝した帰路、博多に立ち寄った際に櫛田神社の山笠の賑わいを見物し、その勇壮さに深く感銘を受けて山笠の文化を浜崎へ持ち帰ったことが始まりとされる。京都の祇園信仰と博多の山笠文化という二つの源流が、海運によって各地と結ばれていた浜崎の町に取り入れられ、独自の祭りとして根づいたのである。
+
+以来、浜崎の町は農業・漁業・商業がそれぞれに栄え、各区が山笠を擁して豊作・豊漁・商売繁盛を祈願する祭りとして発展してきた。町の繁栄とともに山笠は次第に大型化し、現在では高さ15メートル、重さ5トンという全国最大級の規模に達している。屋形や人形で豪華に飾られた巨大な山笠を、狭い町中で曳き回す伝統が世代を超えて受け継がれてきた。こうした祭りの歴史的・文化的価値が認められ、2002年（平成14年）には唐津市の重要無形民俗文化財に指定され、地域の誇りとして大切に守られている。
+
+## 見どころ
+
+最大の見どころは、高さ15メートル・重さ5トンという全国最大級の巨大な山笠そのものである。屋形や人形で豪華に飾り付けられた3台の山笠が、狭い町中を勇壮に練り歩く様子は圧巻であり、見上げるほどの高さは初めて見る者を驚かせる。巨大な山笠を多くの曳き手が力を合わせて操る一体感は、この祭りならではの迫力を伝え、町全体が祭りの熱気に包まれる。
+
+山笠が方向を転換する場面や、町の狭い角を曲がる場面では、重量のある山笠を巧みに動かす技と、息を合わせた掛け声が大きな見せ場となる。昼間の勇壮な曳行に加え、夜には灯りに照らされた山笠が幻想的な姿を見せ、昼夜で異なる魅力を楽しむことができる。豊作・豊漁・商売繁盛への祈りが込められたこの祭りは、町を挙げての一大行事として、地域の人々が世代を超えて一体となって盛り上がる。諏訪神社境内の須賀神社（祇園社）への奉納という神事としての側面も、この祭りの根幹をなしている。
+
+## 開催情報・アクセス
+
+浜崎祇園山笠は毎年7月に、佐賀県唐津市浜玉町浜崎の諏訪神社およびその周辺で行われる。祭りでは須賀神社（祇園社）への奉納を中心に、3台の山笠が町中を練り歩く。日程は年によって異なるが、例年7月下旬の週末に営まれ、二日間にわたって祭りが展開される。
+
+会場の浜崎地区は、JR筑肥線の浜崎駅から徒歩圏内に位置し、唐津市街や福岡方面からのアクセスも比較的良好である。祭り当日は周辺で交通規制が敷かれ、多くの見物客で賑わうため、公共交通機関の利用が推奨される。
+
+## 周辺の見どころ
+
+唐津市は玄界灘に面した歴史ある町であり、虹の松原や唐津城など、見どころが点在する。虹の松原は日本三大松原の一つに数えられる景勝地であり、浜崎からも近く、白砂青松の美しい景観を楽しむことができる。また、唐津市は秋に行われる「唐津くんち」でも全国に知られ、曳山文化が深く根づいた土地である。玄界灘でとれる新鮮な海の幸も豊富で、浜崎祇園山笠と併せて唐津の自然と食文化を存分に楽しむことができる。
+
+## 関連情報
+
+- 開催月: 7月（例年7月下旬の週末）
+- 都道府県: 佐賀県
+- 開催地: 唐津市浜玉町浜崎（諏訪神社・須賀神社 ほか）
+- 種別: 祇園祭・山笠行事
+- 規模: 高さ15m・重さ5t・3台（全国最大級）
+- 起源: 宝暦3年（1753年）網元・中村屋久兵衛が京都祇園社参拝の帰路に持ち帰ったと伝わる
+- 文化財: 唐津市指定重要無形民俗文化財（2002年指定）
+- 周辺: 虹の松原（日本三大松原）・唐津城
+','## Overview
+
+The Hamasaki Gion Yamakasa is a Gion festival and yamakasa float event held every July in Hamasaki, Hamatama-cho, Karatsu City, Saga Prefecture. It is a festival in which floats are dedicated to Suga Shrine (the Gion shrine) enshrined within the precincts of Suwa Shrine, and it is known for its yamakasa floats, which reach a height of 15 meters and a weight of 5 tons, among the largest in the entire country. The sight of three yamakasa, gorgeously decorated with structures and figures, parading through the town carrying prayers for a good harvest, a great catch, and prosperous business, is spectacular, and the festival boasts a history of more than 260 years.
+
+Because of its scale, it is also called "Japan''s largest-class Gion yamakasa," and on May 10, 2002, it was designated an Intangible Folk Cultural Property of Karatsu City. It is one of Saga Prefecture''s representative summer festivals, reflecting the history and faith of the town of Hamasaki, which has lived with the sea.
+
+## History and Origins
+
+The origins of the Hamasaki Gion Yamakasa date back more than 260 years, to 1753 (Horeki 3, mid-Edo period). According to tradition, Nakamuraya Kyubei, a fishing-fleet owner of the Hama district of Hamasaki, on his way back from worshipping at the Gion shrine in Kyoto for business, stopped in Hakata and watched the lively yamakasa of Kushida Shrine. Deeply impressed by their boldness, he brought the yamakasa culture back to Hamasaki, and this is said to be the beginning. Two streams, the Gion faith of Kyoto and the yamakasa culture of Hakata, were adopted into the town of Hamasaki, which was connected to various regions by sea transport, and took root as a distinctive festival.
+
+Since then, the town of Hamasaki has flourished in agriculture, fishing, and commerce, and developed as a festival in which each district maintains a yamakasa and prays for a good harvest, a great catch, and prosperous business. As the town prospered, the yamakasa gradually grew larger, and today they reach the nationally largest-class scale of 15 meters in height and 5 tons in weight. The tradition of pulling these huge yamakasa, decorated with structures and figures, through the narrow streets has been handed down across generations. The historical and cultural value of the festival was recognized, and in 2002 it was designated an Intangible Folk Cultural Property of Karatsu City, carefully preserved as a source of local pride.
+
+## Highlights
+
+The greatest highlight is the huge yamakasa themselves, at 15 meters tall and 5 tons in weight, among the largest in the country. The sight of three yamakasa, gorgeously decorated with structures and figures, parading boldly through the narrow streets is overwhelming, and their towering height astonishes first-time viewers. The unity of many pullers handling the huge floats together conveys a power unique to this festival, and the whole town is enveloped in festive heat.
+
+When the yamakasa change direction or turn a narrow corner of the town, the skill of deftly maneuvering the heavy floats and the well-timed shouts become major highlights. In addition to the bold daytime procession, at night the yamakasa lit by lanterns take on a dreamlike appearance, allowing visitors to enjoy different charms by day and night. This festival, carrying prayers for a good harvest, a great catch, and prosperous business, is a major town-wide event in which local people unite across generations. The aspect of the rite, the dedication to Suga Shrine (the Gion shrine) within the precincts of Suwa Shrine, also forms the core of this festival.
+
+## Event Information and Access
+
+The Hamasaki Gion Yamakasa is held every July at Suwa Shrine and its surroundings in Hamasaki, Hamatama-cho, Karatsu City, Saga. Centered on the dedication to Suga Shrine (the Gion shrine), three yamakasa parade through the town. The dates vary by year but are usually held on a weekend in late July, with the festival unfolding over two days.
+
+The Hamasaki area is within walking distance of Hamasaki Station on the JR Chikuhi Line and is relatively accessible from central Karatsu and the Fukuoka direction. Traffic restrictions are in place around the venue on festival days, and crowds are heavy, so use of public transport is recommended.
+
+## Nearby Attractions
+
+Karatsu City is a historic town facing the Genkai Sea, dotted with attractions such as the Niji-no-Matsubara pine grove and Karatsu Castle. Niji-no-Matsubara, counted among Japan''s three great pine groves, is a scenic spot close to Hamasaki where one can enjoy beautiful white sand and green pines. Karatsu is also known nationwide for the Karatsu Kunchi held in autumn and is a land where float culture is deeply rooted. Fresh seafood from the Genkai Sea is also abundant, and together with the Hamasaki Gion Yamakasa, visitors can fully enjoy the nature and food culture of Karatsu.
+
+## Related Information
+
+- Month held: July (usually a weekend in late July)
+- Prefecture: Saga
+- Location: Hamasaki, Hamatama-cho, Karatsu City (Suwa Shrine, Suga Shrine, etc.)
+- Type: Gion festival, yamakasa float event
+- Scale: 15 m tall, 5 tons, three floats (among the largest in the country)
+- Origin: said to have been brought back by the fleet owner Nakamuraya Kyubei on his way home from worship at the Kyoto Gion shrine in 1753 (Horeki 3)
+- Cultural status: Intangible Folk Cultural Property of Karatsu City (designated 2002)
+- Nearby: Niji-no-Matsubara (one of Japan''s three great pine groves), Karatsu Castle
+','hamasaki-gion-yamakasa','hamasaki-gion-yamakasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11543279','横浜開港祭','Yokohama Port Festival',NULL,NULL,NULL,NULL,NULL,'神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%96%8B%E6%B8%AF%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11571216','犬山祭','Inuyama Festival','愛知県犬山市で行われる針綱神社の祭礼',NULL,'Q11648178','針綱神社','Haritsuna Shrine','愛知県','chubu',NULL,NULL,1635,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Inuyamajo2.JPG','https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','犬山祭（いぬやままつり）は、愛知県犬山市で毎年4月に行われる針綱神社(はりつなじんじゃ)の祭礼で、1635年(寛永12年)に始まったとされる、約400年の歴史を誇る春の祭典である。国宝・犬山城を背景に、絢爛豪華な車山(やま)が城下町を練り歩く、東海地方屈指の山車祭りとして知られる。
 
@@ -9288,7 +9545,81 @@ Agata Shrine is the guardian shrine of Uji, an ancient shrine with deep ties to 
 INSERT INTO "festivals" VALUES('Q11603039','筒井町出来町天王祭','Tsutsui-chō Deki-machi Tennō-sai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E7%94%BA%E5%87%BA%E6%9D%A5%E7%94%BA%E5%A4%A9%E7%8E%8B%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11628729','西条祭り','Saijo Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%A1%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11589725','神戸まつり','Kobe Matsuri',NULL,NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,1971,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/2010%20Kobe%20Matsuri00s3s4050.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11604835','糸満ハーレー','Itoman Hārē',NULL,NULL,'Q860662','糸満市','Itoman',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC.jpg','https://ja.wikipedia.org/wiki/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11604835','糸満ハーレー','Itoman Hārē',NULL,NULL,'Q860662','糸満市','Itoman','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC.jpg','https://ja.wikipedia.org/wiki/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC',NULL,80,'drafted','## 概要
+
+糸満ハーレーは、沖縄県糸満市で毎年旧暦5月4日（沖縄でいう「ユッカヌヒー」）に行われる伝統的な海の祭りである。爬龍船（はりゅうせん）と呼ばれる色鮮やかな船を漕ぎ手たちが競漕し、大漁と航海の安全を祈願する。漁師町として栄えた糸満を代表する行事であり、約600年の歴史を持つ伝統的な海神祭として、勇壮な海人（ウミンチュ）たちの競漕が大きな見どころとなっている。2012年には糸満市の指定無形民俗文化財に認定された。
+
+「ハーレー」は沖縄各地で旧暦5月4日に行われる海神祭（ハーリー）の糸満での呼び名であり、地域ごとに独自の形で受け継がれている。糸満のハーレーはそのなかでも特に規模が大きく、伝統色の濃い行事として知られ、沖縄の夏の到来を告げる行事の一つとして親しまれている。
+
+## 歴史・由来
+
+ハーリー（ハーレー）は、海の神に大漁と航海の安全を祈る行事として、沖縄各地の漁港で古くから営まれてきた。その起源には諸説あり、中国から伝わった龍舟競漕に由来するという説などが伝えられているが、糸満をはじめとする各地で長い年月をかけて土地に根づき、独自の形に発展してきた。糸満ハーレーは約600年の歴史を持つとされ、沖縄の海神祭のなかでも特に古い伝統を伝える行事の一つである。
+
+糸満は古くから沖縄を代表する漁師町として栄え、遠洋まで漁に出る糸満漁師の技術は広く知られてきた。海とともに生きる人々の信仰が篤いこの土地で、糸満ハーレーは海人たちの暮らしと信仰を色濃く反映した行事として根づいた。旧暦5月4日のユッカヌヒーに合わせて毎年営まれ、爬龍船による競漕を中心に、海の恵みへの感謝と祈りが込められてきた。旧暦に基づいて行われるのは、月の満ち欠けと潮の動きに従って暮らしてきた海人の生活が祭りの根底にあるためであり、新暦の特定の日ではなく旧暦の節目を守り続けている点に、この行事の伝統の深さがうかがえる。2012年には糸満市の指定無形民俗文化財として、その文化的価値が公式に認められた。
+
+## 見どころ
+
+最大の見どころは、爬龍船による競漕である。会場の糸満漁港を見下ろす聖地「山巓毛（さんてぃんもう）」から旗が振り下ろされるのを合図に競漕が始まる。極彩色に彩られた船を漕ぎ手たちが力を合わせて漕ぎ進め、海上で速さを競う様子は迫力に満ちている。漕ぎ手たちの掛け声と太鼓の音が響くなか、船が波を切って進む光景は、海人の町ならではの勇壮さを伝える。
+
+競漕は3種類の種目から成る。まず神事としての「御願（うがん）バーレー」で幕を開け、海の神への祈りを捧げる。続いて各地区の若者が力を競う「青年団ハーレー」が行われ、最後に船をわざと転覆させて泳いで乗り直し、再び漕ぎ出す「クンヌカセー（転覆競漕）」で最高潮を迎える。クンヌカセーは海に親しんだ糸満の海人ならではの種目であり、転覆した船を素早く立て直す技と度胸が見せ場となる。これらの競漕は、海の安全と大漁を祈願する神事としての側面と、町を挙げての競技としての側面を併せ持ち、見物客と地域の人々が一体となって盛り上がる。旧暦5月4日には糸満のほか、名城や喜屋武など周辺の地域でも同様のハーリーが行われ、沖縄各地が一斉に海の祭りに沸く。
+
+## 開催情報・アクセス
+
+糸満ハーレーは毎年旧暦5月4日（新暦では6月頃にあたる）に、沖縄県糸満市の糸満漁港を中心に行われる。旧暦に基づくため、新暦での開催日は年によって変動し、近年では6月中旬から下旬にあたることが多い。同じ日には沖縄本島をはじめ各地の漁港でハーリーが営まれ、沖縄全体が海の祭りの雰囲気に包まれる。
+
+糸満市は沖縄本島南部に位置し、那覇市内からは路線バスや自動車でのアクセスとなる。祭り当日は漁港周辺に多くの見物客が集まるため、公共交通機関や臨時の案内に従っての来場が推奨される。
+
+## 周辺の見どころ
+
+糸満市は沖縄本島南部の漁師町であり、海に親しむ文化が色濃く残る。周辺には平和祈念公園やひめゆりの塔など、沖縄戦の歴史を伝える施設が点在し、沖縄の歴史と平和について学ぶことができる。海沿いの風景や新鮮な海の幸も楽しめ、ハーレーと併せて沖縄南部の自然と文化に触れることができる。
+
+## 関連情報
+
+- 開催月: 旧暦5月4日（ユッカヌヒー・新暦6月頃）
+- 都道府県: 沖縄県
+- 開催地: 糸満市（糸満漁港・山巓毛 ほか）
+- 種別: 海神祭（ハーリー／ハーレー）・爬龍船競漕（約600年の歴史）
+- 競漕種目: 御願バーレー・青年団ハーレー・クンヌカセー（転覆競漕）
+- 文化財: 糸満市指定無形民俗文化財（2012年認定）
+- 関連: 沖縄各地で旧暦5月4日に行われるハーリー行事の一つ
+','## Overview
+
+The Itoman Hare is a traditional sea festival held every year on the fourth day of the fifth lunar month, known in Okinawa as "Yukkanuhi," in Itoman City, Okinawa Prefecture. Rowers race colorful boats called haryusen (dragon boats) to pray for a great catch and safety at sea. As a representative event of Itoman, a town that flourished as a fishing community, it is a traditional sea-god festival said to have a history of around 600 years, and the spirited races of the umin-chu (seafarers) are its great highlight. In 2012 it was designated an Intangible Folk Cultural Property of Itoman City.
+
+"Hare" is the Itoman pronunciation of the hari, the sea-god festival held at fishing ports across Okinawa on the fourth day of the fifth lunar month, each region preserving it in its own form. Among them, the Itoman hare is known as a particularly large and tradition-rich event, beloved as one of the festivals announcing the arrival of summer in Okinawa.
+
+## History and Origins
+
+The hari (hare) has long been held at fishing ports throughout Okinawa as a rite praying to the sea god for a great catch and safe voyages. There are various theories about its origins, including that it derives from dragon-boat racing introduced from China, but it took root over many years in Itoman and other locales and developed into distinctive local forms. The Itoman Hare is said to have a history of around 600 years and is one of the oldest of Okinawa''s sea-god festivals.
+
+Itoman has long flourished as a representative fishing town of Okinawa, and the skills of its fishermen, who ventured far out to sea, were widely renowned. In this land where faith among people who live with the sea runs deep, the Itoman Hare took root as an event richly reflecting the lives and beliefs of the umin-chu. Held each year on Yukkanuhi, the fourth day of the fifth lunar month, it centers on dragon-boat racing and carries gratitude and prayer for the bounty of the sea. That it follows the lunar calendar reflects the seafarers'' lives lived in accordance with the waxing and waning of the moon and the movement of the tides; the persistence of observing a lunar milestone rather than a fixed solar date speaks to the depth of the tradition. In 2012, its cultural value was officially recognized through designation as an Intangible Folk Cultural Property of Itoman City.
+
+## Highlights
+
+The greatest highlight is the dragon-boat racing. The races begin at the signal of a flag waved down from Santinmo, a sacred site overlooking the Itoman fishing port that serves as the venue. Rowers work together to propel the vividly colored boats, competing for speed on the water in a display full of power. As the rowers'' shouts and the beat of drums resound, the boats cut through the waves in a scene that conveys the spirited character of a seafaring town.
+
+The racing consists of three events. It opens with the "Ugan-bare," a ritual race offering prayers to the sea god, followed by the "Seinendan Hare," in which young people of each district compete, and culminates in the "Kunnukase" (capsizing race), in which crews deliberately overturn their boats, swim to right them, and row off again. The Kunnukase is an event unique to the umin-chu of Itoman who are at home in the sea, with the skill and nerve to quickly right a capsized boat as its showpiece. These races combine the aspect of a ritual praying for safety at sea and a great catch with the aspect of a town-wide competition, uniting spectators and local people in excitement. On the fourth day of the fifth lunar month, similar hari are held at neighboring areas such as Nashiro and Kyan in addition to Itoman, and locations across Okinawa stir with sea festivals all at once.
+
+## Event Information and Access
+
+The Itoman Hare is held each year on the fourth day of the fifth lunar month (corresponding to around June in the solar calendar) centered on the Itoman fishing port in Itoman City, Okinawa. Because it follows the lunar calendar, the solar date varies from year to year, often falling in mid to late June in recent years. On the same day, hari are held at fishing ports across the main island and beyond, wrapping all of Okinawa in a sea-festival atmosphere.
+
+Itoman City lies in the southern part of Okinawa''s main island and is accessed from central Naha by route bus or car. Many spectators gather around the port on festival days, so use of public transport or following temporary guidance is recommended.
+
+## Nearby Attractions
+
+Itoman City is a fishing town in the southern part of Okinawa''s main island, where a culture intimate with the sea remains strong. Nearby are facilities conveying the history of the Battle of Okinawa, including the Peace Memorial Park and the Himeyuri Monument, where visitors can learn about Okinawa''s history and peace. Coastal scenery and fresh seafood can also be enjoyed, and together with the hare, visitors can experience the nature and culture of southern Okinawa.
+
+## Related Information
+
+- Month held: fourth day of the fifth lunar month (Yukkanuhi; around June in the solar calendar)
+- Prefecture: Okinawa
+- Location: Itoman City (Itoman fishing port, Santinmo, etc.)
+- Type: sea-god festival (hari/hare), dragon-boat racing (history of around 600 years)
+- Race events: Ugan-bare, Seinendan Hare, Kunnukase (capsizing race)
+- Cultural status: Intangible Folk Cultural Property of Itoman City (designated 2012)
+- Related: one of the hari events held across Okinawa on the fourth day of the fifth lunar month
+','itoman-hare','itoman-hare',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603435','節分会はだか祭り','Setsubunkai Hadaka Matsuri',NULL,NULL,'Q11452340','宝光院 (大垣市)',NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86%E4%BC%9A%E3%81%AF%E3%81%A0%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11590283','神明の花火大会','Shinmei Fireworks Festival','山梨県西八代郡市川三郷町で行われる花火大会',NULL,'Q1204453','市川三郷町','Ichikawamisato','山梨県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11581773','直方山笠',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%96%B9%E5%B1%B1%E7%AC%A0',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -9550,7 +9881,81 @@ The shrine is accessible by car or taxi in approximately 20 minutes from Izumo C
 ## Surrounding Attractions
 
 Izumo City is dense with sacred sites of Izumo mythology, including the famous Izumo Taisha Grand Shrine (deity of matchmaking), Inasa Beach where deities are said to convene, Hinomisaki Shrine and the historic Hinomisaki Lighthouse, and the Izumo Cultural Heritage Museum. The area around Lake Jinzai remains a quiet rural landscape that still preserves the atmosphere of the legendary "Land of the Gods," offering visitors a serene complement to the more famous sites of central Izumo.','namesa-jinja','namesa-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11636377','越中八尾曳山祭','Etchuyatsuo parade float festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Yatsuo%20Hikiyama%20Museum.jpg','https://ja.wikipedia.org/wiki/%E8%B6%8A%E4%B8%AD%E5%85%AB%E5%B0%BE%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11636377','越中八尾曳山祭','Etchuyatsuo parade float festival',NULL,NULL,NULL,NULL,NULL,'富山県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Yatsuo%20Hikiyama%20Museum.jpg','https://ja.wikipedia.org/wiki/%E8%B6%8A%E4%B8%AD%E5%85%AB%E5%B0%BE%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,80,'drafted','## 概要
+
+越中八尾曳山祭は、富山県富山市八尾町で毎年5月3日に行われる春の祭りである。漆・彫金・彫刻が施された六基の豪華絢爛な曳山が、坂の多い八尾の町を曳き回される様子で知られる。八尾町は哀調を帯びた踊りで全国に名高い「おわら風の盆」の里としても知られるが、春の曳山祭は、江戸時代に養蚕や和紙の産地として栄えた町人文化の象徴として、しっとりとしたおわらとは対照的な華やかさと活気を今に伝えている。
+
+坂の街と呼ばれる八尾の独特の地形を、重厚な曳山が上り下りする光景は迫力に満ち、提灯を灯した夜の曳山も大きな見どころとなっている。江戸期から受け継がれてきた職人の技と、富を築いた町人の気概が凝縮された、越中を代表する春の祭礼である。
+
+## 歴史・由来
+
+越中八尾曳山祭は、江戸時代から受け継がれてきた曳山神事である。当時の八尾は、養蚕や和紙の生産で大いに栄え、富山藩の御納戸所、すなわち藩の財政を支える重要な拠点としての役割を担った町であった。蚕種や八尾和紙の取引によって経済的に潤った八尾の町人たちは、その富と誇りを曳山に惜しみなく注ぎ込み、漆塗りや彫金、精緻な彫刻で飾り立てた豪華な曳山を競うように作り上げた。曳山はまさに、栄華を極めた町人文化そのものの象徴であり、町の力を内外に示す存在でもあった。
+
+六基の曳山は、それぞれの町が所有し、長い年月をかけて大切に維持・修復されてきた。曳山の組み上げには釘を一本も使わず、くさびや麻縄によって部材を固定する伝統的な技法が用いられている。毎年祭りのたびに蔵から出された部材は、四季を経て眠っていた状態から、先人が培った古の技法を守りながら忠実に組み上げられていく。この組み上げそのものが熟練を要する作業であり、技術と心意気が世代を超えて受け継がれてきた。本番に先立つ5月1日には「調曳（しらべびき）」と呼ばれる試し曳きが行われ、曳山の動きや囃子を確認しながら本番への準備が整えられる。
+
+## 見どころ
+
+最大の見どころは、漆・彫金・彫刻で豪華に飾られた六基の曳山が、坂の多い八尾の町を曳き回される様子である。重量のある曳山を曳き手たちが力を合わせて坂道を上り下りさせる光景は迫力に満ち、平地の祭りにはない坂の街ならではの醍醐味を見せる。曳山に施された彫刻や金具の細工は江戸期から続く職人技の結晶であり、間近で見るとその精緻さと豪華さに圧倒される。
+
+また、夜には曳山に多数の提灯が灯され、昼間とはまったく異なる幻想的な姿を見せる。無数の灯りに浮かび上がる曳山が、暮れなずむ坂の街をゆっくりと進む光景は、この祭りを象徴する美しい場面として多くの人々を惹きつける。本番に先立つ5月1日の調曳では、各町が曳山を町内に曳き出し、本番さながらの雰囲気を味わうことができる。江戸期から伝わる囃子の調べも祭りに欠かせない要素であり、笛や太鼓の音が町中に響きわたって祭りの気分を盛り上げる。
+
+## 開催情報・アクセス
+
+越中八尾曳山祭は毎年5月3日に、富山県富山市八尾町で行われる。前々日の5月1日には試し曳きにあたる調曳が行われ、祭りの幕開けを告げる。祭り当日は六基の曳山が町内を巡行し、坂の街の各所が会場となって一日中賑わう。
+
+八尾町は富山市中心部の南西に位置し、JR高山本線の越中八尾駅が最寄りとなる。富山市街からは鉄道や自動車でのアクセスとなり、祭り当日は町内で交通規制が敷かれるため、公共交通機関の利用が推奨される。坂が多い地形のため、巡行を見学する際は歩きやすい服装が望ましい。
+
+## 周辺の見どころ
+
+八尾町は、9月に行われる「おわら風の盆」で全国に知られる町であり、石畳の坂道と格子戸の家並みが続く美しい町並みが残る。曳山祭の時期以外でも、八尾の伝統的な街並みを散策する楽しみがあり、坂の街ならではの風情を味わうことができる。和紙の産地として栄えた歴史を伝える施設もあり、八尾和紙などの伝統工芸に触れることもできる。富山市中心部の観光や立山連峰の眺望と併せて、越中の歴史と文化を存分に味わうことができる。
+
+## 関連情報
+
+- 開催月: 5月（5月3日・5月1日に調曳）
+- 都道府県: 富山県
+- 開催地: 富山市八尾町
+- 種別: 春の曳山神事
+- 曳山: 六基（漆・彫金・彫刻・釘を使わない組み上げ）
+- 背景: 江戸期に養蚕・和紙で栄えた町人文化／富山藩の御納戸所
+- 関連: 同じ八尾町で9月に行われる「おわら風の盆」
+','## Overview
+
+The Etchu Yatsuo Hikiyama Festival is a spring festival held every year on May 3 in the Yatsuo district of Toyama City, Toyama Prefecture. It is known for the sight of six gorgeous hikiyama floats, decorated with lacquer, metal engraving, and carving, being pulled through the hilly streets of Yatsuo. Yatsuo is also famous nationwide as the home of the Owara Kaze no Bon, a dance festival with a plaintive air, but the spring hikiyama festival conveys a brightness and vigor contrasting with the subdued Owara, as a symbol of the merchant culture that flourished through sericulture and washi paper in the Edo period.
+
+The sight of the heavy floats ascending and descending the distinctive terrain of Yatsuo, known as the "town of slopes," is full of power, and the floats lit by lanterns at night are also a major highlight. It is a representative spring rite of the Etchu region, concentrating the skills of artisans handed down since the Edo period and the spirit of the merchants who built their wealth.
+
+## History and Origins
+
+The Etchu Yatsuo Hikiyama Festival is a float rite handed down since the Edo period. The Yatsuo of that time flourished greatly through the production of sericulture and washi paper, and served as the onandodokoro of the Toyama domain, an important base supporting the domain''s finances. Enriched by the trade in silkworm eggs and Yatsuo washi, the merchants of Yatsuo poured their wealth and pride unstintingly into the floats, vying to create lavish hikiyama adorned with lacquer, metal engraving, and fine carving. The floats were the very symbol of a merchant culture at the height of its prosperity, and a means of displaying the town''s strength.
+
+The six floats are each owned by their respective neighborhoods and have been carefully maintained and repaired over many years. The floats are assembled without using a single nail, fixing the parts with wedges and hemp rope in a traditional technique. Each year for the festival, parts taken from the storehouses are faithfully assembled while preserving the ancient methods cultivated by predecessors. The assembly itself is skilled work, and this technique and spirit have been passed down across generations. On May 1, ahead of the main day, a trial pulling called the shirabebiki is held, in which the movement of the floats and the festival music are checked in preparation for the main event.
+
+## Highlights
+
+The greatest highlight is the sight of the six floats, lavishly decorated with lacquer, metal engraving, and carving, being pulled through the hilly streets of Yatsuo. The sight of pullers working together to take the heavy floats up and down the slopes is full of power and offers a thrill unique to the town of slopes, found in no flatland festival. The carvings and metal fittings on the floats are masterworks of artisanship continuing from the Edo period, and their precision and splendor are overwhelming up close.
+
+At night, many lanterns are lit on the floats, giving them an utterly different, dreamlike appearance from the daytime. The sight of the floats, illuminated by countless lights, slowly advancing through the darkening town of slopes is a beautiful scene symbolizing this festival. At the shirabebiki on May 1, each neighborhood pulls its float through the town, letting visitors savor an atmosphere much like the main event. The strains of festival music handed down from the Edo period are also an essential element, with flutes and drums resounding through the town to raise the festive mood.
+
+## Event Information and Access
+
+The Etchu Yatsuo Hikiyama Festival is held every year on May 3 in the Yatsuo district of Toyama City, Toyama. On May 1, two days before, the trial pulling shirabebiki is held, announcing the opening of the festival. On the main day, the six floats process through the town, and the various parts of the town of slopes become the venue, bustling all day long.
+
+The Yatsuo district lies southwest of central Toyama City, with Etchu-Yatsuo Station on the JR Takayama Main Line as the nearest station. Access from central Toyama is by rail or car, and traffic restrictions are in place in the town on the festival day, so use of public transport is recommended. Because of the hilly terrain, comfortable footwear is advisable when viewing the procession.
+
+## Nearby Attractions
+
+Yatsuo is a town known nationwide for the Owara Kaze no Bon held in September, and beautiful streetscapes of stone-paved slopes and latticed house fronts remain. Even outside the festival season, there is the pleasure of strolling through the traditional streets of Yatsuo and savoring the atmosphere unique to the town of slopes. There are also facilities conveying its history as a washi-producing area, where visitors can encounter traditional crafts such as Yatsuo washi. Together with sightseeing in central Toyama and views of the Tateyama mountain range, one can fully savor the history and culture of Etchu.
+
+## Related Information
+
+- Month held: May (May 3; shirabebiki on May 1)
+- Prefecture: Toyama
+- Location: Yatsuo district, Toyama City
+- Type: spring float rite
+- Floats: six (lacquer, metal engraving, carving; assembled without nails)
+- Background: merchant culture that flourished through sericulture and washi in the Edo period; onandodokoro of the Toyama domain
+- Related: the Owara Kaze no Bon held in September in the same Yatsuo district
+','etchu-yatsuo-hikiyama-matsuri','etchu-yatsuo-hikiyama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11661913','青柏祭','Seihaku Festival','石川県七尾市の大地主神社の例大祭（国の重要無形民俗文化財、ユネスコの無形文化遺産）',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Dekayama%20sanno.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%8F%E7%A5%AD',NULL,85,'drafted','青柏祭（せいはくさい）は、石川県七尾市の大地主神社(おおとこぬしじんじゃ)の例大祭で、毎年5月に行われる。能登地方最大の祭りとして知られ、日本一巨大とされる曳山「でか山」が城下町を曳き回される、勇壮かつ豪壮な春の祭礼である。国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産にも登録されている。
 
 この祭りの最大の特徴は、なんといっても「でか山」と呼ばれる巨大な曳山である。高さ約12メートル、重さ約20トンにも及ぶでか山は、その名の通り日本最大級の山車で、3台が市内を巡行する。神饌(しんせん)を青柏(あおがしわ)の葉に盛って供えたことが祭りの名の由来とされ、その起源は1000年以上前に遡るとも伝えられる。
@@ -9706,11 +10111,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
