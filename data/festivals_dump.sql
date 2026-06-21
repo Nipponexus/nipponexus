@@ -2792,7 +2792,73 @@ The venue is the central district of Tochigi City, within walking distance of To
 ## Around the Area
 
 Tochigi City is known as the "Town of Storehouses," with evocative rows of white-walled *kura* and merchant houses lining the Uzuma River. Visitors can enjoy museums and cafés set in former storehouses, as well as sightseeing boat rides along the river, all rich in the atmosphere of the Edo period. Nikkō and the Nikkō Tōshō-gū shrine are also relatively close, making a journey that follows the historic ties of the Reiheishi Kaidō highway a rewarding option.','tochigi-autumn-festival','tochigi-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11263112','お旅まつり','Otabi Festival',NULL,'an annual three-day festival held in Komatsu, Japan in May',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/OTABI%20MATSURI%20FESTIVAL%20KOMATSU%20002.JPG','https://ja.wikipedia.org/wiki/%E3%81%8A%E6%97%85%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11263112','お旅まつり','Otabi Festival',NULL,'an annual three-day festival held in Komatsu, Japan in May',NULL,NULL,NULL,'石川県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/OTABI%20MATSURI%20FESTIVAL%20KOMATSU%20002.JPG','https://ja.wikipedia.org/wiki/%E3%81%8A%E6%97%85%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+お旅まつりは、石川県小松市で毎年5月（例年8〜10日頃）に開催される、莵橋神社（うはしじんじゃ）と本折日吉神社の春季例大祭である。両社の神輿が氏子地域を巡幸する「御旅（おたび）」がその名の由来で、北陸を代表する春祭りの一つに数えられる。最大の特色は、絢爛豪華な曳山（ひきやま）の上で地元の子供たちが歌舞伎を演じる「曳山子供歌舞伎」で、城下町・小松の町衆文化が育んだ祭礼として全国的に知られている。
+
+現存する曳山は8基あり、いずれも小松市指定文化財に指定されている。曳山子供歌舞伎の行事は石川県の無形民俗文化財に指定されており、両社の神輿も江戸時代から伝わる小松市指定文化財である。期間中は神輿の巡幸、曳山子供歌舞伎の上演、複数の曳山が一堂に会する「曳山曳揃え」など多彩な行事が繰り広げられ、華やかな曳山と子供役者の名演技が春の城下町を彩る。例年、多くの見物客が市内中心部に集まり、小松の春の風物詩として親しまれている。
+
+## 歴史・由来
+
+お旅まつりの起源は1640年頃にさかのぼるとされる。これは加賀藩三代藩主・前田利常が家督を譲って隠居し、小松城に入った時期にあたる。莵橋神社と本折日吉神社の神輿が巡行の際に小松城の門前へ赴き、藩主前田家の平穏と繁栄、さらに武運長久を祈願したことが祭りの始まりと伝えられている。利常は美術工芸や茶道など文化への造詣が深く、九谷焼や絹織物といった産業も保護奨励したことから、小松の城下では町衆の経済力と文化が大いに栄えた。こうした町人文化の隆盛が、後の曳山祭礼を支える土壌となった。
+
+曳山の上で子供歌舞伎を上演する現在の形は、1951年（昭和26年）に始まったとされる。町ごとに曳山を所有し、その上を移動できる舞台として用い、子供歌舞伎を奉納する独自の文化が発達した。曳山を持つのは小松市内の8つの町で、毎年そのうち2町が子供歌舞伎を上演し、残りの6町は曳山を展示する輪番制をとっている。これにより毎年異なる町の曳山と演目が主役となり、町同士が技と装飾を競い合う仕組みが保たれてきた。
+
+子供役者は地元の子供たちが務め、本番に向けて台詞回しや所作、立ち回りの稽古を長期間にわたって積み重ねる。三味線や囃子方も加わり、城下町の通りに本格的な歌舞伎の舞台が出現する。出演する子供たちにとっては成長の節目となる晴れの舞台であり、町の大人たちが衣装・化粧・演出を支え、地域ぐるみで祭りを継承している。なお、起源年代や成立過程については伝承に幅があり、細部については研究上の諸説がある。
+
+## 見どころ
+
+最大の見どころは、曳山の上で繰り広げられる子供歌舞伎の上演である。漆塗りと金箔で装飾された豪華な曳山を舞台に、化粧と衣装をまとった子供役者が古典歌舞伎の名場面を本格的に演じる。子供ならではの初々しさと、長い稽古の成果として表れる確かな所作とが同居する点が、この祭りならではの魅力である。演目には歌舞伎の名作が選ばれ、見得や名台詞の場面では見物客から大きな反応が起こる。
+
+もう一つの目玉が「曳山曳揃え」で、複数の曳山が一堂に会する年に一度の機会である。彫刻や金具、幕の意匠に町ごとの個性が表れた曳山が、市街地の交差点などに居並ぶ光景は壮観で、城下町の華やぎを今に伝える。あわせて両社の神輿が市中を巡幸し、露店も立ち並ぶことで、町全体が祝祭の空気に包まれる。曳山の精緻な装飾そのものも、加賀の伝統工芸の粋を伝える見どころとなっている。
+
+## 開催情報・アクセス
+
+開催は毎年5月上旬（例年8日〜10日頃）で、石川県小松市の中心市街地が会場となる。アクセスはJR北陸本線「小松駅」が最寄りで、駅から徒歩圏内の市街地で子供歌舞伎や曳揃えが行われる。小松空港からも近く、北陸新幹線の延伸により首都圏・関西圏からの来訪もしやすくなっている。市内の「こまつ曳山交流館みよっさ」では曳山を通年で展示・紹介しており、祭りの時期以外でもその豪壮な姿を間近で見ることができる。
+
+子供歌舞伎の上演時間や曳揃えの会場・日程は年により異なるため、来場前に小松市や観光協会の公式情報で最新の日程を確認するとよい。人気の演目や曳揃えの時間帯は特に混雑するため、ゆとりを持った計画が安心である。
+
+## 周辺の見どころ
+
+小松市は、歌舞伎「勧進帳」の舞台として知られる安宅の関や、奇岩と紅葉で名高い古刹・那谷寺、開湯の歴史を持つ粟津温泉など、歴史と自然に恵まれた観光資源を有する。また九谷焼の主要産地としても知られ、窯元めぐりや絵付け体験を楽しむこともできる。お旅まつりの観覧と合わせて、城下町の風情や北陸の温泉、伝統工芸に触れる旅が楽しめる。
+
+## 関連情報
+
+お旅まつりの曳山子供歌舞伎は、富山県の高岡・城端をはじめとする北陸各地の曳山文化や、全国各地に伝わる子供歌舞伎・地芝居の伝統と併せて見ると、北陸の町衆が育んだ祭礼文化の豊かさをより深く理解できる。開催月は5月（春）、所在は石川県小松市、会場は小松市中心市街地で、起源は1640年頃、曳山子供歌舞伎の上演は1951年に始まった。曳山子供歌舞伎の行事は石川県無形民俗文化財、現存する曳山8基は小松市指定文化財である。
+','## Overview
+
+The Otabi Matsuri is the spring grand festival of Uhashi Shrine and Motoori Hiyoshi Shrine, held each year in May (typically around the 8th to 10th) in Komatsu City, Ishikawa Prefecture. Its name derives from the "otabi," the procession in which the two shrines'' portable shrines (mikoshi) tour the parish district. It is counted among the representative spring festivals of the Hokuriku region. Its defining feature is the "hikiyama kodomo kabuki," in which local children perform kabuki atop ornate festival floats (hikiyama), a tradition nurtured by the townspeople''s culture of the castle town of Komatsu and known throughout Japan.
+
+Eight hikiyama survive today, all designated Tangible Cultural Properties of Komatsu City. The hikiyama children''s kabuki event is designated an Intangible Folk Cultural Property of Ishikawa Prefecture, and the mikoshi of both shrines, handed down since the Edo period, are likewise designated cultural properties of the city. During the festival, the mikoshi procession, the children''s kabuki performances, and the "hikiyama hikisoroe" gathering of multiple floats together color the springtime castle town.
+
+## History and Origins
+
+The origins of the Otabi Matsuri are said to date to around 1640, the period when Maeda Toshitsune, the third lord of the Kaga Domain, retired and took up residence in Komatsu Castle. It is recorded that the mikoshi of Uhashi Shrine and Motoori Hiyoshi Shrine, during their procession, visited the gate of Komatsu Castle to pray for the peace, prosperity, and martial fortune of the Maeda house, and that this became the beginning of the festival. Toshitsune was deeply versed in the arts, including crafts and the tea ceremony, and encouraged industries such as Kutani ware and silk weaving, so the townspeople of Komatsu prospered both economically and culturally. This flourishing of merchant culture laid the foundation for the later float festival.
+
+The present form, in which children''s kabuki is performed atop the floats, is said to have begun in 1951. Each town owned a hikiyama and used it as a mobile stage on which to dedicate children''s kabuki. Eight towns in Komatsu possess floats, and by a rotation system two of them perform the children''s kabuki each year while the remaining six display their floats. This ensures that different towns'' floats and repertoires take the leading role each year, sustaining a friendly rivalry in skill and decoration.
+
+The child performers are local children who undertake long periods of training in delivery, movement, and stage combat before the performance. Accompanied by shamisen and festival musicians, a full-fledged kabuki stage appears in the streets of the castle town. For the children it is a milestone occasion, and the adults of each town support the costumes, makeup, and staging, so that the community as a whole carries on the tradition. The exact dating and process of the festival''s formation vary in tradition, and finer details are subject to scholarly debate.
+
+## Highlights
+
+The greatest highlight is the children''s kabuki performed atop the floats. On the lavish hikiyama adorned with lacquer and gold leaf, child actors in makeup and costume perform celebrated scenes of classic kabuki in earnest. The coexistence of childlike freshness and the assured movements born of long training is the distinctive charm of this festival, and during scenes of dramatic poses and famous lines the spectators respond with enthusiasm.
+
+Another centerpiece is the "hikiyama hikisoroe," a once-a-year occasion when multiple floats gather in one place. The sight of floats lined up at a city intersection, each bearing carvings, metalwork, and curtains reflecting its town''s individuality, is spectacular and conveys the splendor of the castle town. Together with the mikoshi procession through the town and the rows of festival stalls, the whole town is enveloped in a celebratory atmosphere. The exquisite ornamentation of the floats themselves, conveying the finest of Kaga''s traditional crafts, is also a highlight.
+
+## Event Information and Access
+
+The festival is held in early May (typically around the 8th to 10th) each year, with the central district of Komatsu City as its venue. The nearest station is JR Hokuriku Main Line "Komatsu Station," and the children''s kabuki and float gathering take place in the city center within walking distance of the station. It is also close to Komatsu Airport, and the extension of the Hokuriku Shinkansen has made access easier from the Tokyo and Kansai regions. The "Komatsu Hikiyama Koryukan Miyossa" in the city displays and introduces the floats year-round.
+
+Because the performance times of the children''s kabuki and the venue and schedule of the float gathering vary by year, visitors should confirm the latest schedule through official information from Komatsu City or the tourism association before attending. Popular performances and the float-gathering times can be especially crowded, so allowing extra time is advisable.
+
+## Nearby Attractions
+
+Komatsu City is endowed with historical and natural attractions, including the Ataka Barrier known as the setting of the kabuki play "Kanjincho," the ancient temple Natadera famous for its strange rocks and autumn foliage, and Awazu Onsen with its long history. It is also a major center of Kutani ware production, where visitors can tour kilns and try painting. Combined with the Otabi Matsuri, a trip here offers the atmosphere of a castle town, the hot springs of Hokuriku, and exposure to traditional crafts.
+
+## Related Information
+
+Viewed alongside the float culture of Takaoka and Johana in Toyama Prefecture and other parts of Hokuriku, as well as the traditions of children''s kabuki and local theater across Japan, the Otabi Matsuri''s hikiyama children''s kabuki offers a deeper understanding of the rich festival culture nurtured by Hokuriku''s townspeople. Held in May (spring) in Komatsu City, Ishikawa Prefecture, the festival traces its origins to around 1640, while the children''s kabuki performances began in 1951. The children''s kabuki event is an Intangible Folk Cultural Property of Ishikawa Prefecture, and the eight surviving floats are Tangible Cultural Properties of Komatsu City.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11272648','てだこまつり','Urasoe Tedako Festival',NULL,NULL,'Q695895','浦添市','Urasoe',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tedako%20Matsuri%20festival%20brings%20communities%20together%20140720-M-LN208-489.jpg','https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A0%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11271457','定禅寺ストリートジャズフェスティバル','Jozenji Street Jazz Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%A6%85%E5%AF%BA%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11278423','まつりつくば','Matsuri Tsukuba',NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%A4%E3%81%8F%E3%81%B0',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2811,7 +2877,69 @@ Alongside the dolls, the venue displays a wide variety of meticulously cultivate
 Beyond the floral displays, the Takefu Chrysanthemum Doll Festival also offers revue shows and amusement park attractions, making it a family-friendly event cherished as a major local outing. Echizen City is also renowned for traditional crafts such as Echizen forged blades and Echizen washi paper. Set against this rich cultural backdrop, the festival continues to welcome large numbers of visitors as a defining autumn celebration of Fukui.','takefu-chrysanthemum-doll','takefu-chrysanthemum-doll-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11265326','くきのうみ花火の祭典',NULL,'北九州市の花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%8D%E3%81%AE%E3%81%86%E3%81%BF%E8%8A%B1%E7%81%AB%E3%81%AE%E7%A5%AD%E5%85%B8',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11262075','おのみち住吉花火まつり',NULL,'広島県尾道市で行われる花火大会',NULL,'Q696694','尾道市','Onomichi','大阪府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AE%E3%81%BF%E3%81%A1%E4%BD%8F%E5%90%89%E8%8A%B1%E7%81%AB%E3%81%BE%E3%81%A4%E3%82%8A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11268205','さぬき高松まつり','Sanuki Takamatsu Festival',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Japan%20-%20Takamatsu%20Awa%20Odori%20Bon%20Festival%2003.jpg','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11268205','さぬき高松まつり','Sanuki Takamatsu Festival',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Japan%20-%20Takamatsu%20Awa%20Odori%20Bon%20Festival%2003.jpg','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+さぬき高松まつりは、香川県高松市で毎年8月12〜14日の3日間に開催される、四国を代表する夏祭りの一つである。正式には「さぬき高松まつり・どんどん高松」と称し、徳島の阿波おどり、高知のよさこい祭り、愛媛の新居浜太鼓祭りと並ぶ「四国四大祭り」の一つに数えられる。1966年（昭和41年）に始まった比較的新しい都市型の市民祭りで、市民総おどり「総おどり」や、瀬戸内海を彩る花火大会など、讃岐路の真夏の夜を盛り上げる多彩な催しが繰り広げられる。3日間の来場者は延べ数十万人規模にのぼり、近年の例では40万人を超える人出を記録している。
+
+この祭りは、伝統的な神事を起源とするものではなく、戦後の高度経済成長期に市民参加型のイベントとして企画・発展してきた点が大きな特徴である。瀬戸内海に開かれ、本州と四国を結ぶ要所として栄えた高松ならではの、海と都市が一体となった祝祭空間が魅力となっている。
+
+## 歴史・由来
+
+さぬき高松まつりは1966年に第1回が開催された。高度経済成長期に、市民の交流促進と地域の活性化を目的として始まった市民の祭りで、長い歴史を持つ伝統祭礼とは異なり、現代的な都市祭りとして一から企画された。開始当初から市民の参加を重視し、誰もが加われる開かれた祭りとして構想された点が、その後の発展を支えた。
+
+回を重ねるごとに規模を拡大し、総おどりや花火大会が祭りの中心行事として定着して、四国有数の夏祭りへと成長した。中心となる「総おどり」は、讃岐に古くから伝わる盆踊り唄「一合まいた」をアレンジした「さぬき高松のテーマ」曲にあわせて演舞が行われるのが特徴で、テーマ曲で踊る連と各連オリジナル曲で踊る自由連とがあり、合わせて数十連が参加する。市民や企業・団体の連が揃いの衣装で踊り進むことで、地域ぐるみの一体感を生み出してきた。近年は例年のメイン会場である中央公園が再整備中のため、サンポート高松エリアへ会場を移すなど、時代や状況に合わせて運営の見直しが続けられている。会場構成やプログラムは年により調整されるため、細部は各年の公式発表に拠る。
+
+## 見どころ
+
+最大の見どころは、瀬戸内海を背景に打ち上げられる花火大会である。打ち上げ数は約12,000発にのぼり、海面に映る大輪の花火は瀬戸内ならではの美しさを誇る。サンポート高松周辺の会場からは海と花火が織りなす壮観な光景を間近で楽しめるほか、高松港を出る大型観覧船の上から観賞することもでき、有料観覧席も設けられる。多数の花火が夜空を彩る様子は、祭りのクライマックスにふさわしい華やかさである。
+
+また、市民総おどりでは、揃いの衣装をまとった連が次々と踊りを披露し、沿道は熱気に包まれる。テーマ曲「さぬき高松のテーマ」で揃って踊る一糸乱れぬ演舞と、自由連による個性豊かな踊りの対比も見どころである。ステージイベントや多彩な露店も充実し、家族連れから若者まで幅広い世代が祭りを満喫できる。
+
+## 開催情報・アクセス
+
+開催は毎年8月12日〜14日の3日間で、香川県高松市の中心部が会場となる。アクセスはJR「高松駅」、ことでん「高松築港駅」などが至近で、市内中心部の複数会場へ徒歩で移動できる。瀬戸内海の島々への玄関口である高松港にも近く、島しょ部からの来場者も多い。花火大会には有料観覧席が設けられ、混雑緩和や良好な観覧環境の確保が図られている。
+
+真夏の屋外イベントのため、暑さ対策・水分補給は欠かせない。会場やプログラム、交通規制の内容は年により異なるため、来場前に高松まつり振興会や高松市の公式情報で最新の日程・会場を確認することが望ましい。
+
+## 周辺の見どころ
+
+高松市は、国の特別名勝に指定された大名庭園・栗林公園や、高松城跡を整備した玉藻公園、瀬戸内海の島々への玄関口として知られる。さぬき高松まつりの観覧と合わせて、名園散策や讃岐うどん巡り、直島・小豆島・女木島といった瀬戸内の島めぐりを組み合わせれば、瀬戸内ならではの魅力を満喫する旅となる。瀬戸内国際芸術祭の主要拠点としても近年注目を集めている。
+
+## 関連情報
+
+さぬき高松まつりは、徳島の阿波おどりや高知のよさこい祭りなど四国各地の夏祭りと併せて見ると、戦後に発展した市民参加型の都市祭りの広がりをより深く理解できる。開催月は8月（夏）、所在は香川県高松市、会場は高松市中心部（中央通り・サンポート高松周辺ほか）で、第1回は1966年に開催された。花火約12,000発を擁し、四国四大祭りの一つに数えられる、瀬戸内の港町を代表する夏祭りである。
+','## Overview
+
+The Sanuki Takamatsu Matsuri is one of the representative summer festivals of Shikoku, held over three days from August 12 to 14 each year in Takamatsu City, Kagawa Prefecture. Formally called the "Sanuki Takamatsu Matsuri / Dondon Takamatsu," it is counted among the "Four Great Festivals of Shikoku," alongside the Awa Odori of Tokushima, the Yosakoi Festival of Kochi, and the Niihama Taiko Festival of Ehime. Begun in 1966, it is a relatively new urban citizens'' festival, and during the height of summer it fills the nights of the Sanuki region with a citywide grand dance ("so-odori") and a fireworks display that colors the Seto Inland Sea, among many other events. Over its three days it draws several hundred thousand visitors, with recent editions recording crowds exceeding 400,000.
+
+Rather than originating in a traditional religious rite, the festival was planned and developed as a participatory citizens'' event during the postwar period of rapid economic growth. Its appeal lies in a festive space where sea and city merge, characteristic of Takamatsu, a hub that prospered as a gateway opening onto the Seto Inland Sea and connecting Honshu and Shikoku.
+
+## History and Origins
+
+The Sanuki Takamatsu Matsuri held its first edition in 1966. Begun during the era of rapid economic growth to promote civic exchange and revitalize the region, it was planned from scratch as a modern urban festival, unlike traditional festivals with long histories. From the outset it emphasized citizen participation, conceived as an open festival anyone could join, which supported its later growth.
+
+Edition by edition it expanded in scale, and the so-odori and the fireworks display became established as its central events, growing into one of Shikoku''s leading summer festivals. The central "so-odori" is distinguished by dancing performed to the theme song "Sanuki Takamatsu no Theme," an arrangement of the old Sanuki Bon-odori song "Ichigo Maita." Dancers include groups (ren) that dance to the theme song and free groups that dance to each ren''s own music, with several dozen groups participating in all. With citizens, companies, and organizations dancing in matching costumes, the festival fosters a sense of citywide unity. In recent years, because the usual main venue at Central Park has been under redevelopment, the venue has been moved to the Sunport Takamatsu area, and operations have continued to be revised to suit the circumstances. Venue layout and program are adjusted by year, so details depend on each year''s official announcements.
+
+## Highlights
+
+The greatest highlight is the fireworks display launched against the backdrop of the Seto Inland Sea. With around 12,000 fireworks, the great blooms reflected on the sea''s surface boast a beauty unique to the Seto Inland Sea. From venues around Sunport Takamatsu, visitors can enjoy the spectacular interplay of sea and fireworks up close, and they may also view them from aboard large sightseeing boats departing Takamatsu Port; paid seating is also provided. The sight of countless fireworks coloring the night sky offers a splendor befitting the festival''s climax.
+
+In the citywide so-odori, groups in matching costumes perform one after another, filling the streets with excitement. The contrast between the perfectly synchronized dancing to the theme song "Sanuki Takamatsu no Theme" and the individualistic dancing of the free groups is also a highlight. With stage events and a variety of stalls, visitors of all ages, from families to young people, can fully enjoy the festival.
+
+## Event Information and Access
+
+The festival is held over three days from August 12 to 14 each year, centered on the heart of Takamatsu City, Kagawa Prefecture. Access is excellent: JR "Takamatsu Station" and Kotoden "Takamatsu-Chikko Station" are close by, and the several venues in the city center are within walking distance. It is also near Takamatsu Port, the gateway to the islands of the Seto Inland Sea, and many visitors come from the islands. Paid seating is provided for the fireworks display to ease congestion and ensure good viewing conditions.
+
+As a midsummer outdoor event, protection against the heat and frequent hydration are essential. Because venues, programs, and traffic restrictions vary by year, visitors should confirm the latest dates and venues through the Takamatsu Festival Promotion Association or the city''s official information before attending.
+
+## Nearby Attractions
+
+Takamatsu City is known for Ritsurin Garden, a feudal-lord garden designated a Special Place of Scenic Beauty; Tamamo Park, developed on the site of Takamatsu Castle; and its role as a gateway to the islands of the Seto Inland Sea. Combined with the Sanuki Takamatsu Matsuri, a tour of the famous garden, a hunt for Sanuki udon, and island-hopping to Naoshima, Shodoshima, and Megijima make for a trip rich in the charms of the Seto Inland Sea. The city has also drawn attention in recent years as a key base for the Setouchi Triennale.
+
+## Related Information
+
+Viewed alongside the summer festivals of Shikoku such as the Awa Odori of Tokushima and the Yosakoi Festival of Kochi, the Sanuki Takamatsu Matsuri offers a deeper understanding of the spread of participatory urban festivals that developed in the postwar period. Held in August (summer) in Takamatsu City, Kagawa Prefecture, with venues in the city center including the central avenue and the Sunport Takamatsu area, its first edition was held in 1966. With some 12,000 fireworks, it is counted among the Four Great Festivals of Shikoku and is a representative summer festival of this Seto Inland Sea port town.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11272296','つくりもんまつり','Tsukurimon Festival','富山県高岡市福岡町で行なわれる奇祭',NULL,'Q17','日本','Japan','富山県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/National%20Museum%20of%20Ethnology%2C%20Osaka%20-%20Ranry%C3%B4-%C3%B4%20statue%20made%20of%20vegetables%20-%20Festival%20%22Tsukurimon-matsuri%22%20-%20Takaoka%2C%20Toyama%20pref.%20-%20Collected%20in%202012.jpg','https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%82%8A%E3%82%82%E3%82%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## つくりもんまつりとは
 
 つくりもんまつりは、富山県高岡市福岡町（旧福岡町）で毎年9月23日・24日の地蔵祭にあわせて開催される、全国的にも珍しい奇祭です。野菜・果物・草花といった農産物そのものを素材として、歴史上の人物や時事の話題、物語の一場面などを精巧にかたどった「つくりもん」を町中に飾り立てる、収穫期ならではの祭りとして親しまれています。大根、なす、かぼちゃ、唐辛子、稲穂などが思いがけない造形へと姿を変え、見る者を驚かせます。
@@ -4333,7 +4461,69 @@ INSERT INTO "festivals" VALUES('Q11396267','刈谷わんさか祭り','Kariya Wa
 INSERT INTO "festivals" VALUES('Q11402392','北海ソーラン祭り','Hokkai Soran Matsuri','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.188471862,140.794824782,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11391547','八王子いちょう祭り','Hachioji Ginkgo Festival','東京都八王子市にて毎年秋に実施される祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,1979,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11378042','仙台短篇映画祭','Sendai Short Film Festival',NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',NULL,NULL,2001,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E7%9F%AD%E7%AF%87%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11381210','会津まつり','Aizu Clan Parade',NULL,NULL,'Q237699','会津若松市','Aizuwakamatsu','福島県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Shinmei-dori%20during%202006%20Aizu%20Autumn%20Festival.JPG','https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11381210','会津まつり','Aizu Clan Parade',NULL,NULL,'Q237699','会津若松市','Aizuwakamatsu','福島県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shinmei-dori%20during%202006%20Aizu%20Autumn%20Festival.JPG','https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+会津まつりは、福島県会津若松市で毎年9月（例年中旬の3日間）に開催される、会津地方最大の祭りである。鶴ヶ城（会津若松城）を中心とした市内一帯を舞台に、提灯行列・会津磐梯山踊り・先人感謝祭・会津藩公行列・日新館童子行列・鼓笛隊パレードなど多彩な行事が3日間にわたって繰り広げられる。中でも最大の目玉は、総勢約500名が武者姿で市中を練り歩く「会津藩公行列」で、戊辰戦争で命を落とした会津藩士を偲ぶ歴史色の濃い行列として全国的に知られている。
+
+会津若松は、藩校・日新館に象徴される武士の教育、戊辰戦争での籠城戦、悲劇の白虎隊といった歴史の物語が幾重にも重なる城下町である。会津まつりは、その歴史と精神を今に伝える祭りとして市民に深く根づいており、秋の会津路を彩る風物詩として多くの観光客が訪れる。
+
+## 歴史・由来
+
+会津まつりのルーツは、1928年（昭和3年）に行われた提灯行列にさかのぼるとされる。これは秩父宮雍仁親王と、会津藩最後の藩主・松平容保の孫娘である松平勢津子との成婚を祝って催されたもので、戊辰戦争で「朝敵」とされて以来の会津の汚名が晴れたことを喜び祝った先人たちの思いが込められていた。現在の形の会津まつりは1953年（昭和28年）に初めて開催されたとされ、以後、会津地方を代表する秋の祭りとして発展してきた。
+
+祭りの中核をなす「会津藩公行列」は、戊辰戦争で落命した会津藩士を偲ぶとともに、藩の歴史を顕彰する行事である。歴代藩主や白虎隊、女性で組織された娘子軍（中野竹子らで知られる）などに扮した約500名が、甲冑や陣羽織といった武者姿で市内を行進する勇壮な行列で、毎年著名人が特別ゲストとして藩主役などを務めることでも話題を呼ぶ。提灯行列は1928年のルーツを受け継ぐ行事として各地区の子どもたちが参加し、日新館童子行列は会津藩の藩校・日新館の伝統や「什の掟」に代表される会津の子弟教育にちなむなど、各行事がそれぞれ会津の歴史と固く結びついている点が大きな特徴である。
+
+## 見どころ
+
+最大の見どころは、総勢約500名による「会津藩公行列」である。歴代の会津藩主や白虎隊、娘子軍、家臣団に扮した武者たちが、甲冑に身を包んで鶴ヶ城周辺から市内中心部を練り歩く姿は、幕末の絵巻物さながらの迫力をもって観客を魅了する。沿道では剣舞の披露なども行われ、会津の武家文化の気風が色濃く感じられる。
+
+このほか、祭りの開幕を告げる提灯行列では、灯りを掲げた人々の列が夜の街を彩り、会津磐梯山踊りでは市民や来場者が輪になって会津地方を代表する民謡踊りを楽しむ。日新館童子行列や鼓笛隊パレードでは地元の子どもたちが主役となり、世代を超えて祭りが受け継がれている様子がうかがえる。戊辰戦争の犠牲者を悼む厳かさと、市民が一体となる賑わいとが共存する点が、会津まつりの大きな魅力である。
+
+## 開催情報・アクセス
+
+開催は毎年9月中旬の3日間で、福島県会津若松市の鶴ヶ城（追手町）周辺および市内中心部が会場となる。アクセスはJR磐越西線「会津若松駅」が玄関口で、駅から会場へは路線バスやレトロ調の周遊バス（ハイカラさん・あかべぇ等）が利用できる。会津藩公行列の当日は市内中心部で大規模な交通規制が実施されるため、来場前に経路や時間を確認しておくとよい。
+
+各行事の日程・時間・コースは年により異なるため、来場前に会津若松市や会津若松観光ビューローの公式情報で最新の情報を確認することが望ましい。秋の彼岸の時期にあたるため、宿泊を伴う来訪は早めの予約が安心である。
+
+## 周辺の見どころ
+
+会津若松市は、シンボルである鶴ヶ城をはじめ、白虎隊自刃の地として知られる飯盛山、会津藩校・日新館（復元施設）、武家屋敷、二重らせん構造で有名なさざえ堂など、歴史的な見どころが豊富である。会津漆器や会津絵ろうそく、地酒といった伝統産業や食文化も魅力で、近郊には東山温泉や芦ノ牧温泉もある。会津まつりの観覧と合わせて、城下町の歴史と会津の食・温泉を満喫する旅が楽しめる。
+
+## 関連情報
+
+会津まつりは、戊辰戦争や白虎隊の歴史と深く結びついた祭りであり、会津の城下町文化や武家の教育伝統と併せて見ると、その背景をより深く理解できる。開催月は9月（秋）、所在は福島県会津若松市、会場は鶴ヶ城周辺・市内中心部で、ルーツは1928年の提灯行列、現在の形での初開催は1953年とされる。会津藩公行列を中心とする、会津地方最大の秋祭りである。
+','## Overview
+
+The Aizu Matsuri is the largest festival of the Aizu region, held each year in September (typically over three days in mid-month) in Aizuwakamatsu City, Fukushima Prefecture. With Tsuruga Castle (Aizuwakamatsu Castle) at its center, a variety of events unfold across the city over three days, including the lantern procession, the Aizu Bandaisan dance, the ancestors'' memorial service, the Aizu Domain Lord''s Procession, the Nisshinkan children''s procession, and the fife-and-drum corps parade. The greatest centerpiece is the "Aizu Domain Lord''s Procession," in which some 500 people parade through the city in warrior attire—a procession of deep historical character known nationwide for honoring the Aizu samurai who lost their lives in the Boshin War.
+
+Aizuwakamatsu is a castle town where layer upon layer of historical stories intertwine: the samurai education symbolized by the Nisshinkan domain school, the siege of the Boshin War, and the tragic Byakkotai (White Tiger Corps). The Aizu Matsuri is deeply rooted among the citizens as a festival that conveys this history and spirit to the present, and as a feature coloring the autumn of the Aizu region, it draws many visitors.
+
+## History and Origins
+
+The roots of the Aizu Matsuri are said to date to a lantern procession held in 1928. This was held to celebrate the marriage of Prince Chichibu (Yasuhito) and Matsudaira Setsuko, the granddaughter of Matsudaira Katamori, the last lord of the Aizu Domain. It carried the feelings of the forebears who rejoiced that Aizu''s disgrace—since being branded an "enemy of the court" in the Boshin War—had been cleared. The Aizu Matsuri in its present form is said to have been first held in 1953, and thereafter it developed into a representative autumn festival of the Aizu region.
+
+The "Aizu Domain Lord''s Procession" at the festival''s core is an event that both honors the Aizu samurai who fell in the Boshin War and commemorates the domain''s history. Around 500 people dressed as successive domain lords, the Byakkotai, and the Joshigun (a women''s corps known for figures such as Nakano Takeko), among others, parade through the city in armor and surcoats in a spirited procession, and it draws attention each year as celebrities serve as special guests playing roles such as the domain lord. The lantern procession, in which children from each district take part, carries on the roots from 1928, and the Nisshinkan children''s procession draws on the traditions of the Aizu domain school Nisshinkan and the education of Aizu''s children epitomized by the "Ju no Okite" (the children''s code). Each event is thus firmly tied to Aizu''s history—a major characteristic of this festival.
+
+## Highlights
+
+The greatest highlight is the "Aizu Domain Lord''s Procession" of some 500 people. The sight of warriors dressed as successive Aizu lords, the Byakkotai, the Joshigun, and retainers, clad in armor and parading from around Tsuruga Castle through the city center, captivates spectators with a power reminiscent of an illustrated scroll of the late Edo period. Along the route, sword dances and other performances are also held, giving a strong sense of the spirit of Aizu''s samurai culture.
+
+In addition, the lantern procession announcing the festival''s opening colors the night streets with lines of people holding up lanterns, and in the Aizu Bandaisan dance, citizens and visitors form circles to enjoy a folk dance representative of the Aizu region. In the Nisshinkan children''s procession and the fife-and-drum parade, local children take the leading roles, showing how the festival is handed down across generations. The coexistence of the solemnity of mourning the Boshin War''s victims and the liveliness of citizens uniting as one is the great appeal of the Aizu Matsuri.
+
+## Event Information and Access
+
+The festival is held over three days in mid-September each year, with the area around Tsuruga Castle (Ote-machi) and the city center of Aizuwakamatsu City, Fukushima Prefecture, as its venue. Access is via JR Banetsu West Line "Aizuwakamatsu Station" as the gateway, with route buses and retro-style loop buses (Haikara-san, Akabe, and others) available from the station to the venues. On the day of the Aizu Domain Lord''s Procession, large-scale traffic restrictions are in place in the city center, so it is wise to confirm routes and times before attending.
+
+Because the dates, times, and routes of each event vary by year, visitors should confirm the latest information through the official sources of Aizuwakamatsu City or the Aizuwakamatsu Tourism Bureau before attending. As it falls around the autumn equinox, early reservations are advisable for overnight visits.
+
+## Nearby Attractions
+
+Aizuwakamatsu City is rich in historical attractions, including its symbol Tsuruga Castle, Mount Iimori known as the site of the Byakkotai''s suicide, the reconstructed Aizu domain school Nisshinkan, samurai residences, and the Sazaedo hall famous for its double-helix structure. Traditional industries and food culture such as Aizu lacquerware, Aizu painted candles, and local sake are also appealing, and nearby are Higashiyama Onsen and Ashinomaki Onsen. Combined with the Aizu Matsuri, a trip here lets visitors fully enjoy the history of the castle town along with Aizu''s cuisine and hot springs.
+
+## Related Information
+
+The Aizu Matsuri is a festival deeply tied to the history of the Boshin War and the Byakkotai, and viewing it alongside Aizu''s castle-town culture and samurai educational traditions offers a deeper understanding of its background. Held in September (autumn) in Aizuwakamatsu City, Fukushima Prefecture, with venues around Tsuruga Castle and the city center, its roots lie in the 1928 lantern procession, and its first staging in the present form is said to be 1953. Centered on the Aizu Domain Lord''s Procession, it is the largest autumn festival of the Aizu region.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11406993','半夏生','Crow-dipper sprouts','雑節のひとつ','The 30th of the 72 pentads, lasting from July 2–6.',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Saururus%20chinensis%20kz01.jpg','https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%A4%8F%E7%94%9F',NULL,85,'drafted','## 半夏生とは
 
 半夏生（はんげしょう）は、日本の暦における「雑節（ざっせつ）」のひとつで、夏至から数えて11日目（おおむね7月2日頃)にあたります。古くから農作業の節目とされ、「半夏生までに田植えを終える」という農事の目安として、全国の農村で重んじられてきた年中行事的な暦日です。特定の地域の祭りではなく、日本各地で農耕の暮らしと結びついて受け継がれてきた、季節の節目です。
@@ -4376,7 +4566,69 @@ INSERT INTO "festivals" VALUES('Q11395741','出町子供歌舞伎曳山祭','Ton
 INSERT INTO "festivals" VALUES('Q11396697','別府八湯温泉まつり','Beppu Hatto Onsen Festival',NULL,NULL,NULL,NULL,NULL,'大分県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E5%85%AB%E6%B9%AF%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11397240','前橋まつり','Maebashi Matsuri',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%89%8D%E6%A9%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11397692','前田祇園山笠','Maeda Gion Yamakasa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyama Hanatōro',NULL,'event in Japan','Q2859566','嵐山','Arashiyama','京都府','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Arashiyama%20Hanat%C5%8Dro%2C%20Nison-in%20%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF%E3%83%BB%E4%BA%8C%E5%B0%8A%E9%99%A2%20%E7%B4%85%E8%91%89%E3%81%A8%E6%9C%88%20DSCF5361.JPG','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyama Hanatōro',NULL,'event in Japan','Q2859566','嵐山','Arashiyama','京都府','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Arashiyama%20Hanat%C5%8Dro%2C%20Nison-in%20%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF%E3%83%BB%E4%BA%8C%E5%B0%8A%E9%99%A2%20%E7%B4%85%E8%91%89%E3%81%A8%E6%9C%88%20DSCF5361.JPG','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'drafted','## 概要
+
+京都・嵐山花灯路（あらしやまはなとうろ）は、京都市の嵐山・嵯峨地域一帯で、例年12月上旬から中旬にかけて夜間に開催されていた、灯りと花による観光イベントである。渡月橋やその周辺の山裾・水辺、竹林の小径など嵐山を代表する景観を、露地行灯（ろじあんどん）の柔らかな灯りと、生け花作品「いけばなプロムナード」で彩り、初冬の嵐山に幻想的な夜景を生み出してきた。2005年（平成17年）に始まり、17年間にわたって京都の冬の夜の風物詩として親しまれたが、2021年（令和3年）の開催をもって終了した。
+
+本イベントは、京都市や関係団体が主体となって運営した観光振興事業で、伝統的な祭礼ではない。点灯時間帯には、寺社のライトアップや周辺施設の特別公開なども行われ、昼間とは異なる嵐山の魅力を楽しめる催しとして発展した。
+
+## 歴史・由来
+
+京都・花灯路の取り組みは、京都の観光オフシーズンにあたる冬と早春に夜間観光を促進する目的で始められた。21世紀からの京都の夜の新たな風物詩となることを目指し、2003年（平成15年）3月に東山地域で「東山花灯路」がスタートした。その成功を受けて、2005年に「嵐山花灯路」が嵐山・嵯峨地域で始まった。歩いて巡る「灯りと花の路」をコンセプトに、京都の伝統工芸や生け花、寺社の文化資源を組み合わせ、地域全体を回遊する夜間イベントとして企画された。
+
+露地行灯には京都の伝統的な素材や意匠が用いられ、いけばなプロムナードでは京都の各流派による生け花作品が散策路に並ぶなど、京都ならではの文化性が前面に打ち出された。地元住民やボランティア、学生らの協力によって運営が支えられ、地域に根ざした催しとして定着していった。やがて主催者は、所期の目的を果たしたとして、20年の節目を機に嵐山花灯路・東山花灯路をともに終了する方針を示し、嵐山花灯路は2021年の開催を最後に幕を閉じた。終了後は、地元住民らの手によって竹林を照らす「嵐山月灯路」として一部の取り組みが継承されている。細部の経緯は主催者の公式発表に拠る。
+
+## 見どころ
+
+最大の見どころは、嵐山のシンボルである渡月橋周辺のライトアップであった。橋とその背後の山裾、桂川の水辺までが一体に照らし出され、雄大で美しい夜の自然景観が演出された。漆黒の夜空を背景に浮かび上がる渡月橋は、昼間の景観とはまったく異なる神秘的な美しさを見せ、多くの来場者を魅了した。
+
+また、緑の竹が幻想的に照らされる竹林の小径のライトアップも、本イベントを象徴する光景であった。露地行灯がともる散策路をたどりながら、いけばなプロムナードの生け花作品を鑑賞できる点も大きな魅力で、沿道の寺社では特別なライトアップや夜間拝観が行われ、灯りに照らされた庭園や堂宇が幽玄な雰囲気を醸し出した。冬の澄んだ空気の中で、灯りと花、そして京都の文化が一体となった夜の散策を楽しめた。
+
+## 開催情報・アクセス
+
+開催は例年12月上旬から中旬の夜間で、京都市の嵐山・嵯峨地域一帯が会場であった。アクセスはJR嵯峨野線「嵯峨嵐山駅」、阪急嵐山線「嵐山駅」、京福電鉄（嵐電）「嵐山駅」などが至近で、複数路線から徒歩圏内という利便性の高さも来場のしやすさにつながっていた。点灯時間は夕方から夜にかけてで、冬の冷え込みが厳しいため防寒対策が欠かせなかった。
+
+なお、本イベントは2021年で開催を終了しているため、現在は同じ形での催しは行われていない。嵐山の夜間のライトアップについては、後継の取り組みである「嵐山月灯路」や寺社の特別拝観など、個別の催しの最新情報を確認するとよい。
+
+## 周辺の見どころ
+
+嵐山・嵯峨地域には、世界遺産の天龍寺をはじめ、竹林の小径、渡月橋、野宮神社、常寂光寺など、京都を代表する名所が集まっている。保津川下りやトロッコ列車など自然を楽しむアクティビティも充実しており、四季を通じて多くの観光客が訪れる。花灯路の終了後も、嵐山は京都有数の観光地として変わらぬ人気を保っている。
+
+## 関連情報
+
+京都・嵐山花灯路は、先行して始まった「東山花灯路」と対をなす催しで、京都の夜間観光振興の取り組みを象徴する存在であった。開催月は12月（冬）、所在は京都府京都市、会場は嵐山・嵯峨地域一帯で、2005年に始まり2021年に終了した。灯りと花、京都の伝統文化が融合した冬の夜のイベントとして、多くの人々の記憶に残っている。
+','## Overview
+
+The Kyoto Arashiyama Hanatoro was a nighttime tourism event of light and flowers held throughout the Arashiyama and Saga area of Kyoto City, typically from early to mid-December each year. It adorned landscapes representative of Arashiyama—the Togetsukyo Bridge and its surrounding mountain slopes and waterside, and the Bamboo Grove path—with the soft glow of roji-andon (path lanterns) and the "Ikebana Promenade" of flower arrangements, creating a fantastical nightscape in early-winter Arashiyama. Begun in 2005, it was cherished for seventeen years as a feature of Kyoto''s winter nights, before coming to an end with its 2021 edition.
+
+The event was a tourism-promotion undertaking run chiefly by Kyoto City and related organizations, not a traditional festival. During lighting hours, temple and shrine illuminations and special openings of nearby facilities were also held, developing into an event that let visitors enjoy a side of Arashiyama different from the daytime.
+
+## History and Origins
+
+The Kyoto Hanatoro initiative began with the aim of promoting nighttime tourism in winter and early spring, Kyoto''s tourism off-season. Seeking to become a new feature of Kyoto''s nights for the twenty-first century, the "Higashiyama Hanatoro" started in the Higashiyama area in March 2003. Following its success, the "Arashiyama Hanatoro" began in the Arashiyama and Saga area in 2005. Under the concept of a walkable "path of light and flowers," it was planned as a nighttime event circulating through the whole area, combining Kyoto''s traditional crafts, flower arrangement, and the cultural resources of its temples and shrines.
+
+The roji-andon used traditional Kyoto materials and designs, and the Ikebana Promenade lined the walking paths with arrangements by Kyoto''s various schools, foregrounding a cultural character unique to Kyoto. Operations were supported by the cooperation of local residents, volunteers, and students, and it took root as a community-based event. In time, the organizers, judging that the event had fulfilled its original purpose, announced a policy of ending both the Arashiyama and Higashiyama Hanatoro at the twenty-year milestone, and the Arashiyama Hanatoro closed after its 2021 edition. Since then, part of the effort has been carried on by local residents as the "Arashiyama Tsukitoro," illuminating the bamboo grove. Finer details depend on the organizers'' official announcements.
+
+## Highlights
+
+The greatest highlight was the illumination around the Togetsukyo Bridge, the symbol of Arashiyama. The bridge, the mountain slopes behind it, and the waterside of the Katsura River were lit as a whole, producing a magnificent and beautiful nighttime natural scene. The Togetsukyo Bridge rising against the jet-black night sky revealed a mysterious beauty utterly different from the daytime view, captivating many visitors.
+
+The illumination of the Bamboo Grove path, where the green bamboo was lit fantastically, was another scene emblematic of the event. Strolling along the lantern-lit paths while viewing the arrangements of the Ikebana Promenade was also a great appeal, and along the route, temples and shrines held special illuminations and night viewings, with lamp-lit gardens and halls evoking a profound, mystical atmosphere. In the clear winter air, visitors could enjoy a nighttime stroll where light, flowers, and Kyoto''s culture became one.
+
+## Event Information and Access
+
+The event was held on nights from early to mid-December each year, with the Arashiyama and Saga area of Kyoto City as its venue. Access was convenient: JR Sagano Line "Saga-Arashiyama Station," Hankyu Arashiyama Line "Arashiyama Station," and Keifuku Railway (Randen) "Arashiyama Station" are all close by, within walking distance of multiple lines. Lighting hours ran from evening into night, and because winter cold can be severe, protection against the cold was essential.
+
+Note that the event ended in 2021, so it is no longer held in the same form. For nighttime illuminations in Arashiyama, it is best to check the latest information on individual events such as the successor "Arashiyama Tsukitoro" and special temple and shrine viewings.
+
+## Nearby Attractions
+
+The Arashiyama and Saga area gathers attractions representative of Kyoto, including the World Heritage Tenryu-ji, the Bamboo Grove path, the Togetsukyo Bridge, Nonomiya Shrine, and Jojakko-ji. Nature-oriented activities such as the Hozugawa River boat ride and the Sagano Romantic Train are also abundant, drawing many visitors throughout the year. Even after the Hanatoro ended, Arashiyama retains its unchanging popularity as one of Kyoto''s foremost sightseeing areas.
+
+## Related Information
+
+The Kyoto Arashiyama Hanatoro formed a pair with the earlier "Higashiyama Hanatoro" and was emblematic of Kyoto''s efforts to promote nighttime tourism. Held in December (winter) in Kyoto City, Kyoto Prefecture, with the entire Arashiyama and Saga area as its venue, it began in 2005 and ended in 2021. As a winter night event fusing light, flowers, and Kyoto''s traditional culture, it remains in the memory of many people.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371526','二島祇園',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%B3%B6%E7%A5%87%E5%9C%92',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11381874','住吉祭','Sumiyoshi Matsuri','大阪市の住吉大社で行われる祭礼','Shinto shrine in Osaka Prefecture, Japan','Q705949','住吉大社','Sumiyoshi Taisha','大阪府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sumiyoshi%20Matsuri%20%2804%29%20IMG%203224-2%2020140801.JPG','https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E7%A5%AD',NULL,85,'drafted','## 住吉祭とは
 
@@ -4466,7 +4718,69 @@ The venue is the Onda sacred field at Sumiyoshi Taisha, 2-chome Sumiyoshi, Sumiy
 Sumiyoshi Taisha is the head shrine of approximately 2,300 Sumiyoshi shrines across Japan and is revered as the deity of maritime safety, waka poetry, and agriculture. The Sorihashi (arched drum bridge) within the precincts is a symbol of the shrine and worth visiting before or after the ritual. The surrounding area retains the atmosphere of traditional Osaka downtown, and the nearby Mozu Tombs in Sakai City, including the Emperor Nintoku Tomb, are designated as UNESCO World Heritage sites.','sumiyoshi-no-otaue-shinji','sumiyoshi-no-otaue-shinji',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11401311','北國大花火川北大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E5%9C%8B%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%B7%9D%E5%8C%97%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11408464','南越谷阿波踊り',NULL,NULL,NULL,NULL,NULL,NULL,'徳島県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%97%E8%B6%8A%E8%B0%B7%E9%98%BF%E6%B3%A2%E8%B8%8A%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11374839','京都・東山花灯路','Higashiyama Hanatouro',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Illuminated%20Yasakanoto%20Tower%20%28Hokanji%20Temple%29%202.jpg','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E6%9D%B1%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11374839','京都・東山花灯路','Higashiyama Hanatouro',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Illuminated%20Yasakanoto%20Tower%20%28Hokanji%20Temple%29%202.jpg','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E6%9D%B1%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'drafted','## 概要
+
+京都・東山花灯路（ひがしやまはなとうろ）は、京都市東山区の清水寺から八坂神社、高台寺を経て青蓮院に至る一帯で、例年3月上旬から中旬にかけて夜間に開催されていた、灯りと花による観光イベントである。清水寺から青蓮院までの約5キロにおよぶ散策路を、露地行灯（ろじあんどん）の柔らかな灯りと、京都の各流派による生け花作品「いけばなプロムナード」で彩り、早春の東山に幻想的な夜の風情を生み出してきた。2003年（平成15年）に始まり、ちょうど20年の歴史を刻んだのち、2022年（令和4年）の開催をもって終了した。
+
+本イベントは、京都市や関係団体が主体となって運営した観光振興事業で、長い歴史を持つ伝統的な祭礼ではない。期間中は東山に集まる寺社で特別な夜間拝観やライトアップも行われ、昼間の賑わいとは異なる古都の夜の魅力を楽しめる催しとして、京都の早春を代表する風物詩に育っていった。市民や観光客に広く親しまれ、終了を惜しむ声も多かった。
+
+## 歴史・由来
+
+東山花灯路は、京都の観光オフシーズンにあたる冬から早春にかけて夜間観光を促進し、「京都の夜の新たな風物詩」となることを目指して、2003年3月に始められた。これは京都・花灯路の取り組みの第一弾にあたり、その成功を受けて2005年（平成17年）には「嵐山花灯路」が嵐山・嵯峨地域でも始まった。両者は京都市内の東と西で対をなす夜間イベントとして、京都の観光振興を牽引した。
+
+歩いて巡る「灯りと花の路」をコンセプトに、京都の伝統工芸や生け花、東山に密集する寺社の文化資源を組み合わせ、地域全体を回遊する夜間イベントとして企画された点が特徴である。露地行灯には京都の伝統的な素材や意匠が用いられ、いけばなプロムナードでは各流派の作品が散策路に並んで、現代の生け花と古都の景観が出会う場となった。地元住民やボランティア、学生らの協力に支えられて運営され、地域に根ざした催しとして定着した。近年は新型コロナウイルス感染症対策のため一部の事業を中止・縮小しての開催となり、主催者は所期の目的を果たしたと判断して、20年の節目をもって終了する方針を示した。細部の経緯は主催者の公式発表に拠る。
+
+## 見どころ
+
+最大の見どころは、清水寺・八坂の塔（法観寺）・八坂神社・高台寺・知恩院・青蓮院といった東山の名所が、灯りに照らし出される光景であった。とりわけ産寧坂（三年坂）や二寧坂、ねねの道など、京都らしい石畳の坂道に露地行灯が点々と並ぶ風情は、昼間の人波とは異なる静謐で幽玄な美しさをたたえ、多くの来場者を魅了した。夜空に浮かび上がる八坂の塔の姿は、東山花灯路を象徴する光景として親しまれた。
+
+また、約5キロの散策路をたどりながら、いけばなプロムナードの生け花作品を一つひとつ鑑賞できる点も大きな魅力であった。沿道の寺社では特別な夜間拝観やライトアップが行われ、灯りに浮かぶ堂宇や庭園が古都の夜を彩った。早春の澄んだ空気の中で、灯り・花・歴史的景観が一体となった夜の散策を楽しめる、京都ならではの体験であった。
+
+## 開催情報・アクセス
+
+開催は例年3月上旬から中旬の夜間で、京都市東山区の清水寺から青蓮院に至る東山一帯が会場であった。アクセスは京阪電鉄「祇園四条駅」「清水五条駅」、市バスの各停留所などが利用され、複数の経路から東山の名所を徒歩で巡ることができた。点灯時間は夕方から夜にかけてで、早春とはいえ夜は冷え込むため防寒対策が望ましかった。会期中は周辺が大変混雑するため、時間に余裕を持った散策が推奨された。
+
+なお、本イベントは2022年で開催を終了しているため、現在は同じ形での催しは行われていない。東山の夜間拝観については、清水寺や高台寺など各寺社が個別に実施するライトアップや特別拝観の最新情報を確認するとよい。
+
+## 周辺の見どころ
+
+東山区には、世界遺産の清水寺をはじめ、八坂神社、高台寺、青蓮院、知恩院、八坂の塔など、京都を代表する名所が密集している。祇園や花見小路といった伝統的な街並み、二年坂・三年坂の風情ある土産物店街も近く、昼夜を通じて多くの観光客が訪れる。花灯路の終了後も、東山は京都随一の観光エリアとして変わらぬ人気を保ち、春は周辺の桜の名所もにぎわう。
+
+## 関連情報
+
+京都・東山花灯路は、後に始まった「嵐山花灯路」と対をなす催しで、京都の夜間観光振興の取り組みを牽引した存在であった。開催月は3月（春）、所在は京都府京都市、会場は清水寺から青蓮院に至る東山一帯（約5キロの散策路）で、2003年に始まり2022年に20年の歴史を終えた。灯りと花、東山の歴史的景観が融合した早春の夜のイベントとして、多くの人々の記憶に残っている。
+','## Overview
+
+The Kyoto Higashiyama Hanatoro was a nighttime tourism event of light and flowers held in the Higashiyama area of Kyoto City—from Kiyomizu-dera through Yasaka Shrine and Kodai-ji to Shoren-in—typically from early to mid-March each year. Along a walking path of about five kilometers from Kiyomizu-dera to Shoren-in, it set out the soft glow of roji-andon (path lanterns) and the "Ikebana Promenade," flower arrangements by Kyoto''s various schools, creating a fantastical evening atmosphere in early-spring Higashiyama. Begun in 2003, it ran for exactly twenty years before ending with its 2022 edition.
+
+The event was a tourism-promotion undertaking run chiefly by Kyoto City and related organizations, not a long-standing traditional festival. During the period, the temples and shrines clustered in Higashiyama also held special night viewings and illuminations, and it grew into a representative feature of Kyoto''s early spring, letting visitors enjoy a charm of the old capital''s nights different from the daytime bustle. Widely loved by residents and tourists alike, its ending was much lamented.
+
+## History and Origins
+
+The Higashiyama Hanatoro began in March 2003, aiming to promote nighttime tourism from winter into early spring—Kyoto''s tourism off-season—and to become "a new feature of Kyoto''s nights." This was the first installment of the Kyoto Hanatoro initiative, and following its success, the "Arashiyama Hanatoro" began in the Arashiyama and Saga area in 2005. The two formed a pair of nighttime events in the east and west of Kyoto, driving the city''s tourism promotion.
+
+Under the concept of a walkable "path of light and flowers," it was distinguished by combining Kyoto''s traditional crafts, flower arrangement, and the cultural resources of the temples and shrines densely gathered in Higashiyama into a nighttime event circulating through the whole area. The roji-andon used traditional Kyoto materials and designs, and the Ikebana Promenade lined the walking paths with works by various schools, becoming a place where contemporary ikebana met the scenery of the old capital. Supported by the cooperation of local residents, volunteers, and students, it took root as a community-based event. In its later years it was held with some programs canceled or scaled down as a measure against COVID-19, and the organizers, judging that it had fulfilled its original purpose, announced a policy of ending it at the twenty-year milestone. Finer details depend on the organizers'' official announcements.
+
+## Highlights
+
+The greatest highlight was the sight of Higashiyama''s famous places—Kiyomizu-dera, the Yasaka Pagoda (Hokan-ji), Yasaka Shrine, Kodai-ji, Chion-in, and Shoren-in—lit by lantern light. In particular, the rows of roji-andon dotting the stone-paved slopes characteristic of Kyoto, such as Sannenzaka, Ninenzaka, and Nene-no-michi, held a quiet, profound beauty different from the daytime crowds and captivated many visitors. The figure of the Yasaka Pagoda rising into the night sky was cherished as an emblematic scene of the Higashiyama Hanatoro.
+
+Strolling along the roughly five-kilometer path while viewing each work of the Ikebana Promenade was also a great appeal. Along the route, temples and shrines held special night viewings and illuminations, with lamp-lit halls and gardens coloring the old capital''s nights. In the clear early-spring air, it offered a uniquely Kyoto experience: a nighttime stroll where light, flowers, and historic scenery became one.
+
+## Event Information and Access
+
+The event was held on nights from early to mid-March each year, with the Higashiyama area of Kyoto City—from Kiyomizu-dera to Shoren-in—as its venue. Access was via Keihan Railway "Gion-Shijo Station" and "Kiyomizu-Gojo Station," and city bus stops, allowing visitors to tour Higashiyama''s famous places on foot by multiple routes. Lighting hours ran from evening into night, and although it was early spring, the nights were cold, so protection against the cold was advisable. The area became very crowded during the period, so an unhurried stroll was recommended.
+
+Note that the event ended in 2022, so it is no longer held in the same form. For night viewings in Higashiyama, it is best to check the latest information on illuminations and special viewings held individually by temples and shrines such as Kiyomizu-dera and Kodai-ji.
+
+## Nearby Attractions
+
+The Higashiyama district densely gathers attractions representative of Kyoto, including the World Heritage Kiyomizu-dera, Yasaka Shrine, Kodai-ji, Shoren-in, Chion-in, and the Yasaka Pagoda. Traditional streetscapes such as Gion and Hanami-koji, and the atmospheric souvenir-shop streets of Ninenzaka and Sannenzaka, are also nearby, drawing many visitors day and night. Even after the Hanatoro ended, Higashiyama retains its unrivaled popularity as one of Kyoto''s foremost sightseeing areas, and in spring the nearby cherry-blossom spots are lively.
+
+## Related Information
+
+The Kyoto Higashiyama Hanatoro formed a pair with the later "Arashiyama Hanatoro" and led Kyoto''s efforts to promote nighttime tourism. Held in March (spring) in Kyoto City, Kyoto Prefecture, with venues across Higashiyama from Kiyomizu-dera to Shoren-in (a walking path of about five kilometers), it began in 2003 and ended its twenty-year history in 2022. As an early-spring night event fusing light, flowers, and Higashiyama''s historic scenery, it remains in the memory of many people.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11405274','千代流','Chiyo-nagare','博多祇園山笠の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11377742','仙台クラシックフェスティバル','Sendai Classical Music Festival',NULL,'music festival in Japan','Q46747','仙台市','Sendai','宮城県','tohoku',NULL,NULL,2006,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11378915','伊勢えび祭','Ise Lobster Festival','三重県志摩市で開催される祭り',NULL,NULL,NULL,NULL,'三重県','kinki',NULL,NULL,1961,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Iseebi%20Festival%202011.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E3%81%88%E3%81%B3%E7%A5%AD',NULL,85,'drafted','## 伊勢えび祭とは
@@ -5423,7 +5737,74 @@ The Yoshiwara district is within walking distance of Yoshiwara-honchō Station o
 ## Around the Area
 
 Fuji City is, as its name suggests, an industrial city that prospered in papermaking, with Mount Fuji in close view. Magnificent views of Mount Fuji can be enjoyed from various points in the city, and highlights include the scenery of Mount Fuji and the sea from Tagonoura Port and Fujisan Hongū Sengen Taisha shrine (in nearby Fujinomiya). Together with local industries that make use of the spring water flowing underground from Mount Fuji and the nature at the foot of the mountain, sightseeing centered on Mount Fuji can be enjoyed. Combined with the summer Gion festival, it is an area where one can savor the scenery and culture distinctive to the foot of Mount Fuji.','yoshiwara-gion-sai','yoshiwara-gion-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11408956','博多松囃子','Hakata Matsubayashi',NULL,NULL,NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Matsubayashi05.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%9D%BE%E5%9B%83%E5%AD%90',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11408956','博多松囃子','Hakata Matsubayashi',NULL,NULL,NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Matsubayashi05.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%9D%BE%E5%9B%83%E5%AD%90',NULL,80,'drafted','## 概要
+
+博多松囃子（はかたまつばやし）は、福岡県福岡市で毎年5月3日・4日に行われる伝統行事で、市民の祭り「博多どんたく港まつり」の起源であり中核をなす民俗芸能である。福神・恵比須・大黒の三福神と稚児舞からなり、これらが馬や山車に乗って福岡市内の各所を巡り、商家や事業所を祝って廻る、正月の祝福芸を起源とする行事である。2020年（令和2年）3月16日に国の重要無形民俗文化財に指定された、福岡を代表する民俗芸能であり、博多祇園山笠・放生会と並ぶ博多の代表的な祭礼の一つに数えられる。
+
+「松囃子」とは、正月に主君や家々を訪ねて祝う芸能を指す言葉で、博多松囃子はその古い形を今に伝えている。現在は5月のどんたく期間に行われるが、もとは年の初めの祝福行事であり、博多の町に長く根づいてきた歴史と格式を備えている。
+
+## 歴史・由来
+
+博多松囃子の源流は、室町時代に京都周辺で起こった「松囃子」にあるとされる。これが博多に伝わり、町衆の手で独自の祝福芸へと発展した。伝承では、その起源は治承3年（1179年）にさかのぼるともいわれるが、起源年代については諸説があり、確実な年代は定めがたい。長い歴史の中で、博多の町人文化を象徴する行事として大切に受け継がれてきた。
+
+博多松囃子を支えるのは、豊臣秀吉の太閤町割（たいこうまちわり）に基づく「流（ながれ）」という博多独自の地域組織である。太閤町割は秀吉が博多の町を復興・再編した際の都市計画で、これに由来する流が、現在も祭礼を担う基本単位となっている。三福神のうち福神は福神流、恵比須は恵比須流、大黒は大黒流が受け持ち、稚児舞は東流・西流が年ごとに交互に担当する。各役を町ごとの流が分担して守り伝えるこの仕組みが、長い歴史を通じた行事の継承を支えてきた。現在の5月3日・4日という日程は、戦後の博多どんたくの再興にともなって定着したもので、それ以前は時期が異なっていた時代もある。
+
+## 見どころ
+
+最大の見どころは、福神・恵比須・大黒の三福神が、それぞれ馬にまたがって市内を巡行する姿である。福をもたらす神々が華やかな装いで町を練り歩き、商家や事業所を訪れて祝う光景は、正月の祝福芸の古い姿を今に伝えるものとして見ごたえがある。三福神を迎えた家々が祝いを受ける様子からは、博多の商人町としての歴史と人情がうかがえる。
+
+また、祭りの起点となる櫛田神社の境内などで披露される稚児舞も大きな見どころである。晴れ着をまとった子どもたちが古式ゆかしい舞を奉納する姿は優美で、博多の伝統が次世代へ受け継がれていることを感じさせる。三福神の巡行と稚児舞がそろうことで、博多松囃子は祝福と芸能の両面を備えた格調高い行事となっている。これらが、200万人規模ともいわれる博多どんたくの賑わいの中で繰り広げられる点も、この行事ならではの魅力である。
+
+## 開催情報・アクセス
+
+開催は毎年5月3日・4日で、福岡県福岡市内の各所が舞台となる。三福神や稚児は櫛田神社などを起点に市内を巡行するため、決まった一会場ではなく、市中の広い範囲でその姿を見ることができる。アクセスは福岡市地下鉄「祇園駅」「中洲川端駅」などが櫛田神社に近く、博多・天神の中心部からも徒歩圏内である。どんたく期間中は市内各所にステージが設けられ、交通規制も実施される。
+
+巡行のルートや時間、稚児舞の披露場所は年により異なり、天候によって内容が変更される場合もある（雨天時に拝殿内で披露されることもある）。来場前に博多どんたくや福岡市の公式情報で最新の日程を確認するとよい。大型連休中で市内は大変混雑するため、宿泊や移動は早めの計画が安心である。
+
+## 周辺の見どころ
+
+博多松囃子の起点となる櫛田神社は「お櫛田さん」として博多の総鎮守に親しまれ、博多祇園山笠の舞台としても知られ、境内には飾り山笠が常設展示されている。周辺には博多の歴史と暮らしを伝える「博多町家ふるさと館」や、中洲・川端商店街、商業地・天神なども近い。博多松囃子・博多どんたくの見物と合わせて、博多旧市街の社寺や、屋台・もつ鍋・水炊きといった博多ならではの食文化を巡る旅が楽しめる。
+
+## 関連情報
+
+博多松囃子は、同じ博多の代表的祭礼である博多祇園山笠や、京都の松囃子の伝統と併せて見ると、町衆文化が育んだ祝福芸の系譜をより深く理解できる。開催月は5月（春）、所在は福岡県福岡市、市内各所を巡行する行事で、起源は室町時代の松囃子（伝承では1179年とも）にさかのぼり、2020年に国の重要無形民俗文化財に指定された。博多どんたく港まつりの起源・中核をなす、福岡を代表する民俗芸能である。
+','## Overview
+
+Hakata Matsubayashi is a traditional New Year celebratory performing art held in the Hakata district of Fukuoka City, Fukuoka Prefecture. It takes place every year on May 3 and 4 as the opening ritual of the famous Hakata Dontaku festival, one of the largest spring festivals in Japan. While the modern Dontaku draws millions of spectators, Matsubayashi is its sacred and historical core: a procession of auspicious deities who visit homes and businesses to offer blessings for prosperity and good fortune.
+
+The performance features three principal deities, Fukujin (the god of good fortune), Ebisu (the god of commerce and fishermen), and Daikoku (the god of wealth and the harvest), accompanied by chigo-mai, ceremonial dances performed by children. On March 16, 2020, Hakata Matsubayashi was designated a National Important Intangible Folk Cultural Property, formally recognizing its historical and cultural value.
+
+## History and Origins
+
+The roots of Hakata Matsubayashi are said to trace back to the Muromachi period, making it one of the oldest continuously practiced celebratory traditions in the Kyushu region. The custom of "matsubayashi" originally referred to New Year visits in which performers called on households to convey congratulations and seasonal blessings, a practice once widespread across Japan but now preserved in only a few places, with Hakata being among the most prominent.
+
+Over the centuries, the merchant community of Hakata, a town that thrived on trade, nurtured and sustained the tradition. The procession of Fukujin, Ebisu, and Daikoku reflects the values of a commercial town, where prayers for business prosperity and abundant fortune held deep meaning. The event eventually came to be held in early May rather than at New Year, and it became inseparably linked with the Hakata Dontaku festivities that grew up around it.
+
+## Highlights
+
+The central spectacle of Hakata Matsubayashi is the procession of the three deities. Performers dressed as Fukujin, Ebisu, and Daikoku travel through the town on horseback and on foot, calling on shops and households to deliver blessings. Each deity carries distinct symbolic attributes connected to fortune, commerce, and prosperity.
+
+Another highlight is the chigo-mai, the graceful dances performed by children. The participation of children connects the ritual to ideas of purity and renewal, themes appropriate to a celebratory rite. The distinct streams and roles within the procession preserve forms that have been handed down through generations of Hakata residents.
+
+## Event Information and Access
+
+Hakata Matsubayashi is held annually on May 3 and 4 in the Hakata district of Fukuoka City. It functions as the formal opening of the Hakata Dontaku Port Festival period, so the surrounding streets are filled with related events and large crowds during these days.
+
+The central area is easily reached from Hakata Station, a major hub served by the Sanyo and Kyushu Shinkansen lines as well as JR and subway services, placing the festival within convenient reach for both domestic and international visitors.
+
+## Nearby Attractions
+
+The Hakata district is rich in historic and cultural sites. Kushida Shrine, the tutelary shrine of Hakata and closely associated with the Hakata Gion Yamakasa festival, lies nearby. The Canal City Hakata complex and the temple district of Hakata, with its numerous Zen temples, are also within walking distance, offering visitors a fuller picture of the city''s merchant heritage.
+
+## Related Information
+
+- Month held: May (May 3-4)
+- Prefecture: Fukuoka
+- Location: Hakata district, Fukuoka City
+- Cultural status: National Important Intangible Folk Cultural Property (designated March 16, 2020)
+- Principal deities: Fukujin, Ebisu, Daikoku
+- Associated festival: Hakata Dontaku Port Festival
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11433065','大前神社','Ōsaki Shrine','栃木県真岡市の神社','Shinto shrine in Tochigi Prefecture, Japan',NULL,NULL,NULL,'栃木県','kanto',36.449393,140.026004,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B6%B3%E5%B0%BE%E5%B1%B1%E7%A5%9E%E7%A4%BE.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%89%8D%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
 
 大前神社（おおさきじんじゃ）は、栃木県真岡市東郷に鎮座する古社で、関東地方屈指の古社のひとつである。下野国延喜式内社で、主祭神は大物主大神（おおものぬしのおおかみ）と事代主大神（ことしろぬしのおおかみ）。「恵比寿様の総本宮」「日本一の大前恵比寿神社」を擁することで知られ、商売繁盛・縁結びの神として広く信仰を集めている。
@@ -6265,7 +6646,81 @@ INSERT INTO "festivals" VALUES('Q113470456','大須夏まつり','Osu Summer Fes
 INSERT INTO "festivals" VALUES('Q112571725','熱田まつり','Atsuta Matsuri','名古屋市熱田区で毎年6月に開催される祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Styai2154.JPG',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q114685042','挙母祭り',NULL,NULL,NULL,'Q65269150','挙母神社','koromo Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E6%8C%99%E6%AF%8D%E3%81%BE%E3%81%A4%E3%82%8A%20%28%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82%E5%85%83%E5%9F%8E%E7%94%BA%29%20-%20panoramio%20%286%29.jpg',NULL,NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109364451','アジア国際青少年映画祭','Asia International Youth Film Festival',NULL,NULL,'Q17','日本','Japan',NULL,NULL,NULL,NULL,2004,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E5%9B%BD%E9%9A%9B%E9%9D%92%E5%B0%91%E5%B9%B4%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q114884345','大鳥美波比神社','Danjiri Matsuri at Ōtori-taisha','大鳥大社の摂社で、だんじり祭で宮入りが行われる神社',NULL,NULL,NULL,NULL,'大阪府','kinki',34.536222222,135.461583333,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Danjiri%20festival%20at%20Otori%20Shrine009.jpg',NULL,NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q114884345','大鳥美波比神社','Danjiri Matsuri at Ōtori-taisha','大鳥大社の摂社で、だんじり祭で宮入りが行われる神社',NULL,NULL,NULL,NULL,'大阪府','kinki',34.536222222,135.461583333,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Danjiri%20festival%20at%20Otori%20Shrine009.jpg',NULL,NULL,80,'drafted','## 概要
+
+大鳥美波比神社だんじり祭は、大阪府堺市西区鳳の大鳥大社境内に鎮座する大鳥美波比神社の祭礼として行われる、秋のだんじり（地車）祭りである。「鳳だんじり祭」とも呼ばれ、毎年10月の第1金曜日から日曜日にかけて営まれる。地域の各町から繰り出された10台のだんじりが大鳥大社の境内へと勇壮に宮入りする様子で知られ、曳き手の掛け声と地車囃子が響くなか、彫刻を凝らしただんじりが境内に整列する光景は、泉州地域に色濃く根づくだんじり文化を伝える祭りの一つである。
+
+大鳥美波比神社は和泉国一宮として知られる大鳥大社の境内摂社であり、この祭りは鳳の町の年中行事として地域に深く根づき、世代を超えて親しまれている。
+
+## 歴史・由来
+
+鳳だんじり祭は、その歴史は古く、約400年前から行われていたといわれる。会場となる大鳥美波比神社は、堺市西区鳳北町に鎮座する大鳥大社の境内摂社として古くから祀られてきた神社である。本社である大鳥大社は、日本武尊（やまとたけるのみこと）を主祭神とし、東征の帰途に没した日本武尊の霊が白鳥となって舞い降り、その地に社を建てたという白鳥伝説に由来する古社として知られる。和泉国一宮の格式を有し、古くから広く信仰を集めてきた大社であり、大鳥美波比神社はその境内摂社として地域の崇敬を受けてきた。
+
+だんじり祭は、秋の収穫に感謝し豊穣を祈る祭礼として泉州一帯に広く根づいた文化であり、各町が所有するだんじりを曳いて神社へ奉納する形で受け継がれてきた。だんじりは欅などの木材で組まれ、屋根や腰回りに歴史物語や合戦の場面を題材とした精巧な彫刻が施されているのが特徴で、各町がその出来栄えを誇りとしてきた。鳳地区でも、大鳥・野田・新在家・北王子・野代・長承寺・上・富木・石橋・濱寺元町の10町がそれぞれだんじりを擁し、秋の祭礼として宮入りを行う伝統が長く続いている。
+
+## 見どころ
+
+最大の見どころは、各町のだんじりが大鳥大社の境内へと宮入りする場面である。本宮の日には午前9時過ぎから10町の地車が正装して順次宮入りし、大鳥美波比神社前に整列して祭典を行い、お祓いを受ける。祭典を終えるとだんじりは正午前までに宮を出て、その後は各町へと曳き出されて町内を巡行する。重量のあるだんじりを多くの曳き手が息を合わせて操り、勢いをつけて正面の大鳥居から境内へ入っていく様子は、泉州だんじり祭ならではの迫力を見せる。
+
+また、鳳のだんじり祭は、提灯を灯して街を駆け抜ける夜の曳行も大きな特徴である。豪快な夜の直線曳きは、昼間の宮入りとはまた違った熱気と迫力を放ち、多くの見物客を集める。だんじりそのものに施された武者や合戦の場面などの立体的な彫り物も職人技の結晶であり、間近で鑑賞する価値がある。世代を超えて受け継がれる曳行の伝統は、町の結びつきを象徴する場ともなっている。
+
+## 開催情報・アクセス
+
+大鳥美波比神社だんじり祭（鳳だんじり祭）は、毎年10月の第1金曜日から日曜日にかけて、大阪府堺市西区鳳の大鳥大社境内およびその周辺で行われる。だんじりの宮入りは本宮の中心行事として大鳥大社の境内で営まれ、前後には各町でのだんじり巡行や夜の曳行が行われる。
+
+会場となる大鳥大社は、JR阪和線の鳳駅から徒歩圏内に位置し、大阪市内からのアクセスも良好である。祭礼期間中は周辺の道路で交通規制が敷かれることがあるため、自動車よりも公共交通機関の利用が推奨される。
+
+## 周辺の見どころ
+
+会場の大鳥大社は和泉国一宮として知られる古社であり、日本武尊の白鳥伝説にまつわる由緒ある神社として参拝者を集めている。境内は緑豊かな鎮守の杜に包まれ、大鳥美波比神社をはじめとする境内社も点在する。鳳駅周辺には商店街が広がり、祭りの際にはだんじりが商店街や神社前を曳行する。祭りと併せて参拝や散策を楽しみながら、泉州の伝統文化に触れることができる。
+
+## 関連情報
+
+- 開催月: 10月（第1金曜日〜日曜日）
+- 都道府県: 大阪府
+- 開催地: 堺市西区鳳（大鳥大社境内およびその周辺）
+- 種別: だんじり（地車）祭り／別称「鳳だんじり祭」
+- 参加: 鳳地区10町（大鳥・野田・新在家・北王子・野代・長承寺・上・富木・石橋・濱寺元町）
+- 主な行事: 10台のだんじりの宮入り・町内巡行・夜の曳行
+- 関連: 大鳥大社（和泉国一宮・日本武尊の白鳥伝説）の境内摂社の祭礼
+','## Overview
+
+The Otori Mihahi Shrine Danjiri Festival is an autumn danjiri (float) festival held as the rite of Otori Mihahi Shrine, which stands within the precincts of Otori Taisha in the Otori district of Nishi Ward, Sakai City, Osaka Prefecture. Also known as the Otori Danjiri Festival, it is held each year from the first Friday to Sunday of October. It is known for the spirited "miyairi," in which ten danjiri brought out by the various local towns enter the precincts of Otori Taisha. As the shouts of the pullers and the danjiri-bayashi music resound, the elaborately carved floats line up in the precincts, making this one of the festivals that convey the deeply rooted danjiri culture of the Senshu region.
+
+Otori Mihahi Shrine is an auxiliary shrine of Otori Taisha, known as the first shrine (ichinomiya) of Izumi Province, and the festival is cherished as an annual event of the Otori town.
+
+## History and Origins
+
+The Otori Danjiri Festival has an old history, said to date back about 400 years. The venue, Otori Mihahi Shrine, has long been enshrined as an auxiliary shrine of Otori Taisha in Otorikita-cho, Sakai City. The main shrine, Otori Taisha, enshrines Yamato Takeru no Mikoto as its principal deity and is known as an ancient shrine derived from the white bird legend, in which the spirit of Yamato Takeru, who died on his way back from his eastern campaign, descended as a white bird and a shrine was built on that spot. Holding the rank of first shrine of Izumi Province, it has long drawn wide devotion, and Otori Mihahi Shrine has received local reverence as its auxiliary shrine.
+
+The danjiri festival is a rite giving thanks for the autumn harvest and praying for abundance, a culture deeply rooted throughout the Senshu region, in which each town pulls the danjiri it owns and dedicates it to the shrine. Danjiri are built from timber such as zelkova, and are characterized by elaborate carvings of historical tales and battle scenes on their roofs and lower sections, with each town taking pride in their craftsmanship. In the Otori district as well, ten towns, Otori, Noda, Shinzaike, Kitaoji, Noshiro, Choshoji, Kami, Tonoki, Ishibashi, and Hamadera-motomachi, each maintain a danjiri and carry on the tradition of the autumn miyairi.
+
+## Highlights
+
+The greatest highlight is the scene of each town''s danjiri entering the precincts of Otori Taisha. On the day of the main festival, the ten danjiri enter in formal array one after another from a little past nine in the morning, line up before Otori Mihahi Shrine, hold a ceremony, and receive purification. After the ceremony the danjiri leave the shrine and are then pulled out to each town for the local procession. The sight of many pullers working in unison to handle the heavy danjiri, gaining momentum as they enter through the great front torii gate, displays the power unique to the Senshu danjiri festival.
+
+The Otori danjiri festival is also distinguished by its nighttime procession, in which the floats race through the streets lit by lanterns. The bold straight-line pulling at night gives off a heat and intensity different from the daytime miyairi and draws many spectators. The three-dimensional carvings of warriors and battle scenes on the danjiri themselves are masterworks of craftsmanship worth viewing up close.
+
+## Event Information and Access
+
+The Otori Mihahi Shrine Danjiri Festival (Otori Danjiri Festival) is held each year from the first Friday to Sunday of October at and around the precincts of Otori Taisha in the Otori district of Nishi Ward, Sakai City, Osaka. The danjiri miyairi is the central event of the main festival, held in the precincts of Otori Taisha, with town processions and nighttime pulling before and after.
+
+Otori Taisha is within walking distance of Otori Station on the JR Hanwa Line and is conveniently accessible from central Osaka. As traffic restrictions may be in place on surrounding roads during the festival, use of public transport rather than cars is recommended.
+
+## Nearby Attractions
+
+Otori Taisha, the venue, is an ancient shrine known as the first shrine of Izumi Province and draws worshippers as a venerable site connected to the white bird legend of Yamato Takeru. Its precincts are wrapped in a lush sacred grove, dotted with auxiliary shrines including Otori Mihahi Shrine. A shopping street spreads around Otori Station, and during the festival the danjiri are pulled along the arcade and in front of the shrine.
+
+## Related Information
+
+- Month held: October (first Friday to Sunday)
+- Prefecture: Osaka
+- Location: Otori district, Nishi Ward, Sakai City (precincts of Otori Taisha and surroundings)
+- Type: danjiri (float) festival; also called the Otori Danjiri Festival
+- Participants: ten towns of the Otori district (Otori, Noda, Shinzaike, Kitaoji, Noshiro, Choshoji, Kami, Tonoki, Ishibashi, Hamadera-motomachi)
+- Main events: miyairi of ten danjiri, town processions, nighttime pulling
+- Related: rite of an auxiliary shrine of Otori Taisha (first shrine of Izumi Province; white bird legend of Yamato Takeru)
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q111283049','火渡り祭','Hiwatari-sai',NULL,'Japanese festival','Q8194732','高尾山薬王院','Takao-san Yakuō-in Temple',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Takaosan%20Yakuouin-1.jpg',NULL,NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q106943951','浅虫温泉ねぶた祭り','Asamushi Onsen Nebuta Festival','青森県青森市にある浅虫温泉で行われる夏祭り',NULL,'Q4803496','浅虫温泉','Asamushi Onsen','青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asamushi%20Onsen%20Nebuta%20Matsuri%20Aomori%20Japan11n.jpg','https://ja.wikipedia.org/wiki/%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89%E3%81%AD%E3%81%B6%E3%81%9F%E7%A5%AD%E3%82%8A',NULL,85,'drafted','浅虫温泉ねぶた祭りは、青森県青森市の浅虫温泉地区で毎年8月初旬に開催される夏祭りであり、青森ねぶた祭の前夜祭的な位置づけで温泉街全体が幻想的なねぶたの灯りに包まれる、青森を代表する温泉地ならではの個性的な祭礼である。青森市中心部のねぶた祭りと比較すると規模は小さいが、海と温泉と山に囲まれた立地ならではの親密な雰囲気と、温泉客と地元住民が一体となって楽しむ手作り感が魅力となっている。
 
@@ -7475,7 +7930,74 @@ The Tomida district can be reached from Tomida Station on the JR Kansai Main Lin
 
 Yokkaichi is an industrial city in northern Mie Prefecture, and the factory night views of the Yokkaichi industrial complex have become a popular tourist draw in recent years. With a location facing Ise Bay, seafood is also abundant. Nearby, attractions of northern and central Mie are dotted around, including Yunoyama Onsen, the nature of Mount Gozaisho, the Ise Grand Shrine, and the Suzuka Circuit. Together with the distinctive Tomida whale-boat festival, it is an area where one can enjoy the history, culture, and industrial tourism of Mie.','tomida-kujirabune-festival','tomida-kujirabune-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11476051','峠の国盗り綱引き合戦','Tōge no Kunitori Tsunahiki Gassen',NULL,NULL,'Q11393703','兵越峠','Hyogoshi Pass',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B3%A0%E3%81%AE%E5%9B%BD%E7%9B%97%E3%82%8A%E7%B6%B1%E5%BC%95%E3%81%8D%E5%90%88%E6%88%A6',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11447453','姫路ゆかたまつり','Himeji Yukata Matsuri',NULL,NULL,'Q11651657','長壁神社','Osakabe Shrine','兵庫県','kinki',NULL,NULL,1742,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Himeji%20Yukata%20Matsuri%202009p1%20003.jpg','https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E3%82%86%E3%81%8B%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11447453','姫路ゆかたまつり','Himeji Yukata Matsuri',NULL,NULL,'Q11651657','長壁神社','Osakabe Shrine','兵庫県','kinki',NULL,NULL,1742,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Himeji%20Yukata%20Matsuri%202009p1%20003.jpg','https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E3%82%86%E3%81%8B%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+姫路ゆかたまつりは、兵庫県姫路市で毎年6月（例年20日前後の2日間）に開催される、長壁神社（おさかべじんじゃ）の例祭である。播磨地方に夏の訪れを告げる初夏の風物詩として親しまれ、その名の通り、来場者の多くが浴衣を身にまとって祭りに繰り出すのが大きな特色である。子どもゆかたパレードやステージイベント、数多くの露店でにぎわい、姫路の中心市街地が祭り一色に染まる。
+
+会場は長壁神社や城南公園、西二階町商店街周辺などで、世界遺産・国宝の姫路城のお膝元という立地も魅力である。浴衣を着て訪れると周辺施設の特典が受けられるなど、市民や観光客が気軽に夏祭りの雰囲気を楽しめる催しとして広く定着している。
+
+## 歴史・由来
+
+姫路ゆかたまつりは、長壁神社の例祭からはじまったといわれ、その起源は江戸時代中期にさかのぼる。長壁神社は姫路城の地主神を祀る古社で、城内に祀られていたが、寛保2年（1742年）、当時の姫路城主・榊原政岑が越後高田へ移封となった際、庶民が気軽に長壁神社へ参拝できるようにと考え、城内にあった神社を城下の長源寺境内に移したと伝えられる。そして同年の夏至の日に遷座祭が営まれた。長壁神社の祭神は、姫路城の天守に棲むとされる伝説の「刑部（おさかべ）姫」とも結び付けて語られ、城と深い縁を持つ神社として知られる。
+
+この遷座祭にあたり、急な転封のために正装の準備が間に合わず、人々が浴衣姿で参列したことが、浴衣を着る祭りの由来になったと伝えられている。以来、長壁神社の例祭は浴衣で参加する祭りとして定着し、播磨地方を代表する初夏の行事へと発展した。庶民が気軽に参拝できるようにという城主の配慮から始まったという由緒が、誰もが浴衣で気軽に参加できる現在の親しみやすい祭りの性格にも受け継がれている。なお、起源にまつわる伝承には細部に幅があり、詳細は資料により異なる場合がある。
+
+## 見どころ
+
+最大の見どころは、初日に行われる「子どもゆかたパレード」である。姫路市消防音楽隊を先頭に、浴衣を着た地元の小学生や姫路お城のアンバサダーらが、姫路城から長壁神社を経て城南公園までを練り歩く華やかな行列で、浴衣姿の子どもたちが初夏の城下町を彩る。世界遺産・姫路城を背景に進むパレードは、姫路ならではの絵になる光景である。
+
+また、城南公園で行われるオープニングセレモニーや「地域ふれあいステージ」などのステージイベントも祭りを盛り上げる。会場となる長壁神社や城南公園、西二階町商店街周辺には数多くの露店が立ち並び、街全体が祭りムードに包まれる。色とりどりの浴衣姿の人々がそぞろ歩く光景そのものが、この祭りならではの初夏の風情を生み出しており、夕暮れから夜にかけてはいっそう華やぐ。
+
+## 開催情報・アクセス
+
+開催は毎年6月（例年20日前後の2日間）で、兵庫県姫路市の長壁神社・城南公園周辺、西二階町商店街などが会場となる。アクセスはJR・山陽電鉄「姫路駅」が玄関口で、駅から会場の中心市街地へは大手前通りを北上して徒歩圏内である。期間中は浴衣を着用すると、姫路城など周辺施設の入場が無料になるほか、神姫バスの運賃半額、書写山ロープウェイの割引など、さまざまな特典が用意されることがある。
+
+開催時間は夕方から夜にかけてが中心で、中心市街地では交通規制も実施される。会場やプログラム、特典の内容は年により異なるため、来場前に姫路市や観光協会の公式情報で最新の情報を確認することが望ましい。浴衣で訪れれば特典を活かしながら、より祭りの雰囲気を楽しめる。
+
+## 周辺の見どころ
+
+姫路市は、世界遺産・国宝の姫路城を擁する城下町として知られ、城に隣接する日本庭園・好古園や、西国三十三所の札所で「西の比叡山」とも称される書写山圓教寺など、見どころが豊富である。姫路ゆかたまつりの観覧と合わせて、浴衣姿で姫路城やその周辺を巡れば、城下町の風情をいっそう深く味わえる。播磨の郷土料理やご当地グルメを楽しむのもよい。
+
+## 関連情報
+
+姫路ゆかたまつりは、各地の浴衣で楽しむ夏祭りや、城下町の神社例祭の伝統と併せて見ると、城主の庶民への配慮から生まれた祭りの成り立ちをより深く理解できる。開催月は6月（夏）、所在は兵庫県姫路市、会場は長壁神社・城南公園周辺で、起源は寛保2年（1742年）の長壁神社遷座祭にさかのぼる。浴衣を着て楽しむ、播磨地方を代表する初夏の祭りである。
+','## Overview
+
+The Himeji Yukata Festival is one of the major early-summer festivals of Himeji City in Hyogo Prefecture. Held annually around June 22 and 23, it centers on Osakabe Shrine and spreads through the surrounding districts, including Jonan Park and the Nishinikaimachi shopping street. The festival marks one of the earliest occasions of the year for residents to wear the yukata, the light cotton summer kimono, and it draws large numbers of visitors dressed in summer attire.
+
+As a festival closely tied to the historic castle town of Himeji, it combines a religious origin rooted in the rites of Osakabe Shrine with a lively public celebration featuring numerous food stalls, parades, and community events.
+
+## History and Origins
+
+The origins of the Himeji Yukata Festival are traced to 1742 (Kanpo 2), during the mid-Edo period. According to tradition, when the lord Sakakibara Masamine arranged the relocation and enshrinement rites of Osakabe Shrine, the preparations were carried out so hurriedly that there was no time for formal attire. The townspeople were therefore permitted to attend the ceremony in their everyday yukata rather than in formal dress.
+
+This unusual circumstance, in which yukata became acceptable for a shrine occasion, is said to have given the festival its distinctive character. Over the generations the event grew into a broad civic celebration of summer, while retaining its connection to the example festival (reisai) of Osakabe Shrine, whose enshrined deities include Osakabe Shinno and the legendary spirit Osakabe-hime.
+
+## Highlights
+
+A signature element of the festival is the sight of crowds in yukata filling the streets, reflecting the event''s origin as an occasion that welcomed summer dress. The festival features a children''s yukata parade, adding a colorful and community-centered dimension to the celebration.
+
+Stages set up at Jonan Park host regional exchange events and performances, while the streets linking Osakabe Shrine, Jonan Park, and the approach toward Himeji Castle are lined with numerous stalls. In some years, additional visitor perks such as special access arrangements at the castle and transport discounts have accompanied the festival.
+
+## Event Information and Access
+
+The Himeji Yukata Festival is held annually in late June, with recent editions scheduled around June 22 and 23. The main venues are Osakabe Shrine and its surroundings, including Jonan Park and the Nishinikaimachi shopping street.
+
+The festival area is within walking distance of Himeji Station, served by the Sanyo Shinkansen and JR lines, making it readily accessible to visitors from Osaka, Kobe, and beyond.
+
+## Nearby Attractions
+
+The most prominent landmark near the festival is Himeji Castle, a UNESCO World Heritage Site and one of Japan''s most celebrated original castles, known for its brilliant white exterior. Jonan Park, which serves as a festival venue, lies near the castle grounds. The shopping arcades of central Himeji also offer dining and shopping for festival-goers.
+
+## Related Information
+
+- Month held: June (around June 22-23)
+- Prefecture: Hyogo
+- Location: Osakabe Shrine and surroundings, Himeji City
+- First held: 1742 (Kanpo 2)
+- Origin: relocation rites of Osakabe Shrine under lord Sakakibara Masamine
+- Nearby landmark: Himeji Castle (UNESCO World Heritage Site)
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11437490','大淀祇園祭','Ōyodo Gion Matsuri',NULL,'festival in Meiwa, Mie prefecture, Japan',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B7%80%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11437523','大湊ネブタ','Ōminato Nebuta','青森県むつ市で行われるねぶた',NULL,'Q11437522','大湊','Ōminato','青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ominatonebuta.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E3%83%8D%E3%83%96%E3%82%BF',NULL,85,'drafted','## 大湊ネブタとは
 
@@ -7894,7 +8416,81 @@ Odawara Castle boasts excellent access, within walking distance of Odawara Stati
 ## Around the Area
 
 Odawara is a town of history centered on Odawara Castle, a famous castle of the Sengoku period, and is also known as a gateway to hot-spring areas such as Hakone and Yugawara. Odawara Castle Park, with its soaring keep, is also popular as a spot for cherry blossoms and Japanese irises. Facing Sagami Bay, it is also rich in seafood such as Odawara *kamaboko* fish cakes and dried fish. Tourist destinations such as the hot springs of Hakone, Lake Ashi, and the Hakone Open-Air Museum are also close, making it an area where, together with the Odawara Hōjō Godai Festival, one can savor the history, nature, and hot springs of western Kanagawa.','odawara-hojo-godai-festival','odawara-hojo-godai-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11471245','山鹿灯籠まつり','Yamaga Lantern Festival',NULL,NULL,NULL,NULL,NULL,'熊本県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%83%E4%BA%BA%E7%87%88%E7%B1%A0%E8%88%9E.jpg','https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11471245','山鹿灯籠まつり','Yamaga Lantern Festival',NULL,NULL,NULL,NULL,NULL,'熊本県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%83%E4%BA%BA%E7%87%88%E7%B1%A0%E8%88%9E.jpg','https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+山鹿灯籠まつりは、熊本県山鹿市で毎年8月15日・16日に行われる夏の火祭りである。金色に輝く和紙細工の灯籠「金灯籠」を頭上に掲げた浴衣姿の女性たちが、緩やかな調べに合わせて優雅に舞う「千人灯籠踊り」で広く知られる。地元の総鎮守である大宮神社の祭礼を起源とし、町全体が幻想的な灯りに包まれる様子は、九州を代表する夏祭りの一つとして全国に知られている。
+
+祭りの象徴である山鹿灯籠は、500年以上の歴史を持つとされる伝統工芸であり、木や金具を一切使わず、手漉きの和紙と少量の糊だけで立体を組み上げることを大きな特徴とする。2013年（平成25年）には国の伝統的工芸品に指定された。この精緻な手仕事を担うのが「灯籠師」と呼ばれる職人であり、その技が祭り全体の美しさと格式を支えている。
+
+## 歴史・由来
+
+山鹿灯籠まつりの起源は、地元に伝わる景行天皇の伝説に求められる。九州を巡幸していた第12代景行天皇の一行が深い霧に行く手を阻まれた際、山鹿の里人が松明を掲げて迎え、その行く先を照らして無事に導いたという故事にちなむ。以来、里人たちが松明を献じて天皇を祀ったことが祭りの始まりと伝えられ、この火を献じる習わしが、後に地元の総鎮守である大宮神社へ灯籠を奉納する祭礼へと発展していった。
+
+灯籠そのものは、当初の松明から次第に和紙細工の精巧な灯籠へと姿を変えていった。神殿造り・城造り・座敷造りのほか、矢壺や鳥籠など、和紙と糊だけで立体を組み上げる山鹿独自の灯籠製作技術が長い年月をかけて磨かれてきた。祭りで踊られる「よへほ節」も歴史を重ねており、現在歌われている歌詞は昭和8年（1933年）に詩人の野口雨情によって作り直されたものである。金灯籠を女性が頭上に掲げて踊る「千人灯籠踊り」が始まったのは昭和30年（1955年）ごろのことで、比較的新しい行事ながら、いまでは祭りを象徴する場面として定着している。こうした歴史と工芸の蓄積が、山鹿灯籠まつりを単なる夏祭りにとどまらない文化的な祭礼へと高めている。
+
+## 見どころ
+
+最大の見どころは、祭りの最終夜である8月16日に行われる「千人灯籠踊り」である。山鹿小学校のグラウンドを会場に、金灯籠を頭上に戴いた浴衣姿の女性たちが幾重もの輪を描き、「よへほ節」の調べに合わせて一糸乱れぬ舞をゆったりと披露する。頭上で揺らめく無数の灯りが闇の中で大きな円を描く光景は、この祭りを象徴する幻想的な情景として知られ、多くの来場者を惹きつける。
+
+また、和紙と糊のみで作られる山鹿灯籠の工芸そのものも見どころである。神殿や城をかたどった大型の奉納灯籠は、紙とは思えない重厚さと豪華さを備え、間近で見ると圧巻である。市内の山鹿灯籠民芸館では、神殿造り・城造り・座敷造り・矢壺・鳥籠、そして金灯籠など灯籠師の秀逸な作品が展示されており、祭りの時期以外でもその技に触れることができる。祭りに先立って行われる子供たちの灯籠踊りも、踊りの所作と灯籠製作の技を次世代へ継承する場として親しまれている。
+
+## 開催情報・アクセス
+
+山鹿灯籠まつりは毎年8月15日・16日に熊本県山鹿市で開催される。千人灯籠踊りは16日の夜に山鹿小学校グラウンドを主会場として行われ、灯籠の奉納は大宮神社で営まれる。祭りの期間中は市街地一帯が会場となり、多くの来場者で賑わうため、早めの場所取りが行われることも多い。
+
+山鹿市は熊本市の北方、菊池川沿いに位置し、鉄道駅からは離れているため、アクセスはバスや自動車が中心となる。祭り当日は会場周辺で交通規制が敷かれるため、公共交通機関や臨時に案内される駐車場・シャトル等を利用しての来場が推奨される。
+
+## 周辺の見どころ
+
+山鹿は菊池川流域で古くから栄えた温泉町であり、市内には歴史ある温泉や、芝居小屋として知られる八千代座など、見どころが点在する。八千代座は明治期に建てられた芝居小屋で、国の重要文化財に指定されており、現在も公演に使われている。前述の山鹿灯籠民芸館では灯籠の製作工程や歴史、奉納灯籠の実物を紹介しており、祭りと併せて山鹿の伝統文化を深く知ることができる。
+
+## 関連情報
+
+- 開催月: 8月（8月15日・16日）
+- 都道府県: 熊本県
+- 開催地: 山鹿市（大宮神社・山鹿小学校グラウンド ほか）
+- 起源: 景行天皇に松明を献じた故事に由来する大宮神社の祭礼
+- 主な行事: 千人灯籠踊り（8月16日夜・よへほ節）・灯籠奉納
+- 特色: 和紙と糊だけで作る山鹿灯籠（金灯籠）／2013年 国の伝統的工芸品指定
+- 周辺: 八千代座（国指定重要文化財）・山鹿灯籠民芸館・山鹿温泉
+','## Overview
+
+The Yamaga Lantern Festival (Yamaga Toro Matsuri) is a summer fire festival held every year on August 15 and 16 in Yamaga City, Kumamoto Prefecture. It is best known for the Sennin Toro Odori, the "thousand-lantern dance," in which women in yukata gracefully dance while balancing golden paper lanterns called kintoro on their heads, moving in unison to a gentle melody. Rooted in the rituals of Omiya Shrine, the town''s tutelary shrine, the festival bathes the area in a magical glow and is regarded as one of Kyushu''s representative summer festivals.
+
+The Yamaga lantern itself, the symbol of the festival, is a traditional craft said to have a history of more than 500 years. It is made entirely from handmade washi paper and a small amount of glue, using no wood or metal fittings whatsoever. In 2013, the Yamaga lantern was designated a National Traditional Craft.
+
+## History and Origins
+
+The origins of the festival are traced to a local legend involving Emperor Keiko. When the imperial procession of the twelfth Emperor Keiko was blocked by deep fog during a tour of Kyushu, the villagers of Yamaga are said to have welcomed the party by holding up torches and lighting the way to safety. From then on, the villagers offered torches in honor of the emperor, and this is said to be the beginning of the festival. The custom of offering fire later developed into a rite of dedicating lanterns to Omiya Shrine.
+
+The lanterns themselves gradually evolved from the original torches into intricate paper creations. Forms such as shrine-style, castle-style, and parlor-style lanterns, as well as quivers and birdcages, were developed using Yamaga''s distinctive technique of constructing three-dimensional shapes from paper and glue alone. The Yohebushi song danced at the festival also has its own history: the lyrics sung today were rewritten in 1933 by the poet Noguchi Ujo. The Sennin Toro Odori, in which women dance with golden lanterns on their heads, began around 1955. Though a relatively recent addition, it has become the defining scene of the festival.
+
+## Highlights
+
+The greatest highlight is the Sennin Toro Odori held on the final night, August 16. At the grounds of Yamaga Elementary School, women in yukata wearing golden lanterns on their heads form layered circles and dance in flawless unison to the Yohebushi melody. The sight of countless flickering lights tracing great circles in the darkness is the festival''s signature image and draws many visitors.
+
+The craft of the Yamaga lantern itself is also a highlight. Large dedicatory lanterns shaped like shrines and castles possess a weight and splendor that belie their paper construction. At the Yamaga Lantern Folk Art Museum in the city, visitors can view superb works by lantern artisans, including shrine-style, castle-style, and parlor-style lanterns, quivers, birdcages, and the famous golden lanterns, even outside the festival season.
+
+## Event Information and Access
+
+The Yamaga Lantern Festival is held annually on August 15 and 16 in Yamaga City, Kumamoto Prefecture. The Sennin Toro Odori takes place on the night of the 16th, with Yamaga Elementary School grounds as the main venue, while the dedication of lanterns is conducted at Omiya Shrine. During the festival the central districts become the venue and are filled with crowds.
+
+Yamaga City lies north of Kumamoto City along the Kikuchi River and is some distance from rail stations, so access is mainly by bus or car. Traffic restrictions are in place around the venue on festival days, so visitors are encouraged to use public transport or designated parking and shuttle arrangements.
+
+## Nearby Attractions
+
+Yamaga is an old hot-spring town that flourished along the Kikuchi River, and it is dotted with attractions including historic baths and the Yachiyoza, a famous playhouse. The Yachiyoza is a Meiji-era theater designated an Important Cultural Property of Japan and still used for performances today. The Yamaga Lantern Folk Art Museum introduces the lantern-making process and history along with actual dedicatory lanterns.
+
+## Related Information
+
+- Month held: August (August 15-16)
+- Prefecture: Kumamoto
+- Location: Yamaga City (Omiya Shrine, Yamaga Elementary School grounds, etc.)
+- Origin: Omiya Shrine rite derived from the legend of offering torches to Emperor Keiko
+- Main events: Sennin Toro Odori (night of August 16, Yohebushi song), lantern dedication
+- Feature: Yamaga lanterns made of washi and glue only; designated a National Traditional Craft in 2013
+- Nearby: Yachiyoza (Important Cultural Property), Yamaga Lantern Folk Art Museum, Yamaga Onsen
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11459006','小倉祇園太鼓','Kokura Gion Daiko','北九州市小倉北区で行なわれる祭',NULL,'Q11390696','八坂神社','Yasaka Shrine','福岡県','kyushu',NULL,NULL,1618,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kokura%20Gion%20Suedaiko.JPG','https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E7%A5%87%E5%9C%92%E5%A4%AA%E9%BC%93',NULL,85,'drafted','## 小倉祇園太鼓とは
 
 小倉祇園太鼓（こくらぎおんだいこ）は、福岡県北九州市小倉北区の八坂神社で毎年7月に行われる祇園祭です。山車に据えた大太鼓を、両面から勇壮に打ち鳴らしながら町を練り歩くことで知られ、全国的にも珍しい「打ちながら歩く」太鼓の祭りとして名高い祭礼です。約400年の歴史を持ち、映画「無法松の一生」の題材としても知られる、北九州・小倉の夏を熱く彩る祭りです。
