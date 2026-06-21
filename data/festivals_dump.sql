@@ -104,8 +104,148 @@ The festival''s greatest highlight, the Ageuma rite, is a breathtakingly powerfu
 Tado Taisha is a prestigious shrine with deep ties to Ise Grand Shrine, long celebrated in the saying "if you visit Ise, visit Tado too; without Tado, your pilgrimage is incomplete." The Ageuma rite is said to date to the Nanbokuchō period and is designated an Intangible Folk Cultural Property of Mie Prefecture. In recent years, operations have been reviewed with greater consideration for the horses'' safety, and the rite continues to be handed down as one coloring spring in the Hokusei region, while seeking to balance the transmission of tradition with animal welfare.','tado-festival','tado-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q866977','彼岸','Higan','日本の雑節の一つ','Buddhist holiday exclusively during both the Spring and Autumnal Equinox',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BD%BC%E5%B2%B8','https://en.wikipedia.org/wiki/Higan',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q834387','山形国際ドキュメンタリー映画祭','Yamagata International Documentary Film Festival',NULL,'film festival in Japan','Q205526','山形市','Yamagata','山形県','tohoku',NULL,NULL,1989,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E5%9B%BD%E9%9A%9B%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yamagata_International_Documentary_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q844110','雛祭り','Hinamatsuri','毎年3月3日に行われる、日本の年中行事のひとつ','Japanese holiday',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Ist%20di%20Cultura%20giapponese%20-%20altare%20della%20festa%20delle%20bambole%20P1100919.JPG','https://ja.wikipedia.org/wiki/%E9%9B%9B%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Hinamatsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q773085','葵祭','Aoi Matsuri','京都市の賀茂御祖神社と賀茂別雷神社で行われる例祭','traditional Japanese Festival in Kyoto','Q11401356','北大路通','Kitaōji Street','京都府','kinki',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Aoi%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E8%91%B5%E7%A5%AD','https://en.wikipedia.org/wiki/Aoi_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q844110','雛祭り','Hinamatsuri','毎年3月3日に行われる、日本の年中行事のひとつ','Japanese holiday',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Ist%20di%20Cultura%20giapponese%20-%20altare%20della%20festa%20delle%20bambole%20P1100919.JPG','https://ja.wikipedia.org/wiki/%E9%9B%9B%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Hinamatsuri',85,'drafted','## 概要
+
+雛祭り（ひなまつり）は、毎年3月3日に女子の健やかな成長と幸福を願って行われる、日本全国の年中行事である。「桃の節句」「上巳（じょうし）の節句」とも呼ばれ、季節の節目を祝う五節句の一つに数えられる。各家庭では雛人形を飾り、菱餅・ひなあられ・白酒・蛤の吸い物・ちらし寿司などを供えて祝う。特定の地域の祭礼ではなく、全国の家庭で広く営まれる通過儀礼的な年中行事である点が大きな特徴であり、世代を超えて受け継がれてきた春の風物詩として親しまれている。
+
+雛人形は、内裏雛（男雛・女雛）を中心に、三人官女・五人囃子・随身・仕丁などを段飾りに配する形式が知られる。緋毛氈を敷いた七段飾りが豪華な形式として広く親しまれてきたが、近年は住宅事情から、男女一対のみを飾る親王飾りや、収納に配慮した収納飾りも広く普及している。桃の花を添えて春の訪れを祝う点も、この行事の季節感を象徴している。地域や家庭ごとに飾り方や供え物に違いがあり、その土地ならではの彩りが見られるのも雛祭りの魅力である。
+
+## 歴史・由来
+
+雛祭りの起源は、複数の要素が結びついて成立したと考えられている。一つは中国から伝わった「上巳の節句」で、3月最初の巳の日に水辺で身を清め、人形（ひとがた）に穢れを移して川に流す祓いの風習である。これが日本各地に残る「流し雛」の風習につながったとされ、災厄を人形に託して水に流すという信仰が根底にある。各地の流し雛は今日でも年中行事として継承されている。
+
+もう一つは、平安時代の貴族の子女が行っていた人形遊び「雛遊び（ひいなあそび）」である。この祓いの信仰と遊びの要素が長い年月をかけて融合し、室町から江戸時代にかけて、人形を飾って女子の成長を祝う現在の形へと発展したと一般に説明される。江戸時代には武家社会や町人文化の中で雛人形がしだいに豪華になり、段飾りの様式や雛道具の精緻化が進んでいった。やがて雛人形を贈り合う習慣も広まり、女子の誕生を祝う行事として全国に定着した。雛人形を専門に作る職人や産地も各地に育ち、伝統工芸として今日まで受け継がれている。なお、これらの起源説は要素ごとに伝承の確度が異なり、細部については研究上の諸説がある。
+
+## 見どころ
+
+雛祭りの見どころは、何といっても色鮮やかな雛人形の段飾りである。緋毛氈の上に並ぶ内裏雛や官女・囃子の人形は、平安装束を写した精緻な意匠で、織物・漆器・金工など日本の伝統工芸の粋を伝える。人形だけでなく、雛道具や屏風、雪洞（ぼんぼり）、嫁入り道具を模した調度の細やかな作り込みも見応えがある。
+
+また、地域によっては公共施設や旧家で大規模な雛人形を一般公開する催しが行われ、千段に及ぶ段飾りや、布で作った人形を吊るす「つるし雛」など、土地ごとの特色ある飾り方を楽しめる。階段状の会場いっぱいに雛人形を並べる光景は壮観で、写真撮影の名所にもなっている。家庭では雛あられや菱餅、ちらし寿司、蛤の吸い物といった季節の食を囲み、春の訪れを感じながら祝うのも大きな楽しみである。
+
+## 開催情報・アクセス
+
+雛祭りは毎年3月3日を中心に、日本全国の家庭・地域で行われる。特定の会場を持つ祭礼ではないため、家庭での飾り付けが中心となるが、各地の観光協会や旧家・資料館などでは、2月から3月にかけて雛人形の特別展示やイベントが催されることが多い。会場までのアクセスや開催規模は地域により大きく異なる。
+
+地域の雛人形公開イベントに足を運ぶ場合は、開催期間や会場、入場方法が地域・施設ごとに異なるため、訪問前に各主催者の公式情報で最新の日程を確認するとよい。なお、雛人形は3月3日を過ぎたら早めに片付ける習わしがある地域もある。
+
+## 周辺の見どころ
+
+雛人形の大規模公開で知られる地域（房総の勝浦や和歌山の加太など各地）では、町歩きと合わせて土地の歴史や食文化に触れられる。神社の境内に人形を並べる催しや、商店街を巡る雛めぐり、古い町並みを生かした展示など、地域ぐるみの取り組みも多い。春先の行楽と組み合わせれば、季節感あふれる一日を過ごせる。
+
+## 関連情報
+
+雛祭りは、端午の節句（5月5日・男子の成長を祝う）と対をなす節句行事であり、五節句や流し雛の風習、桃の節句にまつわる食文化と併せて見ると、日本の年中行事における祓いと成長祈願の文化的背景をより深く理解できる。
+','## Overview
+
+Hinamatsuri (the Doll''s Festival) is an annual observance held throughout Japan on March 3 each year to pray for the healthy growth and happiness of girls. Also called "Momo no Sekku" (the Peach Festival) or "Joshi no Sekku," it is counted among the five seasonal festivals (gosekku). In each household, families display hina dolls and celebrate with offerings such as hishimochi (diamond-shaped rice cakes), hina-arare, shirozake, clam soup, and chirashizushi. Rather than being the festival of any single locality, it is a rite-of-passage observance widely practiced in homes across the entire country.
+
+The hina dolls are typically arranged on tiered stands centered on the imperial couple (the male and female dairibina), accompanied by three court ladies, five musicians, ministers, and attendants, though compact "shinno-kazari" sets of just the couple have become widespread in recent years owing to limited living space.
+
+## History and Origins
+
+Hinamatsuri is generally understood to have formed through the merging of several elements. One is the "Joshi no Sekku" transmitted from China, a purification custom of cleansing oneself by water on the first day of the serpent in the third month and transferring impurity to paper figures (hitogata) that were then floated down a river. This is said to have given rise to Japan''s "nagashibina" (doll-floating) custom.
+
+Another is "hiina asobi," the doll play of aristocratic children in the Heian period. Over a long span of time, these elements of purification belief and play fused and, by the Edo period, developed into the present form of displaying dolls to celebrate girls'' growth. Within samurai and townspeople culture, hina dolls grew more elaborate and the tiered display style spread. The reliability of these origin theories varies by element, and scholarly opinions differ on the finer details.
+
+## Highlights
+
+The chief highlight of Hinamatsuri is the vivid tiered display of hina dolls. Arranged on scarlet felt, the imperial couple, court ladies, and musicians are rendered in exquisite designs modeled on Heian-period costume, conveying the finest of Japanese traditional craftsmanship.
+
+In some regions, public facilities and historic houses hold large-scale exhibitions of hina dolls open to the public, where visitors can enjoy distinctive local display styles such as stands of a thousand tiers or hanging "tsurushibina." At home, gathering around seasonal foods such as hina-arare, hishimochi, and chirashizushi to celebrate the arrival of spring is a great pleasure.
+
+## Event Information and Access
+
+Hinamatsuri is observed in homes and communities throughout Japan, centered on March 3 each year. As it is not a festival with a fixed venue, household displays are central, but local tourism associations, historic houses, and museums often hold special hina doll exhibitions from February into March.
+
+When visiting a regional hina doll exhibition, note that dates and venues differ by area and facility, so it is best to confirm the latest schedule through each organizer''s official information before going.
+
+## Nearby Attractions
+
+In areas known for large-scale hina doll exhibitions (such as Katsuura in the Boso region and Kada in Wakayama, among others), visitors can combine town walks with exposure to local history and food culture. Paired with early-spring outings, it makes for a day rich in seasonal atmosphere.
+
+## Related Information
+
+Hinamatsuri forms a pair with Tango no Sekku (May 5, celebrating boys'' growth), and viewing it together with the five seasonal festivals and the nagashibina custom offers a deeper understanding of the cultural background of purification and growth prayers in Japan''s annual observances.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q773085','葵祭','Aoi Matsuri','京都市の賀茂御祖神社と賀茂別雷神社で行われる例祭','traditional Japanese Festival in Kyoto','Q11401356','北大路通','Kitaōji Street','京都府','kinki',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Aoi%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E8%91%B5%E7%A5%AD','https://en.wikipedia.org/wiki/Aoi_Matsuri',85,'drafted','## 概要
+
+葵祭（あおいまつり）は、京都市の下鴨神社（賀茂御祖神社）と上賀茂神社（賀茂別雷神社）で行われる例祭で、正式には「賀茂祭（かもまつり）」といいます。祇園祭・時代祭とともに「京都三大祭り」のひとつに数えられ、また日本でも最も古い祭りのひとつとして知られています。例年5月15日に行われ、平安貴族の優雅な装束に身を包んだ行列が都大路を進む「路頭の儀（ろとうのぎ）」が最大の見どころです。
+
+祭りの名は、行列の人々や牛車、社殿などを葵（ふたばあおい）の葉で飾ることに由来します。色鮮やかな平安装束の行列が新緑の京都を進む光景は、王朝絵巻さながらの優雅さで、国内外から多くの見物客を集めます。
+
+## 歴史・由来
+
+葵祭の起源は非常に古く、約1500年前、6世紀の欽明天皇の時代にさかのぼると伝えられています。当時、凶作が続き、飢饉や疫病が広がったため、その原因が賀茂の神々の祟りであると考えられ、天皇が勅使を遣わして、馬に鈴をかけ、人々が猪頭をかぶって駆けるなどして神々を祀り、五穀豊穣を祈願したことが祭りの始まりとされています。これによって天候が回復し、豊作になったと伝えられています。
+
+平安時代には、賀茂祭は朝廷の重要な行事として隆盛をきわめ、単に「祭」といえばこの賀茂祭を指すほどでした。『源氏物語』をはじめとする古典文学にもその華やかさが描かれています。中世以降、戦乱などにより中断した時期もありましたが、江戸時代に再興され、近代以降も受け継がれてきました。現在も、宮中から賀茂社へ勅使が派遣される「勅祭(ちょくさい)」としての性格を保つ格式高い祭りです。なお、起源年代や由来の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### 路頭の儀（行列）
+葵祭の中心となるのが、5月15日に行われる「路頭の儀」です。勅使をはじめ、検非違使、内蔵使、馬に乗った人々、牛車などからなる総勢500名以上の優雅な行列が、京都御所を出発し、下鴨神社を経て上賀茂神社まで、約8キロの道のりを進みます。平安時代さながらの装束をまとった人々と、葵で飾られた牛車が連なる光景は壮観で、まるで王朝絵巻が動き出したかのようです。
+
+### 斎王代（さいおうだい）
+行列の華として注目を集めるのが「斎王代」です。かつて賀茂社に仕えた皇女「斎王」にちなみ、十二単をまとった女性が輿に乗って行列に加わります。きらびやかな装束と気品ある佇まいは、葵祭を象徴する存在として、毎年大きな話題となります。
+
+### 社頭の儀・前儀の神事
+路頭の儀のほか、両神社で行われる「社頭の儀」や、5月初旬から続く前儀の数々も見どころです。上賀茂神社の流鏑馬神事（やぶさめしんじ）や、下鴨神社の御蔭祭（みかげまつり）など、葵祭にいたるまでの神事も古式ゆかしく営まれ、祭り全体の奥行きを感じることができます。
+
+## 開催情報・アクセス
+
+葵祭の路頭の儀は、例年5月15日に行われます（雨天の場合は順延されることがあります）。行列は午前中に京都御所を出発し、下鴨神社を経て、午後に上賀茂神社へ到着するのが通例です。これに先立ち、5月初旬から流鏑馬神事や御蔭祭などの前儀が両神社などで行われます。日程・経路・観覧方法（有料観覧席の有無など）は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、京都御所へは地下鉄烏丸線「丸太町駅」「今出川駅」、下鴨神社へは市バスや京阪「出町柳駅」、上賀茂神社へは市バスが便利です。行列の沿道は広範囲にわたるため、観覧場所に応じて最寄りの交通手段を選ぶとよいでしょう。当日は周辺が混雑するため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、各神社や京都市など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+葵祭の舞台となる下鴨神社・上賀茂神社は、いずれも世界文化遺産（古都京都の文化財）に登録された格式高い社です。下鴨神社の「糸名の森（ただすのもり）」は原生林の面影を残す貴重な社叢で、新緑の季節の散策にも最適です。
+
+両神社の周辺には、京都御苑や鴨川など、京都らしい自然と歴史を感じられる場所が点在しています。祭りの時期は新緑が美しく、京都観光に絶好の季節です。社寺巡りや鴨川沿いの散策、京料理など、葵祭とあわせて初夏の京都を満喫できます。
+
+## 関連情報
+
+葵祭は、賀茂社（下鴨神社・上賀茂神社）の例祭であり、宮中から勅使が遣わされる「勅祭」として、日本でも有数の格式を誇る祭りです。祇園祭・時代祭と並ぶ京都三大祭りのひとつとして、また平安王朝の雅を今に伝える行事として、国内外から高い人気を集めています。
+
+なお、起源年代や由来、行列の構成などには伝承や時代による違いがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Aoi Matsuri (Aoi Festival) is the annual festival held at Shimogamo Shrine (Kamo-mioya Shrine) and Kamigamo Shrine (Kamo-wakeikazuchi Shrine) in Kyoto City, formally called the "Kamo Festival." Together with the Gion Festival and the Jidai Festival, it is counted as one of the "Three Great Festivals of Kyoto," and it is also known as one of the oldest festivals in Japan. Held on May 15 each year, its greatest highlight is the "Rotō no Gi," a procession in which people clad in the elegant attire of Heian aristocrats advance along the streets of the old capital.
+
+The festival''s name derives from decorating the people in the procession, the ox-drawn carriages, and the shrine buildings with leaves of the aoi (wild ginger). The sight of a procession in colorful Heian costume advancing through the fresh greenery of Kyoto, with an elegance like a court scroll, draws many spectators from Japan and abroad.
+
+## History and Origins
+
+The origins of the Aoi Matsuri are extremely ancient, said to date back about 1,500 years to the time of Emperor Kinmei in the 6th century. At that time, because crop failures continued and famine and epidemics spread, it was thought that the cause was the curse of the Kamo deities, and the emperor dispatched an imperial messenger to worship the deities—putting bells on horses and having people run wearing boar-head masks, among other rites—and prayed for an abundant harvest. As a result, it is said, the weather recovered and the harvest became bountiful, which is regarded as the beginning of the festival.
+
+In the Heian period, the Kamo Festival flourished as an important event of the imperial court, to the extent that simply saying "the Festival" referred to this Kamo Festival. Its splendor is depicted in classical literature, beginning with The Tale of Genji. From the medieval period onward there were times when it was interrupted by warfare, but it was revived in the Edo period and has been carried on since the modern era as well. Even today, it retains its character as a "chokusai"—a festival to which an imperial messenger is dispatched from the court to the Kamo shrines—and it is a festival of high prestige. Note that the dating of its origins and the details of its derivation partly rely on tradition, and this provides an overview based on the principal traditions.
+
+## Highlights
+
+### The Rotō no Gi (Procession)
+The centerpiece of the Aoi Matsuri is the "Rotō no Gi," held on May 15. An elegant procession of more than 500 people—including the imperial messenger, the kebiishi (police officials), the kurazukai, people on horseback, and ox-drawn carriages—departs from the Kyoto Imperial Palace and advances along a roughly 8-kilometer route, passing Shimogamo Shrine on the way to Kamigamo Shrine. The sight of people clad in Heian-period costumes and ox carriages decorated with aoi leaves stretching in a line is spectacular, as if a court scroll had come to life.
+
+### The Saiō-dai
+What draws attention as the flower of the procession is the "Saiō-dai." Named after the "Saiō," an imperial princess who once served the Kamo shrines, a woman clad in a twelve-layered ceremonial kimono (jūnihitoe) joins the procession riding on a palanquin. The dazzling attire and graceful bearing make the Saiō-dai a symbol of the Aoi Matsuri, and it becomes a major topic of conversation every year.
+
+### The Shatō no Gi and Preliminary Rites
+In addition to the Rotō no Gi, the "Shatō no Gi" held at both shrines, and the many preliminary rites continuing from early May, are also highlights. Rites leading up to the Aoi Matsuri, such as the yabusame (horseback archery) rite at Kamigamo Shrine and the Mikage Festival at Shimogamo Shrine, are also conducted in ancient style, allowing visitors to sense the depth of the festival as a whole.
+
+## Event Information and Access
+
+The Rotō no Gi of the Aoi Matsuri is held on May 15 each year (it may be postponed in case of rain). Customarily, the procession departs the Kyoto Imperial Palace in the morning and, passing Shimogamo Shrine, arrives at Kamigamo Shrine in the afternoon. Prior to this, preliminary rites such as the yabusame rite and the Mikage Festival are held at the two shrines and elsewhere from early May. Because the schedule, route, and viewing methods (such as the presence of paid seating) may vary from year to year, it is advisable to check official information in advance when planning to attend.
+
+For access, to the Kyoto Imperial Palace, "Marutamachi Station" and "Imadegawa Station" on the Subway Karasuma Line are convenient; to Shimogamo Shrine, city buses and "Demachiyanagi Station" on the Keihan line; and to Kamigamo Shrine, city buses. Because the procession route spans a wide area, it is good to choose the nearest means of transportation according to your viewing location. As the surrounding area is crowded on the day, using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from each shrine and Kyoto City.
+
+## Nearby Attractions
+
+Shimogamo Shrine and Kamigamo Shrine, which serve as the stages of the Aoi Matsuri, are both prestigious shrines registered as World Cultural Heritage (Historic Monuments of Ancient Kyoto). The "Tadasu no Mori" of Shimogamo Shrine is a precious shrine forest retaining traces of primeval woodland, ideal for a stroll in the season of fresh greenery.
+
+Around the two shrines, places where one can sense Kyoto-like nature and history, such as the Kyoto Gyoen National Garden and the Kamo River, are scattered about. The festival period boasts beautiful fresh greenery and is an excellent season for sightseeing in Kyoto. Together with the Aoi Matsuri, visitors can fully enjoy early-summer Kyoto through shrine and temple visits, strolls along the Kamo River, and Kyoto cuisine.
+
+## Related Information
+
+The Aoi Matsuri is the annual festival of the Kamo shrines (Shimogamo Shrine and Kamigamo Shrine), and as a "chokusai" to which an imperial messenger is dispatched from the court, it boasts a prestige rare even in Japan. As one of the Three Great Festivals of Kyoto alongside the Gion Festival and the Jidai Festival, and as an event that conveys the elegance of the Heian court to the present day, it enjoys high popularity from Japan and abroad.
+
+Please note that the dating of its origins, its derivation, and the composition of the procession differ depending on tradition and era. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before attending.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q862407','青森ねぶた','Aomori Nebuta Matsuri','日本の青森県青森市で毎年8月に開催される祭','Japanese summer festival','Q146790','青森市','Aomori','青森県','tohoku',40.822342,140.74739,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Aomori%20Nebuta%20Festival%20Float%20August%202006.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%81%AD%E3%81%B6%E3%81%9F','https://en.wikipedia.org/wiki/Aomori_Nebuta_Matsuri',95,'drafted','## 概要
 
 青森ねぶた祭（あおもりねぶたまつり）は、青森県青森市で毎年8月2日から7日までの6日間にわたって開催される、日本を代表する夏の伝統祭礼である。「ねぶた」と呼ばれる高さ約5メートル、幅約9メートルの巨大な人形灯籠（運行台車含め重さ4トン）が市内を練り歩く勇壮華麗な姿で世界的に有名で、1980年（昭和55年）に国の重要無形民俗文化財に指定され、毎年約280万人の観光客が訪れる東北最大級の夏祭りである。
@@ -205,7 +345,85 @@ The venue is Hinokuma Jingū and Kunikakasu Jingū (365 Akizuki, Wakayama City, 
 ## Surrounding Attractions
 
 Wakayama City features a concentration of historical attractions including Wakayama Castle (the residence of the Kii Tokugawa family, one of the three Tokugawa branch families), Kimiidera Temple (the 2nd temple on the Saigoku Pilgrimage), Wakanoura and Tamatsushima Shrine, Saikazaki, and Kishū Tōshō-gū. Within Wakayama Prefecture, abundant tourism resources allow visitors to experience the faith, nature, and hot spring culture of the Kii Peninsula, including Mount Kōya (a UNESCO World Heritage Site and sacred place of Shingon Buddhism), the Kumano Kodō pilgrimage routes (a World Heritage Site), Nachi Falls and Kumano Nachi Taisha, Shirahama Hot Spring, and Kushimoto Coast. Hinokuma Jingū and Kunikakasu Jingū have historically been important pilgrimage stops both before and after the Kumano pilgrimage.','hinokuma-kunikakasu-jingu','hinokuma-kunikakasu-jingu',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q979873','祇園祭','Gion Matsuri','京都市の祭り','festival in Kyoto city, Japan','Q692714','八坂神社','Yasaka Shrine','京都府','kinki',NULL,NULL,869,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Matsuri%202017-5.jpg','https://ja.wikipedia.org/wiki/%E7%A5%87%E5%9C%92%E7%A5%AD','https://en.wikipedia.org/wiki/Gion_Matsuri',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q979873','祇園祭','Gion Matsuri','京都市の祭り','festival in Kyoto city, Japan','Q692714','八坂神社','Yasaka Shrine','京都府','kinki',NULL,NULL,869,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Matsuri%202017-5.jpg','https://ja.wikipedia.org/wiki/%E7%A5%87%E5%9C%92%E7%A5%AD','https://en.wikipedia.org/wiki/Gion_Matsuri',85,'drafted','## 概要
+
+祇園祭（ぎおんまつり）は、京都市東山区の八坂神社の祭礼で、京都の夏を代表する祭りとして、また日本三大祭りのひとつとして広く知られています。葵祭・時代祭とともに「京都三大祭り」にも数えられ、その歴史と規模は群を抜いています。
+
+祭りは7月の1か月間にわたって、さまざまな神事・行事が連日繰り広げられる長大な祭礼です。なかでも最大の見どころが、絢爛豪華な山鉾（やまほこ）が京都の市街を巡行する「山鉾巡行」です。「動く美術館」とも称される山鉾は、緻密な工芸と豪華な懸装品で飾られ、その巡行は壮観のひとことに尽きます。2009年には「京都祇園祭の山鉾行事」がユネスコ無形文化遺産に登録され、世界的にもその価値が認められています。
+
+## 歴史・由来
+
+祇園祭の起源は、平安時代前期の貞観11年（869年）に行われた「祇園御霊会（ぎおんごりょうえ）」にさかのぼると伝えられています。当時、各地で疫病が流行したため、その原因とされた怨霊や疫神を鎮め、災厄を退散させることを願って営まれた御霊会が、祭りの始まりとされます。当初は当時の国の数にちなんで66本の鉾を立て、神泉苑に神輿を送って災厄の除去を祈ったといわれています。
+
+その後、疫病の流行に応じて随時行われていた御霊会は、やがて毎年の恒例行事として定着し、応仁の乱による中断などを経ながらも、町衆（まちしゅう）の力によって復興・継承されてきました。とくに山鉾は、室町時代以降、京都の商工業者たちが財力と技術を結集して豪華に飾り立て、自らの町の誇りとして発展させてきたものです。海外渡来の染織品なども懸装品として用いられ、山鉾は国際色豊かな工芸の粋を集めた存在となりました。なお、起源年代や個々の山鉾の由来には諸説・伝承による部分もあり、ここでは主要な伝えと研究の状況に基づいて概観しています。
+
+## 見どころ
+
+### 山鉾巡行
+祇園祭最大のハイライトが、前祭（さきまつり）と後祭（あとまつり）の二度にわたって行われる山鉾巡行です。高くそびえる鉾や、趣向を凝らした山が、囃子の音とともに京都の大通りを進みます。交差点で大きな鉾の進行方向を変える「辻回し」は、巨大な車輪を竹と水を使って回す豪快な見せ場で、観客から大きな歓声があがります。
+
+### 宵山（よいやま）
+山鉾巡行の前夜にあたる「宵山」も大きな見どころです。日が暮れると山鉾に駒形提灯が灯され、祇園囃子が流れるなか、多くの人でにぎわいます。各山鉾町では、懸装品の展示や、厄除けの粽（ちまき）・授与品の販売が行われ、祭りの情緒を間近に味わうことができます。
+
+### 神輿渡御と神事
+華やかな山鉾行事の一方で、祇園祭の中核には八坂神社の神事があります。神輿が氏子地域を巡る神輿渡御をはじめ、1か月を通じて数多くの神事が厳かに営まれ、疫病退散・無病息災を願う祭り本来の姿が受け継がれています。
+
+## 開催情報・アクセス
+
+祇園祭は、例年7月1日の「吉符入（きっぷいり）」から31日の「疫神社夏越祭」まで、約1か月にわたって各種の神事・行事が行われます。前祭の山鉾巡行は7月17日、後祭の山鉾巡行は7月24日に行われるのが通例です。会場は八坂神社および京都市街地一帯です。各行事の日程・経路・観覧方法は年によって細部が異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、八坂神社へは京阪本線「祇園四条駅」や阪急京都線「京都河原町駅」が便利で、山鉾巡行の沿道（四条通・河原町通・御池通など）へは市内各所からアクセスできます。期間中、特に宵山・巡行の日は中心部が大変混雑し、大規模な交通規制が敷かれるため、公共交通機関の利用が前提となります。最新の日程・交通情報は八坂神社や京都市など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+祇園祭の中心地・八坂神社の周辺は、京都随一の観光エリアです。祇園の花街、八坂の塔で知られる法観寺、清水寺、高台寺などの名所が徒歩圏内に集まり、祭りとあわせて京都らしい風情を満喫できます。
+
+少し足を延ばせば、鴨川沿いの納涼床（川床）で京料理を楽しんだり、四条河原町・先斗町でのショッピングや食事も楽しめます。夏の京都ならではの蒸し暑さのなかにも、祭りの活気と古都の趣が同居する独特の魅力を味わうことができます。
+
+## 関連情報
+
+祇園祭は、2009年に「京都祇園祭の山鉾行事」としてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。大阪の天神祭、東京の神田祭とともに日本三大祭りのひとつに、また京都三大祭りのひとつにも数えられる、日本を代表する祭礼です。
+
+なお、起源年代や個々の山鉾の由来、各行事の細部には諸説・変動があります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Gion Matsuri (Gion Festival) is the festival of Yasaka Shrine in Higashiyama Ward, Kyoto City, and is widely known as a representative festival of Kyoto''s summer and as one of the Three Great Festivals of Japan. Together with the Aoi Festival and the Jidai Festival, it is also counted among the "Three Great Festivals of Kyoto," and its history and scale are without equal.
+
+The festival is a vast observance in which various rites and events unfold day after day over the entire month of July. Its greatest highlight is the "Yamaboko Junko," the procession of gorgeously ornate floats (yamaboko) through the streets of Kyoto. Called a "moving museum," the floats are adorned with intricate craftsmanship and lavish hanging decorations, and their procession can only be described as spectacular. In 2009, the "Yamaboko float events of the Kyoto Gion Festival" were inscribed on the UNESCO Intangible Cultural Heritage list, and their value is recognized worldwide.
+
+## History and Origins
+
+The origins of the Gion Matsuri are said to date back to the "Gion Goryō-e," held in 869 (Jōgan 11) in the early Heian period. At the time, because epidemics were spreading in various regions, the goryō-e was conducted in the hope of pacifying the vengeful spirits and plague deities thought to be their cause and driving away calamity, and this is regarded as the beginning of the festival. It is said that 66 halberds—corresponding to the number of provinces of the country at the time—were initially erected, and portable shrines were sent to Shinsen-en garden to pray for the removal of disaster.
+
+Thereafter, the goryō-e, which had been held as needed in response to outbreaks of epidemics, eventually became established as an annual event, and despite interruptions such as during the Ōnin War, it was revived and carried on through the power of the townspeople (machishū). The floats in particular were lavishly decorated from the Muromachi period onward by Kyoto''s merchants and craftsmen, who pooled their wealth and skill, and developed them as the pride of their own districts. Textiles imported from overseas were also used as hanging decorations, making the floats a gathering of the finest, internationally flavored craftsmanship. Note that there are also accounts and traditions regarding the dating of the origins and the derivations of individual floats, and this provides an overview based on the principal traditions and state of research.
+
+## Highlights
+
+### The Yamaboko Junko Procession
+The greatest highlight of the Gion Matsuri is the float procession, held twice—at the Saki Matsuri (first festival) and the Ato Matsuri (latter festival). Towering halberds (hoko) and elaborately devised mountain floats (yama) advance down Kyoto''s main streets to the sound of festival music. The "tsujimawashi," in which the direction of a large float is changed at an intersection by turning its huge wheels using bamboo and water, is a dynamic spectacle that draws great cheers from the crowds.
+
+### Yoiyama (The Eve)
+The "Yoiyama," the night before the float procession, is also a major highlight. After dark, lantern lights are lit on the floats, and amid the flowing Gion music it bustles with many people. In each float district, hanging decorations are displayed and protective chimaki (rice-dumpling charms) and offerings are sold, allowing visitors to savor the festival''s atmosphere up close.
+
+### Mikoshi Procession and Rites
+Alongside the splendid float events, the core of the Gion Matsuri lies in the rites of Yasaka Shrine. Beginning with the mikoshi procession, in which portable shrines tour the parishioner districts, numerous rites are solemnly conducted throughout the month, carrying on the festival''s original purpose of praying for the dispelling of epidemics and for good health.
+
+## Event Information and Access
+
+The Gion Matsuri is held over about a month, with various rites and events from the "Kippu-iri" on July 1 to the "Ekijinja Nagoshi-sai" on the 31st each year. The float procession of the Saki Matsuri is customarily held on July 17, and that of the Ato Matsuri on July 24. The venue is Yasaka Shrine and the area of central Kyoto City. Because the details of each event''s schedule, route, and viewing methods may vary from year to year, it is advisable to check official information in advance when planning to attend.
+
+For access, to Yasaka Shrine, "Gion-Shijō Station" on the Keihan Main Line and "Kyoto-Kawaramachi Station" on the Hankyu Kyoto Line are convenient, and the procession routes (Shijō-dōri, Kawaramachi-dōri, Oike-dōri, and others) can be reached from various points in the city. During the period, especially on the days of the Yoiyama and procession, the city center becomes extremely crowded and large-scale traffic restrictions are imposed, so use of public transportation is assumed. Please confirm the latest schedule and transportation information through official announcements from Yasaka Shrine and Kyoto City.
+
+## Nearby Attractions
+
+The area around Yasaka Shrine, the center of the Gion Matsuri, is one of Kyoto''s foremost sightseeing districts. Famous spots such as the Gion entertainment district, Hōkan-ji Temple known for the Yasaka Pagoda, Kiyomizu-dera Temple, and Kōdai-ji Temple are gathered within walking distance, allowing visitors to fully enjoy the atmosphere unique to Kyoto along with the festival.
+
+A short trip away, one can enjoy Kyoto cuisine on the riverside dining platforms (kawayuka) along the Kamo River, as well as shopping and dining in Shijō-Kawaramachi and Pontochō. Even amid the humid heat unique to Kyoto in summer, visitors can experience the distinctive charm in which the festival''s energy and the atmosphere of the ancient capital coexist.
+
+## Related Information
+
+The Gion Matsuri was inscribed on the UNESCO Intangible Cultural Heritage list in 2009 as the "Yamaboko float events of the Kyoto Gion Festival," and it is also designated an Important Intangible Folk Cultural Property of Japan. Together with Osaka''s Tenjin Festival and Tokyo''s Kanda Festival, it is counted as one of the Three Great Festivals of Japan, and as one of the Three Great Festivals of Kyoto—a festival representative of Japan.
+
+Please note that the dating of the origins, the derivations of individual floats, and the details of each event are subject to differing accounts and changes. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before attending.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q911345','CON-CANムービーフェスティバル','CON-CAN Movie Festival',NULL,'film festival',NULL,NULL,NULL,'千葉県','kanto',35.67659,139.70793,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/CON-CAN%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/CON-CAN_Movie_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q901495','ゆうばり国際ファンタスティック映画祭','Yubari International Fantastic Film Festival','日本の北海道夕張市で開かれている映画祭','film festival','Q637145','夕張市','Yūbari-shi','北海道','hokkaido',NULL,NULL,1990,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%86%E3%81%B0%E3%82%8A%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yubari_International_Fantastic_Film_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q903645','国際花と緑の博覧会','Expo ''90','1990年に大阪府の鶴見緑地で行われた国際博覧会','international gardening exposition held in Tsurumi Ryokuchi, Osaka','Q11615139','花博記念公園鶴見緑地','Tsurumiryokuchi Expo ''90 Commemorative Park','大阪府','kinki',34.71216667,135.57416667,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/EXPO%201990.JPG','https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%8A%B1%E3%81%A8%E7%B7%91%E3%81%AE%E5%8D%9A%E8%A6%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Expo_%2790',95,'drafted','## 概要
@@ -880,7 +1098,85 @@ The festival''s greatest highlight is the procession of dashi—elaborate wheele
 The most thrilling moment comes at night with the hikkawase. When two or more floats meet at an intersection, they turn to face one another and engage in a spirited musical duel. Lanterns are raised in unison and the hayashi musicians compete in a dazzling display of skill and energy that overwhelms the senses.
 
 Held annually on the third Saturday and Sunday of October, the festival draws over 800,000 visitors across its two days. Combined with a stroll through Kawagoe''s warehouse district, the Kashiya Yokocho (Penny Candy Lane), and the iconic Toki no Kane (Bell of Time), the Kawagoe Hikawa Festival offers an unforgettable autumn experience.','kawagoe-hikawa-matsuri','kawagoe-hikawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q9302453','お水取り','Omizutori','毎年3月に日本の東大寺で行われる行事のひとつ','festival in Japan','Q3341341','東大寺二月堂','Nigatsu-dō','奈良県','kinki',NULL,NULL,760,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Omizutori.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A','https://en.wikipedia.org/wiki/Omizutori',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q9302453','お水取り','Omizutori','毎年3月に日本の東大寺で行われる行事のひとつ','festival in Japan','Q3341341','東大寺二月堂','Nigatsu-dō','奈良県','kinki',NULL,NULL,760,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Omizutori.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A','https://en.wikipedia.org/wiki/Omizutori',85,'drafted','## 概要
+
+お水取り（おみずとり）は、奈良市の東大寺二月堂で行われる仏教行事「修二会（しゅにえ）」の通称です。正式には「十一面悔過（じゅういちめんけか）」といい、本尊の十一面観音菩薩に、人々に代わって罪過を懺悔し、国家の安泰や五穀豊穣、人々の幸福を祈る法会です。例年3月に行われ、「お水取りが終われば春が来る」と言われるように、奈良に春の訪れを告げる風物詩として広く親しまれています。
+
+「お水取り」「お松明（おたいまつ）」の名で知られる勇壮な行事を含み、二月堂の舞台で燃えさかる大きな松明が振り回される光景は、奈良の早春を象徴する一大スペクタクルとして、毎年多くの参拝者・見物客を集めます。
+
+## 歴史・由来
+
+東大寺二月堂の修二会は、奈良時代の天平勝宝4年（752年）に、実忠和尚（じっちゅうかしょう）によって始められたと伝えられています。以来、一度も途絶えることなく続けられてきた「不退（ふたい）の行法」として知られ、千年以上にわたって毎年営まれてきた、きわめて長い歴史を持つ法会です。戦乱や災害の時代をも乗り越えて連綿と受け継がれてきた点に、この行事の重みがあります。
+
+修二会は、選ばれた僧侶「練行衆（れんぎょうしゅう）」が、十一面観音の前で人々の罪を懺悔し、天下の安寧などを祈る厳しい修行です。「お水取り」という名は、二月堂の下にある若狭井（わかさい）という井戸から、観音にお供えする「お香水（おこうずい）」を汲み上げる儀式に由来します。また、行中に用いられる松明が「お松明」として広く知られるようになりました。なお、起源や個々の儀式の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### お松明（おたいまつ）
+お水取りの代名詞ともいえるのが「お松明」です。修二会の期間中、練行衆が二月堂に上堂する際の道明かりとして、大きな松明が灯されます。火の粉を散らしながら二月堂の舞台の欄干を駆け抜ける松明の姿は迫力満点で、暗闇に燃え上がる炎と舞い散る火の粉が、見る者を圧倒します。この火の粉を浴びると無病息災で過ごせるとも言い伝えられています。
+
+### お水取りの儀式
+行事の名の由来となった「お水取り」の儀式は、深夜に営まれます。若狭井からお香水を汲み、本尊に供えるこの儀式は、修二会のなかでも特に神聖なものとされています。古式にのっとった荘厳な所作のなかに、千年以上受け継がれてきた信仰の深さが感じられます。
+
+### 達陀（だったん）など多彩な行法
+修二会では、お松明やお水取りのほかにも、火と水を用いる「達陀」など、さまざまな行法が日々営まれます。練行衆による声明（しょうみょう）や独特の作法が連日繰り広げられ、仏教行事としての奥深さを感じることができます。
+
+## 開催情報・アクセス
+
+東大寺二月堂の修二会（お水取り）は、例年3月1日から14日まで行われます。お松明は期間中の連日（日によって本数や規模が異なります）見ることができ、お水取りの儀式は12日深夜から13日未明にかけて営まれるのが通例です。会場は東大寺二月堂です。混雑状況や観覧に関する案内は年によって異なる場合があるため、参拝を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、近鉄奈良駅やJR奈良駅からバス、または徒歩で東大寺方面へ向かいます。二月堂は東大寺大仏殿の東側、少し高台に位置しています。お松明の日は二月堂周辺が大変混雑し、観覧エリアが制限されることもあるため、時間に余裕を持った行動と、夜間の冷え込みへの備えがおすすめです。最新の日程・観覧情報は、東大寺など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場の東大寺は、奈良を代表する世界文化遺産（古都奈良の文化財）で、大仏（盧舎那仏）で知られる大仏殿をはじめ、南大門、法華堂など見どころが豊富です。お水取りの参拝とあわせて、奈良の仏教文化の奥深さにふれることができます。
+
+東大寺周辺の奈良公園では、野生の鹿とふれあうことができ、春日大社や興福寺など名だたる社寺も徒歩圏内に点在しています。早春の奈良は観光客もやや落ち着いており、古都ならではの静かな趣を味わうのに適した季節です。奈良の郷土料理とあわせて、歴史と信仰の都をゆったりと巡ることができます。
+
+## 関連情報
+
+東大寺二月堂の修二会（お水取り）は、奈良時代から1200年以上にわたって一度も途絶えることなく続けられてきた、日本を代表する伝統行事のひとつです。その長い歴史と荘厳な所作は、仏教文化の貴重な遺産として高く評価されています。
+
+なお、起源や個々の儀式の細部には伝承による部分があり、具体的な日程や行法の内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、参拝の際は必ず最新の公式情報をご確認ください。','## Overview
+
+Omizutori is the common name for the Buddhist observance "Shuni-e," held at the Nigatsu-dō hall of Tōdai-ji Temple in Nara City. Formally called "Jūichimen Keka," it is a service in which, before the principal image of the Eleven-Headed Kannon Bodhisattva, the priests repent of transgressions on behalf of the people and pray for the peace of the nation, an abundant harvest, and the happiness of all. Held in March each year, it is widely cherished as a seasonal tradition heralding the arrival of spring in Nara, as expressed in the saying, "When Omizutori is over, spring has come."
+
+It includes the valiant event known by the names "Omizutori" and "Otaimatsu" (the great torches), and the sight of large blazing torches being swung about on the stage of the Nigatsu-dō is a grand spectacle symbolizing early spring in Nara, drawing many worshippers and spectators every year.
+
+## History and Origins
+
+The Shuni-e of the Nigatsu-dō at Tōdai-ji is said to have been begun in 752 (Tenpyō-shōhō 4), during the Nara period, by the priest Jitchū. Since then, it has been known as a "futai no gyōhō" (a practice that has never lapsed), carried on without a single interruption, and it is a service with an exceedingly long history, conducted every year for more than a thousand years. The weight of this observance lies in the fact that it has been handed down continuously, surviving even ages of warfare and disaster.
+
+The Shuni-e is a rigorous practice in which selected priests, the "rengyōshū," repent of the people''s sins before the Eleven-Headed Kannon and pray for the peace of the realm and more. The name "Omizutori" (drawing of water) derives from the rite of drawing the "okōzui"—sacred water offered to Kannon—from a well called the Wakasa-i, located beneath the Nigatsu-dō. In addition, the torches used during the practice have come to be widely known as the "Otaimatsu." Note that the origins and the details of individual rites partly rely on tradition, and this provides an overview based on the principal traditions.
+
+## Highlights
+
+### Otaimatsu (The Great Torches)
+What could be called the very symbol of Omizutori is the "Otaimatsu." During the Shuni-e period, large torches are lit to light the way as the rengyōshū ascend to the Nigatsu-dō. The sight of the torches racing along the railing of the Nigatsu-dō stage while scattering sparks is full of power, and the flames blazing in the darkness and the showering sparks overwhelm onlookers. It is said that being showered with these sparks allows one to spend the year free of illness and misfortune.
+
+### The Rite of Omizutori
+The rite of "Omizutori," which gave the observance its name, is conducted late at night. Drawing the okōzui from the Wakasa-i and offering it to the principal image, this rite is considered especially sacred even within the Shuni-e. Within the solemn movements following ancient forms, one can sense the depth of faith handed down for more than a thousand years.
+
+### Dattan and Other Varied Practices
+In the Shuni-e, in addition to the Otaimatsu and Omizutori, various practices using fire and water, such as the "Dattan," are conducted day after day. The shōmyō (Buddhist chanting) by the rengyōshū and distinctive ritual forms unfold daily, allowing visitors to sense the profundity of the event as a Buddhist observance.
+
+## Event Information and Access
+
+The Shuni-e (Omizutori) of the Nigatsu-dō at Tōdai-ji is held from March 1 to 14 each year. The Otaimatsu can be seen every day during the period (the number and scale differ by day), and the rite of Omizutori is customarily conducted from late night on the 12th into the early hours of the 13th. The venue is the Nigatsu-dō of Tōdai-ji. Because congestion conditions and viewing guidance may vary from year to year, it is advisable to check official information in advance when planning a visit.
+
+For access, head toward Tōdai-ji from Kintetsu Nara Station or JR Nara Station by bus or on foot. The Nigatsu-dō is located on slightly higher ground to the east of the Great Buddha Hall of Tōdai-ji. On the days of the Otaimatsu, the area around the Nigatsu-dō becomes extremely crowded and viewing areas may be restricted, so allowing plenty of time and preparing for the nighttime chill are recommended. Please confirm the latest schedule and viewing information through official announcements from Tōdai-ji and others.
+
+## Nearby Attractions
+
+The venue, Tōdai-ji, is a representative World Cultural Heritage site of Nara (Historic Monuments of Ancient Nara), abundant with highlights, beginning with the Great Buddha Hall known for the Great Buddha (Vairocana), as well as the Nandaimon Gate and the Hokke-dō. Together with a visit for Omizutori, visitors can experience the depth of Nara''s Buddhist culture.
+
+In Nara Park around Tōdai-ji, one can interact with wild deer, and renowned shrines and temples such as Kasuga Taisha and Kōfuku-ji are scattered within walking distance. Early-spring Nara is somewhat calmer in terms of tourists, making it a season well suited to savoring the quiet atmosphere unique to the ancient capital. Together with Nara''s local cuisine, visitors can leisurely tour this capital of history and faith.
+
+## Related Information
+
+The Shuni-e (Omizutori) of the Nigatsu-dō at Tōdai-ji is one of Japan''s representative traditional events, carried on without a single interruption for more than 1,200 years since the Nara period. Its long history and solemn ritual forms are highly esteemed as a precious heritage of Buddhist culture.
+
+Please note that the origins and the details of individual rites partly rely on tradition, and the specific schedule and the content of the practices may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11236230','デザインフェスタ','Design Festa',NULL,'biannual fashion and music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF','https://en.wikipedia.org/wiki/Design_Festa',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596116','秩父夜祭','Chichibu Night Festival','埼玉県秩父市にある秩父神社の例祭','Chichibu Shrine''s annual festival celebrated on the nights of December 1-6','Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/ChichibuFes1.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD','https://en.wikipedia.org/wiki/Chichibu_Night_Festival',85,'drafted','秩父夜祭（ちちぶよまつり）は、埼玉県秩父市の秩父神社の例祭で、毎年12月2日・3日に行われる。京都の祇園祭、飛騨の高山祭と並んで「日本三大曳山祭」の一つに数えられる、絢爛豪華な冬の祭典である。300年以上の歴史を誇り、師走の夜空を彩る祭りとして全国的に知られている。
 
@@ -2075,7 +2371,69 @@ The venue is Takaoka Sekino Shrine (9-56 Suehiro-machi, Takaoka City, Toyama Pre
 ## Surrounding Attractions
 
 Takaoka City, built as a castle town by Maeda Toshinaga, the second lord of the Kaga Domain, remains a town of living craft tradition where copperware, lacquerware (Takaoka Lacquerware), and silk textiles continue to thrive. Major historical attractions concentrated in the area include Zuiryū-ji Temple (a National Treasure), the Takaoka Daibutsu (one of Japan''s three great Buddha statues), Takaoka Kojō Park, and Kanaya-machi (the birthplace of metal casting, designated as an Important Preservation District). Within Toyama Prefecture, combined sightseeing tours are possible with attractions including the Tateyama Kurobe Alpine Route, the Gokayama Gasshō-zukuri village (a UNESCO World Heritage Site), and the seafood bounty of Toyama Bay and Himi.','takaoka-mikurumayama-matsuri','takaoka-mikurumayama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q10860730','原宿表参道元氣祭り・スーパーよさこい','Super Yosakoi',NULL,NULL,'Q746573','原宿','Harajuku','高知県','shikoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%842022%202.jpg','https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AE%BF%E8%A1%A8%E5%8F%82%E9%81%93%E5%85%83%E6%B0%A3%E7%A5%AD%E3%82%8A%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%84',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q10860730','原宿表参道元氣祭り・スーパーよさこい','Super Yosakoi',NULL,NULL,'Q746573','原宿','Harajuku','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%842022%202.jpg','https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AE%BF%E8%A1%A8%E5%8F%82%E9%81%93%E5%85%83%E6%B0%A3%E7%A5%AD%E3%82%8A%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%84',NULL,80,'drafted','## 概要
+
+原宿表参道元氣祭り・スーパーよさこいは、毎年8月下旬の週末（近年は8月29・30日前後）に東京都渋谷区の原宿・表参道一帯で開催される、よさこいの大規模演舞祭である。高知県発祥のよさこい鳴子踊りを首都・東京の象徴的な街並みに持ち込んだイベントで、明治神宮の表参道（神宮橋前のメインステージ）や原宿駅前、代々木公園周辺など複数会場で、全国から集まった踊り子チームが一斉に演舞を披露する。盛夏の東京を彩る夏祭りの一つとして定着しており、来場者数は多い年で延べ百万人規模にのぼるとされる。
+
+「元氣祭」の名が示す通り、地域の活性化と人々に元気を届けることを趣旨とし、明治神宮の鎮座にちなんだ奉納の意味合いも併せ持つ。鳴子を手にした踊り子が、地方車（じかたしゃ）から流れる楽曲に合わせて表参道を踊り進む光景は、原宿・表参道という流行発信地の景観と相まって、伝統と現代が交差する独特の華やかさを生んでいる。参加チームは学生団体・社会人チーム・地域連など多彩で、世代や地域を超えた交流の場ともなっている。
+
+## 歴史・由来
+
+本祭は2001年に第1回が開催され、原宿・表参道の商店会や地域団体が中心となって立ち上げた、比較的新しい都市型よさこいイベントである。発祥地・高知の「よさこい祭り」（1954年開始）や、それを北海道に展開した「YOSAKOIソーラン祭り」（1992年開始）の流れを受け、よさこいが全国の都市祭礼へと広がっていく潮流の中で生まれた。首都の中心部で大規模に開催される点が、全国数あるよさこいイベントの中でも本祭の存在感を際立たせている。
+
+よさこいは「鳴子を持つこと」と「地域の楽曲（よさこい節のフレーズ）を取り入れること」を基本ルールとしつつ、振付・衣装・音楽のアレンジは各チームの自由に委ねられる点が大きな特徴である。伝統的な祭礼とは異なり、創作性の高い参加型の踊りとして発展してきた。スーパーよさこいもこの自由度を受け継ぎ、全国の有力チームが趣向を凝らした演舞で技を競う場の一つとなっている。明治神宮という由緒ある場を舞台に据えることで、新しい祭りでありながら格式と祝祭性を兼ね備えた点も特色である。新しい祭りであるため、回次や会場構成は年により調整されており、細部は各年の公式発表に拠る。
+
+## 見どころ
+
+最大の見どころは、明治神宮の神宮橋前に設けられるメインステージでの演舞である。緑豊かな参道を背景に、色鮮やかな衣装をまとった踊り子が鳴子を鳴らして躍動する姿は、都市の真ん中とは思えない迫力と祝祭感を放つ。チームごとに練り上げられた振付・隊列・音楽が次々と披露され、観客を飽きさせない。
+
+また、表参道のパレード演舞では、踊り子の列が地方車の音楽とともに大通りを流れ進み、沿道の観客との一体感が生まれる。原宿駅前や周辺会場でもチームごとの個性的なパフォーマンスが繰り広げられ、複数会場を巡りながら多彩なチームを見比べられるのも都市型よさこいならではの楽しみ方である。夜にかけては照明や演出が加わり、昼とは異なる華やかさを見せる会場もある。
+
+## 開催情報・アクセス
+
+開催は毎年8月下旬の週末で、東京都渋谷区の原宿・表参道・明治神宮周辺の各会場で行われる。アクセスはJR山手線「原宿駅」、東京メトロ千代田線・副都心線「明治神宮前〈原宿〉駅」、同「表参道駅」などが至近で、複数路線から徒歩圏内という都心立地の良さも来場のしやすさにつながっている。
+
+真夏の屋外イベントのため、暑さ対策・水分補給は必須となる。荒天時の対応や各会場の演舞スケジュールは年により異なるため、来場前に公式情報で最新の日程・会場・タイムテーブルを確認することが望ましい。混雑が予想されるため、ゆとりを持った行動が安心である。
+
+## 周辺の見どころ
+
+会場周辺には明治神宮の広大な杜、代々木公園、表参道のショッピングストリート、原宿の若者文化スポットなど、東京を代表する観光資源が集中している。演舞の合間に明治神宮への参拝や表参道散策を組み合わせれば、都市型よさこいならではの一日を満喫できる。近隣の渋谷・原宿エリアはグルメやファッションの店も豊富で、祭りと街歩きを一度に楽しめる立地である。
+
+## 関連情報
+
+スーパーよさこいは、高知の本家「よさこい祭り」や北海道の「YOSAKOIソーラン祭り」と併せて見ると、よさこい文化が全国の都市祭礼へ広がった流れをより深く理解できる。創作よさこいの参加型・都市型祭礼の代表例の一つであり、東京の夏を象徴するイベントとして親しまれている。
+','## Overview
+
+The Harajuku Omotesando Genki Matsuri Super Yosakoi is a large-scale yosakoi dance festival held each year on a weekend in late August (in recent years around August 29-30) throughout the Harajuku and Omotesando districts of Shibuya Ward, Tokyo. The event brings the yosakoi naruko (clapper) dance, which originated in Kochi Prefecture, into the iconic streetscape of central Tokyo. Dance teams from across Japan perform simultaneously at multiple venues, including a main stage near the Jingu Bridge at the entrance to the Omotesando approach to Meiji Jingu, the area in front of Harajuku Station, and the vicinity of Yoyogi Park. It has established itself as one of the summer festivals that color Tokyo at the height of the season.
+
+As its name "Genki Matsuri" (festival of energy and vitality) suggests, the event aims to revitalize the community and bring energy to people, and it also carries a sense of dedication connected to Meiji Jingu.
+
+## History and Origins
+
+The first edition was held in 2001, organized chiefly by the merchants'' associations and community groups of Harajuku and Omotesando, making it a relatively new urban yosakoi event. It emerged amid the broader spread of yosakoi to cities nationwide, following the lineage of the original Yosakoi Festival of Kochi (begun in 1954) and the YOSAKOI Soran Festival of Hokkaido (begun in 1992).
+
+Yosakoi is defined by two basic rules: dancers must hold naruko clappers, and each piece must incorporate a phrase of the traditional "Yosakoi Bushi" melody. Beyond that, choreography, costumes, and musical arrangement are left to each team''s creativity, making it a highly inventive, participatory form of dance distinct from traditional festivals. Super Yosakoi inherits this freedom and has become one of the stages where leading teams from across the country showcase their skills. As a new festival, edition numbering and venue configuration are adjusted year to year, and finer details depend on each year''s official announcements.
+
+## Highlights
+
+The greatest highlight is the performance on the main stage set up before the Jingu Bridge at Meiji Jingu. Against the backdrop of the verdant approach, dancers in vivid costumes leap and spin while sounding their naruko, generating a power and festivity scarcely expected in the heart of the city.
+
+In the Omotesando parade, lines of dancers move down the grand avenue accompanied by music from the lead "jikatasha" floats, fostering a sense of unity with the spectators lining the route. Individual performances by each team also unfold in front of Harajuku Station and at the surrounding venues, and the ability to compare diverse teams while moving between multiple venues is a distinctive pleasure of urban yosakoi.
+
+## Event Information and Access
+
+The festival is held on a weekend in late August at venues around Harajuku, Omotesando, and Meiji Jingu in Shibuya Ward, Tokyo. Access is excellent: JR Yamanote Line "Harajuku Station," Tokyo Metro "Meiji-jingumae (Harajuku) Station," and "Omotesando Station" are all close by, making the venues reachable on foot from multiple lines.
+
+As a midsummer outdoor event, protection against the heat and frequent hydration are essential. Because contingency arrangements for bad weather and the performance schedule at each venue vary by year, visitors should confirm the latest dates, venues, and timetables through official sources before attending.
+
+## Nearby Attractions
+
+The surrounding area concentrates many of Tokyo''s signature attractions, including the vast forest of Meiji Jingu, Yoyogi Park, the Omotesando shopping street, and the youth-culture spots of Harajuku. Combining a visit to Meiji Jingu or a stroll along Omotesando between performances makes for a full day of urban yosakoi.
+
+## Related Information
+
+Viewed alongside the original Yosakoi Festival of Kochi and the YOSAKOI Soran Festival of Hokkaido, Super Yosakoi offers a deeper understanding of how yosakoi culture has spread to urban festivals across Japan. It is one of the leading examples of participatory, urban-style creative yosakoi.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11243525','SKIPシティ国際Dシネマ映画祭','SKIP City International D-Cinema Film Festival','川口市のSKIPシティで行われる映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/SKIP%E3%82%B7%E3%83%86%E3%82%A3%E5%9B%BD%E9%9A%9BD%E3%82%B7%E3%83%8D%E3%83%9E%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6404141','吉祥寺音楽祭','Kichijōji Music Festival','東京都武蔵野市吉祥寺で毎年ゴールデンウィークに開催される音楽イベント (1986-)',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,1986,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11197438','EARTH VISION 地球環境映像祭','EARTH VISION Global Environment Video Festival','地球環境をテーマとする国際映像祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/EARTH_VISION_%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E6%98%A0%E5%83%8F%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2865,10 +3223,244 @@ Kishiwada Castle, which shares its name with the festival, is a symbol of the ci
 
 The Kishiwada Danjiri Matsuri is a festival in which the strength of the local community is vividly expressed, with each neighborhood owning a float and operating under the unity of the district. While facing challenges such as ensuring the safety of the pullers and passing on the tradition to new generations, its heat and heritage have been handed down without interruption to this day. It should be noted that within Kishiwada City, the festivals in which floats are pulled are divided by district and held at different times, and in addition to the well-known festival there are others held in autumn. When visiting, paying attention not only to the power of the yarimawashi but also to the sense of unity among the townspeople who support it will allow a deeper appreciation of the festival''s essence.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7813900','東京国際レズビアン&ゲイ映画祭','Rainbow Reel Tokyo',NULL,'International film festival for LGBT audiences','Q1490','東京都','Tokyo','東京都','kanto',35.683333333,139.766666666,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%AB%E6%9D%B1%E4%BA%AC','https://en.wikipedia.org/wiki/Rainbow_Reel_Tokyo',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,1803,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,1803,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'drafted','## 概要
+
+戸畑祇園大山笠（とばたぎおんおおやまがさ）は、福岡県北九州市戸畑区で行われる祇園祭で、毎年7月の第4土曜日を中心とした3日間にわたって開催されます。福岡県を代表する夏祭りのひとつで、博多祇園山笠・小倉祇園太鼓とともに「福岡県の三大祇園」に数えられます。2016年（平成28年）には「戸畑祇園大山笠行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。
+
+この祭りの最大の特徴は、昼と夜とでまったく異なる姿を見せる山笠です。昼間は「幟大山笠（のぼりおおやまがさ）」として勇壮な姿を見せ、夜になると無数の提灯をまとった「提灯大山笠（ちょうちんおおやまがさ）」へと姿を変えます。光り輝く提灯のピラミッドが揺れながら進む夜の光景は「光のピラミッド」とも称され、見る者を魅了します。
+
+## 歴史・由来
+
+戸畑祇園大山笠の起源は、江戸時代後期にさかのぼると伝えられています。一説には、文政年間（1819年頃）に、当時この地域で疫病が流行した際、須賀大神（飛幡八幡宮）に平癒を祈願したところ流行がおさまり、その感謝の意を込めて山笠を奉納したことが始まりとされています。疫病退散・無病息災を願う祇園信仰に根ざした祭りとして、地域の人々によって受け継がれてきました。
+
+当初は素朴な山笠であったものが、時代を経るなかで装飾が豪華になり、とりわけ夜の提灯大山笠は、十二段に積み上げられた提灯が幻想的な光のピラミッドを形づくる、独自の様式へと発展しました。地域の各地区がそれぞれ山笠を仕立て、伝統と心意気を込めて受け継いできた歴史が、ユネスコ無形文化遺産への登録という形で世界に認められています。なお、起源年代や由来の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### 提灯大山笠（光のピラミッド）
+戸畑祇園大山笠最大の見どころが、夜に登場する「提灯大山笠」です。昼間の幟大山笠から飾りを替え、十二段に組み上げた山笠に約300個ともいわれる提灯が灯されます。光り輝く提灯のピラミッドが、勇ましいかけ声とともに大きく揺れながら練り歩く光景は圧巻で、夏の夜空に浮かび上がる幻想的な美しさが大きな魅力です。
+
+### 幟大山笠
+昼間に見られる「幟大山笠」は、高くそびえる幟（のぼり）と豪華な刺繍幕で飾られた勇壮な姿が特徴です。大勢の担ぎ手によって担がれ、力強く進む昼の山笠は、夜の提灯大山笠とはまた違った迫力があります。昼夜で姿を変える山笠の両方を楽しめるのが、この祭りならではの醍醐味です。
+
+### 山笠の競演とかけ声
+複数の地区の大山笠が一堂に会する競演は、祭りのクライマックスのひとつです。担ぎ手たちの勇壮なかけ声と、提灯の揺れる光が一体となった光景は、見る者の心を熱くします。
+
+## 開催情報・アクセス
+
+戸畑祇園大山笠は、例年7月の第4土曜日を中心とした3日間（金・土・日）にわたって開催されます。会場は北九州市戸畑区の中心部一帯です。山笠の巡行経路や時間、競演の場所・日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、JR鹿児島本線の「戸畑駅」が最寄りで、駅から会場周辺へは徒歩圏内です。北九州市の中心部に位置し、公共交通機関でのアクセスが便利です。祭り期間中は周辺で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、北九州市など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場のある北九州市戸畑区は、関門海峡にほど近い工業都市・北九州の一角で、近代化を支えてきた歴史を持つ地域です。周辺には洞海湾の景観や、近代化遺産にまつわるスポットなども点在しています。
+
+少し足を延ばせば、関門海峡や門司港レトロ、小倉城など、北九州ならではの観光地へもアクセスできます。北九州は「焼きうどん」発祥の地として知られるなど、ご当地グルメも豊富で、戸畑祇園大山笠とあわせて北九州の旅を楽しむことができます。
+
+## 関連情報
+
+戸畑祇園大山笠は、2016年に「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。昼の幟大山笠と夜の提灯大山笠という、一日のうちに二つの異なる姿を見せる独自の様式によって、数ある祇園祭のなかでも際立つ存在です。
+
+なお、起源年代や由来の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Tobata Gion Ōyamagasa (Tobata Gion Festival) is a Gion festival held in Tobata Ward, Kitakyushu City, Fukuoka Prefecture, over three days centered on the fourth Saturday of July each year. One of Fukuoka Prefecture''s representative summer festivals, it is counted, together with the Hakata Gion Yamakasa and the Kokura Gion Daiko, among the "Three Great Gion Festivals of Fukuoka Prefecture." In 2016, the "Tobata Gion Ōyamagasa events" were inscribed on the UNESCO Intangible Cultural Heritage list as one of 33 float festivals across Japan.
+
+The greatest feature of this festival is the float, which shows completely different appearances by day and by night. During the day it presents a valiant form as the "Nobori Ōyamagasa" (banner float), and at night it transforms into the "Chōchin Ōyamagasa" (lantern float), clad in countless lanterns. The nighttime sight of a pyramid of glowing lanterns advancing as it sways is also called the "Pyramid of Light" and captivates onlookers.
+
+## History and Origins
+
+The origins of the Tobata Gion Ōyamagasa are said to date back to the late Edo period. According to one account, around the Bunsei era (around 1819), when an epidemic spread in this region at the time, prayers for recovery were offered at Suga-no-Ōkami (Tobata Hachiman Shrine); when the outbreak subsided, a float was dedicated in gratitude, and this is regarded as the beginning. It has been carried on by local people as a festival rooted in Gion faith, praying for the dispelling of epidemics and for good health.
+
+What began as simple floats grew more lavish in decoration over time, and the nighttime Chōchin Ōyamagasa in particular developed into a distinctive style in which lanterns stacked in twelve tiers form a fantastical pyramid of light. The history in which each district of the region crafted its own float and carried it on with tradition and spirit was recognized by the world in the form of inscription on the UNESCO Intangible Cultural Heritage list. Note that the dating of the origins and the details of its derivation partly rely on tradition, and this provides an overview based on the principal traditions.
+
+## Highlights
+
+### Chōchin Ōyamagasa (Pyramid of Light)
+The greatest highlight of the Tobata Gion Ōyamagasa is the "Chōchin Ōyamagasa," which appears at night. The decorations are changed from the daytime Nobori Ōyamagasa, and a float assembled in twelve tiers is lit with what are said to be about 300 lanterns. The sight of the pyramid of glowing lanterns parading while swaying greatly to valiant shouts is spectacular, and the fantastical beauty floating against the summer night sky is a major attraction.
+
+### Nobori Ōyamagasa
+The "Nobori Ōyamagasa" seen during the day is characterized by its valiant form, decorated with towering banners and lavish embroidered curtains. Carried by many bearers and advancing powerfully, the daytime float has an impact different from that of the nighttime Chōchin Ōyamagasa. Being able to enjoy both the day and night forms of the float, which changes appearance, is the true delight unique to this festival.
+
+### The Competition of Floats and the Shouts
+The competition in which the large floats of multiple districts gather together is one of the festival''s climaxes. The sight of the bearers'' valiant shouts uniting with the swaying light of the lanterns stirs the hearts of onlookers.
+
+## Event Information and Access
+
+The Tobata Gion Ōyamagasa is held over three days (Friday, Saturday, and Sunday) centered on the fourth Saturday of July each year. The venue is the central area of Tobata Ward, Kitakyushu City. Because the procession route and times of the floats and the place and schedule of the competition may vary from year to year, it is advisable to check official information in advance when planning to attend.
+
+For access, the nearest station is "Tobata Station" on the JR Kagoshima Main Line, within walking distance of the venue area. Located in central Kitakyushu City, it offers convenient access by public transportation. During the festival period, traffic restrictions and congestion are expected in the surrounding area, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Kitakyushu City.
+
+## Nearby Attractions
+
+Tobata Ward, Kitakyushu City, where the venue is located, is part of the industrial city of Kitakyushu, close to the Kanmon Strait, and is a region with a history of supporting modernization. The surrounding area is also dotted with views of Dōkai Bay and spots related to modernization heritage.
+
+A short trip away, one can access tourist destinations unique to Kitakyushu, such as the Kanmon Strait, Mojikō Retro, and Kokura Castle. Kitakyushu is known as the birthplace of "yaki-udon," among other things, and local gourmet food is abundant, so visitors can enjoy a journey through Kitakyushu together with the Tobata Gion Ōyamagasa.
+
+## Related Information
+
+The Tobata Gion Ōyamagasa was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. With its distinctive style of showing two different forms within a single day—the daytime Nobori Ōyamagasa and the nighttime Chōchin Ōyamagasa—it stands out among the many Gion festivals.
+
+Please note that the dating of the origins and the details of its derivation partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7814002','〈東京の夏〉音楽祭','Tokyo Summer Festival','アリオン音楽財団が開催する音楽祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%80%88%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A4%8F%E3%80%89%E9%9F%B3%E6%A5%BD%E7%A5%AD','https://en.wikipedia.org/wiki/Tokyo_Summer_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7903785','和霊大祭','Uwajima Ushi-oni Festival','愛媛県宇和島市で行われる夏祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Ushioni%20mask.jpg','https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Uwajima_Ushi-oni_Festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7849923','土崎神明社祭の曳山行事','Tsuchizaki Shinmei Shrine Festival','秋田県秋田市にある土崎神明社の例祭',NULL,'Q11423430','土崎神明社','Tsuchizaki Shinmeisha','秋田県','tohoku',NULL,NULL,1705,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchi-yama-tsunafuru.jpg','https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B','https://en.wikipedia.org/wiki/Tsuchizaki_Shinmeisha_Shrine_Annual_Celebration_And_The_Float_Festival',85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q7903785','和霊大祭','Uwajima Ushi-oni Festival','愛媛県宇和島市で行われる夏祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ushioni%20mask.jpg','https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Uwajima_Ushi-oni_Festival',85,'drafted','## 概要
+
+和霊大祭（われいたいさい）は、愛媛県宇和島市にある和霊神社の例大祭で、毎年7月に行われる宇和島の夏を代表する祭りです。地元では「うわじま牛鬼まつり」とともに親しまれ、四国有数の夏祭りのひとつに数えられます。最大の特徴は、「牛鬼（うしおに）」と呼ばれる巨大な作り物が町なかを練り歩くことで、長い首と恐ろしげな顔、シュロや赤布で覆われた胴体を持つ牛鬼の迫力は、訪れる人を圧倒します。
+
+宇和島藩の家老・山家清兵衛（やんべ せいべえ）を祭神とする和霊神社の神事を中核としながら、牛鬼の巡行、ガイヤカーニバル（踊り）、海上での神事、そして花火など、多彩な行事が繰り広げられる、信仰と賑わいが一体となった祭礼です。
+
+## 歴史・由来
+
+和霊神社は、宇和島藩初代藩主・伊達秀宗（だて ひでむね）に仕えた家老・山家清兵衛を祭神として祀る神社です。山家清兵衛は藩政に尽力した人物でしたが、非業の最期を遂げたと伝えられ、その後、清兵衛の霊を慰め祀るために神社が建立されました。和霊神社の例大祭である和霊大祭は、この祭神への信仰を中核とする神事として、古くから受け継がれてきました。
+
+承応2年（1653年）に山頼和霊社が建立されたことにちなむと伝えられ、長い歴史を持つ祭りです。明治以降は、太陽暦の7月下旬が例大祭日として定着しました。神事としての厳かな側面とともに、地域を挙げての夏祭りとして発展し、現在では牛鬼の巡行やガイヤカーニバルなど、多くの人が参加・観覧できる賑やかな行事へと広がっています。なお、祭神の事績や祭りの沿革の細部には諸説・伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### 牛鬼（うしおに）の巡行
+和霊大祭・うわじま牛鬼まつり最大の見どころが、巨大な「牛鬼」の巡行です。牛鬼は、長い首の先に恐ろしげな鬼の顔を持ち、シュロや赤い布で覆われた巨大な胴体を多くの担ぎ手が支える、独特の造形物です。町なかを練り歩き、家々や人々の間で首を大きく振る姿は迫力満点で、悪魔祓い・無病息災の意味があるとされます。
+
+### 走り込み（神事）
+祭りのクライマックスのひとつが、神輿が須賀川に勢いよく入っていく「走り込み」の神事です。深夜に行われるこの勇壮な神事は、祭りの神聖さと熱気が頂点に達する瞬間で、多くの見物客が見守ります。
+
+### ガイヤカーニバルと花火
+祭りを彩るのが、「うわじまガイヤカーニバル」と呼ばれる踊りのイベントです。多くの連が音楽に合わせて踊りながら市街を練り歩き、町は熱気に包まれます。また、海上から打ち上げられる花火も祭りの大きな楽しみで、夏の夜空を華やかに彩ります。
+
+## 開催情報・アクセス
+
+和霊大祭・うわじま牛鬼まつりは、例年7月下旬（おおむね7月22日〜24日ごろ）の数日間にわたって開催されます。会場は和霊神社および宇和島市の中心市街地一帯です。牛鬼の巡行や走り込み、ガイヤカーニバル、花火などの日程・時間・場所は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、JR予讃線の「宇和島駅」が最寄りで、駅から会場周辺へは徒歩圏内です。和霊神社へも市街地から徒歩圏内に位置しています。祭り期間中は中心部で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、宇和島市や観光関係団体など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場のある宇和島市は、リアス式海岸の宇和海に面した城下町で、現存十二天守のひとつ「宇和島城」をはじめとする歴史的な見どころが豊富です。祭りとあわせて、城下町の風情や歴史にふれることができます。
+
+宇和島周辺は、真珠や鯛などの海の幸が豊富で、「鯛めし」をはじめとする郷土料理も魅力です。風光明媚な宇和海の景観や、足を延ばせば四国西南部の自然・観光地へもアクセスでき、和霊大祭とあわせて南予地方の旅を楽しむことができます。
+
+## 関連情報
+
+和霊神社は、家老・山家清兵衛を祭神とする神社として知られ、その例大祭である和霊大祭は、宇和島の人々の信仰と結びついた重要な祭礼です。牛鬼の巡行を伴う「うわじま牛鬼まつり」として、四国を代表する夏祭りのひとつに数えられています。
+
+なお、祭神の事績や祭りの起源・沿革の細部には諸説・伝承による部分があり、具体的な開催日程や行事内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Warei Taisai (Uwajima Ushi-oni Festival) is the grand annual festival of Warei Shrine in Uwajima City, Ehime Prefecture, held in July each year as a representative summer festival of Uwajima. Locally, it is cherished together with the "Uwajima Ushi-oni Matsuri" and is counted as one of Shikoku''s foremost summer festivals. Its greatest feature is the parade of huge constructions called "ushi-oni" (ox-demons) through the town; with their long necks, fearsome faces, and bodies covered in palm fiber and red cloth, the ushi-oni are powerful enough to overwhelm visitors.
+
+While centered on the rites of Warei Shrine—which enshrines Yanbe Seibei, a chief retainer of the Uwajima domain, as its deity—it is a festival in which faith and festivity are united, with varied events unfolding, including the ushi-oni procession, the Gaiya Carnival (dancing), rites at sea, and fireworks.
+
+## History and Origins
+
+Warei Shrine is a shrine that enshrines as its deity Yanbe Seibei, a chief retainer who served Date Hidemune, the first lord of the Uwajima domain. Yanbe Seibei was a figure who devoted himself to the domain''s administration, but he is said to have met a tragic end, after which the shrine was built to console and enshrine his spirit. The Warei Taisai, the grand annual festival of Warei Shrine, has long been carried on as a rite centered on faith in this enshrined deity.
+
+It is said to be connected to the construction of the Yamarai Warei Shrine in 1653 (Jōō 2), and it is a festival with a long history. From the Meiji era onward, late July of the solar calendar became established as the date of the grand festival. Along with its solemn aspect as a rite, it developed into a community-wide summer festival, and today it has expanded into a lively event in which many people can participate and watch, such as the ushi-oni procession and the Gaiya Carnival. Note that the deeds of the enshrined deity and the details of the festival''s history partly rely on differing accounts and tradition, and this provides an overview based on the principal traditions.
+
+## Highlights
+
+### The Procession of the Ushi-oni
+The greatest highlight of the Warei Taisai / Uwajima Ushi-oni Matsuri is the procession of the huge "ushi-oni." The ushi-oni is a distinctive construction with a fearsome demon''s face at the end of a long neck and a huge body covered in palm fiber and red cloth, supported by many bearers. The sight of it parading through the town and swinging its neck greatly among houses and people is full of power, and it is said to carry the meaning of warding off demons and praying for good health.
+
+### Hashirikomi (Rite)
+One of the festival''s climaxes is the "hashirikomi" rite, in which a portable shrine vigorously enters the Sugagawa River. Conducted late at night, this valiant rite is the moment when the festival''s sacredness and heat reach their peak, watched over by many spectators.
+
+### The Gaiya Carnival and Fireworks
+What colors the festival is the dance event called the "Uwajima Gaiya Carnival." Many groups parade through the city dancing in time with music, and the town is enveloped in heat and energy. In addition, fireworks launched from the sea are a great pleasure of the festival, splendidly coloring the summer night sky.
+
+## Event Information and Access
+
+The Warei Taisai / Uwajima Ushi-oni Matsuri is held over several days in late July (roughly around July 22 to 24) each year. The venue is Warei Shrine and the central district of Uwajima City. Because the schedule, times, and places of the ushi-oni procession, hashirikomi, Gaiya Carnival, fireworks, and the like may vary from year to year, it is advisable to check official information in advance when planning to attend.
+
+For access, the nearest station is "Uwajima Station" on the JR Yosan Line, within walking distance of the venue area. Warei Shrine is also located within walking distance of the city center. During the festival period, traffic restrictions and congestion are expected in the city center, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Uwajima City and tourism-related organizations.
+
+## Nearby Attractions
+
+Uwajima City, where the venue is located, is a castle town facing the Uwa Sea of the ria coastline, abundant with historical highlights, beginning with "Uwajima Castle," one of the twelve surviving original castle keeps. Together with the festival, visitors can experience the atmosphere and history of the castle town.
+
+The Uwajima area is rich in seafood such as pearls and sea bream, and local cuisine such as "tai-meshi" (sea bream rice) is appealing. The scenic views of the Uwa Sea, and a short trip away the nature and tourist destinations of southwestern Shikoku, are accessible as well, so visitors can enjoy a journey through the Nan''yo region together with the Warei Taisai.
+
+## Related Information
+
+Warei Shrine is known as a shrine enshrining the chief retainer Yanbe Seibei, and its grand annual festival, the Warei Taisai, is an important festival linked to the faith of the people of Uwajima. As the "Uwajima Ushi-oni Matsuri," accompanied by the ushi-oni procession, it is counted as one of Shikoku''s representative summer festivals.
+
+Please note that the deeds of the enshrined deity and the details of the festival''s origins and history partly rely on differing accounts and tradition, and the specific dates and event content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q7849923','土崎神明社祭の曳山行事','Tsuchizaki Shinmei Shrine Festival','秋田県秋田市にある土崎神明社の例祭',NULL,'Q11423430','土崎神明社','Tsuchizaki Shinmeisha','秋田県','tohoku',NULL,NULL,1705,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchi-yama-tsunafuru.jpg','https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B','https://en.wikipedia.org/wiki/Tsuchizaki_Shinmeisha_Shrine_Annual_Celebration_And_The_Float_Festival',85,'drafted','## 概要
+
+土崎神明社祭の曳山行事（つちざきしんめいしゃさいのひきやまぎょうじ）は、秋田県秋田市土崎地区にある土崎神明社の例祭で、毎年7月20日・21日に行われます。地元では「土崎港曳山まつり（つちざきみなとひきやままつり）」とも呼ばれ、勇壮な曳山（ひきやま）が港町を巡行する、秋田の夏を代表する祭りのひとつです。2016年（平成28年）には「土崎神明社祭の曳山行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。
+
+各町内が制作する曳山は、武者人形などで飾られた勇壮な「人形飾り」と、世相を風刺・反映した「見返し」と呼ばれる飾りが特徴で、独特の祭り囃子とともに町を練り歩きます。
+
+## 歴史・由来
+
+土崎神明社祭の曳山行事は、土崎神明社の例祭として古くから受け継がれてきた行事です。土崎は、雄物川（おものがわ）の河口に位置する港町として、古くから物流の要衝として栄えてきた地で、北前船の寄港地としても知られていました。こうした港町の繁栄を背景に、町を挙げての盛大な祭りとして曳山行事が発展してきたと伝えられています。
+
+曳山には、各町内が趣向を凝らした飾り付けが施されます。表側には勇壮な武者人形などをあしらい、裏側の「見返し」にはその年の出来事や世相を反映した題材が掲げられるのが特徴で、これを見て楽しむのもこの祭りの醍醐味です。地域の人々が一体となって曳山を仕立て、町内ごとに伝統と心意気を競い合ってきた歴史が、ユネスコ無形文化遺産への登録という形で世界に認められました。なお、起源や沿革の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### 勇壮な曳山の巡行
+土崎神明社祭最大の見どころは、各町内が制作した曳山の巡行です。武者人形などで飾られた大型の曳山が、独特の祭り囃子に合わせて港町を練り歩く光景は迫力満点です。複数の曳山が連なって巡行する様子や、各町内が腕を競った飾りの出来栄えを見比べる楽しみがあります。
+
+### 「見返し」の風刺
+曳山の裏側に掲げられる「見返し」は、この祭りならではの特徴です。その年の世相や出来事を風刺・反映した題材が掲げられ、機知に富んだ言葉とともに人々を楽しませます。表側の勇壮な人形飾りとの対比も、曳山を見る大きな楽しみのひとつです。
+
+### 港ばやしと夜の巡行
+祭りを彩るのが、独特の節回しを持つ「港ばやし」です。笛・太鼓・三味線などによる祭り囃子が港町に響き渡り、祭りの高揚感を盛り上げます。夜には提灯を灯した曳山が巡行することもあり、昼間とは異なる幻想的な雰囲気を楽しむことができます。
+
+## 開催情報・アクセス
+
+土崎神明社祭の曳山行事は、例年7月20日・21日の2日間にわたって開催されます。会場は秋田市土崎地区の土崎神明社およびその周辺一帯です。曳山の巡行経路や時間、各種神事の日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、JR奥羽本線の「土崎駅」が最寄りで、駅から会場周辺へは徒歩圏内です。秋田市中心部からも比較的近く、公共交通機関で訪れることができます。祭り期間中は土崎地区で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、土崎神明社や秋田市など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場の土崎地区は、雄物川の河口に開けた歴史ある港町で、港町ならではの風情が残ります。秋田港に近く、海や港の景観も楽しめるエリアです。曳山行事の歴史や祭りの様子を紹介する施設では、祭りの背景を学ぶことができます。
+
+秋田市中心部へ足を延ばせば、千秋公園（久保田城跡）や、秋田の伝統文化を紹介する施設など、見どころが豊富です。秋田は米どころ・酒どころとしても知られ、きりたんぽや稲庭うどんなどの郷土料理も魅力です。夏には他にも多くの祭りが催されるため、東北の夏祭りめぐりとあわせて楽しむこともできます。
+
+## 関連情報
+
+土崎神明社祭の曳山行事は、2016年に「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。港町・土崎の歴史と人々の心意気を today に伝える、秋田を代表する夏の祭礼のひとつです。
+
+なお、起源や沿革の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Float Events of the Tsuchizaki Shinmei Shrine Festival (Tsuchizaki Shinmeisha-sai no Hikiyama Gyōji) is the annual festival of Tsuchizaki Shinmei Shrine in the Tsuchizaki district of Akita City, Akita Prefecture, held on July 20 and 21 each year. Locally also called the "Tsuchizaki Minato Hikiyama Matsuri," it is one of the representative summer festivals of Akita, in which valiant floats (hikiyama) parade through the port town. In 2016, the "Float Events of the Tsuchizaki Shinmei Shrine Festival" were inscribed on the UNESCO Intangible Cultural Heritage list as one of 33 float festivals across Japan.
+
+The floats created by each neighborhood district are characterized by valiant "doll decorations" adorned with warrior figures and the like on the front, and by a decoration called the "mikaeshi" on the back that satirizes and reflects the affairs of the day, and they parade through the town to distinctive festival music.
+
+## History and Origins
+
+The Float Events of the Tsuchizaki Shinmei Shrine Festival is an observance that has been handed down from ancient times as the annual festival of Tsuchizaki Shinmei Shrine. Tsuchizaki, located at the mouth of the Omono River, has long flourished as a port town and a key point of distribution, and it was also known as a port of call for the kitamaebune (northern-bound cargo ships). Against the backdrop of such port-town prosperity, the float events are said to have developed into a grand festival held by the whole town.
+
+The floats are given elaborately devised decorations by each neighborhood district. They are characterized by valiant warrior figures and the like on the front, and on the "mikaeshi" on the back, themes reflecting the events and affairs of that year are displayed—and enjoying these is one of the true delights of this festival. The history in which local people came together to craft the floats, with each district competing in tradition and spirit, was recognized by the world in the form of inscription on the UNESCO Intangible Cultural Heritage list. Note that the origins and the details of its history partly rely on tradition, and this provides an overview based on the principal traditions.
+
+## Highlights
+
+### The Procession of Valiant Floats
+The greatest highlight of the Tsuchizaki Shinmei Shrine Festival is the procession of the floats created by each neighborhood district. The sight of large floats adorned with warrior figures parading through the port town in time with distinctive festival music is full of power. There is the pleasure of seeing multiple floats process in a line, and of comparing the workmanship of the decorations over which each district has competed in skill.
+
+### The Satire of the "Mikaeshi"
+The "mikaeshi" displayed on the back of the floats is a feature unique to this festival. Themes that satirize and reflect the affairs and events of the year are displayed, delighting people along with witty words. The contrast with the valiant doll decorations on the front is also one of the great pleasures of viewing the floats.
+
+### Minato-bayashi and the Evening Procession
+What colors the festival is the "minato-bayashi," festival music with distinctive melodic turns. The festival music of flutes, drums, shamisen, and the like resounds through the port town and heightens the festival''s sense of exhilaration. At night, the floats sometimes process lit with lanterns, allowing visitors to enjoy a fantastical atmosphere different from that of daytime.
+
+## Event Information and Access
+
+The Float Events of the Tsuchizaki Shinmei Shrine Festival is held over two days—July 20 and 21—each year. The venue is Tsuchizaki Shinmei Shrine in the Tsuchizaki district of Akita City and the surrounding area. Because the procession route and times of the floats and the schedule of the various rites may vary from year to year, it is advisable to check official information in advance when planning to attend.
+
+For access, the nearest station is "Tsuchizaki Station" on the JR Ōu Main Line, within walking distance of the venue area. It is relatively close to central Akita City as well and can be reached by public transportation. During the festival period, traffic restrictions and congestion are expected in the Tsuchizaki district, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Tsuchizaki Shinmei Shrine and Akita City.
+
+## Nearby Attractions
+
+The venue, the Tsuchizaki district, is a historic port town opening at the mouth of the Omono River, retaining an atmosphere unique to a port town. Close to Akita Port, it is an area where one can also enjoy views of the sea and harbor. At facilities introducing the history of the float events and the festival, visitors can learn about its background.
+
+A short trip to central Akita City offers abundant highlights, such as Senshū Park (the ruins of Kubota Castle) and facilities introducing Akita''s traditional culture. Akita is also known as a region of fine rice and sake, and local cuisine such as kiritanpo and Inaniwa udon is appealing. Because many other festivals are held in summer, visitors can also enjoy it together with a tour of Tōhoku''s summer festivals.
+
+## Related Information
+
+The Float Events of the Tsuchizaki Shinmei Shrine Festival was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. It is one of Akita''s representative summer festivals, conveying the history of the port town of Tsuchizaki and the spirit of its people to the present day.
+
+Please note that the origins and the details of its history partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7398902','佐賀インターナショナルバルーンフェスタ','Saga International Balloon Fiesta','日本の佐賀県で行われる熱気球の競技会・イベント','Hot air balloon festival in Saga, Japan',NULL,NULL,NULL,'佐賀県','kyushu',33.255555555,130.244444444,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saga%20balloon%202007%201.jpg','https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF','https://en.wikipedia.org/wiki/Saga_International_Balloon_Fiesta',100,'drafted','## 概要
 
@@ -5512,7 +6104,73 @@ The Ichijima district can be reached via Ichijima Station on the JR Fukuchiyama 
 
 Tamba is a richly natural land ringed by mountains on all sides, known nationwide for specialties such as Tamba black soybeans, Tamba chestnuts, and Tamba matsutake mushrooms. The Ichijima district is dotted with autumn-foliage spots including Entsū-ji temple, as well as ancient temples and shrines, and visitors can also enjoy the Tamba ware pottery village and historic sites such as the Kuroi Castle ruins. It is an area full of pastoral charm where one can savor the food and nature distinctive to the mountain villages of Tamba, along with the summer fireworks.','ichijima-kawasuso-matsuri','ichijima-kawasuso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q112222177','世田谷パン祭り','Setagaya Panmatsuri','日本の食文化の祭典','Japanese food and drink festival','Q231645','世田谷区','Setagaya','東京都','kanto',NULL,NULL,2011,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E3%83%91%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q86727428','田辺祭','Tanabe Matsuri','和歌山県田辺市で行われる鬪雞神社の例大祭',NULL,'Q11656593','鬪雞神社','Tōkei Shrine','和歌山県','kinki',NULL,NULL,1600,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E7%94%B0%E8%BE%BA%E7%A5%AD%28%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE%29.jpg','https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q86727428','田辺祭','Tanabe Matsuri','和歌山県田辺市で行われる鬪雞神社の例大祭',NULL,'Q11656593','鬪雞神社','Tōkei Shrine','和歌山県','kinki',NULL,NULL,1600,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%94%B0%E8%BE%BA%E7%A5%AD%28%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE%29.jpg','https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD',NULL,85,'drafted','## 概要
+
+田辺祭（たなべまつり）は、和歌山県田辺市にある闘鶏神社（とうけいじんじゃ）の例大祭で、毎年7月24日・25日に行われます。和歌山県を代表する夏祭りのひとつで、「紀州三大祭り」のひとつにも数えられます。旧城下の各商人町から、京都の祇園祭を思わせる「お笠（おかさ）」と呼ばれる笠鉾（かさぼこ）8基が出て、衣笠とともに市街を曳き廻す、紀南地方最大級の祭礼です。
+
+460年以上の歴史を持つと伝えられる伝統ある祭りで、笠鉾の巡行や、子どもたちによる笛・太鼓の囃子、夜の幻想的な光景などが見どころです。城下町・田辺に夏の到来を告げる風物詩として、地域に深く根づいています。
+
+## 歴史・由来
+
+田辺祭は、闘鶏神社の例大祭として古くから受け継がれてきた行事です。闘鶏神社は、源平合戦の際に熊野水軍の動向を占ったという「鶏合わせ」の伝説で知られる古社で、2016年には「紀伊山地の霊場と参詣道」の構成資産の一部として世界遺産に追加登録されました。この格式高い神社の祭礼として、田辺祭は長い歴史を刻んできました。
+
+旧城下の各商人町が、それぞれ趣向を凝らした笠鉾「お笠」を仕立てて奉納する形は、京都の祇園祭の影響を受けたとも言われ、町衆の財力と心意気によって発展してきました。460年以上にわたって受け継がれてきたと伝えられるその歴史は、城下町・田辺の繁栄と、人々の信仰・誇りを today に伝えるものです。なお、起源年代や由来の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### お笠（笠鉾）の巡行
+田辺祭最大の見どころが、旧城下の商人町から出る8基の「お笠」（笠鉾）の巡行です。豪華に飾られた笠鉾が、衣笠とともに市街を曳き廻される光景は壮観で、京都の祇園祭を思わせる優雅さがあります。各町が腕を競った笠鉾の意匠を見比べる楽しみもあります。
+
+### 子どもたちの囃子
+笠鉾には、子どもたちが乗り込み、笛や太鼓による祭り囃子を奏でます。可憐な装束をまとった子どもたちが奏でる囃子の音色は、祭りに華やぎを添え、地域の伝統が次世代へと受け継がれていく姿を感じさせます。
+
+### 夜の幻想的な光景
+夜には、提灯や明かりに照らされた笠鉾が市街や神社周辺を巡り、昼間とは異なる幻想的な雰囲気を醸し出します。会津川にかかる橋の上での笠鉾の光景など、田辺祭ならではの見どころも知られています。
+
+## 開催情報・アクセス
+
+田辺祭は、例年7月24日・25日の2日間にわたって開催されます。会場は闘鶏神社および田辺市の中心市街地一帯です。笠鉾の巡行経路や時間、各種神事の日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、JR紀勢本線（きのくに線）の「紀伊田辺駅」が最寄りで、駅から闘鶏神社や会場周辺へは徒歩圏内です。大阪方面からは特急列車を利用して訪れることができます。祭り期間中は中心部で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、田辺市や田辺観光協会など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場のある田辺市は、世界遺産・熊野古道への玄関口として知られる、紀南地方の中心都市です。闘鶏神社は熊野三山にゆかりの深い古社で、熊野詣の歴史にふれることができます。田辺は、世界的な博物学者・南方熊楠（みなかた くまぐす）ゆかりの地としても知られています。
+
+少し足を延ばせば、白浜温泉や熊野古道、美しい海岸線など、紀南地方ならではの自然・観光地へもアクセスできます。新鮮な海の幸や、梅の名産地としての梅製品など、田辺ならではの味覚も魅力で、田辺祭とあわせて紀南の旅を楽しむことができます。
+
+## 関連情報
+
+田辺祭は、世界遺産の構成資産でもある闘鶏神社の例大祭として、和歌山県を代表する夏祭りのひとつであり、紀州三大祭りにも数えられる格式高い祭礼です。京都の祇園祭を思わせる笠鉾「お笠」の巡行という特色によって、紀南地方の人々に長く親しまれてきました。
+
+なお、起源年代や由来の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Tanabe Matsuri is the grand annual festival of Tokei Jinja shrine in Tanabe City, Wakayama Prefecture, held on July 24 and 25 each year. As a representative summer festival of the southern Kii Peninsula, it is counted among the three major festivals of the Kishu region. It is well known for its elegant float procession featuring decorated "okasa" (kasahoko, halberd-topped parasol floats).
+
+## History and Origins
+
+The festival developed as the votive celebration of Tokei Jinja, a shrine of deep historical significance famous for its association with the legend of the rooster divination said to have influenced the Genpei War. Over the centuries the townspeople''s dedication of the ornate okasa floats became the festival''s defining feature, reflecting the prosperity and civic pride of the merchant community of Tanabe.
+
+The exact dating of certain customs varies among sources, and the finer points of the festival''s evolution are presented here as the generally accepted account.
+
+## Highlights
+
+The highlight is the procession of eight okasa floats, lavishly decorated and accompanied by festival music, as they move through the town and gather around Tokei Jinja. The interplay of the floats, the hayashi musicians, and the evening lanterns creates the festival''s celebrated atmosphere.
+
+## Event Information and Access
+
+The festival takes place on July 24 and 25 at Tokei Jinja in Tanabe City, Wakayama Prefecture. Tanabe is accessible via the JR Kisei Main Line, with Kii-Tanabe Station serving as the gateway to the city and to the wider Kumano region.
+
+Visitors should check the latest official schedule before attending, as procession times and routes are set each year.
+
+## Nearby Attractions
+
+Tanabe is a gateway to the Kumano Kodo pilgrimage routes and the Kumano Sanzan, making it an excellent base for exploring one of Japan''s most significant spiritual landscapes. The coastal scenery and local cuisine of southern Wakayama add to the appeal of a summer visit.
+
+## Related Information
+
+The Tanabe Matsuri is best appreciated alongside the other major festivals of the Kishu region and the cultural heritage of the Kumano area centered on Tokei Jinja.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q97280756','目白バ・ロック音楽祭','Mejiro Ba-Rock Music Festival',NULL,'former music festival (Japan)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9B%AE%E7%99%BD%E3%83%90%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q75021413','新野の雪まつり',NULL,NULL,NULL,'Q1203314','阿南町','Anan',NULL,NULL,NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E6%96%B0%E9%87%8E%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q110191727','佐倉の秋祭り',NULL,'毎年10月に千葉県佐倉市で行われる祭礼',NULL,'Q498011','佐倉市','Sakura','千葉県','kanto',35.7193,140.226794,NULL,10,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E4%BD%90%E5%80%89%E3%81%AE%E7%A7%8B%E7%A5%AD%E3%82%8A',NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -5522,7 +6180,77 @@ INSERT INTO "festivals" VALUES('Q86737662','濃姫まつり','Nōhime Matsuri',N
 INSERT INTO "festivals" VALUES('Q86727691','THE GREAT SATSUMANIAN HESTIVAL',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/THE_GREAT_SATSUMANIAN_HESTIVAL',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86729367','発光路の強飯式',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%99%BA%E5%85%89%E8%B7%AF%E3%81%AE%E5%BC%B7%E9%A3%AF%E5%BC%8F',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q111242683','ONE PARK FESTIVAL','ONE PARK FESTIVAL','音楽フェス',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q80708100','豊橋鬼祭','Toyohashi Oni Festival','愛知県豊橋市の祭礼行事',NULL,'Q336431','豊橋市','Toyohashi','愛知県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Onimaturi.JPG','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD',NULL,85,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q80708100','豊橋鬼祭','Toyohashi Oni Festival','愛知県豊橋市の祭礼行事',NULL,'Q336431','豊橋市','Toyohashi','愛知県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Onimaturi.JPG','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD',NULL,85,'drafted','## 概要
+
+豊橋鬼祭（とよはしおにまつり）は、愛知県豊橋市の安久美神戸神明社（あくみかんべしんめいしゃ）で、毎年2月10日・11日に行われる例祭です。東三河（ひがしみかわ）地方に春の訪れを告げる祭礼として知られ、国の重要無形民俗文化財に指定されています。「天下の奇祭」とも称される独特の神事を伴い、毎年多くの参拝者・見物客を集めます。
+
+祭りのクライマックスは、赤鬼と天狗が繰り広げる「赤鬼と天狗のからかい」です。荒ぶる赤鬼が、白い粉（タンキリ飴とともにまかれる粉）をまき散らしながら境内を駆け回る勇壮な光景は迫力満点で、この粉を浴びると、また飴を食べると、夏に病気をせず健康に過ごせると言い伝えられています。
+
+## 歴史・由来
+
+豊橋鬼祭は、平安時代から鎌倉時代にかけて流行した芸能「田楽（でんがく）」に、日本建国の神話を取り入れて神事としたものと伝えられています。古い由緒を持つ神事芸能として受け継がれ、その伝統的価値から国の重要無形民俗文化財に指定されています。
+
+祭礼の舞台となる安久美神戸神明社は、この地・飽海（あくみ）が天慶3年（940年）に伊勢の神宮の神領地（御厨・みくりや）となったことに端を発すると伝えられる古社です。以来、五穀豊穣や神領内の安寧を祈る祭礼が営まれてきました。鬼祭で演じられる神事には、荒ぶる神（鬼）が天孫（天狗）によって鎮められ、最後には和解して人々に福をもたらす、という建国神話に基づく筋立てが込められているとされます。荒々しさと、それを鎮めて福に転じる構造が、この祭りの宗教的な核となっています。なお、起源や個々の神事の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+
+## 見どころ
+
+### 赤鬼と天狗のからかい
+豊橋鬼祭最大の見どころが、「赤鬼と天狗のからかい」と呼ばれる神事です。荒ぶる赤鬼と、それを鎮める天狗とが、境内で激しくやり合う様子が演じられます。天狗に敗れた赤鬼は、白い粉とタンキリ飴をまき散らしながら境内を勢いよく駆け抜けて去っていきます。この迫力ある場面は祭りのクライマックスで、観客は粉を浴び、飴を拾おうと沸き立ちます。
+
+### タンキリ飴と厄除けの白い粉
+赤鬼がまく白い粉を浴びると夏病みをせず健康に過ごせる、まかれたタンキリ飴を食べると同じく無病息災で過ごせる、という言い伝えがあります。粉だらけになりながら福を授かろうとする人々の姿も、この祭りならではの光景です。
+
+### 多彩な神事芸能
+鬼祭では、からかいのほかにも、古式にのっとった田楽や神楽など、さまざまな神事芸能が奉納されます。平安〜鎌倉期の芸能の面影を today に伝える貴重な演目を見ることができ、伝統文化としての奥深さを感じられます。
+
+## 開催情報・アクセス
+
+豊橋鬼祭は、例年2月10日・11日の2日間にわたって開催されます。会場は豊橋市の安久美神戸神明社です。「赤鬼と天狗のからかい」をはじめとする各神事の時間・進行は年によって異なる場合があり、また屋外の神事は天候の影響を受けることもあるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+
+アクセスは、JR・名鉄の豊橋駅から、豊橋鉄道市内線（路面電車）などを利用して神社方面へ向かうのが便利です。神社は豊橋市の中心部に位置しています。祭り期間中は境内が大変混雑するため、公共交通機関の利用と、白い粉で衣服が汚れてもよい服装での参加がおすすめです。最新の日程・観覧情報は、安久美神戸神明社など公式の発表でご確認ください。
+
+## 周辺の見どころ
+
+会場のある豊橋市は、東三河地方の中心都市で、路面電車が走る街として知られています。市内には吉田城跡をはじめとする歴史的な見どころや、豊橋公園などの散策スポットが点在しています。
+
+少し足を延ばせば、渥美半島の自然や、三河湾の景観、温泉地などへもアクセスできます。豊橋は「豊橋カレーうどん」などのご当地グルメでも知られ、祭りとあわせて東三河の旅を楽しむことができます。早春の時期は、梅の便りが聞かれ始める季節でもあり、春の到来を感じながら巡ることができます。
+
+## 関連情報
+
+豊橋鬼祭は、国の重要無形民俗文化財に指定された、東三河地方を代表する伝統行事です。平安〜鎌倉期の田楽に建国神話を取り入れたという独自の成り立ちと、「赤鬼と天狗のからかい」という勇壮かつユーモラスな神事によって、「天下の奇祭」として広く知られています。
+
+なお、起源や個々の神事の細部には伝承による部分があり、具体的な開催日程や神事の内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+
+The Toyohashi Oni Matsuri (Toyohashi Demon Festival) is the grand annual festival of Akumi Kanbe Shinmeisha shrine in Toyohashi City, Aichi Prefecture, held on February 10 and 11 each year. As an early-spring festival marking the seasonal turning point, it is one of the representative folk festivals of the eastern Mikawa region. In 1980 the "Toyohashi Oni Matsuri events" were designated an Important Intangible Folk Cultural Property of Japan, recognized for preserving an archaic dramatic ritual.
+
+The festival''s most famous spectacle is the "tarako" (flour-and-candy scattering), in which a fearsome red demon (aka-oni) battles the deity Tengu, is subdued, and then scatters white powder (tankyu, a mixture of flour) and candy over the crowd as a gesture of apology. Being dusted with the white powder is believed to ward off illness and grant good health for the year, so spectators willingly cover themselves in it.
+
+## History and Origins
+
+The festival''s roots are generally traced to agrarian purification rites of the Heian to Kamakura periods, performed to drive out misfortune and pray for a bountiful harvest at the seasonal boundary. Akumi Kanbe Shinmeisha itself is said to have been established in connection with a land grant ("mikuriya") tied to Ise Grand Shrine around 940 AD, and the shrine has long served as a center of communal worship in the area.
+
+The dramatic confrontation between the demon and Tengu is interpreted as a symbolic enactment of the expulsion of evil and the welcoming of spring, sharing a lineage with the nationwide setsubun "tsuina" demon-quelling tradition while retaining a distinctively local theatrical form. The precise process by which the present-day ritual structure took shape is not fully documented, and several aspects are presented here as the prevailing understanding rather than as settled fact.
+
+## Highlights
+
+The central event is the "aka-oni and Tengu" performance, in which the red demon rampages before being confronted and subdued by Tengu. The scattering of white powder and candy that follows is the climax, drawing crowds who deliberately allow themselves to be coated for the blessing of good health it is said to bring.
+
+Visitors also enjoy the lineup of ritual dramas and dedicatory performances spread across the two days, which together preserve the festival''s archaic character.
+
+## Event Information and Access
+
+The festival is held annually on February 10 and 11 at Akumi Kanbe Shinmeisha in Toyohashi City, Aichi Prefecture. The shrine is accessible from central Toyohashi, which is served by JR and Meitetsu lines as well as the local Toyohashi Railroad (Toyotetsu) streetcar. Because the powder-scattering can leave clothing dusted in white, wearing clothes that may get dirty is advisable.
+
+For the exact schedule of each day''s rituals, visitors should confirm the latest details on the shrine''s official announcements before attending.
+
+## Nearby Attractions
+
+Toyohashi offers attractions such as its historic streetcar network, local Mikawa cuisine, and access to the wider eastern Aichi area. The festival can be combined with sightseeing in the surrounding region for a fuller winter visit.
+
+## Related Information
+
+The Toyohashi Oni Matsuri is best understood alongside Japan''s broader setsubun and tsuina demon-quelling traditions, as well as other folk festivals designated as Important Intangible Folk Cultural Properties.
+',NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109358737','焼來肉ロックフェス',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%84%BC%E4%BE%86%E8%82%89%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%B9',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109369110','秋コレ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%8B%E3%82%B3%E3%83%AC',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86737956','額田のダシ行事',NULL,NULL,NULL,'Q4819566','夜久野町','Yakuno',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%A1%8D%E7%94%B0%E3%81%AE%E3%83%80%E3%82%B7%E8%A1%8C%E4%BA%8B',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
