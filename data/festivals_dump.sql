@@ -1357,7 +1357,69 @@ The main venue, the Peace Memorial Park, contains the Atomic Bomb Dome (World He
 - Venue: Peace Boulevard and around the Peace Memorial Park (Hiroshima City)
 - First held: 1977
 - Attendance: Over 1.6 million annually (about 1.81 million in 2024)','hiroshima-flower-festival','hiroshima-flower-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q4947265','藤崎八旛宮秋季例大祭','Boshita Festival',NULL,'festival in Japan','Q167146','藤崎八旛宮','Fujisaki Hachimangū',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Boshita-kazarioroshi2009.9.19Higo-chiyukai.jpg','https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/The_Great_Festival_of_Fujisaki_Hachimangu_Shrine',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q4947265','藤崎八旛宮秋季例大祭','Boshita Festival',NULL,'festival in Japan','Q167146','藤崎八旛宮','Fujisaki Hachimangū','熊本県','kyushu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Boshita-kazarioroshi2009.9.19Higo-chiyukai.jpg','https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/The_Great_Festival_of_Fujisaki_Hachimangu_Shrine',80,'drafted','## 概要
+
+藤崎八旛宮秋季例大祭は、熊本県熊本市の藤崎八旛宮で毎年9月に斎行される、千年以上の歴史をもつ大祭です。古くから肥後（熊本）国の年中行事のなかで最大の大祭として知られ、熊本に秋の訪れを告げる祭りとして人々に深く親しまれてきました。祭りの中心をなすのは、神様が御自ら氏子地域へお越しになる「御神幸（ごしんこう）」で、約20,000名の人々と70頭余の飾り馬が市街を練り歩く神幸行列は、まさに歴史絵巻さながらの壮観を呈します。武家の威風を伝える随兵の行列から、生命力あふれる勢子と飾り馬の疾走まで、緩急に富んだ構成は九州を代表する祭礼の一つとして高い評価を得ています。
+
+## 歴史・由来
+
+藤崎八旛宮の例大祭は、「放生会（ほうじょうえ）」を発祥として伝承されてきました。放生会とは、捕らえた生き物を野に放ち、その生命をいつくしむ仏教由来の行事です。明治時代に発布された神仏分離令によって仏教行事が一時的に廃止されるまでは、藤崎八旛宮でも例大祭が放生会として営まれていました。現在はその名のみをとどめ、神事として継承されていますが、生命をいつくしむという放生会の精神は、形を変えながらも祭りの根底に今なお息づいています。
+
+祭りの中心をなす神幸行列を先導する「随兵（ずいびょう）」は、肥後の領主・加藤清正が随兵頭となって神幸行列を先導したことに由来すると伝えられています。武将が神輿を護衛し先導したという故事が、武家の威風を今に残す行事として大切に受け継がれてきたのです。千年以上前の生命をいつくしむ放生会の祈りと、戦国期以降に加わった武家文化とが重層的に折り重なっている点に、この祭りの深い歴史的厚みがあります。一つの祭りのなかに、仏教行事の起源、神事への移行、そして武家の威儀という幾重もの歴史の層を読み取ることができます。
+
+## 見どころ
+
+祭りのクライマックスは、神輿にお迎えした神様が外へお出ましになる「御神幸」です。御神幸は卯の刻（午前6時）に本宮を出発し、約20,000名の人と70頭余の馬で構成された行列が市街の目抜き通りへと繰り出します。
+
+行列の先頭付近を固めるのは、威風堂々とした武者行列です。大鎧を着て鍬形の兜をかぶり、馬上で采配を振るう「随兵頭」を中心に、その指示に従う百騎の「甲冑武者」、さらに長柄（ながえ）と呼ばれる槍を持った陣笠・陣羽織姿の50人を指揮する「長柄頭」などが連なります。朝の神幸を「朝随兵」、夕の神幸を「夕随兵」と呼び、それぞれ出陣のときの構えと帰陣の備えをかたどったものと伝えられており、武家の所作が祭礼のなかに克明に再現されています。
+
+行列は四基の御神輿を中心に、神職や総代、白の祭礼衣装に身を包んだ「白丁（はくてい）」、百騎の随兵と長柄槍の武者が粛々と進みます。その後には、400年近く受け継がれてきた新町の獅子舞が、独特の楽奏と伝統の舞を披露しながら続きます。そして行列の最後尾を飾るのが、最大の呼び物である「勢子（せこ）」と飾り馬です。団体ごとに趣向を凝らした色とりどりの飾り馬と、それを追う勢子の集団が、生命力あふれる賑わいとともに次々と威勢よくまちを駆け抜け、ゴールとなる藤崎八旛宮を目指します。粛々と進む武者行列の静と、駆け抜ける飾り馬の動とが鮮やかな対照をなし、見る者を飽きさせません。
+
+## 開催情報・アクセス
+
+例大祭は毎年9月に数日間にわたって斎行され、その中心行事が神幸式（御神幸）です。御神幸は午前6時に本宮を出発し、9時頃に段山（だにやま）の御旅所に到着して御祭儀が執り行われます。御旅所の能楽堂では、喜多・金春の二流を中心とした能楽が奉納上演され、神事と芸能が一体となった荘厳な時間が流れます。その後、午後2時半ごろに御旅所を発って本宮へ還る御神幸が始まり、朝とは異なる「夕随兵」の備えで再び市街を巡ります。
+
+会場は藤崎八旛宮および熊本市中心部一帯で、市電やJR熊本駅からのアクセスが便利です。祭礼期間中は中心部一帯に大規模な交通規制が敷かれるため、公共交通機関を利用しての来訪が推奨されます。
+
+御旅所の能楽堂で奉納される能楽は、喜多流と金春流を中心とした格調高いもので、武家社会で重んじられた芸能が神への奉納として今に伝えられている点でも貴重です。神様が御旅所にお出ましになっている間に芸能を奉納するという構成は、祭りが単なる行列の披露ではなく、神を慰め、もてなすという信仰の本義に支えられていることを示しています。朝の出御から御旅所での祭儀と能楽奉納、そして夕刻の還御へと続く一日の流れ全体が、千年の歴史に磨かれた一つの大きな神事として組み立てられているのです。
+
+## 周辺の見どころ
+
+藤崎八旛宮は熊本市中心部に鎮座しており、熊本城をはじめとする市内の主要な観光名所へのアクセスに優れています。城下町の趣を残す街並みや、桃山式回遊庭園として名高い水前寺成趣園など、肥後の歴史と文化を伝える名所が点在しているため、祭り見物と合わせて熊本観光を存分に満喫できます。秋の熊本を訪れるなら、例大祭の壮麗な行列と、城・庭園の落ち着いた風情を一度に味わうことができます。
+
+## 関連情報
+
+行列の最後尾を飾る飾り馬には、興味深い由来があります。もともとは供奉神職（行列に参加する神官）が乗る馬でしたが、江戸時代には本宮と御旅所との距離が近かったため、乗馬せずに牽馬（ひきうま）として従えるかたちが定着しました。乗り手のいない空いた鞍の上の装飾が次第に大型化していき、現在のような紅白や青黄などカラフルな色布の巻き飾りへと発展したのです。
+
+飾り馬に使われる馬は、細川藩の藩政時代には高禄の名家が駿馬に足軽や中間をつけて提供し、決められた駈場で名家の名をかけてその俊足を競わせ、その見物が大層な賑わいを呈したと伝えられます。明治以降は飾り馬が町方から奉納されるようになり、現在では氏子や参加団体によって奉納されています。こうして時代ごとに担い手を変えながらも受け継がれてきた飾り馬は、祭りが地域社会とともに歩んできた歴史そのものを映し出しています。千年前の生命をいつくしむ放生会の祈りと、武家文化が育んだ威儀ある行列とが融合した藤崎八旛宮秋季例大祭は、熊本の人々とこれからも共に在り続ける、肥後を代表する秋の大祭です。','## Overview
+
+The Autumn Grand Festival of Fujisaki Hachimangu (Fujisaki Hachimangu Shuki Reitaisai) is the grand festival held each autumn at Fujisaki Hachimangu Shrine in Kumamoto City, Kumamoto Prefecture. Fujisaki Hachimangu is a shrine that has long drawn reverence as the chief guardian shrine of Kumamoto, and its grand festival has a history of more than a thousand years, known as an autumn festival originating in the Hojoe (rite of releasing living creatures). Over five days and nights, venerable rites are held in succession, and the divine procession (shinko gyoretsu) on the final day forms the climax of the festival. Especially famous is the sight of the seko (handlers) leading decorated horses as they boldly dash through the streets of Kumamoto to festival music, and it has also been cherished by the nickname "Boshita Festival." Combining solemn rites with the dynamic offering of decorated horses, this festival is deeply rooted among the citizens as a tradition that announces the arrival of autumn in Kumamoto.
+
+## History and Origins
+
+Fujisaki Hachimangu is a shrine that has long drawn the reverence of the people as the chief guardian shrine of Kumamoto. Its autumn grand festival is said to have a history of more than a thousand years and was originally a festival originating in the Hojoe. The Hojoe is a rite that originates in a Buddhist observance of releasing captured fish, birds, and animals and cherishing life, and it has been held at Hachiman shrines across the land in connection with Hachiman faith. This observance, praying for mercy toward living creatures and for an abundant harvest and the peace of all things, has been handed down over long years into the grand festival of Fujisaki Hachimangu.
+
+Over a history spanning more than a millennium, the grand festival became deeply tied to the life of the people of Kumamoto and developed into a major festival of the whole region. While preserving the solemnity of the rites, the bold element of the offering of decorated horses was added, and it came to be cherished as a festival that fascinates onlookers. As the festival of Kumamoto''s chief guardian shrine, its tradition has been protected and handed down without interruption, and even now rites are conducted over five days and nights in accordance with ancient form. In the coexistence of dignity backed by a long history and the fervor with which the citizens come together to lift the festival''s spirits lies the charm unique to this grand festival.
+
+## Highlights
+
+The grand festival has a structure in which solemn rites are held in succession over five days and nights. During the period, venerable rites and observances such as the "First Day Rite," "Second Day Rite," "Offering Rite," "Divine Procession Rite," and "Thanksgiving Rite" are conducted one after another, conveying the depth of a festival carried on for more than a thousand years. Alongside these, a tea-offering rite and offerings of waka and haiku poetry are also held, showing that it is a festival in which faith and culture are interwoven.
+
+The climax of the festival is the divine procession held on the final day. At the head of the procession, the portable shrine advances in a solemn atmosphere, followed by lion dancers and dedicated portable shrines. And what adorns the end of the procession are the decorated horses and the seko. The seko lead horses adorned in many colors with spirited calls and festival music, boldly dashing through the streets of Kumamoto. The power of horses and people parading as one under the autumn sky is overwhelming, greatly exciting the crowds lining the route. Prior to the divine procession, a rite is also held in which the lion dancers, dedicated portable shrines, and decorated horses gather at the shrine and receive purification from the priests, praying for the safety of the festival. Possessing the two faces of solemn rites and the dynamic offering of decorated horses is the greatest highlight of this grand festival.
+
+## Event Information and Access
+
+The Autumn Grand Festival of Fujisaki Hachimangu is held over five days and nights in September each year. During the period, various rites are conducted day by day, and on the final day the divine procession tours the streets. The venue is Fujisaki Hachimangu Shrine in Kumamoto City, Kumamoto Prefecture, and the city center through which the divine procession travels.
+
+On the day of the divine procession, large crowds are expected in the urban area, and traffic restrictions are also imposed along the procession route, so it is best to avoid visiting by car and to use public transportation. Kumamoto City has well-developed streetcars and buses, and access to the city center is convenient. Because the schedule, the procession route of the divine procession, and the details of each rite may change from year to year, it is best to confirm the latest information through official announcements from Fujisaki Hachimangu when visiting. Because the final day, when the decorated horses dash through the streets, is particularly crowded, it is best to act early.
+
+## Things to See Nearby
+
+Kumamoto City, the venue, is a castle town that has developed around Kumamoto Castle, and there is no shortage of sights. Kumamoto Castle, known for its magnificent stone walls, is the symbol of Kumamoto and a famous spot worth visiting along with the grand festival. In addition, the urban area spreads around Fujisaki Hachimangu, where one can also enjoy food and shopping unique to Kumamoto. Because the grand festival is held in autumn, it falls in a season when one can stroll while feeling the atmosphere of autumn in the city. Worshipping at Fujisaki Hachimangu, the chief guardian shrine of Kumamoto, and encountering the history and culture of the castle town of Kumamoto allows one to learn more deeply the depth of the faith and daily life rooted in this land.
+
+## Related Information
+
+The Autumn Grand Festival of Fujisaki Hachimangu is an autumn festival with a history of more than a thousand years handed down at Fujisaki Hachimangu, the chief guardian shrine of Kumamoto, and is a venerable grand festival originating in the Hojoe. The solemn rites over five days and nights, and the bold figures of the decorated horses and seko that adorn the divine procession on the final day, are widely cherished as a tradition that announces the arrival of autumn in Kumamoto. Because the schedule, the details of the divine procession, and the traffic restrictions may change from year to year, it is best to confirm the latest information through official announcements from Fujisaki Hachimangu before visiting.','fujisaki-hachimangu-reitaisai','fujisaki-hachimangu-reitaisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3837559','LOUD PARK','Loud Park Festival','日本で行われるヘヴィメタルのフェス','heavy metal festival held annually at Saitama Super Arena in Saitama City or Makuhari Messe in Chiba City, Japan','Q862452','幕張メッセ','Makuhari Messe',NULL,NULL,NULL,NULL,2006,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/LOUD_PARK','https://en.wikipedia.org/wiki/Loud_Park_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5288609','土居太鼓祭り','Doi taikomatsuri',NULL,NULL,NULL,NULL,NULL,'愛媛県','shikoku',33.965,133.43,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Doi_taikomatsuri',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11276889','ぴあフィルムフェスティバル','Pia Film Festival',NULL,'film festival in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1977,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%B4%E3%81%82%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Pia_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -1886,7 +1948,71 @@ The venues are the former Foreign Settlement district (Nakamachi-dōri) and Higa
 
 Central Kobe offers a wealth of tourist attractions including the Kitano Ijinkan foreign residences district, Nankin-machi (Kobe Chinatown), Meriken Park, Harbor Land, and the Kobe Port Tower. The winter season also offers opportunities to enjoy Kobe beef cuisine, the city''s bakery culture, Arima hot spring resort, and the night views from Mount Rokko, making a one- or two-night urban tourism stay combined with the Luminarie experience particularly popular among visitors.','kobe-luminarie','kobe-luminarie',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2915444','ファンタズミック!','Fantasmic!',NULL,'night-time pyrotechnic and light performance at multiple Disney Parks','Q1345090','ディズニー・ハリウッド・スタジオ','Disney''s Hollywood Studios',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmic%21%20Evil%20Queen%20spell.jpg','https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF!','https://en.wikipedia.org/wiki/Fantasmic!',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3092868','二本松の提灯祭り','Nihonmatsu Lantern Festival',NULL,'festival held in Nihonmatsu, Fukushima, Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A.jpg','https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Nihonmatsu_Lantern_Festival',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3092868','二本松の提灯祭り','Nihonmatsu Lantern Festival',NULL,'festival held in Nihonmatsu, Fukushima, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A.jpg','https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Nihonmatsu_Lantern_Festival',80,'drafted','## 概要
+
+二本松の提灯祭りは、福島県二本松市で毎年10月第1土・日・月曜日の3日間にわたって斎行される、二本松神社の例大祭です。秋田の竿燈まつり、愛知の尾張津島天王祭の提灯と並んで「日本三大提灯祭り」の一つに数えられ、城下町二本松の秋を彩る最大の祭礼として広く知られています。祭りの主役となるのは、城下七町からそれぞれ繰り出される七台の太鼓台で、一台ごとに約300個もの紅提灯が掛けられます。七台を合わせれば二千を優に超える提灯の灯が城下の闇を埋め尽くし、その光景は東北を代表する夜祭りの一つとして、訪れる人々の心に強く焼きつきます。
+
+初日の宵祭りでは、午後5時に七町の太鼓台が市内中心部に集合し、二本松神社で採火された御神火が各町へと運ばれて、いっせいに提灯へ火が灯される瞬間が最大の見どころとなります。情緒豊かな祭り囃子の調べに乗せて、灯火をまとった七台の太鼓台が城下町をゆっくりと練り歩く姿は、見る者を幽玄の世界へと誘い、城下町二本松が一年でもっとも華やぐ夜を演出します。
+
+## 歴史・由来
+
+提灯祭りの起源は、今からおよそ370年前、寛永20年（1643年）にさかのぼります。この年、丹羽光重公が二本松城主として入部しました。光重公は「よい政治を行うためには、まず領民に敬神の意を高揚させることが肝要である」と考え、現在の栗ヶ柵の地に二本松神社をまつり、身分の別なく領民が誰でも自由に参拝できるようにしました。神を敬う心を領民全体で共有することを通じて、城下のまとまりと安寧を図ろうとしたのです。この神社の創建と領民への開放こそが、提灯祭りの始まりと伝えられています。
+
+さらに寛文4年（1664年）には、光重公が熊野神社と八幡神社を総鎮守として現在の二本松神社の地に遷宮し、城下の人々の心の拠り所としての性格を確かなものとしました。こうして二本松神社の例大祭は、藩主の敬神思想を土台として、城下町全体の祭りへと育っていきました。
+
+祭りは当初、旧暦8月15日を挟んで行われていましたが、大正7年（1918年）に二本松の市街地を襲った大火を契機として、現在の10月4日・5日・6日を基本とする日程へと改められました。大火という災厄が祭りの日程を変えるという、地域の歴史と祭礼が分かちがたく結びついていることを物語る出来事です。以来、藩主が掲げた敬神の精神は、城下七町の人々の手によって絶えることなく受け継がれ、今日まで約370年にわたる歴史を刻み続けています。
+
+## 見どころ
+
+最大の見どころは、七町の太鼓台がすべて揃う初日の宵祭りです。各町の太鼓台には町名を記した提灯とともに約300余の紅提灯が掛けられ、二本松神社で採火された御神火が各町の出発地へと運ばれて、いっせいに点火されます。社で採られた一つの火が各町へ分けられ、それぞれの提灯に移されていく過程そのものが、神の火を城下全体で分かち合うという祭りの本質を体現しています。灯がともされた七台の太鼓台が祭り囃子に合わせて市内を練り歩くさまは、まさに「火と灯りの祭典」と呼ぶにふさわしい光景です。
+
+太鼓台を引き回す若衆の勇壮な姿、町ごとに代々受け継がれてきた個性ある祭り囃子の調べ、そして無数の紅提灯が闇のなかに揺らめく幻想的な情景。これらが一体となって押し寄せるとき、見る者は城下町の歴史そのものに包み込まれるような感覚を味わいます。昼の表情と夜の表情がまったく異なるのもこの祭りの魅力で、日中は太鼓台の彫刻や装飾を間近に見ることができ、夜には一転して提灯の灯が主役となります。
+
+七台の太鼓台はいずれも城下七町がそれぞれ守り伝えてきたもので、台ごとに彫刻や装飾、提灯の掛け方に微妙な違いがあり、見比べる楽しみがあります。各町は一年を通じて太鼓台と祭り囃子の稽古を重ね、世代から世代へと技と心を受け継いできました。祭り囃子は町ごとに節回しや拍子に個性があり、複数の太鼓台が近づくと囃子が重なり合って城下に響きわたります。こうした町ごとの違いは、提灯祭りが単一の催しではなく、七つの町それぞれの誇りと結束が集まって一つの大きな祭りを形づくっていることを物語っています。
+
+## 開催情報・アクセス
+
+開催は毎年10月第1土・日・月曜日の3日間で、会場は二本松神社および市内中心部一帯です。初日の宵祭りでは午後5時に太鼓台が集結し、提灯への点火が行われます。二日目・三日目もそれぞれ町を巡行し、三日間を通じて城下町が祭り一色に染まります。
+
+アクセスはJR東北本線・二本松駅から徒歩圏内と便利で、東北自動車道・二本松ICからも近いため、首都圏方面からも仙台方面からも訪れやすい立地です。祭礼期間中は市内中心部に大規模な交通規制が敷かれるため、自家用車での来訪よりも公共交通機関の利用が推奨されます。宵祭りの点火時刻に合わせて訪れると、最大の見どころを逃さずに楽しむことができます。
+
+## 周辺の見どころ
+
+二本松は、日本100名城にも選ばれた霞ヶ城（二本松城跡）を中心とする城下町で、藩政期の面影を伝える史跡が各所に残されています。秋には二本松城跡で「二本松の菊人形」が開催され、丹精込めて仕立てられた菊の花で歴史絵巻を表現するこの催しは、提灯祭りと並ぶ二本松の秋の風物詩となっています。
+
+また、二本松は岳温泉や安達太良山といった自然景観にも恵まれており、温泉と登山を組み合わせた滞在も楽しめます。祭りの夜に城下町の灯火を堪能し、翌日は城跡の散策や温泉でくつろぐといった、歴史と自然を一度に味わう旅程を組むことができます。
+
+## 関連情報
+
+二本松の提灯祭りは、福島県を代表する伝統行事であり、城主丹羽光重公の敬神思想を起源とする点に大きな特色があります。藩主が領民のために神社をひらき、その例大祭が城下町全体の祭りへと育っていったという成り立ちは、為政者と領民が祭りを通じて結ばれてきた地域の歴史を今に伝えています。祭りを支える太鼓台の部材や歴史を物語る資料は地域で大切に保存・展示されており、約370年にわたって途切れることなく受け継がれてきた祭礼文化の重みを、訪れる人に静かに語りかけています。','## Overview
+
+The Nihonmatsu Lantern Festival (Nihonmatsu no Chochin Matsuri) is the annual grand festival of Nihonmatsu Shrine, held each October in Nihonmatsu City, Fukushima Prefecture. In this bold yet gorgeous festival, seven taiko-dai floats, decorated all over with countless lanterns, set out from the seven parish towns and parade through the nighttime streets, and it is designated an Important Intangible Folk Cultural Property of Fukushima Prefecture. More than 300 lanterns are lit on a single float, and the sight of them, linked together, advancing through the darkness is overwhelming. Counted, along with the Kanto Festival of Akita and the Tsushima Tenno Festival of Owari, as one of the Three Great Lantern Festivals of Japan, it bustles with a crowd of some 200,000 people each year, making it one of the largest festivals in Fukushima Prefecture. The fantastical bands of light created by the lantern glow have long been cherished as a scene symbolizing the autumn night of Nihonmatsu.
+
+## History and Origins
+
+The Nihonmatsu Lantern Festival is a festival carried on as the grand festival of Nihonmatsu Shrine. Its origin dates to 1643. In that year, Niwa Mitsushige, who became lord of the Nihonmatsu domain, considered that "in order to carry out good governance, it is important first to raise among the people a spirit of reverence for the gods," and he enshrined Nihonmatsu Shrine and made it so that any of his people, regardless of status, could freely worship there; this is said to be the beginning of the festival. The starting point of this festival lay in the lord''s act of establishing the shrine as a spiritual anchor for the people and seeking to unite their faith.
+
+Ever since, the rites of Nihonmatsu Shrine have been borne by the people of the castle town, developing into the present form in which the parish towns send out taiko-dai floats. The distinctive scheme of decorating the floats all over with lanterns heightened the gorgeousness of the festival as a night festival and became its great characteristic. Carried on through long years, this festival is designated an Important Intangible Folk Cultural Property of Fukushima Prefecture and is positioned as a precious event conveying the region''s history and faith. It is a festival that the people of the castle town of Nihonmatsu have protected and nurtured across generations, and in the mechanism by which each town sends out a float, the bonds and pride of the community still live on.
+
+## Highlights
+
+The greatest highlight is, without question, the parade of the seven taiko-dai floats adorned with countless lanterns. The festival is borne by the floats set out from the seven parish towns, namely Wakamiya, Matsuoka, Honmachi, Kameya, Takeda, Nezaki, and Kakunai. More than 300 lanterns are decorated all over each float, and the sight of red lanterns lit in succession is as if a mountain of light were moving.
+
+On the eve festival of the first day, the festival begins with the sacred fire of Nihonmatsu Shrine being transferred to the red lanterns of the floats. By dividing the shrine''s sacred fire among the lanterns of each town, a sacred meaning is invested in the festival. When the floats that have received the fire set out into the streets to the sound of drums and music, the night town is wrapped in lantern glow and festival music. The sight of the floats turning narrow streets and going up and down slopes is full of power, and the calls of the pullers and the resounding of the drums lift the festival''s spirits. During the main festival in the daytime, events such as the procession of the portable shrine are also held, allowing one to savor both the fantastical beauty of the lanterns lit in the evening and the solemnity of the daytime rites. The very sight of the lantern glow swaying in the darkness as it tours the town is the greatest charm of this festival, worthy of one of the Three Great Lantern Festivals of Japan.
+
+## Event Information and Access
+
+The Nihonmatsu Lantern Festival is held over three days on the first Saturday, Sunday, and Monday of October each year (the dates were changed in 2019). In 2025 it was held on the schedule of the eve festival on Saturday, October 4, the main festival on Sunday, October 5, and the after-festival on Monday, October 6. The venue is Nihonmatsu Shrine in Nihonmatsu City, Fukushima Prefecture, and the surrounding urban area.
+
+Because traffic restrictions are imposed in the urban area during the festival, those visiting by car would do well to check information on the restrictions in advance. Visiting by rail is also possible, and Nihonmatsu is located in the Nakadori region of Fukushima Prefecture. Because the schedule, traffic restrictions, and details of each event may change from year to year, it is best to confirm the latest information through official announcements from Nihonmatsu City or the Nihonmatsu City Tourism Federation when visiting. Because the evening eve festival, when the lantern glow shines most beautifully, draws particularly large crowds, it is best to visit with time to spare.
+
+## Things to See Nearby
+
+Nihonmatsu is a place that strongly retains its history as a castle town. In the city are the ruins of Nihonmatsu Castle (Kasumigajo), associated with the Nihonmatsu Boy Corps known for the tragedy of the Boshin War, and the park developed from the castle ruins is also cherished as a famous spot for cherry blossoms and autumn leaves. The festival season falls around the time the autumn leaves begin, and the view from the castle ruins gains in charm. In addition, Nihonmatsu has long been known for sake brewing and chrysanthemum dolls, allowing visitors to encounter the region''s traditional culture. After enjoying the splendor of the autumn night at the lantern festival, touring the history and nature of the castle town of Nihonmatsu allows one to feel more deeply the depth of the culture this land has nurtured.
+
+## Related Information
+
+The Nihonmatsu Lantern Festival is the grand festival of Nihonmatsu Shrine, originating in Niwa Mitsushige''s enshrinement of Nihonmatsu Shrine in 1643 and carried on by the people of the castle town. The scene woven by the seven taiko-dai floats set out from the seven towns and the more than 300 lanterns lit on a single float boasts a gorgeousness worthy of one of the Three Great Lantern Festivals of Japan. As an Important Intangible Folk Cultural Property of Fukushima Prefecture, it conveys the region''s history and faith to the present day. Because the dates, the details of each event, and the traffic restrictions may change from year to year, it is best to confirm the latest information through official announcements from Nihonmatsu City or the Nihonmatsu City Tourism Federation before visiting.','nihonmatsu-chochin-matsuri','nihonmatsu-chochin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3119229','隅田川花火大会','Sumidagawa Fireworks Festival','東京都の花火大会','Fireworks show in Japan','Q222149','隅田川','Sumida River','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hanabi%20in%20Adachi-ku1.jpg','https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Sumidagawa_Fireworks_Festival',85,'drafted','## 概要
 
 隅田川花火大会（すみだがわはなびたいかい）は、東京都の隅田川沿い、台東区浅草（右岸）と墨田区向島（左岸）周辺の河川敷で、毎年7月最終土曜日に開催される花火大会である。第一会場（桜橋下流〜言問橋上流）と第二会場（駒形橋下流〜厩橋上流）の二会場合わせて約2万発が打ち上げられ、毎年90万人を超える人出を記録する。毎年8月開催の江戸川区花火大会とともに東京二大花火大会の一つに数えられ、東京スカイツリーを背景にした花火は夏の風物詩として国内外に広く知られている。
