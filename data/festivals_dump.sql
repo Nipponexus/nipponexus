@@ -9969,9 +9969,127 @@ The festival''s greatest highlight is the "Kangen-bune rite" held on the night o
 INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の誕生日を祝う祭り（灌仏会）に対する日本語の名称。名称の発生は明治期','Buddha''s birthday festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/A%20birthday%20of%20Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11655139','閃光ライオット','Senko Riot','10代アーティストのみによる日本のロック・フェスティバル','Japanese music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%96%83%E5%85%89%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%83%E3%83%88',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11678799','黒船祭','Shimoda Black Ship Festival','静岡県下田市で開催される祭',NULL,'Q653402','下田市','Shimoda','静岡県','chubu',NULL,NULL,NULL,5,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%BB%92%E8%88%B9%E7%A5%AD',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11678183','黒崎祇園山笠','Kurosaki Gion Yamagasa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kurosakigionn3.JPG','https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11678183','黒崎祇園山笠','Kurosaki Gion Yamagasa',NULL,NULL,NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kurosakigionn3.JPG','https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'drafted','## 概要
+
+黒崎祇園山笠（くろさきぎおんやまがさ）は、福岡県北九州市八幡西区の黒崎地区で毎年7月中旬に4日間にわたって行われる祇園祭である。八幡西区に鎮座する春日神社・岡田宮・一宮神社の三社が合同で執り行う祭礼で、約400年以上の歴史を持つと伝えられている。最大の特徴は、山笠と呼ばれる山車を激しくぶつけ合うかのように勇壮に練り回す点にあり、その荒々しさから「喧嘩山笠」の異名で広く知られている。和太鼓の大小・鉦・ほら貝による囃子が祭り全体を貫き、緩急を自在に操りながら山笠を一気に回転させる迫力が観衆を魅了する。祭礼は福岡県の無形民俗文化財に指定されているほか、2025年（令和7年）には国の記録作成等の措置を講ずべき無形の民俗文化財に選択され、文化財としての価値が改めて認められた。
+
+## 歴史・由来
+
+黒崎祇園山笠の源流は、1205年（元久2年）に当地を治めた麻生氏が祇園会を始めたことにさかのぼるとされる。疫病を退け無病息災を願う祇園信仰が、この地に古くから根づいていたことを物語る起こりである。現在の黒崎の祭礼の直接の起源とされるのは、1600年（慶長5年）に黒田長政が筑前国に入封した際、岡田宮と春日神社に山笠を奉納したことだと伝えられている。黒田氏の入国という地域の大きな転換期に祭礼が結びつき、以後、城下の人々の手で受け継がれてきた。
+
+山笠の姿も時代とともに変化している。当初は笹を立てた素朴な「笹山笠」であったが、1906年（明治39年）に近隣の直方の様式を取り入れ、人形を飾った華やかな「飾山笠」へと姿を変えた。素朴な信仰の依代から、見せる造形美を備えた山車へと発展した点に、祭りが地域の誇りとして育っていった歩みが表れている。
+
+文化財としての評価も段階を踏んで進んだ。1968年（昭和43年）に笹山笠が福岡県の無形文化財に指定され、1976年（昭和51年）には祭礼全体が福岡県の無形民俗文化財に指定された。2005年（平成17年）には開催400年を記念して「黒崎四百年大祭」が盛大に催され、節目の年を地域全体で祝った。近年では朝鮮通信使再現行列への参加など国際交流の場にも登場し、地域の文化資源として広く発信されてきた。そして2025年には国の記録作成等の措置を講ずべき無形の民俗文化財に選択され、長い歴史の蓄積が国の水準で評価されることとなった。
+
+祭りを彩る囃子は、和太鼓の大小・鉦・ほら貝で構成される。その勇壮で重厚な響きは黒田藩の陣太鼓に由来すると伝えられており、戦場で士気を鼓舞した太鼓の音が、平時には祭りの活気を生み出す音へと転じた点に、城下町・黒崎ならではの個性がうかがえる。
+
+## 見どころ
+
+最大の見どころは、8基の山笠が黒崎の街中を勇壮に練り回す姿である。山笠は三社に分かれて所属しており、藤田地区（春日神社）には藤田西山笠・藤田東山笠・東町山笠、熊手地区（岡田宮）には熊手一番山笠・熊手二番山笠・熊手参番山笠、熊西地区（一宮神社）には熊西山笠・山寺山笠が連なる。それぞれの地区が誇りを懸けて山笠を担ぎ出すことで、祭りには地域同士の競い合いという熱気が加わる。
+
+運行で最も圧巻なのは、囃子の調子を緩急自在に変化させ、序破急のリズムに乗せて山笠を一気に回転させる「廻し」である。重い山笠が勢いよく回るさまは迫力に満ち、山笠どうしがぶつかり合うように激しく動くことから「喧嘩山笠」と呼ばれるようになった。前夜祭の山笠競演会で祭りの火蓋が切られ、各社への参拝、そして締めくくりの解散式に至るまで、4日間を通して祭りの熱気が途切れることがない。
+
+## 開催情報・アクセス
+
+黒崎祇園山笠は、例年7月の第3金曜から月曜にかけての4日間に本祭が行われる。金曜の前夜祭・山笠競演会に始まり、土曜・日曜には各社への参拝が続き、月曜の解散式で幕を閉じる。本祭に先立つ7月上・中旬の日曜には、笹山笠を運行する「お汐井取り」や、本祭1週間前の太鼓競演会など、関連行事が順を追って行われ、祭りの機運が徐々に高まっていく。
+
+会場はJR鹿児島本線・黒崎駅の周辺一帯で、駅前の繁華街を山笠が巡行する。鉄道でのアクセスがよく、黒崎駅から徒歩圏で祭りを観覧できるため、遠方からの来訪者にも訪れやすい祭りである。
+
+## 周辺の見どころ
+
+祭りを主催する春日神社・岡田宮・一宮神社の三社は、いずれも黒崎の歴史を語るうえで欠かせない古社であり、祭礼期間以外でも参拝してその由緒に触れることができる。また、山笠の実物は常設展示でも親しむことができ、北九州市立いのちのたび博物館では笹山笠が、八幡西図書館では笹山笠や熊手の子供山笠が展示されている。祭りの時期に訪れられない場合でも、これらの施設を巡れば黒崎祇園山笠の造形と歴史を間近に味わうことができる。
+
+## 関連情報
+
+黒崎祇園山笠は、地域の保存会によって伝統が大切に受け継がれている。子ども笹山笠が前夜祭に参加するなど、次世代への継承の取り組みも続けられており、祭りが単なる年中行事にとどまらず地域の共同体を結ぶ役割を担っていることがうかがえる。最新の日程や運行ルートは年によって調整されるため、訪れる際は北九州市や黒崎祇園保存会の公式発表で確認するのが確実である。','## Overview
+
+The Kurosaki Gion Yamagasa is a Gion festival held over four days in mid-July each year in the Kurosaki district of Yahatanishi Ward, Kitakyushu City, Fukuoka Prefecture. Jointly conducted by three shrines in the ward, Kasuga Shrine, Okadagu Shrine, and Ichinomiya Shrine, the festival has a history of more than 400 years. It is popularly known as the "fighting yamagasa" because the floats are paraded so vigorously that they appear to clash with one another, all to the driving rhythm of taiko drums, gongs, and conch-shell trumpets. The festival is designated an Intangible Folk Cultural Property of Fukuoka Prefecture, and in 2025 it was selected as an Important Intangible Folk Cultural Property for which the national government records measures.
+
+## History and Origins
+
+The roots of the Kurosaki Gion Yamagasa are said to reach back to 1205, when the Aso clan, who governed the area, first held a Gion rite. The festival in its present form is traced more directly to 1600, when Kuroda Nagamasa, upon entering the province of Chikuzen, dedicated yamagasa floats to Okadagu Shrine and Kasuga Shrine. The floats were originally simple "sasa yamagasa" decorated with bamboo grass, but in 1906 they were transformed into ornate doll-bearing floats modeled after the style of nearby Nogata.
+
+Recognition of the festival''s cultural value advanced in stages. In 1968 the sasa yamagasa were designated an Intangible Cultural Property of Fukuoka Prefecture, and in 1976 the entire festival was designated an Intangible Folk Cultural Property of the prefecture. In 2005 the grand "Kurosaki 400th Anniversary Festival" was held to mark four centuries of the tradition. In more recent years the festival has appeared in international exchange settings, and in 2025 it was selected as an Important Intangible Folk Cultural Property recorded by the national government, reaffirming the weight of its long history.
+
+The festival''s musical accompaniment consists of large and small taiko drums, gongs, and conch-shell trumpets. Its bold, stirring sound is said to derive from the war drums of the Kuroda domain, a distinctive trait that links the battlefield drumbeat to the energy of the festival.
+
+## Highlights
+
+The greatest highlight is the sight of eight yamagasa floats being paraded boldly through the streets of Kurosaki. The floats belong to the three shrines: the Fujita district (Kasuga Shrine) fields the Fujita-nishi, Fujita-higashi, and Higashimachi floats; the Kumade district (Okadagu Shrine) fields the Kumade first, second, and third floats; and the Kumanishi district (Ichinomiya Shrine) fields the Kumanishi and Yamadera floats.
+
+During the parade, the most spectacular moment is the "mawashi," in which the tempo of the music quickens and slows in a jo-ha-kyu rhythm before the float is spun around in a single burst. Because the floats move so fiercely that they seem to collide, the festival earned the nickname "fighting yamagasa," and its roughness and intensity draw spectators. From the opening float competition on the eve of the festival, through the visits to each shrine, to the closing dissolution ceremony, the fervor never lets up across the four days.
+
+## Event Information and Access
+
+The main festival is held over four days, typically from the third Friday through Monday of July. It opens with the eve festival and float competition on Friday, continues with visits to each shrine on Saturday and Sunday, and closes with the dissolution ceremony on Monday. Related events precede the main festival, including the "oshioi-tori" parade of the sasa yamagasa on Sundays in early and mid-July and a drum competition one week before the main event.
+
+The venue is the area around Kurosaki Station on the JR Kagoshima Main Line, where the floats parade through the downtown district in front of the station. Access by rail is convenient, and the festival can be viewed within walking distance of Kurosaki Station.
+
+## Things to See Nearby
+
+Kasuga Shrine, Okadagu Shrine, and Ichinomiya Shrine, the three shrines that host the festival, are all venerable old shrines essential to the history of Kurosaki and can be visited outside the festival period as well. The floats themselves can also be enjoyed on permanent display: the sasa yamagasa is shown at the Kitakyushu Museum of Natural History and Human History, and sasa yamagasa and a children''s Kumade float are exhibited at the Yahatanishi Library. Even visitors who cannot come during the festival can see the craftsmanship of the Kurosaki Gion Yamagasa up close at these facilities.
+
+## Related Information
+
+The Kurosaki Gion Yamagasa is sustained by a local preservation society that carries on the tradition. Efforts to pass the festival on to the next generation continue, including the participation of a children''s sasa yamagasa in the eve festival. For the latest dates and parade routes, it is best to check official announcements from Kitakyushu City or the Kurosaki Gion Preservation Society.','kurosaki-gion-yamagasa','kurosaki-gion-yamagasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11667185','香取神宮御田植祭','Otaue Festival at Katori Jingū',NULL,NULL,'Q372380','香取神宮','Katori Jingū','千葉県','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Rice-transplanting%20Festival%20in%20Katori-jingu%201%2Ckatori-city%2Cjapan.jpg','https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q17193576','今宮祭','Imamiya Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine',NULL,NULL,NULL,NULL,994,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Imamiya%20shrine%20Kanko-sai%202013-05B.JPG','https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q17193576','今宮祭','Imamiya Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine','京都府','kinki',NULL,NULL,994,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Imamiya%20shrine%20Kanko-sai%202013-05B.JPG','https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD',NULL,80,'drafted','## 概要
+
+今宮祭（いまみやまつり）は、京都市北区紫野にある今宮神社で毎年5月に行われる祭礼である。平安京遷都以前にさかのぼる疫神信仰を起源とし、京の都を疫病から守ることを願って長く続けられてきた歴史ある祭りである。5月のうち複数日にわたって神事が連なり、3基の神輿と数多くの剣鉾が氏子地域の都大路を巡行する。先導する剣鉾の鈴の音、力を合わせて担がれる神輿、車太鼓や八乙女らが織りなす行列は、都の祭礼ならではの典雅さと賑わいを併せ持つ。神事は出御から還御まで日を追って進むため、訪れる日によって異なる祭りの表情に出会えるのも特色である。同じ今宮神社で4月に営まれる「やすらい祭」とともに、地域に深く根ざした祭礼として今も人々に親しまれている。
+
+## 歴史・由来
+
+今宮祭の源流は、平安京遷都以前から当地で営まれていた疫神を祀る信仰にある。平安期には疫病がたびたび都を襲い、人々はその原因を疫神の祟りと考えて鎮めようとした。994年（正暦5年）には朝廷の主導により、疫神を鎮めるための御霊会が紫野で営まれた。これは一地域の行事にとどまらず、国家的な規模で疫病退散を祈った行事であり、今宮神社の祭礼の直接の源とされている。続く1001年（長保3年）には社殿と神輿が整えられ、それまで臨時に営まれていた祈りが、紫野の地に疫神を祀る恒常的な祭礼として形を定めていったと伝えられる。疫病という都の切実な脅威が、この祭りを生み育てた背景にあった。
+
+その後、祭礼は中世を通じて受け継がれたが、応仁の乱をはじめとする打ち続く戦乱の時代には、都の荒廃とともに中断を余儀なくされた時期もあった。祭りが再び活気を取り戻したのは近世に入ってからで、江戸幕府5代将軍・徳川綱吉の生母である桂昌院の手厚い支援が大きな役割を果たしたと伝えられている。桂昌院は西陣の出身とされ、町娘から将軍の生母へと立身を遂げた後も郷里の神社への崇敬を篤くし、その援助が荒れていた祭礼の復興を強く後押ししたという。こうした歴史を経て、今宮祭は中断と再興を乗り越え、現在まで連綿と続く都の祭礼として定着した。
+
+## 見どころ
+
+今宮祭は、5月の複数日にわたって神事が段階的に進行する点に最大の特色がある。例年5月1日の「神輿出し」で祭りが動き出し、5日の「神幸祭（おいでまつり）」では神輿が氏子地域へと巡幸して人々に神の恵みをもたらす。中旬の日曜には「還幸祭（おかえりまつり）」で神輿が神社へと戻り、19日の「神輿おさめ」で一連の神事が静かに締めくくられる。出御から還御までを日を追って体験できる構成は、一日で完結する祭りにはない奥行きを生んでいる。
+
+巡行では、先神輿・中神輿・大宮神輿の3基が登場し、1基を多くの担ぎ手が力を合わせて担ぎ上げる。行列を先導するのは剣鉾で、扇鉾・菊鉾・松鉾・牡丹鉾など多数の鉾が連なる。これらの剣鉾は西陣の各町がそれぞれ保有して代々受け継いでおり、町ごとに鉾の名と意匠が異なる点に、地域が長く祭りを支えてきた歴史が刻まれている。剣鉾はもともと神輿の巡行に先立って道を祓い清める役割を担うとされ、その澄んだ鈴の音が行列の到来を告げる。車太鼓・八乙女らが織りなす華やかな列が都大路を進むさまは、雅やかさと賑わいを兼ね備える。御旅所では湯立祭も営まれ、煮え立つ湯を捧げる神事が祭りに厳かな趣を添えている。
+
+## 開催情報・アクセス
+
+今宮祭は例年5月に行われ、神輿出し（5月1日）・神幸祭（5月5日）・還幸祭（中旬の日曜）・神輿おさめ（5月19日）といった神事が日を追って執り行われる。巡行は大宮通や千本通など今宮神社周辺の通りを中心に進み、氏子地域を広く巡る。
+
+会場の今宮神社は京都市北区紫野今宮町にあり、市内中心部からのアクセスもよい。祭礼の正確な日程や巡行路は年によって調整されるため、訪れる際は今宮神社の公式発表であらかじめ確認しておくとよい。
+
+## 周辺の見どころ
+
+今宮神社の門前は、名物の「あぶり餅」で知られている。香ばしく炭火で焼いた小さな餅に白味噌だれをからめた素朴な味わいで、古くから参拝者に親しまれ、門前の風情を伝える名物となっている。また同じ今宮神社では、4月の第2日曜に「やすらい祭」が営まれる。これは桜の散る頃に飛び散るとされた疫神を鎮める祭りで、規模は今宮祭より小さいものの、国の重要無形民俗文化財に指定され、京都三大奇祭の一つに数えられている。5月の今宮祭とあわせて知ることで、この神社が育んできた疫神信仰に根ざした二つの祭礼の姿を、より深く味わうことができる。
+
+## 関連情報
+
+今宮祭を彩る剣鉾は西陣地区の各町が保有し、町ごとに鉾の名と意匠が受け継がれている。神輿・剣鉾・八乙女・車太鼓といった構成要素には、平安以来の都の祭礼文化が色濃く残されており、祭り全体が長い歴史を今に伝える生きた文化財となっている。最新の日程や巡行情報は年によって変わりうるため、今宮神社の公式発表で確認するのが確実である。','## Overview
+
+The Imamiya Festival is an annual festival held in May at Imamiya Shrine in the Murasakino area of Kita Ward, Kyoto City. Originating in a belief in the deities of pestilence that predates the founding of the Heian capital, it has been carried on in the hope of protecting the capital from epidemics. Over several days in May, a sequence of rites unfolds, and three portable shrines (mikoshi) together with numerous ceremonial halberds (kenboko) parade through the great avenues of the city. Along with the Yasurai Festival held at the same Imamiya Shrine in April, it is known as a festival deeply rooted in the local community.
+
+## History and Origins
+
+The Imamiya Festival springs from a belief in pacifying the deities of pestilence that was practiced in the area even before the capital was moved to Heian-kyo. During the Heian period, epidemics struck the capital repeatedly, and in 994 a goryo-e rite to appease the deities of pestilence was held at Murasakino under the direction of the court. In 1001, a shrine building and portable shrines were prepared, and the festival is said to have taken shape as a rite of Imamiya Shrine.
+
+The festival was handed down through the medieval period, though it was forced into interruption during the eras of warfare such as the Onin War. In the early modern period, it is said to have regained its former splendor thanks to the generous support of Keishoin, the mother of Tokugawa Tsunayoshi, the fifth Tokugawa shogun. Keishoin is said to have come from the Nishijin district, and her devotion to the shrine of her homeland is said to have driven the festival''s revival. Through this history, the Imamiya Festival became established as a festival of the capital that continues without interruption to the present day.
+
+## Highlights
+
+A distinctive feature of the Imamiya Festival is its staged progression over several days in May. It typically begins with the "mikoshi dashi" (bringing out of the portable shrines) on May 1, followed by the "shinko-sai (oide-matsuri)" on May 5, in which the mikoshi journey out into the parishioners'' district. On a Sunday in mid-May comes the "kanko-sai (okaeri-matsuri)," when they return to the shrine, and the series of rites concludes with the "mikoshi osame" on May 19.
+
+In the procession, three portable shrines appear, the saki-mikoshi, the naka-mikoshi, and the omiya-mikoshi, each lifted by many bearers working together. The procession is led by ceremonial halberds, with many kenboko such as the fan halberd, chrysanthemum halberd, pine halberd, and peony halberd in the line, each preserved by a different ward of the Nishijin district. The ringing bells of the halberds, together with the drum carts and the yaotome maiden attendants, form a procession that combines the elegance and the liveliness characteristic of a festival of the capital. A yudate rite is also performed at the otabisho (resting site), conveying the solemnity of the rituals.
+
+## Event Information and Access
+
+The Imamiya Festival is held in May, with rites such as the mikoshi dashi (May 1), the shinko-sai (May 5), the kanko-sai (a Sunday in mid-May), and the mikoshi osame (May 19) carried out one after another. The procession proceeds mainly along streets around Imamiya Shrine, including Omiya-dori and Senbon-dori.
+
+Imamiya Shrine, the venue, is located in Murasakino Imamiya-cho, Kita Ward, Kyoto City, with good access from the city center. Because the exact dates and routes are adjusted from year to year, visitors are advised to confirm the details through official announcements from Imamiya Shrine.
+
+## Things to See Nearby
+
+The approach to Imamiya Shrine is famous for its specialty "aburi-mochi," skewered rice cakes grilled until fragrant and coated with a white miso sauce, a simple flavor cherished by worshippers. The same Imamiya Shrine also holds the "Yasurai Festival" on the second Sunday of April. A rite to pacify the deities of pestilence around the time the cherry blossoms fall, it is smaller in scale than the Imamiya Festival but is designated an Important Intangible Folk Cultural Property of the nation and counted among the three great eccentric festivals of Kyoto. Together with the Imamiya Festival, it offers a chance to learn about two festivals rooted in the belief in the deities of pestilence.
+
+## Related Information
+
+The ceremonial halberds that adorn the Imamiya Festival are held by the various wards of the Nishijin district, with the name and design of each halberd handed down from ward to ward. The constituent elements, the portable shrines, ceremonial halberds, yaotome maidens, and drum carts, preserve the festival culture of the capital that has endured since the Heian period. For the latest dates and procession information, it is best to confirm through official announcements from Imamiya Shrine.','imamiya-matsuri','imamiya-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642725','那売佐神社','Namesa Shrine','島根県出雲市東神西町にある神社','Shinto shrine in Shimane Prefecture, Japan',NULL,NULL,NULL,'島根県','chugoku',35.314364,132.699845,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Namesajinjahonden.JPG','https://ja.wikipedia.org/wiki/%E9%82%A3%E5%A3%B2%E4%BD%90%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
 
 那売佐神社(なめさじんじゃ)は、島根県出雲市東神西町(ひがしじんざいちょう)に鎮座する式内社で、葦原醜男命(あしはらしこおのみこと、大国主神の別名)を主祭神として祀る古社である。『延喜式神名帳』に記載される出雲国神門郡の式内社の一座で、出雲神話の中核をなす大国主信仰の一翼を担う。
