@@ -6171,7 +6171,63 @@ INSERT INTO "festivals" VALUES('Q125601553',NULL,'Miyakojima International Film 
 INSERT INTO "festivals" VALUES('Q125601627',NULL,'Meihodo International Youth Visual Media Festival',NULL,NULL,'Q17','日本','Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q131012396','2024年11月3日の神田カレーグランプリ決定戦2024','Kanda curry grand prix 2024 (November 3, 2024)','2024年11月3日に旧今川中学校跡で開催された「神田カレーグランプリ2024」の決定戦',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q127513830','rockin''on sonic','rockin''on sonic','日本のロックフェスティバル',NULL,'Q862452','幕張メッセ','Makuhari Messe',NULL,NULL,NULL,NULL,2025,NULL,NULL,NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q130753581','松戸まつり','Matsudo Festival','千葉県松戸市で開催される祭り','festival in Matsudo, Chiba','Q108392912','松戸','Matsudo','茨城県','kanto',35.784442,139.899967,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Matsudo%20Festival%202024%2005.jpg',NULL,NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q130753581','松戸まつり','Matsudo Festival','千葉県松戸市で開催される祭り','festival in Matsudo, Chiba','Q108392912','松戸','Matsudo','千葉県','kanto',35.784442,139.899967,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Matsudo%20Festival%202024%2005.jpg',NULL,NULL,80,'drafted','## 概要
+
+松戸まつり（まつどまつり）は、千葉県松戸市で毎年10月初旬に行われる、松戸駅周辺を舞台とした市を代表する祭りである。松戸駅前の通りが歩行者天国となり、パレードや音楽ステージ、ダンスイベントなど多彩な催しが繰り広げられる、市内最大規模の市民祭である。1974年（昭和49年）に、それまで開催されていた市内の物産をPRする「産業まつり」を母体として第1回が開かれ、以来半世紀にわたって市民に親しまれてきた。かつて水戸街道の宿場町として栄えた松戸の歴史や、坂川を開いた先人たちへの感謝の思いを伝えることも、この祭りの大切な趣旨となっている。秋の二日間、駅周辺は多くの来場者と出演者で活気にあふれ、地域の人々が世代を超えて集う賑わいの場となる。市民が運営と出演の両面で主役を担う手づくりの祭りであり、観光向けの大規模行事とは異なる、地域に根ざした親しみやすさがその魅力となっている。
+
+## 歴史・由来
+
+松戸まつりの始まりは1974年（昭和49年）にさかのぼる。それ以前から松戸市内では、地元の物産を広く知らせることを目的とした「産業まつり」が催されていた。この産業まつりを母体として、より幅広い市民が参加できる総合的な市民祭へと発展させる形で、第1回松戸まつりが開催された。物産のPRという実利的な催しが、地域全体で祝う祭りへと姿を変えていった点に、松戸まつりの成り立ちの特徴がある。産業振興の催しが市民の交流の場へと育っていった経緯は、戦後に人口を増やしてきた松戸という都市の歩みとも重なっている。
+
+松戸は、江戸と水戸を結ぶ水戸街道の宿場町として古くから栄えた土地である。江戸川の渡しを控えた交通の要衝として旅人や物資が行き交い、松戸宿は宿場町ならではの賑わいを見せてきた。街道沿いには旅人をもてなす施設が並び、人と物が集まる場としての性格を長く帯びてきた。また、市内を流れる坂川は、かつて低湿地の排水と新田開発のために先人たちが長い年月をかけて手を入れ、整えてきた川である。水はけの悪い土地を耕地へと変えていったその営みが、今日の松戸の暮らしの基盤を築いた。松戸まつりは、こうした宿場町としての往時の賑わいや、坂川を開いた先人たちへの感謝の気持ちを表す行事としての意味も担っている。半世紀を超えて受け継がれてきたこの祭りには、地域の歴史への敬意と、それを次の世代へ伝えようとする思いが込められている。
+
+## 見どころ
+
+松戸まつりの見どころは、松戸駅周辺が歩行者天国となって展開される多彩な催しにある。普段は車や人で混み合う駅前の通りが、祭りの二日間は来場者のための広い空間へと姿を変え、その中をパレードが練り歩く。地域の団体や市民が参加する行列は、見る人と演じる人が一体となって祭りを盛り上げ、沿道は大勢の観客で埋め尽くされる。
+
+通り沿いや特設のステージでは、音楽の演奏やダンスのパフォーマンスなど、さまざまな催しが繰り広げられる。出演するのは地域で活動する団体や市民が中心で、日頃の練習の成果を披露する場ともなっており、観客との距離が近い手づくりの賑わいが感じられる。プロの興行ではなく、地域の人々が自ら舞台に立つことで生まれる温かみが、この祭りの空気をつくっている。会場は松戸駅周辺に加えて松戸中央公園なども使われ、街全体が祭りの舞台となる。物産のPRを母体とした祭りらしく、地域の産品や飲食を楽しめる出店も数多く並び、来場者は秋の一日を思い思いに過ごすことができる。歩行者天国の通りを歩きながら、ステージを眺め、屋台の味を楽しみ、パレードに見入る——そうした思い思いの過ごし方ができるのも、街なかを舞台にした市民祭ならではである。市民が主役となって街なかを彩るその光景こそ、松戸まつりの最大の魅力である。
+
+## 開催情報・アクセス
+
+松戸まつりは例年10月初旬の週末に二日間にわたって開催される。2025年は「松戸まつりイン2025」として10月4日（土）・5日（日）に行われた。会場はJR・新京成線などが乗り入れる松戸駅の周辺と、松戸中央公園などである。秋の心地よい気候のもとで、二日間にわたって催しが続けられる。
+
+アクセスはきわめて便利で、会場が松戸駅の至近に位置するため、鉄道で訪れればそのまま祭りの中心へと出ることができる。複数の路線が乗り入れるターミナル駅であることから、近隣はもちろん都心方面からも訪れやすく、毎年多くの来場者を集めている。車での来場は祭り当日の交通規制や混雑が予想されるため、公共交通機関の利用がすすめられる。開催日程や催しの内容は年によって変わるため、訪れる際は松戸市や松戸市観光協会の公式発表で最新情報を確認するとよい。
+
+## 周辺の見どころ
+
+松戸市には、祭りとあわせて訪ねたい見どころが点在している。市内を流れる坂川沿いは、季節の花や水辺の風景を楽しめる散策路として親しまれており、先人が開いた川の歴史に思いをはせながら歩くことができる。また、かつて水戸街道の宿場町として栄えた松戸宿の名残は、市内の各所にその面影をとどめている。江戸川の河川敷は広々とした眺めが楽しめる憩いの場となっており、川を挟んだ対岸には東京都が広がる。松戸駅周辺は商業施設や飲食店が充実しており、祭りの前後の食事や買い物にも便利である。宿場町としての歴史と、現代の都市としての賑わいが重なり合う松戸の街を、祭りを機に歩いてみるのも一興である。
+
+## 関連情報
+
+松戸まつりは、産業まつりを母体として1974年に始まり、宿場町としての歴史や坂川を開いた先人への感謝を伝えながら、半世紀にわたって受け継がれてきた市民祭である。市民が運営と出演の両面で主役となって街を彩るその姿には、地域への愛着と歴史への敬意が表れている。開催日や催しの詳細、会場の構成などは年によって変わりうるため、訪れる前には松戸市や松戸市観光協会の公式発表で最新情報を確認するのが確実である。','## Overview
+
+The Matsudo Festival (Matsudo Matsuri) is a festival representative of Matsudo City, Chiba Prefecture, held each year in early October around Matsudo Station. The streets in front of the station become a pedestrian zone, and a wide variety of events unfold, including parades, music stages, and dance events, making it the largest civic festival in the city. The first festival was held in 1974, developing from the "Industry Festival" that had been held to promote local products of the city, and it has been cherished by residents for half a century since. Conveying the history of Matsudo, which once prospered as a post town on the Mito Kaido highway, and gratitude toward the forebears who developed the Sakagawa River are also important aims of this festival. Over two days in autumn, the area around the station overflows with energy from many visitors and performers, becoming a place of lively gathering where local people of all generations come together.
+
+## History and Origins
+
+The Matsudo Festival began in 1974. Before that, an "Industry Festival" had been held in Matsudo City with the aim of widely publicizing local products. Taking this Industry Festival as its base, the first Matsudo Festival was held as a development into a comprehensive civic festival in which a broader range of residents could take part. The fact that a practical event for promoting products transformed into a festival celebrated by the whole community is a distinctive feature of how the Matsudo Festival came about.
+
+Matsudo is a place that long prospered as a post town on the Mito Kaido, the highway connecting Edo and Mito. As a key point of transportation near the ferry crossing of the Edogawa River, travelers and goods passed through, and it showed the liveliness characteristic of a post town. In addition, the Sakagawa River that flows through the city is a river that forebears once tended and shaped for the drainage of wetlands and the development of new rice fields, and their efforts laid the foundation of life in present-day Matsudo. The Matsudo Festival also bears the meaning of an event that expresses the former liveliness as a post town and gratitude toward the forebears who opened up the Sakagawa River. This festival, carried on for more than half a century, embodies respect for the region''s history and the desire to pass it on to the next generation.
+
+## Highlights
+
+The highlights of the Matsudo Festival lie in the diverse events that unfold as the area around Matsudo Station becomes a pedestrian zone. The streets in front of the station, usually crowded with cars and people, transform during the two days of the festival into a wide space for visitors, through which the parade winds its way. Processions in which local organizations and residents take part bring together spectators and performers in lifting the festival''s spirits.
+
+Along the streets and on special stages, various performances unfold, including musical performances and dance shows. The performers are mainly organizations and residents active in the community, and the festival also serves as a place to present the fruits of their everyday practice, offering a handmade liveliness with a close connection between performers and audience. In addition to the area around Matsudo Station, venues such as Matsudo Central Park are used, so the whole town becomes a stage for the festival. True to a festival that grew out of product promotion, stalls offering local products and food also line the streets, and visitors can spend an autumn day each in their own way. The very sight of residents taking center stage to color the town is the distinctive charm of the Matsudo Festival.
+
+## Event Information and Access
+
+The Matsudo Festival is held over two days on a weekend in early October each year. In 2025 it was held as "Matsudo Festival in 2025" on Saturday, October 4, and Sunday, October 5. The venues are the area around Matsudo Station, served by lines including the JR and Shin-Keisei lines, and Matsudo Central Park.
+
+Access is extremely convenient, and because the venue is located very close to Matsudo Station, visitors arriving by rail can step right out into the heart of the festival. As it is a terminal station served by several lines, it is easy to reach not only from nearby areas but also from the central Tokyo area. Because the dates and the content of the events change from year to year, visitors are advised to confirm the latest information through official announcements from Matsudo City or the Matsudo City Tourism Association.
+
+## Things to See Nearby
+
+Matsudo City has scattered points of interest worth visiting along with the festival. The banks of the Sakagawa River that flows through the city are cherished as a walking path where one can enjoy seasonal flowers and waterside scenery, and one can stroll while reflecting on the history of the river opened by forebears. In addition, traces of the Matsudo-juku post town that once prospered on the Mito Kaido remain in their vestiges in various places around the city. The area around Matsudo Station has ample commercial facilities and restaurants, convenient for meals and shopping before or after the festival. Walking the town of Matsudo, where the history of a post town overlaps with the liveliness of a modern city, is one way to enjoy the occasion of the festival.
+
+## Related Information
+
+The Matsudo Festival is a civic festival that began in 1974 from the Industry Festival as its base and has been carried on for half a century while conveying the history of the post town and gratitude toward the forebears who opened the Sakagawa River. In the sight of residents taking center stage to color the town, affection for the region and respect for its history are expressed. Because the dates, the details of the events, and the configuration of the venues may change from year to year, it is best to confirm the latest information through official announcements from Matsudo City or the Matsudo City Tourism Association before visiting.','matsudo-matsuri','matsudo-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q125612796',NULL,'UNITED FOR PEACE FILM FESTIVAL (UFPFF)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q125612829',NULL,'Visual Documentary Project (VDP)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q125612864',NULL,'Obuse Keidai Art Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -6413,7 +6469,63 @@ INSERT INTO "festivals" VALUES('Q21654307','ひぬまあじさいまつり',NULL
 INSERT INTO "festivals" VALUES('Q20044069','くりはら万葉祭',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.78097222,140.95719444,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8A%E3%81%AF%E3%82%89%E4%B8%87%E8%91%89%E7%A5%AD',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21654380','深谷まつり','Fukaya Festival',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',36.19263333,139.28098056,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B7%B1%E8%B0%B7%E3%81%BE%E3%81%A4%E3%82%8A',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17222740','AIR JAM',NULL,'日本のロックフェスティバル',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1997,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/AIR_JAM',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q17226213','高田城址公園観桜会','Takada Castle Site Park Cherry Blossom Festival',NULL,NULL,'Q11672057','高田城址公園','Takada Castle Site Park',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Takada%20Castle%20Gokuraku-bashi.JPG','https://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92%E8%A6%B3%E6%A1%9C%E4%BC%9A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q17226213','高田城址公園観桜会','Takada Castle Site Park Cherry Blossom Festival',NULL,NULL,'Q11672057','高田城址公園','Takada Castle Site Park','新潟県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Takada%20Castle%20Gokuraku-bashi.JPG','https://ja.wikipedia.org/wiki/%E9%AB%98%E7%94%B0%E5%9F%8E%E5%9D%80%E5%85%AC%E5%9C%92%E8%A6%B3%E6%A1%9C%E4%BC%9A',NULL,80,'drafted','## 概要
+
+高田城址公園観桜会（たかだじょうしこうえんかんおうかい）は、新潟県上越市の高田城址公園で毎年春に行われる桜まつりである。高田城の三重櫓を中心に、公園とその周辺を含めて約4000本の桜が咲き誇り、その開花にあわせて観桜会が催される。とりわけ名高いのが夜桜で、夜になると三重櫓と桜が約3000個のぼんぼりの明かりに照らし出され、お堀の水面に映るその光景は「日本三大夜桜」の一つに数えられている。昼の桜の華やかさと、夜のぼんぼりに浮かび上がる幻想的な桜の対比は、この観桜会ならではの見どころである。100年を超えて続けられてきた歴史ある桜の祭りであり、上越の春を代表する一大行事として、地元はもとより各地から多くの花見客を集めている。城跡という歴史的な空間と、人々が育ててきた桜並木とが一体となって生み出す景観は、ほかの桜の名所とは異なる風格を備えている。
+
+## 歴史・由来
+
+高田城は、徳川家康の六男・松平忠輝の居城として築かれた城で、その城跡を整備したのが高田城址公園である。慶長年間に築かれたこの城は、広大な堀をめぐらせた平城で、その面影は今も園内に色濃く残り、復元された三重櫓が往時の威容を伝えている。天守を持たず三重櫓を象徴とした点も、高田城の特徴の一つである。
+
+観桜会の桜の起源は、1909年（明治42年）にさかのぼる。この年、在郷軍人会の有志によって約2200本の桜が城址に植えられたことが、現在の桜並木の始まりとされている。城としての役割を終えた城跡を、桜の名所として地域の手で生まれ変わらせようとする取り組みであった。以後、植え継ぎや手入れが世代を超えて重ねられ、桜の数は増えていき、現在では公園とその周辺を含めて約4000本を数えるまでになった。桜の名所としての評価も高く、平成2年（1990年）には「さくら名所100選」に選ばれている。観桜会自体も長い歴史を持ち、2026年（令和8年）には第101回を数えることから、1世紀を超えて続けられてきた伝統ある祭りであることがわかる。城跡という歴史的な空間で、人々の手によって育てられてきた桜が今日の名所を形づくっており、城と桜と祭りが一体となってこの地の春の風物詩を成している。
+
+## 見どころ
+
+最大の見どころは、日本三大夜桜に数えられる夜桜の幻想的な美しさである。夜になると、約3000個のぼんぼりが園内をやわらかな光で包み、その明かりに照らされた桜と高田城の三重櫓が闇のなかに浮かび上がる。さらに、ライトアップされた櫓と桜がお堀の水面に映り込み、水鏡のように上下対称の景観をつくり出す。この水面に映る夜桜こそが、高田城址公園観桜会を全国に知らしめている象徴的な光景であり、日本三大夜桜の名にふさわしい幽玄の美をたたえている。
+
+昼間には、約4000本の桜が公園一帯を淡い桜色に染め上げ、三重櫓を背景に咲き誇る桜並木を心ゆくまで散策できる。広い堀と城郭を背景にした桜は雄大で、城跡ならではの開放感のなかで花見を楽しめる。堀端に立ち並ぶ桜が水面へと枝を伸ばす姿や、櫓と桜が織りなす構図は、写真に収めたくなる景観である。同じ桜でも、明るい日中の華やぎと、ぼんぼりに浮かぶ夜の幽玄とでは趣がまったく異なり、一日のうちで二つの表情を味わえるのがこの観桜会の醍醐味である。開花にあわせて園内には多くの露店も立ち並び、花見の賑わいをいっそう盛り上げる。日が暮れてぼんぼりに灯がともるころには、昼とはまた違った人出で園内が華やぐ。
+
+## 開催情報・アクセス
+
+高田城址公園観桜会は、桜の開花にあわせて例年3月下旬から4月中旬にかけて開催される。2026年（令和8年）の第101回は4月3日（金）から4月19日（日）にかけて行われ、期間中は高田城三重櫓と桜のライトアップが楽しめる。会場は新潟県上越市本城町の高田城址公園である。
+
+開花状況によって見頃や開催期間は前後するため、訪れる際は主催者や上越市の公式発表で最新情報を確認するとよい。とりわけ名物の夜桜を目当てに訪れる場合は、ライトアップの時間帯やぼんぼりの点灯期間をあらかじめ確認しておくと安心である。雪国である上越の春は本州の太平洋側よりやや遅く訪れるため、開花の時季を見計らって計画を立てるとよい。期間中は多くの人出が見込まれるため、公共交通機関の利用や混雑を見越した時間配分も心がけておきたい。
+
+## 周辺の見どころ
+
+会場の高田城址公園は、桜の季節以外にも見どころの多い公園である。夏には堀の一面を覆う蓮の花が名物として知られ、東洋一とも称される蓮の群生が広がるなど、四季を通じてさまざまな表情を見せる。復元された三重櫓は内部を見学できる時季もあり、高田城と城下町の歴史に触れることができる。また、公園のある高田の市街地には、雪国ならではの雁木（がんぎ）と呼ばれるアーケード状の通路が連なる町並みが残っている。雁木は、軒先を延ばして雪の日でも通行できるようにした生活の知恵であり、その連なりは往時の城下町の風情を今に伝えている。観桜会で桜を楽しんだあとに高田の町を歩けば、城跡と城下町が育んできた歴史と暮らしの文化に、より深く触れることができる。
+
+## 関連情報
+
+高田城址公園観桜会は、1909年に在郷軍人会が植えた桜を起源とし、城跡という歴史的空間で1世紀を超えて受け継がれてきた桜まつりである。約4000本の桜と約3000個のぼんぼり、三重櫓とお堀が織りなす日本三大夜桜の景観は、この地ならではの誇りである。地域の人々が長い年月をかけて育ててきた桜が、今では全国に知られる名所となっている点に、この祭りの歩みが凝縮されている。開催期間やライトアップの詳細は桜の開花状況によって年ごとに変わるため、訪れる前には主催者や上越市の公式発表で最新情報を確認するのが確実である。','## Overview
+
+The Takada Castle Site Park Cherry Blossom Viewing Festival (Takada-joshi Koen Kanoukai) is a cherry blossom festival held each spring at Takada Castle Site Park in Joetsu City, Niigata Prefecture. Centered on the three-story turret of Takada Castle, about 4,000 cherry trees bloom across the park and its surroundings, and the viewing festival is held in step with their blossoming. Especially famous are the night cherry blossoms: after dark, the three-story turret and the cherry trees are illuminated by the light of about 3,000 bonbori paper lanterns, and the sight of them reflected on the surface of the castle moat is counted among the "Three Great Night Cherry Blossoms of Japan." The contrast between the splendor of the cherry blossoms by day and the dreamlike blossoms rising out of the lantern light by night is a highlight unique to this viewing festival. A cherry blossom festival with a history spanning more than a century, it draws many blossom viewers from far and wide as a major event representing spring in Joetsu.
+
+## History and Origins
+
+Takada Castle was built as the residence of Matsudaira Tadateru, the sixth son of Tokugawa Ieyasu, and Takada Castle Site Park is the development of its castle ruins. The vestiges of the fortress, encircled by broad moats, still remain vividly within the grounds, and the restored three-story turret conveys the imposing appearance of bygone days.
+
+The origin of the festival''s cherry trees dates to 1909. In that year, about 2,200 cherry trees were planted at the castle site by volunteers of the reservists'' association, which is said to be the beginning of the present-day cherry-tree rows. Thereafter, through repeated replanting and care, the number of cherry trees increased, and today they number about 4,000 including the park and its surroundings. Its reputation as a famous cherry blossom spot is high, and in 1990 it was selected for the "100 Best Cherry Blossom Spots." The viewing festival itself also has a long history, and the fact that 2026 marks its 101st occurrence shows that it is a festival with a tradition carried on for more than a century. In the historic space of a castle site, cherry trees nurtured by human hands have shaped today''s famous spot, and the castle, the cherry blossoms, and the festival together form this region''s springtime tradition.
+
+## Highlights
+
+The greatest highlight is the dreamlike beauty of the night cherry blossoms, counted among the Three Great Night Cherry Blossoms of Japan. After dark, about 3,000 bonbori lanterns wrap the grounds in soft light, and the cherry trees and the three-story turret of Takada Castle rise out of that glow. Furthermore, the illuminated turret and cherry blossoms are reflected on the surface of the moat, creating a vertically symmetrical scene like a mirror of water. This night cherry blossom scene reflected on the water is the symbolic sight that has made the Takada Castle Site Park Cherry Blossom Viewing Festival known throughout the country.
+
+During the day, about 4,000 cherry trees dye the whole park a pale cherry-blossom pink, and one can stroll to one''s heart''s content among the cherry-tree rows blooming against the backdrop of the three-story turret. With the broad moat and fortress as a backdrop, the cherry blossoms are magnificent, and one can enjoy the viewing in the openness characteristic of a castle site. Even the same cherry blossoms differ entirely in mood between the brightness of midday and the mysterious depth of the night blossoms floating in the lantern light, and the joy of this viewing festival lies in being able to savor two expressions within a single day. In step with the blossoming, many stalls also line up, further enlivening the festive bustle.
+
+## Event Information and Access
+
+The Takada Castle Site Park Cherry Blossom Viewing Festival is held, in step with the blossoming of the cherry trees, from around late March to mid-April each year. The 101st occurrence in 2026 is to be held from Friday, April 3, to Sunday, April 19, and during the period one can enjoy the illumination of the three-story turret of Takada Castle and the cherry blossoms. The venue is Takada Castle Site Park in Honjo-machi, Joetsu City, Niigata Prefecture.
+
+Because the peak viewing period and the festival dates shift depending on the blossoming conditions, visitors are advised to confirm the latest information through official announcements from the organizers or Joetsu City. In particular, those visiting with the famous night cherry blossoms in mind would do well to check the illumination hours and the period during which the lanterns are lit in advance. Because spring in Joetsu, a snow country, arrives somewhat later than on the Pacific side of Honshu, it is best to plan while gauging the blossoming season.
+
+## Things to See Nearby
+
+The venue, Takada Castle Site Park, is a park with many points of interest outside the cherry blossom season as well. In summer, the lotus flowers covering the entire moat are known as a specialty, and the park shows various expressions throughout the four seasons. The restored three-story turret can be toured inside during certain seasons, allowing visitors to encounter the history of Takada Castle and its castle town. In addition, the urban area of Takada, where the park is located, retains a townscape lined with arcade-like passageways called "gangi," characteristic of snow country, conveying the atmosphere of the former castle town. Walking the town of Takada after enjoying the cherry blossoms at the viewing festival allows one to encounter more deeply the history and culture of daily life nurtured by the castle site and the castle town.
+
+## Related Information
+
+The Takada Castle Site Park Cherry Blossom Viewing Festival is a cherry blossom festival that originated with the cherry trees planted by the reservists'' association in 1909 and has been carried on for more than a century in the historic space of a castle site. The scene woven by about 4,000 cherry trees, about 3,000 bonbori lanterns, the three-story turret, and the moat, counted among the Three Great Night Cherry Blossoms of Japan, is a pride unique to this region. Because the period and the details of the illumination change from year to year depending on the blossoming conditions, it is best to confirm the latest information through official announcements from the organizers or Joetsu City before visiting.','takada-joshi-koen-kanoukai','takada-joshi-koen-kanoukai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21653223','山王史跡公園あやめ祭り',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.74200278,140.94965556,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E5%8F%B2%E8%B7%A1%E5%85%AC%E5%9C%92%E3%81%82%E3%82%84%E3%82%81%E7%A5%AD%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17221872','牧山の松明',NULL,NULL,NULL,'Q127366766','中世木','nakaseki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E3%81%AE%E6%9D%BE%E6%98%8E',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21019044','下町七夕まつり','Shitamachi Tanabata Festival',NULL,'Tanabata Festival',NULL,NULL,NULL,'茨城県','kanto',35.71480278,139.78726944,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%94%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
