@@ -6306,7 +6306,63 @@ INSERT INTO "festivals" VALUES('Q129694314','横濱漢祭','Yokohama Otoko Matsu
 INSERT INTO "festivals" VALUES('Q128214137',NULL,'S2O Japan',NULL,'music festival in Japan; part of S2O Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2018,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q127503128','ものづくり・匠の技の祭典2024','Monozukuri - A Celebration of Japanese Artisanal Techniques 2024','2024年8月2日から8月4日に開催された祭典',NULL,'Q1359892','東京国際フォーラム','Tokyo International Forum','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/202408031300%20DSCN1999.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q130901892','2024年11月2日の神田カレーグランプリ決定戦2024','Kanda curry grand prix 2024 (November 2, 2024)','2024年11月2日に旧今川中学校跡で開催された「神田カレーグランプリ2024」の決定戦',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q127415167','常盤平さくらまつり','Tokiwadaira Sakura Festival','千葉県松戸市で開催される祭り','festival in Matsudo, Chiba','Q11481505','常盤平さくら通り',NULL,'茨城県','kanto',35.80251,139.95079,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tokiwadaira%20Sakura%20Festival%2003.jpg',NULL,NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q127415167','常盤平さくらまつり','Tokiwadaira Sakura Festival','千葉県松戸市で開催される祭り','festival in Matsudo, Chiba','Q11481505','常盤平さくら通り',NULL,'千葉県','kanto',35.80251,139.95079,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Tokiwadaira%20Sakura%20Festival%2003.jpg',NULL,NULL,80,'drafted','## 概要
+
+常盤平さくらまつり（ときわだいらさくらまつり）は、千葉県松戸市の常盤平さくら通りを舞台に、毎年桜の咲く春に行われる桜まつりである。会場となる常盤平さくら通りは、1987年（昭和62年）に旧建設省（現・国土交通省）の「日本の道100選」に選ばれた並木道で、満開の時季には約3.1kmにわたって桜のトンネルが続く。約600本の桜が通りの両側から枝を広げて一斉に咲き競う景観は圧巻で、地域を代表する春の風物詩として長く親しまれてきた。まつりの当日には通りが歩行者天国となり、桜のもとに数多くの露店が立ち並んで多くの花見客で賑わう。2026年には第52回を数え、半世紀にわたって続く市民参加型の祭りとして地域に深く定着している。長大な桜並木という景観の魅力と、歩行者に開放された通りでの親しみやすい賑わいとが両立している点が、この祭りの大きな特色である。
+
+## 歴史・由来
+
+常盤平さくら通りは、松戸市の常盤平地区を貫く並木道で、桜並木の美しさによって地域のシンボルとなってきた。常盤平は戦後に計画的に開発された住宅地として知られ、街路に植えられた桜が年月を重ねて立派な並木へと育ち、町の景観を特徴づける存在となった。その価値が広く認められたのが1987年（昭和62年）で、旧建設省が選定した「日本の道100選」に「常盤平さくら通り」が選ばれた。日本の道100選は、道の日にちなんで全国の優れた道を顕彰する制度であり、この選定は単なる景観の美しさだけでなく、地域の人々の暮らしに根ざし、長く守られてきた道としての文化的価値が評価されたものである。桜並木が地域の誇りとして育てられ、世代を超えて大切にされてきたことが、この選定の背景にある。
+
+こうした桜並木を舞台に、春の開花にあわせて開かれてきたのが常盤平さくらまつりである。2026年で第52回を数えることから、半世紀にわたって続けられてきた歴史ある祭りであることがわかる。一時は開催が見合わされた時期もあったが、地域の人々の手で再び開かれるようになり、桜の名所を地域ぐるみで祝う行事として受け継がれてきた。まつりは行政や地元の人々が支える市民参加型の催しであり、桜並木を守り育ててきた地域の歩みと、それを毎年祝う祭りとが分かちがたく結びついている。春ごとに人々が桜の下に集うこの祭りは、地域の結びつきを確かめ合う場ともなっている。
+
+## 見どころ
+
+最大の見どころは、何といっても約3.1kmにわたって続く桜のトンネルである。約600本のソメイヨシノなどが通りの両側から枝を広げ、満開の時季には頭上を覆うように桜が連なる。五香駅から常盤平駅を経て八柱・新八柱駅方面へと向かう長い並木道を、桜を見上げながらゆっくりと歩くことができ、どこまでも続く桜の連なりは歩く者を飽きさせない。これほど長い距離を桜のトンネルが途切れずに続く並木は全国でも数少なく、「日本の道100選」に選ばれた所以を実感できる景観である。
+
+まつりの当日は、常盤平さくら通りが歩行者天国となり、車を気にせず通りの真ん中を歩きながら花見を楽しめる。普段は車が行き交う通りが、この日ばかりは桜を愛でる人々のための空間へと姿を変える。道路沿いには数多くの露店が立ち並び、例年11時から17時頃まで賑わいをみせる。桜並木の下を散策しながら屋台の味を楽しみ、春のひとときを過ごす人々で通りは一日中活気にあふれる。長大な桜トンネルという雄大な景観と、歩行者に開放された通りでの親しみやすい賑わいとが一体となった点が、この祭りならではの魅力である。家族連れから地域の人々、遠方からの花見客まで、幅広い世代が思い思いに春を楽しむ姿が見られる。
+
+## 開催情報・アクセス
+
+常盤平さくらまつりは、桜の開花にあわせて例年3月下旬から4月初めの週末に開催される。第52回は2026年3月28日（土）・29日（日）に行われ、歩行者天国・道路沿いの屋台は11時から17時頃までとされている。会場は千葉県松戸市常盤平の常盤平さくら通りである。
+
+アクセスは鉄道が便利で、京成松戸線の常盤平駅・五香駅、JR武蔵野線・京成松戸線の八柱・新八柱駅などが最寄りとなる。桜並木が複数の駅にまたがって続いているため、どの駅から歩いても祭りの会場に出ることができ、好みの区間から桜を楽しめるのも利点である。開花状況によって見頃や開催内容が前後するため、訪れる際は主催者の公式発表で最新情報を確認するとよい。桜は気候によって開花日が年ごとに変わるため、満開の時季に合わせて訪れるには開花予想の確認が欠かせない。
+
+## 周辺の見どころ
+
+常盤平さくら通り自体が、桜の季節以外も歩いて楽しめる並木道であり、「日本の道100選」に選ばれた景観を新緑や紅葉など四季を通じて味わうことができる。会場となる常盤平・八柱周辺は計画的に整備された住宅地で、駅周辺には商店や飲食店がそろい、花見の前後の立ち寄りや休憩にも便利である。桜並木をゆっくり歩きながら地域の暮らしの風景に触れられるのも、市民に身近なこの祭りならではの楽しみ方である。並木道沿いには腰を下ろして桜を眺められる場所も点在し、急がずに春を味わうことができる。住宅地のなかを貫く桜のトンネルという、日常の風景と桜の華やぎが溶け合った景観は、観光地の桜とはまた違った親しみやすさを感じさせる。
+
+## 関連情報
+
+常盤平さくらまつりは、「日本の道100選」に選ばれた桜並木という地域の資産を活かし、市民参加で半世紀にわたって続けられてきた春の祭りである。桜並木を守り育ててきた地域の取り組みと、それを毎年祝う祭りとが結びついている点に、この祭りの意義がある。開催日や歩行者天国の時間、屋台の出店状況などは年によって変わり、桜の開花状況にも左右されるため、訪れる前には主催者や松戸市の公式発表で最新情報を確認するのが確実である。','## Overview
+
+The Tokiwadaira Sakura Matsuri (Cherry Blossom Festival) is held each spring, when the cherry trees bloom, along Tokiwadaira Sakura-dori (Cherry Blossom Avenue) in Matsudo City, Chiba Prefecture. The venue, Tokiwadaira Sakura-dori, is a tree-lined avenue that was selected in 1987 for the "100 Best Roads of Japan" by the former Ministry of Construction (now the Ministry of Land, Infrastructure, Transport and Tourism), and in full bloom a tunnel of cherry blossoms stretches for about 3.1 kilometers. The sight of about 600 cherry trees blossoming all at once is overwhelming, and the festival is cherished as a springtime tradition representative of the area. In 2026 it marks its 52nd occurrence, firmly established as a long-running, community-participation festival.
+
+## History and Origins
+
+Tokiwadaira Sakura-dori is a tree-lined avenue running through the Tokiwadaira district of Matsudo City, and the beauty of its cherry-tree rows has made it a symbol of the area. Its value was widely recognized in 1987, when "Tokiwadaira Sakura-dori" was selected for the "100 Best Roads of Japan" designated by the former Ministry of Construction. Honored in connection with "Road Day," this selection reflected not merely the beauty of the scenery but also the cultural value of a road rooted in the local community.
+
+Against the backdrop of these cherry-tree rows, the Tokiwadaira Sakura Matsuri has been held in step with the spring blossoming. The fact that 2026 marks its 52nd occurrence shows that it is a festival with a history spanning half a century. Although there were periods when the event was suspended, it came to be held again through the efforts of local people and has been carried on as an event in which the community as a whole celebrates this famous cherry blossom spot.
+
+## Highlights
+
+The greatest highlight is, without question, the tunnel of cherry blossoms that continues for about 3.1 kilometers. About 600 cherry trees, mainly Somei-yoshino, spread their branches from both sides of the avenue, and in full bloom the blossoms link together as if to cover the sky overhead. Visitors can walk the long tree-lined avenue, which runs from Goko Station through Tokiwadaira Station toward the Yabashira and Shin-Yabashira Station area, gazing up at the cherry blossoms.
+
+On the days of the festival, Tokiwadaira Sakura-dori becomes a pedestrian zone, and numerous food stalls line the roadside. The stalls typically bustle from around 11 a.m. to 5 p.m., and visitors can enjoy the festive atmosphere while strolling beneath the cherry blossoms. The combination of the immense cherry blossom tunnel and the liveliness of the avenue opened to pedestrians is the distinctive charm of this festival.
+
+## Event Information and Access
+
+The Tokiwadaira Sakura Matsuri is held, in step with the cherry blossoms, on a weekend typically from late March to early April. The 52nd occurrence took place on Saturday, March 28, and Sunday, March 29, 2026, with the pedestrian zone and roadside stalls running from around 11 a.m. to 5 p.m. The venue is Tokiwadaira Sakura-dori in Tokiwadaira, Matsudo City, Chiba Prefecture.
+
+Access is convenient by rail, with the nearest stations including Tokiwadaira Station and Goko Station on the Keisei Matsudo Line, and Yabashira and Shin-Yabashira Stations on the JR Musashino Line and Keisei Matsudo Line. The avenue can be reached on foot from each station. Because the peak viewing period and event details shift depending on the blooming conditions, visitors are advised to confirm the latest information through the organizers'' official announcements.
+
+## Things to See Nearby
+
+Tokiwadaira Sakura-dori itself is a tree-lined avenue that can be enjoyed on foot outside the cherry blossom season as well, allowing visitors to appreciate scenery selected for the "100 Best Roads of Japan" throughout the year. The area around Tokiwadaira and Yabashira, where the festival is held, is a district developed as residential neighborhoods, and the area around the stations has shops and restaurants, convenient for a stop before or after viewing the blossoms. Strolling leisurely along the cherry-tree rows while taking in the scenes of local daily life is another way to enjoy this festival, which is close at hand for residents.
+
+## Related Information
+
+The Tokiwadaira Sakura Matsuri is a spring festival that has been carried on with community participation for half a century, making use of a local asset, a cherry-tree avenue selected for the "100 Best Roads of Japan." Because the dates, the hours of the pedestrian zone, and the status of food-stall openings change from year to year, and are also affected by the blooming conditions, it is best to confirm the latest information through the organizers or Matsudo City''s official announcements before visiting.','tokiwadaira-sakura-matsuri','tokiwadaira-sakura-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21654329','平筒沼ふれあい公園桜まつり',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.61635556,141.23637778,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%AD%92%E6%B2%BC%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%85%AC%E5%9C%92%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21653297','湘南台七夕まつり',NULL,NULL,NULL,NULL,NULL,NULL,'神奈川県','kanto',35.39623889,139.46644722,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E5%8F%B0%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17219247','江戸川区花火大会','Edogawa Fireworks Festival',NULL,'Fireworks show in Japan','Q1194505','江戸川','Edo River','東京都','kanto',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A_(%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E3%83%BB%E5%B8%82%E5%B7%9D%E5%B8%82)',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -10032,7 +10088,61 @@ Kasuga Shrine, Okadagu Shrine, and Ichinomiya Shrine, the three shrines that hos
 ## Related Information
 
 The Kurosaki Gion Yamagasa is sustained by a local preservation society that carries on the tradition. Efforts to pass the festival on to the next generation continue, including the participation of a children''s sasa yamagasa in the eve festival. For the latest dates and parade routes, it is best to check official announcements from Kitakyushu City or the Kurosaki Gion Preservation Society.','kurosaki-gion-yamagasa','kurosaki-gion-yamagasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11667185','香取神宮御田植祭','Otaue Festival at Katori Jingū',NULL,NULL,'Q372380','香取神宮','Katori Jingū','千葉県','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Rice-transplanting%20Festival%20in%20Katori-jingu%201%2Ckatori-city%2Cjapan.jpg','https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11667185','香取神宮御田植祭','Otaue Festival at Katori Jingū',NULL,NULL,'Q372380','香取神宮','Katori Jingū','千葉県','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Rice-transplanting%20Festival%20in%20Katori-jingu%201%2Ckatori-city%2Cjapan.jpg','https://ja.wikipedia.org/wiki/%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,80,'drafted','## 概要
+
+香取神宮御田植祭（かとりじんぐうおたうえさい）は、千葉県香取市の香取神宮で毎年4月に行われる、その年の五穀豊穣を祈る祭事である。下総国一宮として古くから篤い崇敬を集めてきた香取神宮に伝わる春の大祭で、630年以上の歴史を持つと伝えられている。田植えに先立つ田起こしから苗の植え付けまで、稲作の一連の農作業を神事として丁寧に模す形式をとり、古式ゆかしい装束に身を包んだ所役や早乙女が登場する。鎌や鍬を手にした所役、田を起こす牛、そして田舞を奉納する稚児、田植歌を歌いながら苗を植える早乙女が織りなす光景は、桜の咲く時季と相まって春の香取神宮を象徴する情景となる。茨城県つくば市の御田植祭などと並び、日本三大御田植祭の一つに数えられることもある由緒ある神事であり、稲作とともに歩んできた日本の信仰と暮らしを今に伝える貴重な行事として知られている。
+
+## 歴史・由来
+
+香取神宮は下総国一宮として崇敬を集めてきた古社で、祭神は武神として知られる経津主大神（ふつぬしのおおかみ）である。経津主大神は、葦原中国の平定にあたって遣わされたと神話に語られる武勇の神であり、その武威への信仰とともに、地域の繁栄と安寧を願う人々の祈りが長く香取神宮に寄せられてきた。香取神宮は、茨城県の鹿島神宮とともに古代から朝廷の崇敬を受け、東国の鎮護を担う重要な神社と位置づけられてきた。御田植祭はこの格式高い香取神宮に伝わる春の大祭で、630年以上にわたって受け継がれてきたと伝えられている。
+
+稲作を国の基とした時代から、豊作はそのまま人々の暮らしと国の安寧に直結する切実な願いであった。天候に左右される稲の実りは人の力だけでは到底及ばないものであり、だからこそ人々は田の神を迎え、その守護を願って神事を営んだ。田植えの所作を神前で一つひとつ丁寧に再現することは、その年の実りをあらかじめ神に祈り、稲の順調な生育を願う予祝の意味を持っていた。農具を手にした所役や田植歌を歌う早乙女といった構成には、田の神に稲の生育を見守ってもらおうとする古来の信仰が色濃く息づいている。長い歳月を経てもなお、農具を用いた田起こしの所作や田舞、田植歌といった古式が損なわれることなく保たれている点に、この神事が地域の人々によって途切れることなく大切に守られてきた歩みがうかがえる。
+
+## 見どころ
+
+御田植祭は二段構えの神事として進行する。1日目に行われるのが「耕田式（こうでんしき）」で、拝殿前庭を斎場とし、鎌・鍬・鋤を手にした所役と牛が登場して、田植え前の田を耕す田起こしの風景を儀式として再現する。実際の農具を用いて田を起こす写実的な所作には、これから始まる稲作の無事を願う祈りが込められている。あわせて8人の稚児による田舞が奉納され、農作業の素朴な所作が、装束をまとった子どもたちの手によって雅やかな舞へと昇華される。働く所作と祈りの舞が一つの場で重なり合うところに、この式の独特の趣がある。
+
+続く田植式では、拝殿前庭から実際の斎田（さいでん）へと場を移し、早乙女手代（さおとめてだい）が田植歌を歌いながら稲の苗を一株ずつ植えていく。桜の咲く季節に、稚児が肩車で御神田へと進み、御神田では早乙女たちが揃いの装束で歌声とともに苗を植える光景は、春の香取神宮を象徴する見どころである。歌に合わせて整然と植えられていく苗の列は、豊作への願いを目に見える形にしたかのようである。農具を実際に用いた写実的な所作と、舞や歌による神への雅やかな奉納とが一体となった構成が、この神事ならではの厚みを生んでいる。古式の装束と所作が一日を通して丁寧に守られるさまは、見る者を稲作とともにあった往時の暮らしへと静かに誘う。
+
+## 開催情報・アクセス
+
+御田植祭は例年4月の第1土・日曜に行われ、1日目に耕田式、2日目に田植式が斎行される（香取神宮の案内では2026年は4月5日に斎行とされている）。会場は千葉県香取市香取に鎮座する香取神宮で、桜の時季と重なる年には、満開の桜のもとで神事が営まれ、神事の厳かさに春の華やぎが加わる。
+
+香取神宮へは公共交通機関での参拝が可能で、香取市は水郷地帯として知られる佐原の近隣に位置する。最寄りの駅からは路線バスやタクシーなどで境内へ向かうことになるため、あらかじめ交通手段を調べておくと安心である。正確な日程や斎行内容は年によって調整されるため、訪れる際は香取神宮の公式発表で確認するとよい。桜の開花状況によって境内の趣も大きく変わるため、開花情報とあわせて計画を立てると一日を満喫できる。
+
+## 周辺の見どころ
+
+香取神宮は、鹿島神宮（茨城県）・息栖神社（茨城県）とともに東国三社の一社に数えられ、関東でも有数の格式を誇る古社である。東国三社は江戸時代に庶民の参詣地としても賑わい、三社をめぐる信仰が広く根づいていた。重厚な社殿や深い杜は、祭礼の時期以外でも参拝者を迎え、荘厳な雰囲気のなかで参拝できる。また、香取市には水郷の風情を今に伝える佐原の古い町並みが残り、舟運で栄えた商家の建物が川沿いに立ち並ぶ景観で知られる。小江戸とも称されるこの町並みは、かつて利根川水運の要衝として繁栄した歴史を今に伝えており、御田植祭の参拝とあわせて巡るのにふさわしい。荘厳な香取神宮の境内と佐原の歴史的景観をともに訪ねれば、下総の地が育んできた信仰と暮らしの文化に深く触れることができる。
+
+## 関連情報
+
+香取神宮御田植祭は、稲作とともにあった日本の暮らしと信仰を今に伝える神事である。耕田式・田植式という二段構えの構成、農具を用いた田起こしの所作、稚児の田舞、早乙女の田植歌といった要素のすべてに、豊作を願う古来の祈りが込められている。こうした古式が現代まで丁寧に受け継がれていること自体が、地域の人々の信仰の篤さを物語っている。開催日や斎行の詳細は年によって変わりうるため、最新の情報は香取神宮の公式発表で確認するのが確実である。','## Overview
+
+The Katori Jingu Otaue-sai (Rice-Planting Festival) is held each April at Katori Jingu Shrine in Katori City, Chiba Prefecture, to pray for an abundant harvest in the coming year. It is a major festival of Katori Jingu, which has long been revered as the ichinomiya (highest-ranking shrine) of the former Shimosa Province, and is said to have a history of more than 630 years. The festival takes the form of a sacred reenactment of the sequence of farm work, from preparing the field before planting through the planting of the seedlings, with officiants and saotome (rice-planting maidens) clad in elegant traditional costume. It is sometimes counted among the three great rice-planting festivals of Japan, alongside such festivals as the otaue-sai in Tsukuba, Ibaraki Prefecture.
+
+## History and Origins
+
+Katori Jingu is an ancient shrine revered as the ichinomiya of the former Shimosa Province, and its enshrined deity is Futsunushi-no-Okami, known as a deity of martial valor. The Otaue-sai is a spring festival handed down at this shrine, said to have been carried on for more than 630 years. In an age when rice cultivation was the foundation of the nation, a good harvest was directly tied to the livelihood of the people and the peace of the realm, an earnest wish. By carefully reenacting the motions of rice planting before the deity, people prayed for the year''s bounty. In its components, the officiants holding farm tools and the saotome singing rice-planting songs, the ancient faith of welcoming the deity of the fields and asking it to watch over the growth of the rice lives on vividly. The fact that the old-style motions have been preserved through the long years speaks to how carefully this rite has been protected by the local community.
+
+## Highlights
+
+The Otaue-sai unfolds as a two-stage rite. On the first day comes the "koden-shiki" (field-tilling ceremony), held in the forecourt of the worship hall, in which officiants holding sickles, hoes, and plows appear together with an ox to reenact, as a ritual, the scene of tilling the field before planting. Alongside this, eight child performers offer a rice-field dance, elevating the motions of farm work into a graceful dance.
+
+In the rice-planting ceremony that follows, the setting moves from the forecourt of the worship hall to the actual sacred rice paddy (saiden), where the saotome handmaidens plant the rice seedlings while singing rice-planting songs. In the season when the cherry blossoms bloom, the children are carried on shoulders to the sacred paddy, where the saotome plant the seedlings to the sound of their songs, a scene that symbolizes Katori Jingu in spring. The combination of motions using actual farm tools with offerings to the deity through dance and song forms the distinctive highlight of this rite.
+
+## Event Information and Access
+
+The Otaue-sai is held annually on the first Saturday and Sunday of April, with the field-tilling ceremony on the first day and the rice-planting ceremony on the second (the shrine''s announcement states that in 2026 it will be observed on April 5). The venue is Katori Jingu Shrine, located in Katori, Katori City, Chiba Prefecture; in years when it coincides with the cherry blossom season, the rite is conducted beneath the blossoms in full bloom.
+
+Katori Jingu can be reached by public transportation, and Katori City lies near Sawara, known as a district of waterways. Because the exact dates and contents of the rite are adjusted from year to year, visitors are advised to confirm through official announcements from Katori Jingu.
+
+## Things to See Nearby
+
+Katori Jingu is counted, together with Kashima Jingu (Ibaraki Prefecture) and Ikisu Shrine (Ibaraki Prefecture), as one of the Three Shrines of the Eastern Provinces, and ranks among the most prestigious ancient shrines in the Kanto region. Its dignified shrine buildings and deep groves welcome worshippers outside the festival period as well. In addition, Katori City retains the old townscape of Sawara, which conveys the atmosphere of a district of waterways, known for its rows of merchant houses that prospered through river commerce. Combining a visit for the Otaue-sai with a tour of the solemn precincts of Katori Jingu and the historic townscape of Sawara offers a chance to encounter the culture of faith and daily life nurtured in the land of Shimosa.
+
+## Related Information
+
+The Katori Jingu Otaue-sai is a rite that conveys to the present day the daily life and faith of Japan that existed alongside rice cultivation. Every element, the two-stage structure of the field-tilling and rice-planting ceremonies, the motions using farm tools, the children''s rice-field dance, and the saotome''s rice-planting songs, carries the ancient prayer for an abundant harvest. Because the dates and details of the rite may change from year to year, the latest information is best confirmed through official announcements from Katori Jingu.','katori-jingu-otaue-sai','katori-jingu-otaue-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17193576','今宮祭','Imamiya Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine','京都府','kinki',NULL,NULL,994,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Imamiya%20shrine%20Kanko-sai%202013-05B.JPG','https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD',NULL,80,'drafted','## 概要
 
 今宮祭（いまみやまつり）は、京都市北区紫野にある今宮神社で毎年5月に行われる祭礼である。平安京遷都以前にさかのぼる疫神信仰を起源とし、京の都を疫病から守ることを願って長く続けられてきた歴史ある祭りである。5月のうち複数日にわたって神事が連なり、3基の神輿と数多くの剣鉾が氏子地域の都大路を巡行する。先導する剣鉾の鈴の音、力を合わせて担がれる神輿、車太鼓や八乙女らが織りなす行列は、都の祭礼ならではの典雅さと賑わいを併せ持つ。神事は出御から還御まで日を追って進むため、訪れる日によって異なる祭りの表情に出会えるのも特色である。同じ今宮神社で4月に営まれる「やすらい祭」とともに、地域に深く根ざした祭礼として今も人々に親しまれている。
@@ -10357,11 +10467,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
