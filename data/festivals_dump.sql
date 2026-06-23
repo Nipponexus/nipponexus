@@ -1228,7 +1228,63 @@ The venue is Tagata Shrine (152 Tagata-chō, Komaki City, Aichi Prefecture). Acc
 
 Komaki City features tourism resources for experiencing the history and culture of the Owari region, including Komaki Castle, the Komaki-yama Historic Park, and nearby Inuyama City''s Inuyama Castle (a National Treasure), Meiji-mura open-air museum, Little World, and the Inuyama Hot Spring resort. As a counterpart festival to Hōnensai, the "Hōnensai (Bonten Festival)" held at Ōagata Shrine in neighboring Inuyama City—featuring a female-symbol sacred object and held on the Sunday closest to March 15—is traditionally visited as part of a paired sightseeing tour.','honensai-tagata-jinja','honensai-tagata-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q23044788','イメージフォーラム・フェスティバル','Image Forum Festival',NULL,NULL,'Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1987,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Image_Forum_Festival',45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q21652601','大阪アジアン映画祭','Osaka Asian Film Festival',NULL,'film festival','Q35765','大阪市','Osaka','大阪府','kinki',NULL,NULL,2005,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Asahi%20Broadcasting%20Corporation%20headquarter.JPG','https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Osaka_Asian_Film_Festival',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q21652601','大阪アジアン映画祭','Osaka Asian Film Festival',NULL,'film festival','Q35765','大阪市','Osaka','大阪府','kinki',NULL,NULL,2005,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Asahi%20Broadcasting%20Corporation%20headquarter.JPG','https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Osaka_Asian_Film_Festival',80,'drafted','## 概要
+
+大阪アジアン映画祭（おおさかアジアンえいがさい、Osaka Asian Film Festival、略称OAFF）は、大阪市で毎年春に開催される、アジア映画に特化した国際映画祭である。「大阪発。日本全国、そしてアジアへ！」をテーマに掲げ、アジア各国・地域の最新作を中心に、選りすぐりの作品を一堂に上映する。アジア映画の新たな才能や話題作を日本に紹介する場として知られ、コンペティション部門をはじめとする複数の部門を通じて、多彩な作品が観客のもとに届けられる。商業的な大作映画から、まだ日本では知られていない国の意欲作まで、幅広い作品に出会えるのがこの映画祭の大きな特色である。2005年に始まり、回を重ねるごとに上映規模を広げてきた。第20回となる2025年には、19の国・地域から選ばれた67作品が上映されるなど、アジア映画の今を映し出す催しとして定着している。映画の都市・大阪を拠点に、アジアと日本、そして世界を映画でつなぐ役割を担っており、毎年春の到来とともに多くの映画ファンが心待ちにする催しとなっている。
+
+## 歴史・由来
+
+大阪アジアン映画祭は2005年に始まった。アジア各国・地域で次々と生み出される映画を、大阪を拠点に日本の観客へ紹介することを目的とした映画祭であり、開始当初の数年間は秋の11月に開催されていた。その後、2007年を最後に開催時期を見直し、以降は春の3月開催を基本とする形へと移行した。この時期の変更を経て、大阪アジアン映画祭は春を彩る映画の祭典として広く定着していった。秋から春への移行は、ほかの映画祭との時期の重なりを避け、独自の存在感を確立するうえでも意味を持った。
+
+回を重ねるなかで、上映作品の数や招聘される国・地域は着実に広がってきた。アジア映画は近年、世界の主要な映画祭で高い評価を受ける作品を相次いで生み出しており、その潮流のなかで本映画祭は、まだ日本で広く知られていない新鋭の監督や話題作を紹介する窓口としての役割を強めてきた。日本で一般公開される機会の少ない国・地域の作品を、大きなスクリーンで観られる貴重な場でもある。「大阪発。日本全国、そしてアジアへ！」というテーマには、地方都市である大阪を起点に、アジアの映画文化を日本全国へ、そしてアジア全体へと発信しようとする志が込められている。東京に集中しがちな映画文化の発信を、大阪という地から行う点に、この映画祭の独自の意義がある。20回を超える歴史を積み重ねてきたことは、この映画祭がアジア映画の紹介の場として広く認知されてきた証といえる。
+
+## 見どころ
+
+大阪アジアン映画祭の見どころは、複数の部門にわたって多彩なアジア映画が上映される点にある。中心となるのはアジア映画の最新作を集めたコンペティション部門で、ここでは新鋭からベテランまで、さまざまな作り手の意欲作が競い合い、受賞作には注目が集まる。あわせて、特に注目すべき作品を取り上げる特別注視部門や、自主制作・インディペンデント作品を紹介する部門なども設けられ、商業大作からは出会いにくい個性的な作品にも触れることができる。部門ごとに作品の傾向が異なるため、観客はそれぞれの関心にあわせて作品を選び、アジア映画の多彩な広がりを味わうことができる。
+
+映画祭ならではの魅力は、上映だけにとどまらない。話題作のオープニング上映や、監督・出演者を招いてのトークなど、観客が作品の背景に触れられる機会も用意される。作り手の言葉を直接聞くことで、作品への理解はいっそう深まる。アジアの多様な国・地域から集められた作品を通じて、それぞれの社会や文化、人々の暮らしの一端を映像から知ることができるのも、アジア映画に特化したこの映画祭ならではの体験である。普段は劇場で公開されることの少ない国の作品に出会えることも、来場者にとって大きな楽しみとなっている。慌ただしい日常を離れ、数日間にわたってアジア映画の「今」を集中して味わえることが、この映画祭の最大の見どころである。
+
+## 開催情報・アクセス
+
+大阪アジアン映画祭は、近年は例年3月に大阪市内で開催されている。第20回（2025年）は3月14日から23日にかけて行われ、19の国・地域から67作品が上映された。会場は大阪市内のホールや映画館などが用いられ、年によって会場の構成は変わりうる。
+
+上映スケジュールやチケットの販売、会場の詳細は年ごとに異なるため、訪れる際は大阪アジアン映画祭の公式発表で最新情報を確認するのが確実である。大阪市内は鉄道網が発達しており、会場へのアクセスは公共交通機関の利用が便利である。お目当ての作品がある場合は、上映回が限られることもあり、人気作は早くにチケットが売り切れることもあるため、早めにスケジュールとチケット情報を確認しておくとよい。複数の作品を効率よく観るには、上映時間と会場をあらかじめ組み立てておくと安心である。
+
+## 周辺の見どころ
+
+会場となる大阪市は、商都として栄えてきた西日本有数の大都市であり、映画祭の前後にも楽しめる見どころが数多くある。にぎやかな繁華街や、水の都ならではの川沿いの景観、豊かな食文化など、大阪ならではの魅力を映画鑑賞とあわせて味わうことができる。映画祭は春の開催であるため、市内の公園や名所では桜をはじめとする春の風景も楽しめる時季にあたる。上映の合間に街へ出て、大阪らしい食やにぎわいに触れるのも、映画祭ならではの過ごし方である。アジア各国の作品に触れたあとに、アジアからの来訪者も多く行き交う国際都市・大阪の街を歩けば、映画で見たアジアの文化がより身近に感じられるだろう。
+
+## 関連情報
+
+大阪アジアン映画祭は、2005年に始まり、アジア映画に特化した映画祭として20回を超える歴史を積み重ねてきた。「大阪発。日本全国、そしてアジアへ！」をテーマに、コンペティション部門をはじめとする多彩な部門を通じて、アジア各国・地域の最新作を日本の観客に届けている。アジア映画の活況を背景に、その役割はますます重みを増している。上映作品やスケジュール、会場、チケット情報は年ごとに大きく変わるため、訪れる前には大阪アジアン映画祭の公式発表で最新情報を確認するのが確実である。','## Overview
+
+The Osaka Asian Film Festival (OAFF) is an international film festival specializing in Asian cinema, held each spring in Osaka City. Under the theme "From Osaka. To all of Japan, and on to Asia!", it brings together carefully selected works, centered on the latest films from countries and regions across Asia, for screening in one place. Known as a venue for introducing new talent and notable works of Asian cinema to Japan, it delivers a wide variety of films to audiences through several sections, including a competition section. It began in 2005 and has expanded the scale of its screenings with each edition. In 2025, its 20th edition, 67 works selected from 19 countries and regions were screened, and it has become established as an event that reflects the present state of Asian cinema. Based in Osaka, a city of film, it plays the role of connecting Asia, Japan, and the world through cinema.
+
+## History and Origins
+
+The Osaka Asian Film Festival began in 2005. It is a film festival whose aim is to introduce, from a base in Osaka, the films being produced one after another in countries and regions across Asia to Japanese audiences, and for the first several years after its start it was held in November in autumn. Afterward, ending with 2007, it reviewed its timing and shifted to a format with a March spring schedule as its basis. With this change of timing, the Osaka Asian Film Festival became established as a film festival that adorns the spring.
+
+Over successive editions, the number of films screened and the countries and regions invited have steadily expanded. In recent years, Asian cinema has produced, one after another, works highly acclaimed in world cinema, and amid that current the festival has strengthened its role as a window for introducing up-and-coming directors and notable works not yet widely known in Japan. The theme "From Osaka. To all of Japan, and on to Asia!" embodies an aspiration to transmit the film culture of Asia throughout Japan, and on to Asia as a whole, starting from Osaka, a regional city. The accumulation of a history of more than 20 editions is proof that this festival has come to be widely recognized as a venue for introducing Asian cinema.
+
+## Highlights
+
+The highlights of the Osaka Asian Film Festival lie in the screening of a wide variety of Asian films across several sections. At the center is the competition section, which gathers the latest works of Asian cinema, where ambitious works by a range of creators, from newcomers to veterans, vie with one another. Alongside this, sections such as a special focus section taking up especially noteworthy works, and a section introducing self-produced and independent films, are also set up, allowing audiences to encounter distinctive works rarely found among commercial blockbusters.
+
+The appeal unique to a film festival does not stop at screenings. Opportunities for audiences to encounter the background of the works are also provided, such as the opening screening of a notable film and talks featuring directors and cast members. Through works gathered from the diverse countries and regions of Asia, one can also learn, from the images, a glimpse of each society, culture, and the daily life of its people, an experience unique to this festival specializing in Asian cinema. Being able to encounter films from countries rarely released in theaters is also a great pleasure for visitors. The greatest highlight of this festival is the few days in which one can intensively savor the "present" of Asian cinema.
+
+## Event Information and Access
+
+In recent years, the Osaka Asian Film Festival has been held in March in Osaka City. The 20th edition (2025) was held from March 14 to 23, with 67 works from 19 countries and regions screened. The venues are halls and cinemas in Osaka City, and the configuration of venues may change from year to year.
+
+Because the screening schedule, ticket sales, and venue details differ from year to year, it is best to confirm the latest information through official announcements from the Osaka Asian Film Festival when visiting. Osaka City has a well-developed rail network, and access to the venues is convenient by public transportation. If there is a particular work you wish to see, the number of screenings may be limited, so it is advisable to check the schedule and ticket information early.
+
+## Things to See Nearby
+
+Osaka City, the venue, is one of the largest metropolises in western Japan, having prospered as a commercial city, and there are many sights to enjoy before and after the festival as well. One can savor the charms unique to Osaka, such as bustling downtown districts, riverside scenery characteristic of a city of water, and a rich food culture, together with film viewing. Because the festival is held in spring, it falls in a season when one can also enjoy spring scenery, including cherry blossoms, at parks and famous spots in the city. After encountering works from various Asian countries, walking the streets of Osaka, an international city through which many visitors from Asia also pass, may make the Asian cultures seen in the films feel all the more familiar.
+
+## Related Information
+
+The Osaka Asian Film Festival, which began in 2005, has accumulated a history of more than 20 editions as a film festival specializing in Asian cinema. Under the theme "From Osaka. To all of Japan, and on to Asia!", it delivers the latest works from countries and regions across Asia to Japanese audiences through a wide variety of sections, including a competition section. Because the films, schedule, venues, and ticket information change greatly from year to year, it is best to confirm the latest information through official announcements from the Osaka Asian Film Festival before visiting.','osaka-asian-film-festival','osaka-asian-film-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21075984','なら国際映画祭','Nara International Film Festival',NULL,'film festival','Q169134','奈良市','Nara','奈良県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%89%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Nara_International_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16941387',NULL,'Matsuyama Shiroyama Koen Cherry Blossom Festival',NULL,'festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Matsuyama_Shiroyama_Koen_Cherry_Blossom_Festival',25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q13423122','七夕','Qixi Festival','アジア圏における節句・節日のひとつ','Chinese valentine festival, on the seventh day of the seventh month of the lunar calendar',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Niulang%20and%20Zhinv%20%28Long%20Corridor%29.JPG','https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95','https://en.wikipedia.org/wiki/Qixi_Festival',85,'skipped',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -8855,7 +8911,63 @@ The shrine is accessible by car or taxi in approximately 10 minutes from Hirata-
 ## Surrounding Attractions
 
 Suzuka City is internationally renowned as a motor sports mecca, home to the famous Suzuka Circuit racetrack. The area features a concentration of ancient shrines and historical sites narrating the ancient history of western Ise Province, including Tsubaki Grand Shrine (Sarutahiko Daihongū), the ruins of the Ise Provincial Temple, and Kasado Shrine. Combined sightseeing tours are possible incorporating the traditional townscape of Kameyama City and Seki-juku, the Yunoyama Hot Spring resort in Komono Town, and Yokkaichi Port, allowing visitors to explore the diverse tourism resources of the Hokusei region.','miyake-jinja-suzuka','miyake-jinja-suzuka',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q22124175','文京つつじまつり','Bunkyō Azalea Festival',NULL,NULL,'Q335612','根津神社','Nezu Shrine',NULL,NULL,NULL,NULL,1969,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nezu-jinja-3.jpg','https://ja.wikipedia.org/wiki/%E6%96%87%E4%BA%AC%E3%81%A4%E3%81%A4%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q22124175','文京つつじまつり','Bunkyō Azalea Festival',NULL,NULL,'Q335612','根津神社','Nezu Shrine','東京都','kanto',NULL,NULL,1969,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Nezu-jinja-3.jpg','https://ja.wikipedia.org/wiki/%E6%96%87%E4%BA%AC%E3%81%A4%E3%81%A4%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+文京つつじまつり（ぶんきょうつつじまつり）は、東京都文京区の根津神社で毎年春に行われる、つつじを主役とした祭りである。根津神社の境内にある「つつじ苑」では、約2000坪の広大な敷地に約100種3000株ものつつじが植えられており、その開花にあわせてつつじまつりが催される。色とりどりのつつじが斜面を埋め尽くすように咲き誇る景観は圧巻で、都内有数のつつじの名所として知られている。朱色の社殿とつつじの花が織りなす華やかな眺めは、春の根津神社を象徴する光景である。つつじは背の低い低木のため花に近づいて鑑賞でき、間近でその色や形を楽しめるのも特徴である。2026年（令和8年）には第55回を数え、半世紀を超えて続く文京区を代表する春の行事として、地元はもとより各地から多くの人々を集めている。
+
+## 歴史・由来
+
+文京つつじまつりの舞台となる根津神社は、文京区根津に鎮座する由緒ある神社である。現在の社殿は江戸時代に造営されたもので、国の重要文化財に指定された建造物が7棟現存するなど、江戸の社寺建築の姿を今に伝える貴重な神社として知られている。本殿・幣殿・拝殿が一体となった権現造の社殿や、朱塗りの楼門は、当時の建築の粋を伝えるものであり、つつじの花とあわせて見る者を魅了する。江戸の面影を色濃く残す社殿を背景に花を愛でられる点が、ほかのつつじの名所にはないこの祭りの趣を生んでいる。
+
+つつじ苑のつつじには、江戸時代にさかのぼる由来がある。境内に植えられたつつじは、その時代に上州館林（現在の群馬県館林市）から移植されたものと伝えられ、当時から「つつじが岡」と称されるほどの名所であった。館林は古くからつつじの名所として知られた土地であり、その地のつつじが江戸の根津へともたらされたことが、現在の名所の礎となった。以来、つつじは根津神社の境内で大切に育てられ、現在では約100種3000株を数えるまでになっている。豆つぶのように小さな花をつけるフジツツジや、風車のような花びらが特徴のハナグルマなど、多様な品種がそろう点もこのつつじ苑の魅力である。長い歴史のなかで受け継がれ、世代を超えて手入れされてきたつつじが、今日の文京つつじまつりを支えている。
+
+## 見どころ
+
+最大の見どころは、つつじ苑を埋め尽くす約100種3000株のつつじである。つつじ苑は約2000坪に及ぶ広大な庭園で、斜面一面に植えられたつつじが咲きそろうと、色とりどりの花の絨毯を敷き詰めたような景観が広がる。苑内には観賞のための小道が設けられ、花々のあいだを縫うように歩きながら間近でつつじを楽しめる。つつじは背の低い低木であるため、花に近い距離で観賞でき、その色や形をつぶさに見られるのも特徴である。品種ごとに開花の時期が少しずつ異なるため、まつりの期間を通じて次々と見頃を迎える花々を楽しむことができ、訪れる時期によって異なる表情に出会える。
+
+フジツツジやハナグルマをはじめとする多彩な品種が集められているため、ひと口につつじといっても、花の大きさや色合い、花びらの形のさまざまな違いを見比べられる。早咲きから遅咲きまで品種の幅が広いことも、長い期間にわたって花を楽しめる理由である。朱色の社殿を背景に咲き誇るつつじの眺めは、神社の荘厳さと花の華やぎが響き合い、写真に収めたくなる景観をつくり出す。まつりの期間中は、つつじ苑のほかにも植木市や露店などが境内を彩り、多くの参拝者と花見客で賑わう。春の一日を、花と社殿の美しさに包まれて過ごせるのが、この祭りの醍醐味である。
+
+## 開催情報・アクセス
+
+文京つつじまつりは、つつじの開花にあわせて例年4月に開催される。第55回は2026年（令和8年）4月1日（水）から4月30日（木）まで行われ、つつじ苑の入苑期間も同じ期間に設けられている。つつじ苑の開苑時間は9時00分から17時30分まで（初日のみ11時開苑）とされている。会場は東京都文京区根津の根津神社である。
+
+つつじの見頃は開花状況によって年ごとに前後するため、訪れる際は根津神社の公式発表で開花状況や開苑情報を確認するとよい。品種によって開花の時期がずれるため、最盛期を狙うなら開花情報を確認してから訪れるのが確実である。アクセスは地下鉄が便利で、複数の路線の駅から徒歩圏に位置する。期間中、特に見頃の週末は多くの来場者が見込まれるため、混雑する時間帯を避けて朝のうちに訪れるのも一案である。
+
+## 周辺の見どころ
+
+根津神社のある文京区根津周辺は、いわゆる「谷根千（やねせん）」と呼ばれる、谷中・根津・千駄木の一帯に含まれる地域である。下町情緒の残る古い町並みや個性的な商店、入り組んだ路地が点在し、散策に人気のエリアとなっている。つつじまつりで花を楽しんだあとに周辺の町を歩けば、昔ながらの東京の風情に触れることができる。古民家を生かしたカフェや手仕事の店なども多く、ゆっくりと町歩きを楽しめる。根津神社そのものも、つつじの季節以外でも参拝でき、国の重要文化財に指定された荘厳な社殿建築をゆっくりと鑑賞できる。文豪ゆかりの地としても知られるこの界隈は、歴史と文化の香り漂う散策に格好の場所である。
+
+## 関連情報
+
+文京つつじまつりは、江戸時代に上州館林から移植されたつつじを起源とし、国の重要文化財を擁する根津神社の境内で半世紀を超えて受け継がれてきた春の祭りである。約100種3000株のつつじが咲き誇るつつじ苑と、朱色の社殿が織りなす景観は、都内屈指のつつじの名所として広く親しまれている。長い歴史のなかで地域に守り育てられてきたつつじが、今日も多くの人を惹きつけている。開催期間やつつじ苑の開苑時間、見頃は年ごとに変わるため、訪れる前には根津神社の公式発表で最新情報を確認するのが確実である。','## Overview
+
+The Bunkyo Azalea Festival (Bunkyo Tsutsuji Matsuri) is a festival featuring azaleas, held each spring at Nezu Shrine in Bunkyo Ward, Tokyo. In the "Tsutsuji-en" (azalea garden) within the precincts of Nezu Shrine, about 3,000 azalea plants of some 100 varieties are planted across a vast site of about 2,000 tsubo, and the azalea festival is held in step with their blossoming. The sight of azaleas in a riot of color blooming as if to cover the slope is overwhelming, and the garden is known as one of the leading azalea spots in Tokyo. The gorgeous view woven by the vermilion shrine buildings and the azalea flowers is a scene that symbolizes Nezu Shrine in spring. In 2026 it marks its 55th occurrence, and as a spring event representative of Bunkyo Ward that has continued for more than half a century, it draws many people from far and wide as well as from the local area.
+
+## History and Origins
+
+Nezu Shrine, the setting of the Bunkyo Azalea Festival, is a venerable shrine located in Nezu, Bunkyo Ward. Its present shrine buildings were constructed in the Edo period, and with seven structures designated as Important Cultural Properties of the nation still extant, it is known as a precious shrine that conveys the form of Edo-period shrine and temple architecture to the present day. The vermilion-lacquered gongen-zukuri shrine buildings and the tower gate fascinate viewers when seen together with the azalea flowers.
+
+The azaleas of the Tsutsuji-en have an origin that dates to the Edo period. The azaleas planted in the precincts are said to have been transplanted in that era from Joshu Tatebayashi (present-day Tatebayashi City, Gunma Prefecture), and from that time the spot was renowned enough to be called "Tsutsuji-ga-oka" (azalea hill). Tatebayashi was a place long known as a famous azalea spot, and the fact that azaleas from that land were brought to Nezu in Edo became the foundation of the present-day famous spot. Ever since, the azaleas have been carefully cultivated in the precincts of Nezu Shrine, and today they number some 100 varieties and 3,000 plants. The presence of diverse varieties, such as the Fuji-tsutsuji that bears tiny flowers like beans and the Hana-guruma characterized by petals like a pinwheel, is also a charm of this azalea garden. The azaleas handed down through this long history sustain today''s Bunkyo Azalea Festival.
+
+## Highlights
+
+The greatest highlight is the some 100 varieties and 3,000 azalea plants that fill the Tsutsuji-en. The garden is a vast one extending over about 2,000 tsubo, and when the azaleas planted across the entire slope bloom in unison, a view spreads out as if a carpet of flowers in many colors had been laid down. Because azaleas are low shrubs, they can be appreciated from close to the flowers, and being able to enjoy their colors and forms up close is another feature. Because the blossoming period differs slightly from variety to variety, one can enjoy flowers reaching their peak one after another throughout the festival period.
+
+Because diverse varieties such as the Fuji-tsutsuji and the Hana-guruma are gathered, even though all are called azaleas, one can compare the various differences in the size and hue of the flowers and the shape of the petals. The view of the azaleas blooming against the backdrop of the vermilion shrine buildings, in which the solemnity of the shrine and the gorgeousness of the flowers resonate together, creates a scene one wishes to capture in a photograph. During the festival period, in addition to the Tsutsuji-en, a plant market and stalls also color the precincts, bustling with many worshippers and flower viewers. Being able to spend a spring day wrapped in the beauty of flowers and shrine buildings is the joy of this festival.
+
+## Event Information and Access
+
+The Bunkyo Azalea Festival is held, in step with the blossoming of the azaleas, in April each year. The 55th occurrence is held from Wednesday, April 1, to Thursday, April 30, 2026, with the entry period for the Tsutsuji-en set for the same period. The garden''s opening hours are from 9:00 a.m. to 5:30 p.m. (with the garden opening at 11:00 a.m. on the first day only). The venue is Nezu Shrine in Nezu, Bunkyo Ward, Tokyo.
+
+Because the peak viewing of the azaleas shifts from year to year depending on the blossoming conditions, visitors are advised to confirm the blossoming status and garden-opening information through official announcements from Nezu Shrine. Access is convenient by subway, located within walking distance of stations on several lines. Because many visitors are expected during the period, visiting outside the crowded hours is one idea.
+
+## Things to See Nearby
+
+The area around Nezu in Bunkyo Ward, where Nezu Shrine is located, is part of the district known as "Yanesen," comprising Yanaka, Nezu, and Sendagi. Old townscapes retaining the atmosphere of the old downtown, distinctive shops, and alleys are scattered about, making it a popular area for strolling. Walking the surrounding town after enjoying the flowers at the azalea festival allows one to encounter the old-fashioned charm of Tokyo. Nezu Shrine itself can be visited outside the azalea season as well, allowing leisurely appreciation of the solemn shrine architecture designated as Important Cultural Properties of the nation. This neighborhood, also known as a place associated with literary figures, is an ideal place for a stroll fragrant with history and culture.
+
+## Related Information
+
+The Bunkyo Azalea Festival is a spring festival that originated with azaleas transplanted from Joshu Tatebayashi in the Edo period and has been carried on for more than half a century in the precincts of Nezu Shrine, which holds Important Cultural Properties of the nation. The view woven by the Tsutsuji-en, where some 100 varieties and 3,000 azalea plants bloom, and the vermilion shrine buildings is widely cherished as one of the foremost azalea spots in Tokyo. Because the festival period, the garden''s opening hours, and the peak viewing change from year to year, it is best to confirm the latest information through official announcements from Nezu Shrine before visiting.','bunkyo-tsutsuji-matsuri','bunkyo-tsutsuji-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q30922504','きさわ樹氷まつり','Kisawa Juhyō Matsuri',NULL,'festival','Q11519197','木沢村','Kisawa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%95%E3%82%8F%E6%A8%B9%E6%B0%B7%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24896695','姥神大神宮渡御祭','Ubagami Daijingū Togyosai','北海道江差町にある姥神大神宮の例大祭',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A5%9E%E8%BC%BF%E6%B8%A1%E5%BE%A11.jpg','https://ja.wikipedia.org/wiki/%E5%A7%A5%E7%A5%9E%E5%A4%A7%E7%A5%9E%E5%AE%AE%E6%B8%A1%E5%BE%A1%E7%A5%AD',NULL,85,'drafted','姥神大神宮渡御祭（うばがみだいじんぐうとぎょさい）は、北海道檜山郡江差町(えさしちょう)の姥神大神宮の例大祭で、毎年8月に行われる。370年以上の歴史を誇る北海道最古の祭りとされ、絢爛豪華な山車(やま)が日本海に面した港町・江差を練り歩く、北海道を代表する勇壮な祭礼である。
 
