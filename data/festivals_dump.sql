@@ -2702,35 +2702,69 @@ Each team performs led by a jikatasha—an elaborately decorated sound truck—d
 Today the festival features around 200 teams and some 20,000 dancers, ranking among the three great festivals of Shikoku. As the original source of the "Yosakoi-style" festivals that have since spread across Japan and around the world—most notably the YOSAKOI Soran Festival in Sapporo—its influence remains profound and undiminished.','yosakoi-matsuri','yosakoi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q774193','久喜の提灯祭り・天王様','Lantern Festival of Kuki',NULL,NULL,'Q47535','久喜市','Kuki','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kuki%20Ch%C5%8Dchin%20Matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98',NULL,80,'drafted','## 概要
 
-久喜の提灯祭り・天王様は、埼玉県久喜市で行われる、旧久喜町の鎮守である八雲神社の祭礼です。約240年の歴史を誇る伝統的な夏祭りで、毎年7月12日と18日に開催されます。最大の特色は、昼と夜とで山車の姿ががらりと変わることにあります。昼間は精巧な人形を飾った人形山車が町を巡行し、夜になると人形を取り外して、一台あたり約500個もの提灯で覆い尽くした提灯山車へと組み替えられます。夜の闇のなかを、無数の提灯を灯した七台の山車が練り歩く光景は幻想的で、関東を代表する提灯祭りの一つとして知られています。
+久喜の提灯祭り・天王様は、埼玉県久喜市で行われる、旧久喜町の鎮守である八雲神社の祭礼です。約240年の歴史を誇る伝統的な夏祭りで、毎年7月12日と18日の二日間にわたって開催されます。この祭り最大の特色は、昼と夜とで山車の姿ががらりと変わることにあります。昼間は精巧な人形を飾った華やかな人形山車が町を巡行し、夜になると人形を取り外して、一台あたり約500個もの提灯で覆い尽くした提灯山車へと組み替えられます。夜の闇のなかを、無数の提灯を灯した七台の山車が練り歩く光景はまことに幻想的で、関東を代表する提灯祭りの一つとして広く知られています。
 
-一日のうちに昼と夜で二つの異なる祭りの表情を味わえるという、ほかではあまり見られない構成が、久喜の提灯祭りの大きな魅力です。
+一日のうちに昼と夜で二つの異なる祭りの表情を味わえるという、ほかではあまり見られない構成こそが、久喜の提灯祭りの大きな魅力です。同じ山車が、昼は人形を主役とした端正な姿を見せ、夜は提灯の灯に包まれた幻想的な姿へと変身する。その鮮やかな対比に、訪れる人は一日を通して目を奪われます。災害からの復興と疫病退散という人々の切実な祈りを起源としながら、今日では夏の風物詩として地域に深く根づいています。
 
 ## 歴史・由来
 
-祭りの由来は、天明3年（1783年）にさかのぼります。この年、浅間山の大噴火が起こり、降り積もった火山灰によって桑をはじめとする夏作物が全滅するなど、地域は甚大な被害を受けました。この災厄から立ち直ろうと、本町の祭礼用の山車を借りて町内を引き回したのが、提灯祭りの始まりと伝えられています。天災からの復興を願う人々の祈りが、祭りの原点となっているのです。
+祭りの由来は、天明3年（1783年）にさかのぼります。この年、浅間山の大噴火が起こり、噴出した大量の火山灰が広い範囲に降り積もりました。久喜の地でも、桑をはじめとする夏作物が灰に覆われて全滅するなど、地域は甚大な被害を受けました。この未曾有の災厄から何とか立ち直ろうと、人々が本町の祭礼用の山車を借りて町内を引き回したのが、提灯祭りの始まりと伝えられています。打ちひしがれた地域を再び奮い立たせ、復興への願いを込めて山車を引いたという、その起源そのものに、この祭りの精神が表れています。
 
-また、この祭りは旧久喜町の鎮守・八雲神社の祭礼であり、かつて天王院の境内に祀られていた牛頭天王社の疫病退散・厄除けを祈念する夏祭りに由来するともされています。牛頭天王は疫病除けの神として広く信仰され、各地の「天王様」と呼ばれる夏祭りの中心となってきました。久喜の祭りも、災害からの復興と疫病退散という、人々の切実な願いを背景に育まれてきた行事です。天明3年の起源から数えて約240年、地域の人々の手で大切に受け継がれ、今日まで続いています。
+また、この祭りは旧久喜町の鎮守・八雲神社の祭礼であり、かつて天王院の境内に祀られていた牛頭天王社の、疫病退散・厄除けを祈念する夏祭りに由来するともされています。牛頭天王は古くから疫病除けの神として広く信仰され、各地で「天王様」と呼ばれる夏祭りの中心となってきました。夏は疫病が流行しやすい季節であり、人々は牛頭天王に祈ることで、災いを退け無事に夏を越そうとしたのです。久喜の祭りも、天災からの復興と疫病退散という、人々の二重の切実な願いを背景に育まれてきた行事と言えます。天明3年の起源から数えて約240年、地域の人々の手で世代を超えて大切に受け継がれ、今日まで途切れることなく続いています。
 
 ## 見どころ
 
-最大の見どころは、昼と夜で山車の姿が一変する点です。昼間は、歴史上の人物や物語を題材にした人形を飾った華やかな人形山車が町を巡行します。日が暮れると、人々は人形を取り外し、山車を提灯で飾る作業に取りかかります。一台あたり約500個もの提灯が取り付けられ、山車全体が提灯の灯に包まれた提灯山車へと変身します。
+最大の見どころは、昼と夜で山車の姿が一変する点に尽きます。昼間は、歴史上の人物や物語の名場面を題材にした人形を高く掲げた、華やかな人形山車が町を巡行します。精緻につくり込まれた人形は、それ自体が見ごたえのある工芸品であり、昼の祭りの主役として沿道の目を楽しませます。
 
-夜の部では、無数の提灯を灯した山車が町内を練り歩き、闇のなかに浮かび上がる提灯の連なりが沿道を埋め尽くします。昼の人形山車の整った美しさと、夜の提灯山車の幻想的な輝きという、対照的な二つの表情を一日のうちに楽しめるのは、この祭りならではの醍醐味です。山車を引き回す人々の活気と、揺らめく提灯の灯が織りなす夜の情景は、訪れる人の心に深く刻まれます。
+そして日が暮れ始めると、町は一気にあわただしくなります。人々は山車から人形を取り外し、代わりに大量の提灯を取り付ける作業に総出で取りかかるのです。一台あたり約500個もの提灯が次々と取り付けられ、やがて山車全体が提灯の灯にすっぽりと包まれた提灯山車へと姿を変えます。この昼から夜への組み替え作業そのものが、祭りの見どころの一つとなっています。
+
+夜の部では、無数の提灯を灯した山車が町内を練り歩き、闇のなかに浮かび上がる提灯の連なりが沿道を埋め尽くします。揺らめく無数の灯と、山車を引き回す人々の活気とが織りなす夜の情景は圧巻で、昼の人形山車の整った美しさとはまったく異なる、熱気と幻想に満ちた世界が広がります。昼と夜、二つの対照的な表情を一日のうちに味わえることこそが、この祭りならではの醍醐味であり、訪れる人の心に深く刻まれます。
 
 ## 開催情報・アクセス
 
-久喜の提灯祭り・天王様は、毎年7月12日と18日に埼玉県久喜市で開催されます。八雲神社の祭礼として、旧久喜町の中心市街地一帯が祭りの舞台となります。昼の人形山車と夜の提灯山車では見どころの時間帯が異なるため、両方を楽しみたい場合は日中から夜にかけて滞在するのがおすすめです。
+久喜の提灯祭り・天王様は、毎年7月12日と18日に埼玉県久喜市で開催されます。八雲神社の祭礼として、旧久喜町の中心市街地一帯が祭りの舞台となり、二日間にわたって人形山車と提灯山車が町を巡行します。昼の人形山車と夜の提灯山車では見どころの時間帯がはっきりと分かれるため、両方を存分に楽しみたい場合は、日中から夜にかけて滞在し、昼夜の変身を見届けるのがおすすめです。
 
-アクセスは、JR宇都宮線・東武伊勢崎線の久喜駅が玄関口となり、首都圏からの来訪にも便利です。祭礼当日は中心市街地で交通規制が行われるため、公共交通機関の利用が推奨されます。
+アクセスは、JR宇都宮線・東武伊勢崎線が乗り入れる久喜駅が玄関口となり、首都圏各方面からの来訪にも便利です。祭礼当日は中心市街地で交通規制が行われ、大勢の見物客でにぎわうため、自家用車よりも公共交通機関を利用しての来場が推奨されます。
 
 ## 周辺の見どころ
 
-久喜市は埼玉県東部に位置し、関東平野の田園と歴史ある市街地が共存するまちです。八雲神社をはじめとする寺社や、旧久喜町の面影を残す町並みを散策できます。周辺には鷲宮神社など歴史ある神社もあり、祭りと合わせて地域の信仰や歴史にふれる旅程を組むことができます。
+久喜市は埼玉県東部に位置し、関東平野の豊かな田園と歴史ある市街地が共存するまちです。祭りの中心となる八雲神社をはじめ、旧久喜町の面影を残す町並みを散策すれば、この地に根づいた信仰と暮らしの歴史を感じることができます。周辺には、アニメの舞台としても知られる鷲宮神社など、歴史ある神社も点在しており、提灯祭りと合わせて地域の信仰や文化にふれる旅程を組むことができます。夏の祭りの熱気を味わった後に、静かな寺社をめぐって対照的な時間を過ごすのも一興です。
 
 ## 関連情報
 
-久喜の提灯祭り・天王様は、市の文化財として「久喜八雲神社の山車行事」が指定されており、地域の歴史と信仰を今に伝える貴重な行事です。天明3年の浅間山噴火という大災害からの復興を願って始まり、牛頭天王の疫病退散・厄除けの信仰と結びついて発展してきたその成り立ちは、自然災害や疫病と向き合いながら暮らしを守ろうとした人々の祈りそのものです。昼の人形山車から夜の提灯山車への鮮やかな変身という独自の形式とともに、約240年の歴史を持つ夏祭りとして、これからも久喜の夏を彩り続けます。',NULL,'kuki-chochin-matsuri','kuki-chochin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+久喜の提灯祭り・天王様は、その伝統的価値が認められ、「久喜八雲神社の山車行事」として市の文化財に指定されており、地域の歴史と信仰を今に伝える貴重な行事となっています。天明3年の浅間山噴火という大災害からの復興を願って始まり、牛頭天王の疫病退散・厄除けの信仰と深く結びついて発展してきたその成り立ちは、自然災害や疫病という困難と向き合いながら、それでも暮らしを守り立て直そうとした人々の祈りそのものを映し出しています。昼の人形山車から夜の提灯山車への鮮やかな変身という独自の形式とともに、約240年の歴史を持つ夏祭りとして、久喜の提灯祭り・天王様はこれからも地域の夏を熱く彩り続けていきます。','## Overview
+
+The Kuki Lantern Festival, known as "Tenno-sama," is the festival of Yakumo Shrine, the tutelary shrine of the former town of Kuki, held in Kuki City, Saitama Prefecture. A traditional summer festival boasting around 240 years of history, it is held over two days each year, on July 12 and 18. The greatest characteristic of this festival is that the appearance of the floats changes completely between day and night. During the day, gorgeous doll floats adorned with finely crafted figures parade through the town, and at night the dolls are removed and the floats are reassembled into lantern floats covered with as many as about 500 lanterns each. The sight of seven floats lit with countless lanterns making their way through the darkness of night is truly fantastical, and the festival is widely known as one of the leading lantern festivals of the Kanto region.
+
+Being able to experience two different expressions of the festival, by day and by night, within a single day is a composition rarely seen elsewhere, and this is the great appeal of the Kuki Lantern Festival. The same floats show a refined form with dolls as the stars by day, and transform into a fantastical figure wrapped in lantern light by night. Visitors are captivated by this vivid contrast throughout the day. While its origins lie in people''s earnest prayers for recovery from disaster and the warding off of epidemics, today it is deeply rooted in the community as a tradition of summer.
+
+## History and Origins
+
+The origins of the festival date back to 1783 (Tenmei 3). In that year, a great eruption of Mount Asama occurred, and a huge amount of volcanic ash fell over a wide area. In Kuki as well, the region suffered tremendous damage, with summer crops including mulberry covered in ash and destroyed. In an effort to somehow recover from this unprecedented calamity, people borrowed a festival float from Honcho and pulled it around the town, and this is said to be the beginning of the lantern festival. The very origin, in which people pulled the float to rouse a devastated region once more and to embody their wish for recovery, expresses the spirit of this festival.
+
+This festival is also that of Yakumo Shrine, the tutelary shrine of the former town of Kuki, and is said to derive from a summer festival praying for the warding off of epidemics and misfortune, dedicated to the Gozu Tenno shrine once enshrined in the precincts of Tennoin. Gozu Tenno has long been widely worshipped as a god who wards off epidemics and has been the center of summer festivals called "Tenno-sama" in various places. Summer is a season in which epidemics easily spread, and people sought to ward off calamity and pass safely through the summer by praying to Gozu Tenno. The Kuki festival, too, can be said to be a tradition nurtured against the background of people''s twin earnest wishes: recovery from natural disaster and the warding off of epidemics. About 240 years from its origin in Tenmei 3, it has been carefully handed down across generations by local people and continues unbroken to this day.
+
+## Highlights
+
+The greatest highlight lies entirely in the way the floats change completely between day and night. During the day, gorgeous doll floats, raising high dolls based on historical figures and famous scenes from stories, parade through the town. The finely crafted dolls are themselves impressive works of craftsmanship, delighting onlookers along the route as the stars of the daytime festival.
+
+Then, as the sun begins to set, the town suddenly grows busy. People remove the dolls from the floats and set about, all together, the work of attaching a great number of lanterns instead. As many as about 500 lanterns per float are attached one after another, and eventually each float transforms into a lantern float entirely wrapped in lantern light. This very work of reassembly from day to night has become one of the festival''s highlights.
+
+In the evening, the floats lit with countless lanterns parade through the town, and the rows of lanterns emerging from the darkness fill the route. The nighttime scene, woven from countless flickering lights and the energy of the people pulling the floats, is spectacular, spreading a world full of heat and fantasy entirely different from the orderly beauty of the daytime doll floats. Being able to savor two contrasting expressions, day and night, within a single day is precisely the delight unique to this festival, and it is deeply etched into the hearts of visitors.
+
+## Access and Visiting Information
+
+The Kuki Lantern Festival, Tenno-sama, is held on July 12 and 18 each year in Kuki City, Saitama Prefecture. As the festival of Yakumo Shrine, the central market district of the former town of Kuki becomes the festival stage, and over two days doll floats and lantern floats parade through the town. Because the highlight times for the daytime doll floats and the nighttime lantern floats are clearly divided, those who wish to fully enjoy both are recommended to stay from daytime into the night and witness the day-to-night transformation.
+
+For access, Kuki Station, served by the JR Utsunomiya Line and the Tobu Isesaki Line, serves as the gateway, making it convenient to visit from various directions in the Tokyo metropolitan area. On festival days, traffic restrictions are in place in the central market district, and it bustles with many spectators, so visiting by public transportation rather than private car is recommended.
+
+## Nearby Attractions
+
+Kuki City is located in the eastern part of Saitama Prefecture, a town where the rich farmland of the Kanto Plain coexists with a historic urban district. Strolling through the streetscape that retains traces of the former town of Kuki, starting with Yakumo Shrine at the heart of the festival, you can feel the history of faith and daily life rooted in this place. Historic shrines such as Washinomiya Shrine, also known as the setting of anime, are scattered in the surroundings, and combined with the lantern festival, you can plan an itinerary that touches on the region''s faith and culture. Savoring the heat of the summer festival and then spending contrasting, quiet time touring serene shrines and temples is another pleasure.
+
+## Related Information
+
+The Kuki Lantern Festival, Tenno-sama, has had its traditional value recognized and is designated a cultural property of the city as the "Float Event of Kuki Yakumo Shrine," making it a precious tradition that conveys the region''s history and faith to the present. Its origins, beginning as a wish for recovery from the great disaster of the Mount Asama eruption in Tenmei 3 and developing in deep connection with the faith in Gozu Tenno for warding off epidemics and misfortune, reflect the very prayers of people who, while facing the hardships of natural disaster and epidemic, sought nonetheless to protect and rebuild their lives. Together with its unique form of vivid transformation from daytime doll floats to nighttime lantern floats, the Kuki Lantern Festival, Tenno-sama, as a summer festival with around 240 years of history, will continue to color the region''s summers warmly for years to come.','kuki-chochin-matsuri','kuki-chochin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11193584','COMIC NETWORK','Comic Network',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/COMIC_NETWORK',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11200930','GEISAI','GEISAI',NULL,'Contemporary art festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2001,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/GEISAI',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3536029','豊川手筒まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B7%9D%E6%89%8B%E7%AD%92%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -6989,7 +7023,71 @@ The shrine is accessible approximately 10 minutes from Jinbohara Station on the 
 
 Kamisato Town is located in the northwestern part of Saitama Prefecture near the border with Gunma Prefecture, serving as a town of agriculture and history. Nearby attractions include Okegawa Inari Shrine (one of Japan''s three great Inari shrines), the former Honjō Commercial Bank Brick Warehouse in Honjō City, the Shibusawa Eiichi Memorial Museum in Fukaya City, and on the Gunma Prefecture side, the Takasaki Kannon and the Tomioka Silk Mill (a UNESCO World Heritage Site preserving the modern silk industry heritage). A journey can be designed to explore the trans-temporal connections of silk culture, linking the textile tradition of the Nagahatabe no Muraji clan with the modern Meiji-era Tomioka Silk Mill.','nagahatabe-jinja-kamisato','nagahatabe-jinja-kamisato',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q107340850','蛇も蚊も',NULL,'横浜市鶴見区の祭り',NULL,'Q127513','神奈川県','Kanagawa Prefecture','神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%9B%87%E3%82%82%E8%9A%8A%E3%82%82',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q86734962','日向ひょっとこ夏祭り','Hyuga Hyottoko Summer Festival',NULL,NULL,'Q850388','日向市','Hyūga-shi','宮崎県','kyushu',NULL,NULL,1984,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q86734962','日向ひょっとこ夏祭り','Hyuga Hyottoko Summer Festival',NULL,NULL,'Q850388','日向市','Hyūga-shi','宮崎県','kyushu',NULL,NULL,1984,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,80,'drafted','## 概要
+
+日向ひょっとこ夏祭りは、宮崎県日向市で毎年8月上旬に開催される、九州の夏を代表するユーモラスな祭りです。ひょうきんなお面をつけた踊り手たちが、おどけた仕草で軽快に踊り歩く「ひょっとこ踊り」が主役で、その姿は見る人に思わず笑みを誘います。例年、北は北海道から南は鹿児島まで全国各地から踊り手が集まり、近年では72連・約1,300人もの参加者がパレードを繰り広げる、にぎやかな祭りへと成長しました。会場は日向市駅前一帯で、2026年には第43回を迎えます。
+
+おかめ、ひょっとこ、きつねといった親しみやすいお面をつけた踊り手たちが、独特のリズムに乗って体を揺らし、滑稽な動きで沿道を盛り上げる光景は、ほかの勇壮な夏祭りとはひと味違った、明るく和やかな魅力にあふれています。笑いと笑顔が祭りの中心にある、見ているだけで楽しくなる夏の風物詩です。
+
+## 歴史・由来
+
+日向ひょっとこ夏祭りの主役である「日向ひょっとこ踊り」は、正式には「永田のひょっとこ踊り」と呼ばれます。この踊りを考案したのは、明治時代に日向市の塩見永田地区で眼科医として開業していた橘公行医師であったと伝えられています。橘医師は、地域に伝わる神楽をベースにしながら、ひょうきんで親しみやすい踊りを生み出したとされ、その踊りが地域の人々に愛され、永田地区に根づいていきました。一人の医師の発想から生まれた踊りが、やがて地域全体の宝へと育っていったという、興味深い由来を持っています。
+
+地域の祝い事や催しで踊り継がれてきたこのひょっとこ踊りを、まちおこしの核として大きく育てたのが、日向ひょっとこ夏祭りです。地元に伝わる滑稽で愛らしい踊りを、全国に開かれた夏祭りの主役へと押し上げることで、日向市の名を広く知らしめる催しへと発展してきました。第43回を数える長い歩みのなかで、参加する踊り手の数も連の数も着実に増え、今では全国各地から踊り手が集う、九州屈指のにぎやかな夏祭りとなっています。明治期に一人の医師が考案した踊りが、百年以上の時を超えて全国規模の祭りの中心に据えられているという事実は、地域文化の継承と発展のあり方を考えるうえでも示唆に富んでいます。
+
+## 見どころ
+
+最大の見どころは、何といっても色とりどりのお面をつけた踊り手たちによる、ユーモラスなひょっとこ踊りのパレードです。おかめ、ひょっとこ、きつねといった表情豊かなお面をつけ、揃いの衣装に身を包んだ踊り手たちが、独特の軽快なリズムに合わせて、おどけた仕草で次々と沿道を踊り歩きます。腰をひねり、手を泳がせ、滑稽に体を揺らすその動きは、見ている人を自然と笑顔にし、会場全体を明るい雰囲気で包み込みます。
+
+近年では72連・約1,300人という大規模な踊り手が参加し、それぞれの連が工夫を凝らした踊りを披露するため、次から次へとやってくる踊り手たちを見ているだけで飽きることがありません。全国各地から集まった連が一堂に会することで、地域ごとの個性や踊りの違いも楽しめます。勇ましさや荘厳さを競う祭りとは異なり、笑いと愛嬌を前面に押し出したこの祭りは、子どもから大人まで誰もが気軽に楽しめる、開かれた明るさを持っています。沿道の観客と踊り手が一体となって笑い合う、そののどかで温かい空気こそが、日向ひょっとこ夏祭りの何よりの魅力です。
+
+ひょっとこ踊りの所作には、ひとつひとつに見る人を和ませる工夫が凝らされています。ひょうきんなお面で表情を隠しているからこそ、踊り手は体全体を使って大胆に、そして滑稽に動くことができ、年齢や立場を超えて誰もが演じ手になれます。この敷居の低さが、地元の人々はもちろん、全国から集う踊り手をも惹きつけ、連の数を年々増やしてきた一因となっています。各連はそれぞれに振り付けや小道具に趣向を凝らし、同じひょっとこ踊りでも連ごとに個性がにじみ出るため、見比べる楽しさも尽きません。沿道の観客は、次々とやってくる踊り手の滑稽な仕草に笑い声をあげ、いつしか手拍子で一体となっていきます。演じ手と見物人の垣根が低く、まち全体が大きな笑いの輪で結ばれていくところに、この祭りの本質的な温かさがあります。
+
+## 開催情報・アクセス
+
+日向ひょっとこ夏祭りは、毎年8月の第1土曜日から日曜日にかけて、宮崎県日向市の日向市駅前一帯を中心に開催されます。全国から集まった踊り手によるパレードが祭りの中心で、まち全体が笑いと活気に包まれます。最新の日程やパレードのコース、関連イベントの詳細については、日向市観光協会など主催者の公式案内で確認するのが確実です。
+
+アクセスは、JR日豊本線の日向市駅が玄関口となり、駅前一帯がそのまま祭りの会場となるため、公共交通機関での来訪が非常に便利です。車で訪れる場合は、東九州自動車道の日向インターチェンジが最寄りとなります。祭礼当日は駅前一帯で交通規制が敷かれ、多くの見物客でにぎわうため、公共交通機関の利用が推奨されます。
+
+## 周辺の見どころ
+
+日向市は宮崎県北部の日向灘に面したまちで、豊かな自然景観に恵まれています。なかでも、馬の蹄の形をした入り江「馬ヶ背」や、柱状節理の断崖が連なる海岸線は、日向を代表する景勝地として知られ、ダイナミックな海の眺めを楽しめます。また、開運のスポットとして人気の高い大御神社など、由緒ある神社も点在しています。祭りで笑いと熱気を味わった後に、日向灘の雄大な海岸線をめぐれば、この土地ならではの自然の魅力を存分に堪能できます。
+
+## 関連情報
+
+日向ひょっとこ夏祭りは、明治期に一人の眼科医が神楽をもとに考案したという、地域に根ざした踊りを核として発展してきた、由来のはっきりとした珍しい祭りです。「永田のひょっとこ踊り」という地域固有の踊りを大切に守り伝えながら、それを全国に開かれた夏祭りの主役へと育て上げてきた歩みは、地域文化を継承しつつ新たに発展させていく一つの理想的な形を示しています。勇壮さよりも笑いと愛嬌を前面に押し出したその独自の魅力で、子どもから大人まで、地元の人から遠方からの来訪者まで、誰もが笑顔になれる夏祭りとして、日向ひょっとこ夏祭りはこれからも宮崎の夏を明るく彩り続けていきます。','## Overview
+
+The Hyuga Hyottoko Summer Festival is a humorous festival representing the summer of Kyushu, held in early August each year in Hyuga City, Miyazaki Prefecture. The star is the "Hyottoko dance," in which dancers wearing comical masks dance and walk nimbly with droll gestures, a sight that naturally draws smiles from onlookers. Each year dancers gather from all over the country, from Hokkaido in the north to Kagoshima in the south, and in recent years it has grown into a lively festival in which about 1,300 participants in 72 groups put on a parade. The venue is the area around Hyugashi Station, and in 2026 the festival marks its 43rd edition.
+
+The sight of dancers wearing familiar, approachable masks such as Okame, Hyottoko, and the fox, swaying their bodies to a distinctive rhythm and enlivening the route with comical movements, overflows with a bright and genial appeal somewhat different from other valiant summer festivals. With laughter and smiles at the center of the festival, it is a summer tradition that makes you cheerful just by watching.
+
+## History and Origins
+
+The "Hyuga Hyottoko dance," the star of the Hyuga Hyottoko Summer Festival, is formally called the "Nagata Hyottoko dance." This dance is said to have been devised by Dr. Kimiyuki Tachibana, who practiced as an ophthalmologist in the Shiomi-Nagata district of Hyuga City during the Meiji era. Dr. Tachibana is said to have created a droll and approachable dance based on the kagura handed down in the region, and the dance, beloved by local people, took root in the Nagata district. It has an intriguing origin in which a dance born from the inspiration of a single doctor eventually grew into a treasure of the entire region.
+
+It was the Hyuga Hyottoko Summer Festival that greatly developed this Hyottoko dance, handed down at local celebrations and events, into a core of community revitalization. By elevating the comical and endearing dance handed down locally into the star of a summer festival open to the whole country, it developed into an event that has made the name of Hyuga City widely known. Over the long course of 43 editions, the number of participating dancers and groups has steadily increased, and it has now become one of Kyushu''s foremost lively summer festivals, drawing dancers from all over the country. The fact that a dance devised by a single doctor in the Meiji era is now placed at the center of a nationwide festival, across more than a century, is suggestive for considering how regional culture is inherited and developed.
+
+## Highlights
+
+The greatest highlight is, above all, the parade of humorous Hyottoko dancing by dancers wearing colorful masks. Wearing expressive masks such as Okame, Hyottoko, and the fox, and clad in matching costumes, the dancers dance one after another along the route with droll gestures in time to a distinctive, nimble rhythm. The movements, twisting their hips, swimming their hands, and swaying their bodies comically, naturally bring smiles to onlookers and wrap the entire venue in a cheerful atmosphere.
+
+In recent years, large numbers of dancers, about 1,300 in 72 groups, participate, and because each group presents a dance full of ingenuity, you never tire of watching the dancers arriving one after another. With groups gathered from all over the country meeting in one place, you can also enjoy the individuality of each region and the differences in their dances. Unlike festivals that compete in bravery or solemnity, this festival, which puts laughter and charm front and center, has an open brightness that anyone from children to adults can casually enjoy. The peaceful and warm atmosphere in which spectators along the route and dancers laugh together as one is, above all, the appeal of the Hyuga Hyottoko Summer Festival.
+
+Each gesture of the Hyottoko dance is crafted with care to put onlookers at ease. Precisely because the dancers hide their expressions behind comical masks, they can move boldly and comically with their whole bodies, and anyone, regardless of age or position, can become a performer. This low threshold has been one factor in attracting not only local people but also dancers gathering from all over the country, increasing the number of groups year by year. Each group adds its own ingenuity to choreography and props, so that even the same Hyottoko dance reveals the individuality of each group, and the pleasure of comparison is endless.
+
+## Access and Visiting Information
+
+The Hyuga Hyottoko Summer Festival is held mainly around Hyugashi Station in Hyuga City, Miyazaki Prefecture, from the first Saturday to Sunday of August each year. The parade by dancers gathered from across the country is the heart of the festival, and the whole town is wrapped in laughter and energy. For the latest dates, the parade course, and details of related events, it is best to check the official information of the organizers, such as the Hyuga City Tourism Association.
+
+For access, Hyugashi Station on the JR Nippo Main Line serves as the gateway, and since the area around the station itself becomes the festival venue, visiting by public transportation is extremely convenient. If visiting by car, the Hyuga Interchange on the Higashi-Kyushu Expressway is the nearest. On festival days, traffic restrictions are in place around the station, and it bustles with many spectators, so the use of public transportation is recommended.
+
+## Nearby Attractions
+
+Hyuga City is a town facing the Hyuga-nada Sea in the northern part of Miyazaki Prefecture, blessed with rich natural scenery. Among its attractions, the horseshoe-shaped inlet "Umagase" and the coastline lined with cliffs of columnar joints are known as scenic spots representing Hyuga, where you can enjoy dynamic ocean views. Historic shrines such as Oomi Shrine, popular as a spot for good fortune, are also scattered about. After savoring the laughter and heat of the festival, touring the magnificent coastline of the Hyuga-nada Sea lets you fully enjoy the natural charm unique to this land.
+
+## Related Information
+
+The Hyuga Hyottoko Summer Festival is a rare festival with a clear origin, having developed around a locally rooted dance said to have been devised by a single ophthalmologist based on kagura in the Meiji era. The course in which the region-specific "Nagata Hyottoko dance" has been carefully preserved and handed down while being raised into the star of a summer festival open to the whole country shows one ideal form of inheriting and newly developing regional culture. With its unique appeal that puts laughter and charm front and center rather than valor, as a summer festival that can bring smiles to everyone, from children to adults and from locals to visitors from afar, the Hyuga Hyottoko Summer Festival will continue to brighten the summers of Miyazaki for years to come.','hyuga-hyottoko-natsu-matsuri','hyuga-hyottoko-natsu-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 市島川裾まつりとは
 
 市島川裾まつり（いちじまかわすそまつり）は、兵庫県丹波市市島町で毎年夏に行われる、竹田川の河畔を舞台とした祭りです。川の水にまつわる信仰「川裾祭」を起源とし、夏の夜空を彩る花火大会を中心に、地域の人々が川辺に集う、丹波市市島町の夏の風物詩として親しまれています。川面に映る花火の美しさが、夏のひとときに涼やかな彩りを添えます。
