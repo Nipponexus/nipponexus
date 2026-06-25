@@ -1080,7 +1080,7 @@ Please note that there are regional differences and various theories regarding i
 INSERT INTO "festivals" VALUES('Q9359311','ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.','Nano-Mugen Festival',NULL,'annual music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2003,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES.','https://en.wikipedia.org/wiki/Nano-Mugen_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1032381','初詣','Hatsumōde','年が明けてから初めて神社や寺院などに参拝する行事',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E5%88%9D%E8%A9%A3','https://en.wikipedia.org/wiki/Hatsum%C5%8Dde',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1045869','ヨコハマ映画祭','Yokohama Film Festival','日本の映画賞','Japanese film awards ceremony','Q38283','横浜市','Yokohama','神奈川県','kanto',NULL,NULL,1980,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yokohama_Film_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q722072','オズフェスト','Ozzfest',NULL,'former music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,1996,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Anselmo.jpg','https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88','https://en.wikipedia.org/wiki/Ozzfest',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q722072','オズフェスト','Ozzfest',NULL,'former music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,1996,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Anselmo.jpg','https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88','https://en.wikipedia.org/wiki/Ozzfest',80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11019445','川越氷川祭','Kawagoe Hikawa Festival','埼玉県川越市の川越氷川神社の祭礼','Japanese traditional dance','Q11549607','氷川神社','Hikawa Shrine','埼玉県','kanto',NULL,NULL,1648,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kawagoe%20Festival4.jpg','https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E6%B0%B7%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Kawagoe_Hikawa_Festival',85,'drafted','川越氷川祭（かわごえひかわまつり）は、埼玉県川越市の川越氷川神社の例大祭として行われる祭礼で、「川越まつり」の通称で広く親しまれています。その起源は1648年（慶安元年）、当時の川越藩主・松平信綱が氷川神社に神輿や獅子頭を寄進し、祭礼を奨励したことに遡るとされます。江戸の「天下祭」と呼ばれた神田祭・山王祭の様式を強く受け継いでおり、絢爛豪華な山車が城下町を巡行する姿は「小江戸・川越」を象徴する光景として知られています。
 
 2016年には「川越氷川祭の山車行事」がユネスコ無形文化遺産「山・鉾・屋台行事」の一つとして登録され、国際的にもその価値が認められました。祭りの最大の見どころは、精緻な彫刻と人形を載せた高さ数メートルの山車が、蔵造りの町並みを背景に練り歩く姿です。
@@ -1947,7 +1947,7 @@ The venues are the former Foreign Settlement district (Nakamachi-dōri) and Higa
 ## Surrounding Attractions
 
 Central Kobe offers a wealth of tourist attractions including the Kitano Ijinkan foreign residences district, Nankin-machi (Kobe Chinatown), Meriken Park, Harbor Land, and the Kobe Port Tower. The winter season also offers opportunities to enjoy Kobe beef cuisine, the city''s bakery culture, Arima hot spring resort, and the night views from Mount Rokko, making a one- or two-night urban tourism stay combined with the Luminarie experience particularly popular among visitors.','kobe-luminarie','kobe-luminarie',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q2915444','ファンタズミック!','Fantasmic!',NULL,'night-time pyrotechnic and light performance at multiple Disney Parks','Q1345090','ディズニー・ハリウッド・スタジオ','Disney''s Hollywood Studios',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmic%21%20Evil%20Queen%20spell.jpg','https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF!','https://en.wikipedia.org/wiki/Fantasmic!',80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q2915444','ファンタズミック!','Fantasmic!',NULL,'night-time pyrotechnic and light performance at multiple Disney Parks','Q1345090','ディズニー・ハリウッド・スタジオ','Disney''s Hollywood Studios',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmic%21%20Evil%20Queen%20spell.jpg','https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF!','https://en.wikipedia.org/wiki/Fantasmic!',80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3092868','二本松の提灯祭り','Nihonmatsu Lantern Festival',NULL,'festival held in Nihonmatsu, Fukushima, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A.jpg','https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Nihonmatsu_Lantern_Festival',80,'drafted','## 概要
 
 二本松の提灯祭りは、福島県二本松市で毎年10月第1土・日・月曜日の3日間にわたって斎行される、二本松神社の例大祭です。秋田の竿燈まつり、愛知の尾張津島天王祭の提灯と並んで「日本三大提灯祭り」の一つに数えられ、城下町二本松の秋を彩る最大の祭礼として広く知られています。祭りの主役となるのは、城下七町からそれぞれ繰り出される七台の太鼓台で、一台ごとに約300個もの紅提灯が掛けられます。七台を合わせれば二千を優に超える提灯の灯が城下の闇を埋め尽くし、その光景は東北を代表する夜祭りの一つとして、訪れる人々の心に強く焼きつきます。
@@ -2189,7 +2189,39 @@ INSERT INTO "festivals" VALUES('Q1193996','日本の七夕','Tanabata','日本�
 Tanabata is said to have arisen from the union of a star festival called "Kikōden," transmitted from China, and an ancient Japanese rite called "Tanabata." At its heart is the legend of Orihime (the Weaver) and Hikoboshi (the Cowherd), separated across the Milky Way. The story—that the two, who had been hardworking but grew idle after marriage, were separated by the Heavenly Emperor and permitted to cross the Milky Way to meet only once a year, on the night of July 7th—forms the romantic backdrop of the festival.
 
 The most beloved custom of Tanabata is writing wishes on paper strips and hanging them on bamboo. People entrust various wishes, such as success in studies, good health, and fulfillment in love. In addition, many large-scale festivals are held across the country that adorn towns with gorgeous Tanabata decorations, such as the Sendai Tanabata Festival, the Hiratsuka Tanabata Festival, and the Asagaya Tanabata Festival. This observance of entrusting wishes to the stars is handed down as an important annual event of the Japanese summer, enjoyed with family while feeling the changing of the seasons.','tanabata','tanabata',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6518561','東京湾大華火祭','Tokyo Bay Grand Fireworks Festival',NULL,NULL,'Q11090204','晴海','Harumi','東京都','kanto',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20bay%20fireworks%202015.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE%E5%A4%A7%E8%8F%AF%E7%81%AB%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q6518561','東京湾大華火祭','Tokyo Bay Grand Fireworks Festival',NULL,NULL,'Q11090204','晴海','Harumi','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20bay%20fireworks%202015.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE%E5%A4%A7%E8%8F%AF%E7%81%AB%E7%A5%AD',NULL,80,'drafted','## 概要
+
+東京湾大華火祭は、東京都中央区が中心となって晴海埠頭およびその周辺で開催されてきた、都内最大級の花火大会です。1988年（昭和63年）に初めて開催されて以来、東京湾の海上を舞台に約12,000発もの花火が夜空を彩り、最盛期の2015年には約72万人もの観客を集めました。海上の台船から打ち上げられる大輪の花火が、東京湾の水面と臨海部の高層ビル群を背景に映える光景は、首都・東京の夏を代表する風物詩として、長く多くの人々に親しまれてきました。
+
+この大会の魅力は、ビルの谷間ではなく、開けた海上を会場とする点にあります。地上の建造物に視界を遮られることがないため、広い夜空いっぱいに花火を大きく展開でき、内陸の花火大会では味わえないスケール感が生まれます。湾岸ならではの開放感と、大都市の煌めく夜景に花火が重なり合う構図は、ほかでは得がたい東京湾だけの華やかさを描き出します。海風を感じながら水面に映り込む花火を眺める時間は、都心にいながら非日常を体感できる、特別なひとときです。
+
+## 歴史・由来
+
+東京湾大華火祭は1988年（昭和63年）に初回が開催されました。会場は晴海埠頭およびその周辺で、東京湾の海上に浮かべた台船から花火を打ち上げる形式をとり、都心の臨海部で気軽に楽しめる大規模花火大会として、年を追うごとに定着していきました。台船を用いる海上打ち上げ方式は、観客との安全な距離を確保しながら、大玉の花火を広い空に展開できるという利点があり、この大会の大きな特色となりました。打ち上げ数は約12,000発にのぼり、規模・知名度ともに都内屈指の花火大会へと成長し、最盛期の2015年には約72万人という膨大な観客を動員するまでになりました。
+
+しかし、長く会場となってきた晴海地区が、大規模な都市再開発の対象となったことから、2015年の開催を最後に、長らく中断を余儀なくされました。都心の一等地である臨海部が開発によって姿を大きく変えていくなかで、広大な打ち上げ場所と観覧スペースを確保することが難しくなったのです。歴史ある花火大会の継続が、都市の変化に左右されるという、大都市ならではの事情がそこにはありました。
+
+その後、中央区と港区がともに区制施行の節目を迎えるにあたり、両区の80周年を記念する事業として、2026年に11年ぶりの復活開催が決定しました。復活回では東京港晴海埠頭沖を打ち上げ場所とし、約12,200発の花火を打ち上げる計画で、観覧会場も晴海の主会場をはじめ複数設けられます。一度途絶えた大規模花火大会が、地域の記念の年に合わせて再び夜空に大輪を咲かせることになったのです。中断と復活というこの歩みそのものが、臨海部・東京という都市の移り変わりと分かちがたく重なり合っています。
+
+## 見どころ
+
+最大の見どころは、東京湾の海上から打ち上げられる約12,000発規模の大花火です。海上の台船を打ち上げ拠点とすることで、地上の建物に視界を遮られることなく、広大な夜空に花火を大きく展開できます。一発一発の大玉花火が、遮るもののない空に悠々と開いていくさまは、海上会場ならではの迫力です。臨海副都心の高層ビル群や、湾岸のシンボルであるレインボーブリッジといった都市景観を背景に花火が咲き誇る構図は、東京湾でしか描けない唯一無二の華やかさを生み出します。
+
+復活開催では、晴海の主会場のほかに複数の観覧会場が用意され、さまざまな角度から花火を楽しめるよう配慮されています。会場ごとに花火の見え方や背景の景色が異なるため、どこから眺めるかによって違った表情の花火に出会えるのも、この大会の楽しみ方の一つです。海風を肌に感じながら、水面に映り込んで揺らめく花火の光を眺める体験は、湾岸の花火大会ならではの醍醐味と言えます。大都市の中心部で、これほど開けた空に大輪の花火が連続して開いていく光景は、訪れる人の心に強く鮮やかな印象を残します。
+
+## 開催情報・アクセス
+
+東京湾大華火祭は、長きにわたり夏の風物詩として晴海埠頭周辺で開催されてきました。2015年を最後に中断していましたが、中央区・港区80周年記念事業として2026年に復活開催されます。復活回の打ち上げ場所は東京港晴海埠頭沖の海上で、観覧会場は晴海の主会場をはじめ複数設けられる予定です。観覧方法や各会場の詳細、チケットの要否などは開催年や会場によって異なるため、中央区など主催者の公式案内で最新の情報を必ず確認することが重要です。
+
+会場周辺は都心の臨海部にあたり、来場には公共交通機関の利用が基本となります。例年きわめて大規模な人出が見込まれるため、当日は周辺各所で交通規制や強い混雑が発生します。観覧場所への早めの移動と、帰路の混雑を見越した行動計画が、安全かつ快適に花火を楽しむための鍵となります。
+
+## 周辺の見どころ
+
+会場となる晴海・臨海エリアは、東京の最先端の都市景観が広がる地域です。お台場の海浜公園やレインボーブリッジ、豊洲の大型商業施設など、ウォーターフロントならではの見どころが数多く集まっており、花火大会と合わせて湾岸エリアの散策を一日かけて楽しめます。都心へのアクセスもよく、銀座をはじめとする中央区の中心市街地と組み合わせれば、買い物や食事と花火見物を一つの行程にまとめることもできます。昼は臨海部の開放的な景色を、夜は大花火を、というように、エリアの魅力を時間帯ごとに味わえる立地です。
+
+## 関連情報
+
+東京湾大華火祭は、海上を舞台とする開放的な構成と、都心臨海部という立地を兼ね備えた、東京を代表する花火大会です。1988年の初回開催から、約12,000発・最盛期72万人動員という隆盛、そして晴海地区の再開発による中断、さらに中央区・港区80周年を機とした2026年の復活まで、その歩みは一貫して臨海部・東京の都市の変遷とともにありました。一度は途絶えた大規模花火大会が、地域の記念事業として再び夜空に大輪を咲かせるという展開は、都市の発展と祭りの継承がどのように関わり合うのかを考えるうえでも、示唆に富む出来事と言えるでしょう。',NULL,'tokyo-bay-grand-fireworks-festival','tokyo-bay-grand-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11235573','NHK音楽祭','NHK Music Festival','日本放送協会（NHK）とNHKプロモーションが企画制作する音楽祭','music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/NHK%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q510847','初午','Hatsuuma','2月の最初の午の日',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hatsuuma-festival%2CHrooka-inari%2CTajyuku%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E5%88%9D%E5%8D%88',NULL,85,'drafted','## 概要
 
@@ -2636,7 +2668,37 @@ What fueled Yosakoi''s explosive growth is its remarkable openness: as long as d
 Each team performs led by a jikatasha—an elaborately decorated sound truck—dancing through competition stages and performance venues scattered across the city. The powerful group choreography, performed by dancers in vividly colored costumes clapping their naruko in unison, electrifies spectators.
 
 Today the festival features around 200 teams and some 20,000 dancers, ranking among the three great festivals of Shikoku. As the original source of the "Yosakoi-style" festivals that have since spread across Japan and around the world—most notably the YOSAKOI Soran Festival in Sapporo—its influence remains profound and undiminished.','yosakoi-matsuri','yosakoi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q774193','久喜の提灯祭り・天王様','Lantern Festival of Kuki',NULL,NULL,'Q47535','久喜市','Kuki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kuki%20Ch%C5%8Dchin%20Matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q774193','久喜の提灯祭り・天王様','Lantern Festival of Kuki',NULL,NULL,'Q47535','久喜市','Kuki','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kuki%20Ch%C5%8Dchin%20Matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98',NULL,80,'drafted','## 概要
+
+久喜の提灯祭り・天王様は、埼玉県久喜市で行われる、旧久喜町の鎮守である八雲神社の祭礼です。約240年の歴史を誇る伝統的な夏祭りで、毎年7月12日と18日に開催されます。最大の特色は、昼と夜とで山車の姿ががらりと変わることにあります。昼間は精巧な人形を飾った人形山車が町を巡行し、夜になると人形を取り外して、一台あたり約500個もの提灯で覆い尽くした提灯山車へと組み替えられます。夜の闇のなかを、無数の提灯を灯した七台の山車が練り歩く光景は幻想的で、関東を代表する提灯祭りの一つとして知られています。
+
+一日のうちに昼と夜で二つの異なる祭りの表情を味わえるという、ほかではあまり見られない構成が、久喜の提灯祭りの大きな魅力です。
+
+## 歴史・由来
+
+祭りの由来は、天明3年（1783年）にさかのぼります。この年、浅間山の大噴火が起こり、降り積もった火山灰によって桑をはじめとする夏作物が全滅するなど、地域は甚大な被害を受けました。この災厄から立ち直ろうと、本町の祭礼用の山車を借りて町内を引き回したのが、提灯祭りの始まりと伝えられています。天災からの復興を願う人々の祈りが、祭りの原点となっているのです。
+
+また、この祭りは旧久喜町の鎮守・八雲神社の祭礼であり、かつて天王院の境内に祀られていた牛頭天王社の疫病退散・厄除けを祈念する夏祭りに由来するともされています。牛頭天王は疫病除けの神として広く信仰され、各地の「天王様」と呼ばれる夏祭りの中心となってきました。久喜の祭りも、災害からの復興と疫病退散という、人々の切実な願いを背景に育まれてきた行事です。天明3年の起源から数えて約240年、地域の人々の手で大切に受け継がれ、今日まで続いています。
+
+## 見どころ
+
+最大の見どころは、昼と夜で山車の姿が一変する点です。昼間は、歴史上の人物や物語を題材にした人形を飾った華やかな人形山車が町を巡行します。日が暮れると、人々は人形を取り外し、山車を提灯で飾る作業に取りかかります。一台あたり約500個もの提灯が取り付けられ、山車全体が提灯の灯に包まれた提灯山車へと変身します。
+
+夜の部では、無数の提灯を灯した山車が町内を練り歩き、闇のなかに浮かび上がる提灯の連なりが沿道を埋め尽くします。昼の人形山車の整った美しさと、夜の提灯山車の幻想的な輝きという、対照的な二つの表情を一日のうちに楽しめるのは、この祭りならではの醍醐味です。山車を引き回す人々の活気と、揺らめく提灯の灯が織りなす夜の情景は、訪れる人の心に深く刻まれます。
+
+## 開催情報・アクセス
+
+久喜の提灯祭り・天王様は、毎年7月12日と18日に埼玉県久喜市で開催されます。八雲神社の祭礼として、旧久喜町の中心市街地一帯が祭りの舞台となります。昼の人形山車と夜の提灯山車では見どころの時間帯が異なるため、両方を楽しみたい場合は日中から夜にかけて滞在するのがおすすめです。
+
+アクセスは、JR宇都宮線・東武伊勢崎線の久喜駅が玄関口となり、首都圏からの来訪にも便利です。祭礼当日は中心市街地で交通規制が行われるため、公共交通機関の利用が推奨されます。
+
+## 周辺の見どころ
+
+久喜市は埼玉県東部に位置し、関東平野の田園と歴史ある市街地が共存するまちです。八雲神社をはじめとする寺社や、旧久喜町の面影を残す町並みを散策できます。周辺には鷲宮神社など歴史ある神社もあり、祭りと合わせて地域の信仰や歴史にふれる旅程を組むことができます。
+
+## 関連情報
+
+久喜の提灯祭り・天王様は、市の文化財として「久喜八雲神社の山車行事」が指定されており、地域の歴史と信仰を今に伝える貴重な行事です。天明3年の浅間山噴火という大災害からの復興を願って始まり、牛頭天王の疫病退散・厄除けの信仰と結びついて発展してきたその成り立ちは、自然災害や疫病と向き合いながら暮らしを守ろうとした人々の祈りそのものです。昼の人形山車から夜の提灯山車への鮮やかな変身という独自の形式とともに、約240年の歴史を持つ夏祭りとして、これからも久喜の夏を彩り続けます。',NULL,'kuki-chochin-matsuri','kuki-chochin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11193584','COMIC NETWORK','Comic Network',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/COMIC_NETWORK',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11200930','GEISAI','GEISAI',NULL,'Contemporary art festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2001,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/GEISAI',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3536029','豊川手筒まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B7%9D%E6%89%8B%E7%AD%92%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -2706,7 +2768,7 @@ INSERT INTO "festivals" VALUES('Q11256803','愛染まつり','Aizen Festival','�
 INSERT INTO "festivals" VALUES('Q11269668','すすきのアイスワールド','Susukino Ice World','札幌市中央区で開催しているイベント',NULL,'Q11521497','札幌駅前通','Sapporo Ekimae-dori','北海道','hokkaido',NULL,NULL,1981,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11256639','あいちトリエンナーレ','Aichi Triennale','国際芸術祭','international arts festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%A1%E3%83%88%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11263357','お船祭り (須々岐水神社)','Ship Festival (Susukigisui Shrine)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E8%88%B9%E7%A5%AD%E3%82%8A_(%E9%A0%88%E3%80%85%E5%B2%90%E6%B0%B4%E7%A5%9E%E7%A4%BE)',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11261730','おたる潮まつり','Otaru Ushio Matsuri','小樽市の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.202940261,141.007523346,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%82%8B%E6%BD%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11261730','おたる潮まつり','Otaru Ushio Matsuri','小樽市の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.202940261,141.007523346,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%82%8B%E6%BD%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11263690','かごしま錦江湾サマーナイト大花火大会',NULL,'桜島に面した鹿児島港本港区で毎年8月に開催される花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE%E9%8C%A6%E6%B1%9F%E6%B9%BE%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11267368','さいすくい','Saisukui',NULL,NULL,'Q861221','中津市','Nakatsu','三重県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%84%E3%81%99%E3%81%8F%E3%81%84',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿児島県鹿児島市で行われる祭り','Festival in Kagoshima, Japan','Q11442666','天文館','Tenmonkan','鹿児島県','kyushu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Ohara%20festival%20in%20Kagoshima.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD',NULL,85,'drafted','おはら祭は、鹿児島県鹿児島市で毎年11月2日・3日に開催される、南九州最大級の秋祭りです。1949年（昭和24年）、鹿児島市制60周年を記念して始まりました。市の中心部、天文館一帯のメインストリートを舞台に、揃いの法被や浴衣に身を包んだ踊り手が、鹿児島の代表的な民謡「おはら節」や「鹿児島ハンヤ節」に合わせて踊り流す姿は、市民総出の華やかな光景です。
@@ -6185,10 +6247,10 @@ INSERT INTO "festivals" VALUES('Q11414802','名古屋まつり','Nagoya Festival
 INSERT INTO "festivals" VALUES('Q11417760','和泉だんじり祭',NULL,NULL,NULL,'Q696412','和泉市','Izumi',NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%89%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q121294996','狛江・多摩川花火大会','Komae Tamagawa Fireworks Festival','狛江市で開催される花火大会','Fireworks show in Japan','Q121295034','多摩川緑地公園',NULL,'神奈川県','kanto',35.623,139.572,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%8B%9B%E6%B1%9F%E3%83%BB%E5%A4%9A%E6%91%A9%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q124570404','旭岡山神社の梵天奉納祭',NULL,'秋田県横手市の祭事',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Yokote%27s%20Bonden%20at%20Kajimachi%20202402.jpg',NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q119478096','近代麻雀水着祭','Kindai Mahjong Swimsuit Festival',NULL,'swimsuit festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kindai%20Mahjong%20Swimsuit%20Festival%20%28April%2029%2C%202024%29051961.jpg','https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BB%A3%E9%BA%BB%E9%9B%80%E6%B0%B4%E7%9D%80%E7%A5%AD',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q119478096','近代麻雀水着祭','Kindai Mahjong Swimsuit Festival',NULL,'swimsuit festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kindai%20Mahjong%20Swimsuit%20Festival%20%28April%2029%2C%202024%29051961.jpg','https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BB%A3%E9%BA%BB%E9%9B%80%E6%B0%B4%E7%9D%80%E7%A5%AD',NULL,80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q120885738','岩瀬駅前夏祭り',NULL,'茨城県桜川市の岩瀬市街地で行われる祭り','summer festival in Iwase, Sakuragawa, Ibaraki','Q116950442','岩瀬','Iwase','茨城県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/DSC%20%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B2.jpg','https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q115909474',NULL,'Green Image Film Festival',NULL,'environmental film festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q124363255','山留め','Yamadome','博多祇園山笠における山笠の出発地点','starting point for floats at Hakata Gion Yamakasa','Q123499905','福岡市道店屋町318号線','Tenyamachi 318th Street','福岡県','kyushu',33.593427777,130.4109,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kushida%20Shrine%20the%20stone%20singn%20marking%20the%20starting%20poit%20for%20floats%20at%20Hakata%20Gion%20Yamakasa%201-41%20Kami-kawabatamachi%20Hakata-ku%20Fukuoka%2020231204.jpg',NULL,NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q124363255','山留め','Yamadome','博多祇園山笠における山笠の出発地点','starting point for floats at Hakata Gion Yamakasa','Q123499905','福岡市道店屋町318号線','Tenyamachi 318th Street','福岡県','kyushu',33.593427777,130.4109,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kushida%20Shrine%20the%20stone%20singn%20marking%20the%20starting%20poit%20for%20floats%20at%20Hakata%20Gion%20Yamakasa%201-41%20Kami-kawabatamachi%20Hakata-ku%20Fukuoka%2020231204.jpg',NULL,NULL,80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q121646023','JAMAICA FESTIVAL レゲエ＆キュイジーヌ','Jamaica Festival Reggae & Cuisine in Tokyo',NULL,NULL,'Q1204253','代々木公園','Yoyogi Park',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q122353106','大湯祭','Daitōsai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%AF%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q117006841','POP YOURS','POP YOURS','日本のヒップホップフェスティバル','Japanese hip hop festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2022,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/POP_YOURS',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -6895,7 +6957,7 @@ The shrine is accessible approximately 10 minutes from Jinbohara Station on the 
 
 Kamisato Town is located in the northwestern part of Saitama Prefecture near the border with Gunma Prefecture, serving as a town of agriculture and history. Nearby attractions include Okegawa Inari Shrine (one of Japan''s three great Inari shrines), the former Honjō Commercial Bank Brick Warehouse in Honjō City, the Shibusawa Eiichi Memorial Museum in Fukaya City, and on the Gunma Prefecture side, the Takasaki Kannon and the Tomioka Silk Mill (a UNESCO World Heritage Site preserving the modern silk industry heritage). A journey can be designed to explore the trans-temporal connections of silk culture, linking the textile tradition of the Nagahatabe no Muraji clan with the modern Meiji-era Tomioka Silk Mill.','nagahatabe-jinja-kamisato','nagahatabe-jinja-kamisato',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q107340850','蛇も蚊も',NULL,'横浜市鶴見区の祭り',NULL,'Q127513','神奈川県','Kanagawa Prefecture','神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%9B%87%E3%82%82%E8%9A%8A%E3%82%82',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q86734962','日向ひょっとこ夏祭り','Hyuga Hyottoko Summer Festival',NULL,NULL,'Q850388','日向市','Hyūga-shi',NULL,NULL,NULL,NULL,1984,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q86734962','日向ひょっとこ夏祭り','Hyuga Hyottoko Summer Festival',NULL,NULL,'Q850388','日向市','Hyūga-shi','宮崎県','kyushu',NULL,NULL,1984,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 市島川裾まつりとは
 
 市島川裾まつり（いちじまかわすそまつり）は、兵庫県丹波市市島町で毎年夏に行われる、竹田川の河畔を舞台とした祭りです。川の水にまつわる信仰「川裾祭」を起源とし、夏の夜空を彩る花火大会を中心に、地域の人々が川辺に集う、丹波市市島町の夏の風物詩として親しまれています。川面に映る花火の美しさが、夏のひとときに涼やかな彩りを添えます。
@@ -8027,7 +8089,39 @@ Ogaki City is a castle town rich in spring water, called the "City of Water," wi
 - Venue: City center centered on Ogaki Station Avenue (Ogaki City)
 - Origin: Annual festival of Tokiwa Shrine (the Taisho-era "Ogaki Autumn Festival"), revived as the "Jumangoku Festival" in 1956
 - Alias: Jumangoku Festival','ogaki-jumangoku-matsuri','ogaki-jumangoku-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q57388689','いいやま雪まつり','Iiyama Snow Festival',NULL,NULL,'Q851097','飯山市','Iiyama',NULL,NULL,NULL,NULL,1980,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A6%8F%E5%AF%BF%E7%94%BA%E9%9B%AA%E5%83%8F.jpg','https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%84%E3%82%84%E3%81%BE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q57388689','いいやま雪まつり','Iiyama Snow Festival',NULL,NULL,'Q851097','飯山市','Iiyama','長野県','chubu',NULL,NULL,1980,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A6%8F%E5%AF%BF%E7%94%BA%E9%9B%AA%E5%83%8F.jpg','https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%84%E3%82%84%E3%81%BE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+
+いいやま雪まつりは、長野県飯山市で毎年2月の第2土・日曜日に開催される、雪国・飯山の冬を代表する一大イベントです。飯山市は北信州に位置する日本有数の豪雪地帯で、冬には一帯が深い雪に覆われます。いいやま雪まつりは、その大量の雪をやっかいな障害物としてではなく、地域の宝として最大限に生かそうという発想から生まれた祭りで、市内各地に大小さまざまな雪像が立ち並ぶ光景は圧巻です。例年5万人以上の来場者でにぎわい、2026年には第43回を迎えます。
+
+この祭りの大きな特徴は、メイン会場である飯山城址公園にとどまらず、飯山市全域を会場として展開される点にあります。まちを歩けば、商店街の一角や交流施設の前など至るところで力作の雪像に出会うことができ、まち全体が雪の野外美術館のような空間に変わります。市民が手づくりする雪像、雪上で行われるさまざまな催し、そして夜を彩る灯りや花火が一体となり、長く厳しい冬のさなかに飯山のまち全体を明るく盛り上げます。雪を楽しみに変えるという雪国ならではの知恵が、随所に息づいた祭りです。
+
+## 歴史・由来
+
+いいやま雪まつりは、北信州・飯山という日本有数の豪雪地帯で、長い冬の期間をいかに楽しく豊かに過ごすかという、地域に根ざした切実な知恵から生まれた祭りです。深い雪に閉ざされる冬は、雪国の人々にとって移動や暮らしに大きな負担を強いる季節でもあります。その雪を、ただ耐え忍ぶ対象としてではなく、地域の資源として活用し、市民が主体となって楽しむ場へと転換しようという発想こそが、このまつりの出発点にありました。
+
+回を重ねるごとに、雪像づくりは市民や各種団体の間に広く根づいていきました。町内会・学校・企業などがそれぞれに趣向を凝らした雪像を制作し、市内各地に設置するようになり、いつしか「飯山の冬といえば雪まつり」と呼ばれるまでに定着しました。2026年で第43回を数えるという長い歩みは、この祭りが一過性の観光イベントではなく、地域の人々の手で世代を超えて育まれ、受け継がれてきた文化であることを物語っています。豪雪地帯という土地の宿命を、地域全体の誇りと楽しみへと反転させてきた歴史が、いいやま雪まつりの背骨をなしているのです。
+
+## 見どころ
+
+最大の見どころは、市内各地に立ち並ぶ雪像の数々です。メイン会場の飯山城址公園をはじめ、まち全体に大小の雪像が点在し、雪像コンテストでは制作者たちがその年ごとに技と発想を競い合います。市民や団体が手づくりする雪像は、毎年テーマや趣向が変わるため、同じ年は二つとなく、見て歩くだけで自然と飯山のまちめぐりが楽しめる構成になっています。一つの広場で完結する祭りではなく、まちを歩きながら次々と見どころに出会えるという回遊性の高さが、ほかの雪まつりにはない大きな魅力です。
+
+夜になると、雪像がライトアップされ、昼間とはまったく異なる幻想的な表情を見せます。雪の白さに灯りが映え、昼に見た雪像が夜には別の作品のように浮かび上がります。さらに、同時開催される「かまくらの里 かまくら祭り」では、かまくらのなかで温かい食事を楽しめるかまくら商店や、雪原を彩るかまくら花火大会などが行われ、雪国でしか味わえない体験が用意されています。雪像を眺めるだけでなく、かまくらに入り、雪に触れ、雪のなかで過ごす時間そのものを五感で味わえることが、この祭りの醍醐味です。寒さのなかで見上げる花火や、灯りに照らされた雪像の連なりは、訪れる人の冬の記憶に深く刻まれます。
+
+## 開催情報・アクセス
+
+開催は毎年2月の第2土・日曜日で、メイン会場は飯山城址公園ですが、前述の通り飯山市全域が会場となります。市内各地に雪像や催し会場が点在するため、効率よく見て回るには、雪まつりまちなか案内マップを手に、あらかじめ巡るルートを思い描いておくとよいでしょう。最新の日程や会場、催しの内容は、いいやま雪まつりの公式案内で確認するのが確実です。
+
+アクセスは、北陸新幹線の飯山駅が玄関口となり、首都圏や北陸方面からの来訪にも便利です。新幹線駅から会場へのアクセスがよいため、遠方からでも日帰りや一泊で訪れやすいのも利点です。一方で、会場周辺は2月の最盛期には積雪と冷え込みが厳しくなります。防寒着はもちろん、雪道で滑りにくい靴を備えて訪れることが、安心して祭りを楽しむための備えとなります。
+
+## 周辺の見どころ
+
+飯山市は「雪国の小京都」とも称される、寺町の風情が色濃く残るまちです。市街地には多くの寺院が立ち並び、しっとりとした町並みを散策できます。また、飯山は伝統工芸でも知られ、仏壇づくりの技を受け継ぐ飯山仏壇や、雪国の手すきの紙である内山紙といった、地域に根ざした文化資源が今も大切に守られています。雪まつりの合間にこうした工芸や寺町をめぐれば、飯山という土地の奥行きをより深く感じられます。
+
+さらに、飯山周辺には良質な雪を生かしたスキー場が点在しており、雪まつりとウィンタースポーツを組み合わせた滞在も人気です。冬の北信州は温泉地にも恵まれているため、日中は雪像やスキーを楽しみ、夜は雪見の温泉でゆったりと体を温めるといった、雪国ならではの贅沢な過ごし方ができます。
+
+## 関連情報
+
+いいやま雪まつりは、豪雪という土地の宿命を地域の魅力へと反転させた、雪国らしい知恵の結晶と言える祭りです。市民が主体となって雪像を制作し、まち全体を舞台に冬を楽しむというスタイルは、行政が一方的に見せる催しとは異なる、住民参加型のあたたかさを備えています。雪像づくりに込められた手づくりの温もりや、まちぐるみで冬を盛り上げようとする一体感は、訪れる人にも自然と伝わってきます。長く厳しい冬のただなかで、飯山の人々が雪とともに生き、雪を楽しみながら暮らしてきたその姿を映し出す行事として、いいやま雪まつりはこれからも地域の冬を彩り続けていきます。',NULL,'iiyama-yuki-matsuri','iiyama-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q61057617','大阪世界帆船まつり','Osaka Sekai Hansen Matsuri',NULL,'festival',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%96%E7%95%8C%E5%B8%86%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48744152','湯涌ぼんぼり祭り','Yuwaku Bonbori Matsuri','石川県金沢市湯涌温泉の祭り',NULL,'Q11563731','湯涌温泉','Yuwaku Onsen','石川県','chubu',NULL,NULL,2011,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Yuwaku%20Bonbori%20sending-off%20ceremony%20for%20the%20god%202012-10-06.JPG','https://ja.wikipedia.org/wiki/%E6%B9%AF%E6%B6%8C%E3%81%BC%E3%82%93%E3%81%BC%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
@@ -10817,11 +10911,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
