@@ -2221,7 +2221,39 @@ INSERT INTO "festivals" VALUES('Q6518561','東京湾大華火祭','Tokyo Bay Gra
 
 ## 関連情報
 
-東京湾大華火祭は、海上を舞台とする開放的な構成と、都心臨海部という立地を兼ね備えた、東京を代表する花火大会です。1988年の初回開催から、約12,000発・最盛期72万人動員という隆盛、そして晴海地区の再開発による中断、さらに中央区・港区80周年を機とした2026年の復活まで、その歩みは一貫して臨海部・東京の都市の変遷とともにありました。一度は途絶えた大規模花火大会が、地域の記念事業として再び夜空に大輪を咲かせるという展開は、都市の発展と祭りの継承がどのように関わり合うのかを考えるうえでも、示唆に富む出来事と言えるでしょう。',NULL,'tokyo-bay-grand-fireworks-festival','tokyo-bay-grand-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+東京湾大華火祭は、海上を舞台とする開放的な構成と、都心臨海部という立地を兼ね備えた、東京を代表する花火大会です。1988年の初回開催から、約12,000発・最盛期72万人動員という隆盛、そして晴海地区の再開発による中断、さらに中央区・港区80周年を機とした2026年の復活まで、その歩みは一貫して臨海部・東京の都市の変遷とともにありました。一度は途絶えた大規模花火大会が、地域の記念事業として再び夜空に大輪を咲かせるという展開は、都市の発展と祭りの継承がどのように関わり合うのかを考えるうえでも、示唆に富む出来事と言えるでしょう。','## Overview
+
+The Tokyo Bay Grand Fireworks Festival (Tokyo Wan Daihanabi Sai) is one of the largest fireworks displays in Tokyo, organized chiefly by Chuo Ward and held at and around Harumi Pier. Since its first staging in 1988, around 12,000 fireworks have colored the night sky over the waters of Tokyo Bay, and at its peak in 2015 the event drew approximately 720,000 spectators. The sight of large fireworks launched from barges on the water, set against the surface of Tokyo Bay and the high-rise buildings of the waterfront, has long been cherished by many as a representative summer tradition of the capital, Tokyo.
+
+The appeal of this event lies in using the open water, rather than the gaps between buildings, as its venue. Because the view is not blocked by structures on the ground, fireworks can be deployed grandly across the wide night sky, creating a sense of scale not found in inland fireworks displays. The openness unique to the bayside, and the composition in which fireworks overlap with the glittering night view of a great city, paint a splendor found only over Tokyo Bay. The time spent gazing at fireworks reflected on the water''s surface while feeling the sea breeze is a special moment, offering an extraordinary experience while remaining in the heart of the city.
+
+## History and Origins
+
+The Tokyo Bay Grand Fireworks Festival held its first edition in 1988 (Showa 63). The venue was Harumi Pier and its surroundings, and adopting a format in which fireworks were launched from barges floated on the waters of Tokyo Bay, it gradually took root as a large-scale fireworks display that could be casually enjoyed in the city''s waterfront. The offshore launch method using barges had the advantage of allowing large shells to be deployed across the wide sky while securing a safe distance from spectators, and this became a major characteristic of the event. With around 12,000 fireworks, it grew into one of the foremost fireworks displays in Tokyo in both scale and renown, mobilizing an enormous crowd of about 720,000 spectators at its peak in 2015.
+
+However, because the Harumi district that had long served as the venue became the target of large-scale urban redevelopment, the event was forced into a long suspension after its 2015 staging. As the waterfront, prime land in the city center, transformed greatly through development, it became difficult to secure the vast launch site and viewing space. Behind this lay circumstances unique to a major city, in which the continuation of a historic fireworks display is swayed by the changes of the city itself.
+
+Later, as both Chuo Ward and Minato Ward reached milestones in their municipal histories, it was decided to revive the event in 2026 after an 11-year interval as a project commemorating the 80th anniversary of both wards. For the revival, the launch site is offshore of Harumi Pier in the Port of Tokyo, with a plan to set off about 12,200 fireworks, and multiple viewing venues including the main Harumi venue are to be set up. A large-scale fireworks display that had once been discontinued is set to bloom great flowers in the night sky once more, timed to a commemorative year for the region. This very journey of suspension and revival is inseparably intertwined with the transformation of the waterfront and of Tokyo as a city.
+
+## Highlights
+
+The greatest highlight is the grand display of around 12,000 fireworks launched from the waters of Tokyo Bay. By using offshore barges as launch bases, fireworks can be deployed grandly across the vast night sky without the view being blocked by buildings on the ground. The way each large shell opens leisurely in a sky with nothing to obstruct it is a powerful feature unique to an offshore venue. The composition in which fireworks bloom against urban scenery such as the high-rise buildings of the waterfront subcenter and the Rainbow Bridge, a symbol of the bay, creates a one-of-a-kind splendor that can only be painted over Tokyo Bay.
+
+For the revival, multiple viewing venues in addition to the main Harumi venue are prepared so that fireworks can be enjoyed from various angles. Because the way the fireworks appear and the scenery behind them differ from venue to venue, encountering fireworks with different expressions depending on where you watch is one way to enjoy the event. The experience of gazing at the shimmering light of fireworks reflected on the water''s surface while feeling the sea breeze on your skin is a delight unique to a bayside fireworks display. The sight of large fireworks opening in succession across such an open sky in the very center of a great city leaves a strong and vivid impression on visitors.
+
+## Access and Visiting Information
+
+The Tokyo Bay Grand Fireworks Festival was long held around Harumi Pier as a summer tradition. Suspended after 2015, it will be revived in 2026 as a project commemorating the 80th anniversary of Chuo Ward and Minato Ward. The launch site for the revival is offshore of Harumi Pier in the Port of Tokyo, and viewing venues including the main Harumi venue are to be set up at multiple locations. Because viewing methods, the details of each venue, and whether tickets are required differ by year and venue, it is important to always check the latest information from the official guidance of the organizers, such as Chuo Ward.
+
+The area around the venue is in the city''s waterfront, so public transportation is the basic means of attending. Because an extremely large crowd is expected every year, traffic restrictions and heavy congestion occur in various places around the area on the day. Moving to your viewing spot early, and planning your actions with the return-trip congestion in mind, are keys to enjoying the fireworks safely and comfortably.
+
+## Nearby Attractions
+
+The Harumi and waterfront area that serves as the venue is a district where Tokyo''s most cutting-edge urban scenery spreads out. Many waterfront highlights gather here, such as Odaiba Seaside Park, the Rainbow Bridge, and the large commercial facilities of Toyosu, so you can spend a full day strolling the bayside area along with the fireworks display. Access to the city center is also good, and by combining a visit with the central districts of Chuo Ward such as Ginza, you can bring shopping, dining, and fireworks viewing into a single itinerary. The location lets you savor the area''s appeal by time of day, with the open scenery of the waterfront by day and the grand fireworks by night.
+
+## Related Information
+
+The Tokyo Bay Grand Fireworks Festival is a representative fireworks display of Tokyo, combining an open composition staged over the water with a location in the city''s waterfront. From its first staging in 1988, through the heyday of around 12,000 fireworks and 720,000 spectators, the suspension caused by the redevelopment of the Harumi district, and on to its 2026 revival timed to the 80th anniversary of Chuo and Minato Wards, its course has consistently moved together with the transformation of the waterfront and of Tokyo. The development in which a large-scale fireworks display that was once discontinued blooms great flowers in the night sky again as a regional commemorative project is a suggestive event for considering how the development of a city and the inheritance of a festival relate to one another.','tokyo-bay-grand-fireworks-festival','tokyo-bay-grand-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11235573','NHK音楽祭','NHK Music Festival','日本放送協会（NHK）とNHKプロモーションが企画制作する音楽祭','music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/NHK%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q510847','初午','Hatsuuma','2月の最初の午の日',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hatsuuma-festival%2CHrooka-inari%2CTajyuku%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E5%88%9D%E5%8D%88',NULL,85,'drafted','## 概要
 
@@ -8121,7 +8153,39 @@ INSERT INTO "festivals" VALUES('Q57388689','いいやま雪まつり','Iiyama Sn
 
 ## 関連情報
 
-いいやま雪まつりは、豪雪という土地の宿命を地域の魅力へと反転させた、雪国らしい知恵の結晶と言える祭りです。市民が主体となって雪像を制作し、まち全体を舞台に冬を楽しむというスタイルは、行政が一方的に見せる催しとは異なる、住民参加型のあたたかさを備えています。雪像づくりに込められた手づくりの温もりや、まちぐるみで冬を盛り上げようとする一体感は、訪れる人にも自然と伝わってきます。長く厳しい冬のただなかで、飯山の人々が雪とともに生き、雪を楽しみながら暮らしてきたその姿を映し出す行事として、いいやま雪まつりはこれからも地域の冬を彩り続けていきます。',NULL,'iiyama-yuki-matsuri','iiyama-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+いいやま雪まつりは、豪雪という土地の宿命を地域の魅力へと反転させた、雪国らしい知恵の結晶と言える祭りです。市民が主体となって雪像を制作し、まち全体を舞台に冬を楽しむというスタイルは、行政が一方的に見せる催しとは異なる、住民参加型のあたたかさを備えています。雪像づくりに込められた手づくりの温もりや、まちぐるみで冬を盛り上げようとする一体感は、訪れる人にも自然と伝わってきます。長く厳しい冬のただなかで、飯山の人々が雪とともに生き、雪を楽しみながら暮らしてきたその姿を映し出す行事として、いいやま雪まつりはこれからも地域の冬を彩り続けていきます。','## Overview
+
+The Iiyama Snow Festival (Iiyama Yuki Matsuri) is a major winter event held every year on the second Saturday and Sunday of February in Iiyama City, Nagano Prefecture. Located in the Kita-Shinshu region, Iiyama is one of Japan''s heaviest snowfall areas, and in winter the entire region is blanketed in deep snow. Rather than treating this abundant snow as a mere obstacle, the festival was born from the idea of making the most of it as a treasure of the region. Snow sculptures large and small line the streets throughout the city, creating a spectacular scene that draws more than 50,000 visitors each year. In 2026 the festival marks its 43rd edition.
+
+A key feature of this festival is that it is not confined to its main venue at Iiyama Castle Ruins Park, but unfolds across the entire city of Iiyama. As you walk through town, you encounter impressive snow sculptures everywhere, from corners of shopping streets to the fronts of community facilities, turning the whole city into a kind of open-air snow museum. Snow sculptures handmade by residents, various events held on the snow, and the lights and fireworks that color the night all come together to brighten the entire city during the long, harsh winter.
+
+## History and Origins
+
+The Iiyama Snow Festival grew out of a deeply rooted local wisdom: how to spend the long winter in a rich and enjoyable way in Iiyama, one of Japan''s snowiest regions. For people in snow country, the winter buried under deep snow places heavy burdens on travel and daily life. The starting point of this festival was the idea of transforming that snow from something merely to be endured into a regional resource, a stage on which residents themselves could take the lead in having fun.
+
+As the years passed, snow sculpture making took firm root among residents and various groups. Neighborhood associations, schools, and companies each created snow sculptures with their own ideas and set them up throughout the city, until the festival became so established that "winter in Iiyama means the snow festival." Reaching its 43rd edition in 2026, this long history shows that the festival is not a one-off tourist event but a culture nurtured and handed down across generations by local people. The backbone of the Iiyama Snow Festival is this history of turning the fate of a heavy-snow region into a source of pride and enjoyment for the whole community.
+
+## Highlights
+
+The greatest highlight is the array of snow sculptures lining the city. Centered on the main venue at Iiyama Castle Ruins Park, sculptures large and small are scattered throughout the town, and in the snow sculpture contest, creators compete in skill and imagination each year. Because the handmade sculptures change in theme and design from year to year, no two years are ever the same, and simply walking around to see them naturally becomes a tour of the city of Iiyama. This high degree of "walkability," in which you encounter one highlight after another while strolling rather than experiencing everything in a single plaza, is a major appeal not found in other snow festivals.
+
+At night, the snow sculptures are illuminated, showing a fantastical expression entirely different from daytime. Light plays off the whiteness of the snow, and sculptures seen by day appear like different works after dark. In addition, the concurrently held "Kamakura no Sato Kamakura Festival" offers experiences unique to snow country, such as kamakura (snow hut) shops where you can enjoy warm meals inside the huts, and a kamakura fireworks display lighting up the snowfields. Beyond simply viewing the sculptures, being able to enter a kamakura, touch the snow, and savor the very time spent in the snow with all five senses is the essence of this festival.
+
+## Access and Visiting Information
+
+The festival is held every year on the second Saturday and Sunday of February. The main venue is Iiyama Castle Ruins Park, but as noted, the entire city of Iiyama serves as the festival grounds. Since sculptures and event sites are scattered throughout the city, it is helpful to use the festival''s town guide map and plan your route in advance to see them efficiently. For the latest dates, venues, and event details, it is best to check the official Iiyama Snow Festival information.
+
+For access, Iiyama Station on the Hokuriku Shinkansen serves as the gateway, making it convenient to visit from the Tokyo metropolitan area and the Hokuriku region. The good access from the Shinkansen station to the venues makes it easy to visit even from afar, whether as a day trip or an overnight stay. At the same time, the area around the venues becomes bitterly cold with heavy snow at the height of February. Warm clothing, of course, and shoes that do not slip on snowy roads, are essential preparations for enjoying the festival with peace of mind.
+
+## Nearby Attractions
+
+Iiyama City is sometimes called the "Little Kyoto of Snow Country," a town where the atmosphere of a temple district remains strong. Many temples line the city center, and you can stroll through its quiet, refined streetscape. Iiyama is also known for traditional crafts, including the Iiyama Buddhist altars (Iiyama butsudan) that carry on the techniques of altar making, and Uchiyama paper, a handmade paper of snow country, both still carefully preserved today. Touring such crafts and the temple district between festival visits gives a deeper sense of the depth of Iiyama as a place.
+
+Furthermore, ski resorts that make use of the region''s high-quality snow are scattered around Iiyama, and combining the snow festival with winter sports is popular. Winter in Kita-Shinshu is also blessed with hot spring areas, so you can enjoy snow sculptures and skiing during the day and then warm yourself leisurely in a snow-view hot spring at night, an indulgent way to spend time unique to snow country.
+
+## Related Information
+
+The Iiyama Snow Festival can be called a crystallization of snow-country wisdom that turned the fate of a heavy-snow land into a regional attraction. The style in which residents take the lead in creating snow sculptures and enjoy winter with the whole town as the stage has a participatory warmth different from an event one-sidedly presented by the government. The handmade warmth poured into the sculptures and the sense of unity in brightening winter as a community naturally come across to visitors as well. As an event that reflects how the people of Iiyama have lived with and enjoyed the snow in the midst of the long, harsh winter, the Iiyama Snow Festival will continue to color the region''s winters for years to come.','iiyama-yuki-matsuri','iiyama-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q61057617','大阪世界帆船まつり','Osaka Sekai Hansen Matsuri',NULL,'festival',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%96%E7%95%8C%E5%B8%86%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48744152','湯涌ぼんぼり祭り','Yuwaku Bonbori Matsuri','石川県金沢市湯涌温泉の祭り',NULL,'Q11563731','湯涌温泉','Yuwaku Onsen','石川県','chubu',NULL,NULL,2011,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Yuwaku%20Bonbori%20sending-off%20ceremony%20for%20the%20god%202012-10-06.JPG','https://ja.wikipedia.org/wiki/%E6%B9%AF%E6%B6%8C%E3%81%BC%E3%82%93%E3%81%BC%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
@@ -10911,11 +10975,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
