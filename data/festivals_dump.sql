@@ -2834,7 +2834,71 @@ INSERT INTO "festivals" VALUES('Q11256803','愛染まつり','Aizen Festival','�
 INSERT INTO "festivals" VALUES('Q11269668','すすきのアイスワールド','Susukino Ice World','札幌市中央区で開催しているイベント',NULL,'Q11521497','札幌駅前通','Sapporo Ekimae-dori','北海道','hokkaido',NULL,NULL,1981,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11256639','あいちトリエンナーレ','Aichi Triennale','国際芸術祭','international arts festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%84%E3%81%A1%E3%83%88%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11263357','お船祭り (須々岐水神社)','Ship Festival (Susukigisui Shrine)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E8%88%B9%E7%A5%AD%E3%82%8A_(%E9%A0%88%E3%80%85%E5%B2%90%E6%B0%B4%E7%A5%9E%E7%A4%BE)',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11261730','おたる潮まつり','Otaru Ushio Matsuri','小樽市の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.202940261,141.007523346,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%82%8B%E6%BD%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11261730','おたる潮まつり','Otaru Ushio Matsuri','小樽市の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.202940261,141.007523346,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%82%8B%E6%BD%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'drafted','## 概要
+
+おたる潮（うしお）まつりは、北海道小樽市で毎年7月末の金・土・日曜日の三日間にわたって開催される、小樽最大の夏祭りです。歴史や文化の伝承とまちの発展を祈念して1967年（昭和42年）に始まり、以来、港町・小樽の夏を彩る一大行事として親しまれてきました。祭りのメインとなるのは、町内会や学校、企業などがそれぞれグループを組み、「潮音頭（うしおおんど）」の曲に合わせて市内中心部から港まで踊り練り歩く「潮ねりこみ」です。色とりどりの揃いの衣装をまとった大勢の踊り手が、潮音頭のリズムに乗って港へと向かう光景は壮観で、まち全体が祭りの熱気に包まれます。近年では年間100万人から130万人規模もの来場者を集める、北海道を代表する夏祭りへと成長しました。2026年には記念すべき第60回を迎えます。
+
+港町・小樽の人々が、海とともに歩んできたまちの歴史を祝い、その発展を願って踊り、そして最終日には夜空を彩る大花火大会で祭りを締めくくる。海の恵みへの感謝とまちへの誇りが込められた、小樽の夏の象徴ともいえる祭りです。
+
+## 歴史・由来
+
+おたる潮まつりは、1967年（昭和42年）に誕生しました。それまで小樽では、港まつりや競争花火大会、工業品共進会といったさまざまな催しが個別に行われていましたが、これらを一つに統合し、まちを挙げての大きな夏祭りとして再編したのが、おたる潮まつりの始まりです。歴史や文化を次の世代へ伝えるとともに、港町・小樽のさらなる発展を祈念するという明確な目的のもとに、市民が一体となって創り上げた祭りでした。
+
+小樽は明治から大正、昭和初期にかけて、北海道の海の玄関口として、また商業と金融の一大拠点として大いに栄えた港町です。その繁栄を支えてきた海への感謝と、まちの未来への願いが、潮まつりという形に結実しました。複数の催しを統合して生まれたという成り立ちは、市民みんなで一つの祭りを育てていこうという小樽の人々の気概を象徴しています。誕生から半世紀以上を経て、2026年には第60回という大きな節目を迎えることからも、この祭りがいかに深く市民に根づき、世代を超えて愛され続けてきたかがうかがえます。
+
+## 見どころ
+
+最大の見どころは、祭りのメインイベントである「潮ねりこみ」です。町内会・学校・企業などがそれぞれグループ（連）を組み、「潮音頭」の曲に合わせて、市内中心部から港へ向かって踊りながら練り歩きます。揃いの衣装に身を包んだ大勢の踊り手が、潮音頭の軽快なリズムに乗って一斉に体を動かし、列をなして港を目指す光景は迫力満点で、見る者を圧倒します。
+
+祭りは「潮ふれこみ」で華やかに幕を開け、開祭式では御神水奉納や点灯式が執り行われます。中日には潮ねりこみが、最終日には神輿パレードが繰り広げられ、三日間を通じてまちが祭り一色に染まります。そして祭りのフィナーレを飾るのが、最終日に港の夜空を彩る大花火大会です。海の上に大輪の花火が次々と打ち上げられ、水面に映り込む光とともに、潮まつりの締めくくりにふさわしい感動的な光景を生み出します。踊りの熱気と花火の華やかさ、そして港町ならではの開放的な雰囲気が一体となった三日間は、小樽の夏のクライマックスです。
+
+潮ねりこみには、毎年数千人規模の踊り手が連を組んで参加し、その隊列が市内中心部から港までの道のりを埋め尽くします。老若男女を問わず、地元の人々が世代を超えて同じ潮音頭を踊り継ぐ姿には、まちぐるみで祭りを育ててきた小樽ならではの一体感がにじみます。沿道を埋める見物客の手拍子と踊り手のかけ声が響き合い、港町全体が一つのリズムに包まれていきます。そして最終日の夜、港の上空に次々と打ち上げられる大花火は、三日間の祭りの熱気を一気に解き放つかのように夜空を染め上げ、小樽湾の水面にその光を映し出します。海を舞台にした花火は、港町・小樽の祭りを締めくくるにふさわしい、忘れがたいフィナーレとなります。
+
+## 開催情報・アクセス
+
+おたる潮まつりは、毎年7月末の金・土・日曜日の三日間にわたって開催されます。初日に潮ふれこみと開祭式、中日に潮ねりこみ、最終日に神輿パレードと大花火大会という流れが基本となります。会場は小樽市の中心部から港にかけての一帯で、最新の日程や各イベントの詳細、コースについては、おたる潮まつりの公式案内で確認するのが確実です。なお近年は熱中症対策として、潮ねりこみや神輿パレードのコースが短縮されることもあります。
+
+アクセスは、JR函館本線の小樽駅が玄関口となり、駅から会場までは徒歩圏内と便利です。札幌からも鉄道で短時間で訪れることができ、道内外からのアクセスに優れています。祭礼期間中は中心部で大規模な交通規制が敷かれ、多くの来場者でにぎわうため、公共交通機関の利用が推奨されます。
+
+## 周辺の見どころ
+
+小樽は、明治・大正期の繁栄を今に伝えるレトロな港町として、全国的に人気の観光地です。石造りの倉庫が立ち並ぶ小樽運河は、小樽を象徴する景観として知られ、夕暮れにガス灯がともる運河沿いの散策は格別の風情があります。また、かつて「北のウォール街」と呼ばれた金融街の歴史的建造物群や、ガラス工芸、オルゴール、海の幸を味わえる寿司の名店など、見どころとグルメに事欠きません。潮まつりの熱気を楽しんだ後に、運河や歴史的街並みをめぐれば、港町・小樽の魅力を余すところなく満喫できます。
+
+## 関連情報
+
+おたる潮まつりは、複数の既存の催しを統合して1967年に誕生したという、市民の手で創り上げられた経緯を持つ、比較的歴史の新しい祭りです。しかしその根底には、海とともに栄えてきた港町・小樽の長い歴史への誇りと、海の恵みへの感謝、そしてまちの発展への願いという、深い思いが流れています。潮ねりこみで市民が一体となって踊り、大花火大会で夏空を彩るその姿は、まちを挙げて祭りを育ててきた小樽の人々の心意気そのものです。年間100万人を超える来場者を集める北海道屈指の夏祭りとして、2026年の第60回という節目を迎えてなお、おたる潮まつりはこれからも港町・小樽の夏を熱く彩り続けていきます。','## Overview
+
+The Otaru Ushio Matsuri (Otaru Tide Festival) is the largest summer festival in Otaru, held over three days on the Friday, Saturday, and Sunday at the end of July each year in Otaru City, Hokkaido. It began in 1967 (Showa 42) to pray for the transmission of history and culture and for the development of the town, and since then it has been cherished as a major event coloring the summer of the port town of Otaru. The main feature of the festival is the "Ushio Nerikomi," in which neighborhood associations, schools, companies and others each form groups and dance their way from the city center to the port in time to the tune of the "Ushio Ondo." The spectacle of large numbers of dancers in colorful matching costumes heading toward the port to the rhythm of the Ushio Ondo is magnificent, and the whole town is wrapped in the festival''s heat. In recent years it has grown into a representative summer festival of Hokkaido, drawing crowds on the scale of one to 1.3 million visitors per year. In 2026 it marks its memorable 60th edition.
+
+The people of the port town of Otaru celebrate the history of a town that has walked together with the sea, dance in hope of its development, and on the final day bring the festival to a close with a grand fireworks display coloring the night sky. Filled with gratitude for the sea''s bounty and pride in the town, it can be called a symbol of Otaru''s summer.
+
+## History and Origins
+
+The Otaru Ushio Matsuri was born in 1967 (Showa 42). Until then, various events such as a port festival, a competitive fireworks display, and an industrial products exhibition had been held separately in Otaru, and the beginning of the Otaru Ushio Matsuri was the reorganization of these into one, as a large town-wide summer festival. It was a festival created with citizens united, under the clear purpose of conveying history and culture to the next generation while praying for the further development of the port town of Otaru.
+
+From the Meiji through the Taisho and early Showa eras, Otaru flourished greatly as the maritime gateway of Hokkaido and as a major hub of commerce and finance. Gratitude to the sea that supported that prosperity, and a wish for the town''s future, came to fruition in the form of the Ushio Matsuri. Its origin, born by integrating multiple events, symbolizes the spirit of the people of Otaru to nurture a single festival all together. More than half a century after its birth, the fact that it reaches the major milestone of its 60th edition in 2026 shows just how deeply this festival has taken root among citizens and continued to be loved across generations.
+
+## Highlights
+
+The greatest highlight is the "Ushio Nerikomi," the festival''s main event. Neighborhood associations, schools, companies and others each form groups (ren) and dance their way from the city center toward the port in time to the tune of the "Ushio Ondo." The spectacle of large numbers of dancers in matching costumes moving in unison to the lively rhythm of the Ushio Ondo, forming lines as they head for the port, is full of impact and overwhelms onlookers.
+
+The festival opens splendidly with the "Ushio Furekomi," and at the opening ceremony, the dedication of sacred water and a lighting ceremony are performed. On the middle day the Ushio Nerikomi takes place, and on the final day a portable shrine parade unfolds, so that throughout the three days the town is dyed entirely in festival colors. And bringing the festival''s finale is the grand fireworks display coloring the port''s night sky on the final day. Large fireworks are launched one after another over the sea, and together with the light reflected on the water''s surface, they create a moving scene befitting the conclusion of the Ushio Matsuri. The three days, in which the heat of the dancing, the splendor of the fireworks, and the open atmosphere unique to a port town are united, are the climax of Otaru''s summer.
+
+Several thousand dancers form groups and participate in the Ushio Nerikomi each year, and their procession fills the route from the city center to the port. The sight of local people of all ages dancing the same Ushio Ondo across generations conveys the sense of unity unique to Otaru, which has nurtured the festival as a whole town. The hand-clapping of spectators lining the route and the shouts of the dancers resonate together, and the entire port town comes to be wrapped in a single rhythm. Then, on the night of the final day, the grand fireworks launched one after another above the port dye the night sky as if releasing all at once the heat of the three-day festival, casting their light onto the surface of Otaru Bay. The fireworks staged over the sea make for an unforgettable finale befitting the conclusion of the festival of the port town of Otaru.
+
+## Access and Visiting Information
+
+The Otaru Ushio Matsuri is held over three days on the Friday, Saturday, and Sunday at the end of July each year. The basic flow is the Ushio Furekomi and opening ceremony on the first day, the Ushio Nerikomi on the middle day, and the portable shrine parade and grand fireworks display on the final day. The venue stretches from the center of Otaru City to the port, and for the latest dates, details of each event, and routes, it is best to check the official information of the Otaru Ushio Matsuri. Note that in recent years, as a measure against heatstroke, the routes of the Ushio Nerikomi and the portable shrine parade are sometimes shortened.
+
+For access, Otaru Station on the JR Hakodate Main Line serves as the gateway, and the venue is conveniently within walking distance of the station. It can also be reached from Sapporo by rail in a short time, offering excellent access from within and outside Hokkaido. During the festival period, large-scale traffic restrictions are in place in the center, and it bustles with many visitors, so the use of public transportation is recommended.
+
+## Nearby Attractions
+
+Otaru is a nationally popular tourist destination as a retro port town that conveys the prosperity of the Meiji and Taisho eras to the present. The Otaru Canal, lined with stone warehouses, is known as the scenery that symbolizes Otaru, and a stroll along the canal where gas lamps light up at dusk has an exceptional charm. There is also no shortage of sights and gourmet experiences, such as the group of historic buildings in the financial district once called the "Wall Street of the North," glass crafts, music boxes, and renowned sushi restaurants where you can savor the bounty of the sea. After enjoying the heat of the Ushio Matsuri, touring the canal and the historic streetscape lets you fully savor the charm of the port town of Otaru.
+
+## Related Information
+
+The Otaru Ushio Matsuri is a relatively new festival with a history of having been created by the hands of citizens, born in 1967 by integrating several existing events. Yet at its foundation flows a deep sentiment: pride in the long history of the port town of Otaru, which has flourished together with the sea, gratitude for the sea''s bounty, and a wish for the town''s development. The sight of citizens dancing as one in the Ushio Nerikomi and coloring the summer sky with the grand fireworks display is the very spirit of the people of Otaru, who have nurtured the festival as a whole town. As one of Hokkaido''s foremost summer festivals, drawing more than a million visitors a year, even as it reaches the milestone of its 60th edition in 2026, the Otaru Ushio Matsuri will continue to warmly color the summers of the port town of Otaru for years to come.','otaru-ushio-matsuri','otaru-ushio-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11263690','かごしま錦江湾サマーナイト大花火大会',NULL,'桜島に面した鹿児島港本港区で毎年8月に開催される花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%94%E3%81%97%E3%81%BE%E9%8C%A6%E6%B1%9F%E6%B9%BE%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11267368','さいすくい','Saisukui',NULL,NULL,'Q861221','中津市','Nakatsu','三重県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%84%E3%81%99%E3%81%8F%E3%81%84',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿児島県鹿児島市で行われる祭り','Festival in Kagoshima, Japan','Q11442666','天文館','Tenmonkan','鹿児島県','kyushu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Ohara%20festival%20in%20Kagoshima.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD',NULL,85,'drafted','おはら祭は、鹿児島県鹿児島市で毎年11月2日・3日に開催される、南九州最大級の秋祭りです。1949年（昭和24年）、鹿児島市制60周年を記念して始まりました。市の中心部、天文館一帯のメインストリートを舞台に、揃いの法被や浴衣に身を包んだ踊り手が、鹿児島の代表的な民謡「おはら節」や「鹿児島ハンヤ節」に合わせて踊り流す姿は、市民総出の華やかな光景です。
@@ -7286,7 +7350,71 @@ INSERT INTO "festivals" VALUES('Q109369110','秋コレ',NULL,NULL,NULL,NULL,NULL
 INSERT INTO "festivals" VALUES('Q86737956','額田のダシ行事',NULL,NULL,NULL,'Q4819566','夜久野町','Yakuno',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%A1%8D%E7%94%B0%E3%81%AE%E3%83%80%E3%82%B7%E8%A1%8C%E4%BA%8B',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109362097','日本国際美術展',NULL,NULL,NULL,'Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1952,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E7%BE%8E%E8%A1%93%E5%B1%95',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q85868916','さっぽろ雪まつりK-POP FESTIVAL','Sapporo Snow Festival K-POP Fest','さっぽろ雪まつりのK-POPイベント','K-POP festival held annually in Sapporo, Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2009,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8AK-POP_FESTIVAL',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q110915859','御笏神社','Oshaku Shrine','東京都三宅村の神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'東京都','kanto',34.119994,139.522254,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%AC%8F%E7%A5%9E%E7%A4%BE',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q110915859','御笏神社','Oshaku Shrine','東京都三宅村の神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'東京都','kanto',34.119994,139.522254,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%AC%8F%E7%A5%9E%E7%A4%BE',NULL,75,'drafted','## 概要
+
+御笏神社（おしゃくじんじゃ）は、東京都三宅村、伊豆諸島の一つである三宅島の旧神着（かみつき）村に鎮座する神社です。三宅島は古くから島独自の信仰文化を育んできた島で、御笏神社はそのなかでも由緒ある古社の一つとして、島の人々の暮らしと深く結びついてきました。祭神は三島大明神と佐伎多麻比咩命（さきたまひめのみこと）の二座を中心に、八処の御子神その他が合祀されており、三島大明神を島々の総鎮守とする三宅島の信仰体系のなかで重要な位置を占めています。
+
+御笏神社で執り行われる「御笏神社の神事」は、東京都指定の無形民俗文化財となっており、島に伝わる古い舞や島太鼓の演奏など、三宅島ならではの歌と踊りが受け継がれています。火山島という厳しくも豊かな自然のなかで、疫病退散や厄除け、島の安寧を願ってきた島民の祈りが、神事という形をとって今日まで連綿と伝えられてきました。
+
+## 歴史・由来
+
+御笏神社の創祀年代は明らかではありませんが、その由緒は古く、島の歴史を記した「三宅記」にも記される由緒ある神社として知られています。社伝によれば、永正13年（1516年）に神託によって現在地へ遷宮されたと伝えられており、少なくとも室町時代後期にはすでに島内で重きをなしていたことがうかがえます。三宅島は三島大明神を島々の親神とする独特の信仰圏を形づくっており、御笏神社はその信仰のなかで、神着村の鎮守として人々の崇敬を集めてきました。
+
+祭神の一座である佐伎多麻比咩命をはじめ、八処の御子神その他が合祀されている点は、三島大明神を中心とする島の神々の系譜が、御笏神社に重層的に祀られていることを示しています。火山活動と隣り合わせの三宅島では、噴火や疫病といった災いが島の暮らしを幾度も脅かしてきました。そうしたなかで、人々は神々に祈ることで島の無事を願い、御笏神社はその祈りの中心の一つとして、長い歳月を通じて島の信仰を支え続けてきたのです。神託による遷宮という由来そのものが、島の人々が神の意を畏れ敬いながら暮らしてきたことを物語っています。
+
+## 見どころ
+
+御笏神社の最大の見どころは、東京都指定無形民俗文化財に指定されている「御笏神社の神事」です。この神事では、島に古くから伝わる舞や、力強い島太鼓の演奏が奉納され、三宅島ならではの歌と踊りを目にすることができます。本土の祭礼とは異なる、島嶼ならではの独特の所作やリズムには、海に囲まれた島で独自に育まれてきた信仰文化の深みが感じられます。
+
+神社そのものも、火山島の豊かな自然に抱かれた静謐な空間にあり、本土の喧騒から離れた島の鎮守らしい厳かな雰囲気をたたえています。鬱蒼とした緑に囲まれた境内に身を置けば、島の人々が長い歳月をかけて守り伝えてきた信仰の重みが、静かに伝わってきます。疫病退散や厄除けを願う島民の素朴で切実な祈りが、神事の一つひとつの所作に込められており、その姿は訪れる人の心に深い印象を残します。
+
+三宅島の信仰の特徴は、三島大明神を島々全体の親神とし、その御子神を各村の神社に祀るという、島全体が一つの神々の系譜で結ばれている点にあります。御笏神社に佐伎多麻比咩命をはじめ八処の御子神その他が合祀されているのも、この島独自の信仰体系を色濃く反映したものです。本土の神社が個々に独立した存在であるのとは異なり、三宅島の神社は互いに神縁で結ばれ、島全体で一つの大きな信仰世界を形づくっています。御笏神社は、その世界のなかで神着村の鎮守としての役割を担い、島民の暮らしの節目ごとに祈りを受け止めてきました。火山島という、いつ噴火が起こるとも知れない緊張をはらんだ環境で暮らす島の人々にとって、神々への祈りは単なる慣習ではなく、命と暮らしを守るための切実な営みであったのです。
+
+## 開催情報・アクセス
+
+御笏神社の神事や元旦祭などの祭礼は、神社の年中行事として執り行われます。例祭をはじめとする神事の日程は年によって定められるため、参拝や見学を希望する場合は、三宅島の神社に関する案内や三宅村の観光情報で事前に確認するのが確実です。
+
+三宅島へのアクセスは、東京の竹芝桟橋から発着する大型客船、または調布飛行場からの航空便が主な手段となります。島内では、御笏神社が鎮座する旧神着村まで、レンタカーや路線バスを利用して移動します。離島であるため移動には相応の時間を要しますが、その分、本土では味わえない島ならではの信仰と自然に深くふれることができます。
+
+## 周辺の見どころ
+
+三宅島は、活火山である雄山（おやま）を擁する火山島で、ダイナミックな火山地形と豊かな自然が魅力です。溶岩流が固まってできた海岸線や、火山活動によって形づくられた独特の景観は、島ならではの見どころとなっています。また、三宅島はバードウォッチングの聖地としても知られ、アカコッコをはじめとする貴重な野鳥が数多く生息しています。御笏神社のほかにも、三島大明神を祀る富賀神社など島内には由緒ある神社が点在しており、島の信仰をめぐる巡拝も楽しめます。海と山と信仰が一体となった三宅島の自然と文化を、神社参拝と合わせて堪能できます。
+
+## 関連情報
+
+御笏神社は、三島大明神を島々の総鎮守とする三宅島独特の信仰体系のなかで、神着村の鎮守として古くから崇敬を集めてきた由緒ある神社です。「三宅記」に記され、永正13年の神託による遷宮を伝えるその歴史は、島の人々が火山島という厳しい環境のなかで、神々への祈りを支えに暮らしを営んできたことを今に伝えています。東京都指定無形民俗文化財である「御笏神社の神事」に受け継がれる舞や島太鼓は、本土とは異なる島嶼独自の信仰文化を体現する貴重な遺産であり、三宅島の歴史と暮らしを理解するうえで欠かすことのできない存在と言えます。','## Overview
+
+Oshaku Shrine is a shrine located in the former Kamitsuki village of Miyakejima, one of the Izu Islands, in Miyake Village, Tokyo. Miyakejima has long nurtured a faith culture unique to the island, and Oshaku Shrine, as one of its historic old shrines, has been deeply connected with the daily life of the island''s people. Its enshrined deities center on two seats, Mishima Daimyojin and Sakitamahime-no-Mikoto, together with eight child deities and others enshrined alongside them, occupying an important position within the faith system of Miyakejima, which regards Mishima Daimyojin as the guardian deity of the islands.
+
+The "Rituals of Oshaku Shrine" performed at the shrine are designated as an Intangible Folk Cultural Property by the Tokyo Metropolitan Government, and ancient dances handed down on the island and performances of island drums (shimadaiko), songs and dances unique to Miyakejima, are passed down. Amid the harsh yet rich nature of a volcanic island, the prayers of the islanders for warding off epidemics and misfortune and for the peace of the island have been continuously handed down to the present in the form of these rituals.
+
+## History and Origins
+
+The exact date of Oshaku Shrine''s founding is not clear, but its origins are ancient, and it is known as a historic shrine recorded even in the "Miyake-ki," the chronicle of the island''s history. According to shrine tradition, it is said to have been relocated to its present site by divine oracle in 1516 (Eisho 13), suggesting that it already held importance on the island by at least the late Muromachi period. Miyakejima formed a distinctive sphere of faith regarding Mishima Daimyojin as the parent deity of the islands, and within that faith, Oshaku Shrine gathered the reverence of the people as the guardian shrine of Kamitsuki village.
+
+The fact that Sakitamahime-no-Mikoto, one of the enshrined deities, along with eight child deities and others, is enshrined together shows that the lineage of the island''s gods centered on Mishima Daimyojin is enshrined in a multilayered way at Oshaku Shrine. On Miyakejima, which lies side by side with volcanic activity, calamities such as eruptions and epidemics have threatened the island''s life many times. Amid this, people wished for the island''s safety by praying to the gods, and Oshaku Shrine, as one center of those prayers, has continued to support the island''s faith through long ages. The very origin of relocation by divine oracle tells of how the island''s people have lived while fearing and revering the will of the gods.
+
+## Highlights
+
+The greatest highlight of Oshaku Shrine is the "Rituals of Oshaku Shrine," designated as an Intangible Folk Cultural Property by the Tokyo Metropolitan Government. In these rituals, dances long handed down on the island and powerful performances of island drums are dedicated, and you can witness songs and dances unique to Miyakejima. In the distinctive gestures and rhythms unique to an island, different from the festivals of the mainland, one can feel the depth of a faith culture nurtured independently on an island surrounded by the sea.
+
+The shrine itself stands in a serene space embraced by the rich nature of a volcanic island, exuding the solemn atmosphere befitting a guardian shrine of an island far from the bustle of the mainland. Standing within the precincts surrounded by dense greenery, the weight of the faith that the island''s people have protected and handed down over long ages quietly comes through. The simple yet earnest prayers of the islanders, wishing for the warding off of epidemics and misfortune, are embodied in each gesture of the rituals, and that figure leaves a deep impression on the hearts of visitors.
+
+A distinctive feature of Miyakejima''s faith is that Mishima Daimyojin is regarded as the parent deity of all the islands, with his child deities enshrined at the shrines of each village, so that the whole island is bound together by a single lineage of gods. The enshrinement at Oshaku Shrine of Sakitamahime-no-Mikoto and eight child deities and others strongly reflects this faith system unique to the island. Unlike mainland shrines, which exist independently of one another, the shrines of Miyakejima are linked to each other by divine ties, forming a single great world of faith across the whole island. Within that world, Oshaku Shrine has served as the guardian shrine of Kamitsuki village, receiving prayers at every milestone of the islanders'' lives.
+
+## Access and Visiting Information
+
+The rituals of Oshaku Shrine and festivals such as the New Year''s rite are performed as the shrine''s annual events. Because the dates of rituals including the regular festival are set each year, those who wish to worship or observe are advised to check in advance through information on the shrines of Miyakejima or the tourism information of Miyake Village.
+
+Access to Miyakejima is mainly by large passenger ship departing from Takeshiba Pier in Tokyo, or by air from Chofu Airport. On the island, you travel to the former Kamitsuki village where Oshaku Shrine stands by rental car or local bus. As it is a remote island, travel requires a fair amount of time, but in exchange you can deeply experience the faith and nature unique to the island, not found on the mainland.
+
+## Nearby Attractions
+
+Miyakejima is a volcanic island with the active volcano Mount Oyama, attractive for its dynamic volcanic terrain and rich nature. The coastline formed by hardened lava flows and the distinctive scenery shaped by volcanic activity are highlights unique to the island. Miyakejima is also known as a sacred place for birdwatching, home to many precious wild birds including the Izu thrush (akakokko). Besides Oshaku Shrine, historic shrines such as Toga Shrine, which enshrines Mishima Daimyojin, are scattered across the island, so you can also enjoy a pilgrimage touring the island''s faith. Along with shrine worship, you can fully enjoy the nature and culture of Miyakejima, where sea, mountain, and faith are united.
+
+## Related Information
+
+Oshaku Shrine is a historic shrine that has long gathered reverence as the guardian shrine of Kamitsuki village within the distinctive faith system of Miyakejima, which regards Mishima Daimyojin as the overall guardian deity of the islands. Its history, recorded in the "Miyake-ki" and conveying the relocation by divine oracle in Eisho 13, conveys to the present how the island''s people have carried on their lives, sustained by prayers to the gods, in the harsh environment of a volcanic island. The dances and island drums handed down in the "Rituals of Oshaku Shrine," an Intangible Folk Cultural Property designated by the Tokyo Metropolitan Government, are a precious heritage embodying an island faith culture distinct from the mainland, and can be said to be indispensable for understanding the history and life of Miyakejima.','oshaku-shrine','oshaku-shrine',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109596038','活性の火',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B4%BB%E6%80%A7%E3%81%AE%E7%81%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109599618','MORNING RIVER SUMMIT',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/MORNING_RIVER_SUMMIT',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q105837985','でやんな祭',NULL,NULL,NULL,'Q543193','西ノ島町','Nishinoshima',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
