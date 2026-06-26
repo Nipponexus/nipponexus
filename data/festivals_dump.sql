@@ -4946,7 +4946,62 @@ The area around Nishi Park can be reached on foot or by subway from Ōmachi-Nish
 ## Around the Area
 
 Sendai, called the "City of Trees," is the largest, greenery-rich city of Tōhoku, with sights including the ruins of Sendai Castle (Aoba Castle) and the Zuihōden mausoleum associated with Date Masamune. Visitors can also enjoy Sendai specialties such as beef tongue, *sasa-kamaboko* fish cakes, and *zunda* edamame paste. As the gorgeous Sendai Tanabata Festival, in which lavish Tanabata decorations color the city center, begins the following day, a visit combined with the fireworks festival allows one to fully savor the summer of Sendai. It is also a convenient area as a gateway to nearby attractions such as Matsushima.','sendai-tanabata-fireworks-festival','sendai-tanabata-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11402390','北海へそ祭り','Hokkaido Belly Button Festival','日本の北海道の祭り','festival in Furano, Japan',NULL,NULL,NULL,'北海道','hokkaido',43.347434358,142.388015401,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11402390','北海へそ祭り','Hokkaido Belly Button Festival','日本の北海道の祭り','festival in Furano, Japan',NULL,NULL,NULL,'北海道','hokkaido',43.347434358,142.388015401,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A',NULL,75,'drafted','## 概要
+
+北海へそ祭り（ほっかいへそまつり）は、北海道富良野市で毎年7月28日・29日の固定日に開催される、富良野最大の夏祭りです。富良野市が北海道のほぼ地理的中心に位置することにちなんで、まちの「へそ（中心）」をテーマに掲げた、ユーモアあふれる祭りで、その奇抜な内容から「奇祭」としても全国に知られています。最大の名物は、腹部に大きな顔を描いた踊り手たちが、おどけた動きで練り歩く「北海へそ踊り」です。お腹に描かれたさまざまな表情の「顔」が、踊り手の動きに合わせてユーモラスに動くさまは、見る人を思わず笑顔にします。
+
+会場は富良野市の新相生通り商店街で、へそ踊りのほかにも、地元の食材を使った屋台が並ぶ「へそ特産市」や、市民によるダンスや音楽のパフォーマンスなど、子どもから年配の方まで楽しめる催しが二日間にわたって繰り広げられます。笑いと遊び心に満ちた、富良野の夏を象徴するにぎやかな祭りです。
+
+## 歴史・由来
+
+北海へそ祭りの中心となる「北海へそ踊り」は、1969年（昭和44年）に創作された、比較的歴史の新しい郷土芸能です。この踊りが生まれた背景には、富良野市の市民憲章があります。富良野は北海道の地理的中心にあたることから、その市民憲章は「わたしたちは、北海道の中心標が立つ富良野の市民です」という一文で始まります。この「北海道の中心＝へそ」という富良野ならではのアイデンティティを、市民みんなで楽しく共有し、まちの一体感を高めようという願いから、市民憲章の普及の一環として北海へそ踊りが創作されたのです。
+
+腹部に顔を描いて踊るという独創的な発想は、原生林に挑んだ富良野の先人たちが、臍下丹田（せいかたんでん）に力を込めて開拓に励んだことにちなむとも伝えられています。お腹を一つのキャンバスに見立て、そこに描いた顔を踊りで動かすという遊び心あふれる趣向は、見る人を楽しませると同時に、開拓のまち・富良野の歴史への思いも込められています。1969年の誕生以来、北海へそ祭りは富良野最大のイベントとして年々盛り上がりを見せ、まちの夏に欠かせない行事として定着してきました。比較的新しい祭りでありながら、富良野という土地の個性を見事に体現した、ユニークな郷土の祭りです。
+
+## 見どころ
+
+最大の見どころは、何といっても腹部に顔を描いた踊り手たちによる「北海へそ踊り」です。お腹に目・鼻・口を描き、頭からすっぽりと布をかぶって顔を隠した踊り手が、お腹の「顔」をあたかも本物の顔のように見せながら、おどけた動きで通りを練り歩きます。踊り手が腹を突き出したり引っ込めたりするたびに、お腹の顔が表情を変えて動くさまは、ユーモラスでなんとも愛嬌があり、沿道の観客から笑い声が絶えません。さまざまに工夫を凝らした「顔」を見比べる楽しさもあり、まさに「奇祭」の名にふさわしい独創性に満ちています。
+
+へそ踊りのほかにも、地元富良野の食材を使ったおいしい食べ物の屋台が並ぶ「へそ特産市」や、富良野市民によるダンスや音楽のパフォーマンスなど、二日間を通してさまざまな催しが用意されています。子どもからお年寄りまで、世代を問わず誰もが気軽に楽しめる、明るく開かれた雰囲気が、この祭りの大きな魅力です。勇壮さや荘厳さを競うのではなく、笑いと遊び心を前面に押し出したその姿は、見る人の心を和ませ、富良野の夏に楽しい彩りを添えています。
+
+北海へそ祭りは、富良野市が北海道のほぼ地理的中心に位置することにちなみ、人の体に例えれば「へそ」にあたるという発想から名付けられた祭りで、北真神社（へそ神社）の例大祭としても位置づけられています。祭りの主役である「図腹（ずばら）踊り」は、踊り手が自分の腹に大きな顔の絵を描き、大きな笠で頭を隠すことで腹そのものを一人の人物に見立てるという、他に類を見ない奇抜な趣向が特徴です。腹に描かれた愛嬌たっぷりの顔が北海節の調べに合わせてユーモラスに動き回る様子は見る者を笑顔にし、子どもから年配の方まで誰もが楽しめる富良野の夏の風物詩となっています。
+
+## 開催情報・アクセス
+
+北海へそ祭りは、毎年7月28日・29日の固定日に、北海道富良野市の新相生通り商店街を中心に開催されます。日付が固定されているため、毎年同じ時期に訪れる計画を立てやすいのも特徴です。へそ踊りのパレードや各種催しの詳細、開催時間については、ふらの北海へそ祭りの公式案内などで確認するのが確実です。
+
+アクセスは、JR富良野線・根室本線が乗り入れる富良野駅が玄関口となります。富良野はラベンダー畑をはじめとする観光地としても有名で、夏には多くの観光客が訪れるため、旭川方面や札幌方面からの鉄道・車でのアクセスも整っています。祭り期間中は会場周辺で交通規制が行われることがあるため、公共交通機関の利用が推奨されます。
+
+## 周辺の見どころ
+
+富良野は、北海道のほぼ中心に位置する、雄大な自然に恵まれたまちです。夏には一面に咲き誇るラベンダー畑が有名で、色とりどりの花畑が広がる丘陵地帯は、富良野・美瑛エリアを代表する絶景として全国から多くの観光客を集めます。北海へそ祭りが開催される7月下旬は、ちょうどラベンダーの見頃と重なるため、祭りと花畑の両方を一度に楽しむことができます。また、富良野はテレビドラマの舞台としても知られ、ドラマゆかりのスポットや、富良野チーズ工房などのグルメスポットも点在しています。祭りのにぎわいと富良野の雄大な自然を合わせて満喫できる、魅力あふれる滞在ができます。
+
+## 関連情報
+
+北海へそ祭りは、富良野市が北海道の地理的中心であるという土地の個性を、ユーモアあふれる形で祭りに昇華させた、独創的な郷土行事です。1969年に市民憲章の普及の一環として創作されたという成り立ちは、まちのアイデンティティを市民みんなで楽しく共有しようという、温かく前向きな精神に支えられています。腹部に顔を描いて踊るという奇抜な趣向の裏には、原生林に挑んだ先人たちへの敬意も込められており、笑いのなかに開拓のまちの歴史が息づいています。比較的新しい祭りでありながら、富良野という土地ならではの個性を見事に表現した北海へそ祭りは、これからも笑いと活気で富良野の夏を彩り続けていきます。','## Overview
+
+The Hokkai Heso Festival is a summer festival held in Furano City, Hokkaido, on July 28 and 29 each year. Named after the idea that Furano sits at roughly the geographic center of Hokkaido—the "navel" (heso) of the island if compared to a human body—it has grown into one of Hokkaido''s representative summer festivals, drawing visitors from across Japan and abroad.
+
+## History
+
+The festival began in 1969, originating as part of the city''s civic promotion. It is also positioned as the annual grand festival of Hokushin Shrine, popularly known as the "Navel Shrine." Since its founding it has become Furano''s largest event.
+
+## Highlights
+
+The star of the festival is the "Zubara" belly dance. Dancers paint a large comical face on their own bellies and conceal their heads beneath a large hat, so that the belly itself appears as a person. The charming painted faces bob and move humorously in time with the Hokkai-bushi melody, bringing smiles to all who watch.
+
+## Access
+
+The festival is held in the central shopping district of Furano City, accessible from Furano Station.
+
+## Nearby Attractions
+
+Furano is renowned for its lavender fields, rolling farmland scenery, and nearby Biei. The summer season offers some of Hokkaido''s most beautiful pastoral landscapes.
+
+## Related Information
+
+A monument marking the geographic center of Hokkaido stands in Furano, symbolizing the city''s identity as the "navel" of the island, which lies at the very heart of this unique festival.
+','hokkai-heso-matsuri','hokkai-heso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11395759','出石初午大祭','Izushi Hatsuuma Taisai','兵庫県豊岡市で行われる祭',NULL,'Q11516349','有子山稲荷神社','Arikoyama Inari Shrine','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%87%BA%E7%9F%B3%E5%88%9D%E5%8D%88%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11386340','修正鬼会',NULL,NULL,NULL,NULL,NULL,NULL,'大分県','kyushu',33.578744,131.541622,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BF%AE%E6%AD%A3%E9%AC%BC%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11389952','全日本チンドンコンクール',NULL,'日本のイベント',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%83%81%E3%83%B3%E3%83%89%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%AB',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -5474,7 +5529,62 @@ INSERT INTO "festivals" VALUES('Q11366524','中洲流','Nakasu-nagare','博多�
 INSERT INTO "festivals" VALUES('Q11347707','ラ・フォル・ジュルネ TOKYO','La Folle Journée TOKYO','毎年ゴールデンウィーク頃に東京で行われているクラシック音楽を中心とした催し','classical music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%AB%E3%83%8D_TOKYO',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280396','やつしろ全国花火競技大会',NULL,NULL,NULL,'Q1358183','球磨川','Kuma River','熊本県','kyushu',32.4876083,130.6267719,1988,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A4%E3%81%97%E3%82%8D%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11301198','ケベス祭','Kebesu Sai',NULL,NULL,'Q873572','国東市','Kunisaki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11353501','七尾祇園祭','Nanao Gion Matsuri','石川県七尾市で開催される夏祭り',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',37.04312,136.96747,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11353501','七尾祇園祭','Nanao Gion Matsuri','石川県七尾市で開催される夏祭り',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',37.04312,136.96747,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,75,'drafted','## 概要
+
+七尾祇園祭（ななおぎおんまつり）は、石川県七尾市の山王町に鎮座する大地主神社（おおとこぬしじんじゃ）の祇園祭で、毎年夏に斎行される能登を代表する夏祭りの一つです。能登半島各地で行われる「キリコ祭り」の系譜に連なる祭りで、巨大な奉灯である「キリコ」を担いで練り歩くさまが大きな見どころとなっています。地元では「東のお涼み」「東の奉灯祭り」「山王のお涼み祭り」などとも呼ばれ親しまれており、夏の夜にキリコの灯が町を巡る光景は、能登の夏ならではの壮観です。
+
+キリコとは、切子灯籠（きりことうろう）に由来する巨大な担ぎ灯籠で、能登一円に広く伝わる夏祭りの主役です。七尾祇園祭でも、勇壮な担ぎ手たちが大きなキリコを担ぎ、威勢のよいかけ声とともに町を練り歩きます。火と灯りが彩る能登の夏の夜を体感できる、地域に根ざした伝統行事です。
+
+## 歴史・由来
+
+七尾祇園祭は、七尾市山王町に鎮座する大地主神社の祭礼として受け継がれてきました。一般には祇園祭の名で知られていますが、その実体は同社に祀られる天王社の祇園祭であり、疫病退散を願う祇園信仰を背景に持つ夏祭りです。夏は疫病が流行しやすい季節であり、人々は神に祈ることで災いを退け、無事に夏を越そうとしてきました。祇園信仰に基づくこうした夏祭りは全国各地に広がっていますが、七尾の祇園祭は、能登地方独特の「キリコ祭り」の形式と結びついて発展してきた点に大きな特色があります。
+
+能登のキリコ祭りの歴史は江戸時代にまでさかのぼると伝えられ、海や山を伝って七尾市や志賀町以北の能登一円に広く伝播していきました。キリコは「切子」の名のとおり、切子灯籠を巨大化させた担ぎ灯籠で、夏の夜の闇のなかで神輿の道行きを照らす役割を担うものとされます。七尾祇園祭は、この能登一円に広がるキリコ文化のなかで育まれ、大地主神社の天王社の信仰と一体となって、地域の人々の手で大切に守り伝えられてきました。「東のお涼み」という親しみのある呼び名にも、夏の暑さのなかで涼を取りつつ神を祀るという、地域の暮らしと祭りの結びつきが表れています。
+
+## 見どころ
+
+最大の見どころは、巨大な奉灯「キリコ」を担いで町を練り歩く勇壮な姿です。大勢の担ぎ手が力を合わせて大きなキリコを担ぎ上げ、威勢のよいかけ声とともに町を進む光景は迫力満点で、見る者を圧倒します。夏の夜の闇のなかに、キリコの灯がいくつも浮かび上がり、ゆらめきながら町を巡っていく情景は、能登の夏祭りならではの幻想的な美しさをたたえています。
+
+キリコ祭りは「能登の民族スポーツ」とも称されるほど、担ぎ手たちの体力と結束を要する祭りです。重いキリコを担ぎ、町なかを練り歩くその姿には、地域の男たちの心意気と、世代を超えて受け継がれてきた担ぎの技が凝縮されています。神輿の道行きとキリコの灯が一体となって町を進むさまは、神を迎え、もてなし、送り出すという祭りの本義を、目に見える形で体現したものです。火と灯り、そして担ぎ手たちの熱気が織りなす夏の夜は、能登の人々の祭りへの情熱を強く感じさせます。
+
+七尾祇園祭は、厄除け・防疫の神として全国で祇園信仰が盛んだった頃に、京都の祇園社を能登の地に勧請したことに起源を持つとされ、疫病を防ぎ厄を除けることを祈願する夏の祭礼です。神輿が氏子町を巡るこの神事は、人々が涼を求めて夜に集ったことから「お涼み祭り」とも呼ばれ、能登一円に伝わるキリコ祭りの中でも「東の奉燈」として知られています。神輿を先導し、その道しるべとする役割を担うのが大小あわせて十一基にのぼる奉燈（キリコ）で、夜の市街地に高くそびえる奉燈が、広場に焚かれた大かがり火の周囲を競い合うように激しく乱舞する光景がこの祭り最大の見どころです。大地主神社は、春の青柏祭で巨大な曳山「でか山」を繰り出す神社としても名高く、七尾祇園祭はその夏の祭礼にあたります。これらの能登のキリコ祭り群は、日本遺産「灯り舞う半島 能登〜熱狂のキリコ祭り〜」の構成文化財として高く評価されており、地域の信仰と熱狂が今に受け継がれています。
+
+## 開催情報・アクセス
+
+七尾祇園祭は、毎年夏に石川県七尾市の山王町・大地主神社およびその周辺で斎行されます。キリコの巡行を中心に、夏の夜に祭りが繰り広げられます。最新の開催日程や巡行のコースなどの詳細については、七尾市や地元観光協会の公式案内で確認するのが確実です。
+
+アクセスは、JR七尾線・のと鉄道が乗り入れる七尾駅が玄関口となります。七尾は能登半島の入口に位置し、金沢方面からの鉄道や車でのアクセスにも便利です。祭礼当日は周辺で交通規制が行われることがあるため、公共交通機関を利用しての来訪が推奨されます。
+
+## 周辺の見どころ
+
+七尾市は能登半島の中ほどに位置する、海の恵みと歴史に育まれたまちです。同じ大地主神社の祭礼として、毎年ゴールデンウィークに行われる青柏祭（せいはくさい）は、高さ約12メートル・重さ20トンを超える巨大な曳山「でか山」が町を巡行する日本最大級の曳山祭りとして知られ、ユネスコ無形文化遺産にも登録されています。また、七尾は古くからの港町であり、和倉温泉という名湯にも恵まれています。七尾湾の海の幸を味わい、温泉でくつろぎ、能登の祭り文化にふれる旅は、この地ならではの豊かな体験を約束してくれます。
+
+## 関連情報
+
+七尾祇園祭は、疫病退散を願う祇園信仰と、能登地方独特のキリコ文化とが融合して育まれてきた、地域に深く根ざした夏祭りです。大地主神社の天王社の祭礼として、巨大な奉灯キリコを担ぎ、夏の夜の町を灯で照らしながら練り歩くその姿は、江戸時代以来、能登一円に広がってきたキリコ祭りの伝統を今に伝えています。同じ神社の青柏祭と並んで、七尾の人々の信仰と暮らしを映し出すこの祭りは、能登の夏を彩る貴重な伝統行事として、これからも大切に受け継がれていくことでしょう。','## Overview
+
+The Nanao Gion Festival is the summer festival of Otokonushi Shrine (also known as Sanno Shrine), located in the heart of Nanao City, Ishikawa Prefecture, on the Noto Peninsula. Held in mid-July, it is one of the celebrated "Kiriko" lantern-float festivals of Noto, and is also known as the "Eastern Kiriko" festival. The event is rooted in Gion belief, in which the deity is venerated for warding off plague and misfortune.
+
+## History
+
+The festival traces its origins to an era when Gion belief flourished throughout Japan, when the spirit of Kyoto''s Gion Shrine was invited to the Noto region as a guardian against epidemics. People gathered in the cool of the evening to take part in the rites, and so the festival came to be affectionately called the "Cooling-Off Festival" (Osuzumi Matsuri). Otokonushi Shrine itself has a long history; it was merged with the former Sanno Shrine and came to be known by its present name.
+
+## Highlights
+
+The greatest spectacle of the festival is the wild dancing of the kiriko (lantern floats). Around eleven large and small kiriko lead and guide the portable shrine (mikoshi) through the parish districts. As night falls, these towering illuminated floats compete and sway violently around a great bonfire kindled in an open plaza, creating a scene of intense heat and excitement.
+
+## Access
+
+The festival takes place in the central district of Nanao City. The area is accessible from Nanao Station.
+
+## Nearby Attractions
+
+Otokonushi Shrine is also famous for the spring Seihaku Festival, in which gigantic "Dekayama" floats are pulled through the streets. The Noto region offers hot springs such as Wakura Onsen and scenic coastal views.
+
+## Related Information
+
+The Kiriko festivals of Noto, including the Nanao Gion Festival, are recognized as component cultural properties of the Japan Heritage "Lanterns Dancing on the Peninsula: Noto, the Frenzy of Kiriko Festivals," and continue to carry the region''s faith and fervor into the present day.
+','nanao-gion-matsuri','nanao-gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11307448','シネリンピック!','Cinelympics!','日米同時刻開催型の映画祭',NULL,'Q11279143','みなとみらい','Minatomirai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8D%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF!',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11360142','上越まつり','Jōetsu Matsuri',NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11338450','ホーランエンヤ','Hōran-en''ya','大分県豊後高田市で行われる祭事',NULL,'Q11536671','桂川','Katsura River','大分県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Horan-enya%20boat.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%A4%A7%E5%88%86%E7%9C%8C)',NULL,85,'drafted','## ホーランエンヤ（大分）とは
@@ -11325,11 +11435,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
