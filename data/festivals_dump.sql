@@ -4948,59 +4948,50 @@ The area around Nishi Park can be reached on foot or by subway from Ōmachi-Nish
 Sendai, called the "City of Trees," is the largest, greenery-rich city of Tōhoku, with sights including the ruins of Sendai Castle (Aoba Castle) and the Zuihōden mausoleum associated with Date Masamune. Visitors can also enjoy Sendai specialties such as beef tongue, *sasa-kamaboko* fish cakes, and *zunda* edamame paste. As the gorgeous Sendai Tanabata Festival, in which lavish Tanabata decorations color the city center, begins the following day, a visit combined with the fireworks festival allows one to fully savor the summer of Sendai. It is also a convenient area as a gateway to nearby attractions such as Matsushima.','sendai-tanabata-fireworks-festival','sendai-tanabata-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11402390','北海へそ祭り','Hokkaido Belly Button Festival','日本の北海道の祭り','festival in Furano, Japan',NULL,NULL,NULL,'北海道','hokkaido',43.347434358,142.388015401,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A',NULL,75,'drafted','## 概要
 
-北海へそ祭り（ほっかいへそまつり）は、北海道富良野市で毎年7月28日・29日の固定日に開催される、富良野最大の夏祭りです。富良野市が北海道のほぼ地理的中心に位置することにちなんで、まちの「へそ（中心）」をテーマに掲げた、ユーモアあふれる祭りで、その奇抜な内容から「奇祭」としても全国に知られています。最大の名物は、腹部に大きな顔を描いた踊り手たちが、おどけた動きで練り歩く「北海へそ踊り」です。お腹に描かれたさまざまな表情の「顔」が、踊り手の動きに合わせてユーモラスに動くさまは、見る人を思わず笑顔にします。
-
-会場は富良野市の新相生通り商店街で、へそ踊りのほかにも、地元の食材を使った屋台が並ぶ「へそ特産市」や、市民によるダンスや音楽のパフォーマンスなど、子どもから年配の方まで楽しめる催しが二日間にわたって繰り広げられます。笑いと遊び心に満ちた、富良野の夏を象徴するにぎやかな祭りです。
+北海へそ祭り（ほっかいへそまつり）は、毎年7月28日・29日の固定日に北海道富良野市の新相生通り商店街を舞台に行われる夏祭りです。富良野市が北海道のほぼ地理的中心に位置し、人の体に例えればちょうど真ん中の「へそ」にあたることにちなんで名づけられました。祭りの主役は、腹に大きな顔を描いて踊る奇抜な「図腹（ずばら）踊り」で、北海道内のみならず全国、さらには海外からも観光客が訪れる、夏の北海道を代表する祭りのひとつとなっています。屋台や花火、市民によるパフォーマンスも加わり、子どもから年配の方まで誰もが笑顔になれる2日間です。
 
 ## 歴史・由来
 
-北海へそ祭りの中心となる「北海へそ踊り」は、1969年（昭和44年）に創作された、比較的歴史の新しい郷土芸能です。この踊りが生まれた背景には、富良野市の市民憲章があります。富良野は北海道の地理的中心にあたることから、その市民憲章は「わたしたちは、北海道の中心標が立つ富良野の市民です」という一文で始まります。この「北海道の中心＝へそ」という富良野ならではのアイデンティティを、市民みんなで楽しく共有し、まちの一体感を高めようという願いから、市民憲章の普及の一環として北海へそ踊りが創作されたのです。
-
-腹部に顔を描いて踊るという独創的な発想は、原生林に挑んだ富良野の先人たちが、臍下丹田（せいかたんでん）に力を込めて開拓に励んだことにちなむとも伝えられています。お腹を一つのキャンバスに見立て、そこに描いた顔を踊りで動かすという遊び心あふれる趣向は、見る人を楽しませると同時に、開拓のまち・富良野の歴史への思いも込められています。1969年の誕生以来、北海へそ祭りは富良野最大のイベントとして年々盛り上がりを見せ、まちの夏に欠かせない行事として定着してきました。比較的新しい祭りでありながら、富良野という土地の個性を見事に体現した、ユニークな郷土の祭りです。
+北海へそ祭りは、1969年（昭和44年）に富良野市民憲章が制定されたのを機に、市制の発展と市民の連帯を願って始められました。その背景には、かつて原生林に挑んだ開拓の先人たちが、心身の精気が集まるとされる臍下丹田（せいかたんでん＝へその下あたり）に力を込め、大樹を切り倒して大地を耕した、その逞しい開拓精神があるといいます。「へそ」という一見ユーモラスな題材の奥には、富良野という土地そのものの成り立ちと、人々の誇りが込められているのです。1974年（昭和49年）には北真神社（へそ神社）が創建され、以後は同神社の例大祭として位置づけられています。「へそは母と子をつなぐ絆」という思いから、親子の絆、そして地元富良野の人々と訪れる人々との絆を深めることをテーマに掲げ、半世紀以上にわたって受け継がれてきました。30年以上続いた人気テレビドラマ「北の国から」にも登場したことで、その名は全国へ広まりました。
 
 ## 見どころ
 
-最大の見どころは、何といっても腹部に顔を描いた踊り手たちによる「北海へそ踊り」です。お腹に目・鼻・口を描き、頭からすっぽりと布をかぶって顔を隠した踊り手が、お腹の「顔」をあたかも本物の顔のように見せながら、おどけた動きで通りを練り歩きます。踊り手が腹を突き出したり引っ込めたりするたびに、お腹の顔が表情を変えて動くさまは、ユーモラスでなんとも愛嬌があり、沿道の観客から笑い声が絶えません。さまざまに工夫を凝らした「顔」を見比べる楽しさもあり、まさに「奇祭」の名にふさわしい独創性に満ちています。
-
-へそ踊りのほかにも、地元富良野の食材を使ったおいしい食べ物の屋台が並ぶ「へそ特産市」や、富良野市民によるダンスや音楽のパフォーマンスなど、二日間を通してさまざまな催しが用意されています。子どもからお年寄りまで、世代を問わず誰もが気軽に楽しめる、明るく開かれた雰囲気が、この祭りの大きな魅力です。勇壮さや荘厳さを競うのではなく、笑いと遊び心を前面に押し出したその姿は、見る人の心を和ませ、富良野の夏に楽しい彩りを添えています。
-
-北海へそ祭りは、富良野市が北海道のほぼ地理的中心に位置することにちなみ、人の体に例えれば「へそ」にあたるという発想から名付けられた祭りで、北真神社（へそ神社）の例大祭としても位置づけられています。祭りの主役である「図腹（ずばら）踊り」は、踊り手が自分の腹に大きな顔の絵を描き、大きな笠で頭を隠すことで腹そのものを一人の人物に見立てるという、他に類を見ない奇抜な趣向が特徴です。腹に描かれた愛嬌たっぷりの顔が北海節の調べに合わせてユーモラスに動き回る様子は見る者を笑顔にし、子どもから年配の方まで誰もが楽しめる富良野の夏の風物詩となっています。
+最大の見どころは、なんといっても「図腹踊り」です。踊り手は自分の腹を一人の人物の顔に見立て、色とりどりの絵具で大きな顔を描き、頭を大きな笠で隠して踊ります。腹が顔、笠で隠れた本来の頭は胴体という発想で、踊り手が腰をくねらせ腹を突き出すたびに「顔」の表情がユーモラスに変化し、沿道を埋める観客の笑いと歓声を誘います。「はあ〜まんなか、まんなかのどまんなかョ」という北海へそ音頭の調べに合わせて、へそ軍団が町を練り歩く様子は実に豪快で、2日間で参加する踊り手は100チームを超え、延べおよそ4,000人にのぼります。描かれる顔は歌舞伎役者風からキャラクターまで多種多彩で、その美しさやリズム感、足さばきを競う「北海へそ踊り大会」「子どもへそ踊り大会」、へそ踊り保存会による実演、富良野彌榮（いやさか）太鼓の和太鼓演奏、富良野高校書道部のパフォーマンスなど、見どころが目白押しです。公式キャラクターの「へそ丸くん」も会場を盛り上げます。
 
 ## 開催情報・アクセス
 
-北海へそ祭りは、毎年7月28日・29日の固定日に、北海道富良野市の新相生通り商店街を中心に開催されます。日付が固定されているため、毎年同じ時期に訪れる計画を立てやすいのも特徴です。へそ踊りのパレードや各種催しの詳細、開催時間については、ふらの北海へそ祭りの公式案内などで確認するのが確実です。
-
-アクセスは、JR富良野線・根室本線が乗り入れる富良野駅が玄関口となります。富良野はラベンダー畑をはじめとする観光地としても有名で、夏には多くの観光客が訪れるため、旭川方面や札幌方面からの鉄道・車でのアクセスも整っています。祭り期間中は会場周辺で交通規制が行われることがあるため、公共交通機関の利用が推奨されます。
+北海へそ祭りは毎年7月28日・29日の2日間、富良野市の新相生通り商店街の特設会場（祭り広場）で開催されます。会場はJR富良野駅から徒歩約2分とアクセスが良く、夏の富良野旅行と組み合わせやすいのも魅力です。札幌方面からは特急「フラノラベンダーエクスプレス」、旭川方面からは観光列車「富良野・美瑛ノロッコ号」など、夏季限定の列車を利用すると旅情も味わえます。見るだけでなく自ら踊りたい人のために飛び入り参加のコーナーも用意されており、当日に受付で申し込むと、はっぴと笠の衣装一式を借りて図腹踊りに加わることができます（人数限定）。腹に顔を描いてもらい、富良野の夏を全身で体感できる特別なひとときとなるでしょう。会場では地元の飲食店が集う「特産市へそグルメ」も開かれ、富良野ならではの味覚も楽しめます。
 
 ## 周辺の見どころ
 
-富良野は、北海道のほぼ中心に位置する、雄大な自然に恵まれたまちです。夏には一面に咲き誇るラベンダー畑が有名で、色とりどりの花畑が広がる丘陵地帯は、富良野・美瑛エリアを代表する絶景として全国から多くの観光客を集めます。北海へそ祭りが開催される7月下旬は、ちょうどラベンダーの見頃と重なるため、祭りと花畑の両方を一度に楽しむことができます。また、富良野はテレビドラマの舞台としても知られ、ドラマゆかりのスポットや、富良野チーズ工房などのグルメスポットも点在しています。祭りのにぎわいと富良野の雄大な自然を合わせて満喫できる、魅力あふれる滞在ができます。
+富良野・美瑛エリアは、夏の北海道を代表する観光地です。7月から8月にかけては一面に広がるラベンダー畑が見頃を迎え、なかでも「ファーム富田」の紫のじゅうたんは富良野の代名詞として知られています。隣接する美瑛町には、神秘的な水の色で人気を集める「青い池」や、なだらかな丘陵に農地が織りなすパッチワークのような風景が広がります。ぶどう畑を望む富良野のワイン文化やチーズ工房、夏でも涼やかな大雪山系の自然も楽しめ、祭りと合わせて富良野・美瑛を周遊すれば、北海道の夏を満喫できます。
 
 ## 関連情報
 
-北海へそ祭りは、富良野市が北海道の地理的中心であるという土地の個性を、ユーモアあふれる形で祭りに昇華させた、独創的な郷土行事です。1969年に市民憲章の普及の一環として創作されたという成り立ちは、まちのアイデンティティを市民みんなで楽しく共有しようという、温かく前向きな精神に支えられています。腹部に顔を描いて踊るという奇抜な趣向の裏には、原生林に挑んだ先人たちへの敬意も込められており、笑いのなかに開拓のまちの歴史が息づいています。比較的新しい祭りでありながら、富良野という土地ならではの個性を見事に表現した北海へそ祭りは、これからも笑いと活気で富良野の夏を彩り続けていきます。','## Overview
+北海へそ祭りは「日本のへそ（中心）」という発想を核にした祭りで、同じく「へそ」をテーマにした祭りとして群馬県渋川市の「渋川へそ祭り」も知られています。富良野には北海道の地理的中心を示す中心標が立っており、市の「へそ」としてのアイデンティティを象徴しています。腹に顔を描くというユニークな趣向は写真や動画にも映えることから、SNSを通じて若い世代や海外の旅行者にも人気が広がっています。開拓の精神を受け継ぎながら、見る人・踊る人の垣根を越えて町全体が一つの笑いの輪になる――そこに、半世紀を超えて愛され続けるこの祭りの本質的な温かさがあります。
+','## Overview
 
-The Hokkai Heso Festival is a summer festival held in Furano City, Hokkaido, on July 28 and 29 each year. Named after the idea that Furano sits at roughly the geographic center of Hokkaido—the "navel" (heso) of the island if compared to a human body—it has grown into one of Hokkaido''s representative summer festivals, drawing visitors from across Japan and abroad.
+The Hokkai Heso Festival (Hokkai Heso Matsuri) is a summer festival held on the fixed dates of July 28 and 29 each year along the Shin-Aioi shopping street in Furano City, Hokkaido. Its name comes from the fact that Furano sits at roughly the geographic center of Hokkaido—the "navel" (heso) of the island if it were compared to a human body. The star of the festival is the eccentric "Zubara" belly dance, in which dancers paint a large face on their stomachs and dance, and it has become one of Hokkaido''s representative summer events, drawing visitors not only from across Japan but from abroad as well. With food stalls, fireworks, and performances by local residents, it is two days on which everyone from children to the elderly can share a smile.
 
-## History
+## History and Origins
 
-The festival began in 1969, originating as part of the city''s civic promotion. It is also positioned as the annual grand festival of Hokushin Shrine, popularly known as the "Navel Shrine." Since its founding it has become Furano''s largest event.
+The Hokkai Heso Festival began in 1969, when the Furano civic charter was enacted, as a celebration of the city''s growth and the solidarity of its citizens. Behind it lies the pioneering spirit of the settlers who once challenged the virgin forest, drawing strength into the *seika-tanden*—the center of vital energy said to lie just below the navel—as they felled great trees and broke the land. Beneath the seemingly humorous subject of the "navel," then, lie the very origins of Furano itself and the pride of its people. In 1974 Hokushin Shrine, popularly known as the "Navel Shrine," was founded, and the festival has since been positioned as its annual grand festival. Guided by the idea that "the navel is the bond that ties mother and child," the festival has for more than half a century carried the theme of strengthening bonds—between parent and child, and between the people of Furano and those who visit. Its name spread nationwide after it appeared in the long-running television drama "Kita no Kuni Kara," which continued for over thirty years.
 
 ## Highlights
 
-The star of the festival is the "Zubara" belly dance. Dancers paint a large comical face on their own bellies and conceal their heads beneath a large hat, so that the belly itself appears as a person. The charming painted faces bob and move humorously in time with the Hokkai-bushi melody, bringing smiles to all who watch.
+The greatest attraction is, without question, the "Zubara" belly dance. Each dancer treats his or her belly as the face of a single person, painting a large face in colorful pigments and hiding the real head beneath a broad hat—so that the belly becomes the face and the hidden head becomes the body. As the dancer twists at the waist and thrusts the belly forward, the "face" changes expression in comical ways, drawing laughter and cheers from the crowds lining the street. The sight of the "navel troupe" parading through town to the tune of the Hokkai Heso ondo—"Haa, mannaka, mannaka no domannaka yo" (the very middle of the middle)—is wonderfully bold, and over the two days more than a hundred teams and a total of some four thousand dancers take part. The painted faces range from kabuki-actor styles to popular characters, and there is no shortage of things to watch: the Hokkai Belly Dance Contest and Children''s Belly Dance Contest, which judge the beauty of the painted faces, sense of rhythm, and footwork; demonstrations by the belly-dance preservation society; taiko drumming by the Furano Iyasaka drum group; and calligraphy performances by Furano High School. The official mascot "Hesomaru-kun" also helps liven up the grounds.
 
-## Access
+## Visiting and Access
 
-The festival is held in the central shopping district of Furano City, accessible from Furano Station.
+The Hokkai Heso Festival is held over two days, July 28 and 29 each year, at a special venue (the festival plaza) on the Shin-Aioi shopping street in Furano City. The site is conveniently located about a two-minute walk from JR Furano Station, making it easy to combine with a summer trip to Furano. Seasonal trains add to the sense of travel: the limited express "Furano Lavender Express" from the Sapporo direction, and the sightseeing "Furano-Biei Norokko" train from the Asahikawa direction. For those who would rather dance than merely watch, there is a drop-in participation corner; visitors who apply at the reception on the day can borrow a full costume of happi coat and hat and join the belly dance (numbers are limited). Having a face painted on your own belly and throwing yourself into the dance makes for a special way to experience the Furano summer with your whole body. At the venue, the "Specialty Market Heso Gourmet," gathering local restaurants, also offers tastes unique to Furano.
 
 ## Nearby Attractions
 
-Furano is renowned for its lavender fields, rolling farmland scenery, and nearby Biei. The summer season offers some of Hokkaido''s most beautiful pastoral landscapes.
+The Furano-Biei area is one of the signature sightseeing regions of summer Hokkaido. From July into August the lavender fields come into full bloom, and the purple carpet of "Farm Tomita" in particular is known as the very symbol of Furano. Neighboring Biei is home to the "Blue Pond," beloved for its mysterious water color, and to gently rolling hills where farmland weaves a patchwork landscape. Visitors can also enjoy Furano''s wine culture overlooking the vineyards, cheese workshops, and the nature of the Daisetsuzan range, which stays cool even in summer. Touring Furano and Biei together with the festival makes for a full taste of the Hokkaido summer.
 
 ## Related Information
 
-A monument marking the geographic center of Hokkaido stands in Furano, symbolizing the city''s identity as the "navel" of the island, which lies at the very heart of this unique festival.
+The Hokkai Heso Festival is built around the idea of the "navel of Japan," and the "Shibukawa Heso Festival" in Shibukawa City, Gunma Prefecture, is similarly known for its navel theme. A central marker indicating the geographic center of Hokkaido stands in Furano, symbolizing the city''s identity as the island''s "navel." The unique conceit of painting a face on the belly is highly photogenic, and its popularity has spread through social media among younger generations and overseas travelers alike. Inheriting the pioneer spirit while dissolving the boundary between watcher and dancer so that the whole town becomes a single ring of laughter—therein lies the essential warmth that has kept this festival beloved for more than half a century.
 ','hokkai-heso-matsuri','hokkai-heso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11395759','出石初午大祭','Izushi Hatsuuma Taisai','兵庫県豊岡市で行われる祭',NULL,'Q11516349','有子山稲荷神社','Arikoyama Inari Shrine','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%87%BA%E7%9F%B3%E5%88%9D%E5%8D%88%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11386340','修正鬼会',NULL,NULL,NULL,NULL,NULL,NULL,'大分県','kyushu',33.578744,131.541622,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BF%AE%E6%AD%A3%E9%AC%BC%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -5531,59 +5522,58 @@ INSERT INTO "festivals" VALUES('Q11280396','やつしろ全国花火競技大会
 INSERT INTO "festivals" VALUES('Q11301198','ケベス祭','Kebesu Sai',NULL,NULL,'Q873572','国東市','Kunisaki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353501','七尾祇園祭','Nanao Gion Matsuri','石川県七尾市で開催される夏祭り',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',37.04312,136.96747,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,75,'drafted','## 概要
 
-七尾祇園祭（ななおぎおんまつり）は、石川県七尾市の山王町に鎮座する大地主神社（おおとこぬしじんじゃ）の祇園祭で、毎年夏に斎行される能登を代表する夏祭りの一つです。能登半島各地で行われる「キリコ祭り」の系譜に連なる祭りで、巨大な奉灯である「キリコ」を担いで練り歩くさまが大きな見どころとなっています。地元では「東のお涼み」「東の奉灯祭り」「山王のお涼み祭り」などとも呼ばれ親しまれており、夏の夜にキリコの灯が町を巡る光景は、能登の夏ならではの壮観です。
-
-キリコとは、切子灯籠（きりことうろう）に由来する巨大な担ぎ灯籠で、能登一円に広く伝わる夏祭りの主役です。七尾祇園祭でも、勇壮な担ぎ手たちが大きなキリコを担ぎ、威勢のよいかけ声とともに町を練り歩きます。火と灯りが彩る能登の夏の夜を体感できる、地域に根ざした伝統行事です。
+七尾祇園祭（ななおぎおんまつり）は、石川県七尾市の中心部にある大地主（おおとこぬし）神社（山王神社）の夏の例祭で、毎年7月第2土曜日に行われます。能登半島一帯に二百以上伝わる「キリコ祭り」のひとつで、市街地の氏子町から大小11基の奉燈（ほうとう＝キリコ）が担ぎ出され、夜のかがり火を囲んで勇壮に乱舞する様子から「東のおすずみ」とも呼ばれます。同じ大地主神社の春の例祭である青柏祭（せいはくさい）、夏の石崎奉燈祭、七尾港まつりとともに七尾を代表する大祭に数えられ、笛・鉦・太鼓の囃子と若衆の威勢のよい掛け声が、能登の短い夏の夜を熱く彩ります。
 
 ## 歴史・由来
 
-七尾祇園祭は、七尾市山王町に鎮座する大地主神社の祭礼として受け継がれてきました。一般には祇園祭の名で知られていますが、その実体は同社に祀られる天王社の祇園祭であり、疫病退散を願う祇園信仰を背景に持つ夏祭りです。夏は疫病が流行しやすい季節であり、人々は神に祈ることで災いを退け、無事に夏を越そうとしてきました。祇園信仰に基づくこうした夏祭りは全国各地に広がっていますが、七尾の祇園祭は、能登地方独特の「キリコ祭り」の形式と結びついて発展してきた点に大きな特色があります。
+七尾祇園祭の起源は古く、疫病除け・防疫の神として全国に祇園信仰が広まった平安時代に、京都の祇園社（牛頭天王を祀る社）の祭神をこの地に勧請し、旧暦6月14日に七尾祇園會（ぎおんえ）を執り行ったことに始まると伝えられています。祭神である牛頭天王が暑い盛りに涼を求めて浜辺の仮宮へ遷座することから、この祭りは「お涼み祭り（おすずみ祭）」とも呼ばれてきました。祭礼にはキュウリを捧げる習わしがあり、江戸時代に入って燈籠を献じるようになったことが、現在の奉燈行事の始まりとされています。
 
-能登のキリコ祭りの歴史は江戸時代にまでさかのぼると伝えられ、海や山を伝って七尾市や志賀町以北の能登一円に広く伝播していきました。キリコは「切子」の名のとおり、切子灯籠を巨大化させた担ぎ灯籠で、夏の夜の闇のなかで神輿の道行きを照らす役割を担うものとされます。七尾祇園祭は、この能登一円に広がるキリコ文化のなかで育まれ、大地主神社の天王社の信仰と一体となって、地域の人々の手で大切に守り伝えられてきました。「東のお涼み」という親しみのある呼び名にも、夏の暑さのなかで涼を取りつつ神を祀るという、地域の暮らしと祭りの結びつきが表れています。
+もとの祇園牛頭天王社は現在の鍛冶町・安楽寺の地にありましたが、1635年に山王森（現在の山王町）へ移され、1882年（明治15年）には既存の山王社と天王社の両社を合祀して大地主神社と改められました。以降、祇園祭はこの大地主神社の例祭として受け継がれています。明治43年には七尾の市街地に電線が張り巡らされ、それまでの大型の奉燈が出せなくなったため、各町は独自の小型の俄（にわか）燈籠を担ぐようになりましたが、昭和36年に大型奉燈が復活し、太鼓・鉦・笛による奉燈囃子も習い覚えて現在の姿へと受け継がれてきました。1997年（平成9年）には能登一円のキリコ祭りが国の「記録作成等の措置を講ずべき無形の民俗文化財」に選択され、2015年（平成27年）には「灯り舞う半島 能登〜熱狂のキリコ祭り〜」として石川県・能登の6市町とともに日本遺産に認定されています。
 
 ## 見どころ
 
-最大の見どころは、巨大な奉灯「キリコ」を担いで町を練り歩く勇壮な姿です。大勢の担ぎ手が力を合わせて大きなキリコを担ぎ上げ、威勢のよいかけ声とともに町を進む光景は迫力満点で、見る者を圧倒します。夏の夜の闇のなかに、キリコの灯がいくつも浮かび上がり、ゆらめきながら町を巡っていく情景は、能登の夏祭りならではの幻想的な美しさをたたえています。
+最大の見どころは、夜のかがり火を囲んで奉燈が競い合うように疾走し乱舞する場面です。11基の奉燈のうち、郡町西部の大奉燈は高さ約12〜13メートル・重さ約1〜2トンにおよぶ巨大なもので、約100人の若衆の手で担ぎ上げられます。残る10基は高さ5〜10メートルほどで、奉燈の正面には「破天荒」「歓無極」「牛頭天王」といった勇ましい漢字三〜四文字が縦に墨書され、裏面には武者絵が描かれ、夜になるとこれらに灯がともって闇夜に浮かび上がります。町ごとにチームカラーが定められているのも特徴で、担ぎ手の装束の色で、どの町の奉燈かを見分けることができます。
 
-キリコ祭りは「能登の民族スポーツ」とも称されるほど、担ぎ手たちの体力と結束を要する祭りです。重いキリコを担ぎ、町なかを練り歩くその姿には、地域の男たちの心意気と、世代を超えて受け継がれてきた担ぎの技が凝縮されています。神輿の道行きとキリコの灯が一体となって町を進むさまは、神を迎え、もてなし、送り出すという祭りの本義を、目に見える形で体現したものです。火と灯り、そして担ぎ手たちの熱気が織りなす夏の夜は、能登の人々の祭りへの情熱を強く感じさせます。
-
-七尾祇園祭は、厄除け・防疫の神として全国で祇園信仰が盛んだった頃に、京都の祇園社を能登の地に勧請したことに起源を持つとされ、疫病を防ぎ厄を除けることを祈願する夏の祭礼です。神輿が氏子町を巡るこの神事は、人々が涼を求めて夜に集ったことから「お涼み祭り」とも呼ばれ、能登一円に伝わるキリコ祭りの中でも「東の奉燈」として知られています。神輿を先導し、その道しるべとする役割を担うのが大小あわせて十一基にのぼる奉燈（キリコ）で、夜の市街地に高くそびえる奉燈が、広場に焚かれた大かがり火の周囲を競い合うように激しく乱舞する光景がこの祭り最大の見どころです。大地主神社は、春の青柏祭で巨大な曳山「でか山」を繰り出す神社としても名高く、七尾祇園祭はその夏の祭礼にあたります。これらの能登のキリコ祭り群は、日本遺産「灯り舞う半島 能登〜熱狂のキリコ祭り〜」の構成文化財として高く評価されており、地域の信仰と熱狂が今に受け継がれています。
+奉燈の運行は太鼓・笛・鉦の囃子によって統率され、太鼓が打たれると「サー、イヤサカサ」の掛け声とともに担ぎ上げられ、「サッカサイ、サカサッサイ、イヤサカサー」という威勢のよい掛け声をあげながら進みます。赤襷（あかだすき）の指導者が太鼓に合わせて疾走・徐行・停止の合図を出し、巨大な奉燈を見事に統率していく様も大きな見どころです。初子の誕生や家屋の新築など祝いごとのあった家が町内の奉燈に祝酒を出し、若衆が「祝賀加賀長久弥栄（シューガ・カーガ・チョウチン・ヤットコセー）」と祝唄を返す古い習わしも今に残ります。
 
 ## 開催情報・アクセス
 
-七尾祇園祭は、毎年夏に石川県七尾市の山王町・大地主神社およびその周辺で斎行されます。キリコの巡行を中心に、夏の夜に祭りが繰り広げられます。最新の開催日程や巡行のコースなどの詳細については、七尾市や地元観光協会の公式案内で確認するのが確実です。
-
-アクセスは、JR七尾線・のと鉄道が乗り入れる七尾駅が玄関口となります。七尾は能登半島の入口に位置し、金沢方面からの鉄道や車でのアクセスにも便利です。祭礼当日は周辺で交通規制が行われることがあるため、公共交通機関を利用しての来訪が推奨されます。
+七尾祇園祭は毎年7月第2土曜日に、七尾市山王町の大地主神社および市街地東部を舞台に行われます。午後3時頃に大地主神社で神事が営まれて御祭神が神輿に遷され、子供たちの奉燈音頭に先導されて湊町の仮宮へと向かいます。夕刻から各町の奉燈が担ぎ出されて町内を巡行し、午後8時頃には湊町の仮宮前の広場に集結してお祓いを受け、御幣を拝受。午後9時半頃に一撃花火を合図にくじで決まった順番で仮宮を出発し、神輿を先導しながら大地主神社へ向かいます。狭い路地を家の軒すれすれに担ぎ回し、境内のかがり火の周りで再び乱舞したのち、最後に古くから七尾に伝わる祝儀唄「七尾まだら」を皆で合唱して祭りを締めくくります。会場へはJR七尾駅から徒歩圏内で、能登里山海道や能越自動車道を利用して車でアクセスすることもできます。
 
 ## 周辺の見どころ
 
-七尾市は能登半島の中ほどに位置する、海の恵みと歴史に育まれたまちです。同じ大地主神社の祭礼として、毎年ゴールデンウィークに行われる青柏祭（せいはくさい）は、高さ約12メートル・重さ20トンを超える巨大な曳山「でか山」が町を巡行する日本最大級の曳山祭りとして知られ、ユネスコ無形文化遺産にも登録されています。また、七尾は古くからの港町であり、和倉温泉という名湯にも恵まれています。七尾湾の海の幸を味わい、温泉でくつろぎ、能登の祭り文化にふれる旅は、この地ならではの豊かな体験を約束してくれます。
+七尾は能登半島の玄関口として観光資源に恵まれた町です。市内には能登の海の幸や特産品が集まる道の駅「能登食祭市場（七尾フィッシャーマンズ・ワーフ）」があり、新鮮な魚介や食事を楽しめます。少し足を延ばせば、開湯1200年を誇る名湯・和倉温泉があり、夏には和倉温泉の花火も催されます。和倉から能登島大橋を渡れば、イルカやジンベエザメで知られる「のとじま水族館」やマリンスポーツが楽しめる能登島へ。長谷川等伯ゆかりの七尾美術館も見ごたえがあり、祭りの前後に能登の自然・歴史・食を組み合わせて巡ることができます。
 
 ## 関連情報
 
-七尾祇園祭は、疫病退散を願う祇園信仰と、能登地方独特のキリコ文化とが融合して育まれてきた、地域に深く根ざした夏祭りです。大地主神社の天王社の祭礼として、巨大な奉灯キリコを担ぎ、夏の夜の町を灯で照らしながら練り歩くその姿は、江戸時代以来、能登一円に広がってきたキリコ祭りの伝統を今に伝えています。同じ神社の青柏祭と並んで、七尾の人々の信仰と暮らしを映し出すこの祭りは、能登の夏を彩る貴重な伝統行事として、これからも大切に受け継がれていくことでしょう。','## Overview
+七尾祇園祭が属する能登のキリコ祭りは、2015年に日本遺産「灯り舞う半島 能登〜熱狂のキリコ祭り〜」の構成文化財に認定されており、地域の信仰と熱狂を今に伝えています。同じ大地主神社の春の例祭である青柏祭では、高さ約12メートル・重さ約20トンという日本最大級の曳山「でか山」3基が市街地を巡行し、その方向転換「辻廻し」の妙技が知られています。また、近隣の石崎町で8月初旬に行われる石崎奉燈祭は、担ぐ奉燈としては能登一の大きさを誇る「男祭り」として名高く、七尾祇園祭とは担ぎ手を相互に貸し借りする協力関係にあります。夏の能登を訪れるなら、これらのキリコ祭りを合わせて楽しむのがおすすめです。
+','## Overview
 
-The Nanao Gion Festival is the summer festival of Otokonushi Shrine (also known as Sanno Shrine), located in the heart of Nanao City, Ishikawa Prefecture, on the Noto Peninsula. Held in mid-July, it is one of the celebrated "Kiriko" lantern-float festivals of Noto, and is also known as the "Eastern Kiriko" festival. The event is rooted in Gion belief, in which the deity is venerated for warding off plague and misfortune.
+The Nanao Gion Festival (Nanao Gion Matsuri) is the summer festival of Otokonushi Shrine—also known as Sanno Shrine—located in the heart of Nanao City, Ishikawa Prefecture, on the Noto Peninsula. Held every year on the second Saturday of July, it is one of the celebrated "Kiriko" lantern-float festivals of which more than two hundred survive across the Noto region. Eleven large and small illuminated floats called *hoto* (or *kiriko*) are carried out from the parish districts of the city center and made to dance wildly around a great bonfire deep into the night, earning the festival the nickname "the Cooling-Off of the East." Together with the spring Seihaku Festival of the same shrine, the Ishizaki Hoto Festival, and the Nanao Port Festival, it ranks among Nanao''s greatest annual events.
 
-## History
+## History and Origins
 
-The festival traces its origins to an era when Gion belief flourished throughout Japan, when the spirit of Kyoto''s Gion Shrine was invited to the Noto region as a guardian against epidemics. People gathered in the cool of the evening to take part in the rites, and so the festival came to be affectionately called the "Cooling-Off Festival" (Osuzumi Matsuri). Otokonushi Shrine itself has a long history; it was merged with the former Sanno Shrine and came to be known by its present name.
+The festival''s roots reach back to the Heian period, when belief in the Gion deity—venerated for warding off plague and misfortune—spread throughout Japan. The spirit of Kyoto''s Gion Shrine, which enshrines Gozu Tenno, was invited to this land, and the Nanao Gion-e rite was first performed on the 14th day of the sixth lunar month. Because the deity was believed to travel to a temporary shrine on the seashore to escape the summer heat, the festival also came to be called the "Cooling-Off Festival" (Osuzumi Matsuri). Cucumbers were traditionally offered to the deity, and the custom of dedicating lanterns, begun in the Edo period, is said to be the origin of today''s *hoto* lantern-float ritual.
+
+The original Gion Gozu Tenno shrine once stood on the site of Anraku-ji temple in Kajimachi, but in 1635 it was moved to the Sanno grove in present-day Sannomachi. In 1882 the existing Sanno shrine and the Tenno shrine were merged and renamed Otokonushi Shrine, and the Gion Festival has been celebrated as this shrine''s annual festival ever since. In 1910, when electric wires were strung throughout the town of Nanao, the large floats could no longer pass beneath them, and each district began carrying smaller improvised lanterns instead. The large floats were revived in 1961, when the districts also learned the drum, gong, and flute accompaniment that survives today. In 1997 the Kiriko festivals of Noto were designated by the national government as an Intangible Folk Cultural Property warranting documentation, and in 2015 they were recognized as a Japan Heritage under the title "Lanterns Dancing on the Peninsula: Noto, the Frenzy of Kiriko Festivals," shared by six cities and towns of Noto and Ishikawa Prefecture.
 
 ## Highlights
 
-The greatest spectacle of the festival is the wild dancing of the kiriko (lantern floats). Around eleven large and small kiriko lead and guide the portable shrine (mikoshi) through the parish districts. As night falls, these towering illuminated floats compete and sway violently around a great bonfire kindled in an open plaza, creating a scene of intense heat and excitement.
+The greatest spectacle is the moment when the floats race and sway against one another around a roaring bonfire late at night. Of the eleven *hoto*, the great float of the western Kohrimachi district stands roughly 12 to 13 meters tall and weighs around one to two tons, requiring some one hundred young men to lift and carry it. The remaining ten range from 5 to 10 meters in height. The front of each float bears three or four bold Chinese characters written vertically in ink—such as *Hatenko* (unprecedented), *Kan-mukyoku* (boundless joy), or *Gozu Tenno*—while the reverse is painted with valiant warrior scenes; at night these are illuminated and seem to float out of the darkness. Each district is assigned its own team color, so that onlookers can tell which neighborhood a float belongs to simply by the color worn by its bearers.
 
-## Access
+The movement of the floats is governed by drums, flutes, and gongs. When the drum sounds, the bearers heave the float aloft with a cry of "Saa, iyasakasa," then advance shouting the spirited refrain "Sakkasai, sakasassai, iyasakasaa." A leader wearing a red sash gives the signals to run, slow, and halt in time with the drums, and the way these enormous floats are commanded with such precision is itself a marvel to behold. An old custom also survives in which households celebrating the birth of a first child or the building of a new home present festival sake to their district''s float, and the young men reply with a congratulatory song wishing prosperity and long life.
 
-The festival takes place in the central district of Nanao City. The area is accessible from Nanao Station.
+## Visiting and Access
+
+The Nanao Gion Festival takes place every year on the second Saturday of July, centered on Otokonushi Shrine in Sannomachi and the eastern districts of the city. Around three in the afternoon a rite is held at the shrine, the deity is transferred to a portable shrine (mikoshi), and led by children chanting the float song, it proceeds to the temporary shrine in Minatomachi. From early evening the district floats are carried out and paraded through their neighborhoods, gathering by around eight o''clock at the plaza before the temporary shrine to receive purification and a sacred wand. At about half past nine a single signal firework is launched, and the floats depart in the order decided by lot, escorting the portable shrine toward Otokonushi Shrine, carried through narrow lanes so close that they brush the eaves of the houses. Around the bonfire in the shrine precincts they dance once more before everyone joins in singing the old Nanao celebratory song "Nanao Madara" to close the festival. The venue is within walking distance of JR Nanao Station, and can also be reached by car via the Noto Satoyama Kaido or the Noetsu Expressway.
 
 ## Nearby Attractions
 
-Otokonushi Shrine is also famous for the spring Seihaku Festival, in which gigantic "Dekayama" floats are pulled through the streets. The Noto region offers hot springs such as Wakura Onsen and scenic coastal views.
+Nanao, as the gateway to the Noto Peninsula, is rich in things to see. The roadside station "Noto Shokusai Ichiba (Nanao Fisherman''s Wharf)" gathers the seafood and specialty products of Noto, where visitors can enjoy fresh fish and dining. A short distance away lies Wakura Onsen, a renowned hot spring with twelve centuries of history, which also holds summer fireworks. Crossing the Notojima Bridge from Wakura leads to Notojima Island, home to the Notojima Aquarium, famous for its dolphins and whale shark, and to marine activities. The Nanao Art Museum, associated with the painter Hasegawa Tohaku, is also well worth a visit, making it easy to combine the festival with the nature, history, and cuisine of Noto.
 
 ## Related Information
 
-The Kiriko festivals of Noto, including the Nanao Gion Festival, are recognized as component cultural properties of the Japan Heritage "Lanterns Dancing on the Peninsula: Noto, the Frenzy of Kiriko Festivals," and continue to carry the region''s faith and fervor into the present day.
+The Kiriko festivals of Noto, to which the Nanao Gion Festival belongs, were recognized in 2015 as component cultural properties of the Japan Heritage "Lanterns Dancing on the Peninsula: Noto, the Frenzy of Kiriko Festivals," carrying the region''s faith and fervor into the present. At the spring Seihaku Festival of the same Otokonushi Shrine, three of Japan''s largest pull-floats—the "Dekayama," each about 12 meters tall and weighing some 20 tons—are paraded through the streets, famous for the skillful turning maneuver known as *tsuji-mawashi*. The Ishizaki Hoto Festival, held in nearby Ishizaki in early August, is renowned as a "men''s festival" featuring the largest hand-carried float in all of Noto, and shares a cooperative relationship with the Nanao Gion Festival, the two lending bearers to each other. For anyone visiting Noto in summer, enjoying these Kiriko festivals together is highly recommended.
 ','nanao-gion-matsuri','nanao-gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11307448','シネリンピック!','Cinelympics!','日米同時刻開催型の映画祭',NULL,'Q11279143','みなとみらい','Minatomirai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8D%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF!',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11360142','上越まつり','Jōetsu Matsuri',NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -11435,11 +11425,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
