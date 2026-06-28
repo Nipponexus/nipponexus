@@ -544,7 +544,75 @@ Evening illumination during the festival transforms the park into an entirely di
 Approximately two hundred food stalls operate within the park during the festival, offering regional Aomori specialties such as Tsugaru soba noodles, kenoshiru vegetable soup, grilled scallops from Mutsu Bay, and igamenchi fried squid patties. Local sake breweries and apple orchards often have stands as well, allowing visitors to sample regional drinks alongside the food.
 
 Access to the festival is convenient. JR Hirosaki Station is connected to Shin-Aomori, the Shinkansen terminus, by the Ou Main Line, with a travel time of approximately thirty-five minutes. From Hirosaki Station, the park is reached in about fifteen minutes by the one-hundred-yen circulating bus that loops through the city. The wider Tsugaru region offers additional attractions worth combining with a cherry blossom visit, including the historic Konagai Komise district of Kuroishi, the Tsugaru Railway with its retro stove-heated train cars, and the Shirakami Mountains, a UNESCO World Heritage Site featuring one of the largest virgin beech forests in East Asia.','hirosaki-cherry-blossom','hirosaki-cherry-blossom',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11487218','弘前城雪燈籠まつり','Hirosaki Castle Snow Lantern Festival',NULL,'annual winter festival in Hirosaki, Japan','Q11288816','弘前公園','Hirosaki Park','青森県','tohoku',40.6039,140.4649,1977,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%9F%8E%E9%9B%AA%E7%87%88%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hirosaki_Castle_Snow_Lantern_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11487218','弘前城雪燈籠まつり','Hirosaki Castle Snow Lantern Festival',NULL,'annual winter festival in Hirosaki, Japan','Q11288816','弘前公園','Hirosaki Park','青森県','tohoku',40.6039,140.4649,1977,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%9F%8E%E9%9B%AA%E7%87%88%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hirosaki_Castle_Snow_Lantern_Festival',70,'drafted','## 概要
+
+弘前城雪燈籠まつり（ひろさきじょうゆきとうろうまつり）は、青森県弘前市の弘前公園（弘前城）で毎年2月に開催される雪まつりである。「みちのく五大雪まつり」の一つに数えられ、東北を代表する冬の祭りとして知られる。園内には大小さまざまな雪燈籠や雪像が配置され、その数は約150基、年によっては約450基にも及ぶとされる。さらに約300基ものミニカマクラ群が並び、夜になって灯りがともされると、ろうそくや照明にやわらかく浮かび上がる雪像と、闇に浮かぶ弘前城の天守や櫓が一体となって、幽玄で幻想的な雪景色をつくり出す。桜の名所として名高い弘前公園が、冬には雪と灯りの世界へと姿を変える。
+
+## 歴史・由来
+
+弘前城雪燈籠まつりは、長く雪に閉ざされる弘前の冬を、市民が楽しみながら乗り越えようという思いから始まった祭りである。雪国ならではの厳しくも美しい冬を逆手に取り、雪と氷、そして灯りを用いて城跡を彩るという発想のもと、回を重ねて発展してきた。2025年には第49回、翌2026年には第50回という節目を迎えており、半世紀にわたって続いてきた歴史ある祭りである。
+
+会場となる弘前公園は、津軽藩（弘前藩）の居城であった弘前城の城跡を整備した公園で、江戸時代に築かれた天守や櫓、城門などが現存する全国でも貴重な城郭である。春には日本有数の桜の名所として知られるこの公園を、冬には雪燈籠で飾ることで、四季を通じて人々が訪れる場としての魅力を高めてきた。市民が制作に参加する雪燈籠や雪像も多く、地域ぐるみで作り上げる祭りとして定着している。
+
+## 見どころ
+
+最大の見どころは、夜の灯りがともされた時間帯の幽玄な景観である。日中は白一色だった雪像や雪燈籠に、夕暮れとともに灯りが入ると、雪が光を受けてやわらかく輝き、昼間とはまったく異なる幻想的な表情を見せる。とりわけ、ライトアップされた弘前城の天守や櫓を背景に雪燈籠が並ぶ光景は、この祭りを象徴する眺めである。
+
+園内に点在する約300基のミニカマクラ群も人気が高い。一つひとつの小さなかまくらの中にろうそくの灯がともり、雪原に無数の温かな光が連なる様子は、訪れる人の心を和ませる。さらに、四の丸などに築かれる大雪像は迫力満点で、その年ごとに題材を変えて制作され、来場者の目を引く。雪像や燈籠のほか、雪の滑り台などの雪遊びを楽しめる催しもあり、家族連れにも人気がある。
+
+雪燈籠づくりには、自衛隊や市民、地元の団体などが協力して取り組み、巨大な大雪像は完成までに相当の日数と人手を要する。雪を積み上げ、削り出して形を整える作業は寒さの中での重労働だが、こうして多くの人の手で築かれた雪像が、夜の灯りに照らされて来場者を迎える。祭りが半世紀にわたって続いてきた背景には、厳しい冬を地域の力で楽しみに変えてきた弘前の人々の営みがある。
+
+## 開催情報・アクセス
+
+弘前城雪燈籠まつりは、例年2月上旬から中旬にかけて、弘前公園を会場に数日間にわたって開催される。第50回は2026年2月6日から11日までの6日間の日程で行われ、四の丸大雪像前では開会式が催された。
+
+アクセスは、JR奥羽本線の弘前駅からバスで市役所前など弘前公園周辺まで向かい、そこから徒歩で園内に入るのが一般的である。弘前駅から弘前公園までは循環バスなども運行している。冬季の開催のため、足元は雪や凍結に十分注意し、防寒対策と滑りにくい靴で訪れることが大切である。夜のライトアップの時間帯がとりわけ美しいため、日没後の来場がおすすめである。開催期間や点灯時間、催しの詳細は、弘前観光コンベンション協会や弘前市の公式発表で確認するとよい。
+
+## 周辺の見どころ
+
+会場の弘前公園は、雪まつりの時期以外も見どころが多い。春には約2,600本ともいわれる桜が咲き誇り、弘前さくらまつりには全国から花見客が訪れる。秋には紅葉と菊の祭りが開かれるなど、四季折々の表情を楽しめる。園内の弘前城天守は、現存する江戸期の天守として貴重で、内部は史料館として公開されている。
+
+弘前市は津軽地方の中心都市で、明治・大正期に建てられた洋館が数多く残る「洋館のまち」としても知られる。旧弘前市立図書館や青森銀行記念館など、レトロな建築巡りも楽しい。また弘前は、ねぷたまつりで知られる土地でもあり、津軽の伝統文化に触れられる施設が点在する。冬には市内でりんごをはじめとする津軽の味覚や、温かい郷土料理を味わうのもよい。
+
+弘前城の天守は、かつて石垣の修理に伴って曳屋（ひきや）という技術で本来の位置から移動され、話題を呼んだことでも知られる。江戸期の天守を傷めずに動かすこの大事業は、現存天守を未来へ守り伝えるための取り組みであり、城を大切に守ってきた弘前の姿勢を象徴している。雪燈籠まつりもまた、この貴重な城跡という舞台があってこそ成り立つ祭りであり、城と雪と灯りが一体となった景観は、弘前という土地の歴史の厚みに支えられている。
+
+弘前を含む津軽地方は全国有数の豪雪地帯で、冬には1メートルを超える積雪となることも珍しくない。この豊かな雪があるからこそ、多数の雪燈籠や大雪像を築く雪まつりが成り立つ。雪に閉ざされる長い冬を、ただ耐えるのではなく光と造形で彩り、人々が集う催しに変えてきたところに、雪国・弘前の知恵と心意気が表れている。
+
+弘前を含む津軽地方は全国有数の豪雪地帯で、冬には1メートルを超える積雪となることも珍しくない。この豊かな雪があるからこそ、多数の雪燈籠や大雪像を築く雪まつりが成り立つ。雪に閉ざされる長い冬を、ただ耐えるのではなく光と造形で彩り、人々が集う催しに変えてきたところに、雪国・弘前の知恵と心意気が表れている。
+
+## 関連情報
+
+弘前城雪燈籠まつりの最新情報は、弘前観光コンベンション協会および弘前市の公式サイトで確認できる。本まつりが数えられる「みちのく五大雪まつり」は、東北各地で開かれる代表的な雪の祭りの総称で、それぞれの土地ならではの雪景色や催しが楽しめる。弘前城雪燈籠まつりは、その中でも歴史ある城郭を舞台とする点に大きな特色があり、雪と灯り、そして城が織りなす情景は、ほかの雪まつりにはない独自の魅力を放っている。冬の弘前を訪れる際には、防寒をしっかり整えたうえで、夜の幻想的なひとときを味わいたい。','## Overview
+
+The Hirosaki Castle Snow Lantern Festival is a snow festival held every February in Hirosaki Park (Hirosaki Castle) in Hirosaki City, Aomori Prefecture. Counted among the "Five Great Snow Festivals of Michinoku," it is known as one of the leading winter festivals of the Tohoku region. Throughout the park, snow lanterns and snow sculptures of various sizes are arranged—numbering about 150, and in some years as many as around 450. In addition, some 300 mini-kamakura (small snow huts) line the grounds, and when they are lit at night, the snow sculptures softly illuminated by candles and lights merge with the keep and turrets of Hirosaki Castle floating in the darkness, creating a profound and dreamlike snowscape. Hirosaki Park, famous as a cherry-blossom spot, transforms in winter into a world of snow and light.
+
+## History and Origins
+
+The Hirosaki Castle Snow Lantern Festival began from the desire of citizens to get through Hirosaki''s long, snowbound winter while enjoying it. Turning the harsh yet beautiful winter unique to a snow country to advantage, the idea of adorning the castle grounds with snow, ice, and light developed over successive years. The festival reached its 49th edition in 2025 and the milestone 50th in 2026, making it a long-established event spanning half a century.
+
+The venue, Hirosaki Park, is a park developed on the grounds of Hirosaki Castle, the residence of the Tsugaru (Hirosaki) domain. It preserves a keep, turrets, and castle gates built in the Edo period, making it a precious castle even by national standards. Known in spring as one of Japan''s foremost cherry-blossom spots, the park has enhanced its appeal as a place people visit throughout the year by being decorated with snow lanterns in winter. Many of the snow lanterns and sculptures are made with citizen participation, and the festival has taken root as one created by the whole community.
+
+## Highlights
+
+The greatest highlight is the profound scenery during the hours when the night lights are lit. Snow sculptures and lanterns that were pure white by day take on a completely different, fantastical appearance as light enters them at dusk, the snow glowing softly as it catches the light. In particular, the sight of snow lanterns arrayed against the backdrop of the illuminated keep and turrets of Hirosaki Castle is the view that symbolizes this festival.
+
+The roughly 300 mini-kamakura scattered through the park are also very popular. With a candle flame glowing inside each small snow hut, the sight of countless warm lights stretching across the snow field soothes the hearts of visitors. Furthermore, the large snow sculptures built in areas such as the Ninomaru''s fourth bailey are full of impact, made on a different theme each year and catching the eyes of visitors. Beyond the sculptures and lanterns, there are also attractions where visitors can enjoy snow play such as snow slides, making it popular with families as well.
+
+## Event Information and Access
+
+The Hirosaki Castle Snow Lantern Festival is held over several days at Hirosaki Park, generally from early to mid-February. The 50th edition took place over six days from February 6 to 11, 2026, with an opening ceremony held in front of the large snow sculpture in the fourth bailey.
+
+For access, it is common to take a bus from Hirosaki Station on the JR Ou Main Line to stops such as City Hall near Hirosaki Park, and then walk into the grounds. A loop bus and other services also run from Hirosaki Station to Hirosaki Park. As the event is held in winter, it is important to take care of snow and ice underfoot, dress warmly, and wear non-slip shoes. Since the evening illumination hours are especially beautiful, visiting after sunset is recommended. Details on the period, lighting times, and attractions can be checked through official announcements by the Hirosaki Tourism and Convention Association or Hirosaki City.
+
+## Around the Area
+
+Hirosaki Park, the venue, has many attractions outside the snow festival season as well. In spring, some 2,600 cherry trees burst into bloom, and the Hirosaki Cherry Blossom Festival draws viewers from across the country. In autumn, a festival of fall foliage and chrysanthemums is held, allowing visitors to enjoy the changing expressions of the seasons. The keep of Hirosaki Castle within the park is precious as a surviving Edo-period keep, and its interior is open as a historical museum.
+
+Hirosaki is the central city of the Tsugaru region and is also known as a "town of Western-style buildings," with many Western-style structures built in the Meiji and Taisho eras. Touring retro architecture such as the former Hirosaki City Library and the Aomori Bank Memorial Hall is enjoyable. Hirosaki is also a land known for its Neputa festival, and facilities offering a taste of Tsugaru''s traditional culture are scattered about. In winter, it is also good to savor Tsugaru delicacies such as apples and warming local dishes in the city.
+
+## Related Information
+
+The latest information on the Hirosaki Castle Snow Lantern Festival can be found on the official websites of the Hirosaki Tourism and Convention Association and Hirosaki City. The "Five Great Snow Festivals of Michinoku" of which this festival is counted is a collective name for representative snow festivals held throughout the Tohoku region, each offering snowscapes and attractions unique to its locale. The Hirosaki Castle Snow Lantern Festival is greatly distinguished among them by being set against a historic castle, and the scene woven by snow, light, and the castle radiates a unique charm not found in other snow festivals. When visiting Hirosaki in winter, prepare thoroughly against the cold and savor the fantastical moments of the night.','hirosaki-castle-snow-lantern-festival','hirosaki-castle-snow-lantern-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11487200','弘前ねぷた','Hirosaki Neputa','青森県弘前市で開催される夏祭り','summer festival in Hirosaki, Japan',NULL,NULL,NULL,'青森県','tohoku',40.6039,140.4649,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%C5%8Cgi%20Neputa.jpg','https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F','https://en.wikipedia.org/wiki/Hirosaki_Neputa_Festival',95,'drafted','## 概要
 
 弘前ねぷた（ひろさきねぷた）は、青森県弘前市で毎年8月1日から7日にかけて執り行われる、津軽地方を代表する夏祭りである。「弘前ねぷたまつり」として国の重要無形民俗文化財に指定されており、青森ねぶた（青森市・ねぶたは「立体」）、五所川原立佞武多（五所川原市・「巨大」）と並ぶ津軽三大ねぷた・ねぶたのひとつに数えられる。扇形の山車「扇ねぷた」が特徴で、戦国時代の合戦絵巻を題材とした勇壮な絵が描かれる。
@@ -5097,7 +5165,69 @@ The Fushiki district enjoys good access, within walking distance of Fushiki Stat
 The Fushiki district is a place of history where the ancient provincial capital and provincial temple of Etchū were located, and is also known as the place to which Ōtomo no Yakamochi, a poet of the Man''yōshū, was posted as provincial governor. At the Takaoka Man''yō Historical Museum, visitors can engage with Man''yō culture, and from the Amaharashi Coast a superb view of the Tateyama mountain range across Toyama Bay unfolds. Together with the national treasure Zuiryū-ji temple and the Great Buddha in central Takaoka, and the traditional crafts of copperware and lacquerware, it is an area where one can savor the history, culture, and nature of western Toyama.','fushiki-hikiyama-festival','fushiki-hikiyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371737','二百十日','Nihyakutōka','雑節のひとつ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11396267','刈谷わんさか祭り','Kariya Wansaka Festival','愛知県刈谷市で開催されるイベント','event held in Kariya, Aichi, Japan','Q11396287','刈谷市総合運動公園',NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%88%88%E8%B0%B7%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11402392','北海ソーラン祭り','Hokkai Soran Matsuri','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.188471862,140.794824782,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11402392','北海ソーラン祭り','Hokkai Soran Matsuri','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.188471862,140.794824782,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,75,'drafted','## 概要
+
+北海ソーラン祭り（ほっかいソーランまつり）は、北海道余市郡余市町で毎年夏に開催される祭りである。北海道を代表する民謡「ソーラン節」発祥の地とされる余市町で、その発祥を称え受け継ぐことを目的に開かれる。会場は余市港で、正調ソーラン節の披露を中心に、夜空を彩る花火大会などが行われ、町内外から多くの人出でにぎわう。札幌で6月に開催される「YOSAKOIソーラン祭り」とは名称が似ているが、まったく別の祭りであり、北海ソーラン祭りはソーラン節の本来の発祥地でその原点を伝える祭りという点に大きな特色がある。
+
+## 歴史・由来
+
+ソーラン節は、かつてニシン漁で栄えた北海道の日本海沿岸で、漁に雇われた出稼ぎ労働者「ヤン衆（やんしゅう）」たちが、網を引き上げる重労働の際に唄った仕事唄（沖揚げ音頭）に起源を持つ。「ソーラン、ソーラン」という独特の掛け声は、過酷な漁の作業の調子を合わせ、互いを鼓舞するために生まれたものとされる。余市町は明治から大正にかけてニシン漁で大いに栄え、海岸には漁の網元が建てた鰊御殿（にしんごてん）が残るなど、ニシン漁とともに歩んだ歴史を色濃く伝える土地である。北海ソーラン祭りは、このソーラン節発祥の地という誇りを背景に、漁で栄えた往時をしのび、地域の民謡文化を次世代へ継承する目的で続けられてきた。開催回数を重ね、2026年には第58回を数える歴史ある祭りとなっている。
+
+ソーラン節は本来「沖揚げ音頭」と呼ばれた。ニシン漁では、沖に張った大網に入った大量のニシンを、枠網（たもあみ）ですくって沖の船から陸へ運ぶ汲み揚げ作業が行われ、この重労働に合わせて唄われたのが「ソーラン、ソーラン」の沖揚げ音頭である。春になると産卵のためニシンの大群が沿岸に押し寄せ、海が白く濁る「群来（くき）」が起こると、本州各地から「ヤン衆」と呼ばれる季節労働者が大挙して余市など日本海沿岸に渡ってきた。短い漁期に集中して行われる過酷な作業のなかで生まれた唄であり、ソーラン節の力強い節回しと掛け声には、こうした漁の現場のリズムがそのまま刻まれている。
+
+## 見どころ
+
+最大の見どころは、地元の保存会による正調ソーラン節の披露である。アレンジを加えた創作ソーランが各地で踊られる現代にあって、発祥地で受け継がれてきた本来のソーラン節を、力強い唄と所作で目にすることができる。ニシン漁の網引きの動きを写したとされる踊りには、海とともに生きた人々の労働の記憶が宿っており、迫力と素朴さを兼ね備えている。
+
+そしてもう一つの大きな見どころが、祭りの締めくくりに余市港の夜空を彩る花火大会である。海を背景に打ち上げられる花火は、漁港の町ならではの情景をつくり出し、唄と踊りで高まった祭りの熱気を一気に盛り上げる。会場となる余市港には露店も立ち並び、夏の宵を楽しむ家族連れや観光客でにぎわう。
+
+発祥地で正調を披露する意義は、近年いっそう重みを増している。ソーラン節は戦後、学校の運動会や体育祭で集団演舞として全国的に踊られるようになり、力強い掛け声と振り付けは世代を問わず親しまれる存在となった。しかしその一方で、各地で踊られるのはアレンジを重ねた創作版が多く、漁の仕事唄としての本来の節回しや所作に触れる機会は限られている。余市の保存会が伝える正調ソーラン節は、こうした原型を今に残すものであり、祭りは単なる興行ではなく、民謡の継承と後継者の育成という役割も担っている。地元の子どもから大人までが踊り手として参加することで、ソーラン節は生きた文化として次の世代へと引き継がれていく。
+
+## 開催情報・アクセス
+
+北海ソーラン祭りは、例年夏（近年は7月から8月）に余市港を会場として開催される。第58回は2026年8月9日（日）に余市港で行われ、夕方から夜にかけてソーラン節の披露や各種イベントが催され、花火が打ち上げられる。
+
+アクセスは、JR函館本線の余市駅から徒歩約15分。札幌方面からは車で小樽を経由して向かうのが一般的で、小樽から余市までは国道5号などで比較的近い。開催日は会場周辺で交通規制が敷かれる場合があるため、公共交通機関の利用が便利である。最新の開催日程や時間、交通規制の情報は、余市町や余市町観光協会の公式発表で事前に確認することが望ましい。
+
+## 周辺の見どころ
+
+余市町はニシン漁とともに、果樹栽培やウイスキーづくりでも知られる。町の中心部には、日本のウイスキーの父と呼ばれる竹鶴政孝が創業したニッカウヰスキー余市蒸溜所があり、重厚な石造りの建物群と試飲ができる見学施設は人気の観光スポットとなっている。海沿いには、国の登録有形文化財などに指定される旧余市福原漁場や鰊御殿といったニシン漁の遺構が残り、往時の繁栄をしのぶことができる。
+
+また余市はリンゴやブドウなど果樹の一大産地で、近年はワイン用ブドウの栽培も盛んになり、複数のワイナリーが点在する。秋には果物狩りも楽しめる。少し足をのばせば、運河や歴史的建造物で知られる観光都市・小樽も近く、あわせて巡る旅程が組みやすい。
+
+なお余市町は、スペースシャトルで宇宙へ飛び立った宇宙飛行士・毛利衛の出身地としても知られ、町内には宇宙関連の展示を行う施設がある。また町域には、続縄文時代の人物や動物などを刻んだ彫刻で知られるフゴッペ洞窟（国の史跡）があり、北海道の古代文化を伝える貴重な遺跡として見学できる。ニッカ余市蒸溜所では、現在では希少となった石炭直火による単式蒸溜という伝統的な製法が守られており、ウイスキーづくりの原点に触れられる。
+
+## 関連情報
+
+北海ソーラン祭りの最新情報は、余市町および余市町観光協会の公式サイトで確認できる。同じ「ソーラン」を冠する祭りとして、札幌市で初夏に開催される「YOSAKOIソーラン祭り」が全国的に知られるが、こちらは高知のよさこい祭りの鳴子とソーラン節を組み合わせた創作の演舞祭であり、ニシン漁の仕事唄を発祥とする本来のソーラン節を伝える余市の北海ソーラン祭りとは由来も性格も異なる。両者を区別して理解すると、ソーラン節という民謡が持つ歴史の奥行きがより深く感じられる。','## Overview
+
+The Hokkai Soran Matsuri is a summer festival held each year in the town of Yoichi, in the Yoichi District of Hokkaido. Yoichi is regarded as the birthplace of Soran Bushi, one of the most famous folk songs of Hokkaido, and the festival is held to celebrate and carry on that heritage. The main venue is Yoichi Port, where performances of the authentic Soran Bushi take center stage, accompanied by a fireworks display that lights up the summer night sky, drawing large crowds from the town and beyond. Although its name resembles the "YOSAKOI Soran Festival" held in Sapporo in June, the two are entirely different events. The Hokkai Soran Matsuri stands apart because it takes place in the true birthplace of Soran Bushi and conveys the song in its original form.
+
+## History and Origins
+
+Soran Bushi originated as a work song sung along the Sea of Japan coast of Hokkaido, which once prospered through herring fishing. Migrant laborers called "yan-shu," hired for the demanding herring catch, sang this song (a net-hauling chant) as they pulled in the heavy nets. The distinctive call of "Soran, Soran" was born from the need to synchronize the rhythm of the grueling work and to encourage one another. Yoichi flourished through herring fishing from the Meiji into the Taisho era, and the coast still preserves "nishin goten," grand mansions built by the fishing magnates, vividly conveying the town''s history intertwined with the herring trade. Against this backdrop of pride as the birthplace of Soran Bushi, the Hokkai Soran Matsuri has continued as a way to recall the prosperous days of the fishery and to pass the region''s folk-song culture on to future generations. By 2026 the festival had reached its 58th edition, marking a long and established tradition.
+
+## Highlights
+
+The greatest highlight is the performance of the authentic Soran Bushi by a local preservation society. In an age when arranged, modern versions of "Soran" are danced all over the country, here in its birthplace one can witness the original Soran Bushi handed down with powerful singing and traditional movements. The dance, said to imitate the motions of hauling herring nets, carries within it the memory of the labor of people who lived alongside the sea, combining raw power with rustic simplicity.
+
+The other major highlight is the fireworks display that closes the festival, coloring the night sky over Yoichi Port. Launched against the backdrop of the sea, the fireworks create a scene unique to a fishing-port town, bringing the energy of the festival—heightened by song and dance—to a climax. Food stalls line the port venue, and families and visitors gather to enjoy the summer evening.
+
+## Event Information and Access
+
+The Hokkai Soran Matsuri is held in summer (in recent years between July and August) at Yoichi Port. The 58th edition took place on Sunday, August 9, 2026, with performances of Soran Bushi and various events from evening into night, concluding with fireworks.
+
+For access, the venue is about a 15-minute walk from Yoichi Station on the JR Hakodate Main Line. From the Sapporo area, it is common to drive via Otaru; Yoichi is relatively close to Otaru along National Route 5 and other roads. Traffic restrictions may be in place around the venue on the day of the festival, so using public transportation is convenient. Visitors are advised to check the latest dates, times, and traffic information through official announcements by the town of Yoichi or the Yoichi Tourism Association.
+
+## Around the Area
+
+Along with herring fishing, Yoichi is known for fruit growing and whisky making. In the center of town stands the Nikka Whisky Yoichi Distillery, founded by Masataka Taketsuru, often called the father of Japanese whisky; its solid stone buildings and tour facilities with tastings make it a popular attraction. Along the coast remain relics of the herring fishery such as the former Yoichi Fukuhara Fishery and the nishin goten mansions, some designated as registered tangible cultural properties, evoking the prosperity of bygone days.
+
+Yoichi is also a major fruit-producing area for apples, grapes, and more; in recent years grape growing for wine has thrived, and several wineries dot the area. Fruit picking can be enjoyed in autumn. A little farther afield lies Otaru, the tourist city famous for its canal and historic buildings, making it easy to combine the two in a single itinerary.
+
+## Related Information
+
+The latest information on the Hokkai Soran Matsuri can be found on the official websites of the town of Yoichi and the Yoichi Tourism Association. Another festival bearing the name "Soran," the YOSAKOI Soran Festival held in Sapporo in early summer, is nationally famous; however, it is a creative dance festival combining the naruko clappers of Kochi''s Yosakoi with Soran Bushi, differing in both origin and character from Yoichi''s Hokkai Soran Matsuri, which preserves the original Soran Bushi rooted in the herring-fishing work song. Distinguishing between the two deepens one''s appreciation of the historical richness of the folk song known as Soran Bushi.','hokkai-soran-matsuri','hokkai-soran-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11391547','八王子いちょう祭り','Hachioji Ginkgo Festival','東京都八王子市にて毎年秋に実施される祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,1979,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11378042','仙台短篇映画祭','Sendai Short Film Festival',NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',NULL,NULL,2001,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E7%9F%AD%E7%AF%87%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11381210','会津まつり','Aizu Clan Parade',NULL,NULL,'Q237699','会津若松市','Aizuwakamatsu','福島県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shinmei-dori%20during%202006%20Aizu%20Autumn%20Festival.JPG','https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
@@ -5977,7 +6107,7 @@ INSERT INTO "festivals" VALUES('Q11370928','亀岡祭',NULL,NULL,NULL,NULL,NULL,
 INSERT INTO "festivals" VALUES('Q11302490','コミックシティ','Comic City','赤ブーブー通信社が主催するオールジャンル・マンガ同人誌即売会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1988,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11287660','インディーズムービー・フェスティバル','Indie Movie Festival','かつて日本で開催された自主映画の映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11293020','オンチ映画祭','Onchi Film Festival','東京都町田市で毎年開催される映画祭',NULL,'Q210628','町田市','Machida','東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%83%81%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11362874','中之条ビエンナーレ','Nakanojo Biennnale',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',36.589893,138.84099,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E3%83%93%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11362874','中之条ビエンナーレ','Nakanojo Biennnale',NULL,NULL,NULL,NULL,NULL,'群馬県','kanto',36.589893,138.84099,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E3%83%93%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC',NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11296436','ガンダーラ映画祭','Gandara Film Festival','短編ドキュメンタリーの自主上映イベント',NULL,'Q735384','下北沢','Shimokitazawa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280572','やや祭り','Yaya Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%84%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11297936','キネコ国際映画祭','KINEKO International Children''s Film Festival','東京都で毎年11月上旬に開催される映画祭',NULL,'Q11371454','二子玉川','Futako-Tamagawa','東京都','kanto',NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%82%B3%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -6587,7 +6717,75 @@ INSERT INTO "festivals" VALUES('Q11419692','四国三大祭り','Three Great Fes
 INSERT INTO "festivals" VALUES('Q11414198','吉祥寺秋まつり','Kichijoji Autumn Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11414802','名古屋まつり','Nagoya Festival',NULL,NULL,NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11417760','和泉だんじり祭',NULL,NULL,NULL,'Q696412','和泉市','Izumi',NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%89%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q121294996','狛江・多摩川花火大会','Komae Tamagawa Fireworks Festival','狛江市で開催される花火大会','Fireworks show in Japan','Q121295034','多摩川緑地公園',NULL,'東京都','kanto',35.623,139.572,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%8B%9B%E6%B1%9F%E3%83%BB%E5%A4%9A%E6%91%A9%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q121294996','狛江・多摩川花火大会','Komae Tamagawa Fireworks Festival','狛江市で開催される花火大会','Fireworks show in Japan','Q121295034','多摩川緑地公園',NULL,'東京都','kanto',35.623,139.572,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%8B%9B%E6%B1%9F%E3%83%BB%E5%A4%9A%E6%91%A9%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,75,'drafted','## 概要
+
+狛江・多摩川花火大会（こまえ・たまがわはなびたいかい）は、東京都狛江市で夏に開催される花火大会である。多摩川の河川敷を会場に、約5,000発の花火が打ち上げられる。最大の特徴は、打ち上げ場所から観覧エリアまでの距離が約110メートルと非常に近く、頭上いっぱいに広がる花火を間近で体感できる迫力にある。会場が決して広くないがゆえに生まれるこの近さが人気を呼び、人口約8万人の狛江市に、市の人口を超える数の観客が訪れる。大正時代から続く歴史を持ち、多摩川をはさんで対岸の神奈川県川崎市側からも多くの人が観覧する、地域に根ざした夏の風物詩である。
+
+## 歴史・由来
+
+狛江・多摩川花火大会の歴史は古く、大正時代にさかのぼるとされる。多摩川は古くから流域の人々の暮らしと深く結びついてきた川であり、その河川敷を舞台にした花火は、地域の夏の行事として親しまれてきた。長い歴史の中では、戦争や社会情勢、また河川敷という会場の性質上、台風など天候の影響を受けて中止となる年もあったが、そのたびに地域の人々の手で受け継がれてきた。
+
+近年は狛江市と狛江市観光協会が中心となって運営し、市民や地元企業の協賛に支えられて開催されている。多摩川の対岸にあたる川崎市側でも多くの観客が花火を楽しむため、一つの花火大会が二つの自治体の住民に夏のひとときを届ける、広域的な行事となっている点も特徴である。河川敷という開放的な会場と、間近で見られる迫力が、世代を超えて愛される理由となっている。
+
+## 見どころ
+
+最大の見どころは、何といっても花火との「近さ」である。打ち上げ場所からわずか約110メートルという至近距離で観覧できるため、花火が開くときの光だけでなく、腹に響く打ち上げの音や、夜空いっぱいに広がる火の粉の余韻まで、全身で感じることができる。広い会場で遠くに花火を眺める大規模大会とは異なり、見上げるほど近い距離で大輪の花火が炸裂する体験は、この大会ならではのものである。
+
+約5,000発という発数は、首都圏の大規模花火大会と比べれば多すぎることはないが、近さによる迫力がそれを補って余りある。スターマインや大玉が連続して打ち上がる場面では、河川敷を埋めた観客から歓声が上がる。多摩川の水面に映る光も美しく、川と花火が一体となった景観を楽しめる。
+
+会場の近さは、裏を返せば運営側の高度な安全管理に支えられている。観客と打ち上げ場所の距離が近いほど、火薬の量や打ち上げ角度、立入規制の範囲などをきめ細かく設計する必要があり、限られた河川敷の空間で安全と迫力を両立させる工夫が、長年の開催で培われてきた。こうした積み重ねがあるからこそ、観客は安心して至近距離からの花火を楽しむことができる。
+
+また、河川敷という平坦で見通しのよい会場のため、川面に沿って横に広がる眺めも楽しめる。打ち上げが間近である分、一発ごとの花火が視界いっぱいに広がり、フィナーレで連続して大玉やスターマインが上がる場面では、光と音と振動が渾然一体となって観客を包み込む。遠くから全体を俯瞰する花火大会とは異なる、五感で味わう花火がこの大会の真骨頂である。
+
+また、河川敷という平坦で見通しのよい会場のため、川面に沿って横に広がる眺めも楽しめる。打ち上げが間近である分、一発ごとの花火が視界いっぱいに広がり、フィナーレで連続して大玉やスターマインが上がる場面では、光と音と振動が渾然一体となって観客を包み込む。遠くから全体を俯瞰する花火大会とは異なる、五感で味わう花火がこの大会の真骨頂である。
+
+## 開催情報・アクセス
+
+狛江・多摩川花火大会は、例年夏に多摩川の狛江市側河川敷を会場として開催される。打ち上げ数は約5,000発。主催は狛江市地域活性課および狛江市観光協会である。
+
+アクセスは、小田急小田原線の狛江駅または和泉多摩川駅から徒歩で会場の多摩川河川敷へ向かうのが便利である。対岸の川崎市側からは、小田急線や南武線の最寄り駅から多摩川沿いに向かうことができる。会場周辺は当日大変混雑し、交通規制も敷かれるため、公共交通機関の利用が強く推奨される。間近で見られる人気の大会であるため、良い観覧場所を確保するには早めの来場が望ましい。開催日や時間、荒天時の対応などは、狛江市や狛江市観光協会の公式発表で事前に確認するとよい。
+
+## 周辺の見どころ
+
+会場となる多摩川の河川敷は、花火大会の時期以外も、散策やサイクリング、スポーツを楽しむ市民の憩いの場となっている。狛江市は「水と緑のまち」を掲げ、多摩川や野川、用水路沿いの緑道など、水辺の自然に親しめる環境が整っている。
+
+狛江駅周辺には商店街があり、地元に根ざした飲食店や店舗が並ぶ。少し足をのばせば、世田谷区や調布市といった近隣エリアにもアクセスしやすく、調布には深大寺や神代植物公園といった名所がある。多摩川を渡れば川崎市の多摩区・登戸エリアで、生田緑地や日本民家園、藤子・F・不二雄ミュージアムなど、家族で楽しめる施設も点在している。花火大会とあわせて、多摩川流域の自然と街歩きを楽しむことができる。
+
+多摩川は古くから人や物資の往来を担った川で、かつては流域の各所に渡し舟が設けられ、両岸の地域を結んでいた。狛江と対岸の川崎が一つの花火大会を共有する今日の姿は、川によって隔てられながらも結ばれてきた多摩川流域の歴史を、現代的な形で映し出しているともいえる。狛江市内には国の史跡に関わる古墳群など古代からの歴史を伝える遺跡もあり、多摩川とともに歩んできた土地の奥行きを感じさせる。
+
+## 関連情報
+
+狛江・多摩川花火大会の最新情報は、狛江市および狛江市観光協会の公式サイトで確認できる。多摩川流域では、対岸の世田谷区側でも「世田谷区たまがわ花火大会」が開催されるなど、複数の花火大会が夏に行われており、川をはさんだ各地で夏の夜空が彩られる。狛江・多摩川花火大会は、その中でも観客と花火の距離の近さで知られ、迫力ある花火を間近で楽しみたい人に親しまれている。河川敷という会場の特性上、増水や荒天時には中止・順延となる場合があるため、来場前には必ず開催可否の最新情報を確認することが大切である。','## Overview
+
+The Komae Tamagawa Fireworks Festival is a summer fireworks event held in Komae City, Tokyo. About 5,000 fireworks are launched over the riverbed of the Tama River. Its greatest distinguishing feature is the remarkably short distance—about 110 meters—between the launch site and the viewing area, allowing spectators to experience fireworks bursting directly overhead with extraordinary impact. This closeness, born precisely because the venue is not large, makes the event hugely popular: Komae City, with a population of around 80,000, draws crowds exceeding its own population. With a history dating back to the Taisho era, and with many viewers watching from the Kawasaki side of Kanagawa Prefecture across the river, it is a beloved summer tradition rooted in the local community.
+
+## History and Origins
+
+The history of the Komae Tamagawa Fireworks Festival is long, said to reach back to the Taisho era. The Tama River has been deeply connected to the lives of people along its course since ancient times, and fireworks staged on its riverbed have long been cherished as a local summer event. Over its long history, there were years when the event was canceled due to war, social conditions, or—given the nature of a riverbed venue—the impact of weather such as typhoons; yet each time it was carried on by the hands of local people.
+
+In recent years it has been organized chiefly by Komae City and the Komae Tourism Association, supported by sponsorship from citizens and local businesses. Because many spectators also enjoy the fireworks from the Kawasaki side across the river, this single fireworks display delivers a summer moment to residents of two municipalities, giving it a notably broad reach. The open riverbed venue and the impact of viewing at close range are why it is loved across generations.
+
+## Highlights
+
+The greatest highlight is, above all, the closeness to the fireworks. Because spectators view from a distance of only about 110 meters from the launch site, they can feel with their whole body not only the light as the fireworks open but also the booming sound of the launch and the lingering glow of sparks spreading across the night sky. Unlike large-scale events where fireworks are viewed from afar across a wide venue, the experience of great blossoms of fire exploding so close that one must look straight up is unique to this event.
+
+While the figure of about 5,000 shells is not especially large compared with major fireworks displays in the metropolitan area, the impact of the closeness more than makes up for it. During sequences when star mines and large shells are launched in succession, cheers rise from the crowd filling the riverbed. The light reflected on the surface of the Tama River is beautiful too, offering a scene in which river and fireworks become one.
+
+## Event Information and Access
+
+The Komae Tamagawa Fireworks Festival is held in summer on the Komae-side riverbed of the Tama River. The number of fireworks is about 5,000. It is organized by the Community Revitalization Division of Komae City and the Komae Tourism Association.
+
+For access, it is convenient to walk to the Tama River riverbed venue from Komae Station or Izumi-Tamagawa Station on the Odakyu Odawara Line. From the Kawasaki side across the river, one can head along the Tama River from the nearest stations on the Odakyu or Nambu lines. The area around the venue becomes very crowded on the day, and traffic restrictions are imposed, so the use of public transportation is strongly recommended. Because this is a popular event known for its close-up views, arriving early is advisable to secure a good viewing spot. Visitors should check dates, times, and bad-weather arrangements in advance through official announcements by Komae City or the Komae Tourism Association.
+
+## Around the Area
+
+The Tama River riverbed that serves as the venue is, outside of fireworks season, a place of relaxation for residents who enjoy strolling, cycling, and sports. Komae City promotes itself as a "town of water and greenery," with an environment for enjoying waterside nature along the Tama River, the Nogawa River, and green paths beside irrigation channels.
+
+Around Komae Station there is a shopping street lined with locally rooted restaurants and shops. A little farther afield, neighboring areas such as Setagaya Ward and Chofu City are easily accessible; Chofu is home to landmarks such as Jindaiji Temple and Jindai Botanical Gardens. Crossing the Tama River brings you to the Tama Ward and Noborito area of Kawasaki, where family-friendly facilities such as Ikuta Ryokuchi Park, the Japan Open-Air Folk House Museum, and the Fujiko F. Fujio Museum are scattered. Together with the fireworks, one can enjoy the nature and town walks of the Tama River basin.
+
+## Related Information
+
+The latest information on the Komae Tamagawa Fireworks Festival can be found on the official websites of Komae City and the Komae Tourism Association. In the Tama River basin, several fireworks displays are held in summer, including the Setagaya Tamagawa Fireworks Festival on the Setagaya side across the river, so the summer night sky is colored at various points along the river. Among them, the Komae Tamagawa Fireworks Festival is known for the closeness between spectators and fireworks, and is favored by those who wish to enjoy powerful fireworks up close. Given the nature of a riverbed venue, the event may be canceled or postponed in case of high water or stormy weather, so it is important to check the latest information on whether it will be held before setting out.','komae-tamagawa-fireworks','komae-tamagawa-fireworks',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q124570404','旭岡山神社の梵天奉納祭',NULL,'秋田県横手市の祭事',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Yokote%27s%20Bonden%20at%20Kajimachi%20202402.jpg',NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q119478096','近代麻雀水着祭','Kindai Mahjong Swimsuit Festival',NULL,'swimsuit festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Kindai%20Mahjong%20Swimsuit%20Festival%20%28April%2029%2C%202024%29051961.jpg','https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BB%A3%E9%BA%BB%E9%9B%80%E6%B0%B4%E7%9D%80%E7%A5%AD',NULL,80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q120885738','岩瀬駅前夏祭り',NULL,'茨城県桜川市の岩瀬市街地で行われる祭り','summer festival in Iwase, Sakuragawa, Ibaraki','Q116950442','岩瀬','Iwase','茨城県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/DSC%20%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B2.jpg','https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -7935,7 +8133,7 @@ INSERT INTO "festivals" VALUES('Q132860355','松戸花火大会','Matsudo Firewo
 INSERT INTO "festivals" VALUES('Q134434444',NULL,'World DJ Festival Japan',NULL,'electronic music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2025,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039171','合祀：等乃伎神社','Ohotoshino Shrine',NULL,NULL,NULL,NULL,NULL,'大阪府','kinki',34.521167,135.456489,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040625','合祀：浅間神社','Kutsuno Shrine',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',35.440748,134.804007,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134927474','八幡神社 (下田市吉佐美)','Hachiman Shrine','東京都新島村本村 にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.659076,138.915183,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE_(%E4%B8%8B%E7%94%B0%E5%B8%82%E5%90%89%E4%BD%90%E7%BE%8E)',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134927474','八幡神社 (下田市吉佐美)','Hachiman Shrine','静岡県下田市吉佐美にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.659076,138.915183,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE_(%E4%B8%8B%E7%94%B0%E5%B8%82%E5%90%89%E4%BD%90%E7%BE%8E)',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039284','合祀：鳥墓神社','Unino Shrine',NULL,NULL,NULL,NULL,NULL,'愛知県','chubu',34.519035,136.630193,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039310','豊原神社','Ohokushino Shrine',NULL,NULL,NULL,NULL,NULL,'三重県','kinki',34.525194444,136.569611111,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040900','坐波夜都武自和気神社','Hayatsumushiwakeno Shrine',NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',35.436823,133.16584,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -8981,7 +9179,71 @@ The Tsurumi no Tamatsuri was once discontinued for a time, but was revived throu
 INSERT INTO "festivals" VALUES('Q11436695','大正天皇祭','Emperor Taishō Festival','昭和年間における先帝祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1927,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E5%A4%A9%E7%9A%87%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11440004','大阪ヨーロッパ映画祭','Osaka European Film Festival',NULL,'film festival',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11481688','常陸國總社宮大祭','Hitachinokuni Soshagu Reitaisai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B8%B8%E9%99%B8%E5%9C%8B%E7%B8%BD%E7%A4%BE%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11477022','島立裸まつり','Shimadachi Hadaka Matsuri',NULL,NULL,NULL,NULL,NULL,'長野県','chubu',36.2310354,137.9440724,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%AB%8B%E8%A3%B8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q11477022','島立裸まつり','Shimadachi Hadaka Matsuri',NULL,NULL,NULL,NULL,NULL,'長野県','chubu',36.2310354,137.9440724,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%AB%8B%E8%A3%B8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,70,'drafted','## 概要
+
+島立裸まつり（しまだちはだかまつり）は、長野県松本市島立の堀米（ほりごめ）地区に江戸時代から伝わる神事で、正式には「島立堀米の裸祭り」と呼ばれる。堀米地区の氏神である津島社（つしましゃ）の夏祭りとして、例年7月に行われる。男児たちが晒木綿（さらしもめん）のもっこ褌（ふんどし）姿になり、紙幟（かみのぼり）を持って掛け声をかけながら練り歩き、厄除けや疫病退散などを祈願する素朴な祭りである。子どもたちが主役となる伝統行事として大切に受け継がれ、1988年（昭和63年）に長野県の無形民俗文化財に指定されている。
+
+## 歴史・由来
+
+島立堀米の裸祭りは、堀米地区の氏神である津島社の祭りとして伝えられてきた。津島社は、江戸時代中期に尾張国（現在の愛知県）一宮の津島神社から勧請（かんじょう）されたといわれる社で、津島神社は古くから牛頭天王（ごずてんのう）を祀り、疫病除け・厄除けの信仰で知られる。夏場に流行しやすい疫病を鎮め、無病息災を願う津島信仰が、この地に根づいて祭りとなったものである。
+
+裸まつりという形式は、心身を清めた裸の姿で神事に臨むことで、より篤い祈りを捧げるという考えに基づくものとされる。とりわけこの祭りでは男児が主役を担い、子どもたちが褌姿で紙幟を掲げて練り歩く。都市化が進む松本市域にあって、堀米地区では史跡や民俗行事が数多く守り伝えられており、この裸祭りもその一つとして、地域の人々の手で大切に継承されてきた。かつては子どもたちだけの素朴な祭りであったが、その文化的価値が認められ、1988年に長野県の無形民俗文化財に指定されたことで、地域を超えて知られる存在となった。
+
+津島社の本社にあたる尾張の津島神社は、全国に約三千社あるとされる津島・天王信仰の総本社で、夏に行われる天王祭は日本三大川祭の一つに数えられる。その分社として勧請された堀米の津島社で、子どもたちが疫病退散を祈る裸祭りが営まれてきたことは、牛頭天王を祀る天王信仰が農村の暮らしの中にまで深く根づいていたことを物語る。夏の疫病が人々にとって大きな脅威であった時代の切実な祈りが、子どもの神事という形で今に伝えられているのである。
+
+## 見どころ
+
+最大の見どころは、晒木綿のもっこ褌姿になった男児たちが、紙幟を手に掛け声をかけながら練り歩く姿である。あどけない子どもたちが、伝統の装束に身を包んで真剣に神事に臨む様子は、見る者の心を打つ。夏の日差しのなか、白い褌と紙幟が連なって進む光景は、江戸時代から続く民俗行事ならではの素朴さと力強さにあふれている。
+
+また、この祭りでは泥池での禊（みそぎ）が行われることでも知られる。子どもたちが泥にまみれながら身を清める場面は、厄を落とし清浄を取り戻すという神事の意味を体現するものであり、迫力と神聖さを兼ね備えた光景として印象に残る。掛け声とともに進む行列、泥にまみれる禊、紙幟の連なりといった、現代では珍しくなった伝統的な所作の数々が、この祭りの大きな見どころとなっている。
+
+## 開催情報・アクセス
+
+島立堀米の裸祭りは、例年7月初旬（資料により7月1日、または7月7日頃）に、松本市島立堀米地区の津島社を中心に行われる夏祭りである。地域の氏神の祭りとして、地元の子どもたちを中心に営まれる。
+
+アクセスは、JR篠ノ井線・大糸線などが乗り入れる松本駅が玄関口となる。島立地区は松本市の市街地西部に位置し、松本駅から路線バスや車で向かうことができる。松本空港（信州まつもと空港）にも近いエリアである。地域に根ざした神事であるため、見学の際は祭りの妨げにならないよう配慮し、地元の方々への礼を忘れないことが大切である。正確な開催日や時間は年によって異なる場合があるため、松本市や地元の観光関連の公式発表で事前に確認するとよい。
+
+## 周辺の見どころ
+
+松本市は、国宝・松本城を擁する長野県中部の中心都市である。黒と白のコントラストが美しい松本城の天守は現存十二天守の一つで、北アルプスを背景にした姿は松本のシンボルとなっている。城下町の風情を残す中町通りやなわて通りには、蔵造りの建物や趣ある店が並び、街歩きが楽しい。
+
+島立地区のある松本市西部から足をのばせば、北アルプスの玄関口・上高地や、温泉地として名高い浅間温泉・美ヶ原温泉なども近い。雄大な山岳景観と温泉、そして城下町の文化が一度に楽しめるのが松本の魅力である。また松本は、世界的に知られる音楽祭が開かれる文化都市でもあり、伝統行事から現代の芸術まで、幅広い顔を持つ土地である。祭りとあわせて、信州・松本の自然と歴史を満喫できる。
+
+男児が主役を務める点もこの祭りの大切な特色である。次代を担う子どもたちが地域の神事の中心となることで、祭りの担い手が自然に世代から世代へと受け継がれていく。少子化や都市化により各地で子ども主体の民俗行事が存続の岐路に立つなか、堀米地区が県の無形民俗文化財に指定されたこの祭りを守り続けていることは、地域社会の結びつきの強さと、伝統を次世代へ渡そうとする人々の意志のあらわれといえる。素朴ながらも信仰の核心を今に伝える行事として、その価値は年を追うごとに高まっている。
+
+## 関連情報
+
+島立堀米の裸祭りの最新情報は、松本市や地元の観光関連の公式発表で確認できる。本祭りは長野県の無形民俗文化財に指定されており、江戸時代から続く津島信仰に根ざした子どもたちの神事として、学術的にも文化的にも貴重な行事である。全国各地には、無病息災や厄除けを願う裸祭りが数多く伝わるが、男児が主役となり、紙幟を掲げ泥池での禊を伴うという形式は、この祭り独自の特色である。都市化が進むなかで素朴な民俗行事を守り伝える堀米地区の取り組みは、地域の伝統文化を次世代へつなぐ営みとして、今後も大切に受け継がれていくことが期待される。','## Overview
+
+The Shimadachi Hadaka Matsuri is a Shinto ritual handed down since the Edo period in the Horigome district of Shimadachi, Matsumoto City, Nagano Prefecture; its official name is the "Shimadachi Horigome Naked Festival." Held each July as the summer festival of Tsushima-sha, the guardian shrine of the Horigome district, it is a simple festival in which boys, clad in loincloths of bleached cotton, carry paper banners and parade while calling out chants, praying for protection from misfortune and for the warding off of epidemics. Cherished as a traditional event in which children take the leading role, it was designated an Intangible Folk Cultural Property of Nagano Prefecture in 1988 (Showa 63).
+
+## History and Origins
+
+The Shimadachi Horigome Naked Festival has been handed down as the festival of Tsushima-sha, the guardian shrine of the Horigome district. Tsushima-sha is said to have been invited (kanjo) in the mid-Edo period from Tsushima Shrine in Ichinomiya, Owari Province (present-day Aichi Prefecture). Tsushima Shrine has long enshrined Gozu Tenno and is known for faith in protection against epidemics and misfortune. The Tsushima faith—calming the epidemics that tend to spread in summer and praying for good health—took root in this area and became a festival.
+
+The form of a "naked festival" is said to be based on the idea of offering more fervent prayer by facing the ritual in a purified, naked state. In this festival in particular, boys take the leading role, parading in loincloths while holding up paper banners. Even as urbanization advances across Matsumoto City, the Horigome district preserves and transmits many historic sites and folk events, and this naked festival is one of them, carefully carried on by local people. Once a simple festival of children alone, its cultural value was recognized, and with its designation as an Intangible Folk Cultural Property of Nagano Prefecture in 1988, it came to be known beyond the region.
+
+## Highlights
+
+The greatest highlight is the sight of boys in bleached-cotton loincloths parading with paper banners in hand, calling out chants. The sight of innocent children, dressed in traditional attire, earnestly facing the ritual moves those who watch. Under the summer sun, the scene of white loincloths and paper banners advancing in a line overflows with the simplicity and strength unique to a folk event continuing since the Edo period.
+
+The festival is also known for the purification ritual (misogi) performed in a muddy pond. The scene of children purifying themselves while covered in mud embodies the meaning of the ritual—shedding misfortune and regaining purity—and remains in memory as a sight combining force and sanctity. The many traditional movements that have become rare today—the procession advancing with chants, the mud-covered purification, the line of paper banners—are major highlights of this festival.
+
+## Event Information and Access
+
+The Shimadachi Horigome Naked Festival is a summer festival held generally in early July (around July 1, or around July 7 depending on the source), centered on Tsushima-sha in the Horigome district of Shimadachi, Matsumoto City. As the festival of the local guardian deity, it is carried out chiefly by local children.
+
+For access, the gateway is Matsumoto Station, served by the JR Shinonoi Line, Oito Line, and others. The Shimadachi district lies in the western part of Matsumoto City''s urban area, and can be reached from Matsumoto Station by local bus or car. It is also an area close to Matsumoto Airport (Shinshu-Matsumoto Airport). As this is a ritual rooted in the community, visitors should be considerate not to disturb the festival and should not forget courtesy toward local people. Because exact dates and times may differ from year to year, it is best to confirm in advance through official announcements by Matsumoto City or local tourism sources.
+
+## Around the Area
+
+Matsumoto City is the central city of central Nagano Prefecture, home to Matsumoto Castle, a National Treasure. The keep of Matsumoto Castle, beautiful in its contrast of black and white, is one of the twelve surviving original keeps, and its appearance against the backdrop of the Northern Alps is a symbol of Matsumoto. Nakamachi Street and Nawate Street, which retain the atmosphere of a castle town, are lined with storehouse-style buildings and charming shops, making for enjoyable walks.
+
+Heading out from the western part of Matsumoto City where the Shimadachi district lies, one finds nearby the Kamikochi gateway to the Northern Alps, as well as renowned hot springs such as Asama Onsen and Utsukushigahara Onsen. The appeal of Matsumoto is being able to enjoy magnificent mountain scenery, hot springs, and castle-town culture all at once. Matsumoto is also a cultural city where a world-renowned music festival is held, a place with many faces ranging from traditional events to contemporary art. Along with the festival, one can fully enjoy the nature and history of Shinshu and Matsumoto.
+
+## Related Information
+
+The latest information on the Shimadachi Horigome Naked Festival can be found in official announcements by Matsumoto City and local tourism sources. Designated an Intangible Folk Cultural Property of Nagano Prefecture, it is a children''s ritual rooted in the Tsushima faith continuing since the Edo period, a valuable event both academically and culturally. Across Japan, many naked festivals praying for good health and protection from misfortune have been handed down, but the form in which boys take the leading role, hold up paper banners, and undergo purification in a muddy pond is a distinctive feature unique to this festival. The efforts of the Horigome district to preserve and transmit a simple folk event amid advancing urbanization are an endeavor to pass local traditional culture on to the next generation, and are expected to be carefully carried on in the years to come.','shimadachi-hadaka-matsuri','shimadachi-hadaka-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11455993','富士山河口湖音楽祭','Mt. Fuji Kawaguchiko Music Festival','富士河口湖町を中心とした地域で毎年7・8月に開かれる音楽祭',NULL,NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,2002,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%B2%B3%E5%8F%A3%E6%B9%96%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11457147','富田の鯨船行事','Kujirabune Festival','三重県四日市市の行事',NULL,'Q85884751','鳥出神社','Toride Shrine','三重県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kujirabune01.jpg','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','## 富田の鯨船行事とは
 
@@ -9755,7 +10017,71 @@ INSERT INTO "festivals" VALUES('Q24875391','鹿沼今宮神社祭の屋台行事
 The festival''s greatest distinction is the magnificent and ornate floats called "carved floats" (chōkoku yatai). Kanuma has flourished as a town of woodworking and carving since the Edo period, and that high level of skill was lavishly poured into the floats. Intricate, three-dimensional carvings shaped after dragons, lions, flowers, and birds cover the entire surface of the floats—some left as plain wood, others in brilliant colors—each boasting a beauty like a work of art. Around thirty carved floats survive, and many appear at the festival.
 
 At the festival, the carved floats of the various neighborhoods parade through the town while engaging in spirited musical contests called "buttsuke." The sight of floats facing one another and competing by striking up their music against each other is the moment when the festival''s fervor reaches its peak. Bringing together the essence of the craftsmanship of which the woodworking town of Kanuma is proud, this festival is a precious folk culture recognized worldwide as a splendid celebration representative of autumn in Tochigi Prefecture and as the essence of Japan''s float-carving culture.','kanuma-imamiya-shrine-festival','kanuma-imamiya-shrine-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q21654535','古川まつり','Furukawa Matsuri','宮城県大崎市で開催される夏祭り',NULL,NULL,NULL,NULL,'宮城県','tohoku',38.57514167,140.95970556,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q21654535','古川まつり','Furukawa Matsuri','宮城県大崎市で開催される夏祭り',NULL,NULL,NULL,NULL,'宮城県','tohoku',38.57514167,140.95970556,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'drafted','## 概要
+
+古川まつり（ふるかわまつり）は、宮城県大崎市古川で毎年夏に開催される、古川地域最大の夏祭りである。正式には「おおさき古川まつり」と呼ばれ、昭和22年（1947年）から続く歴史を持つ。色とりどりの美しい七夕飾りが大通りを彩り、勇壮な神輿（みこし）行列、地域に伝わる古川おどり、力強い古川まつり太鼓、そして花火大会など、多彩な行事が三日間にわたって繰り広げられる。市民や商店街が一体となって作り上げる祭りで、まちじゅうが祭り一色に染まり、大崎地域の内外から多くの人出でにぎわう。なお、岐阜県飛騨市で4月に行われる「古川祭（起し太鼓・屋台行事）」とは名称が似ているが、まったく別の祭りである。
+
+## 歴史・由来
+
+おおさき古川まつりの起源は、昭和22年（1947年）にさかのぼる。この年、昭和天皇が戦後の巡幸で古川を訪れた際、地元の商店街の人々が七夕飾りでお迎えしたことがきっかけとなり、以後、夏の祭りとして毎年続けられるようになったと伝えられている。戦後の混乱から立ち直ろうとする時期に、まちの人々が手づくりの飾りで歓迎の心を表したことが、現在まで続く大きな祭りへと発展した。
+
+当初は七夕飾りを中心とした催しであったが、回を重ねるなかで、氏神を奉じる神輿行列が加わり、まつりの始まりを告げる太鼓を起源とする勇壮な太鼓、地域に伝わる踊り、そして夏の夜空を彩る花火など、さまざまな行事が組み合わさって今日の総合的な夏祭りの形が整っていった。2020年代には第77回を数えるなど、70年以上にわたって地域に受け継がれてきた、大崎市を代表する伝統行事である。商店街の歓迎の心から生まれたという由来は、この祭りが今も市民と商店が中心となって支えられていることと深く結びついている。
+
+## 見どころ
+
+最大の見どころは、大通りいっぱいに飾られる華やかな七夕飾りである。商店街や市民が趣向を凝らして手づくりした吹き流しが、風になびいて街並みを彩る様子は、おおさき古川まつりの象徴であり、仙台七夕にも通じる東北の七夕文化の豊かさを感じさせる。色鮮やかな飾りの下を歩くだけで、祭りの高揚感に包まれる。
+
+そして、まちを練り歩く神輿行列は祭りに勇壮さを添える。担ぎ手たちの掛け声が響き、神輿が威勢よく進む様子は迫力満点である。地域に伝わる古川おどりでは、踊り手たちが連を組んで通りを踊り進み、見物客も一体となって盛り上がる。力強く打ち鳴らされる古川まつり太鼓は、祭りの始まりを告げる目覚まし太鼓に由来するとされ、その響きは祭りの気分を一気に高める。さらに、開催期間中には花火大会も行われ、夏の夜空を彩る花火が祭りに華を添える。
+
+七夕飾りは、笹竹に大型の吹き流しやくす玉を結んだもので、各商店や団体が毎年新たに手づくりする。仙台七夕と同様、東北の七夕は旧暦に近い八月に行うのが特徴で、梅雨明け後の盛夏に色鮮やかな飾りが大通りに連なる光景は、地域に夏の到来を告げる風物詩となっている。飾りの出来栄えには各商店の創意工夫が表れ、それを見比べながら街を歩くのも祭りの楽しみの一つである。
+
+## 開催情報・アクセス
+
+おおさき古川まつりは、例年8月上旬に三日間にわたって開催される。近年の例では、初日（8月2日頃）に花火大会、続く二日間（8月3日・4日頃）に七夕飾りの展示や神輿行列、古川おどり、古川まつり太鼓などが行われる。会場は大崎市古川の中心市街地・商店街一帯である。
+
+アクセスは、JR東北新幹線および東北本線・陸羽東線が乗り入れる古川駅が最寄りで、駅から会場の中心市街地までは徒歩圏内にある。新幹線が停車するため、仙台方面や首都圏からのアクセスもよい。祭り期間中は会場周辺で交通規制が敷かれ、大変混雑するため、公共交通機関の利用が便利である。最新の日程や各行事の時間、交通規制などの情報は、大崎市や地元の観光協会、祭りの実行委員会の公式発表で確認するとよい。
+
+## 周辺の見どころ
+
+大崎市は宮城県北部の中核都市で、豊かな自然と歴史に恵まれた地域である。市内には、ラムサール条約に登録された蕪栗沼（かぶくりぬま）があり、冬には多数のマガンが飛来する渡り鳥の名所として知られる。また、こけしの産地として名高い鳴子温泉郷が大崎市内にあり、深い渓谷美で知られる鳴子峡や、多彩な泉質の温泉群は、東北有数の観光地となっている。
+
+古川の周辺は良質な米どころとしても知られ、「ささ系」の米づくりで名高い土地柄である。祭りとあわせて、地元の米や食を味わうのも楽しみの一つである。少し足をのばせば、世界遺産や歴史的名所を擁する平泉（岩手県）方面や、伊達政宗ゆかりの仙台へもアクセスしやすく、宮城・岩手の旅の拠点としても便利な立地である。
+
+神輿行列・踊り・太鼓・花火という複数の行事が三日間に配置されるため、訪れる日によって異なる楽しみ方ができるのも特徴である。花火が夜空を染める初日、七夕飾りでにぎわう日中、踊りと太鼓が響く時間帯と、それぞれに見どころがあり、地元の人々は連日まちへ繰り出す。商店街の歓迎の心から生まれた一つの催しが、神事・芸能・花火を取り込みながら総合的な夏祭りへと育ち、世代を超えて市民の夏の中心行事として定着している様子がうかがえる。
+
+## 関連情報
+
+おおさき古川まつりの最新情報は、大崎市および地元の観光協会・祭り実行委員会の公式発表で確認できる。東北地方では、仙台七夕まつりをはじめ各地で七夕にちなんだ祭りが夏に開かれており、おおさき古川まつりもその七夕文化を受け継ぐ祭りの一つである。一方で、神輿・踊り・太鼓・花火を組み合わせた総合的な夏祭りとして発展してきた点に独自性があり、商店街の歓迎の心から生まれたという温かな由来とともに、地域に深く根ざした祭りとなっている。なお、岐阜県飛騨市の「古川祭」は、気多若宮神社の例祭として4月に行われる起し太鼓と屋台行事の祭り（ユネスコ無形文化遺産）で、宮城県大崎市のおおさき古川まつりとは由来も内容もまったく異なる別の祭りである点に注意したい。','## Overview
+
+The Furukawa Matsuri is the largest summer festival of the Furukawa area, held every summer in Furukawa, Osaki City, Miyagi Prefecture. Officially called the "Osaki Furukawa Matsuri," it has a history dating back to 1947 (Showa 22). Colorful, beautiful Tanabata decorations adorn the main streets, and a variety of events unfold over three days: a spirited portable-shrine (mikoshi) procession, the locally handed-down Furukawa Odori dance, powerful Furukawa Festival drumming, and a fireworks display. Created jointly by citizens and shopping districts, the festival turns the whole town into a sea of celebration, drawing large crowds from within and beyond the Osaki area. Note that although its name resembles the "Furukawa Festival (Okoshi-daiko and float event)" held in April in Hida City, Gifu Prefecture, the two are entirely different festivals.
+
+## History and Origins
+
+The origins of the Osaki Furukawa Matsuri go back to 1947 (Showa 22). It is said that in that year, when Emperor Showa visited Furukawa during his postwar tours, the people of the local shopping district welcomed him with Tanabata decorations, and from then on it came to be held every year as a summer festival. In a period of recovery from postwar turmoil, the townspeople''s expression of welcome through handmade decorations grew into the major festival that continues today.
+
+At first it was an event centered on Tanabata decorations, but over the years a portable-shrine procession honoring the local guardian deity was added, along with spirited drumming derived from the drums that announce the start of the festival, the locally transmitted dance, and fireworks coloring the summer night sky—combining into the comprehensive summer festival seen today. Reaching its 77th edition in the 2020s, it is a traditional event representative of Osaki City, carried on by the community for more than 70 years. Its origin in the welcoming spirit of the shopping district is deeply linked to the fact that the festival is still supported chiefly by citizens and shops.
+
+## Highlights
+
+The greatest highlight is the gorgeous Tanabata decorations that fill the main streets. The streamers, handmade with ingenuity by the shopping districts and citizens, flutter in the wind and color the townscape—a symbol of the Osaki Furukawa Matsuri that conveys the richness of Tohoku''s Tanabata culture, akin to the Sendai Tanabata. Simply walking beneath the vivid decorations envelops one in the festival''s excitement.
+
+The portable-shrine procession parading through the town adds valor to the festival. With the bearers'' chants ringing out and the shrine advancing energetically, the scene is full of impact. In the locally transmitted Furukawa Odori, dancers form groups and dance their way down the streets, with spectators joining in the excitement. The powerfully struck Furukawa Festival drums, said to derive from the wake-up drums announcing the start of the festival, raise the festive mood at once with their resonance. Furthermore, a fireworks display is held during the festival period, with fireworks coloring the summer night sky and adding splendor to the celebration.
+
+## Event Information and Access
+
+The Osaki Furukawa Matsuri is held over three days, generally in early August. In recent examples, a fireworks display is held on the first day (around August 2), followed by displays of Tanabata decorations, the portable-shrine procession, the Furukawa Odori, and the Furukawa Festival drumming over the next two days (around August 3 and 4). The venue is the central downtown and shopping district of Furukawa, Osaki City.
+
+For access, the nearest station is Furukawa Station, served by the JR Tohoku Shinkansen as well as the Tohoku Main Line and Rikuu East Line, and the central downtown venue is within walking distance of the station. Because the Shinkansen stops here, access is good from the Sendai area and the metropolitan region. During the festival, traffic restrictions are imposed around the venue and it becomes very crowded, so using public transportation is convenient. For the latest dates, event times, and traffic information, it is best to check official announcements by Osaki City, the local tourism association, or the festival organizing committee.
+
+## Around the Area
+
+Osaki City is a core city in northern Miyagi Prefecture, blessed with rich nature and history. Within the city lies Kabukuri-numa marsh, registered under the Ramsar Convention, known as a haven for migratory birds where great numbers of white-fronted geese arrive in winter. The Naruko Onsen hot-spring resort, famous as a producer of kokeshi dolls, is also within Osaki City; with the Naruko Gorge known for its deep ravine beauty and hot springs of varied qualities, it is one of Tohoku''s leading tourist areas.
+
+The Furukawa area is also known as fine rice country, a region celebrated for cultivating "Sasa"-type rice. Savoring the local rice and cuisine along with the festival is one of its pleasures. A little farther afield, the area offers easy access to Hiraizumi (Iwate Prefecture), home to World Heritage sites and historic landmarks, and to Sendai, associated with Date Masamune, making it a convenient base for travel through Miyagi and Iwate.
+
+## Related Information
+
+The latest information on the Osaki Furukawa Matsuri can be found in official announcements by Osaki City and the local tourism association and festival organizing committee. In the Tohoku region, festivals related to Tanabata are held in summer in many places, beginning with the Sendai Tanabata Festival, and the Osaki Furukawa Matsuri is one festival that carries on this Tanabata culture. At the same time, it is distinctive in having developed into a comprehensive summer festival combining portable shrines, dance, drumming, and fireworks, and together with its warm origin in the welcoming spirit of the shopping district, it has become a festival deeply rooted in the community. Note that the "Furukawa Festival" of Hida City, Gifu Prefecture, is a festival of okoshi-daiko (wake-up drums) and float events held in April as the annual festival of Keta Wakamiya Shrine (a UNESCO Intangible Cultural Heritage), and is an entirely different festival from the Osaki Furukawa Matsuri of Osaki City, Miyagi Prefecture, in both origin and content.','osaki-furukawa-matsuri','osaki-furukawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24885401','京都国際映画祭','Kyoto international film and art festival','日本の京都市で開催される映画祭',NULL,'Q34600','京都市','Kyoto','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q22130293','浦和まつり','Urawa Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B5%A6%E5%92%8C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24876853','松上げ','Matsuage',NULL,NULL,'Q384981','おおい町','Oi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8A%E3%81%92',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -11521,11 +11847,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
