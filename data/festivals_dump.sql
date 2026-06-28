@@ -8133,7 +8133,67 @@ INSERT INTO "festivals" VALUES('Q132860355','松戸花火大会','Matsudo Firewo
 INSERT INTO "festivals" VALUES('Q134434444',NULL,'World DJ Festival Japan',NULL,'electronic music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2025,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039171','合祀：等乃伎神社','Ohotoshino Shrine',NULL,NULL,NULL,NULL,NULL,'大阪府','kinki',34.521167,135.456489,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040625','合祀：浅間神社','Kutsuno Shrine',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',35.440748,134.804007,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134927474','八幡神社 (下田市吉佐美)','Hachiman Shrine','静岡県下田市吉佐美にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.659076,138.915183,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE_(%E4%B8%8B%E7%94%B0%E5%B8%82%E5%90%89%E4%BD%90%E7%BE%8E)',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134927474','八幡神社 (下田市吉佐美)','Hachiman Shrine','静岡県下田市吉佐美にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.659076,138.915183,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE_(%E4%B8%8B%E7%94%B0%E5%B8%82%E5%90%89%E4%BD%90%E7%BE%8E)',NULL,75,'drafted','## 概要
+
+八幡神社（はちまんじんじゃ）は、静岡県下田市吉佐美（きさみ）に鎮座する神社である。伊豆半島の南部、白い砂浜の美しい海岸で知られる吉佐美の地に祀られ、旧社格は村社。平安時代に編まれた官社の一覧『延喜式神名帳』に記載される式内社「加弥命神社（かみのみことじんじゃ）」の論社の一つとされ、由緒の古い神社として知られている。国道136号から吉佐美大浜海岸へと南下する道の途中、その西側に鎮座している。例祭は毎年10月に営まれ、海辺の集落の氏神として地域の人々の信仰を集めてきた。なお、下田市の中心市街地（湊町）に鎮座し、十四台もの太鼓台が巡幸する盛大な例大祭で知られる「下田八幡神社」とは、名前は同じでも別の神社である点に注意が必要である。
+
+## 歴史・由来
+
+八幡神社の創建の詳しい由緒は明らかでないが、平安時代に編まれた『延喜式神名帳』に伊豆国賀茂郡の式内社として記される「加弥命神社」の論社の一つに数えられており、その歴史は古代にさかのぼると考えられている。論社とは、延喜式の神名帳に記載された神社が、現在のどの社に相当するかをめぐって複数の候補が挙げられる場合の、その候補社を指す言葉である。神名帳に載る式内社は、延長5年（927年）の時点で朝廷が公的に祭祀の対象として認めた由緒ある神社であり、八幡神社が加弥命神社の論社とされることは、この吉佐美の地が古くから神を祀る聖地であったことを示している。
+
+一方で、社名にある「八幡神」は、応神天皇（誉田別命）を主祭神とし、武運の神・国家鎮護の神として全国で広く信仰されてきた神である。八幡信仰は中世以降、源氏をはじめとする武士の篤い崇敬を集め、各地に数多くの八幡神社が勧請された。吉佐美の八幡神社は、この全国的な八幡信仰の流れを汲みながらも、式内社の論社という古代以来の由緒を併せ持つ点に大きな特色がある。すなわち、古代の地主神を祀る場としての性格と、後世に広まった八幡信仰とが、一つの社のなかに重なり合っているのである。海辺の集落の氏神として、漁業や海上の安全、そして地域の繁栄を願う人々の信仰を集めながら、長い歳月にわたって守り伝えられてきた。
+
+## 見どころ
+
+八幡神社の見どころの一つは、境内に立つ堂々たる古木である。イスノキ、楠（クスノキ）、イチョウといった大木が境内に茂り、長い歳月を経た幹や枝ぶりが、この社の歴史の深さを物語っている。これらの木々は、地域の歴史的・自然的な財産として「下田まち遺産」に提案されるなど、地元の人々に大切にされてきた。木々の温もりと緑陰に包まれた境内は、訪れる人に静かな安らぎを与えてくれる。神社の歴史を、社殿だけでなく境内の自然からも感じ取ることができるのは、この古社ならではの魅力である。
+
+もう一つの見どころは、式内社の論社としての古い由緒そのものである。観光客でにぎわう大規模な神社とは異なり、海辺の集落にひっそりと鎮座するこの社は、古代から続く素朴な信仰の姿を今に伝えている。国道から吉佐美大浜海岸へ向かう道の途中に位置するため、夏に海水浴を楽しむ人々が、海とあわせて古社に立ち寄ることもできる。雄大な海の景色と、千年を超える歴史を秘めた静かな社という、対照的な二つの魅力を一度に味わえるのは、この地ならではの体験といえる。
+
+## 開催情報・アクセス
+
+八幡神社の例祭は、例年10月15日に営まれる。海辺の集落の氏神の祭りとして、地元の人々によって受け継がれている。下田市街地の下田八幡神社の例大祭のような大規模なものではないが、地域に根ざした素朴な祭礼として、秋の実りへの感謝と地域の平安が祈られる。
+
+アクセスは、伊豆急行線の終点・伊豆急下田駅が玄関口となる。下田駅からバスや車で吉佐美方面へ向かい、国道136号から吉佐美大浜海岸へと南下する道の途中、その西側に鎮座する社へとアクセスする。海水浴で人気の吉佐美大浜海岸の近くにあるため、夏の海とあわせて訪れることもできる。社は地域の生活と信仰の場であるため、参拝の際は静かに、敬意をもって訪れることが大切である。正確な例祭の日程や時間は、地元の情報で確認するとよい。伊豆半島南部は公共交通の便が限られる地域もあるため、移動手段は事前に調べておくと安心である。
+
+## 周辺の見どころ
+
+八幡神社のすぐ近くにある吉佐美大浜海岸は、伊豆半島南部を代表する美しいビーチの一つである。白い砂浜と透明度の高い海が弧を描いて広がり、夏には海水浴やサーフィンを楽しむ人々でにぎわう。穏やかな入り江の景観は、訪れる人を魅了してやまない。海と古社が近接しているという立地は、自然と信仰が一体となった伊豆らしい風景を生み出している。
+
+下田市一帯は、幕末の開国の舞台として知られる歴史豊かな土地でもある。市街地には、ペリー来航や開国にゆかりの了仙寺・宝福寺などの古刹や史跡が点在し、日本が世界へと扉を開いた時代の歴史に触れることができる。また、海岸近くには伊豆最古の宮とも称される白浜神社が鎮座し、こちらも人気の参拝スポットである。半島最南端の石廊崎からの大海原の眺めや、下田の良質な温泉も魅力で、海・歴史・信仰が一度に楽しめる地域となっている。八幡神社のような古社は、こうした下田の奥深い歴史の一端を静かに担っている。
+
+## 関連情報
+
+八幡神社の詳細は、延喜式神社に関する研究資料や、下田市・地元の観光関連の情報で確認できる。本社は『延喜式神名帳』に記される式内社「加弥命神社」の論社の一つであり、古代から続く伊豆の信仰を今に伝える神社である。なお、下田市内には、同じく八幡神を祀り、十四台の太鼓台が巡幸する盛大な例大祭で知られる中心市街地の「下田八幡神社」もあるが、こちらは吉佐美の八幡神社とはまったく別の神社であり、混同しないよう注意したい。伊豆半島南部には式内社や古社が数多く分布しており、八幡神社もその一社として、地域の歴史と信仰を伝える貴重な存在である。古社を訪ねる際は、地域の人々が長く守ってきた信仰の場であることを心にとめ、敬意をもって参拝したい。','## Overview
+
+Hachiman Shrine is a shrine located in Kisami, Shimoda City, Shizuoka Prefecture. Enshrined in Kisami, an area of the southern Izu Peninsula known for its beautiful coast of white sand, its former shrine rank was village shrine (sonsha). It is considered one of the candidate shrines for the Kami-no-Mikoto Shrine, a shikinaisha listed in the Heian-period Engishiki Jimmyocho, and is known as a shrine of ancient lineage. It stands on the west side of the road that runs south from National Route 136 toward Kisami Ohama Beach. Its annual festival is held each October, and it has gathered the faith of local people as the guardian deity of a seaside settlement. Note that it must be distinguished from Shimoda Hachiman Shrine, located in the central downtown (Minato-cho) of Shimoda City and known for a grand annual festival in which as many as fourteen drum platforms parade; despite the same name, they are different shrines.
+
+## History and Origins
+
+The detailed origins of Hachiman Shrine''s founding are unclear, but it is counted as one of the candidate shrines for the Kami-no-Mikoto Shrine, recorded as a shikinaisha of Kamo District, Izu Province, in the Heian-period Engishiki Jimmyocho, and its history is thought to reach back into antiquity. A candidate shrine (ronsha) is the term for one of several candidates proposed when it is disputed which present-day shrine corresponds to a shrine recorded in the Jimmyocho of the Engishiki. A shikinaisha listed in the Jimmyocho was a shrine of venerable lineage officially recognized as an object of ritual by the court as of 927; that Hachiman Shrine is regarded as a candidate for the Kami-no-Mikoto Shrine shows that this Kisami area was a sacred place of worship since ancient times.
+
+Meanwhile, the Hachiman deity in the shrine''s name has Emperor Ojin (Homutawake-no-Mikoto) as its principal deity and has been widely worshiped throughout Japan as a god of martial fortune and protection of the nation. From the medieval period onward, the Hachiman faith gathered the deep reverence of warriors, beginning with the Minamoto clan, and many Hachiman shrines were invited (kanjo) across the land. The Hachiman Shrine of Kisami, while in the stream of this nationwide Hachiman faith, is greatly distinctive in also possessing the ancient lineage of a shikinaisha candidate. In other words, the character of a place enshrining an ancient land-guardian deity and the Hachiman faith that spread in later ages overlap within a single shrine. As the guardian deity of a seaside settlement, it has been protected and handed down over long years while gathering the faith of people praying for the safety of fishing and the sea and for the prosperity of the community.
+
+## Highlights
+
+One highlight of Hachiman Shrine is the imposing ancient trees standing in its precincts. Large trees such as isunoki, camphor (kusunoki), and ginkgo grow thick in the grounds, and their trunks and branches, having passed through long years, tell of the depth of this shrine''s history. These trees have been cherished by local people, proposed as Shimoda Town Heritage as historical and natural assets of the area. The precincts, wrapped in the warmth of the trees and green shade, give visitors a quiet sense of peace. Being able to feel the shrine''s history not only from the buildings but from the nature of the precincts is a charm unique to this ancient shrine.
+
+Another highlight is the ancient lineage as a shikinaisha candidate itself. Unlike large shrines bustling with tourists, this shrine quietly enshrined in a seaside settlement conveys to this day the simple form of faith continuing from antiquity. Because it is located along the road heading from the national route toward Kisami Ohama Beach, people enjoying swimming in summer can also stop by the ancient shrine together with the sea. To savor at once the two contrasting charms, magnificent sea scenery and a quiet shrine holding over a thousand years of history, is an experience unique to this place.
+
+## Event Information and Access
+
+The annual festival of Hachiman Shrine is held each year on October 15. As the festival of the guardian deity of a seaside settlement, it is carried on by local people. Though not on the scale of the annual festival of Shimoda Hachiman Shrine in the city center, it is a simple rite rooted in the community, praying gratitude for the autumn harvest and peace for the area.
+
+For access, the gateway is Izukyu-Shimoda Station, the terminus of the Izukyu Line. From Shimoda Station, head toward the Kisami area by bus or car to reach the shrine, which stands on the west side along the road running south from National Route 136 toward Kisami Ohama Beach. Because it is near Kisami Ohama Beach, popular for swimming, one can also visit it together with the summer sea. As the shrine is a place of local life and faith, it is important to visit quietly and with respect when worshiping. The exact festival dates and times can be confirmed through local information. Since public transportation is limited in parts of the southern Izu Peninsula, it is reassuring to look into transportation in advance.
+
+## Around the Area
+
+Kisami Ohama Beach, right near Hachiman Shrine, is one of the beautiful beaches representative of the southern Izu Peninsula. White sand and highly transparent water spread in an arc, and in summer it bustles with people enjoying swimming and surfing. The scenery of the calm cove never ceases to fascinate visitors. The location, with sea and ancient shrine in close proximity, creates a quintessentially Izu landscape in which nature and faith are one.
+
+The Shimoda City area is also a land rich in history, known as the stage of the opening of the country at the end of the Edo period. In the city center, old temples and historic sites connected to Perry''s arrival and the opening, such as Ryosenji and Hofukuji, are scattered, allowing one to touch the history of the era when Japan opened its doors to the world. Near the coast stands Shirahama Shrine, also called the oldest shrine in Izu, which is also a popular place of worship. The views of the open sea from Cape Irozaki at the peninsula''s southern tip and Shimoda''s fine hot springs are appealing as well, making this a region where sea, history, and faith can be enjoyed all at once. Ancient shrines like Hachiman Shrine quietly bear a part of Shimoda''s deep history.
+
+## Related Information
+
+Details on Hachiman Shrine can be found in research materials on Engishiki shrines and in information from Shimoda City and local tourism sources. This shrine is one of the candidate shrines for the shikinaisha Kami-no-Mikoto Shrine recorded in the Engishiki Jimmyocho, and is a shrine conveying the faith of Izu continuing from antiquity. Note that within Shimoda City there is also Shimoda Hachiman Shrine in the central downtown, which likewise enshrines the Hachiman deity and is known for a grand annual festival in which fourteen drum platforms parade; this is an entirely different shrine from the Hachiman Shrine of Kisami, and care should be taken not to confuse them. Many shikinaisha and ancient shrines are distributed across the southern Izu Peninsula, and Hachiman Shrine is one of them, a precious presence conveying the region''s history and faith. When visiting ancient shrines, one should bear in mind that these are places of faith long protected by local people, and worship with respect.','hachiman-shrine-kisami','hachiman-shrine-kisami',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039284','合祀：鳥墓神社','Unino Shrine',NULL,NULL,NULL,NULL,NULL,'愛知県','chubu',34.519035,136.630193,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039310','豊原神社','Ohokushino Shrine',NULL,NULL,NULL,NULL,NULL,'三重県','kinki',34.525194444,136.569611111,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040900','坐波夜都武自和気神社','Hayatsumushiwakeno Shrine',NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',35.436823,133.16584,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -8156,7 +8216,71 @@ INSERT INTO "festivals" VALUES('Q135041083','合祀：塩冶神社','Yamuyahikom
 INSERT INTO "festivals" VALUES('Q135039000','素盞雄神社 (桜井市)','Nabekurano Shrine',NULL,NULL,NULL,NULL,NULL,'奈良県','kinki',34.534591,135.909438,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039320','堀坂神社','Horisakano Shrine Co-Enshrinement',NULL,NULL,NULL,NULL,NULL,'三重県','kinki',34.568929,136.473318,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135069198','清水神社','Shimizu Shrine','三重県松阪市柿木原 にある神社','Candidate shrine for Nakaretano shrine',NULL,NULL,NULL,'三重県','kinki',34.559409,136.58936,NULL,NULL,NULL,NULL,NULL,NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134930277','二宮神社 (三宅村)','Ninomiya Shrine','東京都三宅村坪田 にある神社','Shinto shrine in Japan',NULL,NULL,NULL,'東京都','kanto',34.086327,139.560738,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AE%AE%E7%A5%9E%E7%A4%BE_(%E4%B8%89%E5%AE%85%E6%9D%91)',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134930277','二宮神社 (三宅村)','Ninomiya Shrine','東京都三宅村坪田 にある神社','Shinto shrine in Japan',NULL,NULL,NULL,'東京都','kanto',34.086327,139.560738,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%AE%AE%E7%A5%9E%E7%A4%BE_(%E4%B8%89%E5%AE%85%E6%9D%91)',NULL,75,'drafted','## 概要
+
+二宮神社（にのみやじんじゃ）は、東京都三宅村（三宅島）に鎮座する神社である。三宅島南東の港、坪田（つぼた）漁港の目前に鎮座し、海を望む立地にある。平安時代に編まれた『延喜式神名帳』に記される式内社「伊波乃比咩命神社（いわのひめのみことじんじゃ）」の比定社とされ、由緒の古い神社として知られている。社名の「二宮」は、伊豆諸島の信仰の中心である三嶋大明神（事代主命）の第二后にかかわる神を祀ることに由来するとされ、御笏神社（みしゃくじんじゃ）の祭神の姉にあたる神を祀ることから、この名で呼ばれているという。火山島である三宅島には古社が点在し、二宮神社もそのなかで重要な位置を占める、伊豆諸島ならではの信仰の歴史を伝える神社である。
+
+## 歴史・由来
+
+二宮神社の創祀年代や詳しい由緒は不詳であるが、平安時代の『延喜式神名帳』に伊豆国賀茂郡の式内社として記される「伊波乃比咩命神社」の比定社とされており、その歴史は古代にまでさかのぼると考えられている。延喜式神名帳とは、延長5年（927年）にまとめられた律令の施行細則『延喜式』のうち、神々への祭祀を定めた一覧であり、ここに名を連ねる式内社は、当時の朝廷が公的に祭祀の対象とした由緒正しい神社である。伊豆諸島には数多くの式内社が記載されており、火山によって生み出された島々に、古代から神々が祀られてきたことを物語っている。
+
+二宮神社を理解するうえで欠かせないのが、伊豆諸島に広がる三嶋信仰である。伊豆諸島の信仰の中心には、三嶋大明神（事代主命）がある。中世の縁起『三宅記』には、三嶋大明神が后神たちを各島に配したという物語が伝えられており、伊豆諸島の島々に点在する神社は、この三嶋大明神とその后神・御子神を祀るものが多い。二宮神社の祭神とされる伊波乃比咩命は、こうした三嶋信仰の系譜に連なる女神であり、三嶋大明神の第二后にかかわる神とされる。「二宮」という社名は、この第二后にかかわること、そしてその第二王子も祀ることに由来するといわれ、御笏神社の祭神の姉にあたる神を祀ることから、姉妹・親子の神々のつながりのなかにこの社が位置づけられていることがわかる。
+
+火山活動によって次々と島が生み出されたとされる伊豆諸島では、三嶋大明神が島々を造り、神々を配したという神話が、島の成り立ちそのものと結びついて語り継がれてきた。二宮神社は、こうした伊豆諸島独特の神話世界を今に伝える、貴重な古社の一つなのである。
+
+## 見どころ
+
+二宮神社の見どころの一つは、海を望むその立地である。三宅島南東の坪田漁港の目前に鎮座しており、社のそばには漁港と海が広がる。海に生きる島の人々の暮らしと信仰が、この社のたたずまいから感じ取れる。火山島ならではの自然環境のなかに鎮座する古社は、本土の神社とはまた異なる、島の信仰のかたちを伝えている。
+
+もう一つの見どころは、三嶋信仰の系譜のなかにこの社を位置づけて眺めることで見えてくる、伊豆諸島独特の神話の世界である。三宅島には、伊豆諸島の信仰の中心とされる富賀神社（とがじんじゃ）をはじめ、御笏神社、二宮神社、椎取神社（しいとりじんじゃ）といった古社が点在している。これらの神社は、三嶋大明神とその后神・御子神を祀るものとして互いに結びついており、一社だけを訪ねるのではなく、島全体の神々のつながりのなかでとらえると、その意味がいっそう深く理解できる。毎年正月には、御刀様（御笏様）が島内を巡る若菜祭が営まれ、二宮神社にも御刀様が訪れて直会が開かれるという。島の神々が島内を巡幸するこの行事は、三宅島の信仰の生きた姿を伝える、興味深いものである。
+
+## 開催情報・アクセス
+
+二宮神社にかかわる行事として知られるのが、毎年正月に営まれる若菜祭である。これは、三宅島の神（御刀様・御笏様）が島内の神社を巡る行事で、二宮神社にも御刀様が訪れ、直会（なおらい）が開かれる。島の神々が島内を巡幸するという、伊豆諸島ならではの古い信仰のかたちを今に伝える、厳かな行事である。華やかな山車や大規模な行列とは異なる、島の暮らしに根ざした素朴な祭祀である。
+
+アクセスは、三宅島への渡航が前提となる。三宅島へは、東京・竹芝桟橋から出る大型客船、または調布飛行場からの航空便で渡る。島内では、二宮神社は南東部の坪田地区、坪田漁港の目前に鎮座している。島内の移動はバスやレンタカー、レンタルバイク等を利用することになる。火山島である三宅島は、過去に噴火を経験しており、火山活動の状況によっては立ち入りや交通に影響が出る場合があるため、訪れる際は最新の情報を確認することが大切である。社は島の人々の生活と信仰の場であるため、参拝にあたっては静かに、敬意をもって訪れたい。正確な行事の日程や時間は、地元の情報で確認することが望ましい。
+
+## 周辺の見どころ
+
+二宮神社が鎮座する三宅島は、東京都に属する伊豆諸島の島の一つであり、雄大な自然と独特の信仰文化が魅力の島である。島の信仰の中心とされる富賀神社をはじめ、御笏神社、椎取神社といった三嶋信仰にかかわる古社が島内に点在しており、これらの古社を巡ることで、伊豆諸島の神話世界の奥深さに触れることができる。二宮神社とあわせて島の神社を訪ね歩く旅は、三宅島ならではの体験となるだろう。
+
+三宅島は活火山の島であり、その火山がつくり出したダイナミックな景観も見どころである。溶岩流の跡や、噴火によって埋もれた建物の跡など、火山島ならではの自然の力を間近に感じられる場所が島内に点在している。また、三宅島はバードウォッチングの聖地としても知られ、アカコッコをはじめとする貴重な野鳥が生息する豊かな自然環境が広がっている。周囲の海は透明度が高く、ダイビングや釣りも楽しめる。自然と信仰、そして火山がつくり出した独特の風土が一体となった三宅島は、二宮神社のような古社を訪ねながら、島の歴史と文化をじっくりと味わうのにふさわしい場所である。
+
+## 関連情報
+
+二宮神社の詳細は、延喜式神社に関する研究資料や、三宅島・地元の神社関連の情報で確認できる。本社は『延喜式神名帳』に記される式内社「伊波乃比咩命神社」の比定社であり、伊豆諸島の三嶋信仰に連なる古社である。祭神とされる伊波乃比咩命は三嶋大明神の第二后にかかわる神とされ、御笏神社の祭神の姉にあたることから「二宮」と呼ばれている。三宅島には富賀神社・御笏神社・椎取神社など三嶋信仰にかかわる古社が点在しており、二宮神社もその一社として、伊豆諸島の信仰の歴史を理解するうえで重要な存在である。これらの古社の祭神のつながりや由緒をたどっていくと、火山島・伊豆諸島が育んできた独特の神話世界が立ち上がってくる。古社を訪ねる際は、島の人々が長く大切に守ってきた信仰の場であることを心にとめ、敬意をもって参拝したい。','## Overview
+
+Ninomiya Shrine is a shrine located in Miyake Village (Miyakejima), Tokyo. It is enshrined directly in front of Tsubota Fishing Port, a harbor in the southeast of Miyakejima, in a location overlooking the sea. It is regarded as the candidate shrine identified with the shikinaisha Iwanohime-no-Mikoto Shrine recorded in the Heian-period Engishiki Jimmyocho, and is known as a shrine of ancient lineage. The name Ninomiya (second shrine) is said to derive from its enshrining a deity connected to the second consort of Mishima Daimyojin (Kotoshironushi-no-Mikoto), the center of faith in the Izu Islands; because it enshrines a deity who is the elder sister of the deity of Mishaku Shrine, it is said to be called by this name. Ancient shrines are scattered across the volcanic island of Miyakejima, and Ninomiya Shrine occupies an important place among them, a shrine conveying the history of faith unique to the Izu Islands.
+
+## History and Origins
+
+The date of Ninomiya Shrine''s founding and its detailed origins are unknown, but it is regarded as the candidate shrine for the Iwanohime-no-Mikoto Shrine, recorded as a shikinaisha of Kamo District, Izu Province, in the Heian-period Engishiki Jimmyocho, and its history is thought to reach back into antiquity. The Engishiki Jimmyocho is a register of deities included in the Engishiki, the detailed regulations of the ritsuryo codes compiled in 927; a shikinaisha listed in it was a shrine of proper lineage made an object of state ritual by the court of the time. Many shikinaisha are listed in the Izu Islands, telling us that deities have been enshrined since ancient times on these islands born of volcanoes.
+
+Indispensable to understanding Ninomiya Shrine is the Mishima faith that spread throughout the Izu Islands. At the center of faith in the Izu Islands is Mishima Daimyojin (Kotoshironushi-no-Mikoto). The medieval engi text Miyakeki conveys a story in which Mishima Daimyojin placed his consort deities on each island, and many of the shrines scattered across the Izu Islands enshrine this Mishima Daimyojin and his consort and child deities. Iwanohime-no-Mikoto, regarded as the deity of Ninomiya Shrine, is a goddess in this lineage of the Mishima faith, regarded as a deity connected to the second consort of Mishima Daimyojin. The shrine name Ninomiya is said to derive from this connection to the second consort, and from also enshrining her second prince; because it enshrines a deity who is the elder sister of the deity of Mishaku Shrine, we can see that this shrine is positioned within the connections of sister and parent-child deities.
+
+In the Izu Islands, where islands are said to have been born one after another by volcanic activity, the myth that Mishima Daimyojin created the islands and placed deities upon them has been handed down, tied to the very formation of the islands themselves. Ninomiya Shrine is one of the precious ancient shrines that conveys to this day this mythological world unique to the Izu Islands.
+
+## Highlights
+
+One highlight of Ninomiya Shrine is its location overlooking the sea. Enshrined directly in front of Tsubota Fishing Port in the southeast of Miyakejima, the fishing port and the sea spread out beside the shrine. The lives and faith of the island people who live by the sea can be felt from the shrine''s appearance. The ancient shrine, enshrined within a natural environment unique to a volcanic island, conveys a form of island faith different again from the shrines of the mainland.
+
+Another highlight is the mythological world unique to the Izu Islands, which comes into view by placing this shrine within the lineage of the Mishima faith. On Miyakejima, ancient shrines are scattered, including Toga Shrine, regarded as the center of faith in the Izu Islands, as well as Mishaku Shrine, Ninomiya Shrine, and Shiitori Shrine. These shrines are connected to one another as enshrining Mishima Daimyojin and his consort and child deities, and rather than visiting just one, grasping them within the connections of the deities of the whole island deepens one''s understanding of their meaning. Each year at New Year, the Wakana Festival is held in which the Mitachi-sama (Mishaku-sama) tours the island; the Mitachi-sama is said to visit Ninomiya Shrine as well, where a naorai (communal feast) is held. This event, in which the island''s deities tour the island, conveys the living form of Miyakejima''s faith and is a fascinating one.
+
+## Event Information and Access
+
+Known as an event connected to Ninomiya Shrine is the Wakana Festival held each year at New Year. This is an event in which the deity of Miyakejima (Mitachi-sama, Mishaku-sama) tours the shrines of the island; the Mitachi-sama visits Ninomiya Shrine as well, where a naorai is held. It is a solemn event conveying to this day an ancient form of faith unique to the Izu Islands, in which the island''s deities tour the island. Unlike a festival with gorgeous floats or large processions, it is a simple rite rooted in the life of the island.
+
+For access, travel to Miyakejima is the premise. One reaches Miyakejima by large passenger ship departing from Takeshiba Pier in Tokyo, or by air from Chofu Airfield. On the island, Ninomiya Shrine is enshrined in the Tsubota district in the southeast, directly in front of Tsubota Fishing Port. Travel within the island is by bus, rental car, rental motorbike, and the like. As a volcanic island, Miyakejima has experienced eruptions in the past, and depending on the state of volcanic activity, entry and transportation may be affected, so it is important to check the latest information when visiting. As the shrine is a place of island life and faith, one should visit quietly and with respect when worshiping. The exact event dates and times can best be confirmed through local information.
+
+## Around the Area
+
+Miyakejima, where Ninomiya Shrine is located, is one of the Izu Islands belonging to Tokyo, an island whose appeal lies in magnificent nature and a distinctive culture of faith. Beginning with Toga Shrine, regarded as the center of the island''s faith, ancient shrines connected to the Mishima faith such as Mishaku Shrine and Shiitori Shrine are scattered across the island, and by touring these ancient shrines one can touch the depth of the mythological world of the Izu Islands. A journey visiting the shrines of the island together with Ninomiya Shrine will be an experience unique to Miyakejima.
+
+Miyakejima is an active volcanic island, and the dynamic scenery its volcano has created is also a highlight. Traces of lava flows and remains of buildings buried by eruptions are scattered across the island, places where one can feel up close the power of nature unique to a volcanic island. Miyakejima is also known as a sacred site for birdwatching, with a rich natural environment inhabited by precious wild birds including the akakokko (Izu thrush). The surrounding sea is highly transparent, and diving and fishing can be enjoyed as well. Miyakejima, where nature, faith, and the distinctive landscape created by the volcano are united, is a fitting place to savor the island''s history and culture at leisure while visiting ancient shrines like Ninomiya Shrine.
+
+## Related Information
+
+Details on Ninomiya Shrine can be found in research materials on Engishiki shrines and in shrine-related information of Miyakejima and the local area. This shrine is the candidate shrine for the shikinaisha Iwanohime-no-Mikoto Shrine recorded in the Engishiki Jimmyocho, an ancient shrine in the lineage of the Mishima faith of the Izu Islands. Iwanohime-no-Mikoto, regarded as its deity, is a deity connected to the second consort of Mishima Daimyojin, and because she is the elder sister of the deity of Mishaku Shrine, the shrine is called Ninomiya. On Miyakejima, ancient shrines connected to the Mishima faith such as Toga Shrine, Mishaku Shrine, and Shiitori Shrine are scattered, and Ninomiya Shrine is one of them, an important presence for understanding the history of faith in the Izu Islands. Tracing the connections and origins of the deities of these ancient shrines, the distinctive mythological world that the volcanic Izu Islands have nurtured comes into view. When visiting ancient shrines, one should bear in mind that these are places of faith long and carefully protected by island people, and worship with respect.','ninomiya-shrine-miyakejima','ninomiya-shrine-miyakejima',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q133909049','箱館五稜郭祭','Hakodate Goryokaku Sai','北海道函館市で開催される歴史イベント',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1970,NULL,NULL,NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040968','伊佐我神社','Isakano Shrine',NULL,NULL,NULL,NULL,NULL,'島根県','chugoku',35.3991905,132.7156544,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040961','天若日子神社','Amewakahikono Shrine',NULL,NULL,NULL,NULL,NULL,'島根県','chugoku',35.3991905,132.7156544,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -8202,9 +8326,137 @@ INSERT INTO "festivals" VALUES('Q133874862','函館港まつり','Hakodate Port 
 INSERT INTO "festivals" VALUES('Q132858753','松戸宿坂川献灯まつり',NULL,'千葉県松戸市で開かれる祭り',NULL,NULL,NULL,NULL,'茨城県','kanto',35.782116,139.897877,NULL,NULL,NULL,NULL,NULL,NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039308','合祀：相鹿上神社','Isonokamino Shrine',NULL,NULL,NULL,NULL,NULL,'三重県','kinki',34.504313,136.541722,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135038739','石作神社','Ishitsukurino Shrine',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',34.950857,135.666323,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134928742','二十五柱神社','Nijugohashira Shrine','三重県松阪市柿木原 にある神社','Shinto shrine in Mie Prefecture, Japan',NULL,NULL,NULL,'三重県','kinki',34.589722222,136.599722222,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9F%B1%E7%A5%9E%E7%A4%BE',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134928742','二十五柱神社','Nijugohashira Shrine','三重県松阪市柿木原 にある神社','Shinto shrine in Mie Prefecture, Japan',NULL,NULL,NULL,'三重県','kinki',34.589722222,136.599722222,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9F%B1%E7%A5%9E%E7%A4%BE',NULL,75,'drafted','## 概要
+
+二十五柱神社（にじゅうごはしらじんじゃ）は、三重県松阪市柿木原町（かきのきはらちょう）に鎮座する神社である。社名は「にじゅうごばしら」と読まれることもあるが、正式には「にじゅうごはしら」と称する。この特徴的な社名は、明治時代に当地域の二十五の神社を一社に合祀したことに由来する。伊勢国多気郡に所在した複数の式内社の論社を含む二十五社を統合して成立した社であり、祭神として事代主神をはじめ多くの神々を祀る。旧社格は村社。松阪市の郊外、田園地帯に静かに鎮座し、地域の氏神として信仰を集めてきた。一社のなかに地域の数多くの神々が集約されているという、近代日本の神社合祀の歴史を色濃く伝える神社である。
+
+## 歴史・由来
+
+二十五柱神社の最大の特色は、その成立の経緯にある。明治時代、政府の神社合祀政策のもとで、全国各地の小規模な神社が近隣の神社に統合されていった。柿木原の地でも、当氏子地域に点在していた二十五もの神社が一社に合祀され、それらの神々を一つの社にまとめて祀ったことから「二十五柱神社」という社名が生まれた。すなわちこの社名は、祀られる神々の数そのものを表しているのである。
+
+合祀された神社のなかには、平安時代の『延喜式神名帳』に名を連ねる式内社の論社が複数含まれている点が重要である。伊勢国多気郡に所載された式内社の論社、例えば流田神社・牛庭神社・須麻漏売神社といった古社が、この二十五柱神社に合祀されている。延喜式神名帳とは、延長5年（927年）にまとめられた律令の施行細則『延喜式』のうち、国家が公的に祭祀の対象とした神社を記載した一覧であり、ここに名を連ねることは由緒正しい古社であることを意味する。柿木原の合祀社の筆頭には、式内社とされる神社の木札が掲げられており、境内には合祀された数多くの神社の木札が並んでいる。これらの式内社論社は、本来それぞれ独立した社地を持っていたが、明治期の合祀によって柿木原の地に集約された。かつて牛庭神社が鎮座した跡地には、合祀を記す石碑が建立されているなど、合祀前の各社の記憶も地域に残されている。
+
+主祭神の一柱である事代主神は、出雲神話に登場する神であり、託宣や海の神として知られる。伊勢の地においても古くから祀られてきた神であり、二十五柱神社の中心的な祭神となっている。一つの社のなかに地域の信仰の歴史が凝縮されているという点で、この神社は近代の神社政策と地域の信仰のあり方を今に伝える貴重な存在である。
+
+## 見どころ
+
+二十五柱神社の見どころは、何よりもその成立の物語そのものにある。境内には、合祀された数多くの神社の木札が並べられており、かつて柿木原周辺に点在していた二十五の神社の存在を今に伝えている。一つひとつの木札に記された社名をたどっていくと、この地域がいかに多くの神々を祀り、豊かな信仰の歴史を育んできたかが見えてくる。式内社の論社をはじめとする古社が、一つの社に集約されているという光景は、ほかではなかなか見られないものである。
+
+また、二十五柱神社は田園地帯のなかに静かに鎮座しており、松阪市街から明和町、伊勢市方面へと向かう道のりのなかにある。県道からではなく、あえて田んぼ道を歩いて訪れる人もいるほど、のどかな田園風景のなかに溶け込んだ立地が魅力である。観光地としてにぎわう大社とは異なり、地域の暮らしのなかに息づく氏神としての素朴なたたずまいが、訪れる人に静かな安らぎを与えてくれる。延喜式や神社合祀の歴史に関心を持つ人にとっては、合祀社の構造を実地に確かめられる興味深い社であり、伊勢地方の信仰史をたどる旅の一つの目的地となるだろう。
+
+## 開催情報・アクセス
+
+二十五柱神社の例祭は、例年12月15日に営まれ、秋祭・新嘗祭としての性格を持つ。新嘗祭は、その年の収穫に感謝し、新穀を神に捧げる宮中以来の重要な祭祀であり、各地の神社でも営まれてきた。二十五柱神社でも、地域の氏神として一年の実りへの感謝を捧げる祭りが、地元の人々によって受け継がれている。華やかな山車や大規模な行列を伴うものではないが、地域に根ざした素朴で厳かな祭礼である。
+
+アクセスは、松阪市の中心部から郊外の柿木原町へと向かう。最寄りは近鉄・JRの松阪駅で、そこから車やバスで柿木原方面へアクセスする。社は田園地帯のなかに位置するため、最寄りのバス停や道路からは徒歩での移動となる場合がある。のどかな田園風景のなかを歩いて社を目指すのも、この地ならではの趣がある。ここは地域の人々の生活と信仰の場であるため、参拝にあたっては静かに、敬意をもって訪れることが大切である。正確な例祭の日程や時間は年によって異なる場合があるため、地元の情報で確認することが望ましい。
+
+## 周辺の見どころ
+
+二十五柱神社が鎮座する松阪市は、伊勢地方を代表する歴史豊かな都市である。松阪は江戸時代に商人の町として栄え、「松阪商人」と呼ばれる豪商を数多く輩出した。松阪商人ゆかりの旧宅や商家の町並みが残り、当時の繁栄を today に伝えている。また、松阪は国学者・本居宣長ゆかりの地としても知られ、宣長を記念する施設が訪れる人を迎えている。そして松阪といえば、全国に名高い松阪牛の産地としても有名で、食の魅力も豊かな土地である。
+
+地理的に、松阪市は伊勢神宮を擁する伊勢市に近く、二十五柱神社から東へ向かえば、明和町を経て伊勢へと至る。明和町には、かつて伊勢神宮に仕える斎王が暮らした斎宮（さいくう）の跡があり、国の史跡として整備されている。古代の宮廷と伊勢神宮を結ぶ信仰の歴史を伝える地である。伊勢神宮への参拝とあわせて、二十五柱神社のような地域の古社や合祀社を訪ね、伊勢地方の重層的な信仰の歴史に触れる旅は、味わい深いものとなるだろう。
+
+## 関連情報
+
+二十五柱神社の詳細は、延喜式神社に関する研究資料や、三重県・松阪市の神社関連の情報で確認できる。本社は、明治期に柿木原地域の二十五の神社を合祀して成立した神社であり、そのなかには伊勢国多気郡の式内社の論社が複数含まれている。一つの社に地域の数多くの神々が集約されているという成立の経緯は、近代日本の神社合祀政策と地域の信仰のあり方を理解するうえで貴重な事例である。合祀された各社の由緒や、合祀前の社地に残る石碑などをたどっていくと、この地域が育んできた豊かな信仰の歴史が見えてくる。古社を訪ねる際は、地域の人々が長く大切に守ってきた信仰の場であることを心にとめ、敬意をもって参拝したい。','## Overview
+
+Nijugohashira Shrine is a shrine located in Kakinokihara-cho, Matsusaka City, Mie Prefecture. While the name is sometimes read nijugobashira, it is properly called nijugohashira. This distinctive name derives from the merging of twenty-five shrines of the area into a single shrine during the Meiji period. It is a shrine established by consolidating twenty-five shrines, including candidate shrines for several shikinaisha located in Taki District, Ise Province, and it enshrines many deities including Kotoshironushi-no-Kami. Its former shrine rank was village shrine (sonsha). Standing quietly in farmland on the outskirts of Matsusaka City, it has gathered faith as the local guardian deity. It is a shrine that vividly conveys the history of shrine consolidation in modern Japan, with numerous local deities of the area gathered within a single shrine.
+
+## History and Origins
+
+The greatest distinctive feature of Nijugohashira Shrine lies in the circumstances of its establishment. In the Meiji period, under the government''s shrine consolidation policy, small shrines across the country were merged into nearby shrines. In Kakinokihara as well, as many as twenty-five shrines scattered throughout the parish area were merged into a single shrine, and because the deities of those shrines were enshrined together in one place, the shrine name Nijugohashira Shrine, meaning twenty-five pillars, was born. In other words, the name expresses the very number of deities enshrined.
+
+Importantly, among the merged shrines are several candidate shrines for shikinaisha listed in the Heian-period Engishiki Jimmyocho. Candidate shrines for shikinaisha of Taki District, Ise Province, such as the ancient shrines Nagareda Shrine, Ushiniwa Shrine, and Sumarome Shrine, are merged into this Nijugohashira Shrine. The Engishiki Jimmyocho is a register of shrines officially recognized as objects of state ritual, included in the Engishiki, the detailed regulations of the ritsuryo codes compiled in 927; to be listed in it means a shrine of proper and ancient lineage. At the head of the merged shrines of Kakinokihara, the wooden tablet of a shrine regarded as a shikinaisha is displayed, and the wooden tablets of numerous merged shrines line the precincts. These shikinaisha candidate shrines originally each held their own shrine grounds, but through the Meiji-period consolidation they were gathered to the land of Kakinokihara. At the former site where Ushiniwa Shrine once stood, a stone monument recording the merger has been erected, and so the memory of each shrine before consolidation also remains in the area.
+
+Kotoshironushi-no-Kami, one of the principal deities, is a deity appearing in the Izumo myths, known as a god of oracle and of the sea. It has been worshiped since ancient times in the land of Ise as well, and is the central deity of Nijugohashira Shrine. In that the history of the area''s faith is condensed within a single shrine, this shrine is a precious presence conveying to the present the modern shrine policy and the nature of local faith.
+
+## Highlights
+
+The highlight of Nijugohashira Shrine lies above all in the story of its establishment itself. In the precincts, the wooden tablets of numerous merged shrines are lined up, conveying to this day the existence of the twenty-five shrines that once dotted the area around Kakinokihara. Tracing the shrine names written on each tablet, one comes to see how many deities this area enshrined and how rich a history of faith it nurtured. The sight of ancient shrines, including shikinaisha candidates, gathered into a single shrine is something rarely seen elsewhere.
+
+Nijugohashira Shrine also stands quietly within farmland, along the route from central Matsusaka toward Meiwa Town and the Ise City area. So pastoral is its setting, blending into the idyllic rural scenery, that some visitors deliberately walk the rice-field paths rather than the prefectural road to reach it. Unlike grand shrines bustling as tourist sites, the simple appearance of a guardian deity living within the life of the community gives visitors a quiet sense of peace. For those interested in the history of the Engishiki and shrine consolidation, it is a fascinating shrine where one can verify the structure of a merged shrine firsthand, and it will be one destination on a journey tracing the faith history of the Ise region.
+
+## Event Information and Access
+
+The annual festival of Nijugohashira Shrine is held each year on December 15, with the character of an autumn festival and Niinamesai (harvest thanksgiving festival). The Niinamesai is an important rite, continuing since the imperial court, of giving thanks for the year''s harvest and offering new grain to the deities, and it has been performed at shrines throughout the land. At Nijugohashira Shrine too, a festival giving thanks for the year''s bounty as the local guardian deity is carried on by local people. Though not accompanied by gorgeous floats or large processions, it is a simple and solemn rite rooted in the community.
+
+For access, head from central Matsusaka City to Kakinokihara-cho on the outskirts. The nearest station is Matsusaka Station on the Kintetsu and JR lines, from which one accesses the Kakinokihara area by car or bus. As the shrine is located within farmland, it may be a walk from the nearest bus stop or road. Walking through the idyllic rural scenery to reach the shrine has a charm unique to this place. As this is a place of local life and faith, it is important to visit quietly and with respect when worshiping. As the exact festival dates and times may differ from year to year, confirming through local information is advisable.
+
+## Around the Area
+
+Matsusaka City, where Nijugohashira Shrine is located, is a city rich in history representative of the Ise region. Matsusaka flourished as a merchant town in the Edo period and produced many wealthy merchants known as the Matsusaka merchants. Former residences and merchant townscapes connected to the Matsusaka merchants remain, conveying the prosperity of that time to today. Matsusaka is also known as the place associated with the scholar of national learning Motoori Norinaga, and facilities commemorating Norinaga welcome visitors. And when it comes to Matsusaka, it is famous nationwide as the home of Matsusaka beef, a land rich in culinary appeal as well.
+
+Geographically, Matsusaka City is near Ise City, home of the Ise Grand Shrine, and heading east from Nijugohashira Shrine leads through Meiwa Town to Ise. In Meiwa Town are the ruins of Saiku, where the Saio, the princess who served the Ise Grand Shrine, once lived, now maintained as a national historic site. It is a place conveying the history of faith linking the ancient court and the Ise Grand Shrine. Together with a visit to the Ise Grand Shrine, a journey to visit local ancient shrines and merged shrines such as Nijugohashira Shrine, touching the layered history of faith in the Ise region, will be a deeply rewarding one.
+
+## Related Information
+
+Details on Nijugohashira Shrine can be found in research materials on Engishiki shrines and in shrine-related information of Mie Prefecture and Matsusaka City. This shrine was established by merging twenty-five shrines of the Kakinokihara area in the Meiji period, and among them are included several candidate shrines for shikinaisha of Taki District, Ise Province. The circumstances of its establishment, with numerous local deities gathered into a single shrine, are a precious case for understanding the shrine consolidation policy of modern Japan and the nature of local faith. Tracing the histories of each merged shrine and the stone monuments remaining at the former shrine sites, the rich history of faith this area has nurtured comes into view. When visiting ancient shrines, one should bear in mind that these are places of faith long and carefully protected by local people, and worship with respect.','nijugohashira-shrine-matsusaka','nijugohashira-shrine-matsusaka',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039443','合祀：北桑名神社','Sanofuno Shrine',NULL,NULL,NULL,NULL,NULL,'愛知県','chubu',35.067824,136.688545,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134926963','姫宮神社 (南伊豆町)','Himemiya Shrine','静岡県下田市高馬 にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.656703,138.818973,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%AE%AE%E7%A5%9E%E7%A4%BE_(%E5%8D%97%E4%BC%8A%E8%B1%86%E7%94%BA)',NULL,75,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134926963','姫宮神社 (南伊豆町)','Himemiya Shrine','静岡県下田市高馬 にある神社','Shinto shrine in Shizuoka Prefecture, Japan',NULL,NULL,NULL,'静岡県','chubu',34.656703,138.818973,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%AE%AE%E7%A5%9E%E7%A4%BE_(%E5%8D%97%E4%BC%8A%E8%B1%86%E7%94%BA)',NULL,75,'drafted','## 概要
+
+姫宮神社（ひめみやじんじゃ）は、静岡県下田市高馬（こうま）に鎮座する神社である。伊豆半島の南部、温暖な気候と美しい海岸で知られる賀茂地方に位置し、祭神として伊波比咩命（いわひめのみこと）を祀る。平安時代に編まれた官社の一覧『延喜式神名帳』に、伊豆国賀茂郡の「伊波比咩命神社」として記載される式内社の比定社であり、由緒の古い神社として知られている。旧社格は村社。集落のはずれの山腹に静かに鎮座する小さな社であるが、その歴史は古代にまでさかのぼり、地域の人々によって長く守り伝えられてきた。例祭は毎年11月に営まれ、地域の氏神として今も信仰を集めている。観光地としてにぎわう大社とは異なり、ひっそりとした境内に古社ならではの静謐な空気が漂う。
+
+## 歴史・由来
+
+姫宮神社の創立年月は明らかでないが、平安時代の『延喜式神名帳』に名を連ねる式内社の比定社であることから、その歴史は少なくとも平安時代以前にさかのぼると考えられている。ここで重要なのが「式内社」という格である。式内社とは、延長5年（927年）にまとめられた律令の施行細則『延喜式』のうち、神々への祭祀を定めた「神名帳」に記載された神社のことを指す。神名帳に載るということは、当時の朝廷が公的に認め、国家の祭祀の対象とした由緒正しい神社であることを意味する。全国で約二千八百社、伊豆国では賀茂郡を中心に多くの式内社が記載されており、姫宮神社が「伊波比咩命神社」の比定社とされることは、平安時代の段階で既にこの地に格式ある神が祀られていたことを物語っている。
+
+さらに姫宮神社は、同じく式内社である「阿米都加多比咩神社（あめつかたひめじんじゃ）」の論社の一つともされている。論社とは、神名帳に記された神社が現在のどの社に相当するか確定できない場合に、その候補として挙げられる神社のことである。一つの神社が複数の式内社の比定社・論社として議論の対象になること自体、この社が古くから重要な信仰の場であったことの証といえる。
+
+祭神の伊波比咩命は、伊豆の地に深くかかわる女神である。伊豆半島南部から伊豆諸島にかけての一帯には、三嶋大明神（事代主命）を中心とする独自の神々の信仰が広がっており、その后神・御子神を祀る神社が各地に点在する。伊波比咩命もこうした伊豆の神々の系譜に連なる存在とされ、海と島々に囲まれた伊豆ならではの信仰世界の一翼を担ってきた。江戸時代には記録が残り、延宝年間（17世紀後半）に社殿の造営が行われたことが伝えられている。慶安年間にも造営の記録があり、長い歳月のなかで幾度も再建・造営を重ねながら、地域の氏神として人々の暮らしを見守ってきた。
+
+## 見どころ
+
+姫宮神社の最大の見どころは、式内社としての古い由緒と、それを今に伝える静かな社のたたずまいである。集落のはずれの山腹に鎮座する社殿は、参道を上った先、木々に囲まれた境内にひっそりと佇む。観光客でにぎわう大規模な神社とは対照的に、ここには古代から連綿と続いてきた素朴な信仰の姿が残されている。境内に立てば、平安時代の神名帳に記された古社ならではの、時の流れを感じさせる静謐な空気に包まれる。派手な社殿や大きな鳥居はなくとも、千年を超える歴史の重みが、訪れる者に深い感慨をもたらす。
+
+もう一つの見どころは、祭神・伊波比咩命をめぐる伊豆独自の信仰の物語である。前述のとおり、伊豆半島南部から伊豆諸島にかけては、三嶋大明神とその后神・御子神を祀る神社が網の目のように分布している。これは、火山活動によって島々が次々と生み出されたとされる伊豆の地勢と結びついた、独特の神話世界を反映したものである。姫宮神社もこの信仰圏の一翼を担っており、一社だけを見るのではなく、伊豆全体の神々のつながりのなかに位置づけて眺めると、その意味がいっそう深く理解できる。式内社の比定社・論社として、神社史や延喜式を研究する人々の関心を集める存在でもあり、歴史好きにとっては見ごたえのある古社である。
+
+## 開催情報・アクセス
+
+姫宮神社の例祭は、例年11月（11月1日・2日とされる）に営まれる。華やかな山車や大規模な行列を伴う祭りではなく、地域の氏神の祭りとして、地元の人々によって静かに、しかし大切に受け継がれている。古来の信仰の形を今に残す、素朴で厳かな祭礼である。
+
+アクセスは、伊豆急行線の終点・伊豆急下田駅が玄関口となる。下田駅からバスや車で南伊豆方面へ向かい、高馬の集落へとアクセスする。社は集落のはずれの山腹に位置するため、最寄りのバス停からは徒歩での移動となる。伊豆半島南部は公共交通の便が限られる地域もあるため、訪れる際は事前にバスの時刻や経路をよく確認しておくとよい。また、ここは地域の人々の生活と信仰の場であるため、参拝にあたっては静かに、敬意をもって訪れることが大切である。正確な例祭の日程や時間は年によって異なる場合があるため、地元の情報で確認することが望ましい。
+
+## 周辺の見どころ
+
+姫宮神社が鎮座する下田市周辺は、伊豆半島南部を代表する観光地である。下田は幕末に黒船が来航し、日本が開国へと歩み出した歴史の舞台として全国に知られる。市街地にはペリーゆかりの史跡や、開国の歴史を伝える施設が点在し、了仙寺・宝福寺といった開国期にかかわる古刹も残る。歴史散策を楽しむ人々が国内外から訪れる、由緒ある港町である。
+
+海の見どころも豊富である。白い砂浜が美しい吉佐美大浜をはじめ、伊豆有数の透明度を誇る海水浴場が南伊豆一帯に広がり、夏には多くの海水浴客やサーファーでにぎわう。また、伊豆最古の宮とも称される白浜神社は、海岸近くに鎮座する古社として人気が高く、姫宮神社とあわせて伊豆の古社巡りを楽しむことができる。半島最南端の石廊崎からは、太平洋の雄大な海の眺めが広がり、下田の温泉とともに、自然と歴史を満喫できる地域となっている。姫宮神社のような古社を訪ねる旅は、こうした伊豆南部の奥深い歴史と信仰に触れる、静かで豊かな時間となるだろう。
+
+## 関連情報
+
+姫宮神社の詳細は、延喜式神社に関する研究資料や、地元自治体・神社関連の情報で確認できる。本社は『延喜式神名帳』に記載された伊豆国賀茂郡の式内社「伊波比咩命神社」の比定社であり、古代から続く伊豆の信仰を今に伝える貴重な神社である。伊豆半島南部から伊豆諸島にかけては、三嶋信仰に連なる式内社が数多く分布しており、姫宮神社もその一社として、地域の歴史と信仰を理解するうえで重要な存在となっている。これらの古社を一つひとつ訪ね、祭神のつながりや由緒をたどっていくと、伊豆という土地が育んできた独特の神話世界が立ち上がってくる。古社を訪ねる際は、地域の人々が長く大切に守ってきた信仰の場であることを心にとめ、敬意をもって参拝したい。','## Overview
+
+Himemiya Shrine is a shrine located in Koma, Shimoda City, Shizuoka Prefecture. Situated in the Kamo area of the southern Izu Peninsula, known for its mild climate and beautiful coastline, it enshrines the deity Iwahime-no-Mikoto. It is the candidate shrine identified with the Iwahime-no-Mikoto Shrine of Kamo District, Izu Province, listed in the Engishiki Jimmyocho, the register of official shrines compiled in the Heian period, and is known as a shrine of ancient lineage. Its former shrine rank was village shrine (sonsha). Though it is a small shrine standing quietly on a hillside at the edge of a settlement, its history reaches back into antiquity, and it has long been protected and handed down by local people. Its annual festival is held each November, and it still gathers faith as the local guardian deity. Unlike grand shrines bustling as tourist sites, its quiet precincts carry the serene air unique to an ancient shrine.
+
+## History and Origins
+
+The exact date of Himemiya Shrine''s founding is unclear, but because it is the candidate shrine for a shrine listed in the Heian-period Engishiki Jimmyocho, its history is thought to reach back at least to before the Heian period. The rank of shikinaisha is important here. The shikinaisha are shrines recorded in the Jimmyocho, the register of deities within the Engishiki, the detailed regulations of the ritsuryo legal codes compiled in 927. To be listed in the Jimmyocho means a shrine was officially recognized by the court of the time and made an object of state ritual, a shrine of proper lineage. Some 2,800 shrines nationwide, and many in Izu Province centered on Kamo District, are listed; that Himemiya Shrine is identified with the Iwahime-no-Mikoto Shrine tells us a deity of standing was already enshrined in this area by the Heian period.
+
+Furthermore, Himemiya Shrine is also considered one of the candidate shrines for the Ametsukatahime Shrine, likewise a shikinaisha. A candidate shrine (ronsha) is one proposed when it cannot be determined which present-day shrine corresponds to a shrine recorded in the Jimmyocho. That a single shrine becomes the subject of discussion as the candidate for multiple shikinaisha is itself evidence that it has been an important place of faith since ancient times.
+
+The enshrined deity, Iwahime-no-Mikoto, is a goddess deeply connected to the land of Izu. From the southern Izu Peninsula to the Izu Islands, a distinctive faith centered on Mishima Daimyojin (Kotoshironushi-no-Mikoto) spread, and shrines enshrining his consort and child deities are scattered throughout. Iwahime-no-Mikoto is regarded as part of this lineage of Izu deities and has borne a part of the faith world unique to Izu, surrounded by sea and islands. Records remain from the Edo period, and it is said construction of the shrine building was carried out in the Enpo era (latter half of the 17th century). There are records of construction in the Keian era as well; through long years of repeated rebuilding and construction, it has watched over the lives of people as the local guardian deity.
+
+## Highlights
+
+The greatest highlight of Himemiya Shrine is its ancient lineage as a shikinaisha and the quiet appearance of the shrine that conveys it. The shrine building, enshrined on a hillside at the edge of the settlement, stands quietly in tree-surrounded precincts at the top of the approach. In contrast to large shrines bustling with tourists, here remains the simple form of faith continuing unbroken from antiquity. Standing in the precincts, one is enveloped in the serene air that conveys the flow of time, unique to an ancient shrine recorded in the Heian-period register. Even without showy buildings or a great torii gate, the weight of more than a thousand years of history brings deep emotion to those who visit.
+
+Another highlight is the story of the faith unique to Izu surrounding the deity Iwahime-no-Mikoto. As noted, from the southern Izu Peninsula to the Izu Islands, shrines enshrining Mishima Daimyojin and his consort and child deities are distributed like a net. This reflects a distinctive mythological world tied to the geography of Izu, where islands are said to have been born one after another by volcanic activity. Himemiya Shrine bears a part of this faith sphere, and rather than viewing it alone, placing it within the connections of the deities of all Izu deepens one''s understanding of its meaning. As a candidate and disputed shrine for the shikinaisha, it is of interest to those who study shrine history and the Engishiki, and it is an ancient shrine well worth seeing for history lovers.
+
+## Event Information and Access
+
+The annual festival of Himemiya Shrine is held in November (said to be November 1 and 2). Rather than a festival with gorgeous floats or large processions, it is carried on quietly but carefully by local people as the festival of the local guardian deity, a simple and solemn rite preserving an ancient form of faith.
+
+For access, the gateway is Izukyu-Shimoda Station, the terminus of the Izukyu Line. From Shimoda Station, head toward the Minami-Izu area by bus or car to reach the settlement of Koma. As the shrine is located on a hillside at the edge of the settlement, it is a walk from the nearest bus stop. Since public transportation is limited in parts of the southern Izu Peninsula, it is best to check bus times and routes carefully in advance. As this is a place of local life and faith, it is important to visit quietly and with respect when worshiping. As the exact festival dates and times may differ from year to year, confirming through local information is advisable.
+
+## Around the Area
+
+The Shimoda City area where Himemiya Shrine is located is a leading tourist destination of the southern Izu Peninsula. Shimoda is known nationwide as the stage of history where the Black Ships arrived at the end of the Edo period and Japan took its first steps toward opening the country. In the city center, sites associated with Perry and facilities conveying the history of the opening are scattered, and old temples connected to the opening era, such as Ryosenji and Hofukuji, remain. It is a venerable port town visited by people from Japan and abroad who enjoy historical strolls.
+
+There are many seaside attractions as well. Beginning with Kisami Ohama, beautiful with white sand, beaches boasting some of Izu''s clearest waters spread throughout the Minami-Izu area, bustling in summer with many swimmers and surfers. Shirahama Shrine, also called the oldest shrine in Izu, is popular as an ancient shrine near the coast, and together with Himemiya Shrine one can enjoy a tour of Izu''s ancient shrines. From Cape Irozaki at the peninsula''s southern tip, magnificent views of the Pacific open up, and together with Shimoda''s hot springs, this is a region where nature and history can be fully enjoyed. A journey to visit ancient shrines like Himemiya Shrine will be a quiet and rich time of touching the deep history and faith of southern Izu.
+
+## Related Information
+
+Details on Himemiya Shrine can be found in research materials on Engishiki shrines and in local government and shrine-related information. This shrine is the candidate shrine for the shikinaisha Iwahime-no-Mikoto Shrine of Kamo District, Izu Province, listed in the Engishiki Jimmyocho, and is a precious shrine conveying the faith of Izu continuing from antiquity. From the southern Izu Peninsula to the Izu Islands, many shikinaisha connected to the Mishima faith are distributed, and Himemiya Shrine is one of them, an important presence for understanding the region''s history and faith. Visiting these ancient shrines one by one and tracing the connections and lineages of their deities, the distinctive mythological world that the land of Izu has nurtured comes into view. When visiting ancient shrines, one should bear in mind that these are places of faith long and carefully protected by local people, and worship with respect.','himemiya-shrine-minamiizu','himemiya-shrine-minamiizu',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040906','同社坐大穴持御子神社','Ohonamochimiko Shrine',NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',35.399483,133.218419,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040905','坐大穴持神社','Ohonamochi Shrine',NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',35.399483,133.218419,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135193370','長幡部神社 旧社地','Nagahatabe Shrine former site',NULL,'Shinto shrine in Kamisato, Japan',NULL,NULL,NULL,'群馬県','kanto',36.240195,139.102104,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
