@@ -1406,7 +1406,75 @@ The Osaka Asian Film Festival, which began in 2005, has accumulated a history of
 INSERT INTO "festivals" VALUES('Q21075984','なら国際映画祭','Nara International Film Festival',NULL,'film festival','Q169134','奈良市','Nara','奈良県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%89%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Nara_International_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16941387',NULL,'Matsuyama Shiroyama Koen Cherry Blossom Festival',NULL,'festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Matsuyama_Shiroyama_Koen_Cherry_Blossom_Festival',25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q13423122','七夕','Qixi Festival','アジア圏における節句・節日のひとつ','Chinese valentine festival, on the seventh day of the seventh month of the lunar calendar',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Niulang%20and%20Zhinv%20%28Long%20Corridor%29.JPG','https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95','https://en.wikipedia.org/wiki/Qixi_Festival',85,'skipped',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q18578715','端午の節句','Tango no sekku','日本の祭り','Japanese festival on 5th May',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Flying%20Koi%20by%20tiseb%20in%20Nagasaki.jpg',NULL,'https://en.wikipedia.org/wiki/Tango_no_sekku',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q18578715','端午の節句','Tango no sekku','日本の祭り','Japanese festival on 5th May',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Flying%20Koi%20by%20tiseb%20in%20Nagasaki.jpg',NULL,'https://en.wikipedia.org/wiki/Tango_no_sekku',70,'drafted','## 概要
+
+端午の節句（たんごのせっく）は、毎年5月5日に行われる日本の年中行事で、男の子の健やかな成長と立身出世を願う行事である。五節句の一つに数えられ、現在は国民の祝日「こどもの日」として広く親しまれている。鎧や兜、五月人形を飾り、庭先には鯉のぼりを立て、菖蒲湯（しょうぶゆ）に浸かり、柏餅（かしわもち）や粽（ちまき）を食べるなど、さまざまな風習が伝えられている。もとは季節の変わり目に邪気を払う中国由来の行事であったものが、日本で武家社会を経て男児の成長を祝う行事へと発展した。新緑の美しい初夏の空に泳ぐ鯉のぼりは、日本の五月を象徴する風物詩として、今も全国各地で見ることができる。
+
+## 歴史・由来
+
+端午の節句の起源は、古代中国にさかのぼる。「端午」の「端」は「はじめ」を意味し、「午」は十二支の午（うま）を指す。すなわち「端午」とは、もともと月の最初の午の日のことであったが、やがて「午（ご）」と「五」の音が通じることから、5月5日を指すようになったとされる。古代中国では、5月は病気や災いが多い月とされ、季節の変わり目にあたるこの時期に、強い香りを持つ菖蒲や蓬（よもぎ）を用いて邪気を払い、無病息災を願う風習があった。菖蒲を軒に挿したり、菖蒲を浸した酒を飲んだりして、厄除けや健康祈願を行ったのである。
+
+この中国の風習が日本に伝わり、宮中の年中行事として取り入れられた。当初は菖蒲や薬玉（くすだま）を用いた邪気払いの行事であったが、時代が下って武家社会が台頭すると、端午の節句は大きく性格を変えていく。「菖蒲（しょうぶ）」が「尚武（しょうぶ・武を尊ぶこと）」や「勝負（しょうぶ）」に通じることから、武家の間でこの節句が重んじられるようになり、やがて男の子の誕生を祝い、その健やかな成長と武運・出世を願う行事へと発展した。
+
+武家では、端午の節句に鎧や兜を飾る習わしが広まった。鎧や兜は、もともと戦場で身を守るための武具であり、そこから「災いや病から子どもの身を守る」という願いが込められるようになった。この習わしが武家から庶民へと広まり、現在の五月人形を飾る風習につながっている。また、江戸時代には、町人の間で鯉のぼりを揚げる習慣が生まれた。中国の故事「登竜門」、すなわち急流をのぼりきった鯉が竜になるという伝説にちなみ、子どもが立身出世することを願って、鯉をかたどったのぼりを立てるようになったのである。
+
+## 見どころ
+
+端午の節句には、さまざまな縁起物や風習があり、それぞれに子どもの成長を願う意味が込められている。まず代表的なのが、五月人形（鎧飾り・兜飾り）である。鎧や兜は、災いから子どもの身を守る象徴として飾られ、勇ましく立派に育つようにとの願いが託されている。武者人形や金太郎・桃太郎などをかたどった人形も、強くたくましい子に育つようにとの願いを込めて飾られる。
+
+屋外を彩るのが、鯉のぼりである。黒い真鯉（まごい）、赤い緋鯉（ひごい）、そして青や緑の子鯉が、初夏の風を受けて空を泳ぐ姿は、端午の節句を代表する光景である。登竜門の故事にちなみ、どんな困難も乗り越えて立派に成長してほしいという親の願いが込められている。近年では、川にたくさんの鯉のぼりを渡す「鯉のぼりまつり」が各地で行われ、初夏の風物詩として人気を集めている。
+
+そして、欠かせないのが菖蒲湯である。5月5日には、菖蒲の葉を浮かべた湯に浸かる風習がある。菖蒲の強い香りには邪気を払い、厄を除ける力があると信じられてきた。菖蒲湯に入ることで、一年の健康を願うのである。食べ物では、関東を中心に柏餅、関西を中心に粽が食べられる。柏の葉は新芽が出るまで古い葉が落ちないことから「家系が絶えない（子孫繁栄）」の縁起物とされ、粽は古代中国の故事に由来する。これらの風習を通して、家族で子どもの成長を祝うのが端午の節句である。
+
+## 開催情報・アクセス
+
+端午の節句は、毎年5月5日に行われる。この日は国民の祝日「こどもの日」と定められており、ゴールデンウィークの一日でもある。「こどもの日」は、昭和23年（1948年）に「こどもの人格を重んじ、こどもの幸福をはかるとともに、母に感謝する」日として制定された。端午の節句としての伝統的な行事と、こどもの日としての国民的な祝日が重なり、現在では家族で子どもの成長を祝う日として広く定着している。
+
+端午の節句は全国各地の家庭で祝われる年中行事であり、特定の会場で行われるものではない。各家庭では、5月人形を飾り、鯉のぼりを揚げ、菖蒲湯に浸かり、柏餅や粽を食べて祝う。一方で、地域の行事として、川や広場に大量の鯉のぼりを掲揚する「鯉のぼりまつり」が各地で開催される。これらは初夏の観光イベントとしても人気で、群馬県・埼玉県・高知県など、全国各地に名高い鯉のぼりの名所がある。数百匹から千匹を超える鯉のぼりが大空を泳ぐ光景は壮観で、多くの見物客が訪れる。こうしたイベントを訪れる際は、開催地の観光情報で、開催期間やアクセスを事前に確認するとよい。
+
+## 周辺の見どころ
+
+端午の節句は全国共通の年中行事であるため、特定の地域に限らず、日本各地でその風習に触れることができる。大規模な鯉のぼりのイベントが行われる地域を訪れれば、初夏の青空を埋め尽くす無数の鯉のぼりという、圧巻の光景に出会える。たとえば、川の両岸にワイヤーを渡して大量の鯉のぼりを掲揚するイベントは、群馬県や高知県をはじめ各地で行われ、それぞれの土地の自然景観とあいまって、見ごたえのある風景をつくり出している。
+
+また、五月人形や鯉のぼりを扱う老舗の人形店が集まる地域では、伝統工芸としての節句飾りの美しさに触れることができる。埼玉県のさいたま市岩槻区や、東京の浅草橋周辺などは、人形の街として知られ、職人の手仕事による精巧な五月人形を見ることができる。さらに、菖蒲にちなんで、5月には各地の庭園や植物園で花菖蒲が見頃を迎える。端午の節句の季節は、新緑が美しく、屋外で過ごすのに心地よい時期である。子どもの成長を願うこの伝統行事を通して、日本の四季の移ろいと、家族の絆を大切にする文化に触れることができるだろう。
+
+## 関連情報
+
+端午の節句の詳細は、各種の年中行事に関する資料や、地域の鯉のぼりイベントの観光情報で確認できる。本行事は5月5日に行われる五節句の一つで、男の子の健やかな成長と立身出世を願う日本の伝統的な年中行事である。もとは季節の変わり目に菖蒲などで邪気を払う中国由来の行事であったが、日本で武家社会を経て、鎧兜や五月人形を飾り、鯉のぼりを揚げて男児の成長を祝う行事へと発展した。現在は国民の祝日「こどもの日」として広く親しまれ、菖蒲湯に浸かり、柏餅や粽を食べる風習とともに、全国各地の家庭で受け継がれている。菖蒲が「尚武」「勝負」に通じること、鯉のぼりが登竜門の故事にちなむことなど、一つひとつの風習に込められた意味をたどっていくと、この行事が長い歴史のなかで育んできた、子を思う親の願いの深さが見えてくる。','## Overview
+
+Tango no Sekku is a Japanese annual event held each year on May 5, an event praying for the healthy growth and success in life of boys. Counted as one of the Five Seasonal Festivals (gosekku), it is now widely beloved as the national holiday Children''s Day. Various customs are handed down, such as displaying armor, helmets, and May dolls, raising carp streamers (koinobori) in the garden, soaking in a shobu-yu (iris bath), and eating kashiwa-mochi (rice cakes wrapped in oak leaves) and chimaki (rice dumplings). Originally a Chinese-derived event for warding off evil spirits at the turn of the season, it developed in Japan, by way of warrior society, into an event celebrating the growth of boys. The carp streamers swimming in the beautiful early-summer sky of fresh greenery can still be seen throughout the country today as a seasonal feature symbolizing May in Japan.
+
+## History and Origins
+
+The origin of Tango no Sekku dates back to ancient China. The tan of Tango means beginning, and go refers to the horse of the twelve zodiac signs. That is, Tango originally meant the first horse day of the month, but eventually, because the sound of go and the sound of five (go) were interchangeable, it came to refer to May 5. In ancient China, the fifth month was considered a month of much illness and calamity, and at this time of seasonal change, there was a custom of warding off evil spirits and praying for good health using strongly scented iris (shobu) and mugwort (yomogi). People warded off misfortune and prayed for health by inserting iris under the eaves and drinking sake steeped with iris.
+
+This Chinese custom was transmitted to Japan and incorporated as an annual event of the imperial court. At first it was an evil-warding event using iris and kusudama (scented balls), but as time passed and warrior society rose to prominence, Tango no Sekku greatly changed its character. Because shobu (iris) is a homophone of shobu (esteeming the martial) and shobu (contest), this festival came to be valued among warrior families, and eventually developed into an event celebrating the birth of boys and praying for their healthy growth, martial fortune, and success.
+
+Among warrior families, the custom of displaying armor and helmets at Tango no Sekku spread. Armor and helmets were originally military equipment for protecting the body on the battlefield, and from this came to carry the wish to protect the child''s body from calamity and illness. This custom spread from warrior families to the common people and connects to the present custom of displaying May dolls. Also, in the Edo period, the custom of raising carp streamers was born among townspeople. After the Chinese tale of the Dragon Gate (toryumon), that is, the legend of a carp that becomes a dragon after climbing a rapid current, people came to raise streamers shaped like carp, praying for their children''s success in life.
+
+## Highlights
+
+Tango no Sekku has various lucky charms and customs, each carrying the meaning of praying for a child''s growth. First, representative are the May dolls (armor displays and helmet displays). Armor and helmets are displayed as symbols of protecting the child''s body from calamity, entrusted with the wish that the child grow up brave and splendid. Warrior dolls and dolls shaped like Kintaro and Momotaro are also displayed, carrying the wish that the child grow strong and sturdy.
+
+Coloring the outdoors are the carp streamers. The sight of the black magoi (true carp), the red higoi (scarlet carp), and the blue and green child carp swimming in the sky catching the early-summer wind is a scene representative of Tango no Sekku. After the tale of the Dragon Gate, it carries the parents'' wish that the child overcome any difficulty and grow up splendidly. In recent years, koinobori festivals, in which many carp streamers are strung across rivers, are held in various places, gaining popularity as a seasonal feature of early summer.
+
+And indispensable is the shobu-yu. On May 5, there is a custom of soaking in a bath with iris leaves floating in it. The strong scent of iris has long been believed to have the power to ward off evil spirits and remove misfortune. By entering the iris bath, one prays for the year''s health. As for food, kashiwa-mochi is eaten chiefly in the Kanto region, and chimaki chiefly in the Kansai region. Because the oak (kashiwa) leaf does not fall until new buds emerge, it is considered a lucky charm for an unbroken family line (prosperity of descendants), and chimaki derives from an ancient Chinese tale. Through these customs, Tango no Sekku is when families celebrate a child''s growth.
+
+## Event Information and Access
+
+Tango no Sekku is held each year on May 5. This day is designated the national holiday Children''s Day and is also a day of Golden Week. Children''s Day was established in 1948 as a day to respect the personality of children, to seek the happiness of children, and to give thanks to mothers. The traditional event as Tango no Sekku and the national holiday as Children''s Day overlap, and it is now widely established as a day for families to celebrate a child''s growth.
+
+Tango no Sekku is an annual event celebrated in homes throughout the country and is not held at a specific venue. In each home, people display May dolls, raise carp streamers, soak in the iris bath, and celebrate by eating kashiwa-mochi and chimaki. On the other hand, as community events, koinobori festivals raising large numbers of carp streamers over rivers and plazas are held in various places. These are also popular as early-summer tourist events, and there are famous carp-streamer spots throughout the country, such as in Gunma, Saitama, and Kochi Prefectures. The sight of several hundred to more than a thousand carp streamers swimming in the sky is spectacular, and many spectators visit. When visiting such events, it is best to confirm in advance the holding period and access through the tourism information of the host location.
+
+## Around the Area
+
+As Tango no Sekku is an annual event common throughout the country, one can touch its customs throughout Japan, not limited to a specific region. Visiting an area where large-scale carp-streamer events are held, one can encounter the overwhelming sight of countless carp streamers filling the early-summer blue sky. For example, events in which wires are strung across both banks of a river to raise large numbers of carp streamers are held in various places, including Gunma and Kochi Prefectures, and combined with the natural scenery of each land, they create impressive landscapes.
+
+Also, in areas where long-established doll shops handling May dolls and carp streamers gather, one can touch the beauty of festival decorations as traditional crafts. The Iwatsuki district of Saitama City in Saitama Prefecture and the area around Asakusabashi in Tokyo are known as doll towns, where one can see elaborate May dolls made by craftsmen''s handiwork. Furthermore, after the iris, in May, Japanese iris reaches its peak in gardens and botanical gardens in various places. The season of Tango no Sekku is a time of beautiful fresh greenery, comfortable for spending time outdoors. Through this traditional event praying for a child''s growth, one can touch the changing of Japan''s four seasons and the culture of valuing family bonds.
+
+## Related Information
+
+Details on Tango no Sekku can be found in materials on various annual events and in tourism information for regional carp-streamer events. This event is one of the Five Seasonal Festivals held on May 5, a traditional Japanese annual event praying for the healthy growth and success in life of boys. Originally a Chinese-derived event for warding off evil spirits with iris and the like at the turn of the season, it developed in Japan, by way of warrior society, into an event displaying armor, helmets, and May dolls and raising carp streamers to celebrate the growth of boys. It is now widely beloved as the national holiday Children''s Day and is handed down in homes throughout the country, together with the customs of soaking in the iris bath and eating kashiwa-mochi and chimaki. Tracing the meaning carried by each custom—that iris is a homophone of esteeming the martial and of contest, that carp streamers derive from the tale of the Dragon Gate—the depth of parents'' wishes for their children, nurtured by this event over a long history, comes into view.','tango-no-sekku','tango-no-sekku',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17222071','鳥取しゃんしゃん祭','Tottori Shan-Shan Festival','毎年8月中旬に鳥取市で開催されるイベント','a festival in Tottori, Japan',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Shanshan2013-2.jpg','https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E3%81%97%E3%82%83%E3%82%93%E3%81%97%E3%82%83%E3%82%93%E7%A5%AD','https://en.wikipedia.org/wiki/Shan-shan_festival',85,'drafted','鳥取しゃんしゃん祭（とっとりしゃんしゃんまつり）は、鳥取県鳥取市で毎年8月中旬に開催される夏祭りである。鈴のついた色鮮やかな傘を手に、大勢の踊り手が市内の大通りを一斉に踊り歩く「しゃんしゃん傘踊り」で知られ、鳥取市最大の年中行事として親しまれている。
 
 「しゃんしゃん」という名は、傘につけられた多数の鈴が、踊りに合わせて「しゃんしゃん」と涼やかな音を奏でることに由来するとされる。また、鳥取市の名湯・吉岡温泉などの豊富な湯が「しゃんしゃん」と湧き出る様にも掛けられているという。鳥取地方に古くから伝わる「因幡の傘踊り」を、誰もが参加しやすいよう近代に再構成したもので、市民総参加型の祭りとして発展してきた。
@@ -2580,7 +2648,71 @@ The Kanto Taiko Daigassen brings together drum ensembles from across the wider K
 
 Access to the festival is exceptionally convenient, with JR Hachioji Station and Keio Hachioji Station both located in the central festival area, just minutes on foot from the main parade routes. From Shinjuku, Hachioji can be reached in approximately forty minutes by Chuo Line rapid service or forty-five minutes by Keio Line limited express, making the festival an easy addition to any Tokyo itinerary. The wider Tama region offers extensive additional attractions including the celebrated Mount Takao with its temples and hiking trails, the family-oriented Tokyo Summer Land water park, and the rolling hills of Yomiuriland amusement park, allowing visitors to combine traditional festival experience with broader exploration of the natural and recreational landscapes of western Tokyo.','hachioji-matsuri','hachioji-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11249957','TOYAMA地域映画フェスティバル','TOYAMA Regional Film Festival','富山で開催されている映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/TOYAMA%E5%9C%B0%E5%9F%9F%E6%98%A0%E7%94%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3461576','西大寺会陽','Saidai-ji Eyō','岡山市の西大寺で行われる裸祭り',NULL,'Q11627549','西大寺','Saidai-ji Temple',NULL,NULL,NULL,NULL,1510,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hadaka%20Matsuri%20%28-Naked%20Festival-%29%20in%20Saidaiji%2C%20Japan.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q3461576','西大寺会陽','Saidai-ji Eyō','岡山市の西大寺で行われる裸祭り',NULL,'Q11627549','西大寺','Saidai-ji Temple','岡山県','chugoku',NULL,NULL,1510,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hadaka%20Matsuri%20%28-Naked%20Festival-%29%20in%20Saidaiji%2C%20Japan.jpg',NULL,NULL,70,'drafted','## 概要
+
+西大寺会陽（さいだいじえよう）は、岡山県岡山市東区の西大寺（観音院）で行われる裸祭りである。毎年2月、ふんどし姿の数千人の男たちが、福を授かるとされる二本の神木「宝木（しんぎ）」をめぐって激しく奪い合う勇壮な祭りで、「天下の奇祭」「日本三大奇祭」の一つとして全国に知られている。国の重要無形民俗文化財に指定されており、その歴史は500年以上にわたる。深夜、御福窓（ごふくまど）から宝木が投下されると、裸の男たちが押し合いへし合いながら奪い合う光景は圧巻で、熱気と寒さが交錯する真冬の夜に繰り広げられる、日本を代表する裸祭りの一つである。
+
+## 歴史・由来
+
+西大寺会陽の歴史は、遠く奈良時代にまでさかのぼるとされる。その源流は、東大寺の良弁（ろうべん）僧正の高弟であった実忠（じっちゅう）上人が創始した修正会（しゅしょうえ）にあると伝えられる。修正会とは、新年にあたって一年の罪過を懺悔し、国家の安泰・五穀豊穣・無病息災を祈願する仏教の法会である。西大寺でも年の初めに修正会が営まれ、その結願（けちがん・最終日）の行事として、参拝者に守護札を授ける習わしがあった。
+
+この守護札をめぐって、やがて人々が競って奪い合うようになったのが、会陽の直接の起源とされる。当初は紙の護符であったものが、奪い合いの激しさのなかで紙では破れてしまうため、木製の「宝木」へと変わっていったと伝えられる。宝木を手にした者には福が授かるとされ、この信仰が時代を超えて受け継がれ、裸の男たちが宝木を奪い合う現在の形へと発展した。500年以上の歴史を持つとされ、長い年月のなかで多くの人々の信仰を集めながら、岡山を代表する祭りとして守り伝えられてきた。
+
+会陽が「奇祭」と称されるのは、真冬の寒空のもと、数千人もの男たちがふんどし一つの裸身となって、激しく宝木を奪い合うという、その独特で迫力ある祭りの形態による。単なる勇壮さだけでなく、新年の悔過（けか）と福を願う仏教行事に根ざした信仰の祭りであるという点に、会陽の本質がある。国の重要無形民俗文化財に指定されていることは、この祭りが日本の民俗文化を伝える貴重な行事として高く評価されていることを示している。
+
+## 見どころ
+
+西大寺会陽の最大の見どころは、何といっても深夜に繰り広げられる「宝木争奪戦」である。祭りのクライマックスでは、本堂の御福窓から、福を授けるとされる二本の宝木が暗闇のなかへと投下される。これを合図に、境内を埋め尽くした数千人の裸の男たちが、一斉に宝木を求めて激しくもみ合う。湯気が立ちのぼる裸の群衆が、宝木を求めて渦を巻くように押し合う光景は、真冬とは思えないほどの熱気に満ちており、見る者を圧倒する。宝木を手にした者は「福男」と呼ばれ、その年の福を授かるとされる。
+
+祭りに参加する男たちは、冷水で身を清める「垢離取り（こりとり）」を行い、心身を清浄にして本堂へと向かう。寒さに耐えながら福を願う男たちの姿には、信仰の真摯さがにじむ。また、宝木投下に先立って、子どもたちによる「少年会陽」が行われるなど、地域ぐるみで受け継がれてきた行事としての側面も持つ。境内に響き渡る「ワッショイ、ワッショイ」の掛け声と、裸の群衆が放つ熱気は、ほかの祭りでは味わえない独特の迫力がある。冬の夜空のもと、信仰と力がぶつかり合う会陽は、日本三大奇祭の名にふさわしい、一度は見ておきたい祭りである。
+
+## 開催情報・アクセス
+
+西大寺会陽は、例年2月の第3土曜日の夜に、岡山市東区の西大寺（観音院）を会場として行われる。祭りのクライマックスである宝木の投下は、夜の22時頃に行われる。それに先立って、夕方から少年会陽や各種の行事が営まれ、夜が更けるにつれて祭りの熱気が高まっていく。真冬の夜の開催であるため、見物に訪れる際は十分な防寒対策が必要である。
+
+アクセスは、JR赤穂線の西大寺駅が最寄りとなる。西大寺駅から会場の西大寺（観音院）までは、徒歩またはバスでアクセスできる。岡山市の中心部からは、JRやバスで東へ向かうことになる。祭りの当日は大変な混雑となり、周辺では交通規制が敷かれるため、公共交通機関の利用が推奨される。会場周辺は見物客で混み合うので、早めの到着を心がけるとよい。なお、開催日や宝木投下の時刻、行事の詳細は年によって変わる場合があるため、訪れる前に西大寺や岡山市の観光情報など、公式の情報で確認することが確実である。参加を希望する場合は、参加方法や作法について事前によく調べておく必要がある。
+
+## 周辺の見どころ
+
+西大寺会陽の会場となる岡山市は、岡山県の県庁所在地であり、見どころの多い都市である。岡山を代表する名所といえば、日本三名園の一つに数えられる後楽園である。江戸時代に岡山藩主によって造営された広大な大名庭園で、四季折々の美しい景観が楽しめる。後楽園に隣接して、黒い外観から「烏城（うじょう）」とも呼ばれる岡山城がそびえ、庭園とあわせて訪れたい名所である。
+
+少し足を延ばせば、白壁の土蔵が立ち並ぶ美しい町並みで知られる倉敷美観地区がある。江戸時代の風情を残す町並みと、大原美術館をはじめとする文化施設が魅力で、岡山観光の定番スポットとなっている。また、岡山は桃太郎伝説ゆかりの地としても知られ、吉備津神社や吉備津彦神社など、伝説にまつわる古社も点在している。瀬戸内海に面した温暖な気候のもと、新鮮な海の幸や、白桃・マスカットといった名高い果物にも恵まれた土地である。西大寺会陽の見物とあわせて、岡山の歴史・文化・自然・食を巡る旅を楽しむことができるだろう。
+
+## 関連情報
+
+西大寺会陽の詳細は、西大寺（観音院）や岡山市の観光情報で確認できる。本祭りは、奈良時代の修正会にその源流を持つとされ、500年以上の歴史を有する裸祭りで、国の重要無形民俗文化財に指定されている。福を授かるとされる宝木を、数千人の裸の男たちが奪い合う勇壮な行事として、「天下の奇祭」「日本三大奇祭」の一つに数えられ、全国にその名を知られている。新年の悔過と福を願う仏教行事に根ざした信仰の祭りであり、長い年月を経て地域の人々によって守り伝えられてきた。祭りを見物する際、また参加を希望する際は、これが信仰に根ざした伝統行事であることを心にとめ、敬意をもって臨みたい。真冬の夜に繰り広げられる宝木争奪戦の迫力は、日本の祭り文化の奥深さを体感させてくれるだろう。','## Overview
+
+Saidaiji Eyo is a naked festival (hadaka matsuri) held at Saidaiji (Kannon-in) in Higashi-ku, Okayama City, Okayama Prefecture. Each February, thousands of men in loincloths fiercely compete for two sacred wooden sticks called shingi, said to bestow good fortune, in a brave festival known nationwide as one of the great unusual festivals of Japan and one of the Three Great Unusual Festivals of Japan. It is designated an Important Intangible Folk Cultural Property of Japan, and its history spans more than 500 years. The sight of naked men shoving and jostling to seize the shingi when they are dropped from the Gofuku window in the dead of night is overwhelming; unfolding on a midwinter night where heat and cold intersect, it is one of the naked festivals representative of Japan.
+
+## History and Origins
+
+The history of Saidaiji Eyo is said to reach back to the distant Nara period. Its source is said to lie in the Shushoe rite founded by Jitchu Shonin, a high disciple of the priest Roben of Todaiji. The Shushoe is a Buddhist service in which, at the start of the new year, one repents the year''s transgressions and prays for the peace of the nation, bountiful harvests, and good health. At Saidaiji too, the Shushoe was held at the start of the year, and as the event of its kechigan (final day), there was a custom of bestowing protective talismans upon worshipers.
+
+It is said that the direct origin of the Eyo lies in people eventually coming to compete for these protective talismans. The talismans, at first made of paper, tore amid the fierce competition, and so are said to have changed into wooden shingi. The one who obtains a shingi is said to receive good fortune, and this faith was handed down across the ages, developing into the present form in which naked men compete for the shingi. Said to have a history of more than 500 years, it has been protected and handed down as a festival representative of Okayama, gathering the faith of many people over long years.
+
+The reason the Eyo is called an unusual festival lies in its distinctive and powerful form, in which under the cold midwinter sky, thousands of men become naked but for a loincloth and fiercely compete for the shingi. The essence of the Eyo lies not merely in its bravery but in its being a festival of faith rooted in a Buddhist event praying for new-year repentance and good fortune. Its designation as an Important Intangible Folk Cultural Property of Japan shows that this festival is highly valued as a precious event conveying the folk culture of Japan.
+
+## Highlights
+
+The greatest highlight of Saidaiji Eyo is, above all, the scramble for the shingi that unfolds in the dead of night. At the festival''s climax, the two shingi said to bestow good fortune are dropped into the darkness from the Gofuku window of the main hall. At this signal, the thousands of naked men filling the precincts all at once fiercely grapple in search of the shingi. The sight of the steam-rising naked crowd swirling and pushing in search of the shingi is filled with a heat unimaginable for midwinter, overwhelming the viewer. The one who obtains a shingi is called the fuku-otoko (man of fortune) and is said to receive that year''s good fortune.
+
+The men taking part in the festival perform kori-tori, purifying themselves with cold water, and head to the main hall with body and mind made pure. In the figures of men praying for fortune while enduring the cold, the sincerity of faith shows through. Also, prior to the dropping of the shingi, a Shonen Eyo (boys'' Eyo) by children is held, giving it the aspect of an event handed down by the whole community. The call of Wasshoi, Wasshoi echoing through the precincts and the heat given off by the naked crowd have a distinctive power not to be tasted at other festivals. The Eyo, where faith and strength collide under the winter night sky, is a festival worth seeing at least once, befitting its name as one of the Three Great Unusual Festivals of Japan.
+
+## Event Information and Access
+
+Saidaiji Eyo is held on the night of the third Saturday of February, usually, with Saidaiji (Kannon-in) in Higashi-ku, Okayama City, as the venue. The dropping of the shingi, the festival''s climax, is held around 22:00 at night. Prior to it, the Shonen Eyo and various events are held from the evening, and as the night deepens, the heat of the festival rises. As it is held on a midwinter night, ample cold-weather measures are necessary when visiting to watch.
+
+For access, Saidaiji Station on the JR Ako Line is the nearest. From Saidaiji Station to the venue of Saidaiji (Kannon-in), one can access on foot or by bus. From central Okayama City, one heads east by JR or bus. On the day of the festival it becomes very crowded and traffic restrictions are imposed in the surroundings, so use of public transportation is recommended. As the area around the venue is crowded with spectators, it is best to aim to arrive early. As the holding date, the time of the shingi dropping, and event details may change from year to year, it is reliable to confirm through official information such as the tourism information of Saidaiji and Okayama City before visiting. If one wishes to participate, it is necessary to research the method of participation and etiquette well in advance.
+
+## Around the Area
+
+Okayama City, the venue of Saidaiji Eyo, is the prefectural capital of Okayama Prefecture and a city with many attractions. A noted place representative of Okayama is Korakuen, counted as one of the Three Great Gardens of Japan. A vast feudal-lord garden created in the Edo period by the lord of the Okayama domain, it offers beautiful scenery of the four seasons. Adjacent to Korakuen towers Okayama Castle, also called Ujo (Crow Castle) for its black exterior, a noted place to visit together with the garden.
+
+A little farther afield is the Kurashiki Bikan Historical Quarter, known for its beautiful townscape lined with white-walled storehouses. The townscape retaining the atmosphere of the Edo period and cultural facilities including the Ohara Museum of Art are its appeal, making it a standard spot for Okayama sightseeing. Okayama is also known as the land associated with the Momotaro legend, and ancient shrines connected to the legend, such as Kibitsu Shrine and Kibitsuhiko Shrine, are scattered about. Under a mild climate facing the Seto Inland Sea, it is a land blessed with fresh seafood and with renowned fruits such as white peaches and muscat grapes. Together with viewing Saidaiji Eyo, one can enjoy a journey touring the history, culture, nature, and food of Okayama.
+
+## Related Information
+
+Details on Saidaiji Eyo can be found in the tourism information of Saidaiji (Kannon-in) and Okayama City. This festival is said to have its source in the Shushoe rite of the Nara period and is a naked festival with a history of more than 500 years, designated an Important Intangible Folk Cultural Property of Japan. As a brave event in which thousands of naked men compete for the shingi said to bestow good fortune, it is counted as one of the great unusual festivals of Japan and one of the Three Great Unusual Festivals of Japan, its name known nationwide. It is a festival of faith rooted in a Buddhist event praying for new-year repentance and good fortune, protected and handed down by local people over long years. When viewing the festival, or when wishing to participate, one should bear in mind that this is a traditional event rooted in faith, and approach it with respect. The power of the scramble for the shingi unfolding on a midwinter night will let one experience the depth of Japan''s festival culture.','saidaiji-eyo','saidaiji-eyo',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q720663','浅草サンバカーニバル','Samba Carnival of Asakusa','東京都台東区浅草で行われるサンバのパレード',NULL,'Q720644','浅草','Asakusa','東京都','kanto',NULL,NULL,1981,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asakusa-Samba-Carnival-parade.jpg','https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%B5%E3%83%B3%E3%83%90%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB',NULL,85,'drafted','## 概要
 
 浅草サンバカーニバル（あさくささんばカーニバル）は、東京都台東区の浅草で例年8月下旬に開催される、日本最大級のサンバの祭典です。正式には「浅草サンバカーニバルパレードコンテスト」と呼ばれ、各地から参加するサンバチームが、馬道通りから雷門通りにかけての約700メートルのコースをパレードし、その華やかさや技術を競い合います。色鮮やかな衣装と山車、力強いサンバのリズムが下町・浅草の街を埋め尽くす光景は、東京の夏を締めくくる一大イベントとして親しまれています。
@@ -6950,7 +7082,7 @@ INSERT INTO "festivals" VALUES('Q124423382','サッポロ・ミュージック�
 INSERT INTO "festivals" VALUES('Q123185718','DESIGNART TOKYO','Designart Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/DESIGNART_TOKYO',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q121645849','JAMAICA FESTIVAL レゲエ＆キュイジーヌ','Jamaica Festival Reggae & Cuisine in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q123235651','洪鐘弁天大祭','Ōgane Benten Taisai','鎌倉市の祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B4%AA%E9%90%98%E5%BC%81%E5%A4%A9%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q116838032','山鉾','Kyoto Gion Festival Yamahoko Parade','京都祇園祭で巡行される山車',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Matsuri%202017-5.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q116838032','山鉾','Kyoto Gion Festival Yamahoko Parade','京都祇園祭で巡行される山車',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Matsuri%202017-5.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q122272702','神田カレーグランプリ','Kanda Curry Grand Prix','東京都千代田区神田で毎年秋に開催されるカレーのイベント',NULL,'Q338861','神田','Kanda','東京都','kanto',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kanda%20Curry%20Grand%20Prix%202013%20Winner%27s%20Trophy%20%40%20Hinoya%20%40%20Kanda%20%2812326141433%29.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA',NULL,85,'drafted','神田カレーグランプリ（かんだカレーグランプリ）は、東京都千代田区の神田・神保町地区で毎年秋に開催されるカレーのイベントである。「カレーの街」として知られる神田の数多くのカレー店が一堂に会し、来場者の投票によってその年のナンバーワンを決定する、食をテーマにした人気の年中行事である。
 
 神田・神保町は、古書店街やオフィス街として知られると同時に、個性豊かなカレー店がひしめく日本有数のカレー激戦区である。この地の利を活かして始まった神田カレーグランプリは、予選を勝ち抜いた人気店が出店し、来場者が実際に食べ比べて投票するという参加型のイベントとして、多くのカレーファンを集めている。優勝した店には栄誉が与えられ、翌年の集客にもつながるため、各店は腕によりをかけて自慢の一皿を提供する。
@@ -7172,7 +7304,7 @@ INSERT INTO "festivals" VALUES('Q132449320','よこすか開国花火大会','Yo
 The name "Kaikoku" (opening of the country) derives from Yokosuka''s important role in Japan''s modern history. In 1853, at the end of the Edo period, the Black Ships led by Perry arrived off Uraga in Yokosuka. In reference to this historic event becoming the catalyst for Japan''s opening to the world, the fireworks display bears the name "Kaikoku"—a locally rooted naming imbued with Yokosuka''s history and pride in the sea.
 
 A distinctive feature of this fireworks display is the beauty of the fireworks launched from the sea, set against the backdrop of ships passing through Tokyo Bay and the scenery of the opposite shore. Large shells and star mines are launched one after another, offering a double brilliance together with the light reflected on the sea''s surface. With a composition that launches fireworks intensively in a relatively short time, its dense and powerful staging draws popularity. Splendidly coloring the summer night sky of Yokosuka, a town of sea and history, this fireworks display has become a summer tradition cherished by locals and tourists alike.','yokosuka-kaikoku-fireworks-festival','yokosuka-kaikoku-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q126413848','第66回築地本願寺納涼盆踊り大会','Tsukiji Honganji Bon Dance Festival 2013','2013年に行われた祭り',NULL,'Q943255','築地本願寺','Tsukiji Hongan-ji Temple','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsukiji%20Honganji%20Bon%20Dance%20Festival%20%289434417100%29.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q126413848','第66回築地本願寺納涼盆踊り大会','Tsukiji Honganji Bon Dance Festival 2013','2013年に行われた祭り',NULL,'Q943255','築地本願寺','Tsukiji Hongan-ji Temple','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsukiji%20Honganji%20Bon%20Dance%20Festival%20%289434417100%29.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q125959947','荒処の沼入り梵天','Numa-iri Bonden','秋田県横手市で行われる伝統行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.282638888,140.528027777,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Numa-iri%20Bonden%20at%20Yokote%2C%20Daigo%2C%20Aratokoro%20202405a.jpg','https://ja.wikipedia.org/wiki/%E8%8D%92%E5%87%A6%E3%81%AE%E6%B2%BC%E5%85%A5%E3%82%8A%E6%A2%B5%E5%A4%A9',NULL,95,'drafted','## 概要
 
 荒処の沼入り梵天（あらどころのぬまいりぼんでん）は、秋田県横手市平鹿町下鞭（しもむち）の荒処地区で毎年2月に行われる小正月の伝統行事である。氏子たちが「梵天（ぼんでん）」と呼ばれる五穀豊穣・無病息災の祈りを込めた依り代を担ぎ、極寒の沼に飛び込んで奉納する勇壮な雪国の祭礼として知られる。
@@ -7896,7 +8028,75 @@ Oshaku Shrine is a historic shrine that has long gathered reverence as the guard
 INSERT INTO "festivals" VALUES('Q109596038','活性の火',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B4%BB%E6%80%A7%E3%81%AE%E7%81%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q109599618','MORNING RIVER SUMMIT',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/MORNING_RIVER_SUMMIT',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q105837985','でやんな祭',NULL,NULL,NULL,'Q543193','西ノ島町','Nishinoshima',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q99520825','両国花火','Ryōgoku hanabi','江戸時代に両国川開きの際に開催されていた花火大会',NULL,'Q3083463','両国','Ryōgoku','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/100%20views%20edo%20098.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q99520825','両国花火','Ryōgoku hanabi','江戸時代に両国川開きの際に開催されていた花火大会',NULL,'Q3083463','両国','Ryōgoku','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/100%20views%20edo%20098.jpg',NULL,NULL,70,'drafted','## 概要
+
+両国花火（りょうごくはなび）は、江戸時代に東京・両国の隅田川（大川）で、「両国川開き」の際に開催されていた花火大会である。現在、東京の夏の風物詩として知られる隅田川花火大会の前身にあたる。江戸の夜空を彩った両国の花火は、「鍵屋（かぎや）」「玉屋（たまや）」という花火師の屋号にちなんだ「鍵屋ー」「玉屋ー」という掛け声でも知られ、江戸庶民にとって夏の最大の娯楽の一つであった。隅田川にかかる両国橋付近を舞台に、川面に映る花火と、橋や屋形船にひしめく見物客の熱気が一体となった光景は、浮世絵にも数多く描かれ、江戸の夏の華やかさを今に伝えている。
+
+## 歴史・由来
+
+両国花火の起源については、享保18年（1733年）に始まったとする説が広く知られている。この説によれば、当時、江戸では飢饉や疫病（コレラとも伝えられる）が流行し、多くの死者が出た。時の8代将軍・徳川吉宗は、その死者の供養と悪疫退散を祈願して、隅田川で水神祭を催したとされる。このとき、両国周辺の料理屋などが花火を打ち上げたのが「両国川開き」の始まりであり、両国花火の起こりであると伝えられている。ただし、この1733年起源説については、後世に整えられた由緒である可能性も指摘されており、花火大会の正確な始まりの年については、史料の解釈をめぐって議論がある。そのため、ここでは広く語られる通説として紹介するにとどめ、断定は避けたい。
+
+「川開き」とは、夏の間の納涼船の営業が始まることを示す行事で、その初日を祝って花火が打ち上げられた。隅田川の川開きは旧暦5月28日に行われ、これを境に夏の納涼の季節が始まった。両国橋のたもとには茶屋や見世物小屋が立ち並び、川には屋形船や納涼船が浮かび、花火見物の人々で大いににぎわった。
+
+花火を手がけた花火師として名高いのが「鍵屋」と「玉屋」である。鍵屋は、万治2年（1659年）頃に大和国（現在の奈良県）篠原村から江戸に出てきた弥兵衛が興したと伝えられる花火屋で、江戸の花火を代表する存在となった。のちに鍵屋から暖簾分けして「玉屋」が生まれ、両者は隅田川をはさんで花火の腕を競い合った。見物人が「鍵屋ー」「玉屋ー」と贔屓の花火師の屋号を呼んで声援を送る光景は、両国花火の名物となり、現在でも花火の掛け声として「たまやー」「かぎやー」の言葉が残っている。
+
+## 見どころ
+
+両国花火は現在は隅田川花火大会としてその伝統が受け継がれているが、江戸時代の両国花火が持っていた魅力は、単なる花火の美しさだけにとどまらない。最大の見どころは、隅田川という都市を流れる大河を舞台にした、花火と水辺の景観の一体感である。打ち上げられた花火が夜空を彩るだけでなく、その光が川面に映り込み、二重の華やかさを生み出す。両国橋の上や、川に浮かぶ屋形船・納涼船からの花火見物は、江戸の人々にとって最高の夏の娯楽であった。
+
+もう一つの見どころは、「鍵屋」「玉屋」という二大花火師による技の競演である。隅田川をはさんで上流と下流に分かれた両者が、それぞれ趣向を凝らした花火を打ち上げ、その出来栄えを競い合った。見物人は贔屓の花火師の屋号を呼んで声援を送り、川辺は熱気に包まれた。この競い合いが、江戸の花火の技術を大きく発展させたといわれる。
+
+そして、両国花火の情景は、葛飾北斎や歌川広重をはじめとする浮世絵師たちによって数多く描かれた。夜空に開く大輪の花火、にぎわう両国橋、川面を埋める船々といった光景は、江戸の夏を象徴する画題として親しまれ、当時の祭りのにぎわいを今に伝える貴重な記録ともなっている。これらの浮世絵を通して、現代の私たちも江戸の花火の華やかさを思い描くことができる。
+
+## 開催情報・アクセス
+
+両国花火は江戸時代の歴史的な花火大会であり、その伝統は現在、隅田川花火大会として受け継がれている。隅田川花火大会は、例年7月の最終土曜日に、隅田川の桜橋下流から言問橋上流、駒形橋下流から厩橋上流の二会場で開催され、東京の夏を代表する一大イベントとなっている。江戸の両国川開きの伝統を継ぐ大会として、毎年多くの見物客でにぎわう。
+
+歴史の舞台となった両国エリアへのアクセスは、JR総武線・都営大江戸線の両国駅が便利である。両国橋周辺は、かつて花火でにぎわった面影を探しながら散策するのにふさわしい場所である。現在の隅田川花火大会を見物する場合は、会場周辺は大変な混雑となり、広範囲で交通規制が敷かれるため、公共交通機関の利用が必須である。例年100万人前後の人出があるため、見物には早めの場所取りや、混雑を避ける工夫が求められる。正確な開催日や会場、打ち上げ時間は年によって変わるため、事前に主催者の公式情報で確認することが大切である。
+
+## 周辺の見どころ
+
+両国花火ゆかりの両国エリアは、江戸の文化と歴史が色濃く残る地域である。両国といえば、何といっても大相撲の聖地・両国国技館がある。大相撲の本場所が開催される時期には、まわし姿の力士が町を歩く姿も見られ、相撲の街ならではの雰囲気を味わえる。国技館に隣接して、江戸東京博物館（建て替え等で休館期間がある場合あり）があり、江戸時代から近現代までの東京の歴史と文化を学ぶことができる。
+
+また、隅田川沿いには、江戸の風情を感じられる名所が点在している。隅田川に架かる数々の橋を巡りながら川辺を歩けば、水の都・江戸の面影を感じることができる。少し足を延ばせば、東京スカイツリーがそびえる押上エリアや、下町情緒あふれる浅草も近い。浅草寺や仲見世通りは、国内外から多くの観光客が訪れる人気スポットである。江戸の花火が彩った隅田川と、その周辺に広がる下町の風情は、東京の歴史の奥深さを感じさせてくれる。両国花火の歴史に思いをはせながら、江戸情緒あふれるこのエリアを巡る散策は、味わい深いものとなるだろう。
+
+## 関連情報
+
+両国花火の詳細は、隅田川花火大会の公式情報や、東京・両国エリアの歴史・観光情報で確認できる。本花火は江戸時代に隅田川（大川）の両国川開きの際に行われていた花火大会で、現在の隅田川花火大会の前身にあたる。享保18年（1733年）に8代将軍徳川吉宗が死者供養と悪疫退散を祈願して催した水神祭に始まるとする説が広く知られているが、この起源年については史料解釈をめぐる議論があり、後世に整えられた由緒の可能性も指摘されているため、断定は避けて通説として紹介した。「鍵屋」「玉屋」という二大花火師の競演や、浮世絵に数多く描かれた華やかな情景など、両国花火は江戸の夏を象徴する文化として、現代にもその名残をとどめている。隅田川花火大会として受け継がれるこの伝統は、日本の花火文化の豊かさを今に伝える貴重な存在である。','## Overview
+
+Ryogoku Hanabi refers to the fireworks display held in the Edo period on the Sumida River (Okawa) at Ryogoku in Tokyo, on the occasion of the Ryogoku Kawabiraki (river opening). It is the predecessor of the Sumida River Fireworks Festival, known today as a seasonal feature of summer in Tokyo. The Ryogoku fireworks that colored the night sky of Edo are also known for the calls Kagiya and Tamaya, derived from the trade names of the fireworks artisans, and were one of the greatest entertainments of summer for the common people of Edo. With the area around Ryogoku Bridge over the Sumida River as the stage, the sight in which the fireworks reflected on the river surface and the heat of spectators crowding the bridge and pleasure boats became one was depicted in many ukiyo-e, conveying to this day the splendor of summer in Edo.
+
+## History and Origins
+
+Regarding the origin of Ryogoku Hanabi, the theory that it began in 1733 (Kyoho 18) is widely known. According to this theory, at the time famine and epidemic (said also to be cholera) raged in Edo, producing many deaths. The eighth shogun of the time, Tokugawa Yoshimune, is said to have held a Suijin festival (water-deity festival) on the Sumida River, praying for the repose of the dead and the dispelling of the plague. At this time, restaurants and the like around Ryogoku launched fireworks, and this is said to be the beginning of the Ryogoku Kawabiraki and the origin of Ryogoku Hanabi. However, regarding this 1733 origin theory, it has been pointed out that it may be a lineage arranged in later ages, and there is debate over interpretation of historical sources regarding the exact starting year of the fireworks display. Therefore, here it is introduced only as a widely told common account, and assertion is avoided.
+
+Kawabiraki is an event marking the start of the cool-of-evening boat business during summer, and fireworks were launched to celebrate its first day. The Sumida River kawabiraki was held on the 28th day of the fifth month of the old calendar, and from this point the season of summer evening cool began. At the foot of Ryogoku Bridge, teahouses and show booths lined up, and on the river pleasure boats and cool-of-evening boats floated, greatly bustling with people viewing fireworks.
+
+Famed as the fireworks artisans who handled the fireworks are Kagiya and Tamaya. Kagiya is said to be a fireworks shop founded by Yahei, who came to Edo from Shinohara village in Yamato Province (present-day Nara Prefecture) around 1659, and it became a presence representative of Edo fireworks. Later, Tamaya was born by branching off from Kagiya, and the two competed in fireworks skill across the Sumida River. The sight of spectators calling out the trade names of their favorite fireworks artisans, Kagiya and Tamaya, in cheer became a feature of Ryogoku Hanabi, and even today the words Tamaya and Kagiya remain as fireworks calls.
+
+## Highlights
+
+Ryogoku Hanabi now has its tradition carried on as the Sumida River Fireworks Festival, but the appeal that Edo-period Ryogoku Hanabi held does not stop at the mere beauty of the fireworks. The greatest highlight is the unity of fireworks and waterside scenery, with the great river flowing through the city, the Sumida River, as the stage. The launched fireworks not only color the night sky, but their light is reflected on the river surface, producing a double splendor. Viewing fireworks from atop Ryogoku Bridge or from pleasure boats and cool-of-evening boats floating on the river was the finest summer entertainment for the people of Edo.
+
+Another highlight is the competition of skill by the two great fireworks artisans Kagiya and Tamaya. Divided upstream and downstream across the Sumida River, the two each launched ingeniously devised fireworks and competed over their quality. Spectators called out the trade names of their favorite artisans in cheer, and the riverside was wrapped in heat. This competition is said to have greatly developed the technology of Edo fireworks.
+
+And the scenes of Ryogoku Hanabi were depicted in many ukiyo-e by artists including Katsushika Hokusai and Utagawa Hiroshige. Scenes such as the great blooms of fireworks opening in the night sky, the bustling Ryogoku Bridge, and the boats filling the river surface were beloved as subjects symbolizing summer in Edo, and have also become precious records conveying the bustle of the festivals of that time. Through these ukiyo-e, we today can also picture the splendor of Edo fireworks.
+
+## Event Information and Access
+
+Ryogoku Hanabi was a historic fireworks display of the Edo period, and its tradition is now carried on as the Sumida River Fireworks Festival. The Sumida River Fireworks Festival is held, usually on the last Saturday of July, at two venues—downstream of Sakurabashi to upstream of Kototoibashi, and downstream of Komagatabashi to upstream of Umayabashi—and has become a major event representative of summer in Tokyo. As a festival continuing the tradition of the Edo Ryogoku Kawabiraki, it bustles each year with many spectators.
+
+For access to the Ryogoku area, the historic stage, Ryogoku Station on the JR Sobu Line and Toei Oedo Line is convenient. The area around Ryogoku Bridge is a fitting place to stroll while seeking traces of the bustle of fireworks past. When viewing the present Sumida River Fireworks Festival, the area around the venue becomes very crowded and traffic restrictions are imposed over a wide area, so use of public transportation is essential. As there is a turnout of around one million people each year, viewing requires securing a spot early and devising ways to avoid the crowds. As the exact holding date, venue, and launch time change from year to year, it is important to confirm in advance through the organizer''s official information.
+
+## Around the Area
+
+The Ryogoku area connected to Ryogoku Hanabi is a region where the culture and history of Edo strongly remain. When it comes to Ryogoku, above all there is the Ryogoku Kokugikan, the sacred ground of grand sumo. During the period when the main grand sumo tournaments are held, one can see wrestlers in mawashi walking the town, savoring the atmosphere unique to a sumo town. Adjacent to the Kokugikan is the Edo-Tokyo Museum (which may have closure periods for renovation, etc.), where one can learn the history and culture of Tokyo from the Edo period to modern times.
+
+Also, along the Sumida River, noted places where one can feel the atmosphere of Edo are scattered. Walking the riverside while touring the many bridges spanning the Sumida River, one can feel the traces of Edo, the city of water. A little farther afield, the Oshiage area where Tokyo Skytree towers, and Asakusa, full of old downtown atmosphere, are also near. Sensoji Temple and Nakamise-dori are popular spots visited by many tourists from Japan and abroad. The Sumida River that the fireworks of Edo colored, and the downtown atmosphere spreading around it, let one feel the depth of Tokyo''s history. A stroll touring this area full of Edo atmosphere while reflecting on the history of Ryogoku Hanabi will be a deeply rewarding one.
+
+## Related Information
+
+Details on Ryogoku Hanabi can be found in the official information of the Sumida River Fireworks Festival and in the history and tourism information of the Ryogoku area of Tokyo. This fireworks display was held in the Edo period on the occasion of the Ryogoku Kawabiraki of the Sumida River (Okawa) and is the predecessor of the present Sumida River Fireworks Festival. The theory that it began with the Suijin festival held by the eighth shogun Tokugawa Yoshimune in 1733, praying for the repose of the dead and the dispelling of the plague, is widely known, but regarding this origin year there is debate over interpretation of historical sources, and it has been pointed out that it may be a lineage arranged in later ages, so assertion is avoided and it is introduced as a common account. The competition of the two great fireworks artisans Kagiya and Tamaya, and the splendid scenes depicted in many ukiyo-e—Ryogoku Hanabi retains its traces even today as a culture symbolizing summer in Edo. This tradition, carried on as the Sumida River Fireworks Festival, is a precious presence conveying to the present the richness of Japan''s fireworks culture.','ryogoku-hanabi','ryogoku-hanabi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q113470456','大須夏まつり','Osu Summer Festival','名古屋市中区大須商店街で毎年8月に行われる催し',NULL,'Q8081716','大須','Ōsu',NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q112571725','熱田まつり','Atsuta Matsuri','名古屋市熱田区で毎年6月に開催される祭り',NULL,NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Styai2154.JPG',NULL,NULL,70,'drafted','## 概要
 
@@ -8253,7 +8453,7 @@ INSERT INTO "festivals" VALUES('Q135039147','合祀：辛国神社','Nakanono Sh
 INSERT INTO "festivals" VALUES('Q135039297','合祀：畠田神社','Sakikurusuno Shrine co-EnShrinement',NULL,NULL,NULL,NULL,NULL,'愛知県','chubu',34.586722,136.619545,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135041089','合祀：塩冶神社','Yamuya- Shrine (Co-Enshrinement)',NULL,NULL,NULL,NULL,NULL,'島根県','chugoku',35.352363,132.764298,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135041278','麻為比売神社','Tsuwada Tenman-gu Shrine','和歌山県和歌山市秋月 にある神社',NULL,NULL,NULL,NULL,'大阪府','kinki',34.222123,135.203507,NULL,NULL,NULL,NULL,NULL,NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q134883698','グルメバーガー日本一決定戦','JAPAN BURGER CHAMPIONSHIP 2025','2025年6月13日から6月15日まで横浜赤レンガ倉庫で開催されるグルメバーガー日本一決定戦',NULL,'Q5363823','横浜赤レンガ倉庫','Yokohama Red Brick Warehouse','神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/JAPAN%20BURGER%20CHAMPIONSHIP%202025%20%E6%A8%AA%E6%B5%9C%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB%202025%E5%B9%B46%E6%9C%8813%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506131801%20IMG%206929.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q134883698','グルメバーガー日本一決定戦','JAPAN BURGER CHAMPIONSHIP 2025','2025年6月13日から6月15日まで横浜赤レンガ倉庫で開催されるグルメバーガー日本一決定戦',NULL,'Q5363823','横浜赤レンガ倉庫','Yokohama Red Brick Warehouse','神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/JAPAN%20BURGER%20CHAMPIONSHIP%202025%20%E6%A8%AA%E6%B5%9C%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB%202025%E5%B9%B46%E6%9C%8813%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202506131801%20IMG%206929.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135040253','高向神社','Takamukuno Shrine',NULL,NULL,NULL,NULL,NULL,'石川県','chubu',36.121221,136.283128,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039159','合祀：大鳥美波比神社','Woshihakeno Shrine',NULL,NULL,NULL,NULL,NULL,'大阪府','kinki',34.536216,135.461493,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135039294','畠田神社','Hatada Shrine','三重県多気郡多気町仁田 にある神社',NULL,NULL,NULL,NULL,'愛知県','chubu',34.586694444,136.6195,NULL,NULL,NULL,NULL,NULL,NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -9511,7 +9711,7 @@ INSERT INTO "festivals" VALUES('Q135746980','若宮神社例大祭','Wakamiya Ji
 INSERT INTO "festivals" VALUES('Q135197934','（合祀）大和神社','Nomatano Shrine Co-EnShrinement',NULL,'A candidate shrine for Nomatano shrine',NULL,NULL,NULL,'岡山県','chugoku',34.797334,133.702072,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136343885','木曽音楽祭','Kiso Music Festival',NULL,'music festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,1975,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9B%BD%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136917504','みなとみらいスマートフェスティバル',NULL,'日本の神奈川県横浜市で開催される花火の打ち上げを中心としたイベント',NULL,NULL,NULL,NULL,'神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q136512405','ル・ポン国際音楽祭','Le Pont International Music Festival',NULL,'music festival in Japan','Q424813','赤穂市','Ako',NULL,NULL,NULL,NULL,2007,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%A4%E7%A9%82%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD%20%E3%83%97%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BC%88%E8%B5%A4%E7%A9%82%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%EF%BC%89%20-%20panoramio.jpg',NULL,NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q136512405','ル・ポン国際音楽祭','Le Pont International Music Festival',NULL,'music festival in Japan','Q424813','赤穂市','Ako',NULL,NULL,NULL,NULL,2007,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%A4%E7%A9%82%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD%20%E3%83%97%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%EF%BC%88%E8%B5%A4%E7%A9%82%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%EF%BC%89%20-%20panoramio.jpg',NULL,NULL,65,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136375503',NULL,'Midsummer Swimsuit Festival',NULL,'swimsuit festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Midsummer%20Swimsuit%20Festival%20%28July%203%2C%202025%29DSC%208424.jpg',NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135503328','春日若宮神社例祭','Kasuga Wakamiya Shrine Annual Festival',NULL,NULL,'Q135460037','春日若宮神社','Kasuga Wakamiya Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136544536','毎朝御拝','Maichō Gohai','近代以前の天皇が毎朝行っていた宮中祭祀',NULL,'Q134962448','石灰壇','Ishibai no Dan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%AF%8E%E6%9C%9D%E5%BE%A1%E6%8B%9D',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -9522,7 +9722,7 @@ INSERT INTO "festivals" VALUES('Q135194742','（合祀）牧岡神社（足羽�
 INSERT INTO "festivals" VALUES('Q135206688','旧鎮座地','Kaden Shrine Former Site',NULL,'A candidate shrine for Kaden Shrine',NULL,NULL,NULL,'大阪府','kinki',34.521771,135.526366,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135500947','北野天満宮例祭','Kitano Shrine Annual Festival',NULL,NULL,'Q662176','北野天満宮','Kitano Tenmangū','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135195742','氷川神社合祀三崎神社','Co-Enshrinement of Shishichino Shrine',NULL,'A candidate shrine for Shishichino shrine',NULL,NULL,NULL,'埼玉県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q135989693','渋谷アオハル2.0祭 2025','SHIBUYA AOHARU 2.0 2025','2025年8月16日と17日に渋谷区立宮下公園で開催された「渋谷アオハル2.0祭」',NULL,'Q6884419','宮下公園','Miyashita Park','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%8B%E8%B0%B7%E3%82%A2%E3%82%AA%E3%83%8F%E3%83%AB2.0%E7%A5%AD%202025%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%AE%AE%E4%B8%8B%E5%85%AC%E5%9C%92%202025%E5%B9%B48%E6%9C%8816%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7%20202508161737%20DSCN4907.jpg',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q135989693','渋谷アオハル2.0祭 2025','SHIBUYA AOHARU 2.0 2025','2025年8月16日と17日に渋谷区立宮下公園で開催された「渋谷アオハル2.0祭」',NULL,'Q6884419','宮下公園','Miyashita Park','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%8B%E8%B0%B7%E3%82%A2%E3%82%AA%E3%83%8F%E3%83%AB2.0%E7%A5%AD%202025%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%AE%AE%E4%B8%8B%E5%85%AC%E5%9C%92%202025%E5%B9%B48%E6%9C%8816%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7%20202508161737%20DSCN4907.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135194703','清瀧神社（合祀）','Co-Enshrinement of Kuninariohonono Shrine',NULL,'A candidate shrine for Kuninariohonono shrine',NULL,NULL,NULL,'岐阜県','chubu',35.981848,136.480389,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135194598','大虫神社相殿（合祀）','Co-Enshrinement of Ikatsuchi Shrine',NULL,'A candidate shrine for Ikatsuchi shrine',NULL,NULL,NULL,'福井県','chubu',35.901049,136.126531,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q138330871','KOBE MELLOW CRUISE','KOBE MELLOW CRUISE','神戸で開催される都市型野外音楽フェス','An urban outdoor music festival held in Kobe','Q109360212','GLION ARENA KOBE',NULL,NULL,NULL,NULL,NULL,2022,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/KOBE_MELLOW_CRUISE',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -11782,7 +11982,79 @@ INSERT INTO "festivals" VALUES('Q11644507','采女祭','Uneme Matsuri','奈良�
 This festival is based on a sorrowful tale from the Nara period. It is said that an uneme—a court lady serving the emperor—who grieved at losing the emperor''s affection, threw herself into Sarusawa Pond and ended her life. Uneme Shrine was built to console her spirit, and a curious legend remains that the shrine building stands with its back to the pond, as it could not bear to look upon the waters into which she cast herself.
 
 The festival''s greatest highlight is the "Kangen-bune rite" held on the night of the harvest moon. As gagaku court music plays, two ornate boats shaped with a dragon head and a mythical bird''s head slowly circle Sarusawa Pond, carrying a "hana-ōgi" flower fan. The scene woven by the full moon reflected on the water, the lantern light, and the strains of gagaku is as elegant as a Heian picture-scroll. Unfolding over the long autumn night, this festival conveys to the present the legend handed down in the ancient capital and the refinement of court culture.','uneme-matsuri','uneme-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の誕生日を祝う祭り（灌仏会）に対する日本語の名称。名称の発生は明治期','Buddha''s birthday festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/A%20birthday%20of%20Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG',NULL,NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の誕生日を祝う祭り（灌仏会）に対する日本語の名称。名称の発生は明治期','Buddha''s birthday festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/A%20birthday%20of%20Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG',NULL,NULL,70,'drafted','## 概要
+
+花祭り（はなまつり）は、釈迦（しゃか）の誕生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合もある）に、全国の寺院で営まれる。色とりどりの花で飾った小さなお堂「花御堂（はなみどう）」の中に、誕生したばかりの釈迦の姿をかたどった「誕生仏（たんじょうぶつ）」を安置し、参拝者がその誕生仏に甘茶（あまちゃ）をそそいで祝うのが、この行事の中心である。「花祭り」という呼び名は明治期に生まれたとされ、それ以前は灌仏会・仏生会（ぶっしょうえ）・降誕会（ごうたんえ）などと呼ばれていた。春の花が咲き誇る季節に、仏教の開祖である釈迦の誕生を、花とともに祝う、心和む行事である。
+
+## 歴史・由来
+
+花祭り（灌仏会）は、仏教の開祖である釈迦の誕生日を祝う行事であり、その起源は仏教そのものの歴史にまでさかのぼる。釈迦は、今から約2500年前、インドの北部（現在のネパール付近）のルンビニーの花園で、シャーキャ族の王子として誕生したと伝えられる。その誕生にまつわる伝説が、花祭りの儀礼の由来となっている。
+
+行事の中心である「甘茶をそそぐ」習わしは、釈迦が誕生したとき、天から甘い露（甘露の雨）が降りそそぎ、その身を洗い清めたという伝説に由来する。この甘露の雨を模して、参拝者が誕生仏に甘茶をかけるのである。甘茶は、ユキノシタ科のアマチャの葉を煎じて作る甘い飲み物で、花祭りには欠かせないものとなっている。また、花御堂は、釈迦が誕生したルンビニーの花園を表したものとされ、色とりどりの花で飾られる。
+
+誕生仏は、生まれたばかりの釈迦の姿をかたどった像で、右手を天に、左手を地に向けて立つ独特の姿をしている。これは、釈迦が誕生してすぐに七歩歩み、右手で天を、左手で地を指して「天上天下唯我独尊（てんじょうてんげゆいがどくそん）」と唱えたという伝説に基づいている。この言葉は、すべての人間が等しく尊い存在であることを説いたものと解釈されている。
+
+「花祭り」という親しみやすい呼び名が一般に用いられるようになったのは、明治期以降とされる。それ以前は、灌仏会や仏生会といった呼称が使われていた。花御堂を花で美しく飾ることから「花祭り」と呼ばれるようになり、この名が広く定着した。江戸時代には、この日は町中がお祝いの雰囲気に包まれたと伝えられ、古くから人々に親しまれてきた仏教行事である。
+
+## 見どころ
+
+花祭りの見どころは、何といっても色とりどりの花で美しく飾られた花御堂と、参拝者が誕生仏に甘茶をそそぐ厳かで心和む儀礼である。春の花々で彩られた花御堂は、見るだけでも華やかで、釈迦が誕生したルンビニーの花園の情景を思い起こさせる。その中央に安置された小さな誕生仏に、参拝者が柄杓（ひしゃく）で甘茶を静かにそそぐ姿は、仏教の慈悲と、生命の誕生を祝う心が表れた、美しい光景である。
+
+甘茶は、参拝者にふるまわれることも多く、お参りのあとに甘茶をいただくのも花祭りの楽しみの一つである。甘茶は無病息災にご利益があるとされ、また、その甘茶で墨をすって字を書くと上達するといった言い伝えもある。子どもたちが甘茶をいただく姿は、花祭りらしいほのぼのとした光景である。
+
+寺院によっては、稚児行列（ちごぎょうれつ）が行われるところもある。美しく着飾った子どもたちが、白い象をかたどった山車（白象）を引いて練り歩く稚児行列は、花祭りを代表する華やかな見どころである。白い象は、釈迦の母である摩耶夫人（まやぶにん）が、釈迦を身ごもったときに白い象が体内に入る夢を見たという伝説にちなむもので、花祭りにしばしば登場する。花と子どもたちと白象が織りなす春の行列は、見る人の心を和ませてくれる。
+
+## 開催情報・アクセス
+
+花祭り（灌仏会）は、例年4月8日に、全国の多くの寺院で営まれる。ただし、地域や寺院によっては、旧暦や月遅れに合わせて5月8日に行うところもある。釈迦の誕生を祝うこの行事は、宗派を問わず多くの仏教寺院で行われており、特定の一つの会場で行われるものではない。お近くの寺院でも花御堂が設けられ、甘茶をいただける場合が多い。
+
+花祭りに参加したい場合は、お住まいの地域の寺院や、有名な寺院の情報を調べてみるとよい。大きな寺院では、花御堂の設置に加え、稚児行列や法要、甘茶のふるまいなど、さまざまな行事が行われることがある。アクセスや開催時間、稚児行列の有無などは寺院によって異なるため、訪れる前にそれぞれの寺院の情報を確認することが望ましい。4月上旬は桜の季節とも重なることが多く、寺院の境内に咲く花々とあわせて、春らしい風情を楽しむことができる。なお、参拝にあたっては、仏教行事であることをふまえ、静かに敬意をもって臨みたい。
+
+## 周辺の見どころ
+
+花祭りは全国の寺院で行われる行事であるため、特定の地域に限らず、各地の名刹（めいさつ）を訪ねながらこの行事に触れることができる。歴史ある古寺で花祭りに参加すれば、荘厳な伽藍（がらん）と、春の花で飾られた花御堂とがあいまって、いっそう趣深い体験となるだろう。京都や奈良といった古都には、釈迦の誕生を祝う行事を古くから伝える由緒ある寺院が数多くあり、春の観光とあわせて訪れるのに最適である。
+
+4月8日前後は、ちょうど桜の見頃と重なる地域も多い。寺院の境内に咲く桜や春の花々を愛でながら、花祭りの行事に参加すれば、日本の春の美しさを存分に味わうことができる。また、花祭りにちなんで甘茶をいただいたり、稚児行列を見物したりするのも、この季節ならではの楽しみである。寺院の周辺には、その土地ならではの名所や、精進料理を供する店、和菓子の老舗などもあり、花祭りの参拝とあわせて、ゆったりとした春の一日を過ごすことができるだろう。仏教文化と春の自然が調和した花祭りは、日本の年中行事の豊かさを感じさせてくれる。
+
+## 関連情報
+
+花祭りの詳細は、各寺院の情報や、仏教行事に関する資料で確認できる。本行事は釈迦の誕生を祝う仏教行事「灌仏会」の通称で、毎年4月8日（地域により5月8日）に全国の寺院で営まれる。花で飾った花御堂に誕生仏を安置し、参拝者が甘茶をそそいで祝うのが中心で、甘茶をそそぐのは釈迦誕生時に天から甘露の雨が降ったという伝説に由来する。「花祭り」の名称は明治期に生まれたとされ、それ以前は灌仏会・仏生会などと呼ばれていた。白い象（白象）の登場は、釈迦の母・摩耶夫人が白象の夢を見て懐妊したという伝説にちなむものである。なお、福井県の永平寺門前で行われる花まつりなど、地域ごとに特色ある花祭りの行事もあるが、それらは各地域の催しとして個別に営まれている。仏教の開祖の誕生を、春の花とともに祝うこの行事は、日本に深く根づいた仏教文化の一端を今に伝える、心和む年中行事である。','## Overview
+
+Hana Matsuri is a Buddhist event celebrating the birth of Shakyamuni Buddha, formally called Kanbutsue. It is held each year on April 8 (in some regions and temples on May 8) at temples throughout the country. The center of this event is placing a tanjobutsu (birth statue), shaped in the form of the newly born Shakyamuni, inside a small hall called a hanamido (flower hall) decorated with colorful flowers, and having worshipers celebrate by pouring amacha (sweet hydrangea tea) over that birth statue. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, Gotanne, and the like. It is a heartwarming event celebrating, together with flowers, the birth of Shakyamuni, the founder of Buddhism, in the season when spring flowers bloom in profusion.
+
+## History and Origins
+
+Hana Matsuri (Kanbutsue) is an event celebrating the birthday of Shakyamuni, the founder of Buddhism, and its origin reaches back to the history of Buddhism itself. Shakyamuni is said to have been born about 2,500 years ago, in the flower garden of Lumbini in northern India (near present-day Nepal), as a prince of the Shakya clan. The legends surrounding his birth are the origin of the rituals of Hana Matsuri.
+
+The custom of pouring amacha, the center of the event, derives from the legend that when Shakyamuni was born, sweet dew (the rain of sweet nectar) fell from the heavens and washed and purified his body. Imitating this rain of sweet nectar, worshipers pour amacha over the birth statue. Amacha is a sweet beverage made by decocting the leaves of the amacha plant of the saxifrage family, and it has become indispensable to Hana Matsuri. Also, the hanamido is said to represent the flower garden of Lumbini where Shakyamuni was born, and is decorated with colorful flowers.
+
+The birth statue is an image shaped in the form of the newly born Shakyamuni, standing in a distinctive posture with the right hand toward the heavens and the left hand toward the earth. This is based on the legend that Shakyamuni, immediately after birth, walked seven steps and, pointing with his right hand to the heavens and his left hand to the earth, proclaimed Tenjo Tenge Yuiga Dokuson. This phrase is interpreted as teaching that all human beings are equally precious existences.
+
+It is said that the approachable name Hana Matsuri came to be generally used from the Meiji period onward. Before that, designations such as Kanbutsue and Busshoe were used. Because the hanamido is beautifully decorated with flowers, it came to be called Hana Matsuri, and this name became widely established. In the Edo period, it is said that on this day the whole town was wrapped in a festive atmosphere, and it is a Buddhist event that has been beloved by people since old times.
+
+## Highlights
+
+The highlight of Hana Matsuri is, above all, the hanamido beautifully decorated with colorful flowers, and the solemn, heartwarming ritual in which worshipers pour amacha over the birth statue. The hanamido colored with spring flowers is splendid just to look at, calling to mind the scene of the flower garden of Lumbini where Shakyamuni was born. The sight of worshipers quietly pouring amacha with a ladle over the small birth statue placed at its center is a beautiful scene expressing the compassion of Buddhism and the heart that celebrates the birth of life.
+
+Amacha is often also served to worshipers, and receiving amacha after worship is one of the pleasures of Hana Matsuri. Amacha is said to have the benefit of good health, and there is also a saying that grinding ink with that amacha and writing characters improves one''s penmanship. The sight of children receiving amacha is a heartwarming scene characteristic of Hana Matsuri.
+
+Depending on the temple, there are places where a chigo gyoretsu (children''s procession) is held. The chigo procession, in which beautifully dressed children pull a float shaped like a white elephant (hakuzo) and parade, is a splendid highlight representative of Hana Matsuri. The white elephant is after the legend that Maya, the mother of Shakyamuni, had a dream in which a white elephant entered her body when she conceived Shakyamuni, and it often appears at Hana Matsuri. The spring procession woven by flowers, children, and the white elephant soothes the hearts of those who see it.
+
+## Event Information and Access
+
+Hana Matsuri (Kanbutsue) is held, usually on April 8, at many temples throughout the country. However, depending on the region and temple, there are places that hold it on May 8 in accordance with the old calendar or a one-month delay. This event celebrating the birth of Shakyamuni is held at many Buddhist temples regardless of sect and is not held at one specific venue. At a nearby temple too, a hanamido is often set up and one can receive amacha.
+
+If one wishes to participate in Hana Matsuri, it is best to look into information on temples in one''s area of residence or on famous temples. At large temples, in addition to setting up the hanamido, various events such as a chigo procession, memorial services, and the serving of amacha may be held. As access, holding times, and whether there is a chigo procession differ by temple, it is advisable to confirm the information of each temple before visiting. Early April often overlaps with the cherry-blossom season, and together with the flowers blooming in the temple precincts, one can enjoy a springlike atmosphere. When worshiping, bearing in mind that it is a Buddhist event, one should approach it quietly and with respect.
+
+## Around the Area
+
+As Hana Matsuri is an event held at temples throughout the country, one can touch this event while visiting noted temples in various places, not limited to a specific region. Participating in Hana Matsuri at a historic old temple, the solemn temple buildings and the hanamido decorated with spring flowers combine to make an even more profound experience. Ancient capitals such as Kyoto and Nara have many venerable temples that have conveyed the event celebrating Shakyamuni''s birth since old times, making them ideal to visit together with spring sightseeing.
+
+Around April 8, many regions overlap just with the peak of cherry blossoms. Participating in the Hana Matsuri event while admiring the cherry blossoms and spring flowers blooming in the temple precincts, one can fully savor the beauty of spring in Japan. Also, receiving amacha after Hana Matsuri or viewing the chigo procession are pleasures unique to this season. Around the temples are noted places unique to each land, shops serving shojin ryori (Buddhist vegetarian cuisine), and long-established Japanese confectionery shops, and together with Hana Matsuri worship, one can spend a leisurely spring day. Hana Matsuri, where Buddhist culture and spring nature harmonize, lets one feel the richness of Japan''s annual events.
+
+## Related Information
+
+Details on Hana Matsuri can be found in the information of each temple and in materials on Buddhist events. This event is the common name for the Buddhist event Kanbutsue celebrating the birth of Shakyamuni, held each year on April 8 (May 8 in some regions) at temples throughout the country. The center is placing a birth statue in a flower-decorated hanamido and having worshipers celebrate by pouring amacha; pouring amacha derives from the legend that the rain of sweet nectar fell from the heavens at Shakyamuni''s birth. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, and the like. The appearance of the white elephant (hakuzo) is after the legend that Maya, Shakyamuni''s mother, conceived after dreaming of a white elephant. Note that there are also distinctive Hana Matsuri events in each region, such as the Hana Matsuri held at the gate of Eiheiji Temple in Fukui Prefecture, but these are held individually as events of each region. This event, celebrating the birth of the founder of Buddhism together with spring flowers, is a heartwarming annual event conveying to the present a part of the Buddhist culture deeply rooted in Japan.','hana-matsuri-kanbutsue','hana-matsuri-kanbutsue',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11655139','閃光ライオット','Senko Riot','10代アーティストのみによる日本のロック・フェスティバル','Japanese music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%96%83%E5%85%89%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%83%E3%83%88',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11678799','黒船祭','Shimoda Black Ship Festival','静岡県下田市で開催される祭',NULL,'Q653402','下田市','Shimoda','静岡県','chubu',NULL,NULL,NULL,5,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%BB%92%E8%88%B9%E7%A5%AD',NULL,70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11678183','黒崎祇園山笠','Kurosaki Gion Yamagasa',NULL,NULL,NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kurosakigionn3.JPG','https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B4%8E%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0',NULL,80,'drafted','## 概要
