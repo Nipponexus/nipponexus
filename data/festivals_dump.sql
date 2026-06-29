@@ -7230,7 +7230,91 @@ A bonden is a gigantic sacred wand made by attaching a large cylindrical ornamen
 In Akita''s deep-snow winter, the Bonden Matsuri, unfolding amid a silver-white world, is filled with the heat of men dispelling the harsh cold and the prayers of people wishing for happiness in the new year. The sight of richly adorned bonden standing out against the snowy sky conveys to this day the splendor and power unique to a Little New Year event of the Tōhoku region—a precious festival culture of Akita.','bonden-matsuri','bonden-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q132348219','神宮からあげ祭','Jingu Karaage Festival','2025年4月2日から4月4日に明治神宮野球場(神宮球場)で開催されたイベント',NULL,'Q944559','明治神宮野球場','Meiji Jingu Stadium','東京都','kanto',NULL,NULL,NULL,NULL,'spring',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q129630207','ラヴィット！ロック2024','LOVE IT! ROCK 2024','2024年8月24日に国立代々木競技場第一体育館で開催された『ラヴィット！』のイベント',NULL,'Q1069457','国立代々木競技場','Yoyogi National Gymnasium',NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/202408241502%20IMG%202701.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q130530824','永平寺門前花祭り','Eiheiji Temple Flower Festival',NULL,'festival in Japan','Q1303631','永平寺町','Eiheiji','福井県','chubu',NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Japan%202024-05-06%20%2853893039588%29.jpg',NULL,NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q130530824','永平寺門前花祭り','Eiheiji Temple Flower Festival',NULL,'festival in Japan','Q1303631','永平寺町','Eiheiji','福井県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Japan%202024-05-06%20%2853893039588%29.jpg',NULL,NULL,65,'drafted','## 概要
+
+永平寺門前花祭り（えいへいじもんぜんはなまつり）は、福井県吉田郡永平寺町志比にある曹洞宗大本山永平寺の門前通りで営まれる、釈迦の誕生を祝う仏教行事である。花まつりは灌仏会（かんぶつえ）とも呼ばれ、釈迦が生まれた四月八日にちなんで全国の寺院で行われるが、永平寺門前のそれは大型連休の最終日にあたる五月六日に開催されるのが恒例となっている。子どもたちの稚児行列が門前町を練り歩き、参詣者が誕生仏に甘茶を注いでその生誕を祝うこの祭りは、永平寺の門前町に春の彩りをもたらす地域の年中行事として親しまれている。
+
+主催は永平寺町観光物産協会で、会場は大本山永平寺の境内および門前通りである。子どもの健やかな成長や所願成就を願う行事として、地元の家族連れを中心に多くの人々が訪れる。
+
+## 歴史・由来
+
+花まつりは、釈迦の生誕を祝う灌仏会という仏教の伝統行事に由来する。釈迦は生まれてすぐに七歩歩み、天と地を指して「天上天下唯我独尊」と唱えたと伝えられ、そのとき天から甘露の雨が降りそそいで産湯を使わせたという故事にちなみ、誕生仏の像に甘茶をかけて祝う風習が生まれた。花御堂と呼ばれる花で飾った小堂に誕生仏を安置するのも、釈迦が生まれた花咲き乱れるルンビニーの園を表したものである。
+
+永平寺の門前における花まつりは、こうした仏教行事の伝統を地域の祭礼として受け継いできたものである。門前町の歴史を伝える記録によれば、かつてこの花まつりは永平寺の日曜学校が主体となって開催されていたという。日曜学校は子どもたちに仏教の教えを親しみやすく伝える場であり、釈迦の誕生を祝う花まつりはそこで大切に営まれてきた行事の一つであった。やがてその担い手は地域へと広がり、今日では観光物産協会が中心となって門前通りを舞台に開く、町ぐるみの行事へと発展している。
+
+永平寺そのものは、鎌倉時代の寛元二年（一二四四年）に道元禅師が開いた曹洞宗の大本山であり、坐禅修行の根本道場として知られる。その荘厳な境内と門前通りを舞台とすることで、花まつりは単なる年中行事にとどまらず、禅の里として知られる永平寺町の文化的な厚みを背景に持つ祭りとなっている。
+
+花まつりで用いられる甘茶は、アマチャというユキノシタ科の植物の葉を乾燥させて煎じたもので、ほのかな甘みを持つ。釈迦誕生の際に天から降ったとされる甘露の雨になぞらえてこれを誕生仏に注ぐ習わしは、古くから日本各地の灌仏会で受け継がれてきた。甘茶には無病息災の願いも込められ、参拝者がこれを飲む風習を持つ地域もある。花御堂を彩る色とりどりの生花は、釈迦が生まれたとされるルンビニーの花園を表すと同時に、ちょうど新緑と花の季節を迎える永平寺町の春の景色とも響き合っている。
+
+## 見どころ
+
+### 稚児行列
+
+花祭りの中心となるのが、子どもたちによる稚児行列である。色とりどりの装束をまとった子どもたちが、門前通りを行列をなして練り歩く姿は、花まつりならではの華やかな光景である。近年ではおよそ八十人ほどの子どもが参加しており、稚児となった子どもの健やかな成長を願う親や祖父母の祈りが込められている。門前町の通りを稚児行列が進む様子は、春の連休の締めくくりにふさわしい和やかな賑わいを生み出す。
+
+### 灌仏（甘茶かけ）
+
+会場には花御堂が設けられ、そこに安置された誕生仏に参詣者が柄杓で甘茶を注いで釈迦の生誕を祝う。甘茶は、釈迦誕生の際に天から降ったとされる甘露の雨になぞらえたもので、これを誕生仏にかける所作は花まつりの最も象徴的な儀礼である。子どもから大人まで誰でも参加でき、所願成就を祈りながら甘茶を注ぐことで、仏教の教えに親しく触れることができる。
+
+## 開催情報・アクセス
+
+永平寺門前花祭りは、毎年五月六日に開催される。大型連休の最終日にあたるこの日、おおむね午後一時から午後三時頃までの時間帯で行われる。会場は大本山永平寺の境内および門前通り（永平寺町志比）で、雨天の場合は大本山永平寺内に会場を移して営まれる。問い合わせ先は永平寺町観光物産協会である。
+
+永平寺は福井県の北部、九頭竜川の支流が刻む山あいに位置し、福井市中心部や北陸新幹線の駅から路線バスや車でアクセスできる。連休最終日の開催であるため、家族連れが行楽の締めくくりに立ち寄りやすく、門前通りには参詣の人々が集う。
+
+## 周辺の見どころ
+
+会場となる門前通りの奥には、言うまでもなく曹洞宗大本山永平寺がある。樹齢数百年の老杉に囲まれた広大な境内には、七堂伽藍と呼ばれる修行の中心となる建物が斜面に沿って配置され、雲水（修行僧）たちが今も日々坐禅と作務に励む。深山の静寂のなかにたたずむ伽藍は、禅の精神を肌で感じられる場として国内外から参拝者を集めている。
+
+門前通りには、永平寺ごまどうふをはじめとする精進料理にちなんだ名物や、土産物を扱う店が軒を連ねており、花祭りの参詣とあわせて散策を楽しめる。永平寺町は「禅の里」を掲げてまちづくりを進めており、花まつりはその門前文化を体感できる行事の一つとなっている。
+
+## 関連情報
+
+花まつり（灌仏会）は、永平寺門前に限らず全国の寺院で釈迦の誕生を祝って営まれる仏教行事であり、四月八日に行うのが一般的である。永平寺門前花祭りが五月六日という大型連休の最終日に開かれるのは、より多くの人が参加しやすいよう地域の事情に合わせたものと考えられる。
+
+曹洞宗の大本山という格式ある寺院の門前を舞台に、子どもの成長を願う稚児行列と甘茶かけの伝統が受け継がれている点が、この祭りの特色である。釈迦の生誕を祝う普遍的な仏教行事が、永平寺町という禅の里の風土と結びつき、春の地域行事として根づいている。
+
+永平寺門前花祭りは、釈迦の誕生という仏教の根本にかかわる出来事を祝う行事でありながら、堅苦しさよりも子どもの成長を願う温かな地域の祝祭としての性格が前面に出ている点に魅力がある。坐禅修行の根本道場である永平寺の門前で、子どもたちの華やいだ稚児行列と甘茶かけの素朴な所作が繰り広げられる対比は、厳格な禅の世界と人々の日々の祈りとが地続きであることを感じさせる。大型連休の締めくくりに営まれることもあって、行楽の余韻のなかで春の一日を過ごす家族連れにとって、永平寺町の門前文化に親しく触れられる機会となっている。','## Overview
+
+The Eiheiji Monzen Hana Matsuri is a Buddhist celebration of the birth of the Buddha, held along the temple-gate street of Eiheiji, the head temple of the Soto Zen school, located in Shibi, Eiheiji Town, Fukui Prefecture. The flower festival, also known as Kanbutsue, is observed at temples throughout Japan in connection with April 8, the traditional birthday of the Buddha, but the version held at the gate of Eiheiji is customarily celebrated on May 6, the final day of Japan''s spring Golden Week holidays. A procession of children in costume parades through the temple-gate town, and worshippers pour sweet tea over an image of the infant Buddha to celebrate his birth. It is a cherished annual event that brings the colors of spring to the approach of Eiheiji.
+
+The festival is organized by the Eiheiji Town Tourism and Products Association, and its venue is the precincts of the great head temple of Eiheiji and its monzen, or temple-gate, street. As an event praying for the healthy growth of children and the fulfillment of wishes, it draws many visitors, especially local families.
+
+## History and Origins
+
+The flower festival originates in Kanbutsue, the traditional Buddhist observance of the Buddha''s birth. According to legend, the Buddha took seven steps immediately after being born, pointed to heaven and earth, and proclaimed his unique dignity, whereupon sweet dew is said to have rained down from the heavens to bathe the newborn. From this story arose the custom of pouring sweet tea over an image of the infant Buddha in celebration. The hanamido, a small shrine decorated with flowers in which the infant Buddha is enshrined, represents the flower-filled garden of Lumbini where the Buddha is said to have been born.
+
+The flower festival at the gate of Eiheiji has carried this Buddhist tradition forward as a local rite. According to records that tell the history of the temple-gate town, the festival was once organized chiefly by Eiheiji''s Sunday school, a place where children were introduced to Buddhist teachings in an approachable way, and where the festival celebrating the Buddha''s birth was lovingly maintained. Over time its custodianship spread to the wider community, and today it has developed into a town-wide event centered on the temple-gate street under the leadership of the tourism and products association.
+
+Eiheiji itself is the great head temple of the Soto Zen school, founded in 1244 by the Zen master Dogen as a fundamental training hall for seated meditation. By taking the temple''s solemn precincts and gate street as its stage, the flower festival becomes more than a simple annual event, drawing on the cultural depth of Eiheiji Town, known as the Village of Zen.
+
+## Highlights
+
+### The Children''s Procession
+
+The centerpiece of the festival is the procession of children. Dressed in colorful costumes, the children parade in formation along the temple-gate street, a scene that is the very image of the flower festival''s brightness. In recent years about eighty children have taken part, carrying with them the prayers of parents and grandparents for the healthy growth of these young participants. The sight of the children''s procession advancing along the streets of the temple town creates a gentle liveliness fitting for the close of the spring holidays.
+
+### Pouring Sweet Tea over the Infant Buddha
+
+A flower shrine is set up at the venue, and worshippers ladle sweet tea over the image of the infant Buddha enshrined within to celebrate the Buddha''s birth. The sweet tea evokes the sweet dew said to have fallen from heaven at the moment of the Buddha''s birth, and the act of pouring it over the image is the most symbolic rite of the flower festival. Open to everyone from children to adults, it offers a chance to come into intimate contact with Buddhist teaching while praying for the fulfillment of one''s wishes.
+
+## Dates and Access
+
+The Eiheiji Monzen Hana Matsuri is held every year on May 6. Falling on the final day of the spring holidays, the event generally runs from around one in the afternoon to about three. The venue is the precincts of the great head temple of Eiheiji and its temple-gate street in Shibi, Eiheiji Town; in case of rain, the event moves inside the temple grounds. Inquiries are handled by the Eiheiji Town Tourism and Products Association.
+
+Eiheiji lies in the northern part of Fukui Prefecture, in a mountain valley carved by a tributary of the Kuzuryu River, and can be reached by local bus or car from central Fukui City and the area''s railway stations. Because it is held on the last day of the holidays, families find it easy to stop by as a final outing, and the temple-gate street fills with worshippers.
+
+## Around the Site
+
+At the far end of the temple-gate street that serves as the venue stands, of course, the great head temple of Eiheiji of the Soto Zen school. Within its vast precincts, surrounded by ancient cedars centuries old, the seven principal buildings that form the heart of monastic training are arranged along the slope, where unsui, the training monks, still devote themselves daily to seated meditation and labor. Set amid the stillness of the deep mountains, the halls draw worshippers from Japan and abroad as a place to feel the spirit of Zen firsthand.
+
+Along the temple-gate street, shops sell local specialties connected to vegetarian temple cuisine, such as Eiheiji sesame tofu, as well as souvenirs, allowing visitors to enjoy a stroll along with their visit to the festival. Eiheiji Town has pursued community development under the banner of the Village of Zen, and the flower festival is one of the events through which its temple-gate culture can be experienced.
+
+## Related Information
+
+The flower festival, or Kanbutsue, is a Buddhist observance held at temples throughout Japan to celebrate the birth of the Buddha, and is generally conducted on April 8. The fact that the Eiheiji Monzen Hana Matsuri is held on May 6, the final day of the spring holidays, is thought to reflect an adjustment to local circumstances so that more people can take part.
+
+What distinguishes this festival is that the tradition of the children''s procession and the pouring of sweet tea, both praying for the growth of children, is carried on against the backdrop of the gate of a temple of such high standing as the head temple of the Soto Zen school. A universal Buddhist observance celebrating the birth of the Buddha has taken root as a local spring event, intertwined with the character of Eiheiji Town as the Village of Zen.','eiheiji-monzen-hana-matsuri','eiheiji-monzen-hana-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q132172823','関西コミティア',NULL,NULL,NULL,'Q11589745','神戸サンボーホール','Kobe Sanbō Hall','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E3%82%B3%E3%83%9F%E3%83%86%E3%82%A3%E3%82%A2',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q132154379','富士山・河口湖映画祭',NULL,NULL,NULL,'Q1004231','富士河口湖町','Fujikawaguchiko','山梨県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%83%BB%E6%B2%B3%E5%8F%A3%E6%B9%96%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q127789312','小金井桜まつり','KOGANEI SAKURA FESTIVAL','東京都小金井市で開催される祭り',NULL,'Q2856049','小金井公園','Koganei Park','東京都','kanto',35.71491473,139.51247871,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%AC%AC59%E5%9B%9E%E5%B0%8F%E9%87%91%E4%BA%95%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A%202013.04.07%2011-01%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E4%BA%95%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
@@ -8222,7 +8306,87 @@ Otori Taisha, the venue, is an ancient shrine known as the first shrine of Izumi
 - Main events: miyairi of ten danjiri, town processions, nighttime pulling
 - Related: rite of an auxiliary shrine of Otori Taisha (first shrine of Izumi Province; white bird legend of Yamato Takeru)
 ','otori-danjiri-matsuri','otori-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q111283049','火渡り祭','Hiwatari-sai',NULL,'Japanese festival','Q8194732','高尾山薬王院','Takao-san Yakuō-in Temple',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Takaosan%20Yakuouin-1.jpg',NULL,NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q111283049','火渡り祭','Hiwatari-sai',NULL,'Japanese festival','Q8194732','高尾山薬王院','Takao-san Yakuō-in Temple','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Takaosan%20Yakuouin-1.jpg',NULL,NULL,65,'drafted','## 概要
+
+火渡り祭（ひわたりさい）は、東京都八王子市の高尾山薬王院有喜寺が毎年三月の第二日曜日に営む、修験道の荒行を中心とした大祭である。会場は山頂の本堂ではなく、高尾山の麓、国道二十号沿いに位置する薬王院自動車祈祷殿の広場で、ここに高く組み上げられた護摩壇に火が入れられ、燃えさかる炎と熾火のうえを山伏や一般の参拝者が素足で渡り歩く。都心から電車で一時間ほどという交通の至便さもあって、毎年数万人規模の見物客が訪れ、春の到来を告げる関東屈指の火の祭典として知られる。
+
+火渡り祭は単なる火の見世物ではなく、高尾山の御本尊である飯縄大権現（いづなだいごんげん）の衆生救済の御誓願にもとづく、真言密教の本格的な修法として位置づけられている点に本質がある。炎によって災厄を祓い清める護摩の行を、参詣者自身が身をもって体験することで、世界平和や無病息災、家内安全、心願成就を祈願するという宗教的な意味が込められている。
+
+## 歴史・由来
+
+火渡り祭の母体である高尾山薬王院は、寺伝によれば天平十六年（七四四年）、聖武天皇の勅願によって行基菩薩が開いたと伝えられる古刹である。正式には高尾山薬王院有喜寺といい、開山以来しばらくは薬師如来を本尊として奉祀してきた。その後、南北朝期に俊源大徳が当山中興の祖として入り、飯縄大権現を勧請したことで、以後この飯縄大権現を本尊として奉安するようになった。飯縄大権現は不動明王の仮の姿として衆生を救済する徳を備えた神仏習合の尊格であり、戦国武将からも戦勝の守護神として厚い信仰を集めたことで知られる。
+
+薬王院は現在、真言宗智山派に属し、成田山新勝寺、川崎大師平間寺とともに同派の三大本山の一つに数えられる格式高い寺院である。修験道の道場としての性格も色濃く受け継いでおり、山伏による厳しい修行の伝統が今日まで連綿と続いている。火渡り祭は、この修験道の行のなかでもとりわけ象徴的なもので、火という浄化の力を介して御本尊の救済の願いを体現する行として、長く受け継がれてきた。高尾山そのものが天狗の伝説が残る霊山として崇敬を集めてきた背景も、火渡り祭の宗教的な荘厳さを際立たせている。
+
+飯縄大権現は、稲荷信仰や天狗信仰とも結びついた複合的な尊格として知られ、白狐にまたがり剣と索を持つ烏天狗の姿で表されることが多い。不動明王の化身として衆生を救うとされるこの本尊への信仰が、火という不動明王の智慧の炎を象徴する要素と結びつき、火渡り祭の宗教的な核を形づくっている。護摩は、梵語のホーマ（焚く・供物を捧げる）に由来する密教の修法で、火天を介して仏に供物を捧げ、煩悩を焼き尽くして願いを成就させる行とされる。柴燈大護摩は、その護摩を堂内ではなく屋外で大規模に営むもので、修験道の山中修行に源流を持つ。火渡り祭で参詣者が炎の道を渡るのは、この護摩の浄化の力を身体で受け取る行為にほかならない。
+
+## 見どころ
+
+### 柴燈大護摩供
+
+祭りの中核をなすのが柴燈大護摩供（さいとうおおごまく）である。広場の中央に檜葉などで山のように護摩壇が築かれ、法螺貝の音が響くなか、山伏たちが厳粛な作法にのっとって読経と祈祷を重ねる。問答や宝剣による所作などの儀礼が次々と執り行われたのち、護摩壇に点火されると、白煙が天を衝くように立ちのぼり、やがて炎が高々と燃え上がる。この浄火によって参詣者の願いを記した護摩木が焚き上げられ、災厄が祓われると信じられている。
+
+### 火渡り
+
+護摩壇の火が落ち着き、燃え残りの薪と熾火が一筋の道のように均されると、いよいよ火渡りが始まる。まず先達である山伏たちが裸足で熱い灰の上を渡り、続いて一般の参拝者も列をなして火の道を渡ることができる。忍耐力などの特異な精神力が必要とされるわけではなく、作法に従えば誰でも参加できる開かれた行であるが、足元には十分な注意が求められる。炎の名残を踏みしめながら無病息災や心願成就を祈るこの体験は、見るだけでなく身体を通して信仰に触れられる点で、多くの参拝者を惹きつけている。
+
+## 開催情報・アクセス
+
+火渡り祭は毎年三月の第二日曜日に開催される。たとえば近年では二〇二五年は三月九日、二〇二六年は三月八日に行われており、開始はおおむね午後一時頃からとなる。会場は高尾山の山麓にある薬王院自動車祈祷殿の広場で、国道二十号沿いに位置する。山上の薬王院本堂とは場所が異なるため、訪れる際は会場を取り違えないよう注意したい。
+
+アクセスは、京王線の高尾山口駅が最寄りで、駅から会場までは徒歩圏内にある。新宿などの都心からも電車一本で一時間程度と近く、思い立って足を運びやすい立地である。年間およそ三百万人もの登山者を集める高尾山の知名度もあって、当日は多くの人出でにぎわうため、早めの来場と公共交通機関の利用が勧められる。
+
+## 周辺の見どころ
+
+会場となる山麓から先へ進めば、高尾山そのものが一大観光地である。ケーブルカーやリフトを利用して中腹まで登れば、火渡り祭の母体である薬王院の壮麗な本堂や、天狗像、奥之院などを参拝できる。高尾山は標高五百九十九メートルながら豊かな自然林に覆われ、ミシュランの旅行ガイドで星を得たことでも知られる人気の登山スポットで、山頂からは天気がよければ富士山を望むことができる。
+
+ふもとの高尾山口駅周辺には、温泉施設や名物のとろろ料理を供する飲食店、土産物店が立ち並び、火渡り祭の参拝とあわせて一日を楽しめる。春の高尾は梅や桜の名所も近く、火渡り祭の時期は冬から春へと季節が移ろう自然の表情も見どころとなる。
+
+## 関連情報
+
+火渡り祭は、火を用いた浄化の行という点で、京都の狸谷山不動院などほかの寺院で行われる火渡り神事とも共通する修験道の系譜に連なる。同じ「火渡り」「柴燈護摩」と呼ばれる行事は全国の真言宗や修験道の霊場で営まれており、それぞれの土地の信仰と結びついて独自の形を伝えている。
+
+高尾山薬王院の火渡り祭は、そのなかでも都市近郊で大規模に行われ、一般の参拝者が広く参加できる点で特に親しまれている。御本尊飯縄大権現への信仰、千二百年を超える寺の歴史、修験道の荒行という三つの要素が一体となって、春の関東に火の祭礼として根づいている。
+
+火渡り祭は、都心からの近さゆえに信仰行事でありながら多くの一般来訪者を集めるという、現代における祭礼のあり方の一例でもある。修験道の荒行という本来は限られた行者のものであった行を、一般の参拝者にも開き、誰もが火の道を渡って祈れる形にしたことで、宗教的な厳粛さと開かれた親しみやすさが共存している。春の訪れとともに高尾の山麓で炎が高々と立ちのぼるこの祭りは、千二百年を超える歴史を持つ古刹の信仰が、今も生きた形で受け継がれていることを示すものとして、関東の春を代表する火の祭礼となっている。','## Overview
+
+Hiwatari-sai, the Fire-Walking Festival, is one of the most striking spring rituals of the Kanto region, held each year on the second Sunday of March by Takaosan Yakuoin Temple in Hachioji, Tokyo. Rather than taking place at the temple''s main hall on the mountain, the festival unfolds at the spacious grounds of the temple''s automobile prayer hall at the foot of Mount Takao, alongside National Route 20. There, a towering pyre of cypress branches is set ablaze, and once the flames have burned down to glowing embers, mountain ascetics and ordinary worshippers walk barefoot across the smoldering path. Because the site lies only about an hour by train from central Tokyo, the festival draws tens of thousands of spectators each year and has become a celebrated harbinger of spring.
+
+Hiwatari-sai is far more than a spectacle of fire. It is a genuine esoteric Buddhist rite rooted in the compassionate vow of Izuna Daigongen, the principal deity of Mount Takao, to save all living beings. By personally experiencing the purifying power of the sacred flame, participants pray for world peace, freedom from illness and disaster, the safety of their households, and the fulfillment of their heartfelt wishes.
+
+## History and Origins
+
+The temple that hosts the festival, Takaosan Yakuoin Yukiji, is an ancient institution said to have been founded in the year 744 by the monk Gyoki, acting on an imperial vow of Emperor Shomu. For a long period after its founding it enshrined the Healing Buddha, Yakushi Nyorai, as its principal image. Later, during the Nanboku-cho period, the monk Shungen revived the temple and invited the deity Izuna Daigongen, which has been venerated as the main object of worship ever since. Izuna Daigongen is a syncretic deity regarded as a manifestation of the wrathful Buddhist guardian Fudo Myoo, embodying the power to save sentient beings, and was deeply revered by warlords of the Warring States era as a protector in battle.
+
+Today Yakuoin belongs to the Chisan branch of the Shingon school and ranks as one of its three head temples, alongside Naritasan Shinshoji and Kawasaki Daishi Heikenji. The temple has also long served as a training ground for Shugendo, the syncretic mountain asceticism of Japan, and the rigorous practices of its mountain ascetics, known as yamabushi, continue to this day. The fire-walking rite is among the most symbolic of these austerities, expressing through the purifying force of fire the saving vow of the temple''s deity. Mount Takao itself, long revered as a sacred peak associated with tengu legends, lends the festival an atmosphere of solemn grandeur.
+
+## Highlights
+
+### The Saito Goma Fire Rite
+
+At the heart of the festival is the Saito Ogoma, the great outdoor fire offering. A mountainous pyre of cypress branches is constructed at the center of the grounds, and as conch-shell trumpets sound, the yamabushi perform solemn chants and prayers in strict ceremonial order. After a sequence of ritual exchanges and rites performed with sacred swords, the pyre is lit, sending a column of white smoke skyward before bursting into towering flames. In this purifying fire, the prayer sticks inscribed with the wishes of worshippers are consumed, and calamities are believed to be driven away.
+
+### The Fire Walk
+
+Once the flames subside and the remaining embers and ash are raked into a path, the fire walk begins. First the leading ascetics cross the hot ashes barefoot, followed by members of the public who line up to walk the path of fire. No special spiritual endurance is required; anyone who follows the proper procedure may take part, though care must be taken with each step. Treading across the lingering heat of the flames while praying for health and the fulfillment of wishes is an experience that engages the body as well as the eyes, and it is precisely this participatory quality that draws so many visitors.
+
+## Dates and Access
+
+Hiwatari-sai is held every year on the second Sunday of March. In recent years this fell on March 9 in 2025 and March 8 in 2026, with proceedings generally beginning around one in the afternoon. The venue is the grounds of Yakuoin''s automobile prayer hall at the base of Mount Takao, located along National Route 20. Because this is separate from the main hall on the summit, visitors should take care not to confuse the two locations.
+
+The nearest station is Takaosan-guchi on the Keio Line, within walking distance of the venue. Lying only about an hour by a single train from central districts such as Shinjuku, the site is easy to reach on a whim. Given that Mount Takao attracts some three million climbers a year, the festival day is extremely crowded, so arriving early and using public transport is strongly recommended.
+
+## Around the Site
+
+Beyond the foot of the mountain, Mount Takao itself is a major destination. Taking the cable car or chairlift partway up, visitors can pay their respects at the magnificent main hall of Yakuoin, the temple behind the festival, along with its tengu statues and inner sanctuary. At 599 meters, Mount Takao is cloaked in rich natural forest and earned stars in the Michelin travel guide; on clear days the summit offers views of Mount Fuji.
+
+Around Takaosan-guchi Station at the base, hot-spring facilities, restaurants serving the local specialty of grated yam dishes, and souvenir shops line the streets, allowing visitors to make a full day of their pilgrimage. The Takao area in spring is also close to renowned plum and cherry blossom spots, and the festival season offers the added pleasure of watching nature shift from winter into spring.
+
+## Related Information
+
+Hiwatari-sai belongs to a wider lineage of Shugendo fire rites that purify through flame, sharing common roots with fire-walking ceremonies held at other temples such as Tanukidani-san Fudoin in Kyoto. Rituals known as hiwatari or saito goma are performed at Shingon and Shugendo sacred sites throughout Japan, each taking on a distinctive form bound up with the faith of its locality.
+
+Among them, the fire-walking festival of Takaosan Yakuoin is especially beloved for being held on a large scale near a major city and open to broad public participation. Faith in the deity Izuna Daigongen, a temple history spanning more than twelve centuries, and the austere discipline of Shugendo come together as a single fire ritual that marks the arrival of spring in the Kanto region.','hiwatari-sai-takaosan','hiwatari-sai-takaosan',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q106943951','浅虫温泉ねぶた祭り','Asamushi Onsen Nebuta Festival','青森県青森市にある浅虫温泉で行われる夏祭り',NULL,'Q4803496','浅虫温泉','Asamushi Onsen','青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asamushi%20Onsen%20Nebuta%20Matsuri%20Aomori%20Japan11n.jpg','https://ja.wikipedia.org/wiki/%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89%E3%81%AD%E3%81%B6%E3%81%9F%E7%A5%AD%E3%82%8A',NULL,85,'drafted','浅虫温泉ねぶた祭りは、青森県青森市の浅虫温泉地区で毎年8月初旬に開催される夏祭りであり、青森ねぶた祭の前夜祭的な位置づけで温泉街全体が幻想的なねぶたの灯りに包まれる、青森を代表する温泉地ならではの個性的な祭礼である。青森市中心部のねぶた祭りと比較すると規模は小さいが、海と温泉と山に囲まれた立地ならではの親密な雰囲気と、温泉客と地元住民が一体となって楽しむ手作り感が魅力となっている。
 
 浅虫温泉は青森市東部の陸奥湾に面した古い温泉地で、平安時代の886年（仁和2年）に円融天皇の勅命で開発されたとの伝承を持つ。江戸時代には弘前藩主の湯治場として整備され、明治期には津軽鉄道や東北本線の開通によって東北を代表する温泉地の一つとなった。浅虫温泉ねぶた祭りは、本祭である青森ねぶた祭（8月2日-7日）の前後に開催される地域版として発展し、温泉街の各旅館・商店・町内会が手作りのねぶたを出すアットホームな祭りとして親しまれている。
@@ -12499,11 +12663,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
