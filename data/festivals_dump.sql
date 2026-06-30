@@ -38,15 +38,107 @@ Hie Shrine is a venerable shrine that received deep reverence from the Tokugawa 
 
 The festival''s greatest highlight is the "Jinkōsai" held during the main festival. A festival procession of around 500 people clad in court attire, centered on two imperial palanquins and the main portable shrine, stretches some 300 meters and tours the heart of Tokyo over about eleven hours. The sight of an elegant procession, like a court picture-scroll, advancing against the backdrop of modern skyscrapers is a scene unique to Tokyo, where tradition and the modern intersect. Boasting around 400 years of history, the Sannō Matsuri is a solemn festival dedicated to the guardian deity of Edo Castle, coloring the capital''s early summer.','sanno-matsuri','sanno-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q82113','広島国際アニメーションフェスティバル','Hiroshima International Animation Festival',NULL,'biennial Japanese festival','Q34664','広島市','Hiroshima','広島県','chugoku',34.38525,132.45531,1985,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%9B%BD%E9%9A%9B%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Hiroshima_International_Animation_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q218646','神田祭','Kanda Matsuri','東京都千代田区の神田明神で行われる祭礼','Japanese festival that takes place in Kanda, Tokyo','Q717682','神田明神','Kanda-myōjin','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Kanda%20Matsuri%202009-1%20in%20Akihabara.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%A5%AD','https://en.wikipedia.org/wiki/Kanda_Matsuri',85,'drafted','神田祭（かんだまつり）は、東京都千代田区の神田明神(神田神社)で行われる祭礼で、京都の祇園祭、大阪の天神祭と並ぶ「日本三大祭り」の一つ、また山王祭・深川祭とともに「江戸三大祭り」の一つに数えられる、江戸を代表する盛大な祭りである。本祭りは2年に一度、5月中旬に行われる。
+INSERT INTO "festivals" VALUES('Q218646','神田祭','Kanda Matsuri','東京都千代田区の神田明神で行われる祭礼','Japanese festival that takes place in Kanda, Tokyo','Q717682','神田明神','Kanda-myōjin','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Kanda%20Matsuri%202009-1%20in%20Akihabara.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%A5%AD','https://en.wikipedia.org/wiki/Kanda_Matsuri',85,'drafted','## 概要
 
-神田明神は、江戸の総鎮守として古くから人々の信仰を集めてきた由緒ある神社である。神田祭は、江戸時代には徳川将軍家が上覧したことから「天下祭(てんかまつり)」とも呼ばれ、城内に山車が入ることを許された格式高い祭りであった。神田・日本橋・秋葉原・大手町・丸の内など、東京の中心部にあたる広大な氏子地域を巡る、まさに大都市の祭りである。
+神田祭(かんだまつり)は、東京都千代田区外神田に鎮座する神田神社(通称・神田明神)の例祭であり、京都の祇園祭、大阪の天神祭と並んで日本三大祭の一つに数えられることもある、江戸を代表する祭礼である。徳川将軍家が江戸城内に神輿や山車を迎え入れて上覧したことから「天下祭」と称され、江戸っ子の心意気を今に伝える祭りとして知られる。
 
-祭りの最大の見どころは、本祭りの初日に行われる「神幸祭(しんこうさい)」である。鳳輦(ほうれん)・神輿を中心とした総勢約500人、約300メートルにも及ぶ華やかな祭礼行列が、一日がかりで氏子地域を巡行する。また、二日目には各町会の神輿約100基が神田明神に集結する「神輿宮入(みこしみやいり)」が行われ、威勢のよい担ぎ手たちの熱気が境内を包む。伝統と現代が共存する東京の街を、江戸以来の祭礼が練り歩く神田祭は、首都の初夏を彩る活気あふれる祭りである。','The Kanda Matsuri is a festival held at Kanda Myōjin (Kanda Shrine) in Chiyoda Ward, Tokyo. It is counted, alongside Kyoto''s Gion Festival and Osaka''s Tenjin Festival, as one of Japan''s "three great festivals," and together with the Sannō Festival and Fukagawa Festival as one of the "three great festivals of Edo"—a grand festival representative of Edo. The main festival is held in mid-May once every two years.
+例大祭の神事は毎年五月中旬に営まれるが、神輿渡御などを伴う盛大な神幸祭(本祭)は、同じ江戸の大祭である山王祭と一年交代の隔年で斎行される。氏子の区域は神田・日本橋(日本橋川以北)・秋葉原・大手町・丸の内・旧神田市場など、東京の中心部に広がる百ヶ町を超える広大なもので、本祭の年には数百基ともいわれる町神輿が都心を練り歩く。
 
-Kanda Myōjin is a venerable shrine that has long commanded the faith of the people as the guardian shrine of Edo. In the Edo period, because the Tokugawa shogunal house viewed it, the Kanda Matsuri was also called the "Tenka Matsuri" (shogunal festival)—a prestigious festival whose floats were permitted to enter the castle grounds. Touring a vast parish district covering the heart of Tokyo—Kanda, Nihonbashi, Akihabara, Ōtemachi, Marunouchi, and more—it is truly a festival of the great metropolis.
+## 歴史と由来
 
-The festival''s greatest highlight is the "Shinkōsai" held on the first day of the main festival. A splendid festival procession of around 500 people stretching some 300 meters, centered on the imperial palanquin and portable shrines, tours the parish district over the course of a full day. On the second day, the "Mikoshi Miyairi" is held, in which around 100 portable shrines from the various neighborhood associations gather at Kanda Myōjin, and the fervor of the spirited bearers fills the precincts. Parading a festival dating from Edo through the streets of Tokyo where tradition and the modern coexist, the Kanda Matsuri is a vibrant festival coloring the capital''s early summer.','kanda-matsuri','kanda-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+神田神社(神田明神)は、社伝によれば天平二年(七三〇年)の創建と伝えられ、約千三百年の歴史を持つ江戸総鎮守である。祭神には大己貴命(だいこくさま)、少彦名命(えびすさま)、そして平将門命が祀られている。平将門は、関東に独立勢力を築いて朝廷に反旗を翻した平安中期の武将であり、その霊を鎮め祀る神社として、江戸の人々から篤い信仰を集めてきた。
+
+江戸時代、徳川幕府は神田明神を江戸城の鬼門(北東)を守護する神社として手厚く庇護した。神田祭は、徳川家康が関ヶ原の合戦に臨む際に戦勝を祈願し、勝利を収めたことにちなんで、幕府公認の祭礼として隆盛を極めたと伝えられる。江戸城内に祭礼の行列を迎え入れて将軍が上覧する「天下祭」の格式は、江戸の数ある祭りの中でも特別なものであった。
+
+祭りの花形はかつて壮麗な山車の行列であった。明治に入っても祭礼は盛んで、明治十七年には四十六本、明治二十年には四十本もの山車が曳き出され、江戸時代と変わらぬ賑わいを見せた時期もあった。しかし明治後期以降、市街地に電線が張りめぐらされて背の高い山車の巡行が困難になったことなどから、祭りの主役は次第に山車から神輿渡御へと移っていった。今日では氏子各町の神輿が中心となり、勇壮な担ぎ手の掛け声とともに都心を巡行する姿が祭りの象徴となっている。
+
+神田祭が江戸の人々にこれほど愛されてきた背景には、祭神の一柱である平将門への独特の信仰がある。将門は、関東の人々にとっては中央権力に立ち向かった英雄として敬愛され、その荒ぶる御霊を手厚く祀ることで土地を守護してもらうという信仰が江戸に根づいた。大手町には今も将門の首を祀ると伝わる将門塚があり、神田明神とともに将門信仰の中心となってきた。こうした反骨と守護の二面を併せ持つ祭神への思いが、権力に媚びない江戸っ子気質と結びつき、天下祭でありながら庶民の祭りとしての熱気を帯びる、神田祭独特の性格を形づくっている。
+
+## 見どころ
+
+**神幸祭**
+
+本祭の中心となるのが神幸祭である。鳳輦(ほうれん)や神輿に神霊を移し、平安装束をまとった大行列が神田・日本橋・大手町・丸の内など氏子百ヶ町を一日がかりで巡行する。総延長数百メートルにも及ぶ行列が、近代的なビル街と江戸情緒の交錯する東京の中心部を進む光景は、神田祭ならではの壮観である。
+
+**神輿宮入**
+
+神幸祭の翌日には、氏子各町が担ぐ町神輿が次々と神田明神へと参拝する神輿宮入が行われる。数百基にも及ぶ神輿が一日を通じて境内へと向かい、担ぎ手たちの威勢のよい掛け声と熱気が境内を包む。江戸前の粋な神輿の担ぎ方と、それを見守る大勢の参拝者で、祭りは最高潮を迎える。
+
+**附け祭**
+
+神幸祭の行列に続く「附け祭(つけまつり)」も見どころの一つである。これは時代ごとの世相や流行を採り入れた趣向を凝らした演し物の行列で、巨大な作り物の山車や仮装の練り歩きなどが供奉する。江戸庶民の遊び心を受け継ぐこの賑やかな趣向は、神事の荘厳さとは対照的な祭りの華やぎを添えている。
+
+## 開催情報・アクセス
+
+神田祭は、例大祭の神事を毎年五月中旬に行い、神幸祭・神輿宮入を伴う本祭は山王祭と隔年で斎行される(おおむね西暦の奇数年が神田祭の本祭年)。祭礼は五月十五日に近い土日を中心とした数日間にわたって展開される。
+
+会場の中心となる神田神社は、JR中央線・総武線の御茶ノ水駅から徒歩約五分、東京メトロ丸ノ内線の御茶ノ水駅や千代田線の新御茶ノ水駅、銀座線の末広町駅などからも徒歩圏にある。氏子区域が都心一帯に広がるため、神輿渡御や宮入は秋葉原・日本橋・大手町など広範囲で繰り広げられる。本祭の年は大変な人出となるため、公共交通機関の利用が勧められる。
+
+## 周辺の見どころ
+
+神田神社の門前は、世界有数の電気街・サブカルチャーの街である秋葉原に近く、伝統の祭礼と現代の都市文化が隣り合う独特の立地にある。神社のほど近くには湯島聖堂(孔子廟)があり、ニコライ堂や神保町の古書店街、湯島天神なども徒歩や電車で巡ることができる。
+
+氏子区域である日本橋・大手町・丸の内は、江戸以来の商業の中心であると同時に現代日本の経済の中枢でもあり、老舗と高層ビルが共存する街並みを楽しめる。祭りの時期にあわせて訪れれば、江戸総鎮守の祭礼と、その氏子町が育んできた東京の中心市街地の双方を体感できる。
+
+## 関連情報
+
+神田祭は、山王祭・深川祭(富岡八幡宮の例祭)とともに江戸三大祭の一つに数えられ、また京都祇園祭・大阪天神祭と並べて日本三大祭と称されることもある。とりわけ山王祭とは、徳川幕府公認の「天下祭」の双璧として、一年交代で本祭を斎行する深い関係にある。
+
+- 開催月: 五月中旬(本祭は山王祭と隔年)
+- 都道府県: 東京都(関東)
+- 鎮座地: 千代田区外神田 神田神社(神田明神)
+- 祭神: 大己貴命・少彦名命・平将門命
+- 創建: 社伝に天平二年(七三〇年)・約一三〇〇年の歴史
+- 格式: 江戸総鎮守・徳川幕府公認の「天下祭」・江戸三大祭','## Overview
+
+Kanda Matsuri is the grand festival of Kanda Shrine, popularly known as Kanda Myojin, located in Sotokanda, Chiyoda Ward, Tokyo. Together with the Gion Festival of Kyoto and the Tenjin Festival of Osaka, it is sometimes counted among the three great festivals of Japan, and it stands as one of the foremost festivals representing the city of Edo. Because the Tokugawa shoguns welcomed its portable shrines and festival floats into Edo Castle for viewing, it came to be known as a "Tenka Matsuri," or shogunal festival, and it conveys to this day the spirit of the people of old Edo.
+
+While the shrine rites of the annual festival are conducted in mid-May every year, the grand procession known as the Shinko-sai, which features the parade of portable shrines, is held only in alternate years, taking turns with the Sanno Festival, another of Edo''s great festivals. The shrine''s parish spreads across more than a hundred neighborhoods in central Tokyo, including Kanda, Nihonbashi, Akihabara, Otemachi, and Marunouchi, and in the years of the main festival, hundreds of neighborhood portable shrines are said to parade through the heart of the capital.
+
+## History and Origins
+
+Kanda Shrine, according to its own tradition, was founded in the year 730 and possesses a history of some thirteen hundred years as the general guardian shrine of Edo. Among its enshrined deities are Onamuchi-no-Mikoto, Sukunahikona-no-Mikoto, and the spirit of Taira no Masakado. Masakado was a warrior of the mid-Heian period who built an independent power base in the Kanto region and rose against the imperial court, and the shrine that pacifies and venerates his spirit has long drawn deep devotion from the people of Edo.
+
+During the Edo period, the Tokugawa shogunate generously protected Kanda Myojin as the shrine guarding the northeastern, or demon, gate of Edo Castle. The festival is said to have flourished as a shogunate-sanctioned rite, connected to the tradition that Tokugawa Ieyasu prayed for victory here before the Battle of Sekigahara and won. The prestige of the Tenka Matsuri, in which the festival procession was welcomed into the castle grounds for the shogun''s viewing, was special even among the many festivals of Edo.
+
+The festival''s chief glory was once its splendid procession of floats. The rites remained vigorous into the Meiji era, with forty-six floats paraded in 1884 and forty in 1887, rivaling the grandeur of the Edo period. However, from the late Meiji period onward, the spread of electrical wires through the city made it difficult to parade tall floats, and the centerpiece of the festival gradually shifted from floats to the procession of portable shrines. Today the neighborhood shrines of the parish form the heart of the festival, and their parade through central Tokyo, accompanied by the spirited cries of the bearers, has become its symbol.
+
+## Highlights
+
+**The Shinko-sai Procession**
+
+The centerpiece of the main festival is the Shinko-sai. The divine spirit is transferred to phoenix palanquins and portable shrines, and a great procession in Heian-period costume spends an entire day parading through the more than one hundred parish neighborhoods of Kanda, Nihonbashi, Otemachi, and Marunouchi. The sight of a procession stretching hundreds of meters advancing through the heart of Tokyo, where modern office towers and the atmosphere of old Edo intersect, is a spectacle unique to Kanda Matsuri.
+
+**The Mikoshi Miyairi**
+
+On the day after the Shinko-sai, the neighborhood portable shrines of each parish district make their way one after another to Kanda Myojin in the Mikoshi Miyairi. Hundreds of portable shrines head into the precincts throughout the day, and the spirited cries and fervor of the bearers fill the grounds. With the stylish Edo-style manner of carrying the shrines and the great crowds of worshippers looking on, the festival reaches its climax.
+
+**The Tsukematsuri**
+
+The Tsukematsuri, which follows the Shinko-sai procession, is another highlight. This is a procession of inventive performances incorporating the customs and fashions of each era, including enormous decorative floats and parades of costumed participants. Carrying on the playful spirit of the common people of Edo, this lively spectacle adds a festive brightness that contrasts with the solemnity of the sacred rites.
+
+## Dates and Access
+
+Kanda Matsuri conducts the rites of its annual festival in mid-May every year, while the main festival with the Shinko-sai and Mikoshi Miyairi is held in alternate years with the Sanno Festival, generally in odd-numbered years. The festival unfolds over several days centered on the weekend nearest May 15.
+
+Kanda Shrine, the center of the festival, is about a five-minute walk from Ochanomizu Station on the JR Chuo and Sobu lines, and is also within walking distance of the Tokyo Metro stations of Ochanomizu, Shin-Ochanomizu, and Suehirocho. Because the parish spreads across the central districts of the city, the processions and shrine entries unfold over a wide area including Akihabara, Nihonbashi, and Otemachi. The main festival year draws enormous crowds, so the use of public transport is recommended.
+
+## Around the Site
+
+The approach to Kanda Shrine lies close to Akihabara, one of the world''s foremost electronics and subculture districts, giving it a distinctive setting where traditional rites stand side by side with contemporary urban culture. Near the shrine are the Yushima Seido Confucian temple, while Nikolai Cathedral, the secondhand bookshop district of Jimbocho, and Yushima Tenjin can all be reached on foot or by train.
+
+The parish districts of Nihonbashi, Otemachi, and Marunouchi have been centers of commerce since the Edo period and remain the heart of the modern Japanese economy, where long-established shops and high-rise towers coexist. A visit timed to the festival lets one experience both the rite of the guardian shrine of old Edo and the central districts that its parish neighborhoods have nurtured.
+
+## Related Information
+
+Kanda Matsuri is counted, together with the Sanno Festival and the Fukagawa Festival of Tomioka Hachiman Shrine, among the three great festivals of Edo, and is also sometimes ranked alongside the Gion Festival of Kyoto and the Tenjin Festival of Osaka as one of the three great festivals of Japan. Its relationship with the Sanno Festival is especially deep, as the two stand as twin pillars of the shogunate-sanctioned Tenka Matsuri and hold their main festivals in alternate years.
+
+- Period: mid-May (main festival alternates with the Sanno Festival)
+- Prefecture: Tokyo (Kanto)
+- Location: Kanda Shrine (Kanda Myojin), Sotokanda, Chiyoda Ward
+- Deities: Onamuchi-no-Mikoto, Sukunahikona-no-Mikoto, Taira no Masakado
+- Founding: traditionally 730; a history of about 1,300 years
+- Status: general guardian shrine of Edo; shogunate-sanctioned Tenka Matsuri; one of the three great festivals of Edo','kanda-matsuri','kanda-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q114712','長崎くんち','Nagasaki Kunchi','長崎市のお祭り','festival in Nagasaki, Japan','Q84028','鎮西大社諏訪神社','Suwa Shrine','長野県','chubu',32.754125,129.88211111,1634,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Jaodori%20of%20Nagasaki%20Kunchi.jpg','https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Nagasaki_Kunchi',95,'drafted','## 概要
 
 長崎くんち（ながさきくんち）は、長崎県長崎市の鎮西大社諏訪神社で毎年10月7日から9日にかけて執り行われる、諏訪神社の例大祭である。「長崎くんちの奉納踊」として国の重要無形民俗文化財に指定されており、博多おくんち（福岡県）、唐津くんち（佐賀県）と並ぶ「日本三大くんち」のひとつに数えられる。異国情緒あふれる「龍踊（じゃおどり）」「コッコデショ」「川船」など、長崎の国際性を象徴する奉納踊が最大の見どころである。
@@ -695,15 +787,107 @@ Tennōgawa Park and Tsushima Shrine enjoy good access, within walking distance o
 ## Around the Area
 
 Tsushima is a historic town that prospered as the gate town of Tsushima Shrine, where old streets and historic buildings remain. Located in the western part of the Owari region, it is also close to Nagoya City. Nearby tourist destinations include Nabana no Sato (in Kuwana, Mie Prefecture) and the Kiso Sansen Park. A trip extended from Nagoya allows one to enjoy Nagoya Castle, Atsuta Shrine, and gourmet fare as well. Together with the Owari Tsushima Tennō Festival, it is an area where one can savor the history, faith, and nature of Owari and the Nōbi Plain.','owari-tsushima-tenno-festival','owari-tsushima-tenno-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q219122','三社祭','Sanja Matsuri','ヤクザによる東京都台東区浅草の浅草神社の例大祭','Shinto festival in Japan','Q670049','浅草神社','Asakusa Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20mikoshi%20from%20sensoji%20Sanja%20Matsuri%202006-3.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%A4%BE%E7%A5%AD','https://en.wikipedia.org/wiki/Sanja_Matsuri',85,'drafted','三社祭（さんじゃまつり）は、東京都台東区浅草の浅草神社(あさくさじんじゃ)で毎年5月に行われる例大祭である。江戸下町を代表する勇壮な祭りとして知られ、毎年約180万人もの人出で賑わう、東京を代表する初夏の風物詩である。「三社」とは、浅草寺の創建に関わったとされる三人の人物を神様として祀ることに由来する。
+INSERT INTO "festivals" VALUES('Q219122','三社祭','Sanja Matsuri','ヤクザによる東京都台東区浅草の浅草神社の例大祭','Shinto festival in Japan','Q670049','浅草神社','Asakusa Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20mikoshi%20from%20sensoji%20Sanja%20Matsuri%202006-3.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%A4%BE%E7%A5%AD','https://en.wikipedia.org/wiki/Sanja_Matsuri',85,'drafted','## 概要
 
-祭りの最大の特徴は、なんといっても勇壮な神輿(みこし)である。三社祭は山車ではなく神輿が主役の「神輿祭り」で、町内ごとに約100基もの町神輿が浅草の町を練り歩く。担ぎ手たちが「ソイヤ、ソイヤ」の威勢のよい掛け声とともに、神輿を揉み、差し上げる様は迫力満点で、江戸っ子の心意気が爆発する。最終日には浅草神社の三基の本社神輿が宮出しされ、祭りは最高潮に達する。
+三社祭(さんじゃまつり)は、東京都台東区の浅草神社で営まれる例大祭で、神田祭・山王祭と並んで江戸三大祭の一つに数えられる、浅草を代表する初夏の祭礼である。浅草神社の氏子四十四ヶ町を中心に、五月の第三土曜日を基点とした金・土・日曜日の三日間にわたって繰り広げられ、勇壮かつ華やかな神輿渡御を主とする。三日間でおよそ百八十万人もの人出を集める、東京有数の規模を誇る祭りである。
 
-浅草寺の門前町として栄えた浅草は、江戸時代から庶民文化の中心地であり、その活気と人情が三社祭には色濃く表れている。仲見世通りや浅草寺を背景に、無数の神輿が威勢よく担ぎ回される光景は、まさに下町の祭りの真骨頂である。粋でいなせな江戸の祭りの伝統を今に伝える三社祭は、浅草の人々の誇りと、東京下町の活気を象徴する、初夏の一大祭礼である。','The Sanja Matsuri is the grand annual festival held every May at Asakusa Shrine in Asakusa, Taitō Ward, Tokyo. Known as a spirited festival representative of the downtown of old Edo, it bustles with around 1.8 million visitors each year, making it an early-summer tradition representative of Tokyo. "Sanja" (three shrines) derives from the enshrining as deities of three figures said to have been involved in the founding of Sensō-ji Temple.
+江戸情緒を色濃く残しつつ、宮神輿三基と氏子各町の町神輿が浅草の街を練り歩く様は、下町の心意気を体現する光景として知られる。浅草寺に隣接する浅草神社を舞台に、観音信仰の歴史とも深く結びついた、約七百年の伝統を持つ祭礼である。
 
-The festival''s greatest distinction is, above all, its spirited portable shrines (mikoshi). The Sanja Matsuri is a "mikoshi festival" in which portable shrines, rather than floats, are the stars, with around 100 neighborhood mikoshi parading through the town of Asakusa. The sight of bearers jostling and hoisting the mikoshi to the rousing chant of "soiya, soiya" is full of intensity, with the spirit of the Edokko (true Tokyoites) bursting forth. On the final day, the three main shrine mikoshi of Asakusa Shrine are carried out, and the festival reaches its peak.
+## 歴史と由来
 
-Asakusa, which flourished as the temple-gate town of Sensō-ji, has been a center of common culture since the Edo period, and its vitality and human warmth are vividly expressed in the Sanja Matsuri. The spectacle of countless mikoshi being spiritedly carried about against the backdrop of the Nakamise shopping street and Sensō-ji Temple is the very essence of a downtown festival. Conveying to this day the chic and dashing tradition of Edo festivals, the Sanja Matsuri is a major early-summer festival symbolizing the pride of the people of Asakusa and the vitality of Tokyo''s downtown.','sanja-matsuri','sanja-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+三社祭の起源は、浅草神社の祭神とその由来にさかのぼる。社伝によれば、推古天皇の時代、漁師であった檜前浜成(ひのくまのはまなり)・竹成(たけなり)の兄弟が宮戸川(隅田川)で漁をしていたところ、一体の観音像を網にかけて引き上げた。これを郷土の文化人であった土師中知(はじのなかとも)が拝し、観音像を祀ったのが浅草寺の起こりと伝えられる。後にこの三人を神として祀ったのが浅草神社であり、三人の神を祀ることから「三社さま」と呼ばれ、その祭礼が「三社祭」と称されるようになった。
+
+祭礼の歴史は古く、約七百年の伝統を持つとされる。神仏習合の時代には、浅草寺と一体の祭りとして「三社権現祭」あるいは「観音祭」とも称された。江戸時代を通じて、祭りはおおむね旧暦の三月十七日・十八日に営まれていたと伝えられる。明治の神仏分離によって浅草寺と浅草神社が分けられた後、祭りは浅草神社の例大祭として現在の形に整えられ、開催時期も五月へと改められて今日に至っている。
+
+かつては観音像が川から現れた由緒にちなみ、船に神輿を乗せて隅田川を渡御する「船祭(ふなまつり)」の形式がとられた時期もあった。時代とともに祭りの形は変化してきたが、漁師の兄弟が観音像を引き上げたという開創の物語は、今も三社祭の根底に息づいている。
+
+三社祭の活気を支えているのは、浅草の氏子四十四ヶ町に受け継がれてきた強固な町内文化である。各町はそれぞれ独自の神輿と半纏を持ち、世代を超えて担ぎ手が育てられてきた。祭りが近づくと町ごとに準備が進み、神輿を担ぐ作法や掛け声、纏(まとい)の振り方などが先輩から後輩へと伝えられる。浅草という土地が、観光地としての顔を持ちながらも、今なお人々の暮らしに根ざした下町であり続けていることが、三社祭の熱気の源泉となっている。神輿を高々と担ぎ上げ、揺さぶる勇壮な担ぎ方は「江戸前」と称され、見る者を圧倒する。こうした氏子の結束と心意気が、約七百年の伝統を絶やすことなく今日へと運んできた。
+
+## 見どころ
+
+**町神輿連合渡御**
+
+祭りの中日にあたる土曜日には、氏子四十四ヶ町のおよそ百基にも及ぶ町神輿が浅草神社に集結し、順次担ぎ出されて各町へと渡御する町神輿連合渡御が行われる。色とりどりの半纏をまとった担ぎ手たちが、威勢のよい掛け声とともに大小の神輿を担ぎ上げ、浅草の街は一日を通じて熱気に包まれる。
+
+**宮神輿渡御**
+
+祭りの最終日である日曜日には、浅草神社の本社神輿三基(一之宮・二之宮・三之宮)が早朝に宮出しされ、氏子四十四ヶ町を一日がかりで渡御する宮神輿渡御が行われる。三柱の祭神の御霊を乗せた本社神輿が下町を巡る様は祭りの核心であり、担ぎ手と見物客の熱気が最高潮に達する。夕刻の宮入りで三基の神輿が浅草神社へ戻ると、三日間の祭りは幕を閉じる。
+
+**びんざさら舞**
+
+初日の金曜日には、東京都の無形文化財に指定されている「びんざさら舞」が奉納される。びんざさらと呼ばれる木製の楽器を用いた田楽の舞で、五穀豊穣や悪霊退散を願う古式ゆかしい神事芸能である。勇壮な神輿渡御とは趣を異にする、祭りの厳かな一面を伝える奉納芸能である。
+
+## 開催情報・アクセス
+
+三社祭は、五月の第三土曜日を基点とした金・土・日曜日の三日間にわたって開催される。初日にびんざさら舞などの奉納行事、中日に町神輿連合渡御、最終日に本社神輿渡御という流れで進行する。
+
+会場の浅草神社は、浅草寺本堂の東隣に鎮座する。東京メトロ銀座線・都営浅草線・東武スカイツリーラインの浅草駅、またはつくばエクスプレスの浅草駅から徒歩圏内にある。祭りの三日間は浅草一帯が大変な混雑となり、交通規制も敷かれるため、公共交通機関の利用が不可欠である。
+
+## 周辺の見どころ
+
+三社祭の舞台である浅草は、東京を代表する観光地である。隣接する浅草寺は、雷門と仲見世通り、壮麗な本堂と五重塔で知られ、年間を通じて国内外から多くの参拝者を集める。三社祭の歴史そのものが浅草寺の開創と一体であるため、両者をあわせて巡ることで祭りの由緒をより深く理解できる。
+
+仲見世の土産物店や下町情緒あふれる飲食店、隅田川沿いの遊歩道、対岸に望む東京スカイツリーなど、浅草周辺には見どころが集中している。隅田川の水上バスを利用すれば、かつて船祭が行われた川の景観を楽しみながら、お台場や浜離宮方面へと足をのばすこともできる。
+
+## 関連情報
+
+三社祭は、神田祭・山王祭とともに江戸三大祭の一つに数えられる、東京下町を代表する神輿祭りである。神田祭や山王祭が山車や天下祭の格式を特色とするのに対し、三社祭は氏子各町の町神輿と本社神輿による勇壮な神輿渡御を最大の特色とする。
+
+- 開催日: 五月第三土曜日を基点とした金・土・日の三日間
+- 都道府県: 東京都(関東)
+- 鎮座地: 台東区 浅草神社(浅草寺の東隣)
+- 祭神: 檜前浜成命・檜前竹成命・土師中知命(三社さま)
+- 歴史: 約七百年・神仏習合期は三社権現祭/観音祭
+- 規模: 氏子四十四ヶ町・三日間で約一八〇万人','## Overview
+
+Sanja Matsuri is the grand festival of Asakusa Shrine in Taito Ward, Tokyo, counted alongside Kanda Matsuri and the Sanno Festival as one of the three great festivals of Edo, and the foremost early-summer festival representing the Asakusa district. Centered on the forty-four parish neighborhoods of Asakusa Shrine, it unfolds over the three days of Friday, Saturday, and Sunday based on the third Saturday of May, with spirited and splendid portable-shrine processions as its main event. Drawing some 1.8 million visitors over its three days, it is one of Tokyo''s largest festivals.
+
+Retaining the rich atmosphere of old Edo, the sight of three main portable shrines and the neighborhood shrines of each parish district parading through the streets of Asakusa embodies the spirit of the downtown district. Set at Asakusa Shrine, adjoining Sensoji Temple, it is a festival with a tradition of about seven hundred years, deeply connected to the history of devotion to the Kannon.
+
+## History and Origins
+
+The origins of Sanja Matsuri go back to the enshrined deities of Asakusa Shrine and their legend. According to shrine tradition, in the era of Empress Suiko, the fisherman brothers Hinokuma no Hamanari and Takenari were fishing in the Miyato River, today the Sumida River, when they drew up a single statue of Kannon in their net. Haji no Nakatomo, a cultured man of the region, venerated this statue and enshrined it, which is said to be the beginning of Sensoji Temple. Later these three men were enshrined as deities, and because three deities are venerated, they came to be called the "Three Shrine Deities," and their festival came to be known as Sanja Matsuri, the Festival of the Three Shrines.
+
+The festival has an old history, said to span about seven hundred years. In the age of the fusion of Buddhism and Shinto, it was conducted as a festival united with Sensoji Temple and was also called the Sanja Gongen Festival or the Kannon Festival. Throughout the Edo period, the festival is said to have generally been held around the 17th and 18th days of the third month of the old lunar calendar. After Sensoji Temple and Asakusa Shrine were separated by the Meiji-era division of Buddhism and Shinto, the festival was reorganized into its present form as the grand festival of Asakusa Shrine, and its timing was changed to May, as it remains today.
+
+In earlier times, in keeping with the legend that the Kannon statue emerged from the river, there was a period when the festival took the form of a "boat festival," in which the portable shrines were placed on boats and carried across the Sumida River. Although the form of the festival has changed with the times, the founding story of the fisherman brothers drawing up the Kannon statue still lives at the heart of Sanja Matsuri.
+
+## Highlights
+
+**The United Procession of Neighborhood Shrines**
+
+On the Saturday at the middle of the festival, about one hundred neighborhood portable shrines from the forty-four parish districts gather at Asakusa Shrine and are carried out in turn to parade to each neighborhood in the United Procession of Neighborhood Shrines. Bearers in colorful happi coats hoist shrines large and small to spirited cries, and the streets of Asakusa are wrapped in fervor throughout the day.
+
+**The Procession of the Main Portable Shrines**
+
+On Sunday, the festival''s final day, the three main portable shrines of Asakusa Shrine, the First, Second, and Third Shrines, are brought out at dawn and spend the day parading through the forty-four parish districts. The sight of the main shrines, bearing the spirits of the three enshrined deities, touring the downtown district is the heart of the festival, and the fervor of bearers and spectators reaches its peak. When the three shrines return to Asakusa Shrine at the evening homecoming, the three-day festival comes to a close.
+
+**The Binzasara Dance**
+
+On the opening Friday, the Binzasara Dance, designated an Intangible Cultural Property of Tokyo, is dedicated. It is a dengaku dance using a wooden instrument called the binzasara, an ancient and elegant ritual performing art praying for a bountiful harvest and the expulsion of evil spirits. Differing in character from the spirited portable-shrine processions, this dedicatory art conveys the solemn side of the festival.
+
+## Dates and Access
+
+Sanja Matsuri is held over the three days of Friday, Saturday, and Sunday based on the third Saturday of May. The schedule proceeds with dedicatory events such as the Binzasara Dance on the first day, the United Procession of Neighborhood Shrines on the middle day, and the procession of the main portable shrines on the final day.
+
+Asakusa Shrine, the venue, sits just east of the main hall of Sensoji Temple. It is within walking distance of Asakusa Station on the Tokyo Metro Ginza Line, the Toei Asakusa Line, and the Tobu Skytree Line, or of Asakusa Station on the Tsukuba Express. During the three festival days, the entire Asakusa area becomes extremely crowded and traffic restrictions are in place, so the use of public transport is essential.
+
+## Around the Site
+
+Asakusa, the stage of Sanja Matsuri, is one of Tokyo''s foremost destinations. The adjoining Sensoji Temple, known for its Kaminarimon gate, the Nakamise shopping street, and its magnificent main hall and five-story pagoda, draws many worshippers from Japan and abroad throughout the year. Because the history of Sanja Matsuri is itself united with the founding of Sensoji, visiting both together allows a deeper understanding of the festival''s origins.
+
+Sights are concentrated around Asakusa, including the souvenir shops of Nakamise, restaurants full of downtown atmosphere, the riverside promenade along the Sumida, and the Tokyo Skytree visible across the river. Using a Sumida River water bus, one can enjoy the river scenery where the boat festival was once held while traveling toward Odaiba or the Hamarikyu gardens.
+
+## Related Information
+
+Sanja Matsuri is counted, together with Kanda Matsuri and the Sanno Festival, among the three great festivals of Edo, and is a portable-shrine festival representing the downtown of Tokyo. Whereas Kanda Matsuri and the Sanno Festival are characterized by their floats and the prestige of the Tenka Matsuri, Sanja Matsuri''s greatest distinction is its spirited portable-shrine processions by the neighborhood shrines of each parish and the main shrines.
+
+- Dates: the three days of Friday, Saturday, and Sunday based on the third Saturday of May
+- Prefecture: Tokyo (Kanto)
+- Location: Asakusa Shrine, Taito Ward (east of Sensoji Temple)
+- Deities: Hinokuma no Hamanari, Hinokuma no Takenari, Haji no Nakatomo (the Three Shrine Deities)
+- History: about 700 years; called the Sanja Gongen Festival / Kannon Festival in the syncretic age
+- Scale: 44 parish neighborhoods; about 1.8 million visitors over three days','sanja-matsuri','sanja-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1046742','コミックマーケット','Comiket','世界最大規模の同人誌即売会','world''s largest dōjinshi fair, held twice a year in Tokyo, Japan','Q1359125','東京国際展示場','Tokyo Big Sight','東京都','kanto',35.630833333,139.796666666,1975,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cosplayers%20of%20Comiket%2069.jpg','https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88','https://en.wikipedia.org/wiki/Comiket',95,'drafted','## 概要
 
 コミックマーケット(通称コミケ、Comiket)は、毎年夏(8月中旬)と冬(12月末)の年2回、東京都江東区有明の東京国際展示場(東京ビッグサイト)で開催される、世界最大規模の同人誌即売会です。1日あたり数十万人、3日間で延べ50〜60万人もの参加者が集う、日本のサブカルチャーを象徴するイベントとして国際的にも広く認知されています。
@@ -1246,15 +1430,107 @@ The Shuni-e (Omizutori) of the Nigatsu-dō at Tōdai-ji is one of Japan''s repre
 
 Please note that the origins and the details of individual rites partly rely on tradition, and the specific schedule and the content of the practices may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','omizutori','omizutori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11236230','デザインフェスタ','Design Festa',NULL,'biannual fashion and music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF','https://en.wikipedia.org/wiki/Design_Festa',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11596116','秩父夜祭','Chichibu Night Festival','埼玉県秩父市にある秩父神社の例祭','Chichibu Shrine''s annual festival celebrated on the nights of December 1-6','Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/ChichibuFes1.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD','https://en.wikipedia.org/wiki/Chichibu_Night_Festival',85,'drafted','秩父夜祭（ちちぶよまつり）は、埼玉県秩父市の秩父神社の例祭で、毎年12月2日・3日に行われる。京都の祇園祭、飛騨の高山祭と並んで「日本三大曳山祭」の一つに数えられる、絢爛豪華な冬の祭典である。300年以上の歴史を誇り、師走の夜空を彩る祭りとして全国的に知られている。
+INSERT INTO "festivals" VALUES('Q11596116','秩父夜祭','Chichibu Night Festival','埼玉県秩父市にある秩父神社の例祭','Chichibu Shrine''s annual festival celebrated on the nights of December 1-6','Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/ChichibuFes1.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD','https://en.wikipedia.org/wiki/Chichibu_Night_Festival',85,'drafted','## 概要
 
-祭りの主役は、精緻な彫刻と豪華な装飾で飾られた笠鉾2基・屋台4基、計6基の山車である。なかでも最大の見どころは、3日の夜に繰り広げられる「団子坂(だんござか)曳き上げ」である。重さ最大20トンにも及ぶ巨大な笠鉾・屋台を、数百人の曳き手が「ホーリャイ、ホーリャイ」の掛け声とともに、急な団子坂を一気に曳き上げる。その勇壮な光景に、観衆の興奮は最高潮に達する。
+秩父夜祭(ちちぶよまつり)は、埼玉県秩父市の秩父神社で毎年十二月に営まれる例祭で、京都の祇園祭、岐阜の高山祭と並んで日本三大曳山祭の一つに数えられる、関東を代表する冬の大祭である。絢爛豪華な二台の笠鉾(かさぼこ)と四台の屋台が曳きまわされ、冬の澄んだ夜空に大輪の花火が打ち上げられることで知られ、毎年およそ二十万人もの見物客が訪れる。
 
-さらに、団子坂を上りきった山車が御旅所に勢ぞろいする頃、冬の澄んだ夜空に約7,000発もの花火が打ち上げられる。冬の花火と提灯に彩られた絢爛な山車が織りなす光景は、まさに幻想的である。秩父夜祭は1962年に国の重要無形民俗文化財に指定され、2016年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された。秩父の冬を熱く焦がすこの祭りは、絹織物で栄えた秩父の人々の心意気を今に伝える、日本を代表する冬祭りである。','The Chichibu Night Festival is the annual festival of Chichibu Shrine in Chichibu, Saitama Prefecture, held every December 2nd and 3rd. It is a magnificent and ornate winter celebration counted, alongside Kyoto''s Gion Festival and Hida''s Takayama Festival, as one of Japan''s "three great float festivals." With over 300 years of history, it is nationally renowned as a festival coloring the December night sky.
+「秩父祭の屋台行事と神楽」は国の重要無形民俗文化財に指定されており、二〇一六年には全国の「山・鉾・屋台行事」三十三件の一つとして、ユネスコ無形文化遺産にも登録された。冬の祭りでありながら花火が打ち上げられる珍しさと、最大二十トンにも及ぶ笠鉾・屋台を急坂に曳き上げる圧巻の場面で、国内外に広く知られている。
 
-The stars of the festival are six floats—two kasaboko and four yatai—adorned with intricate carvings and lavish decorations. The greatest highlight is the "Dangozaka pull-up" performed on the night of the 3rd. Several hundred pullers haul the gigantic floats, weighing up to 20 tons, up the steep Dango Slope in one go, to the chant of "hōryai, hōryai." This spirited spectacle brings the crowd''s excitement to its peak.
+## 歴史と由来
 
-Furthermore, as the floats that have crested the Dango Slope assemble at the festival ground, around 7,000 fireworks are launched into the clear winter night sky. The scene woven by winter fireworks and the splendid floats adorned with lanterns is truly dreamlike. The Chichibu Night Festival was designated an Important Intangible Folk Cultural Property of Japan in 1962, and in 2016 registered as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan." Setting Chichibu''s winter ablaze, this festival conveys the spirit of the people of Chichibu, who prospered through silk weaving, and ranks among the representative winter festivals of Japan.','chichibu-night-festival','chichibu-night-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+秩父神社は、秩父地方の総鎮守として古くから信仰を集めてきた古社である。秩父夜祭は、その秩父神社の例祭として、少なくとも江戸時代中期にはほぼ現在の形が整っていたと伝えられ、三百年を超える歴史を持つとされる。
+
+この祭りには、秩父神社の女神と、近くにそびえる武甲山(ぶこうさん)の男神とが、年に一度逢瀬を重ねるという伝承が結びついている。十二月の祭りは、両神が出会う神聖な夜とされ、笠鉾や屋台の曳行はその逢瀬を祝い盛り立てるものと語り継がれてきた。秩父はかつて絹織物(秩父銘仙)の産地として栄えた土地であり、その経済力を背景に、祭りの笠鉾や屋台は精巧な彫刻や金具、幕で豪華に飾り立てられるようになった。江戸の文化や職人技を取り込みながら発展した山車文化が、今日の絢爛たる祭りを支えている。
+
+二〇一六年(平成二十八年)十二月一日、ユネスコの政府間委員会において「山・鉾・屋台行事」三十三件が無形文化遺産に登録され、秩父夜祭(秩父祭の屋台行事と神楽)もその一つとして世界的に認められた。これにより、秩父夜祭は地域の祭礼にとどまらず、日本の山車祭り文化を代表する存在として広く知られるようになった。
+
+秩父夜祭の絢爛さを語るうえで欠かせないのが、この地の経済的な背景である。秩父は古くから養蚕と絹織物が盛んな土地で、とりわけ「秩父銘仙」と呼ばれる先染めの絹織物は、明治から昭和初期にかけて全国に知られる特産品となった。祭りはかつて、その年の繭や生糸の取引を締めくくる「絹大市(きぬのおおいち)」と結びついて営まれ、織物商人たちの財力が笠鉾や屋台を豪華に飾り立てる原動力となった。彫刻や金具、刺繍幕にふんだんに費やされた富は、秩父の人々が祭りに注いできた誇りの表れでもある。山あいの町が、織物の繁栄を背景にこれほどの曳山文化を育んだ点に、秩父夜祭の特色がある。
+
+## 見どころ
+
+**笠鉾と屋台の曳行**
+
+祭りの主役は、二台の笠鉾と四台の屋台である。いずれも豪華な彫刻と金工、刺繍幕で飾られた壮麗な造りで、最大のものは重さ二十トンにも達する。これらが勇壮な屋台囃子のリズムに乗って、秩父の市街地を曳きまわされる。屋台の上では、地芝居である屋台歌舞伎や、子どもたちによる曳き踊りが上演され、移動する舞台としての役割も果たす。
+
+**団子坂の曳き上げ**
+
+祭りのクライマックスは、十二月三日の夜に訪れる。各笠鉾・屋台が秩父神社を出発し、御旅所のある団子坂(だんござか)と呼ばれる急坂を一気に曳き上げる場面である。二十トン近い巨大な笠鉾・屋台を、大勢の曳き手が掛け声とともに急勾配へと引き上げる様は、まさに祭り最大の見せ場であり、観衆の興奮は最高潮に達する。
+
+**冬空の花火**
+
+秩父夜祭は、冬に大規模な花火が打ち上げられる全国でも珍しい祭りである。澄み切った師走の夜空に、笠鉾・屋台の曳行や団子坂の曳き上げと呼応するように、長時間にわたって花火が打ち上げられる。寒空に咲く大輪の花火と、提灯に彩られた笠鉾・屋台の灯りが織りなす光景は、秩父夜祭ならではの幻想的な美しさである。
+
+## 開催情報・アクセス
+
+秩父夜祭は、毎年十二月二日が宵宮(よいみや)、十二月三日が大祭(本祭)として営まれる。クライマックスとなる団子坂の曳き上げと花火は、十二月三日の夜に集中する。
+
+会場の秩父神社およびその周辺は、秩父鉄道の秩父駅から徒歩圏内、西武秩父線の西武秩父駅からも徒歩でアクセスできる。都心からは西武鉄道の特急などを利用して訪れることができる。祭り当日は二十万人規模の人出となり、交通規制も敷かれるため、公共交通機関の利用と、冬の夜の厳しい寒さに備えた防寒対策が不可欠である。
+
+## 周辺の見どころ
+
+秩父は、関東有数の自然と歴史に恵まれた観光地である。祭りの伝承とも結びつく武甲山は、秩父盆地のシンボルとしてそびえ、その姿は市街地の各所から望むことができる。祭りの常設展示施設である秩父まつり会館では、実物の笠鉾・屋台や祭りの様子を一年を通じて見学でき、夜祭の時期以外に訪れても祭りの迫力に触れられる。
+
+秩父地方は、秩父三十四箇所観音霊場の巡礼地としても知られ、長瀞の渓谷美やライン下り、羊山公園の芝桜など、四季折々の見どころが点在する。秩父夜祭の参拝とあわせて、秩父の自然と信仰の文化を巡る旅を楽しめる。
+
+## 関連情報
+
+秩父夜祭は、京都祇園祭・飛騨高山祭と並ぶ日本三大曳山祭の一つとされ、また日本三大美祭(高山祭・京都祇園祭・秩父夜祭)に数えられることもある。同じくユネスコ無形文化遺産「山・鉾・屋台行事」に登録された全国の山車祭りとは、日本各地で受け継がれてきた曳山文化を共有する仲間にあたる。
+
+- 開催日: 十二月二日(宵宮)・十二月三日(大祭)
+- 都道府県: 埼玉県(関東)
+- 鎮座地: 秩父市 秩父神社
+- 文化財: 国重要無形民俗文化財「秩父祭の屋台行事と神楽」
+- 世界遺産: 二〇一六年ユネスコ無形文化遺産「山・鉾・屋台行事」登録
+- 規模: 笠鉾二台・屋台四台(最大約二十トン)・来場約二十万人','## Overview
+
+The Chichibu Night Festival, or Chichibu Yomatsuri, is the annual festival of Chichibu Shrine in Chichibu City, Saitama Prefecture, held every December. Counted alongside the Gion Festival of Kyoto and the Takayama Festival of Gifu as one of the three great float festivals of Japan, it is a leading winter festival of the Kanto region. Two gorgeously decorated kasaboko float-towers and four festival floats are pulled through the streets, and large fireworks are launched into the clear winter night sky, drawing some two hundred thousand spectators each year.
+
+The "Float Ceremony and Kagura of the Chichibu Festival" is designated an Important Intangible Folk Cultural Property of Japan, and in 2016 it was inscribed on the UNESCO list of Intangible Cultural Heritage as one of thirty-three "Yama, Hoko, Yatai float festivals." Famed for the rarity of launching fireworks during a winter festival and for the breathtaking scene in which floats weighing up to twenty tons are hauled up a steep slope, it is widely known both in Japan and abroad.
+
+## History and Origins
+
+Chichibu Shrine is an ancient shrine that has long drawn faith as the general guardian shrine of the Chichibu region. The Chichibu Night Festival, as its annual festival, is said to have taken roughly its present form by the mid-Edo period at the latest, and is held to possess a history of more than three hundred years.
+
+The festival is bound up with a legend that the goddess of Chichibu Shrine and the god of nearby Mount Buko meet once a year for a tryst. The December festival is regarded as the sacred night on which the two deities meet, and the pulling of the kasaboko and floats has been handed down as a celebration of that encounter. Chichibu once flourished as a producer of silk textiles known as Chichibu meisen, and against the backdrop of this economic strength, the festival''s float-towers and floats came to be lavishly adorned with fine carvings, metalwork, and curtains. A float culture that absorbed the arts and craftsmanship of Edo underpins the resplendent festival of today.
+
+On December 1, 2016, the intergovernmental committee of UNESCO inscribed thirty-three "Yama, Hoko, Yatai float festivals" as Intangible Cultural Heritage, and the Chichibu Night Festival was recognized among them. This brought the festival recognition not merely as a local rite but as a representative example of Japan''s float-festival culture.
+
+## Highlights
+
+**The Procession of Float-Towers and Floats**
+
+The stars of the festival are its two kasaboko float-towers and four festival floats. All are magnificently built and adorned with elaborate carvings, metalwork, and embroidered curtains, the largest reaching a weight of twenty tons. These are pulled through the streets of central Chichibu to the rhythm of spirited float music. Atop the floats, local kabuki theater and dances performed by children are staged, so that the floats also serve as moving stages.
+
+**The Haul Up Dango-zaka**
+
+The climax of the festival comes on the night of December 3. Each kasaboko and float departs Chichibu Shrine and is hauled in one effort up the steep slope known as Dango-zaka, where the resting place of the deity stands. The sight of crowds of pullers heaving the giant float-towers and floats, weighing nearly twenty tons, up the steep grade to the sound of their cries is the festival''s greatest spectacle, and the excitement of the crowd reaches its peak.
+
+**Fireworks in the Winter Sky**
+
+The Chichibu Night Festival is one of the few festivals in the country to launch large-scale fireworks in winter. Into the crystal-clear December night sky, fireworks are set off over a long period in concert with the pulling of the floats and the haul up Dango-zaka. The scene woven by the great blossoms of fireworks blooming in the cold sky and the lantern-lit glow of the kasaboko and floats is a fantastical beauty unique to the Chichibu Night Festival.
+
+## Dates and Access
+
+The Chichibu Night Festival is held with December 2 as the eve festival and December 3 as the grand festival every year. The climactic haul up Dango-zaka and the fireworks are concentrated on the night of December 3.
+
+Chichibu Shrine and its surroundings are within walking distance of Chichibu Station on the Chichibu Railway and Seibu-Chichibu Station on the Seibu Chichibu Line. The site can be reached from central Tokyo using limited express trains of the Seibu Railway and other services. On the festival days, crowds of some two hundred thousand gather and traffic restrictions are in place, so the use of public transport and preparation for the severe cold of the winter night are essential.
+
+## Around the Site
+
+Chichibu is one of the Kanto region''s foremost destinations for nature and history. Mount Buko, linked to the festival''s legend, rises as the symbol of the Chichibu basin, and its form can be seen from many points in the city. At the Chichibu Festival Hall, the festival''s permanent exhibition facility, actual kasaboko and floats and scenes of the festival can be viewed throughout the year, so visitors can experience the festival''s power even outside the season of the night festival.
+
+The Chichibu region is also known as a pilgrimage site for the thirty-four Kannon temples of Chichibu, and scenic spots dot the area through the seasons, including the gorge scenery and river-boating of Nagatoro and the moss phlox of Hitsujiyama Park. A visit to the Chichibu Night Festival can be combined with a journey through the nature and faith culture of Chichibu.
+
+## Related Information
+
+The Chichibu Night Festival is regarded as one of the three great float festivals of Japan, alongside the Gion Festival of Kyoto and the Takayama Festival of Hida, and is also sometimes counted among the three most beautiful festivals of Japan, together with the Takayama Festival and the Kyoto Gion Festival. It shares the float culture handed down throughout Japan with the other float festivals across the country inscribed as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals."
+
+- Dates: December 2 (eve festival), December 3 (grand festival)
+- Prefecture: Saitama (Kanto)
+- Location: Chichibu Shrine, Chichibu City
+- Cultural Property: Important Intangible Folk Cultural Property "Float Ceremony and Kagura of the Chichibu Festival"
+- World Heritage: inscribed in 2016 as UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals"
+- Scale: two kasaboko and four floats (up to about 20 tons); some 200,000 visitors','chichibu-night-festival','chichibu-night-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28153869','ウルトラ・ジャパン','Ultra Japan','毎年9月にお台場で開催されているエレクトロニック・ダンス・ミュージックのイベント','electronic music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3','https://en.wikipedia.org/wiki/Ultra_Japan',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21653307','しろんご祭り','Shirongo Matsuri','三重県鳥羽市の菅島で受け継がれている海女の伝統行事','Japanese festival',NULL,NULL,NULL,'三重県','kinki',34.5025,136.906388888,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%8D%E3%82%93%E3%81%94%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Shirongo_Matsuri',75,'drafted','## 概要
 
@@ -12663,11 +12939,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
