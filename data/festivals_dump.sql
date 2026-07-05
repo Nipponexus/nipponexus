@@ -13012,38 +13012,114 @@ The festival''s greatest distinction is the enormous handmade papier-mâché dec
 
 Walking through the arcade overflowing overhead with colorful streamers, paper strips, and unique papier-mâché figures, one feels an exhilaration as if wandering into an extraordinary world. During the period, the festival bustles with crowds of hundreds of thousands, and the shops of the arcade come alive. Colored by the creativity and ingenuity of residents and shopkeepers, this festival in the downtown-flavored shopping street of Asagaya conveys to this day the charm of a handmade summer festival rooted in the local community.','asagaya-tanabata-festival','asagaya-tanabata-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11634237','豊見城ハーリー','Tomigusuku Hārī',NULL,NULL,'Q371446','豊見城市','Tomigusuku','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tomishiro%20ha-ri.jpg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%A6%8B%E5%9F%8E%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,80,'drafted','## 概要
-豊見城ハーリーは、沖縄県豊見城市で行われる、爬龍船（はりゅうせん）と呼ばれる龍をかたどった船による競漕（きょうそう）の行事である。沖縄の伝統行事「ハーリー」は、航海の安全や豊漁を祈願して沖縄各地で営まれてきたもので、鉦（かね）の音と漕ぎ手の威勢のよい掛け声が響く中、海面を切り裂くように進む船の姿が、初夏から夏の沖縄を熱く彩る。豊見城は、那覇ハーリーと並ぶハーリー発祥の地とされる由緒ある土地であり、豊見城ハーリーはその歴史的な背景を受け継ぐ行事として地域で大切にされている。単なる競技ではなく、海とともに生きてきた沖縄の人々の祈りと暮らしが凝縮された、沖縄ならではの海の祭りである。
+豊見城ハーリーは、沖縄県豊見城市で受け継がれる、爬龍船（はりゅうせん）と呼ばれる龍をかたどった船による競漕（きょうそう）の行事である。沖縄の伝統行事「ハーリー」は、航海の安全や豊漁を祈願して沖縄各地で営まれてきたもので、鉦（かね）の音と漕ぎ手の威勢のよい掛け声が響くなか、海面を切り裂くように進む船の姿が、初夏から夏の沖縄を熱く彩る。豊見城は、那覇と並んで沖縄ハーリー発祥の地とされる由緒ある土地であり、その名は琉球の史書にも刻まれている。
+
+豊見城ハーリーは、単なる競技ではなく、海とともに生きてきた沖縄の人々の祈りと暮らしが凝縮された海の祭りである。発祥の地という誇りを背景に、現在では歴史的な神事を今に伝える「豊見城ハーリー由来まつり」と、現代的な競漕大会である「豊見城ハーリー大会」という二つのかたちで、地域の人々の手によって大切に守り継がれている。
 
 ## 歴史・由来
-ハーリーは、沖縄に古くから伝わる海の祭りであり、その起源は琉球の時代にまでさかのぼるとされる。旧暦の5月4日、沖縄で「ユッカヌヒー」と呼ばれる日や、旧暦のお盆前後に行われる海神祭（うんじゃみ）などの折に、航海の安全と豊漁を祈願して爬龍船による競漕が行われてきた。海に囲まれ、漁業や海上交易とともに生きてきた沖縄の人々にとって、海は恵みをもたらすと同時に脅威でもある存在であった。そのため、ハーリーは単なる競技ではなく、海の神に対して安全と豊漁を祈り、感謝を捧げる神事としての深い意味をもっている。豊見城市は、このハーリー発祥の地のひとつとして知られ、市内の豊見瀬嶽（とぅみせだき）という御嶽（うたき・沖縄の聖地）が、その由来と深く結びついている。御嶽は沖縄の信仰において神が宿るとされる神聖な場所であり、ハーリーがもつ祈りの行事としての性格を裏づけている。古い伝承では、王が各地を巡る「豊見城上い（ぬぶい）」にならって、ハーリー発祥の地である豊見城の御嶽において、那覇ハーリーと豊見城ハーリーにまつわる神事が営まれてきたと伝えられる。こうした由緒を背景に、豊見城ハーリーは地域の人々の手で世代を超えて受け継がれ、現代でも市の行事として開催が重ねられている。
+沖縄のハーリーの起源については複数の伝承があり、明の福建から渡来した閩人三十六姓（びんじんさんじゅうろくせい）が伝えたとする説、進貢使であった長濱大夫が南京で龍舟を学んで持ち帰ったとする説、そして南山王・汪応祖（おうおうそ）が中国留学ののちに伝えたとする説の三説が知られる。いずれとも断定はできないが、豊見城はこのうち汪応祖伝来説と深く結びつく土地である。
+
+汪応祖は南山（山南）王国の王で、在位は1402年から1413年とされ、明の都・南京に留学し、帰国後に豊見城グスク（城）を築いた人物と伝えられる。琉球王国の史書『球陽』（1745年編纂）によれば、1400年ごろ、汪応祖は中国留学中に目にした龍舟を模したハーリー船を漫湖（まんこ）に浮かべて競漕を催し、那覇・泊・久米の三村がそれぞれ船を造って競い合ったことが、沖縄ハーリーの始まりとされる。海と交易に生きた琉球の人々にとって、海は恵みであると同時に脅威でもあり、ハーリーには航海安全と豊漁を祈る神事としての深い意味が込められていた。
+
+さらに『琉球国由来記』『琉球国日記』には、競漕の際にハーリー舟をチーヤと呼ばれる小さな浮島へ漕ぎ入れ、豊見城内の豊見瀬御嶽（とみせうたき）でユガフー（豊年祈願）の拝礼を行ったと記されている。御嶽は神が宿るとされる沖縄の聖地であり、豊見城ハーリーが競技である以前に祈りの行事であったことを物語っている。豊見瀬御嶽が発祥の舞台とされる点は、この地が「ハーリー発祥の地」と呼ばれる根拠となっている。
+
+こうした神事は廃藩置県後にいったん途絶えたが、平成15年（2003年）に「豊見城ハーリー由来まつり」として復活し、以後は毎年、豊見瀬御嶽で拝礼の神事が執り行われている。さらに平成20年（2008年）からは、豊見城龍船協会が主催する競漕大会「豊見城ハーリー大会」も始まり、伝統の神事と現代のスポーツ的な競漕とが、それぞれの役割をもって併存する現在のかたちが整った。
 
 ## 見どころ
-最大の見どころは、龍をかたどった爬龍船による迫力ある競漕そのものである。色鮮やかに装飾された船に大勢の漕ぎ手が乗り込み、鉦の音と威勢のよい掛け声に合わせて一斉に櫂（かい）を漕ぎ、海面を猛烈な勢いで進んでいく。何艘もの船が横一線に並んで競い合う様子は、見る者の胸を高鳴らせ、海辺は一気に熱気に包まれる。漕ぎ手たちが寸分の狂いもなく息を合わせ、力を振り絞って櫂を漕ぐ姿には、地域の連帯感と、海とともに生きてきた人々の誇りがにじみ出る。一艘の船を速く進めるには、個々の力だけでなく、漕ぎ手全員の呼吸を一つにすることが欠かせず、そこに共同体の結束が試される。沖縄各地のハーリーには地域ごとの個性があり、豊見城ハーリーもまた、発祥の地ならではの伝統を踏まえた行事として独自の雰囲気をもつ。競漕のほかにも、地域の人々が集い、祈りと祝祭をともにする場として、観客と担い手が一体となって盛り上がる点も大きな魅力である。初夏から夏にかけての沖縄の強い日差しと熱気、海辺に響き渡る鉦の音、漕ぎ手の掛け声が織りなす光景は、一度体感すると忘れがたい鮮烈な印象を残す。
+**爬龍船による迫力の競漕**
+最大の見どころは、龍をかたどった爬龍船による競漕そのものである。色鮮やかに装飾された船に大勢の漕ぎ手が乗り込み、鉦の音と掛け声に合わせて一斉に櫂（かい）を漕ぎ、海面を猛烈な勢いで進んでいく。何艘もの船が横一線で競い合う様は、見る者の胸を高鳴らせる。
+
+**呼吸を合わせる共同体の力**
+一艘の船を速く進めるには、個々の力だけでなく漕ぎ手全員の呼吸を一つにすることが欠かせない。寸分の狂いもなく櫂をそろえる姿には、海とともに生きてきた地域の連帯と誇りがにじむ。速さを競う競技のなかに、共同体の結束そのものが試される点が、この行事の奥深さである。
+
+**発祥の地ならではの由緒**
+豊見城ハーリーは、汪応祖伝来説や豊見瀬御嶽での神事という発祥の由緒を背負う点で、他地域のハーリーとは異なる重みをもつ。競漕を見るだけでなく、その背後にある琉球王国以来の歴史に思いを馳せられることが、この地のハーリーならではの味わいである。
+
+**由来まつりの神事**
+「豊見城ハーリー由来まつり」では、競漕に先立ち、あるいは併せて、豊見瀬御嶽での拝礼の神事が営まれる。華やかな競漕とは対照的な、静かで厳かな祈りの場面は、ハーリーが本来もつ宗教的性格を今に伝える貴重な見どころである。
+
+**海辺を包む熱気**
+初夏から夏にかけての強い日差しと熱気、海辺に響き渡る鉦の音、漕ぎ手の掛け声が織りなす光景は、一度体感すると忘れがたい。観客と担い手が一体となって盛り上がる会場の空気そのものが、大きな魅力となっている。
+
+**地域の祝祭としての一体感**
+競漕のほかにも、地域の人々が集い、祈りと祝祭をともにする場としての側面が強い。世代を超えて受け継がれてきた行事に、住民が担い手として関わり続けている点に、沖縄の祭りの生命力が表れている。
 
 ## 開催情報・アクセス
-豊見城ハーリーは、沖縄の伝統に基づき、初夏から夏にかけての時期に豊見城市内で開催される。本来のハーリーは旧暦5月4日（ユッカヌヒー）を中心に各地で営まれる行事であり、旧暦に基づくため、新暦では初夏から夏にあたる時期に行われる。会場の豊見城市は沖縄本島南部に位置し、那覇市の南に隣接しているため、那覇方面から車などでアクセスしやすい。海辺で行われる行事であるため、開催にあたっては天候や潮の状況も関わってくる。具体的な開催日や会場、プログラムの詳細は毎年主催者から発表されるため、観覧を希望する場合は事前に確認しておくのが望ましい。海上で繰り広げられる競漕を間近で見られる機会であり、沖縄の夏の風物詩として訪れる価値がある。
+- **開催地**: 沖縄県豊見城市（沖縄本島南部・那覇市の南に隣接）
+- **由来まつり（神事）**: 「豊見城ハーリー由来まつり」は平成15年（2003年）に復活。毎年5月ごろ、豊見瀬御嶽での拝礼の神事を中心に営まれる
+- **ハーリー大会（競漕）**: 「豊見城ハーリー大会」は平成20年（2008年）開始。豊見城龍船協会が主催し、近年は7月中旬から8月上旬にかけて豊崎美らSUNビーチ周辺の水域で開催される
+- **伝統的な時期**: 沖縄のハーリーは本来、旧暦5月4日（ユッカヌヒー）を中心に各地で営まれる行事であり、新暦では初夏から夏にあたる
+- **アクセス**: 那覇市に隣接するため、那覇方面から車でアクセスしやすい。海辺で行われるため天候・潮の状況が関わる
+- **確認事項**: 具体的な開催日・会場・プログラムは毎年主催者から発表されるため、観覧希望の場合は事前確認が望ましい
 
 ## 周辺の見どころ
-豊見城市は沖縄本島南部にあり、海に面した立地を活かした見どころが点在する。市内には大型の商業施設や、海辺の景観を楽しめるスポットがあり、ハーリーの観覧とあわせて南部観光を楽しむことができる。隣接する那覇市までは近く、首里城をはじめとする琉球王国ゆかりの史跡や、国際通りなどの繁華街にも足を延ばしやすい。さらに南へ向かえば、沖縄戦の歴史を今に伝える糸満市の平和祈念公園など、沖縄本島南部ならではの史跡も訪ねることができる。海の行事であるハーリーを軸に、琉球王国の歴史や沖縄戦の記憶など、沖縄の多層的な歩みにも触れられるのが、この地域を訪れる魅力である。
+豊見城市は沖縄本島南部に位置し、海に面した立地を活かした見どころが点在する。市内には大型の商業施設や、海辺の景観を楽しめるスポットがあり、ハーリーの観覧とあわせて南部観光を楽しむことができる。競漕大会の会場周辺は、ビーチやレジャー施設が集まる一帯で、家族連れでも過ごしやすい。
+
+隣接する那覇市までは近く、首里城をはじめとする琉球王国ゆかりの史跡や、国際通りなどの繁華街にも足を延ばしやすい。ハーリーの発祥伝承が琉球王国の歴史に根ざしていることを思えば、王国時代の史跡巡りとハーリー観覧を組み合わせる旅は、この地域ならではの深い体験となる。
+
+さらに南へ向かえば、沖縄戦の歴史を今に伝える糸満市の平和祈念公園など、沖縄本島南部ならではの史跡も訪ねられる。海の行事であるハーリーを軸に、琉球王国の歴史や沖縄戦の記憶といった沖縄の多層的な歩みにも触れられるのが、この地域を訪れる魅力である。
 
 ## 関連情報
-豊見城ハーリーは、沖縄各地で営まれるハーリー（爬龍船競漕）という伝統行事の一つであり、航海安全と豊漁を祈願する海の神事という共通の性格をもつ。とりわけ豊見城は那覇と並ぶハーリー発祥の地とされ、御嶽（豊見瀬嶽）にまつわる由緒を背景にもつ点で、沖縄のハーリー文化の源流を考えるうえで重要な位置を占める。糸満ハーレーなど他地域のハーリー行事と並べて見ることで、沖縄の海の祭りの多様さと共通する祈りのかたちが見えてくる。海とともに歩んできた沖縄の人々の信仰と暮らしが、現代まで途切れることなく受け継がれている行事といえる。','## Overview
-The Tomigusuku Hari is a dragon-boat race held in Tomigusuku City, Okinawa Prefecture, using "haryusen"—boats shaped like dragons. The Okinawan tradition known as "hari" has been performed across the islands as a prayer for safe voyages and bountiful catches. Amid the sound of gongs and the spirited cries of the rowers, the sight of boats slicing across the water lends fiery color to Okinawa from early summer into summer. Tomigusuku is said to be one of the birthplaces of hari, alongside the Naha Hari, and the Tomigusuku Hari is cherished by the community as an event carrying on this historical background. Far from a mere competition, it is a quintessentially Okinawan festival of the sea, distilling the prayers and daily life of people who have lived with the ocean.
+- **開催時期**: 由来まつりは5月ごろ（神事）、ハーリー大会は7〜8月ごろ（競漕）
+- **所在地**: 沖縄県豊見城市（沖縄本島南部）
+- **起源伝承**: 南山王・汪応祖が約1400年ごろに伝えたとする説（『球陽』等）。ほかに閩人三十六姓伝来説・長濱大夫伝来説あり
+- **発祥の聖地**: 豊見瀬御嶽（とみせうたき）。チーヤ（小浮島）とともに神事の舞台とされる
+- **主催・運営**: 豊見城ハーリー大会は豊見城龍船協会が主催（2008年〜）
+- **関連行事**: 糸満ハーレー、那覇ハーリーなど沖縄各地のハーリー（爬龍船競漕）。いずれも航海安全と豊漁を祈願する海の神事という共通の性格をもつ','## Overview
+The Tomigusuku Hari is a dragon-boat race handed down in Tomigusuku City, Okinawa Prefecture, using haryusen, boats shaped like dragons. The Okinawan tradition known as hari has been performed across the islands as a prayer for safe voyages and bountiful catches. Amid the sound of gongs and the spirited cries of the rowers, the sight of boats slicing across the water lends fiery color to Okinawa from early summer into the height of summer. Tomigusuku, together with Naha, is regarded as one of the birthplaces of Okinawan hari, and its name is inscribed even in the historical chronicles of the Ryukyu Kingdom.
+
+Far from a mere competition, the Tomigusuku Hari is a festival of the sea that distills the prayers and daily life of people who have lived alongside the ocean. Carrying the pride of a birthplace of hari, it survives today in two forms: the Tomigusuku Hari Origin Festival, which preserves the ancient sacred rite, and the Tomigusuku Hari Tournament, a modern racing event. Both are cherished and maintained by the hands of the local community.
 
 ## History & Origins
-Hari is a festival of the sea handed down in Okinawa since ancient times, with origins said to reach back to the era of the Ryukyu Kingdom. On the fourth day of the fifth lunar month—called "Yukkanuhi" in Okinawa—and around the time of the lunar Obon during sea-god rites (unjami), dragon-boat races have been held to pray for safe voyages and good catches. For the people of Okinawa, surrounded by the sea and living with fishing and maritime trade, the ocean was a source of blessings yet also a threat. Thus hari is not merely a contest but carries the deep meaning of a sacred rite, offering prayers and gratitude to the gods of the sea for safety and abundance. Tomigusuku City is known as one of the birthplaces of hari, and the Tomisedaki, a sacred site (utaki) within the city, is deeply connected with its origins. The utaki is a holy place where deities are believed to dwell in Okinawan faith, underscoring the character of hari as a ritual of prayer. According to old tradition, following the king''s circuit known as "Tomigusuku-nubui," rites concerning both the Naha Hari and the Tomigusuku Hari were performed at the utaki of Tomigusuku, the birthplace of hari. Against this venerable background, the Tomigusuku Hari has been handed down by local people across generations and continues to be held as a civic event today.
+Several traditions account for the origins of Okinawan hari. One holds that it was introduced by the Bin-jin sanjuroku-sei, thirty-six families from Fujian in Ming China; another that the tribute envoy Nagahama Taifu learned of dragon boats in Nanjing and brought the practice home; and a third that Wang Oso, king of the southern Ryukyu polity, transmitted it after studying in China. None can be asserted as definitive, but Tomigusuku is the land most deeply tied to the Wang Oso tradition.
+
+Wang Oso was a king of the Sanzan (Sannan) kingdom of southern Okinawa, said to have reigned from 1402 to 1413. According to tradition he studied in the Ming capital of Nanjing and, upon his return, built Tomigusuku Castle. The Ryukyu chronicle Kyuyo, compiled in 1745, records that around the year 1400 Wang Oso floated hari boats modeled on the dragon boats he had seen in China upon Lake Manko and held a race, in which the three villages of Naha, Tomari, and Kume each built a boat and competed. This is regarded as the beginning of Okinawan hari. For a people whose lives depended on the sea and on maritime trade, the ocean was both a source of blessing and a source of danger, and the hari carried the deep meaning of a rite praying for safe voyages and abundant catches.
+
+The chronicles Ryukyu-koku Yuraiki and Ryukyu-koku Nikki further record that during the race the hari boats were rowed to a small floating islet called Chiya, and that worshippers offered prayers for yugafu, an abundant harvest, at the Tomise-utaki, a sacred site within Tomigusuku. The utaki is a holy place where deities are believed to dwell, and its role here shows that the Tomigusuku Hari was, before it was ever a contest, an act of prayer. That the Tomise-utaki is held to be the stage of the festival''s origin is the very basis for calling this land the birthplace of hari.
+
+These rites lapsed for a time after the abolition of the domains and establishment of prefectures, but in 2003 (Heisei 15) they were revived as the Tomigusuku Hari Origin Festival, and since then the rite of worship has been performed each year at the Tomise-utaki. In addition, from 2008 (Heisei 20) a racing event, the Tomigusuku Hari Tournament, was launched under the sponsorship of the Tomigusuku Dragon Boat Association. Thus the present form took shape, in which the traditional rite and the modern, sporting race coexist, each with its own role.
 
 ## Highlights
-The greatest highlight is the powerful race of the dragon-shaped haryusen boats themselves. Crews of many rowers board the vibrantly decorated boats and, in unison with the sound of gongs and spirited cries, row their oars all at once, driving across the water at tremendous speed. The sight of several boats lined up abreast, competing fiercely, sets spectators'' hearts racing and fills the shore with heat at once. In the figures of the rowers, matching their breathing without the slightest deviation and straining every muscle to row, one senses the solidarity of the community and the pride of people who have lived with the sea. To propel a boat swiftly requires not only individual strength but the unity of every rower''s breath, and there the bonds of the community are tested. Each region''s hari in Okinawa has its own character, and the Tomigusuku Hari too has a distinctive atmosphere as an event grounded in the traditions of a birthplace of hari. Beyond the race, it is a place where local people gather to share prayer and celebration, and the way spectators and participants become one is a great part of its appeal. The scene woven by Okinawa''s strong sunlight and heat from early summer into summer, the gongs ringing along the shore, and the rowers'' cries leaves a vivid, unforgettable impression.
+**The powerful dragon-boat race**
+The greatest highlight is the race of the dragon-shaped haryusen boats themselves. Crews of many rowers board the vibrantly decorated boats and, in unison with the sound of gongs and their own cries, drive their oars all at once, racing across the water at tremendous speed. The sight of several boats lined up abreast and competing fiercely sets spectators'' hearts pounding.
+
+**The strength of a community in unison**
+To propel a boat swiftly requires not only individual power but the perfect unity of every rower''s breath. In the figures of the crews matching their strokes without the slightest deviation, one senses the solidarity and pride of a community that has lived with the sea. Within a contest of speed, the very bonds of the community are put to the test, and this is the deeper appeal of the event.
+
+**The venerable status of a birthplace**
+The Tomigusuku Hari bears a weight unlike other regional hari, carrying origins such as the Wang Oso tradition and the sacred rite at the Tomise-utaki. Visitors can do more than watch a race; they can reflect on the history reaching back to the Ryukyu Kingdom that lies behind it, a savor unique to hari in this land.
+
+**The sacred rite of the Origin Festival**
+At the Tomigusuku Hari Origin Festival, a rite of worship is held at the Tomise-utaki, either preceding or accompanying the race. In contrast to the vivid spectacle of the competition, this quiet and solemn scene of prayer is a precious highlight that conveys the religious character hari originally possessed.
+
+**The heat that fills the shore**
+The strong sunlight and heat of early summer into full summer, the gongs ringing along the shore, and the cries of the rowers weave a scene that, once experienced, is hard to forget. The very atmosphere of the venue, where spectators and participants become one, is a great part of its charm.
+
+**A shared festival of the whole community**
+Beyond the race, the event is strongly a place where local people gather to share both prayer and celebration. That residents continue to take part as bearers of a tradition handed down across generations reveals the living vitality of Okinawa''s festivals.
 
 ## Access & Information
-The Tomigusuku Hari is held, in keeping with Okinawan tradition, in the period from early summer into summer within Tomigusuku City. The original hari is an event held around the fourth day of the fifth lunar month (Yukkanuhi), and because it is based on the lunar calendar, it falls in the early-summer-to-summer period of the modern calendar. Tomigusuku City lies in the southern part of the main island of Okinawa, adjoining Naha City to the south, so it is easily reached by car from the Naha area. As an event held by the sea, weather and tide conditions also bear on the proceedings. Exact dates, venues, and program details are announced each year by the organizers, so those wishing to watch are advised to confirm in advance. It offers a chance to see the race unfold up close on the water—well worth a visit as a Okinawan summer tradition.
+- **Location**: Tomigusuku City, Okinawa Prefecture (southern part of the main island of Okinawa, adjoining Naha City to the south)
+- **Origin Festival (rite)**: The Tomigusuku Hari Origin Festival was revived in 2003 (Heisei 15). It is held around May each year, centered on the rite of worship at the Tomise-utaki.
+- **Hari Tournament (race)**: The Tomigusuku Hari Tournament began in 2008 (Heisei 20). Sponsored by the Tomigusuku Dragon Boat Association, in recent years it has been held from mid-July into early August in the waters around Toyosaki Chura-SUN Beach.
+- **Traditional timing**: Okinawan hari is traditionally held around the fourth day of the fifth lunar month (Yukkanuhi), which falls in the early-summer-to-summer period of the modern calendar.
+- **Access**: Because the city adjoins Naha, it is easily reached by car from the Naha area. As a seaside event, weather and tide conditions bear on the proceedings.
+- **Note**: Exact dates, venues, and programs are announced each year by the organizers, so those wishing to attend are advised to confirm in advance.
 
 ## Around the Area
-Tomigusuku City lies in the south of the main island of Okinawa, with attractions dotted along its seaside setting. The city has large commercial facilities and spots where one can enjoy coastal scenery, allowing visitors to combine watching the hari with sightseeing in the south. Neighboring Naha City is close, making it easy to extend a trip to historic sites associated with the Ryukyu Kingdom, such as Shurijo Castle, and to bustling areas like Kokusai Street. Heading farther south, one can also visit sites unique to southern Okinawa, such as the Peace Memorial Park in Itoman City, which conveys the history of the Battle of Okinawa. Centered on the sea event of hari, the area lets visitors touch the many layers of Okinawan history, from the Ryukyu Kingdom to the memory of the war.
+Tomigusuku City lies in the south of the main island of Okinawa, with attractions dotted along its seaside setting. The city has large commercial facilities and spots for enjoying coastal scenery, allowing visitors to combine watching the hari with sightseeing in the south. The area around the tournament venue, with its beaches and leisure facilities, is comfortable even for families.
+
+Neighboring Naha City is close, making it easy to extend a trip to historic sites associated with the Ryukyu Kingdom, such as Shurijo Castle, and to bustling areas like Kokusai Street. Given that the origin traditions of the hari are rooted in the history of the Ryukyu Kingdom, combining a tour of kingdom-era sites with watching the race makes for a deep experience unique to this region.
+
+Heading farther south, one can also visit sites distinctive to southern Okinawa, such as the Peace Memorial Park in Itoman City, which conveys the history of the Battle of Okinawa. Centered on the sea event of hari, the area lets visitors touch the many layers of Okinawa''s past, from the Ryukyu Kingdom to the memory of the war.
 
 ## Related Information
-The Tomigusuku Hari is one of the hari (dragon-boat race) traditions held across Okinawa, sharing the common character of a sea rite praying for safe voyages and good catches. Tomigusuku in particular is regarded as a birthplace of hari alongside Naha, and with the venerable background of the Tomisedaki utaki, it occupies an important place for considering the origins of Okinawa''s hari culture. Viewed alongside the hari events of other areas, such as the Itoman Hare, it reveals the diversity of Okinawa''s sea festivals and the shared form of prayer within them. It is an event in which the faith and daily life of the people of Okinawa, who have lived with the sea, have been handed down unbroken to the present day.','tomigusuku-hari','tomigusuku-hari',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- **Timing**: The Origin Festival is held around May (rite); the Hari Tournament around July to August (race).
+- **Location**: Tomigusuku City, Okinawa Prefecture (southern Okinawa main island)
+- **Origin tradition**: The tradition that King Wang Oso transmitted the practice around 1400 (recorded in the Kyuyo and other chronicles). Other accounts credit the thirty-six Fujian families or the envoy Nagahama Taifu.
+- **Sacred site of origin**: The Tomise-utaki, together with the islet of Chiya, is held to be the stage of the sacred rite.
+- **Organizer**: The Tomigusuku Hari Tournament is sponsored by the Tomigusuku Dragon Boat Association (since 2008).
+- **Related events**: The Itoman Haree and Naha Hari, among other hari (dragon-boat races) across Okinawa, all share the character of a sea rite praying for safe voyages and good catches.','tomigusuku-hari','tomigusuku-hari',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11636486','越後三大花火',NULL,'新潟県内で行われる3つの花火大会 (ぎおん柏崎まつり、長岡まつり、片貝まつり) の総称',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%BE%8C%E4%B8%89%E5%A4%A7%E8%8A%B1%E7%81%AB',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11644507','采女祭','Uneme Matsuri','奈良県奈良市の采女神社の例祭',NULL,'Q22118013','采女神社','Uneme Shrine','奈良県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Uneme%20Matsuri%20Festival%202015092702.jpg','https://ja.wikipedia.org/wiki/%E9%87%87%E5%A5%B3%E7%A5%AD',NULL,85,'drafted','采女祭（うねめまつり）は、奈良県奈良市の采女神社で、毎年中秋の名月の日に行われる例祭である。奈良公園内の猿沢池(さるさわのいけ)のほとりに鎮座する采女神社にまつわる悲恋の伝説に由来し、月明かりのもとで雅やかに営まれる、古都・奈良の秋を彩る幻想的な祭りとして知られる。
 
@@ -13667,11 +13743,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
