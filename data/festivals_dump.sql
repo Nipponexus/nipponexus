@@ -454,41 +454,125 @@ The Aoi Matsuri is the annual festival of the Kamo shrines (Shimogamo Shrine and
 Please note that the dating of its origins, its derivation, and the composition of the procession differ depending on tradition and era. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before attending.','aoi-matsuri','aoi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q862407','青森ねぶた','Aomori Nebuta Matsuri','日本の青森県青森市で毎年8月に開催される祭','Japanese summer festival','Q146790','青森市','Aomori','青森県','tohoku',40.822342,140.74739,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Aomori%20Nebuta%20Festival%20Float%20August%202006.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%81%AD%E3%81%B6%E3%81%9F','https://en.wikipedia.org/wiki/Aomori_Nebuta_Matsuri',95,'drafted','## 概要
 
-青森ねぶた祭（あおもりねぶたまつり）は、青森県青森市で毎年8月2日から7日までの6日間にわたって開催される、日本を代表する夏の伝統祭礼である。「ねぶた」と呼ばれる高さ約5メートル、幅約9メートルの巨大な人形灯籠（運行台車含め重さ4トン）が市内を練り歩く勇壮華麗な姿で世界的に有名で、1980年（昭和55年）に国の重要無形民俗文化財に指定され、毎年約280万人の観光客が訪れる東北最大級の夏祭りである。
+青森ねぶた祭(あおもりねぶたまつり)は、青森県青森市で毎年8月2日から7日にかけて開催される、東北を代表する夏祭りです。武者や神仏をかたどった巨大な灯籠「ねぶた」が、無数の光を放ちながら夜の市街を練り歩く様は圧巻で、秋田竿燈まつり・仙台七夕まつりと並ぶ東北三大祭りの一つに数えられます。国の重要無形民俗文化財にも指定され、期間中は国内外から数百万人規模の観光客が訪れます。
 
-## 歴史
+祭りの主役は、高さ約5メートル・幅約9メートルにも及ぶ大型のねぶたと、その周りを乱舞する「跳人(はねと)」たちです。「ラッセーラー」の掛け声とともに跳ね踊る跳人の熱狂と、勇壮な武者絵が灯りに浮かび上がる幻想的な光景が渾然一体となり、観る者を圧倒的な熱気で包み込みます。
 
-青森ねぶたの起源は奈良時代に遡るとされ、坂上田村麻呂が蝦夷征討の際に巨大な人形灯籠で敵を欺いたという伝承が有名だが、史実としては七夕の「眠り流し」と呼ばれる眠気払いの行事と灯籠流しの風習が融合して成立した民俗行事と考えられている。江戸時代後期から青森城下町の町人文化として発展し、明治・大正期を経て次第に大型化、人形の意匠も歌舞伎・神話・歴史上の英雄をモチーフとした豪華絢爛なものへと進化した。戦後は青森市の観光行事として大規模化し、ねぶた師（人形製作の職人）の名匠たちが代々技術を継承する一大伝統工芸祭礼となった。
+## 歴史と由来
+
+ねぶた祭の起源には諸説ありますが、有力とされるのが、夏の農作業の妨げとなる眠気を払う「眠り流し(ねむりながし)」の行事に由来するという説です。「ねぶた」という名称自体、「眠り」がなまったものと考えられており、灯籠を川や海に流して穢れや眠気とともに送り出す禊(みそぎ)の風習が、この祭りの根底に流れています。
+
+こうした眠り流しの行事に、七夕の灯籠流しや精霊送りといった各地の風習が結びつき、さらに時代を経て人形型の大型灯籠へと発展していったと考えられています。当初は簡素な灯籠であったものが、江戸時代から明治にかけて次第に大型化・精緻化し、歌舞伎や神話・伝説を題材とした立体的な武者人形の形へと洗練されていきました。
+
+現在のねぶたを特徴づけるのは、専門の制作者である「ねぶた師」の存在です。ねぶた師は針金で骨組みを作り、和紙を貼って彩色し、内側から照明を当てるという伝統技法を駆使して、一体の大型ねぶたを数か月がかりで制作します。優れたねぶた師は名人として尊敬を集め、その技と芸術性が祭りの質を年々高めてきました。
+
+戦後、ねぶた祭は観光の目玉として大きく発展し、企業や町会が制作費を負担する大型ねぶたが数多く運行されるようになりました。運行団体ごとに趣向を凝らしたねぶたが競い合い、優れた作品には賞が贈られる仕組みも整えられ、伝統行事は現代を代表する観光祭礼へと成長を遂げています。
 
 ## 見どころ
 
-最大の見どころは8月2-6日の夜間運行で、20数台の大型ねぶたが「ラッセラー、ラッセラー」の掛け声と笛・太鼓の囃子に乗って市内中心部を巡行する。跳人（はねと）と呼ばれる踊り手が浴衣姿で飛び跳ねながら囃子に合わせて踊る姿は、観客との一体感を生む祭りの真髄。8月7日には昼間の「市内合同運行」と夜の「青森花火大会・ねぶた海上運行」が行われ、ねぶたを台船に乗せて青森湾に浮かべる幻想的な光景でフィナーレを迎える。ねぶた師の技と伝統工芸の粋を集めた巨大灯籠の造形美は、海外メディアからも高く評価されている。
+**巨大な武者絵のねぶた**
+祭り最大の見どころは、なんといっても大型ねぶたそのものです。高さ約5メートルの巨体に、歌舞伎の名場面や神話・武将の勇姿が立体的に造形され、内側からの灯りで極彩色の武者絵が夜空に浮かび上がります。躍動感あふれる造形と鮮やかな色彩は、まさに動く芸術と呼ぶにふさわしい迫力です。
 
-## 開催情報・アクセス
+**ラッセーラーと跳人の乱舞**
+ねぶたの周りを「ラッセーラー、ラッセーラー」の掛け声とともに跳ね踊るのが「跳人(はねと)」です。花笠に色鮮やかな衣装をまとった跳人が、太鼓や笛の囃子に合わせて一斉に飛び跳ねる姿は圧巻で、正しい衣装さえ身につければ誰でも跳人として祭りに参加できる開放性も、この祭りの大きな魅力です。
 
-会場は青森県青森市中心部の青森駅東口周辺から国道4号沿いの大通り。JR青森駅・新青森駅から徒歩圏内。観覧は無料（一部有料席あり）。期間中は青森ねぶた祭協賛会と青森市が主催。観覧時間は18:00-21:00頃が中心。
+**ねぶた師の技と競演**
+運行される20台を超える大型ねぶたは、それぞれ異なるねぶた師が手がけた渾身の作品です。題材の選び方、構図の大胆さ、彩色の巧みさに各人の個性が表れ、見比べる楽しみは尽きません。優れた作品には「ねぶた大賞」などの賞が贈られ、ねぶた師たちの技の競演は祭りの芸術性を支える核心となっています。
 
-## 周辺観光
+**囃子と重層的な音の演出**
+ねぶたの運行を支えるのが、太鼓・笛・手振り鉦(かね)による勇壮な囃子です。腹に響く大太鼓の音、笛の旋律、鉦の高い音が重なり合い、跳人の掛け声と一体となって祭り全体を高揚させます。この重層的な音の演出が、視覚だけでなく聴覚からも観客を祭りの熱気へと引き込みます。
 
-青森市内には「ねぶたの家ワ・ラッセ」（ねぶた常設展示館）、青森県立美術館（奈良美智作品で世界的に有名）、八甲田丸（青函連絡船メモリアルシップ）、三内丸山遺跡（縄文時代・世界遺産候補）など歴史・文化観光地が集中する。郊外には十和田湖・奥入瀬渓流、青函トンネル記念館、酸ヶ湯温泉、弘前城（東北唯一の現存天守）など、青森県の自然と歴史を堪能できる観光資源が豊富。夏はインバウンド観光の人気目的地でもある。','## Overview
+**最終日の海上運行と花火**
+祭りのフィナーレを飾るのが、8月7日昼の運行を経て夜に行われる海上運行です。受賞したねぶたが青森港の海上を台船に乗せられて渡御し、その姿が花火とともに夜の海に映える光景は、六日間の祭りを締めくくるにふさわしい荘厳な美しさで、多くの観客が最後の熱狂を分かち合います。
 
-The Aomori Nebuta Festival (Aomori Nebuta Matsuri) is one of Japan''s most iconic summer traditional festivals, held annually from August 2 to 7 in Aomori City, Aomori Prefecture. World-famous for its spectacular procession of enormous illuminated paper lantern figures called "Nebuta"—approximately 5 meters tall, 9 meters wide, and weighing up to 4 tons including the carrying platform—parading through the city streets, the festival was designated as a National Important Intangible Folk Cultural Property in 1980 (Shōwa 55) and attracts approximately 2.8 million visitors annually, ranking among the largest summer festivals of the Tōhoku region.
+**祭りの伝統を伝える施設**
+青森市には、ねぶたの実物を一年を通して展示する施設「ねぶたの家 ワ・ラッセ」があります。祭り期間外でも大型ねぶたの迫力やねぶた師の制作技法に触れることができ、祭りの歴史と芸術性を深く理解するうえで欠かせない見どころとなっています。
 
-## History
+## 開催情報
 
-The origins of Aomori Nebuta are believed to trace back to the Nara period, with the famous legend that Sakanoue no Tamuramaro deceived enemies with giant illuminated figures during his campaigns against the Emishi people. As a matter of historical record, however, the festival is believed to have developed as a folk event combining the "Nemuri-nagashi" drowsiness-dispelling ritual of the Tanabata festival with the custom of floating lanterns. From the late Edo period onward, it developed as a townspeople''s culture in the Aomori castle town, gradually growing in scale through the Meiji and Taishō eras, with figure designs evolving into magnificent and ornate representations of kabuki characters, mythological figures, and historical heroes. After World War II, it expanded into a major tourism event sponsored by Aomori City, becoming a great traditional craft festival where master "nebuta-shi" (figure-making artisans) transmit their techniques across generations.
+- **開催地**: 青森県青森市中心市街地(運行コース)・青森港(海上運行)
+- **開催時期**: 毎年8月2日〜7日
+- **主な行事**: 大型ねぶたの夜間運行、跳人の乱舞、最終日の海上運行と花火大会
+- **アクセス**: JR青森駅から徒歩圏内が運行コース。期間中は交通規制が敷かれるため公共交通機関の利用が推奨される
+- **観覧料**: 沿道での観覧は無料(一部に有料観覧席あり)
+- **公式情報**: 青森ねぶた祭実行委員会の公式情報で運行日程・コースが公開される
+
+## 周辺の見どころ
+
+祭りの拠点となる青森市には、前述の「ねぶたの家 ワ・ラッセ」のほか、青森港のウォーターフロントに親しみやすい観光施設が集まっています。青森ベイブリッジや、かつて青函連絡船として活躍した八甲田丸の展示など、海と港の街ならではの景観を祭りとあわせて楽しむことができます。
+
+青森は豊かな食文化でも知られ、青森魚菜センターでは好きな具材を選んで作る「のっけ丼」が名物として人気です。祭りの熱気のなかで、新鮮な海の幸をはじめとする津軽の味覚を堪能できるのも、青森を訪れる大きな楽しみの一つとなっています。
+
+少し足を延ばせば、世界遺産の三内丸山遺跡や、四季折々の自然が美しい八甲田山、津軽の名湯など、青森ならではの見どころが点在します。ねぶた祭を旅の起点として、縄文の歴史や雄大な自然、温泉をめぐる津軽路の旅へと広げていくことができます。
+
+## 関連情報
+
+- 開催月: 8月上旬(夏)
+- 都道府県: 青森県(東北地方)
+- 起源: 眠り流し(ねむりながし)の禊行事に由来するとされる
+- 位置づけ: 秋田竿燈まつり・仙台七夕まつりと並ぶ東北三大祭りの一つ
+- 文化財: 国の重要無形民俗文化財に指定
+- 見どころ: 高さ約5mの大型ねぶた、ラッセーラーの掛け声で跳ねる跳人、最終日の海上運行と花火','## Overview
+
+The Aomori Nebuta Matsuri is a summer festival representative of the Tohoku region, held every year from August 2 to 7 in Aomori City, Aomori Prefecture. The sight of enormous lanterns called nebuta, shaped like warriors and deities, parading through the night streets while emitting countless lights is overwhelming, and it is counted, along with the Akita Kanto Matsuri and the Sendai Tanabata Matsuri, as one of the three great festivals of Tohoku. Designated an Important Intangible Folk Cultural Property of the nation, it draws millions of tourists from Japan and abroad during its run.
+
+The stars of the festival are the large nebuta, which reach about 5 meters in height and about 9 meters in width, and the haneto, or leapers, who dance wildly around them. The frenzy of the haneto, leaping and dancing to the cry of rassera, and the fantastical sight of valiant warrior paintings floating up in the lights come together as one, wrapping the onlooker in an overwhelming fervor.
+
+## History and Origins
+
+There are various theories about the origin of the Nebuta Matsuri, but the one considered most compelling holds that it derives from the nemuri-nagashi rite of driving away the drowsiness that hinders summer farm work. The very name nebuta is thought to be a corruption of nemuri, meaning sleep, and the custom of a purification rite, in which lanterns are floated down rivers and out to sea to send off impurity along with drowsiness, flows at the foundation of this festival.
+
+Such nemuri-nagashi rites are thought to have joined with customs from various regions, such as the floating of Tanabata lanterns and the sending-off of ancestral spirits, and, over the ages, to have developed into large figure-shaped lanterns. What began as simple lanterns gradually grew larger and more elaborate from the Edo period into the Meiji era, refined into the form of three-dimensional warrior figures drawing on themes from kabuki, myth, and legend.
+
+What characterizes the nebuta of today is the existence of the nebuta-shi, the specialist makers. Using traditional techniques, in which they make a framework of wire, paste on washi paper and color it, and light it from within, the nebuta-shi spend several months making a single large nebuta. Outstanding nebuta-shi are respected as masters, and their skill and artistry have raised the quality of the festival year by year.
+
+After the war, the Nebuta Matsuri developed greatly as a centerpiece of tourism, and many large nebuta, whose production costs are borne by companies and neighborhood associations, came to be paraded. Nebuta devised with ingenuity by each operating group compete with one another, a system in which prizes are awarded to outstanding works has been established, and the traditional rite has grown into a tourist festival representative of the present day.
 
 ## Highlights
 
-The festival''s greatest highlight is the evening procession from August 2-6, when more than 20 large nebuta floats parade through the city center accompanied by chants of "Rassera, Rassera" and the rhythms of flutes and drums. Dancers called "Haneto" (Jumpers) wearing yukata leap and dance in time with the music, embodying the festival''s essence of unity between performers and spectators. On August 7, the festival features the daytime "Citywide Joint Procession" and the nighttime "Aomori Fireworks and Nebuta Maritime Procession," when nebuta floats are loaded onto barges and float across Aomori Bay in a magical finale. The artistic excellence of these enormous illuminated figures, embodying the height of the nebuta-shi craft and traditional artistry, has received high acclaim from international media.
+**The Enormous Warrior-Painting Nebuta**
+The greatest highlight of the festival is, above all, the large nebuta themselves. Onto a giant body about 5 meters tall, famous scenes from kabuki and the valiant figures of deities and warlords are sculpted in three dimensions, and the light from within makes the vividly colored warrior paintings float up into the night sky. The dynamic sculpting and vivid colors have a force truly worthy of being called moving art.
 
-## Event Details and Access
+**Rassera and the Wild Dance of the Haneto**
+Leaping and dancing around the nebuta to the cry of rassera, rassera are the haneto, or leapers. The sight of the haneto, clad in vivid costumes with flower hats, leaping all at once to the music of drums and flutes is overwhelming, and the openness whereby anyone can take part in the festival as a haneto simply by wearing the correct costume is also a great charm of this festival.
 
-The venue is the central area of Aomori City, ranging from the area around the east exit of Aomori Station to the main avenue along National Route 4. Access is within walking distance of Aomori Station and Shin-Aomori Station on the JR lines. Viewing is free of charge (with some reserved paid seating available). The festival is hosted by the Aomori Nebuta Festival Sponsorship Association and Aomori City. Viewing hours center on 6:00 p.m. to 9:00 p.m.
+**The Skill and Contest of the Nebuta-shi**
+The more than twenty large nebuta paraded are each a work of utmost effort by a different nebuta-shi. The individuality of each maker appears in the choice of theme, the boldness of composition, and the skill of coloring, and the pleasure of comparing them is endless. Prizes such as the Nebuta Grand Prize are awarded to outstanding works, and the contest of skill among the nebuta-shi forms the core that supports the artistry of the festival.
 
-## Surrounding Attractions
+**Music and the Layered Production of Sound**
+Supporting the parade of the nebuta is the spirited music of drums, flutes, and hand-waved gongs. The belly-resounding sound of the great drums, the melody of the flutes, and the high tones of the gongs overlap, and together with the cries of the haneto they elevate the entire festival. This layered production of sound draws the audience into the fervor of the festival not only through sight but through hearing as well.
 
-Aomori City features a concentration of historical and cultural attractions including the Nebuta no Ie Wa-Rasse (a permanent nebuta exhibition hall), the Aomori Museum of Art (world-famous for works by artist Yoshitomo Nara), the Hakkōda Maru (a memorial ship of the former Seikan Ferry), and the Sannai Maruyama Archaeological Site (a Jōmon-period UNESCO World Heritage candidate). The surrounding area offers Lake Towada and the Oirase Mountain Stream, the Seikan Tunnel Memorial Museum, Sukayu Hot Spring, and Hirosaki Castle (the only original castle keep in the Tōhoku region), providing rich tourism resources for experiencing the nature and history of Aomori Prefecture. Summer makes the area a particularly popular destination for international inbound tourism.','aomori-nebuta','aomori-nebuta',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The Sea Procession and Fireworks of the Final Day**
+Adorning the finale of the festival is the sea procession, held at night after the daytime parade of August 7. The prize-winning nebuta are placed on barges and carried across the sea of Aomori Port, and the sight of their forms reflected on the night sea together with fireworks has a solemn beauty fitting to conclude the six-day festival, and many spectators share in the final frenzy.
+
+**Facilities Conveying the Traditions of the Festival**
+In Aomori City there is a facility called Nebuta Warasse, which displays actual nebuta throughout the year. Even outside the festival period one can encounter the force of the large nebuta and the making techniques of the nebuta-shi, and it is an indispensable highlight for a deep understanding of the history and artistry of the festival.
+
+## Event Information
+
+- **Location**: The central city area of Aomori City, Aomori Prefecture (the parade course), and Aomori Port (the sea procession)
+- **Period**: August 2 to 7 each year
+- **Main Events**: The nighttime parade of large nebuta, the wild dance of the haneto, and the sea procession and fireworks display of the final day
+- **Access**: The parade course is within walking distance of JR Aomori Station. Traffic is restricted during the period, so public transport is recommended
+- **Admission**: Free to watch from the roadside (some paid viewing seats are available)
+- **Official Information**: The parade schedule and course are announced through the official information of the Aomori Nebuta Matsuri Executive Committee
+
+## Nearby Attractions
+
+In Aomori City, the base of the festival, in addition to the aforementioned Nebuta Warasse, approachable tourist facilities gather along the waterfront of Aomori Port. One can enjoy, alongside the festival, scenery unique to a sea and harbor town, such as the Aomori Bay Bridge and the display of the Hakkoda-maru, which once served as a Seikan ferry.
+
+Aomori is also known for its rich food culture, and at the Aomori Fish and Vegetable Center, the nokke-don, made by choosing one''s favorite ingredients, is popular as a local specialty. Being able to relish the flavors of Tsugaru, including fresh seafood, amid the fervor of the festival is also one of the great pleasures of visiting Aomori.
+
+Venturing a little farther, sights unique to Aomori are scattered about, such as the World Heritage Sanmaru Maruyama site, Mount Hakkoda with its beautiful nature in every season, and the renowned hot springs of Tsugaru. Using the Nebuta Matsuri as a starting point for a journey, one can expand into a trip along the roads of Tsugaru, touring Jomon history, magnificent nature, and hot springs.
+
+## Related Information
+
+- Month: Early August (summer)
+- Prefecture: Aomori Prefecture (Tohoku region)
+- Origin: Said to derive from the nemuri-nagashi purification rite
+- Standing: One of the three great festivals of Tohoku, along with the Akita Kanto Matsuri and the Sendai Tanabata Matsuri
+- Cultural Property: Designated an Important Intangible Folk Cultural Property of the nation
+- Highlights: The roughly 5-meter-tall large nebuta, the haneto leaping to the cry of rassera, and the sea procession and fireworks of the final day','aomori-nebuta','aomori-nebuta',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q929531','さっぽろ雪まつり','Sapporo Snow Festival','北海道札幌市で毎年2月に開催される雪と氷の祭典','festival held annually in Sapporo, Japan','Q37951','札幌市','Sapporo','北海道','hokkaido',43.061047,141.35638,1950,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/SapporoFestival8.JPG','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Sapporo_Snow_Festival',95,'drafted','さっぽろ雪まつりは、北海道札幌市で毎年2月上旬に開催される雪と氷の祭典であり、国内外から200万人を超える来場者を集める日本最大級の冬の祭事である。1950年（昭和25年）に地元の中学生・高校生が大通公園に6基の雪像を制作したことをきっかけに始まり、現在では大通会場・すすきの会場・つどーむ会場の3会場で展開される国際的な観光イベントへと発展した。
 
 中心となる大通会場では、大通公園1丁目から12丁目までの約1.5キロメートルにわたって、大小200基を超える雪像・氷像が並ぶ。陸上自衛隊や市民ボランティアが大型雪像を制作し、世界の有名建築物、人気アニメキャラクター、その年の話題を象徴するモチーフなどが圧倒的なスケールで再現される。高さ15メートルに及ぶ大雪像は、トラック数千台分の雪を使用し、約1ヶ月をかけて削り出される。
@@ -2747,15 +2831,127 @@ One of the most beloved customs associated with Shichi-Go-San is the chitose-ame
 Regional variations add complexity to the tradition. Northern regions, particularly Hokkaido and Tohoku where November weather can be harsh, often see families completing visits in October to avoid the worst cold. The Kansai region tends to observe more traditional gender-specific timing, with boys celebrated at three and five while girls are celebrated at three and seven. In the Kanto region around Tokyo, contemporary practice has shifted somewhat, with many families celebrating boys only at age five rather than at both three and five. These variations reflect the way Japanese tradition adapts to local conditions and family preferences while maintaining core symbolic continuity.
 
 While famous shrines such as Meiji Jingu, Kanda Myojin, and Yushima Tenmangu in Tokyo, Fushimi Inari Taisha and Kitano Tenmangu in Kyoto, Sumiyoshi Taisha in Osaka, and Dazaifu Tenmangu in Fukuoka all receive significant Shichi-Go-San visitor traffic, the tradition emphasizes visits to the local ujigami, the tutelary deity of the family''s home district. The quiet visit to a small neighborhood shrine, where a family alone may receive their blessing from a local priest, represents the tradition more authentically than the more visually spectacular gatherings at famous shrines. This intimate connection between family, locality, and the spiritual landscape forms the heart of Shichi-Go-San as a continuing element of Japanese religious life.','shichi-go-san','shichi-go-san',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3090688','深川祭','Fukagawa Matsuri','東京都江東区の富岡八幡宮の祭礼','festival in Tokyo','Q654417','富岡八幡宮','Tomioka Hachiman Shrine','東京都','kanto',NULL,NULL,1642,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tomioka%20hachimangu4.jpg','https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Fukagawa_Matsuri',85,'drafted','深川祭（ふかがわまつり）は、東京都江東区の富岡八幡宮(とみおかはちまんぐう)で行われる祭礼で、神田祭・山王祭とともに「江戸三大祭り」の一つに数えられる。1642年(寛永19年)に始まったとされる約380年の歴史を誇り、別名「水掛け祭り」として知られる、江戸下町を代表する勇壮な夏祭りである。本祭りは3年に一度、8月中旬に盛大に行われる。
+INSERT INTO "festivals" VALUES('Q3090688','深川祭','Fukagawa Matsuri','東京都江東区の富岡八幡宮の祭礼','festival in Tokyo','Q654417','富岡八幡宮','Tomioka Hachiman Shrine','東京都','kanto',NULL,NULL,1642,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tomioka%20hachimangu4.jpg','https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Fukagawa_Matsuri',85,'drafted','## 概要
 
-この祭りの最大の特徴は、その名の通り、担ぎ手や神輿に向かって沿道から大量の水を浴びせかける「水掛け」である。「ワッショイ、ワッショイ」の掛け声とともに進む神輿に、観衆がバケツや桶、ホースを使って勢いよく水をかける様は、真夏の暑さを吹き飛ばす爽快さに満ちている。担ぎ手と観客が一体となり、水しぶきを浴びながら盛り上がる光景は、ほかの祭りでは見られない深川祭ならではの魅力である。
+深川祭（ふかがわまつり）は、東京都江東区の富岡八幡宮(とみおかはちまんぐう)で行われる例祭で、神田祭・山王祭とともに江戸三大祭の一つに数えられます。とりわけ沿道の観衆が担ぎ手に清めの水を浴びせかけることから「水掛け祭り」の異名で親しまれ、真夏の江東の町を清涼と熱狂で包み込む勇壮な祭りとして知られています。
 
-本祭りの最大の見どころは、各町会の神輿約50基以上が一斉に連なって巡行する「神輿連合渡御(みこしれんごうとぎょ)」である。きらびやかな大神輿が次々と練り歩き、清めの水を浴びながら町を巡る様は壮観で、その規模と熱気は圧巻である。富岡八幡宮は江戸最大級の八幡様として庶民の信仰を集めてきた古社であり、深川祭はその門前町・深川に根づいた活気と人情を今に伝える、東京の夏を代表する一大祭礼である。','The Fukagawa Matsuri is a festival held at Tomioka Hachiman Shrine in Kōtō Ward, Tokyo, counted together with the Kanda Festival and Sannō Festival as one of the "three great festivals of Edo." Boasting around 380 years of history with origins said to date to 1642, it is known by the alias "water-throwing festival"—a spirited summer festival representative of the downtown of old Edo. The main festival is held grandly in mid-August once every three years.
+祭りの最大の特徴は、五十基を超える神輿(みこし)が連なって町を練り歩く「連合渡御(れんごうとぎょ)」にあります。担ぎ手の「わっしょい」の掛け声と、沿道から惜しみなく浴びせられる水しぶきが一体となり、担ぐ者と見る者の境界が溶け合うような独特の一体感が生まれる点に、この祭りの真骨頂があります。
 
-The festival''s greatest distinction is, as its name suggests, the "water-throwing," in which large amounts of water are doused from the roadsides onto the bearers and portable shrines. The sight of spectators vigorously throwing water with buckets, tubs, and hoses onto the mikoshi advancing to the chant of "wasshoi, wasshoi" is full of an exhilaration that dispels the midsummer heat. The scene of bearers and spectators uniting and reveling while drenched in spray is a charm unique to the Fukagawa Matsuri, not seen at other festivals.
+## 歴史と由来
 
-The greatest highlight of the main festival is the "mikoshi united procession," in which more than 50 portable shrines from the various neighborhood associations process together in a line. The sight of dazzling large mikoshi parading one after another, touring the town while being doused with purifying water, is magnificent, and its scale and fervor are overwhelming. Tomioka Hachiman Shrine is an ancient shrine that has commanded the faith of common people as one of the largest Hachiman shrines in Edo, and the Fukagawa Matsuri is a major festival representative of Tokyo''s summer, conveying to this day the vitality and human warmth rooted in its temple-gate town of Fukagawa.','fukagawa-matsuri','fukagawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+深川祭を司る富岡八幡宮は、江戸時代初期の寛永四年(1627年)に創建された、江戸最大の八幡宮です。当時は砂州であった深川一帯が埋め立てによって開発される中で、その総鎮守として厚い信仰を集めました。将軍家の保護も受け、門前は参詣客で賑わう一大盛り場として発展しました。
+
+富岡八幡宮は、江戸勧進相撲(かんじんずもう)発祥の地としても知られています。江戸時代、境内で行われた勧進相撲が今日の大相撲の起源の一つとなり、現在も境内には歴代横綱の名を刻んだ横綱力士碑が建てられています。相撲と八幡信仰が結びついたこの由緒が、祭りの格式と江戸庶民との深い結びつきを支えてきました。
+
+深川祭は本来、三年に一度、神霊を乗せた鳳輦(ほうれん)が氏子地域を巡幸する「本祭り」を中心に営まれてきました。三年に一度という周期は祭りへの期待をいっそう高め、本祭りの年には氏子五十余町がそれぞれの神輿を繰り出す壮大な連合渡御が実現します。この周期性そのものが、深川の人々の祭りへの熱意を醸成する仕組みとなってきました。
+
+かつては「深川の八幡祭り」として江戸中に鳴り響いた華やかさを誇りましたが、一方で過去には見物客の重みで橋が落ちる事故が起きるほどの人出を集めた記録も残ります。それほどまでに江戸庶民を熱狂させた祭りの気風は、現代の水掛け祭りの熱気へと脈々と受け継がれています。
+
+## 見どころ
+
+**水掛け祭りの清めの水**
+深川祭最大の見どころは、沿道の観衆が神輿の担ぎ手に向かって勢いよく水を浴びせる光景です。もともとは担ぎ手を清め、真夏の暑さをしのぐ意味を持つこの水掛けは、今ではバケツやホースで豪快に水を放つ祭りの名物となり、水しぶきを浴びながら進む神輿の姿が観衆を熱狂させます。
+
+**五十基超の連合渡御**
+本祭りの中心となるのが、氏子各町の神輿五十余基が一堂に会して連なって渡御する「神輿連合渡御」です。次から次へと現れる神輿の列は圧巻で、それぞれの町が誇る神輿の意匠を見比べる楽しみもあり、江戸の町人文化が育んだ神輿の多彩さを一度に味わうことができます。
+
+**日本最大級の一の宮神輿**
+富岡八幡宮が所有する「一の宮神輿」は、総重量が数トンにも及ぶ日本最大級の黄金の神輿として知られます。あまりに巨大で担ぐことが困難なため通常は担がれませんが、その豪華絢爛な姿は御本社の宝物として祭りの象徴となっており、境内で目にすればその威容に圧倒されます。
+
+**わっしょいの掛け声と一体感**
+深川祭では「わっしょい」の伝統的な掛け声が守られています。担ぎ手の掛け声と観衆の水掛けが呼応し合い、担ぐ者と見る者が渾然一体となって盛り上がる独特の熱気は、他の祭りにはない深川ならではの魅力です。
+
+**木遣りと祭り囃子**
+渡御の道中では、江戸の火消し文化に由来する木遣り(きやり)歌や、笛・太鼓による祭り囃子が響きわたります。伝統の節回しが神輿の進行に彩りを添え、江戸から続く芸能文化の厚みを感じさせる点も、この祭りの見どころの一つです。
+
+**富岡八幡宮と横綱力士碑**
+祭りの舞台である富岡八幡宮の境内も見どころに満ちています。江戸勧進相撲発祥を伝える横綱力士碑や大関力士碑が立ち並び、相撲の歴史に思いを馳せることができるほか、伊能忠敬が測量の旅に出る際に参拝したことでも知られ、江戸の多彩な歴史が凝縮された空間となっています。
+
+## 開催情報
+
+- **開催地**: 東京都江東区富岡・富岡八幡宮および氏子地域
+- **開催時期**: 毎年8月中旬(神輿連合渡御を伴う本祭りは三年に一度)
+- **主な行事**: 神輿連合渡御、水掛け、子供神輿、御本社神輿渡御
+- **アクセス**: 東京メトロ東西線・都営大江戸線の門前仲町駅から徒歩約3分
+- **観覧料**: 沿道での観覧は無料
+- **公式情報**: 富岡八幡宮の公式情報で本祭り・陰祭りの別や渡御コースが公開される
+
+## 周辺の見どころ
+
+祭りの舞台となる門前仲町(もんぜんなかちょう)は、その名の通り富岡八幡宮の門前町として栄えた下町情緒あふれるエリアです。参道や周辺の商店街には老舗の飲食店や和菓子店が軒を連ね、祭りの前後に江戸下町ならではの食べ歩きを楽しむことができます。
+
+富岡八幡宮に隣接して、成田山新勝寺の東京別院である深川不動堂があります。「深川のお不動さん」として親しまれるこの寺院では迫力ある護摩祈祷が行われ、八幡宮とあわせて参拝すれば、神仏それぞれへの信仰が息づく深川の宗教文化を体感できます。
+
+深川一帯は、松尾芭蕉が「おくのほそ道」の旅へ出発した地としても知られ、近くには芭蕉記念館があります。隅田川沿いの遊歩道や清澄庭園といった名所も点在し、祭りの熱気とはまた違った、水の都・江戸の風情を静かに味わえる散策路が広がっています。
+
+## 関連情報
+
+- 開催月: 8月中旬(夏)
+- 都道府県: 東京都(関東地方)
+- 母体神社: 富岡八幡宮(江戸最大の八幡宮・江戸勧進相撲発祥地)
+- 位置づけ: 神田祭・山王祭と並ぶ江戸三大祭の一つ
+- 別名: 水掛け祭り(沿道から担ぎ手へ清めの水を浴びせる)
+- 見どころ: 五十基超の神輿連合渡御、日本最大級の一の宮神輿','## Overview
+
+The Fukagawa Matsuri is the annual festival of Tomioka Hachimangu Shrine in Koto Ward, Tokyo, and is counted, along with the Kanda Matsuri and the Sanno Matsuri, as one of the three great festivals of Edo. It is particularly cherished by the nickname of the water-throwing festival, because spectators along the route douse the bearers with purifying water, and it is known as a spirited festival that wraps the midsummer town of Koto in both coolness and frenzy.
+
+The greatest feature of the festival lies in the joint procession, in which more than fifty portable shrines parade through the town in a continuous line. The bearers'' cries of wasshoi and the spray of water lavished without reserve from the roadside come together as one, and it is in the distinctive sense of unity, as if the boundary between those who carry and those who watch dissolves, that the true essence of this festival is found.
+
+## History and Origins
+
+Tomioka Hachimangu Shrine, which presides over the Fukagawa Matsuri, is the largest Hachiman shrine in Edo, founded in 1627 in the early Edo period. As the whole of Fukagawa, then a sandbar, was developed through land reclamation, the shrine gathered deep faith as its guardian deity. Receiving the protection of the shogun family as well, its gate front developed into a great pleasure quarter bustling with worshippers.
+
+Tomioka Hachimangu Shrine is also known as the birthplace of Edo benefit sumo. In the Edo period, the benefit sumo held within the precincts became one of the origins of today''s grand sumo, and even now a monument inscribed with the names of successive grand champions stands in the precincts. This history, in which sumo and Hachiman faith were joined, has supported the prestige of the festival and its deep connection with the common people of Edo.
+
+The Fukagawa Matsuri has traditionally been held once every three years, centered on the main festival, in which the phoenix palanquin bearing the divine spirit tours the parishioner districts. The three-year cycle heightens anticipation for the festival all the more, and in the year of the main festival a grand joint procession is realized, with each of the more than fifty parishioner neighborhoods sending out its own portable shrine. This very periodicity has served as a mechanism nurturing the enthusiasm of the people of Fukagawa for the festival.
+
+In earlier times it boasted a splendor that resounded throughout Edo as the Hachiman festival of Fukagawa, yet records also remain of crowds so large that a bridge once collapsed under the weight of spectators. The spirit of a festival that so thrilled the common people of Edo has been handed down continuously to the fervor of the present-day water-throwing festival.
+
+## Highlights
+
+**The Purifying Water of the Water-Throwing Festival**
+The greatest highlight of the Fukagawa Matsuri is the sight of spectators along the route vigorously dousing the portable-shrine bearers with water. Originally carrying the meaning of purifying the bearers and easing the midsummer heat, this water-throwing has now become a signature feature of the festival, with water dashed boldly from buckets and hoses, and the sight of the portable shrines advancing while drenched in spray thrills the onlookers.
+
+**The Joint Procession of More Than Fifty Portable Shrines**
+The heart of the main festival is the joint procession of portable shrines, in which the more than fifty portable shrines of the parishioner neighborhoods gather in one place and parade in a continuous line. The line of portable shrines appearing one after another is overwhelming, and with the pleasure of comparing the designs of the shrines that each neighborhood takes pride in, one can savor at once the variety of portable shrines nurtured by the townspeople''s culture of Edo.
+
+**One of the Largest Portable Shrines in Japan**
+The first-shrine portable shrine owned by Tomioka Hachimangu is known as one of the largest golden portable shrines in Japan, with a total weight reaching several tons. Because it is too enormous to carry, it is not normally borne, but its gorgeous form is a treasure of the main shrine and a symbol of the festival, and to see it in the precincts is to be overwhelmed by its imposing appearance.
+
+**The Cry of Wasshoi and the Sense of Unity**
+At the Fukagawa Matsuri, the traditional cry of wasshoi is preserved. The bearers'' cries and the spectators'' water-throwing answer one another, and the distinctive fervor, in which those who carry and those who watch rise to a fever pitch as one indistinguishable whole, is a charm unique to Fukagawa found in no other festival.
+
+**Kiyari Songs and Festival Music**
+Along the route of the procession, kiyari songs derived from the firefighter culture of Edo, as well as festival music of flute and drum, ring out. The traditional melodic phrasings add color to the progress of the portable shrines, and the sense they give of the depth of a performing arts culture continuing from Edo is also one of the highlights of this festival.
+
+**Tomioka Hachimangu and the Grand Champion Monuments**
+The precincts of Tomioka Hachimangu, the stage of the festival, are also full of highlights. Monuments to grand champions and champions conveying the birth of Edo benefit sumo stand in a row, allowing one to reflect on the history of sumo, and the shrine is also known as a place where Ino Tadataka worshipped when setting out on his journey of surveying, making it a space in which the varied history of Edo is concentrated.
+
+## Event Information
+
+- **Location**: Tomioka Hachimangu Shrine in Tomioka, Koto Ward, Tokyo, and the parishioner districts
+- **Period**: Mid-August each year (the main festival with the joint procession of portable shrines is held once every three years)
+- **Main Events**: The joint procession of portable shrines, the water-throwing, children''s portable shrines, and the main-shrine portable shrine procession
+- **Access**: About a 3-minute walk from Monzen-nakacho Station on the Tokyo Metro Tozai Line or the Toei Oedo Line
+- **Admission**: Free to watch from the roadside
+- **Official Information**: The distinction between the main and off-year festivals and the procession route are announced through Tomioka Hachimangu
+
+## Nearby Attractions
+
+Monzen-nakacho, the stage of the festival, is an area full of the atmosphere of the old downtown, having prospered, as its name suggests, as the gate-front town of Tomioka Hachimangu. Long-established restaurants and Japanese confectionery shops line the approach and the surrounding shopping streets, and before or after the festival one can enjoy the food-walking unique to the old downtown of Edo.
+
+Adjacent to Tomioka Hachimangu is Fukagawa Fudodo, the Tokyo branch temple of Naritasan Shinshoji. At this temple, cherished as the Fudo of Fukagawa, powerful fire rituals are performed, and worshipping it together with the Hachiman shrine lets one experience the religious culture of Fukagawa, where faith in both the Shinto and Buddhist deities lives on.
+
+The Fukagawa area is also known as the place from which Matsuo Basho set out on his journey of The Narrow Road to the Deep North, and the Basho Memorial Museum stands nearby. Famous spots such as the promenade along the Sumida River and the Kiyosumi Garden are also scattered about, and a walking route spreads out where one can quietly savor the atmosphere of Edo, the city of water, quite different from the fervor of the festival.
+
+## Related Information
+
+- Month: Mid-August (summer)
+- Prefecture: Tokyo (Kanto region)
+- Parent Shrine: Tomioka Hachimangu (the largest Hachiman shrine in Edo; birthplace of Edo benefit sumo)
+- Standing: One of the three great festivals of Edo, along with the Kanda Matsuri and the Sanno Matsuri
+- Alternative Name: The water-throwing festival (spectators douse the bearers with purifying water)
+- Highlights: The joint procession of more than fifty portable shrines, and one of the largest first-shrine portable shrines in Japan','fukagawa-matsuri','fukagawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1193996','日本の七夕','Tanabata','日本における七夕','Japanese festival (Japanese version of Double Seventh Festival)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%83%E5%A4%95%20%2819545533256%29.jpg','https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95_(%E6%97%A5%E6%9C%AC)','https://en.wikipedia.org/wiki/Tanabata',85,'drafted','七夕（たなばた）は、毎年7月7日(地域によっては8月7日)に行われる、日本を代表する年中行事の一つである。笹竹に願い事を書いた色とりどりの短冊を飾り、星に祈りを捧げるこの風習は、全国各地で広く親しまれ、夏の風物詩として日本人の暮らしに深く根づいている。
 
 七夕は、中国から伝わった「乞巧奠(きこうでん)」という星祭りの行事と、日本古来の「棚機(たなばた)」という神事が結びついて生まれたとされる。その中心にあるのが、天の川を隔てて引き離された織姫(おりひめ)と彦星(ひこぼし)の伝説である。働き者だった二人が結婚後に怠けるようになったため、天帝によって引き離され、年に一度、7月7日の夜だけ天の川を渡って会うことを許されたという物語が、ロマンチックな祭りの背景となっている。
