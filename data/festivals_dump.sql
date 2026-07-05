@@ -905,41 +905,125 @@ Hirosaki is the central city of the Tsugaru region and is also known as a "town 
 The latest information on the Hirosaki Castle Snow Lantern Festival can be found on the official websites of the Hirosaki Tourism and Convention Association and Hirosaki City. The "Five Great Snow Festivals of Michinoku" of which this festival is counted is a collective name for representative snow festivals held throughout the Tohoku region, each offering snowscapes and attractions unique to its locale. The Hirosaki Castle Snow Lantern Festival is greatly distinguished among them by being set against a historic castle, and the scene woven by snow, light, and the castle radiates a unique charm not found in other snow festivals. When visiting Hirosaki in winter, prepare thoroughly against the cold and savor the fantastical moments of the night.','hirosaki-castle-snow-lantern-festival','hirosaki-castle-snow-lantern-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11487200','弘前ねぷた','Hirosaki Neputa','青森県弘前市で開催される夏祭り','summer festival in Hirosaki, Japan',NULL,NULL,NULL,'青森県','tohoku',40.6039,140.4649,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%C5%8Cgi%20Neputa.jpg','https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F','https://en.wikipedia.org/wiki/Hirosaki_Neputa_Festival',95,'drafted','## 概要
 
-弘前ねぷた（ひろさきねぷた）は、青森県弘前市で毎年8月1日から7日にかけて執り行われる、津軽地方を代表する夏祭りである。「弘前ねぷたまつり」として国の重要無形民俗文化財に指定されており、青森ねぶた（青森市・ねぶたは「立体」）、五所川原立佞武多（五所川原市・「巨大」）と並ぶ津軽三大ねぷた・ねぶたのひとつに数えられる。扇形の山車「扇ねぷた」が特徴で、戦国時代の合戦絵巻を題材とした勇壮な絵が描かれる。
+弘前ねぷたまつり(ひろさきねぷたまつり)は、青森県弘前市で毎年8月1日から7日にかけて開催される、津軽地方を代表する夏祭りです。武者絵などを描いた巨大な扇形の灯籠「扇ねぷた」が、大太鼓と「ヤーヤドー」の勇壮な掛け声とともに城下町を練り歩く様は圧巻で、国の重要無形民俗文化財に指定されています。青森市の青森ねぶた祭と並び称される津軽の代表的な祭りとして、期間中は多くの観光客で賑わいます。
 
-## 歴史
+同じ津軽の祭りでありながら、立体的な人形型の灯籠が主役の青森ねぶたに対し、弘前ねぷたは扇形の灯籠を主役とする点に大きな特色があります。扇の表裏に描かれた絵の対比や、静と動が同居する独特の風情は、弘前城の城下町という土地柄が育んだ、落ち着いた気品と勇壮さをあわせ持つ祭りとして親しまれています。
 
-起源は江戸時代中期にまで遡るとされ、坂上田村麻呂が蝦夷征伐の際に大灯籠で敵をおびき寄せたという伝説や、津軽藩主による七夕の灯籠流しが起源とされる説など諸説ある。「ねぷた」の語源は「眠流し（ねむりながし）」で、夏の暑さによる眠気・農作業の妨げとなる眠りを灯籠とともに川に流す禊（みそぎ）の意味を持つとされる。1980年（昭和55年）に国の重要無形民俗文化財に指定された。
+## 歴史と由来
+
+弘前ねぷたの起源は、青森ねぶたと同じく、夏の農作業の妨げとなる眠気を水に流して払う「眠り流し(ねむりながし)」の禊(みそぎ)行事に由来するとされています。「ねぷた」という名称も「眠り」がなまったものと考えられ、灯籠を用いて穢れや眠気を送り出す古い習俗が、この祭りの根底に息づいています。
+
+記録の上では、弘前ねぷたは享保七年(1722年)に、弘前藩の五代藩主・津軽信寿(のぶひさ)が城内で「祢ふた」を上覧したという記述が古い例として知られ、藩政期にはすでに城下の年中行事として定着していたことがうかがえます。城下町として発展した弘前ならではの歴史的背景が、祭りに武家文化の格式を与えてきました。
+
+弘前ねぷたを特徴づける扇ねぷたは、当初から扇形であったわけではなく、時代を経て現在の形へと洗練されていったものです。扇形は正面から見て絵の全体を一望できる利点があり、津軽の絵師たちが腕を競って武者絵を描き込むことで、絵画としての芸術性が年々高められてきました。
+
+現在では、大小さまざまなねぷたが運行団体ごとに制作され、80台前後にも及ぶねぷたが期間中に市街を巡行します。伝統の技法を受け継ぐ絵師や、囃子を担う地域の人々の手によって、藩政期から続く津軽の夏の風物詩が世代を超えて大切に受け継がれています。
 
 ## 見どころ
 
-最大の特徴は、扇形の「扇ねぷた」と呼ばれる山車である。直径約9メートルに達する大型の扇に、表（鏡絵）には三国志・水滸伝・歌舞伎演目などを題材とした勇壮な合戦絵、裏（見送り絵）には妖艶な美人画が描かれる。これは青森市の立体ねぶたとは対照的なスタイルで、津軽武士の質実剛健な気風を反映する。山車の運行に合わせて「ヤーヤドー」の掛け声と勇壮な太鼓・笛・鉦の囃子が街に響き、約80台の山車が市内を巡行する。期間中の観客動員は約160万人。
+**扇形の扇ねぷた**
+弘前ねぷた最大の特色が、扇形の大型灯籠「扇ねぷた」です。青森ねぶたの立体的な人形型とは対照的に、平面の扇に絵を描くこの形式は、正面から絵全体を一望できるのが魅力で、津軽独自の様式として発展しました。少数ながら人形型の「組ねぷた」も運行され、両形式を見比べられるのも楽しみの一つです。
+
+**鏡絵と見送り絵の対比**
+扇ねぷたの見どころは、扇の表裏に描かれる二種類の絵の対比にあります。正面(表)には「鏡絵(かがみえ)」として三国志や水滸伝などを題材にした勇壮な武者絵が、背面(裏)には「見送り絵(みおくりえ)」として美人画などの艶やかで物寂しい絵が描かれ、勇と静という対照的な情緒を一台のねぷたで味わうことができます。
+
+**ヤーヤドーの掛け声**
+弘前ねぷたの運行を彩るのが、「ヤーヤドー」という独特の掛け声です。青森ねぶたの「ラッセーラー」とはまったく異なるこの掛け声は、津軽の人々の情念がこもった重厚な響きを持ち、大太鼓や笛の囃子と一体となって、城下町にねぷたの気分を高めていきます。
+
+**津軽情っ張り太鼓の大太鼓**
+運行の先頭や要所では、直径数メートルにも及ぶ巨大な太鼓が打ち鳴らされます。「津軽情っ張り(じょっぱり)太鼓」とも称される勇壮な大太鼓の腹に響く音は、祭りの熱気を象徴するもので、その迫力ある音色は遠くまで響きわたり、観衆の胸を高鳴らせます。
+
+**城下町を巡る運行**
+弘前ねぷたは、弘前城を擁する城下町の街並みを舞台に運行されます。歴史ある町並みのなかを、灯りをまとったねぷたが列をなして進む光景は、城下町ならではの風情に満ちています。運行コースの沿道は多くの観客で埋め尽くされ、津軽の夏の夜が幻想的に彩られます。
+
+**国重要無形民俗文化財としての格式**
+弘前ねぷたは、その歴史的・文化的価値が認められ、国の重要無形民俗文化財に指定されています。眠り流しに端を発する古い習俗を今に伝え、藩政期から続く絵師の技と地域の担い手によって支えられてきたこの祭りは、単なる観光行事にとどまらない、津軽の民俗文化の結晶として位置づけられています。
 
 ## 開催情報
 
-開催地は青森県弘前市中心市街地（土手町・駅前大通りなどの巡行ルート）。最寄駅はJR奥羽本線「弘前駅」徒歩約15分（巡行ルートまで）。開催期間は毎年8月1日から7日まで（7日は「なぬか日ねぷた」と呼ばれ昼間運行）。運行時間は1〜6日が19:00頃から21:00頃まで、7日は10:00頃から13:00頃まで。観覧は無料で、有料桟敷席も土手町通りに設置される。8月初旬の弘前は涼しい夕方も冷え込むことがあるため、薄手の上着を持参するとよい。
+- **開催地**: 青森県弘前市中心市街地(運行コース)
+- **開催時期**: 毎年8月1日〜7日
+- **主な行事**: 扇ねぷた・組ねぷたの運行、大太鼓の演奏、なぬかびの送り(最終日)
+- **アクセス**: JR弘前駅から運行コースへは徒歩またはバス。期間中は交通規制が敷かれるため公共交通機関の利用が推奨される
+- **観覧料**: 沿道での観覧は無料(一部に有料観覧席あり)
+- **公式情報**: 弘前ねぷた運営委員会・弘前市の公式情報で運行日程・コースが公開される
 
 ## 周辺の見どころ
 
-弘前公園（弘前城）は日本さくら名所100選の代表的存在で、現存12天守のひとつ「弘前城天守」を見学できる。津軽藩ねぷた村では、ねぷた制作の様子や津軽三味線の生演奏を年中観覧可能。岩木山神社・嶽温泉郷も近く、津軽富士「岩木山」を望む観光と組み合わせやすい。津軽の郷土料理「いがめんち」「貝焼き味噌」「けの汁」も祭礼の屋台で味わえる。','## Overview
+弘前ねぷたの舞台となる弘前市は、津軽藩十万石の城下町として栄えた歴史都市です。祭りとあわせて訪れたいのが弘前城で、現存天守や重厚な櫓、堀と石垣が往時の姿をとどめ、春の桜、秋の紅葉、冬の雪景色と四季折々の美しさで知られる弘前公園として親しまれています。
 
-Hirosaki Neputa (弘前ねぷた) is one of the Tsugaru region''s signature summer festivals, held annually from August 1 to 7 in Hirosaki City, Aomori Prefecture. Officially known as the Hirosaki Neputa Festival, it is designated as an Important Intangible Folk Cultural Property of Japan and counted among the "Three Great Neputa/Nebuta Festivals of Tsugaru" alongside the Aomori Nebuta (Aomori City, featuring three-dimensional floats) and Goshogawara Tachi Neputa (Goshogawara City, featuring giant standing floats). Hirosaki''s distinctive feature is its fan-shaped Ōgi Neputa floats, which display dramatic battle scenes drawn from Japanese and Chinese historical epics.
+弘前は、明治期に西洋文化をいち早く受け入れた土地としても知られ、市内には洋館やレンガ建築が数多く残ります。旧弘前市立図書館や青森銀行記念館など、和と洋が融合した独特の町並みは、城下町の伝統とハイカラな近代の記憶が同居する弘前ならではの見どころです。
 
-## History
+津軽の中心地である弘前は、りんごの一大産地としても全国的に有名です。市内ではアップルパイの食べ比べが楽しめるほか、少し足を延ばせば岩木山の雄大な姿や、津軽の名湯にも恵まれており、ねぷた祭を起点に自然と文化を満喫する旅へと広げることができます。
 
-The festival''s origins are said to date back to the mid-Edo period, with several theories — including a legend that Sakanoue no Tamuramaro used giant lanterns to lure enemy forces during his northern campaigns, and another tracing the festival to Tanabata lantern-floating rituals practiced by lords of the Tsugaru domain. The word "Neputa" is believed to derive from "nemuri-nagashi" (sleep-washing), referring to a purification ritual in which the drowsiness of summer — which hampered farm work — was floated away on rivers together with lanterns. In 1980 (Shōwa 55), the festival was designated as an Important Intangible Folk Cultural Property of Japan.
+## 関連情報
+
+- 開催月: 8月上旬(夏)
+- 都道府県: 青森県(津軽地方・東北地方)
+- 起源: 眠り流し(ねむりながし)の禊行事に由来。享保七年(1722年)に藩主上覧の記録
+- 形式: 扇形の「扇ねぷた」が主役(青森ねぶたの立体人形型と対照的)
+- 文化財: 国の重要無形民俗文化財に指定
+- 見どころ: 表裏の鏡絵と見送り絵の対比、ヤーヤドーの掛け声、大太鼓','## Overview
+
+The Hirosaki Neputa Matsuri is a summer festival representative of the Tsugaru region, held every year from August 1 to 7 in Hirosaki City, Aomori Prefecture. The sight of enormous fan-shaped lanterns called ogi neputa, painted with warrior images and the like, parading through the castle town to the spirited cry of yaya-do and the beat of great drums is overwhelming, and it is designated an Important Intangible Folk Cultural Property of the nation. As a representative festival of Tsugaru, ranked alongside the Aomori Nebuta Matsuri of Aomori City, it bustles with many tourists during its run.
+
+Although it is a festival of the same Tsugaru region, a great distinguishing feature lies in the fact that, in contrast to the Aomori Nebuta, whose stars are three-dimensional figure-shaped lanterns, the Hirosaki Neputa has fan-shaped lanterns as its stars. The contrast of the images painted on the front and back of the fan, and the distinctive atmosphere in which stillness and motion coexist, have made it cherished as a festival that combines the calm refinement and valor nurtured by the character of a land that is the castle town of Hirosaki Castle.
+
+## History and Origins
+
+The origin of the Hirosaki Neputa, like that of the Aomori Nebuta, is said to derive from the nemuri-nagashi purification rite of driving away, by washing into the water, the drowsiness that hinders summer farm work. The name neputa too is thought to be a corruption of nemuri, meaning sleep, and the old custom of sending off impurity and drowsiness using lanterns lives on at the foundation of this festival.
+
+In the records, it is known as an old example that in 1722 the fifth lord of the Hirosaki domain, Tsugaru Nobuhisa, viewed the neputa within the castle, and it can be inferred that by the domain period it had already taken root as an annual event of the castle town. The historical background unique to Hirosaki, which developed as a castle town, has given the festival the prestige of samurai culture.
+
+The ogi neputa that characterizes the Hirosaki Neputa was not fan-shaped from the start but was refined into its present form over the ages. The fan shape has the advantage of allowing the whole of the image to be surveyed at a glance from the front, and as the painters of Tsugaru competed in their skill to paint in warrior images, its artistry as painting was heightened year by year.
+
+Today, neputa of various sizes are made by each operating group, and around eighty neputa parade through the city during the period. Through the hands of painters who inherit the traditional techniques and of local people who take charge of the music, this summer tradition of Tsugaru, continuing from the domain period, is carefully handed down across the generations.
 
 ## Highlights
 
-The festival''s defining feature is the Ōgi Neputa, fan-shaped floats reaching diameters of approximately 9 meters. The front face (kagamie, or "mirror picture") depicts heroic battle scenes drawn from the Romance of the Three Kingdoms, the Water Margin, and famous kabuki plays, while the rear face (miokurie, or "send-off picture") portrays graceful beauties. This stylistic restraint contrasts with the three-dimensional Nebuta of Aomori City and reflects the austere, disciplined character of the Tsugaru samurai tradition. As the floats are paraded, shouts of "Yāyadō!" ring through the streets, accompanied by the powerful rhythms of taiko drums, flutes, and gongs. Approximately 80 floats parade through the city during the festival, drawing about 1.6 million spectators over the seven days.
+**The Fan-Shaped Ogi Neputa**
+The greatest distinguishing feature of the Hirosaki Neputa is the large fan-shaped lantern, the ogi neputa. In contrast to the three-dimensional figure-shaped form of the Aomori Nebuta, this format of painting images on a flat fan has the charm of allowing the whole image to be surveyed from the front, and it developed as a style unique to Tsugaru. A small number of figure-shaped kumi neputa are also paraded, and being able to compare the two forms is one of the pleasures.
+
+**The Contrast of the Kagami-e and the Miokuri-e**
+A highlight of the ogi neputa lies in the contrast of the two kinds of images painted on the front and back of the fan. On the front is the kagami-e, a valiant warrior image drawing on themes such as the Romance of the Three Kingdoms and the Water Margin, while on the back is the miokuri-e, a colorful yet forlorn image such as a portrait of a beauty, so that one can savor the contrasting sentiments of valor and stillness in a single neputa.
+
+**The Cry of Yaya-do**
+Coloring the parade of the Hirosaki Neputa is the distinctive cry of yaya-do. Completely different from the rassera of the Aomori Nebuta, this cry has a weighty resonance imbued with the deep feeling of the people of Tsugaru, and together with the music of the great drums and flutes it raises the mood of the neputa in the castle town.
+
+**The Great Drums of the Tsugaru Joppari Taiko**
+At the head of the parade and at key points, enormous drums reaching several meters in diameter are beaten. The belly-resounding sound of the spirited great drums, also called the Tsugaru joppari taiko, symbolizes the fervor of the festival, and its powerful tone rings out far into the distance, setting the hearts of the spectators racing.
+
+**The Parade Through the Castle Town**
+The Hirosaki Neputa is paraded on the stage of the streets of the castle town that holds Hirosaki Castle. The sight of the neputa, clad in light, advancing in a line through the historic townscape is full of the atmosphere unique to a castle town. The roadsides of the parade course are filled with many spectators, and the summer nights of Tsugaru are colored fantastically.
+
+**Prestige as an Important Intangible Folk Cultural Property**
+The Hirosaki Neputa, its historical and cultural value recognized, is designated an Important Intangible Folk Cultural Property of the nation. This festival, which conveys to the present the old custom originating in nemuri-nagashi and has been supported by the skill of painters and the local bearers continuing from the domain period, is positioned as a crystallization of the folk culture of Tsugaru, not merely a tourist event.
 
 ## Event Information
 
-The festival is held in the central district of Hirosaki City, Aomori Prefecture, along parade routes including Dotemachi and the main street in front of the station. The nearest station is Hirosaki Station on the JR Ōu Main Line, about a 15-minute walk to the parade route. The festival runs annually from August 1 to 7, with the seventh day known as the Nanuka-bi Neputa, featuring daytime processions. Parades run from approximately 7:00 PM to 9:00 PM on days 1 through 6, and from about 10:00 AM to 1:00 PM on day 7. Admission is free, with paid reserved seating available along Dotemachi-dōri. Early-August evenings in Hirosaki can be cool, so a light jacket is recommended.
+- **Location**: The central city area of Hirosaki City, Aomori Prefecture (the parade course)
+- **Period**: August 1 to 7 each year
+- **Main Events**: The parade of ogi neputa and kumi neputa, the performance of great drums, and the send-off of the seventh day (final day)
+- **Access**: On foot or by bus from JR Hirosaki Station to the parade course. Traffic is restricted during the period, so public transport is recommended
+- **Admission**: Free to watch from the roadside (some paid viewing seats are available)
+- **Official Information**: The parade schedule and course are announced through the official information of the Hirosaki Neputa Operating Committee and Hirosaki City
 
 ## Nearby Attractions
 
-Hirosaki Park (Hirosaki Castle) is one of Japan''s Top 100 Cherry Blossom Spots and home to the original Hirosaki Castle Keep — one of only twelve original castle keeps still standing in Japan. At Tsugaru-han Neputa Village, visitors can observe Neputa float construction and enjoy live performances of Tsugaru shamisen year-round. Iwakiyama Shrine and the Dake Onsen hot-spring district are within easy reach, and the conical peak of Mount Iwaki (the "Tsugaru Fuji") provides a stunning backdrop. Local specialties such as igamenchi (squid fritters), kaiyaki miso (scallop and miso grilled in shell), and ke no shiru soup can be enjoyed at festival food stalls.','hirosaki-neputa','hirosaki-neputa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+Hirosaki City, the stage of the Hirosaki Neputa, is a historic city that prospered as the castle town of the Tsugaru domain of one hundred thousand koku. To be visited alongside the festival is Hirosaki Castle, whose surviving keep, imposing turrets, moats, and stone walls preserve the appearance of former days, and which is cherished as Hirosaki Park, known for its beauty in every season, with cherry blossoms in spring, autumn foliage, and snowscapes in winter.
+
+Hirosaki is also known as a land that eagerly accepted Western culture in the Meiji era, and many Western-style buildings and brick architecture remain in the city. The unique townscape fusing Japanese and Western styles, such as the former Hirosaki City Library and the Aomori Bank Memorial Hall, is a sight unique to Hirosaki, where the traditions of a castle town and the memory of a stylish modern age coexist.
+
+Hirosaki, the center of Tsugaru, is also famous nationwide as a major producer of apples. In the city one can enjoy comparing apple pies, and venturing a little farther one is blessed with the magnificent form of Mount Iwaki and the renowned hot springs of Tsugaru, so that using the Neputa Matsuri as a starting point one can expand into a trip savoring nature and culture to the full.
+
+## Related Information
+
+- Month: Early August (summer)
+- Prefecture: Aomori Prefecture (Tsugaru region, Tohoku region)
+- Origin: Derives from the nemuri-nagashi purification rite; a record of a lord''s viewing in 1722
+- Form: The fan-shaped ogi neputa is the star (in contrast to the three-dimensional figure form of the Aomori Nebuta)
+- Cultural Property: Designated an Important Intangible Folk Cultural Property of the nation
+- Highlights: The contrast of the front and back kagami-e and miokuri-e, the cry of yaya-do, and the great drums','hirosaki-neputa','hirosaki-neputa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11465312','尾張津島天王祭','Owari Tsushima Tennō Festival','津島神社の祭事','annual festival in Tsushima, Aichi, Japan','Q705136','津島神社','Tsushima Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tushimatennousai1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E5%A4%A9%E7%8E%8B%E7%A5%AD','https://en.wikipedia.org/wiki/Tenno_Matsuri',85,'drafted','## 尾張津島天王祭とは
 
 尾張津島天王祭（おわりつしまてんのうまつり）は、愛知県津島市の津島神社で毎年夏に行われる、約600年の歴史を持つ川祭りです。日本三大川祭りのひとつに数えられ、宵祭(よいまつり)では、提灯で半円形に飾られた5艘の「巻藁船(まきわらぶね)」が天王川を進む、幽玄かつ華麗な光景で全国に知られています。津島神社の祭礼として、尾張地方の夏を彩る、優美で勇壮な水上の祭典です。
@@ -12601,79 +12685,125 @@ The venues lie at the heart of Kobe''s tourist district. Nearby attractions—th
 Like the festivals of other open port cities such as Yokohama, the Kobe Festival embodies the identity of a city connected to the world through its harbor. Its distinctiveness lies in combining the multicultural festivity symbolized by the samba parade with the dimension of sharing recovery from disaster among citizens. The very origin of the festival—the merger of two events rooted in the port''s centennial and the celebration of the port town''s prosperity—mirrors the history of Kobe, a city that grew from its opening and overcame the earthquake.','kobe-matsuri','kobe-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11604835','糸満ハーレー','Itoman Hārē',NULL,NULL,'Q860662','糸満市','Itoman','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC.jpg','https://ja.wikipedia.org/wiki/%E7%B3%B8%E6%BA%80%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%BC',NULL,80,'drafted','## 概要
 
-糸満ハーレーは、沖縄県糸満市で毎年旧暦5月4日（沖縄でいう「ユッカヌヒー」）に行われる伝統的な海の祭りである。爬龍船（はりゅうせん）と呼ばれる色鮮やかな船を漕ぎ手たちが競漕し、大漁と航海の安全を祈願する。漁師町として栄えた糸満を代表する行事であり、約600年の歴史を持つ伝統的な海神祭として、勇壮な海人（ウミンチュ）たちの競漕が大きな見どころとなっている。2012年には糸満市の指定無形民俗文化財に認定された。
+糸満ハーレー(いとまんハーレー)は、沖縄県糸満市で毎年旧暦の5月4日に行われる、爬龍船(はりゅうせん)による競漕を中心とした伝統行事です。沖縄各地で営まれる「ハーリー」のなかでも、糸満は屈指の漁師町として知られ、海とともに生きる「海人(ウミンチュ)」たちの気概が色濃く反映された、勇壮かつ神聖な海の祭りとして受け継がれてきました。
 
-「ハーレー」は沖縄各地で旧暦5月4日に行われる海神祭（ハーリー）の糸満での呼び名であり、地域ごとに独自の形で受け継がれている。糸満のハーレーはそのなかでも特に規模が大きく、伝統色の濃い行事として知られ、沖縄の夏の到来を告げる行事の一つとして親しまれている。
+那覇ハーリーが新暦のゴールデンウィークに開催される観光色の強い行事であるのに対し、糸満ハーレーはあくまで旧暦5月4日の伝統を厳格に守り続けている点に大きな特色があります。航海の安全と豊漁を海神に祈願する神事としての性格を色濃くとどめ、糸満の海人文化の精神をそのまま今日に伝える行事として、地域で最も大切にされています。
 
-## 歴史・由来
+## 歴史と由来
 
-ハーリー（ハーレー）は、海の神に大漁と航海の安全を祈る行事として、沖縄各地の漁港で古くから営まれてきた。その起源には諸説あり、中国から伝わった龍舟競漕に由来するという説などが伝えられているが、糸満をはじめとする各地で長い年月をかけて土地に根づき、独自の形に発展してきた。糸満ハーレーは約600年の歴史を持つとされ、沖縄の海神祭のなかでも特に古い伝統を伝える行事の一つである。
+ハーレーの起源は、14世紀から15世紀ごろ、琉球王国と中国大陸との交易が盛んだった時代に、中国南部の龍船競漕の風習が伝わったものとされています。海運と漁業を生業とする琉球の人々にとって、海は恵みと脅威の両面を持つ存在であり、海神への祈りは切実なものでした。糸満のハーレーもこうした海神信仰と結びついて定着していきました。
 
-糸満は古くから沖縄を代表する漁師町として栄え、遠洋まで漁に出る糸満漁師の技術は広く知られてきた。海とともに生きる人々の信仰が篤いこの土地で、糸満ハーレーは海人たちの暮らしと信仰を色濃く反映した行事として根づいた。旧暦5月4日のユッカヌヒーに合わせて毎年営まれ、爬龍船による競漕を中心に、海の恵みへの感謝と祈りが込められてきた。旧暦に基づいて行われるのは、月の満ち欠けと潮の動きに従って暮らしてきた海人の生活が祭りの根底にあるためであり、新暦の特定の日ではなく旧暦の節目を守り続けている点に、この行事の伝統の深さがうかがえる。2012年には糸満市の指定無形民俗文化財として、その文化的価値が公式に認められた。
+とりわけ糸満は、古くから沖縄随一の漁師町として栄え、その漁師たちは高い操船技術と勇猛さで知られてきました。糸満の海人は沖縄本島のみならず遠く海外にまで漁に出たと伝えられ、海とともに生きる誇りが地域のアイデンティティとなっています。ハーレーは、そうした海人たちが一年の航海安全と豊漁を祈願する、最も重要な年中行事として営まれてきました。
+
+糸満ハーレーは、旧暦5月4日という開催日を厳格に守り続けています。この日は沖縄で「ユッカヌヒー」と呼ばれる特別な節日にあたり、糸満では他の地域が新暦での開催に移るなかでも、あえて旧暦の伝統を堅持してきました。この頑ななまでのこだわりが、糸満ハーレーの神事としての純度を保ってきたといえます。
+
+糸満のハーレーは、地域を構成する糸満(新島・中村渠・西村など)の各集落がそれぞれの爬龍船を出して競い合う形で受け継がれてきました。集落対抗の競漕は、単なる勝敗を超えて、それぞれの共同体の結束と誇りを確かめ合う場であり、漁師町ならではの気風が色濃く表れています。
 
 ## 見どころ
 
-最大の見どころは、爬龍船による競漕である。会場の糸満漁港を見下ろす聖地「山巓毛（さんてぃんもう）」から旗が振り下ろされるのを合図に競漕が始まる。極彩色に彩られた船を漕ぎ手たちが力を合わせて漕ぎ進め、海上で速さを競う様子は迫力に満ちている。漕ぎ手たちの掛け声と太鼓の音が響くなか、船が波を切って進む光景は、海人の町ならではの勇壮さを伝える。
+**海人の気概あふれる競漕**
+糸満ハーレー最大の見どころは、漁師町ならではの本格的な競漕です。日ごろ実際に海で舟を操る海人たちが漕ぎ手を務めるため、その操船技術と力強さは他の地域のハーリーとは一線を画します。太鼓の号令に合わせて海面を切り裂くように進む爬龍船の速さと迫力は、まさに海のプロの技を目の当たりにする瞬間です。
 
-競漕は3種類の種目から成る。まず神事としての「御願（うがん）バーレー」で幕を開け、海の神への祈りを捧げる。続いて各地区の若者が力を競う「青年団ハーレー」が行われ、最後に船をわざと転覆させて泳いで乗り直し、再び漕ぎ出す「クンヌカセー（転覆競漕）」で最高潮を迎える。クンヌカセーは海に親しんだ糸満の海人ならではの種目であり、転覆した船を素早く立て直す技と度胸が見せ場となる。これらの競漕は、海の安全と大漁を祈願する神事としての側面と、町を挙げての競技としての側面を併せ持ち、見物客と地域の人々が一体となって盛り上がる。旧暦5月4日には糸満のほか、名城や喜屋武など周辺の地域でも同様のハーリーが行われ、沖縄各地が一斉に海の祭りに沸く。
+**旧暦5月4日の神事としての格式**
+糸満ハーレーは、旧暦5月4日という開催日を厳格に守り続ける数少ない行事であり、そのこだわり自体が大きな見どころです。航海安全と豊漁を海神に祈願する神事としての性格を色濃くとどめ、競技である以前に祈りの行事であるという原点が、糸満の海人たちによって今日まで守られています。
 
-## 開催情報・アクセス
+**極彩色の爬龍船**
+競漕に用いられる爬龍船は、船首に龍の頭をかたどり、船体を鮮やかな色で彩った独特の舟です。中国から伝わったドラゴンボートの流れをくむこの意匠は、琉球の美意識と融合して華やかな姿を見せます。集落ごとに船を彩る色や意匠に違いがあり、海上を走るその姿は祭りに彩りを添えます。
 
-糸満ハーレーは毎年旧暦5月4日（新暦では6月頃にあたる）に、沖縄県糸満市の糸満漁港を中心に行われる。旧暦に基づくため、新暦での開催日は年によって変動し、近年では6月中旬から下旬にあたることが多い。同じ日には沖縄本島をはじめ各地の漁港でハーリーが営まれ、沖縄全体が海の祭りの雰囲気に包まれる。
+**クンヌカセーの勇壮な競技**
+糸満ハーレーには、舟をわざと転覆させてから再び起こして漕ぎ進む「クンヌカセー」という独特の競技があります。転覆した舟に飛び乗り、水をかき出しながら態勢を立て直して競う様は、実際の漁で不測の事態に対処する海人の技量を映したものであり、観衆を沸かせる勇壮な見せ場となっています。
 
-糸満市は沖縄本島南部に位置し、那覇市内からは路線バスや自動車でのアクセスとなる。祭り当日は漁港周辺に多くの見物客が集まるため、公共交通機関や臨時の案内に従っての来場が推奨される。
+**集落対抗の熱戦**
+糸満を構成する各集落が、それぞれの誇りをかけて競い合う集落対抗の競漕も見どころです。地元の人々にとっては、集落の名誉を背負った真剣勝負であり、勝敗の行方に一喜一憂する観衆と漕ぎ手が一体となって、漁師町ならではの熱気が海辺いっぱいに広がります。
+
+**海辺を彩る祭りの活気**
+競漕とあわせて、会場となる糸満漁港一帯は多くの見物客で賑わい、漁師町ならではの活気に包まれます。海人たちの掛け声と太鼓の音、爬龍船を応援する人々の声援が交わり合い、初夏の糸満の海辺を熱く彩る光景は、沖縄の海の暮らしと祈りが一つになった祭りの魅力を存分に伝えます。
+
+## 開催情報
+
+- **開催地**: 沖縄県糸満市(糸満漁港一帯)
+- **開催時期**: 毎年旧暦5月4日(新暦では初夏にあたる)
+- **主な行事**: 爬龍船による競漕、御願バーリー、クンヌカセー、集落対抗の競漕
+- **アクセス**: 那覇空港から車で約20分。会場周辺は混雑が予想されるため事前の交通手段確認が推奨される
+- **観覧料**: 会場での観覧は無料
+- **公式情報**: 糸満市・糸満ハーレー行事の主催者から日程・プログラムが発表される
 
 ## 周辺の見どころ
 
-糸満市は沖縄本島南部の漁師町であり、海に親しむ文化が色濃く残る。周辺には平和祈念公園やひめゆりの塔など、沖縄戦の歴史を伝える施設が点在し、沖縄の歴史と平和について学ぶことができる。海沿いの風景や新鮮な海の幸も楽しめ、ハーレーと併せて沖縄南部の自然と文化に触れることができる。
+糸満ハーレーの舞台となる糸満市は、沖縄本島の最南端に位置する漁師町です。糸満漁港では新鮮な海の幸を味わうことができ、水産物直売所や食堂も充実しています。海人の町ならではの活気ある港の風景は、ハーレーの背景にある糸満の暮らしを実感させてくれます。
+
+糸満市は、沖縄戦の激戦地であった歴史も持ち、市内には平和祈念公園やひめゆりの塔など、沖縄戦の記憶を今に伝える施設が集まっています。ハーレーの勇壮な熱気に触れたあとに、平和の尊さに思いを馳せる巡礼の旅へと足を運ぶことができ、糸満ならではの重層的な歴史を体感できます。
+
+沖縄本島南部に位置する糸満周辺には、美しい海岸線やビーチが点在し、南国のリゾートとしての魅力も豊かです。海人の伝統が息づく漁港、戦争の記憶を伝える史跡、そして青い海が広がるビーチという多様な顔を持つ糸満は、ハーレーを起点に沖縄の多面的な魅力をめぐる旅の拠点となります。
 
 ## 関連情報
 
-- 開催月: 旧暦5月4日（ユッカヌヒー・新暦6月頃）
+- 開催月: 旧暦5月4日(新暦では初夏)
 - 都道府県: 沖縄県
-- 開催地: 糸満市（糸満漁港・山巓毛 ほか）
-- 種別: 海神祭（ハーリー／ハーレー）・爬龍船競漕（約600年の歴史）
-- 競漕種目: 御願バーレー・青年団ハーレー・クンヌカセー（転覆競漕）
-- 文化財: 糸満市指定無形民俗文化財（2012年認定）
-- 関連: 沖縄各地で旧暦5月4日に行われるハーリー行事の一つ
-','## Overview
+- 起源: 14〜15世紀ごろ中国南部の龍船競漕が琉球王国に伝来
+- 特色: 沖縄随一の漁師町・糸満の海人文化を色濃く反映、旧暦を厳格に堅持
+- 主な競技: 御願バーリー、クンヌカセー(舟を転覆させ起こし直す競技)、集落対抗の競漕
+- 性格: 航海安全と豊漁を祈願する伝統神事','## Overview
 
-The Itoman Hare is a traditional sea festival held every year on the fourth day of the fifth lunar month, known in Okinawa as "Yukkanuhi," in Itoman City, Okinawa Prefecture. Rowers race colorful boats called haryusen (dragon boats) to pray for a great catch and safety at sea. As a representative event of Itoman, a town that flourished as a fishing community, it is a traditional sea-god festival said to have a history of around 600 years, and the spirited races of the umin-chu (seafarers) are its great highlight. In 2012 it was designated an Intangible Folk Cultural Property of Itoman City.
+The Itoman Hare is a traditional event centered on dragon-boat races, held every year on the fourth day of the fifth month of the old lunar calendar in Itoman City, Okinawa Prefecture. Among the hare held in various parts of Okinawa, Itoman is known as one of the foremost fishing towns, and the event has been handed down as a valiant yet sacred festival of the sea, strongly reflecting the spirit of the uminchu, the sea people who live alongside the sea.
 
-"Hare" is the Itoman pronunciation of the hari, the sea-god festival held at fishing ports across Okinawa on the fourth day of the fifth lunar month, each region preserving it in its own form. Among them, the Itoman hare is known as a particularly large and tradition-rich event, beloved as one of the festivals announcing the arrival of summer in Okinawa.
+Whereas the Naha Hari is an event with a strong tourist character held during Golden Week in the new calendar, a great distinguishing feature of the Itoman Hare lies in its strict adherence to the tradition of the fourth day of the fifth lunar month. Strongly retaining its character as a rite praying to the sea deity for safety in navigation and bountiful catches, it is cherished most of all in the region as an event that conveys to the present day the very spirit of the sea-people culture of Itoman.
 
 ## History and Origins
 
-The hari (hare) has long been held at fishing ports throughout Okinawa as a rite praying to the sea god for a great catch and safe voyages. There are various theories about its origins, including that it derives from dragon-boat racing introduced from China, but it took root over many years in Itoman and other locales and developed into distinctive local forms. The Itoman Hare is said to have a history of around 600 years and is one of the oldest of Okinawa''s sea-god festivals.
+The origin of the hare is said to lie in the custom of dragon-boat racing from southern China, transmitted around the fourteenth to fifteenth centuries in an age when trade between the Ryukyu Kingdom and the Chinese mainland flourished. For the people of Ryukyu, whose livelihoods were shipping and fishing, the sea was an existence with both faces of blessing and threat, and prayers to the sea deity were earnest ones. The hare of Itoman too took root in connection with such faith in the sea deity.
 
-Itoman has long flourished as a representative fishing town of Okinawa, and the skills of its fishermen, who ventured far out to sea, were widely renowned. In this land where faith among people who live with the sea runs deep, the Itoman Hare took root as an event richly reflecting the lives and beliefs of the umin-chu. Held each year on Yukkanuhi, the fourth day of the fifth lunar month, it centers on dragon-boat racing and carries gratitude and prayer for the bounty of the sea. That it follows the lunar calendar reflects the seafarers'' lives lived in accordance with the waxing and waning of the moon and the movement of the tides; the persistence of observing a lunar milestone rather than a fixed solar date speaks to the depth of the tradition. In 2012, its cultural value was officially recognized through designation as an Intangible Folk Cultural Property of Itoman City.
+In particular, Itoman prospered from ancient times as the foremost fishing town of Okinawa, and its fishermen have been known for their high boat-handling skill and bravery. The uminchu of Itoman are said to have gone out to fish not only around the Okinawa main island but far overseas, and pride in living alongside the sea has become the identity of the region. The hare has been conducted as the most important annual event, in which such sea people pray for a year of safe navigation and bountiful catches.
+
+The Itoman Hare strictly continues to observe its date of the fourth day of the fifth lunar month. This day falls on the special festival day called yukka-nu-hi in Okinawa, and in Itoman, even as other regions shifted to holding the event in the new calendar, the tradition of the old calendar has been deliberately maintained. This almost stubborn insistence can be said to have preserved the purity of the Itoman Hare as a religious rite.
+
+The hare of Itoman has been handed down in the form of the various settlements that make up Itoman, such as Aratani, Nakandakari, and Nishimura, each fielding its own dragon boat to compete. The inter-settlement races are, beyond mere victory or defeat, a place to affirm the solidarity and pride of each community, and the spirit unique to a fishing town appears in them strongly.
 
 ## Highlights
 
-The greatest highlight is the dragon-boat racing. The races begin at the signal of a flag waved down from Santinmo, a sacred site overlooking the Itoman fishing port that serves as the venue. Rowers work together to propel the vividly colored boats, competing for speed on the water in a display full of power. As the rowers'' shouts and the beat of drums resound, the boats cut through the waves in a scene that conveys the spirited character of a seafaring town.
+**Races Overflowing with the Spirit of the Sea People**
+The greatest highlight of the Itoman Hare is the full-fledged racing unique to a fishing town. Because the uminchu, who actually handle boats at sea daily, serve as the rowers, their boat-handling skill and strength draw a line apart from the hare of other regions. The speed and force of the dragon boats advancing as if slicing through the water in time with the commands of the drums are truly a moment of witnessing the skill of professionals of the sea.
 
-The racing consists of three events. It opens with the "Ugan-bare," a ritual race offering prayers to the sea god, followed by the "Seinendan Hare," in which young people of each district compete, and culminates in the "Kunnukase" (capsizing race), in which crews deliberately overturn their boats, swim to right them, and row off again. The Kunnukase is an event unique to the umin-chu of Itoman who are at home in the sea, with the skill and nerve to quickly right a capsized boat as its showpiece. These races combine the aspect of a ritual praying for safety at sea and a great catch with the aspect of a town-wide competition, uniting spectators and local people in excitement. On the fourth day of the fifth lunar month, similar hari are held at neighboring areas such as Nashiro and Kyan in addition to Itoman, and locations across Okinawa stir with sea festivals all at once.
+**Prestige as a Rite of the Fourth Day of the Fifth Lunar Month**
+The Itoman Hare is one of the few events that strictly continues to observe its date of the fourth day of the fifth lunar month, and this insistence itself is a great highlight. Strongly retaining its character as a rite praying to the sea deity for safe navigation and bountiful catches, the origin of its being a rite of prayer before it is a competition has been preserved to this day by the sea people of Itoman.
 
-## Event Information and Access
+**The Brilliantly Colored Dragon Boats**
+The dragon boats used in the races are distinctive craft with a dragon''s head shaped at the bow and the hull painted in vivid colors. This design, descended from the dragon boats transmitted from China, fuses with the aesthetic sensibility of Ryukyu to present a gorgeous appearance. There are differences in the colors and designs that adorn the boats of each settlement, and the sight of them coursing over the sea adds color to the festival.
 
-The Itoman Hare is held each year on the fourth day of the fifth lunar month (corresponding to around June in the solar calendar) centered on the Itoman fishing port in Itoman City, Okinawa. Because it follows the lunar calendar, the solar date varies from year to year, often falling in mid to late June in recent years. On the same day, hari are held at fishing ports across the main island and beyond, wrapping all of Okinawa in a sea-festival atmosphere.
+**The Valiant Competition of Kunnukase**
+The Itoman Hare has a distinctive competition called kunnukase, in which a boat is deliberately capsized and then righted again to row on. The sight of the rowers leaping onto the capsized boat, bailing out the water while restoring their posture and competing, mirrors the skill of the sea people in dealing with unforeseen situations in actual fishing, and it is a valiant showpiece that thrills the spectators.
 
-Itoman City lies in the southern part of Okinawa''s main island and is accessed from central Naha by route bus or car. Many spectators gather around the port on festival days, so use of public transport or following temporary guidance is recommended.
+**The Fierce Contest Among Settlements**
+The inter-settlement races, in which the various settlements making up Itoman compete with the pride of each at stake, are also a highlight. For the local people it is a serious contest bearing the honor of the settlement, and the spectators and rowers, rejoicing and grieving over the outcome, become as one, and the fervor unique to a fishing town spreads across the whole shore.
+
+**The Vitality of the Festival Coloring the Shore**
+Together with the races, the area around the Itoman Fishing Port that serves as the venue bustles with many onlookers and is wrapped in the vitality unique to a fishing town. The cries of the sea people and the sound of the drums mingle with the cheers of those supporting the dragon boats, and the sight of the early-summer shore of Itoman colored with heat conveys in full the charm of a festival in which the sea life and prayer of Okinawa become one.
+
+## Event Information
+
+- **Location**: Itoman City, Okinawa Prefecture (the area around Itoman Fishing Port)
+- **Period**: The fourth day of the fifth lunar month each year (early summer in the new calendar)
+- **Main Events**: The dragon-boat races, the prayer race, kunnukase, and the inter-settlement races
+- **Access**: About a 20-minute drive from Naha Airport. Congestion is expected around the venue, so confirming transportation in advance is recommended
+- **Admission**: Free to watch at the venue
+- **Official Information**: Dates and programs are announced by Itoman City and the organizers of the Itoman Hare event
 
 ## Nearby Attractions
 
-Itoman City is a fishing town in the southern part of Okinawa''s main island, where a culture intimate with the sea remains strong. Nearby are facilities conveying the history of the Battle of Okinawa, including the Peace Memorial Park and the Himeyuri Monument, where visitors can learn about Okinawa''s history and peace. Coastal scenery and fresh seafood can also be enjoyed, and together with the hare, visitors can experience the nature and culture of southern Okinawa.
+Itoman City, the stage of the Itoman Hare, is a fishing town located at the southernmost tip of the Okinawa main island. At Itoman Fishing Port one can savor fresh seafood, and there are ample marine-product direct-sales shops and eateries. The lively harbor scenery unique to a town of the sea people lets one truly feel the life of Itoman that lies in the background of the hare.
+
+Itoman City also has a history as a site of fierce fighting in the Battle of Okinawa, and in the city gather facilities conveying the memory of the Battle of Okinawa to the present, such as the Peace Memorial Park and the Himeyuri Monument. After encountering the valiant fervor of the hare, one can set out on a pilgrimage reflecting on the preciousness of peace, and can experience the layered history unique to Itoman.
+
+Around Itoman, located in the southern part of the Okinawa main island, beautiful coastlines and beaches are scattered, and its charm as a subtropical resort is also rich. Itoman, with its many faces of a fishing port where the traditions of the sea people live on, historic sites conveying the memory of war, and beaches where the blue sea spreads out, serves as a base for a trip touring the many-sided charms of Okinawa, with the hare as its starting point.
 
 ## Related Information
 
-- Month held: fourth day of the fifth lunar month (Yukkanuhi; around June in the solar calendar)
-- Prefecture: Okinawa
-- Location: Itoman City (Itoman fishing port, Santinmo, etc.)
-- Type: sea-god festival (hari/hare), dragon-boat racing (history of around 600 years)
-- Race events: Ugan-bare, Seinendan Hare, Kunnukase (capsizing race)
-- Cultural status: Intangible Folk Cultural Property of Itoman City (designated 2012)
-- Related: one of the hari events held across Okinawa on the fourth day of the fifth lunar month
-','itoman-hare','itoman-hare',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- Month: The fourth day of the fifth lunar month (early summer in the new calendar)
+- Prefecture: Okinawa Prefecture
+- Origin: Dragon-boat racing from southern China transmitted to the Ryukyu Kingdom around the 14th to 15th centuries
+- Feature: Strongly reflects the sea-people culture of Itoman, the foremost fishing town of Okinawa; strictly maintains the old calendar
+- Main Competitions: The prayer race, kunnukase (a competition of capsizing and righting a boat), and the inter-settlement races
+- Character: A traditional rite praying for safe navigation and bountiful catches','itoman-hare','itoman-hare',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603435','節分会はだか祭り','Setsubunkai Hadaka Matsuri',NULL,NULL,'Q11452340','宝光院 (大垣市)',NULL,'岐阜県','chubu',NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86%E4%BC%9A%E3%81%AF%E3%81%A0%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11590283','神明の花火大会','Shinmei Fireworks Festival','山梨県西八代郡市川三郷町で行われる花火大会',NULL,'Q1204453','市川三郷町','Ichikawamisato','山梨県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11581773','直方山笠',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%96%B9%E5%B1%B1%E7%AC%A0',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
