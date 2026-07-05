@@ -11222,15 +11222,111 @@ INSERT INTO "festivals" VALUES('Q11496104','戦極 MCBATTLE','SENGOKU MC BATTLE'
 INSERT INTO "festivals" VALUES('Q11518609','木本まつり','Kinomoto Matsuri','三重県熊野市で行われる木本神社の例祭',NULL,'Q11518622','木本神社','Kinomoto Shrine','三重県','kinki',NULL,NULL,1608,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9C%AC%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11493854','愛宕社の火祭り','Atagosya no Hi Matsuri',NULL,NULL,'Q819613','魚津市','Uozu','富山県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%84%9B%E5%AE%95%E7%A4%BE%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11492412','恵比須流','Ebisu-nagare','博多祇園山笠や博多松囃子（博多どんたく）の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%81%B5%E6%AF%94%E9%A0%88%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11501940','新居浜太鼓祭り','Niihama Taiko Festival','愛媛県新居浜市の秋祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B1%B1%E6%A0%B9%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%EF%BC%882009%E5%B9%B4%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A%EF%BC%89%20-%20Panoramio%2028123946.jpg','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A',NULL,85,'drafted','新居浜太鼓祭り（にいはまたいこまつり）は、愛媛県新居浜市で毎年10月中旬に開催される秋祭りで、四国三大祭りの一つに数えられる勇壮な祭礼である。「男祭り」とも称され、地域の人々が一年で最も熱くなる、新居浜市最大の年中行事として知られる。
+INSERT INTO "festivals" VALUES('Q11501940','新居浜太鼓祭り','Niihama Taiko Festival','愛媛県新居浜市の秋祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B1%B1%E6%A0%B9%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%EF%BC%882009%E5%B9%B4%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A%EF%BC%89%20-%20Panoramio%2028123946.jpg','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-祭りの主役は「太鼓台(たいこだい)」と呼ばれる巨大な山車である。高さ約5.5メートル、長さ約11メートル、重さ約3トンにも及ぶ太鼓台は、金糸で刺繍された豪華絢爛な飾り幕で装飾され、まさに「動く芸術品」と称される。市内には50台を超える太鼓台があり、それぞれを150人ほどの「かき夫」と呼ばれる男たちが担ぎ上げる。
+新居浜太鼓祭り（にいはまたいこまつり）は、愛媛県新居浜市で毎年10月中旬に開催される秋祭りで、徳島県の阿波おどり、高知県のよさこい祭りと並んで四国三大祭りの一つに数えられる勇壮な祭礼です。「男祭り」の異名で全国に知られ、金糸で豪華に装飾された巨大な山車「太鼓台（たいこだい）」が市内を練り歩く姿は、瀬戸内の秋を象徴する光景として毎年数十万人規模の観客を集めます。
 
-祭りの最大の見どころは、複数の太鼓台を一斉に担ぎ上げて高さや力強さを競う「かきくらべ」である。重さ3トンの巨体を、男たちが「ソーリャ、ソーリャ」の掛け声とともに天高く差し上げる様は圧巻で、観衆の興奮は最高潮に達する。豪華な刺繍幕の美しさと、それを支える男たちの荒々しい力の競演こそが、新居浜太鼓祭りの醍醐味である。瀬戸内の工業都市・新居浜が誇る、伝統と熱気に満ちた秋の祭典である。','The Niihama Taiko Festival is an autumn festival held in mid-October each year in Niihama, Ehime Prefecture, counted among the three great festivals of Shikoku and known for its spirited grandeur. Often called a "men''s festival," it is Niihama''s largest annual event, the time of year when the local community burns most fiercely with excitement.
+祭りの主役である太鼓台は、高さ・重量ともに桁外れの大きさを誇り、その一台を百数十人もの男衆が担ぎ上げます。担ぎ手の力と統率、そして地区どうしの威信がぶつかり合う「かきくらべ」は、豪華絢爛な装飾美と荒々しい迫力が同居する、新居浜太鼓祭り最大の見せ場となっています。
 
-The stars of the festival are the enormous floats called taikodai. Standing roughly 5.5 meters tall, 11 meters long, and weighing about 3 tons, each taikodai is adorned with lavish hanging curtains embroidered in gold thread, earning them the title of "moving works of art." More than fifty taikodai exist across the city, each hoisted by around 150 men known as kakifu.
+## 歴史と由来
 
-The festival''s greatest spectacle is the "kakikurabe," in which several taikodai are lifted aloft simultaneously to compete in height and strength. The sight of men raising these three-ton giants high into the sky to chants of "sōrya, sōrya" is overwhelming, bringing the crowd''s excitement to its peak. The beauty of the ornate embroidered curtains combined with the raw power of the men supporting them is the very essence of the Niihama Taiko Festival—a splendid autumn celebration full of tradition and passion, the pride of the industrial city of Niihama on the Seto Inland Sea.','niihama-taiko-festival','niihama-taiko-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+新居浜太鼓祭りの起源は明確な創始年こそ特定されていないものの、平安時代から鎌倉時代にかけての秋の収穫を神に感謝する神事に遡るとされ、太鼓台が現在に近い形へと発展したのは江戸時代後期と考えられています。当初は神社の祭礼に奉納される神輿や小規模な山車が中心でしたが、時代とともに太鼓台は大型化・豪華化の一途をたどりました。
+
+この豪華化を支えた背景には、新居浜が別子銅山によって栄えた産業都市であったことが深く関わっています。元禄年間に開坑した別子銅山は住友家の経営のもとで日本有数の銅産出地となり、明治以降は近代鉱工業都市として発展しました。その経済的な豊かさが、地区どうしの競い合いと相まって太鼓台の装飾を年々競わせ、金糸刺繍で覆われた現在の絢爛たる姿を生み出したと言われています。
+
+太鼓台は各地区が所有し、その新調や維持には多額の費用と地域の結束が必要とされてきました。祭りは単なる娯楽ではなく、地域共同体の誇りと連帯を象徴する場として受け継がれ、担ぎ手として参加することが地元の男性にとって特別な意味を持つ文化として根づいています。太鼓台の新調は各地区の威信を賭けた一大事業であり、隣接地区に見劣りしないよう装飾や規模を競い合う気風が、豪華化を加速させる原動力となりました。こうした地区対抗の意識は現在の「かきくらべ」における真剣勝負の熱気にも受け継がれ、祭りに独特の緊張感と一体感を与えています。
+
+## 見どころ
+
+**豪華絢爛な太鼓台**
+新居浜太鼓祭りの太鼓台は、高さおよそ5メートル超、重量は2.5トンから3トンにも達する巨大な山車です。「蒲団締め」と呼ばれる四隅の房飾りや、龍・虎・武者などを金糸で刺繍した幕が全体を覆い、その一台の製作費は数千万円に及ぶとも言われます。豪華さと大きさは日本の山車の中でも屈指で、静止した状態でもその威容は圧巻です。
+
+**かきくらべ（差し上げ）**
+祭りの核心となるのが、太鼓台を担ぎ手だけの力で頭上高く持ち上げる「差し上げ」と、複数の太鼓台がその高さや安定を競う「かきくらべ」です。2.5トンを超える重量を約150人の男衆が息を合わせて持ち上げる様は、力と統率の極致であり、成功した瞬間には観客から大きな歓声が上がります。わずかでも呼吸が乱れれば太鼓台は傾き、担ぎ手の安全にも関わるため、地区の名誉を背負った真剣勝負としての緊張感がその場を包みます。担ぎ手の掛け声と観客のどよめきが一体となる瞬間は、この祭りが「男祭り」と称される所以を最も鮮烈に体現する場面です。
+
+**統一運行と各地区の巡行**
+新居浜市は上部（じょうぶ）・川西（かわにし）・川東（かわひがし）・大生院（おおじょういん）などの地区に分かれ、それぞれが太鼓台を擁して市内を巡行します。複数の太鼓台が一堂に会する統一運行は、色とりどりの太鼓台がずらりと並ぶ壮観な光景を生み、祭りのハイライトの一つとなっています。
+
+**夜太鼓と提灯の彩り**
+昼の勇壮さとは対照的に、夜には太鼓台に多数の提灯が灯され、闇の中に金糸の装飾が浮かび上がります。太鼓の音と掛け声が響くなか、光をまとって進む太鼓台の姿は幻想的で、昼夜で異なる表情を楽しめるのも本祭りの魅力です。
+
+## 開催情報
+
+- **開催地**: 愛媛県新居浜市（市内各地区）
+- **主な会場**: 山根グラウンド（統一かきくらべの舞台として知られる）ほか、市内各所の運行コース
+- **開催時期**: 毎年10月中旬（例年10月16日〜18日を中心とする数日間）
+- **アクセス**: JR予讃線・新居浜駅からバスまたはタクシーで各会場へ。会場周辺は交通規制・混雑が予想されるため公共交通機関の利用が推奨される
+- **観覧料**: 沿道での観覧は無料。会場によっては有料観覧席が設けられる場合がある
+- **公式情報**: 新居浜市および新居浜市観光協会の公式サイトで日程・運行コースが公開される
+
+## 周辺の見どころ
+
+新居浜市は別子銅山の歴史とともに歩んだ町であり、祭りとあわせて産業遺産を巡る旅がおすすめです。別子銅山の跡地を整備した「マイントピア別子」では、鉱山鉄道や坑道跡を体感でき、東洋のマチュピチュとも称される「東平（とうなる）」の石積み産業遺構群は、緑に覆われた壮大な景観で近年人気を集めています。
+
+市内には広瀬歴史記念館があり、別子銅山の近代化を主導した広瀬宰平の功績や、住友家と新居浜の関わりを学ぶことができます。祭りの豪華な太鼓台を生んだ経済的背景を理解するうえでも、あわせて訪れる価値のある施設です。
+
+瀬戸内海に面した立地を生かし、周辺には海の幸を味わえる食事処や、瀬戸内の多島美を望むスポットも点在します。10月中旬の新居浜は秋の穏やかな気候で、祭りの熱気と落ち着いた観光を組み合わせた旅程に適したシーズンです。
+
+## 関連情報
+
+- 開催月: 10月中旬（秋）
+- 都道府県: 愛媛県（四国地方）
+- 起源: 江戸時代後期に現在の太鼓台の形へ発展（神事としての起源はさらに古いとされる）
+- 規模: 数十台の太鼓台が運行、一台約2.5〜3トンを約150人で担ぐ
+- 位置づけ: 阿波おどり・よさこい祭りと並ぶ四国三大祭りの一つ、「男祭り」として全国的に知られる
+','## Overview
+
+The Niihama Taiko Festival (Niihama Taiko Matsuri) is an autumn festival held every mid-October in Niihama City, Ehime Prefecture. Together with the Awa Odori dance festival of Tokushima and the Yosakoi Festival of Kochi, it is counted among the three great festivals of Shikoku. Widely known across Japan by its nickname the Festival of Men, it draws crowds numbering in the hundreds of thousands who gather to watch enormous festival floats known as taikodai, lavishly decorated with gold thread, being paraded through the streets. The spectacle has become a symbol of autumn on the shores of the Seto Inland Sea.
+
+The stars of the festival, the taikodai floats, are extraordinary in both height and weight, and each one is hoisted aloft by well over a hundred men. The kakikurabe, a contest in which rival districts pit the strength, coordination, and pride of their bearers against one another, is the greatest highlight of the Niihama Taiko Festival, combining ornate decorative beauty with raw, thunderous power.
+
+## History and Origins
+
+While no precise founding year is documented, the origins of the Niihama Taiko Festival are traced to autumn rites of thanksgiving offered to the gods for the harvest, dating back as far as the Heian and Kamakura periods. The taikodai are thought to have developed into something close to their present form during the late Edo period. In earlier times the festival centered on portable shrines and small floats dedicated at shrine rituals, but over the centuries the taikodai grew steadily larger and more elaborate.
+
+Behind this lavish evolution lies the deep influence of Niihama''s history as an industrial city that prospered thanks to the Besshi Copper Mine. Opened during the Genroku era and operated under the management of the Sumitomo family, the Besshi mine became one of Japan''s foremost sources of copper, and from the Meiji era onward the city flourished as a modern mining and industrial center. That economic wealth, combined with fierce rivalry between districts, drove communities to compete year after year in the decoration of their taikodai, giving rise to the resplendent gold-embroidered forms seen today.
+
+Each taikodai is owned by a district, and its construction and upkeep demand considerable expense and communal solidarity. The festival is far more than mere entertainment: it functions as a symbol of the pride and unity of the local community, and serving as a bearer holds a special meaning for the men of the region, a tradition passed down through generations.
+
+## Highlights
+
+**The Magnificent Taikodai**
+The taikodai of the Niihama Taiko Festival are colossal floats standing over five meters tall and weighing between 2.5 and 3 tons. Tasseled ornaments called futonjime adorn the four corners, and curtains embroidered in gold thread with dragons, tigers, and warriors cover the whole structure; the cost of building a single float is said to reach into the tens of millions of yen. In sheer opulence and scale they rank among the most impressive festival floats in Japan, and their grandeur is overwhelming even at a standstill.
+
+**Kakikurabe (Lifting Contest)**
+At the heart of the festival is the sashiage, in which a taikodai is lifted high overhead by the strength of its bearers alone, and the kakikurabe, in which several floats compete over the height and stability of their lift. The sight of roughly 150 men raising a weight exceeding 2.5 tons in perfect unison represents the pinnacle of strength and coordination, and the moment a lift succeeds brings a great roar from the crowd.
+
+**Unified Procession and District Parades**
+Niihama City is divided into districts such as Jobu, Kawanishi, Kawahigashi, and Ojoin, each of which fields its own taikodai to parade through the streets. The unified procession, in which multiple floats gather in one place, produces a magnificent scene of brilliantly colored taikodai lined up side by side, and stands as one of the festival''s climaxes.
+
+**Night Taikodai and the Glow of Lanterns**
+In contrast to the daytime valor, at night the taikodai are lit with numerous lanterns, and the gold-thread decorations emerge glowing from the darkness. As the beat of drums and the bearers'' chants ring out, the floats advancing clothed in light present a dreamlike sight, and the chance to enjoy their differing daytime and nighttime faces is one of the festival''s charms.
+
+## Event Information
+
+- **Location**: Niihama City, Ehime Prefecture (various districts across the city)
+- **Main Venue**: Yamane Ground, known as the stage for the unified kakikurabe, along with parade routes throughout the city
+- **Timing**: Every mid-October (typically centered on October 16 to 18 over several days)
+- **Access**: From Niihama Station on the JR Yosan Line, reach the venues by bus or taxi. As traffic restrictions and congestion are expected around the venues, use of public transportation is recommended
+- **Admission**: Viewing from the roadside is free; some venues may set up paid spectator seating
+- **Official Information**: Schedules and parade routes are published on the official websites of Niihama City and the Niihama City Tourism Association
+
+## Around the Area
+
+Niihama City grew up alongside the history of the Besshi Copper Mine, and a journey exploring its industrial heritage pairs well with the festival. At Minetopia Besshi, developed on the site of the former mine, visitors can experience the mine railway and old tunnel remains, while the stone-built industrial ruins of Tonaru, sometimes called the Machu Picchu of the East, have gained popularity in recent years for their grand landscape wrapped in greenery.
+
+The city is home to the Hirose Historical Memorial Museum, where visitors can learn about the achievements of Hirose Saihei, who led the modernization of the Besshi mine, and about the connection between the Sumitomo family and Niihama. It is a worthwhile stop for understanding the economic background that gave birth to the festival''s magnificent taikodai.
+
+Making the most of its setting facing the Seto Inland Sea, the surrounding area is dotted with eateries serving seafood and spots offering views of the many islands of the Seto Inland Sea. Mid-October in Niihama enjoys mild autumn weather, making it an ideal season to combine the heat of the festival with relaxed sightseeing.
+
+## Related Information
+
+- Month: Mid-October (autumn)
+- Prefecture: Ehime Prefecture (Shikoku region)
+- Origins: Developed into the present taikodai form in the late Edo period (with far older roots as a harvest rite)
+- Scale: Dozens of taikodai in procession, each weighing about 2.5 to 3 tons and carried by roughly 150 people
+- Standing: One of the three great festivals of Shikoku alongside Awa Odori and the Yosakoi Festival, known nationwide as the Festival of Men
+','niihama-taiko-festival','niihama-taiko-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11486153','真穴の座敷雛',NULL,'愛媛県八幡浜市の祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A9%B4%E3%81%AE%E5%BA%A7%E6%95%B7%E9%9B%9B',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11526894','東広島映画祭','Higashi-Hiroshima Film Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%BA%83%E5%B3%B6%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11495708','成田祇園祭','Narita Gion Festival','千葉県成田市の祭礼行事',NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Narita-gion-festival-1%2CNarita-city%2CJapan.jpg','https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,85,'drafted','成田祇園祭（なりたぎおんさい）は、千葉県成田市で毎年7月に開催される、成田山新勝寺と地元の総鎮守を中心とした夏の祭礼行事である。300年以上の歴史を持ち、成田山の本尊である不動明王の奥之院に祀られる大日如来の祭礼として営まれてきた。毎年7月7日・8日・9日に近い金・土・日の3日間にわたり、成田の門前町を熱気で包む。
@@ -12939,11 +13035,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
