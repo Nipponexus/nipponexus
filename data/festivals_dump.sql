@@ -11329,15 +11329,111 @@ Making the most of its setting facing the Seto Inland Sea, the surrounding area 
 ','niihama-taiko-festival','niihama-taiko-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11486153','真穴の座敷雛',NULL,'愛媛県八幡浜市の祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A9%B4%E3%81%AE%E5%BA%A7%E6%95%B7%E9%9B%9B',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11526894','東広島映画祭','Higashi-Hiroshima Film Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%BA%83%E5%B3%B6%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11495708','成田祇園祭','Narita Gion Festival','千葉県成田市の祭礼行事',NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Narita-gion-festival-1%2CNarita-city%2CJapan.jpg','https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,85,'drafted','成田祇園祭（なりたぎおんさい）は、千葉県成田市で毎年7月に開催される、成田山新勝寺と地元の総鎮守を中心とした夏の祭礼行事である。300年以上の歴史を持ち、成田山の本尊である不動明王の奥之院に祀られる大日如来の祭礼として営まれてきた。毎年7月7日・8日・9日に近い金・土・日の3日間にわたり、成田の門前町を熱気で包む。
+INSERT INTO "festivals" VALUES('Q11495708','成田祇園祭','Narita Gion Festival','千葉県成田市の祭礼行事',NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Narita-gion-festival-1%2CNarita-city%2CJapan.jpg','https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの最大の見どころは、絢爛豪華な山車（だし）と屋台の競演である。各町内から繰り出される10台の山車・屋台が、成田山表参道や周辺の町並みを練り歩き、軽快なお囃子とともに「のの字廻し」と呼ばれる勇壮な方向転換を披露する。坂道の多い門前町を巨大な山車が威勢よく駆け抜ける姿は、見る者を圧倒する。
+成田祇園祭（なりたぎおんさい）は、千葉県成田市で毎年7月に開催される、成田山新勝寺の祇園会（ぎおんえ）を中心とした夏祭りです。成田山の門前町と表参道を舞台に、豪華絢爛な山車（だし）と屋台、そして御輿が三日間にわたって練り歩き、毎年およそ45万人もの見物客を集める関東屈指の規模を誇ります。
 
-期間中は数十万人の観光客と参拝客で賑わい、成田山新勝寺への参詣文化と結びついた地域の一大イベントとなっている。最終日には全ての山車・屋台が成田山総門前に集結する「総引き」が行われ、祭りはクライマックスを迎える。成田国際空港にほど近い立地もあり、国内外から多くの来訪者を集める、関東を代表する夏祭りの一つである。','The Narita Gion Festival is a summer festival held every July in Narita, Chiba Prefecture, centered on Naritasan Shinshō-ji Temple and the local guardian deity. With a history of over 300 years, it is celebrated as a festival for Dainichi Nyorai, enshrined in the inner sanctuary of Naritasan''s principal deity, Fudō Myō-ō. It takes place over three days—Friday, Saturday, and Sunday—near July 7th–9th, filling Narita''s temple-gate town with excitement.
+成田山新勝寺といえば本尊の不動明王が広く知られていますが、この祭りが祀るのは奥之院に安置される大日如来（本地仏として祇園の神と結びつけられる）であり、五穀豊穣と万民の幸福を祈願する仏教行事として受け継がれてきました。仏教寺院の祭礼でありながら「祇園祭」の名を冠する点に、神仏習合の歴史を色濃く残す独特の性格が表れています。
 
-The festival''s main highlight is the spectacular procession of ornate floats (dashi) and yatai. Ten floats from various neighborhoods parade along Naritasan''s main approach and through the surrounding streets, performing a dramatic spinning maneuver known as "no-no-ji mawashi"—turning the float in the shape of the character の—accompanied by lively festival music. The sight of massive floats charging energetically through the hilly temple town is overwhelming.
+## 歴史と由来
 
-During the festival, hundreds of thousands of tourists and worshippers crowd the area, making it a major local event tied to the pilgrimage culture of Naritasan Shinshō-ji. On the final day, all floats and yatai gather before the temple''s main gate for the climactic "sō-biki" grand pull. Located close to Narita International Airport, it draws many visitors from Japan and abroad, ranking among the representative summer festivals of the Kantō region.','narita-gion-festival','narita-gion-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+成田祇園祭の起源は、成田山新勝寺の歴史とともに古く、江戸時代中期にはすでに現在に近い形の祭礼が行われていたと伝えられています。新勝寺は平安時代中期の天慶三年（940年）に開かれた古刹で、江戸時代に入ると成田不動への信仰が庶民の間で爆発的に広まり、江戸からの参詣客で門前町は大いに賑わいました。歌舞伎役者の初代市川團十郎が成田不動に子授けを祈願して名優となったと伝えられ、以来市川宗家が「成田屋」の屋号を名乗るようになったことは、成田不動信仰が江戸の庶民文化にいかに深く浸透していたかを示す象徴的な逸話です。こうした厚い信仰を背景に、成田は年間を通じて多くの参詣者を迎える門前町として発展し、その賑わいが祇園会の規模を年々大きく育てていきました。
+
+祭りが祀る大日如来は、奥之院に納められる秘仏であり、密教において宇宙の根源を象徴する仏です。この大日如来を祇園の神（牛頭天王）と重ね合わせて疫病退散・五穀豊穣を祈願する信仰が、神仏習合の思想のもとで根づいていきました。明治の神仏分離を経てもなお仏教寺院の祭礼として「祇園会」の形が守られ続けたことは、この祭りの信仰的な独自性を物語っています。
+
+門前町の各町内は、それぞれが山車や屋台を所有し、その維持と運行を通じて地域の結束を保ってきました。豪華な彫刻や人形で飾られた山車は各町の誇りであり、祭りは単なる娯楽ではなく、成田という町の歴史と信仰を次世代へ伝える場として機能しています。
+
+## 見どころ
+
+**10台の山車・屋台と御輿の巡行**
+祭りには成田山周辺の各町内から山車と屋台が繰り出し、御輿とともに門前と表参道を巡行します。それぞれの山車は精緻な彫刻や日本武尊・神功皇后といった歴史上の人物をかたどった人形で豪華に飾られ、大人から子どもまでが引き手となって町を練り歩く姿は、夏の成田を象徴する光景です。
+
+**総引き（そうびき）**
+祭りのクライマックスが、全ての山車・屋台が一堂に会して力を合わせて引き回す「総引き」です。各町の山車がそろい踏みする様は圧巻で、囃子の音が重なり合い、引き手たちの掛け声が門前に響きわたります。町ごとの威信をかけた一体感が、祭り最大の熱気を生み出します。
+
+**のの字廻し**
+成田山表参道の勾配のある狭い坂道で、重い山車を「の」の字を描くように勢いよく回転させる「のの字廻し」は、成田祇園祭ならではの荒々しい見せ場です。急坂で巨大な山車を巧みに操る引き手たちの技と力が試され、成功した瞬間には見物客から大きな歓声が上がります。
+
+**囃子の競演**
+各町の山車の上では、笛・太鼓・鉦による祭囃子が奏でられます。町ごとに受け継がれる囃子の節回しが表参道で交わり、耳からも祭りの高揚を感じさせます。伝統の音色は、成田の門前町が長く育んできた芸能文化の厚みを伝えています。
+
+## 開催情報
+
+- **開催地**: 千葉県成田市（成田山新勝寺門前・成田山表参道一帯）
+- **開催時期**: 毎年7月上旬（7月7日・8日・9日を基本とし、7日に近い金・土・日を含む3日間）
+- **主な行事**: 大日如来御輿の渡御、10台の山車・屋台の巡行、総引き、のの字廻し
+- **アクセス**: JR成田駅・京成成田駅から徒歩約10分で成田山表参道へ。祭り期間中は周辺で交通規制が敷かれるため公共交通機関の利用が推奨される
+- **観覧料**: 沿道での見物は無料
+- **公式情報**: 成田市観光協会および成田山新勝寺の公式情報で日程・巡行コースが公開される
+
+## 周辺の見どころ
+
+祭りの舞台となる成田山新勝寺は、初詣の参拝客数で全国有数を誇る関東の名刹です。荘厳な大本堂や三重塔、額堂などの伽藍が立ち並び、祭りとあわせて参拝すれば信仰の中心地としての重みを体感できます。新勝寺は真言宗智山派の大本山の一つに数えられる格式高い寺院であり、平安時代に寛朝大僧正が朱雀天皇の勅命を受けて開いたと伝えられます。開山以来一千年以上にわたり不動明王への護摩祈祷が絶えることなく続けられており、その長い信仰の歴史そのものが、成田祇園祭を支える精神的な土台となっています。境内の奥に広がる成田山公園は、四季折々の自然と池泉回遊式庭園が楽しめる憩いの場です。
+
+成田山表参道には、江戸情緒を残す old な町並みが続き、名物のうなぎ料理を供する老舗や、羊羹・煎餅などの土産物店が軒を連ねます。祭りの熱気のなかで食べ歩きを楽しむのも成田ならではの醍醐味で、参道そのものが観光の見どころとなっています。
+
+成田市は成田国際空港を擁する国際的な玄関口でもあり、空港利用の前後に立ち寄る旅行者も少なくありません。航空科学博物館など空にちなんだ施設も点在し、伝統の祭礼と現代の国際都市という二つの顔をあわせ持つ町の魅力を味わえます。
+
+## 関連情報
+
+- 開催月: 7月上旬（夏）
+- 都道府県: 千葉県（関東地方）
+- 祀る対象: 成田山新勝寺奥之院の大日如来（祇園会・神仏習合）
+- 母体寺院: 成田山新勝寺（天慶三年・940年開山）
+- 規模: 10台の山車・屋台が巡行、来場者数は例年約45万人
+- 見どころ: 総引き、のの字廻し、囃子の競演','## Overview
+
+The Narita Gion Festival is a summer festival held every July in Narita City, Chiba Prefecture, centered on the Gion-e Buddhist rite of Naritasan Shinshoji Temple. Set along the temple gate district and the Omotesando approach of Naritasan, lavishly decorated floats, stalls, and portable shrines parade through the streets over three days, drawing roughly 450,000 spectators each year and ranking among the largest festivals in the Kanto region.
+
+While Naritasan Shinshoji is famous for its principal image of Fudo Myoo, this festival honors the Dainichi Nyorai enshrined in the inner sanctuary, prayed to for abundant harvests and the happiness of all people. The fact that a Buddhist temple holds a festival bearing the name Gion reflects a distinctive character rooted in the historical fusion of Shinto and Buddhism.
+
+## History and Origins
+
+The origins of the Narita Gion Festival are as old as the history of Naritasan Shinshoji itself, and a festival close to its present form is said to have been held by the mid-Edo period. The temple is an ancient one, founded in 940 during the mid-Heian period, and in the Edo period devotion to Narita Fudo spread explosively among common people, filling the gate town with pilgrims from Edo.
+
+The Dainichi Nyorai honored by the festival is a hidden Buddha enshrined in the inner sanctuary, symbolizing the very foundation of the universe in esoteric Buddhism. A faith that overlaid this Dainichi Nyorai with the Gion deity to pray for the warding off of epidemics and for good harvests took root under the thought of Shinto-Buddhist syncretism. That the form of the Gion-e was preserved as a Buddhist temple rite even after the separation of Shinto and Buddhism in the Meiji era speaks to the religious singularity of this festival.
+
+Each neighborhood of the gate town owns its own float and stall, maintaining community solidarity through their upkeep and operation. The floats, adorned with fine carvings and figures, are the pride of each district, and the festival functions not merely as entertainment but as a place to pass on the history and faith of the town of Narita to future generations.
+
+## Highlights
+
+**Parade of Ten Floats, Stalls, and Portable Shrines**
+Floats and stalls set out from the neighborhoods around Naritasan and parade through the gate district and Omotesando together with portable shrines. Each float is richly decorated with intricate carvings and figures depicting historical personages such as Yamato Takeru and Empress Jingu, and the sight of everyone from adults to children pulling them through the town is emblematic of summer in Narita.
+
+**Sobiki (The Grand Pull)**
+The climax of the festival is the sobiki, in which all the floats and stalls gather in one place and are pulled together with combined strength. The lineup of every district''s float is a spectacular sight, the sounds of the festival music overlapping as the shouts of the pullers echo through the gate district. The sense of unity, with each district staking its honor, produces the festival''s greatest fervor.
+
+**No-no-ji Mawashi (The Figure-of-Ten Turn)**
+On the sloping, narrow streets of the Naritasan Omotesando approach, the heavy floats are spun vigorously in a motion tracing the shape of the character for the syllable no. This turn is a rough and thrilling spectacle unique to the Narita Gion Festival. The skill and strength of the pullers, who deftly maneuver the massive floats on the steep slope, are put to the test, and great cheers rise from the spectators the moment it succeeds.
+
+**Contest of Festival Music**
+Atop each district''s float, festival music of flute, drum, and gong is performed. The melodic phrasings handed down in each neighborhood intermingle along the approach, letting spectators feel the festival''s excitement through their ears as well. The traditional tones convey the depth of the performing arts culture long nurtured by the gate town of Narita.
+
+## Event Information
+
+- **Location**: Narita City, Chiba Prefecture (the gate district of Naritasan Shinshoji and the Naritasan Omotesando approach)
+- **Period**: Early July each year (three days centered on July 7, 8, and 9, including the Friday, Saturday, and Sunday nearest the 7th)
+- **Main Events**: Procession of the Dainichi Nyorai portable shrine, parade of ten floats and stalls, the grand pull, and the figure-of-ten turn
+- **Access**: About a 10-minute walk from JR Narita Station or Keisei Narita Station to the Naritasan Omotesando approach. Traffic is restricted in the surrounding area during the festival, so public transport is recommended
+- **Admission**: Free to watch from the roadside
+- **Official Information**: Dates and parade routes are announced through the Narita City Tourism Association and Naritasan Shinshoji
+
+## Nearby Attractions
+
+Naritasan Shinshoji, the stage of the festival, is a renowned temple of the Kanto region, boasting one of the largest numbers of New Year pilgrims in Japan. Its solemn Great Main Hall, three-storied pagoda, and votive hall stand in a row, and visiting the temple alongside the festival lets one feel its weight as a center of faith. Behind the precincts spreads Naritasan Park, a place of rest where one can enjoy the nature of the four seasons and a strolling garden with a central pond.
+
+The Naritasan Omotesando approach is lined with a townscape retaining the atmosphere of the Edo period, with long-established restaurants serving the local specialty of grilled eel and shops offering souvenirs such as yokan and rice crackers. Enjoying a walk while sampling food amid the festival''s fervor is a pleasure unique to Narita, and the approach itself is a sightseeing highlight.
+
+Narita City is also an international gateway home to Narita International Airport, and not a few travelers stop by before or after using the airport. Aviation-themed facilities such as the Museum of Aeronautical Sciences are scattered about, letting visitors savor the charm of a town with two faces: traditional festival and modern international city.
+
+## Related Information
+
+- Month: Early July (summer)
+- Prefecture: Chiba Prefecture (Kanto region)
+- Object of Worship: The Dainichi Nyorai of the inner sanctuary of Naritasan Shinshoji (Gion-e, Shinto-Buddhist syncretism)
+- Parent Temple: Naritasan Shinshoji (founded in 940)
+- Scale: Ten floats and stalls parade; annual attendance of about 450,000
+- Highlights: The grand pull, the figure-of-ten turn, and the contest of festival music','narita-gion-festival','narita-gion-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11513690','春日若宮おん祭','Kasuga Wakamiya On-Matsuri Festival',NULL,NULL,'Q714559','春日大社','Kasuga-taisha','奈良県','kinki',34.680203,135.849128,1136,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Motonobu%20Nakagawa%2C%20Mayor%20of%20Nara.jpg','https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD',NULL,90,'drafted','春日若宮おん祭は、奈良県奈良市の春日大社の摂社である若宮神社で毎年12月15日から18日にかけて執り行われる祭礼であり、国の重要無形民俗文化財に指定されている。880年以上の歴史を持つ大和地方最古の祭礼の一つで、平安時代から現在まで一度も中断することなく続けられてきた稀有な伝統行事である。
 
 おん祭の起源は1136年（保延2年）に遡る。当時、大和国が長雨と疫病に苦しんでいた折、関白藤原忠通が若宮神に祈願して五穀豊穣と疫病退散を願ったことが始まりとされる。以来、興福寺と春日大社の僧侶・神官、そして奈良の民衆が一体となって受け継ぎ、戦国時代の戦乱期や明治の神仏分離令、第二次世界大戦の混乱期も含めて、880年以上にわたり毎年欠かさず執行されてきた。
