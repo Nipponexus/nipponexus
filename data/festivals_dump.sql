@@ -28,15 +28,129 @@ CREATE TABLE festivals (
             fetched_at TEXT NOT NULL,
             source TEXT NOT NULL DEFAULT 'wikidata'
         );
-INSERT INTO "festivals" VALUES('Q218663','山王祭','Sannō Matsuri','東京都千代田区にある日枝神社の祭礼','major Shinto festival in Tokyo held biennially in June','Q702042','日枝神社','Hie Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hie%20jinjya-7.jpg','https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E7%A5%AD_(%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA)','https://en.wikipedia.org/wiki/Sann%C5%8D_Matsuri',85,'drafted','山王祭（さんのうまつり）は、東京都千代田区にある日枝神社(ひえじんじゃ)の祭礼で、神田祭・深川祭とともに「江戸三大祭り」の一つに数えられる。本祭りは2年に一度、6月中旬に行われ、神田祭とは隔年で交互に本祭りが営まれる、江戸を代表する格式高い祭りである。
+INSERT INTO "festivals" VALUES('Q218663','山王祭','Sannō Matsuri','東京都千代田区にある日枝神社の祭礼','major Shinto festival in Tokyo held biennially in June','Q702042','日枝神社','Hie Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hie%20jinjya-7.jpg','https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E7%A5%AD_(%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA)','https://en.wikipedia.org/wiki/Sann%C5%8D_Matsuri',85,'drafted','## 概要
 
-日枝神社は、江戸城の鎮守として徳川将軍家から篤い崇敬を受けてきた由緒ある神社である。山王祭も神田祭と同様、将軍が上覧する「天下祭」として、江戸時代には山車が城内に入ることを許された。皇居や国会議事堂、霞が関といった日本の政治の中枢を氏子地域に抱える、まさに首都の中心で営まれる祭りである。
+山王祭（さんのうまつり）は、東京都千代田区の日枝神社（ひえじんじゃ）で行われる祭礼で、神田祭・深川祭とともに江戸三大祭の一つに数えられます。とりわけ神田祭と隔年で交互に本祭を行う「天下祭（てんかまつり）」として、江戸時代を通じて格別の格式を誇ってきました。毎年6月に営まれ、都心の官庁街やオフィス街を王朝装束の行列が練り歩く様は、現代の東京に江戸の雅を蘇らせる稀有な光景です。
 
-祭りの最大の見どころは、本祭りで行われる「神幸祭(じんこうさい)」である。王朝装束をまとった総勢約500人の祭礼行列が、鳳輦(ほうれん)2基や宮神輿を中心に、約300メートルにわたって連なり、東京の中心部を約11時間かけて巡行する。雅やかな王朝絵巻さながらの行列が、現代の高層ビル群を背景に進む様は、伝統と現代が交差する東京ならではの光景である。約400年の歴史を誇る山王祭は、江戸城の守り神に捧げられた、首都の初夏を彩る荘厳な祭礼である。','The Sannō Matsuri is a festival of Hie Shrine in Chiyoda Ward, Tokyo, counted together with the Kanda Festival and Fukagawa Festival as one of the "three great festivals of Edo." The main festival is held in mid-June once every two years, alternating its main staging with the Kanda Festival in alternate years—a prestigious festival representative of Edo.
+日枝神社は江戸城の裏鬼門（南西の方角）を守護する社として徳川将軍家の篤い崇敬を受け、その祭礼である山王祭は将軍上覧の栄誉に浴した特別な祭りでした。祭りは単なる地域行事ではなく、江戸という都市の守りと繁栄を祈る、幕府公認の国家的な祭礼として発展してきた歴史を持ちます。
 
-Hie Shrine is a venerable shrine that received deep reverence from the Tokugawa shogunal house as the guardian of Edo Castle. Like the Kanda Festival, the Sannō Matsuri was a "Tenka Matsuri" viewed by the shogun, whose floats were permitted to enter the castle grounds in the Edo period. Embracing within its parish district the very center of Japanese politics—the Imperial Palace, the National Diet Building, and Kasumigaseki—it is truly a festival held at the heart of the capital.
+## 歴史と由来
 
-The festival''s greatest highlight is the "Jinkōsai" held during the main festival. A festival procession of around 500 people clad in court attire, centered on two imperial palanquins and the main portable shrine, stretches some 300 meters and tours the heart of Tokyo over about eleven hours. The sight of an elegant procession, like a court picture-scroll, advancing against the backdrop of modern skyscrapers is a scene unique to Tokyo, where tradition and the modern intersect. Boasting around 400 years of history, the Sannō Matsuri is a solemn festival dedicated to the guardian deity of Edo Castle, coloring the capital''s early summer.','sanno-matsuri','sanno-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+山王祭の起源は、徳川家康が江戸に入府し、日枝神社を江戸の総鎮守として尊崇したことに深く関わっています。日枝神社は江戸城の裏鬼門にあたる方角に位置し、城と都市を災厄から守る要として位置づけられました。将軍家の産土神（うぶすながみ）としても崇敬され、その祭礼は幕府の後ろ盾のもとで急速に規模を拡大していきました。
+
+江戸時代の山王祭は、神田祭と並んで「天下祭」と称されました。これは祭礼の行列が江戸城内に参入し、将軍が上覧することを許された唯一格の祭りであったことに由来します。庶民の祭りでありながら将軍の御前に進むという破格の扱いは、日枝神社が幕府にとっていかに重要な存在であったかを物語っています。
+
+華やかさを極めた江戸期の山王祭では、四十五番にも及ぶ豪華な山車（だし）が繰り出し、練り物や附け祭りが加わって沿道を埋め尽くしました。町人たちは巨費を投じて山車を飾り立て、その豪華さを競い合いました。この山車を中心とした祭礼は、江戸の経済力と町人文化の隆盛を象徴するものでした。
+
+明治以降、路面電車の架線敷設などにより背の高い山車の巡行が困難となり、祭りの主役は次第に神輿(みこし)へと移っていきました。それでも神幸祭の王朝装束行列は形を変えて受け継がれ、現代では隔年開催の本祭を軸に、江戸の伝統を今に伝える都心の一大祭礼として存続しています。
+
+## 見どころ
+
+**神幸祭の王朝装束行列**
+本祭の中心となるのが、鳳輦(ほうれん)や神輿を中心に総勢500人以上、全長約300メートルにも及ぶ「神幸祭(じんこうさい)」の行列です。平安装束をまとった行列が朝から夕方まで丸一日をかけて氏子地域を巡行する様は、江戸の時代絵巻さながらの雅やかさで、都心のビル街との対比がいっそうその優美さを際立たせます。
+
+**天下祭としての格式**
+山王祭は神田祭と一年おきに本祭を交代する「天下祭」であり、この隔年交代の伝統そのものが最大の見どころです。両祭が同年に大規模化して江戸の町が混乱しないよう調整された歴史的な仕組みで、本祭の年には特に盛大な神幸祭が行われるため、開催年を確かめて訪れる価値があります。
+
+**皇居周辺を巡る神幸行列**
+行列は日枝神社を出発し、皇居(旧江戸城)の周囲や丸の内、日本橋、銀座など、かつての江戸城下の中心部を巡ります。江戸城の裏鬼門を守るという神社の由緒に沿ったこの巡行路は、山王祭が江戸城と一体の祭りであったことを地理的に体感させてくれます。
+
+**下町連合渡御と神輿**
+各氏子町会の神輿が一堂に会して繰り出す「下町連合渡御(れんごうとぎょ)」も見応えのある行事です。担ぎ手たちの威勢のよい掛け声とともに数多くの神輿が都心を練り歩く様子は、明治以降に祭りの主役となった神輿文化の活気を存分に伝えます。
+
+**稚児行列と伝統芸能の奉納**
+祭礼期間には、着飾った子どもたちが練り歩く稚児行列(ちごぎょうれつ)や、境内での神楽・舞などの伝統芸能の奉納も行われます。地域の子どもたちが担い手として参加することで、祭りの伝統が次世代へと受け継がれていく様子がうかがえます。
+
+**山王御殿と豪華な社殿**
+祭りの舞台である日枝神社そのものも見どころです。永田町の高台に鎮座する朱塗りの社殿や、神使(しんし)として猿を祀る独特の信仰、山王鳥居と呼ばれる特徴的な鳥居など、江戸総鎮守にふさわしい格式ある佇まいが、祭りの背景に厚みを与えています。
+
+## 開催情報
+
+- **開催地**: 東京都千代田区永田町・日枝神社および氏子地域(丸の内・日本橋・銀座など)
+- **開催時期**: 毎年6月(神幸祭を伴う本祭は神田祭と隔年で交互に斎行)
+- **主な行事**: 神幸祭(王朝装束行列)、下町連合渡御、稚児行列、伝統芸能の奉納
+- **アクセス**: 東京メトロ赤坂見附駅・溜池山王駅・国会議事堂前駅などから徒歩数分で日枝神社へ
+- **観覧料**: 沿道での観覧は無料
+- **公式情報**: 日枝神社の公式情報で本祭・陰祭の別や神幸祭の巡行路が公開される
+
+## 周辺の見どころ
+
+日枝神社が鎮座する永田町・赤坂一帯は、国会議事堂や首相官邸を擁する日本の政治の中心地です。祭りとあわせて周囲を歩けば、江戸城の裏鬼門を守る古社と現代日本の政治機能が同じ高台に共存する、東京ならではの重層的な都市景観を体感できます。
+
+行列が巡る皇居周辺は、旧江戸城の遺構が残る歴史散策の名所です。皇居東御苑では江戸城の天守台跡や石垣を見ることができ、山王祭がかつて守護しようとした城の姿を偲ぶことができます。二重橋や桜田門など、江戸と近代日本の記憶が交錯するスポットも徒歩圏内に点在します。
+
+丸の内・日本橋・銀座といった行列の巡行エリアは、いずれも江戸の町人文化が花開いた場所であり、現代では洗練された商業地区として賑わいます。老舗と最新の商業施設が同居するこれらの街を巡れば、山車を競い合った江戸町人の気概が、今日の商業の活気へと受け継がれていることを感じられるでしょう。
+
+## 関連情報
+
+- 開催月: 6月(夏)
+- 都道府県: 東京都(関東地方)
+- 母体神社: 日枝神社(江戸城の裏鬼門守護・江戸総鎮守)
+- 位置づけ: 神田祭・深川祭と並ぶ江戸三大祭の一つ、神田祭と隔年交代の天下祭
+- 歴史的特徴: 行列が江戸城内に参入し将軍が上覧した唯一格の祭礼
+- 見どころ: 全長約300m・500人超の神幸祭王朝装束行列、下町連合渡御','## Overview
+
+The Sanno Matsuri is a festival held at Hie Shrine in Chiyoda Ward, Tokyo, and is counted, along with the Kanda Matsuri and the Fukagawa Matsuri, as one of the three great festivals of Edo. In particular, as the Tenka Matsuri, or festival of the realm, whose main celebration alternates every other year with the Kanda Matsuri, it has boasted exceptional prestige throughout the Edo period. Held every June, the sight of a procession in ancient courtly dress winding through the government and office districts of central Tokyo is a rare spectacle that revives the elegance of Edo in the modern city.
+
+Hie Shrine received the deep reverence of the Tokugawa shogun family as a shrine guarding the rear demon gate, the southwestern direction, of Edo Castle, and its festival, the Sanno Matsuri, was a special one honored by the shogun''s viewing. The festival was not merely a local event but developed as a shogunate-sanctioned, national-scale rite praying for the defense and prosperity of the city of Edo.
+
+## History and Origins
+
+The origin of the Sanno Matsuri is deeply connected to the fact that Tokugawa Ieyasu, upon entering Edo, venerated Hie Shrine as the guardian deity of the whole of Edo. Hie Shrine lies in the direction of the rear demon gate of Edo Castle and was positioned as a linchpin protecting the castle and the city from calamity. Revered also as the tutelary deity of the shogun family, its festival rapidly expanded in scale under the backing of the shogunate.
+
+The Sanno Matsuri of the Edo period was called the Tenka Matsuri, together with the Kanda Matsuri. This name derives from its being the only festival of its rank whose procession was permitted to enter within the grounds of Edo Castle and to be viewed by the shogun. That a festival of the common people should advance before the shogun was an extraordinary treatment, testifying to how important Hie Shrine was to the shogunate.
+
+The Sanno Matsuri of the Edo period, at the height of its splendor, sent out as many as forty-five gorgeous floats, joined by processional displays and side attractions that filled the roadsides. The townspeople spent great sums to adorn their floats and competed in their magnificence. This festival centered on floats symbolized the economic power of Edo and the flourishing of townspeople''s culture.
+
+From the Meiji era onward, the parade of tall floats became difficult due to the laying of tram overhead wires and the like, and the leading role of the festival gradually shifted to the portable shrines. Even so, the courtly-dress procession of the divine progress was handed down in altered form, and today it survives as a major festival of the city center, conveying the traditions of Edo to the present around a main celebration held every other year.
+
+## Highlights
+
+**The Courtly-Dress Procession of the Divine Progress**
+The heart of the main celebration is the procession of the divine progress, centered on the phoenix palanquin and portable shrines, totaling more than 500 people and extending about 300 meters in length. The sight of a procession clad in Heian-period costume touring the parishioner districts over an entire day, from morning to evening, has the elegance of an Edo-period picture scroll, and its contrast with the skyscraper districts of the city center makes its grace stand out all the more.
+
+**Prestige as the Tenka Matsuri**
+The Sanno Matsuri alternates its main celebration every other year with the Kanda Matsuri as the Tenka Matsuri, and this tradition of biennial alternation is itself the greatest highlight. It is a historical arrangement made so that both festivals would not become large-scale in the same year and throw the town of Edo into confusion, and because an especially grand divine progress is held in the year of the main celebration, it is worth checking the year and visiting.
+
+**The Divine Procession Around the Imperial Palace**
+The procession departs from Hie Shrine and tours the surroundings of the Imperial Palace, formerly Edo Castle, as well as Marunouchi, Nihonbashi, and Ginza, the central areas of the former castle town of Edo. This parade route, in keeping with the shrine''s history of guarding the rear demon gate of Edo Castle, lets one feel geographically that the Sanno Matsuri was a festival integral to Edo Castle.
+
+**The Downtown Joint Procession and Portable Shrines**
+The downtown joint procession, in which the portable shrines of each parishioner neighborhood association gather in one place and set out, is also a worthwhile event. The sight of numerous portable shrines touring the city center to the spirited shouts of the bearers conveys in full the vitality of the portable-shrine culture that became the leading role of the festival from the Meiji era onward.
+
+**The Children''s Procession and Offerings of Traditional Arts**
+During the festival period, a children''s procession of dressed-up children and offerings of traditional performing arts such as sacred music and dance within the precincts are also held. Through the participation of local children as bearers, one can observe how the traditions of the festival are handed down to the next generation.
+
+**The Sanno Palace and the Splendid Shrine Buildings**
+Hie Shrine itself, the stage of the festival, is also a highlight. The vermilion-lacquered shrine buildings enshrined on the height of Nagatacho, the distinctive faith honoring monkeys as divine messengers, and the characteristic torii gate known as the Sanno torii give the festival''s backdrop a fitting depth as the guardian shrine of all Edo.
+
+## Event Information
+
+- **Location**: Hie Shrine in Nagatacho, Chiyoda Ward, Tokyo, and the parishioner districts (Marunouchi, Nihonbashi, Ginza, and others)
+- **Period**: Every June (the main celebration with the divine progress is held in alternate years with the Kanda Matsuri)
+- **Main Events**: The divine progress (courtly-dress procession), the downtown joint procession, the children''s procession, and offerings of traditional arts
+- **Access**: A few minutes on foot to Hie Shrine from stations such as Akasaka-mitsuke, Tameike-sanno, or Kokkai-gijidomae on the Tokyo Metro
+- **Admission**: Free to watch from the roadside
+- **Official Information**: The distinction between the main and off-year celebrations and the route of the divine progress are announced through Hie Shrine
+
+## Nearby Attractions
+
+The Nagatacho and Akasaka area, where Hie Shrine is enshrined, is the center of Japanese politics, home to the National Diet Building and the Prime Minister''s Office. Walking the surroundings alongside the festival lets one experience the layered urban landscape unique to Tokyo, where an ancient shrine guarding the rear demon gate of Edo Castle and the political functions of modern Japan coexist on the same height.
+
+The area around the Imperial Palace, through which the procession passes, is a famous spot for historical strolls where remains of the former Edo Castle survive. In the East Gardens of the Imperial Palace one can see the ruins of the castle keep''s base and the stone walls, and can call to mind the form of the castle that the Sanno Matsuri once sought to protect. Spots where the memories of Edo and modern Japan intersect, such as the Double Bridge and the Sakuradamon gate, are also scattered within walking distance.
+
+The parade areas of Marunouchi, Nihonbashi, and Ginza are all places where the townspeople''s culture of Edo blossomed, and today they bustle as refined commercial districts. Touring these streets, where long-established shops and the latest commercial facilities coexist, one can feel that the spirit of the Edo townspeople who competed with their floats has been handed down to the vitality of today''s commerce.
+
+## Related Information
+
+- Month: June (summer)
+- Prefecture: Tokyo (Kanto region)
+- Parent Shrine: Hie Shrine (guardian of the rear demon gate of Edo Castle; guardian shrine of all Edo)
+- Standing: One of the three great festivals of Edo, along with the Kanda Matsuri and the Fukagawa Matsuri; the Tenka Matsuri alternating every other year with the Kanda Matsuri
+- Historical Feature: The only festival of its rank whose procession entered Edo Castle and was viewed by the shogun
+- Highlights: The roughly 300-meter, 500-plus-person courtly-dress procession of the divine progress, and the downtown joint procession
+
+','sanno-matsuri','sanno-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q82113','広島国際アニメーションフェスティバル','Hiroshima International Animation Festival',NULL,'biennial Japanese festival','Q34664','広島市','Hiroshima','広島県','chugoku',34.38525,132.45531,1985,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%9B%BD%E9%9A%9B%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Hiroshima_International_Animation_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q218646','神田祭','Kanda Matsuri','東京都千代田区の神田明神で行われる祭礼','Japanese festival that takes place in Kanda, Tokyo','Q717682','神田明神','Kanda-myōjin','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Kanda%20Matsuri%202009-1%20in%20Akihabara.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%A5%AD','https://en.wikipedia.org/wiki/Kanda_Matsuri',85,'drafted','## 概要
 
@@ -13037,15 +13151,111 @@ Okuribi takes many forms, from the simple burning of hemp stalks at a household 
 
 Additionally, "shōrō nagashi" and "tōrō nagashi"—lighting lanterns and setting them adrift on rivers or the sea—are also practiced in various regions as a form of okuribi. The dreamlike sight of countless lights covering the water''s surface, guiding ancestral spirits to the other world, carries the prayers of those who see them off. Okuribi is an observance expressing gratitude to ancestors and the sentiment of parting—a quiet and beautiful custom of summer''s end, symbolizing the Japanese view of life and death and the heart that cherishes the departed.','okuribi','okuribi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11651982','長岡まつり','Nagaoka Festival','毎年8月に日本の新潟県長岡市で開催される祭',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11642810','那覇ハーリー','Naha Hari','沖縄県那覇市で行われるハーリー',NULL,'Q181966','那覇市','Naha','沖縄県','okinawa',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Hari.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,85,'drafted','那覇ハーリー（なはハーリー）は、沖縄県那覇市で毎年ゴールデンウィーク(5月3日〜5日)に行われる、爬龍船(はりゅうせん)による勇壮な舟漕ぎ競漕の祭りである。「ハーリー」とは、龍をかたどった伝統的な小舟を漕いで速さを競う沖縄独特の年中行事で、海の安全と豊漁を祈願する意味が込められている。
+INSERT INTO "festivals" VALUES('Q11642810','那覇ハーリー','Naha Hari','沖縄県那覇市で行われるハーリー',NULL,'Q181966','那覇市','Naha','沖縄県','okinawa',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Hari.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,85,'drafted','## 概要
 
-ハーリーの起源は古く、中国から伝わった行事が琉球王国時代に沖縄に根づいたとされる。色鮮やかに装飾された爬龍船には数十人の漕ぎ手が乗り込み、太鼓と鉦(かね)のリズムに合わせて力強く櫂を漕ぐ。号砲とともに一斉にスタートした舟が、しぶきを上げて海上を疾走する様は迫力満点で、沿岸を埋め尽くす観客の声援が那覇の海に響き渡る。
+那覇ハーリー（なはハーリー）は、沖縄県那覇市で毎年ゴールデンウィーク（5月3日〜5日）に開催される、爬龍船（はりゅうせん）による競漕を中心とした伝統行事です。龍を模して極彩色に飾られた「ハーリー舟」が那覇港を勇壮に走る姿は、沖縄に初夏の訪れを告げる風物詩として広く親しまれ、期間中は数十万人規模の来場者で賑わいます。
 
-那覇ハーリーは、那覇港の新港ふ頭を会場に開催される現代の大規模なイベントで、本来旧暦5月に各地の漁村で行われる伝統的なハーリーとは別に、観光行事としても発展した。期間中は花火大会やステージイベントも催され、数十万人もの来場者で賑わう。海とともに生きてきた沖縄・琉球の人々の文化と信仰を今に伝える、南国の初夏を彩る代表的な祭りである。','Naha Hari is a spirited dragon-boat rowing race festival held every Golden Week (May 3rd–5th) in Naha, Okinawa Prefecture, using "haryūsen" dragon boats. "Hari" is a distinctive Okinawan annual observance in which traditional small boats shaped like dragons are rowed in races of speed, carrying prayers for safety at sea and bountiful catches.
+ハーリーは単なる競技ではなく、海の安全と豊漁を海神に祈願する神事としての性格を色濃く持っています。太鼓と鉦の音が響くなか、漕ぎ手たちが一糸乱れぬ櫂さばきで水面を切り裂く様は、海とともに生きてきた沖縄の人々の暮らしと信仰を今に伝えています。
 
-The origins of hari are ancient, said to derive from an event transmitted from China that took root in Okinawa during the era of the Ryūkyū Kingdom. Dozens of rowers board the vividly decorated dragon boats and row powerfully with their oars to the rhythm of drums and gongs. The sight of the boats starting all at once with a signal gun and speeding across the sea amid spray is full of intensity, and the cheers of spectators packing the shoreline echo across the waters of Naha.
+## 歴史と由来
 
-Naha Hari is a large-scale modern event held at the new port wharf of Naha Port, developed as a tourism event separate from the traditional hari originally held in the fifth lunar month at fishing villages across the region. During the period, fireworks displays and stage events are also held, drawing crowds of hundreds of thousands. It is a representative festival coloring the early summer of the southern islands, conveying to this day the culture and faith of the people of Okinawa and Ryūkyū, who have lived together with the sea.','naha-hari','naha-hari',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+ハーリーの起源は、14世紀から15世紀ごろ、中国大陸との交易が盛んだった琉球王国時代に、中国南部の龍船競漕（ドラゴンボート）の風習が伝わったものとされています。当時、那覇は琉球王国の海の玄関口として栄え、中国・東南アジアとの中継貿易で繁栄しました。海運と漁業に生きる人々にとって、海神への祈りは切実な願いであり、爬龍船の競漕はその祈願と結びついて定着していきました。
+
+古くは旧暦の5月4日（ユッカヌヒー）に行われる海の神事として営まれ、那覇を構成する久米・那覇・泊の三つの地区（三大字）がそれぞれの爬龍船を出して競い合う形が伝統として受け継がれてきました。地区対抗の競漕は、単なる勝敗を超えて、それぞれの共同体の結束と誇りを確かめ合う場でもありました。
+
+一時は歴史の中で中断した時期もありましたが、戦後に復興し、現在では新暦のゴールデンウィークに合わせて開催される大規模な市民行事へと発展しました。旧暦5月4日は「ユッカヌヒー」と呼ばれ、沖縄各地で子どもたちに玩具や菓子を贈り、海辺で爬龍船を競わせる特別な節日として親しまれてきました。那覇のハーリーも本来この日に営まれる海の行事でしたが、戦後しばらく途絶えたのち、1975年に開催された沖縄国際海洋博覧会を一つの契機として大規模な形で復活し、以後は新暦のゴールデンウィークに定着しました。伝統の神事が現代の観光行事として再生した歩みは、沖縄の戦後復興の歩みとも重なります。伝統の神事としての性格を保ちながら、観光客も楽しめる現代的な祭りとして、沖縄の初夏を代表するイベントとなっています。
+
+## 見どころ
+
+**極彩色の爬龍船**
+ハーリーの主役である爬龍船は、船首に龍の頭、船尾に龍の尾を配し、船体を赤・黄・青などの鮮やかな色で彩った独特の舟です。中国から伝わったドラゴンボートの流れをくむ意匠は、琉球独自の美意識と融合し、水面を走る姿は華やかそのものです。本バーリーで用いられる爬龍船は全長がおよそ14メートルにも及び、一艘に30人を超える漕ぎ手が乗り込みます。舳先で舵をとる者、太鼓を打ち鳴らして号令をかける者、そして息を合わせて櫂を漕ぐ多数の漕ぎ手が一体となって初めて舟は速さを増すため、勝敗を分けるのは個々の力よりも全員の呼吸の一致です。この一糸乱れぬ連携こそが、見る者を惹きつける最大の要素となっています。
+
+**三大字対抗の本バーリー**
+競漕の中心となるのが、久米・那覇・泊の三大字が伝統の爬龍船で競う「本バーリー」です。それぞれの地区の威信をかけた真剣勝負であり、太鼓の号令に合わせて漕ぎ手たちが渾身の力で櫂を漕ぐ様は、見る者を圧倒します。伝統の担い手同士が競い合うこの一戦こそ、ハーリーの神事としての核心です。
+
+**多彩な競漕種目**
+ハーリーには、海神へ祈りを捧げる「御願バーリー（ウグヮンバーリー）」、勝敗を競う本格的な競漕、一般の団体や企業が参加できる「一般バーリー」など多彩な種目が用意されています。地元の人だけでなく、観光客や企業チームも漕ぎ手として参加できる開かれた競漕は、伝統行事に現代的な親しみやすさを加えています。
+
+**花火とステージイベント**
+競漕とあわせて、夜には花火が那覇港の空を彩り、会場ではステージイベントや屋台も並びます。海上の勇壮な競漕と、陸のにぎやかな祭りの雰囲気が一体となり、三日間を通して初夏の那覇を盛り上げます。
+
+## 開催情報
+
+- **開催地**: 沖縄県那覇市（那覇港・那覇新港ふ頭一帯）
+- **開催時期**: 毎年ゴールデンウィーク（5月3日・4日・5日の3日間）
+- **主な行事**: 御願バーリー、本バーリー（三大字対抗）、一般バーリー、花火、ステージイベント
+- **アクセス**: 那覇空港から車で約15分、ゆいレール旭橋駅などから会場へ。期間中は周辺で交通規制が敷かれるため公共交通機関の利用が推奨される
+- **観覧料**: 会場での観覧は無料
+- **公式情報**: 那覇ハーリー行事委員会・那覇市の公式情報で日程・プログラムが公開される
+
+## 周辺の見どころ
+
+那覇ハーリーの舞台となる那覇港周辺は、琉球王国時代から続く海の玄関口です。近隣には、琉球王国の栄華を今に伝える世界遺産・首里城跡や、国際色豊かな商店街として名高い国際通りがあり、祭りとあわせて沖縄の歴史と現代の活気の両方を味わうことができます。
+
+那覇市の中心部には、琉球の伝統工芸である壺屋焼の窯元が集まる壺屋やちむん通りや、地元の食文化を体感できる第一牧志公設市場など、沖縄ならではの見どころが点在します。ハーリーの熱気を楽しんだあとに、沖縄の食と文化をめぐる散策もおすすめです。
+
+初夏の沖縄は、本土に先駆けて訪れる南国の夏の気配に包まれます。青い海と空のもとで繰り広げられるハーリーは、そのまま沖縄観光のハイライトとなり、周辺のビーチや離島への旅の起点としても位置づけられます。
+
+## 関連情報
+
+- 開催月: 5月上旬（ゴールデンウィーク）
+- 都道府県: 沖縄県
+- 起源: 14〜15世紀ごろ中国南部の龍船競漕が琉球王国に伝来
+- 母体: 那覇の三大字（久米・那覇・泊）による海神祭
+- 主な種目: 御願バーリー、本バーリー、一般バーリー
+- 性格: 海の安全と豊漁を祈願する伝統神事','## Overview
+
+The Naha Hari is a traditional event centered on dragon-boat races held every year during Japan''s Golden Week holidays (May 3 to 5) in Naha City, Okinawa Prefecture. The sight of the hari boats, decorated in brilliant colors in the shape of dragons, coursing valiantly across Naha Port is widely cherished as a feature announcing the arrival of early summer in Okinawa, and the event draws hundreds of thousands of visitors over its run.
+
+The hari is not merely a competition; it strongly bears the character of a religious rite praying to the sea deity for safety at sea and bountiful catches. Amid the sounds of drums and gongs, the rowers slice through the water with perfectly synchronized strokes, conveying to the present day the life and faith of the people of Okinawa, who have lived alongside the sea.
+
+## History and Origins
+
+The origin of the hari is said to lie in the custom of dragon-boat racing from southern China, transmitted around the fourteenth to fifteenth centuries during the era of the Ryukyu Kingdom, when trade with the Chinese mainland flourished. At that time, Naha prospered as the maritime gateway of the Ryukyu Kingdom, thriving on intermediary trade with China and Southeast Asia. For a people who lived by shipping and fishing, prayers to the sea deity were an earnest wish, and the dragon-boat races took root in connection with such supplication.
+
+In earlier times it was conducted as a sea rite held on the fourth day of the fifth month of the old lunar calendar, and the tradition of the three districts that make up Naha, namely Kume, Naha, and Tomari, each fielding its own dragon boat to compete has been handed down. The inter-district races were, beyond mere victory or defeat, a place to affirm the solidarity and pride of each community.
+
+Although there were periods when it was interrupted in the course of history, it was revived after the war and has since developed into a large-scale civic event held to coincide with Golden Week in the new calendar. While retaining its character as a traditional rite, it has become an event representative of early summer in Okinawa, a modern festival that tourists too can enjoy.
+
+## Highlights
+
+**The Brilliantly Colored Dragon Boats**
+The stars of the hari are the dragon boats, distinctive craft with a dragon''s head at the bow and a dragon''s tail at the stern, their hulls painted in vivid colors such as red, yellow, and blue. The design, descended from the dragon boats transmitted from China, fused with the aesthetic sensibility unique to Ryukyu, and the boats coursing across the water are gorgeous indeed.
+
+**The Main Race Among the Three Districts**
+At the heart of the competition is the main race, in which the three districts of Kume, Naha, and Tomari compete with their traditional dragon boats. It is a serious contest with the honor of each district at stake, and the sight of the rowers pulling their oars with all their might in time with the commands of the drums overwhelms the onlooker. This bout, in which the bearers of the tradition compete with one another, is the very core of the hari as a religious rite.
+
+**A Variety of Racing Events**
+The hari offers a variety of events, including the prayer race dedicated to the sea deity, the full-fledged competitive races, and general races open to ordinary groups and companies. The open competition, in which not only locals but also tourists and corporate teams can take part as rowers, adds a modern approachability to the traditional event.
+
+**Fireworks and Stage Events**
+Together with the races, fireworks color the sky over Naha Port at night, and stage events and food stalls line the venue. The valiant races on the sea and the lively festival atmosphere on land come together as one, enlivening early-summer Naha throughout the three days.
+
+## Event Information
+
+- **Location**: Naha City, Okinawa Prefecture (Naha Port and the Naha New Port wharf area)
+- **Period**: Golden Week each year (the three days of May 3, 4, and 5)
+- **Main Events**: The prayer race, the main race among the three districts, the general race, fireworks, and stage events
+- **Access**: About a 15-minute drive from Naha Airport, or from stations such as Asahibashi on the Yui Rail. Traffic is restricted in the surrounding area during the event, so public transport is recommended
+- **Admission**: Free to watch at the venue
+- **Official Information**: Dates and programs are announced through the Naha Hari Event Committee and Naha City
+
+## Nearby Attractions
+
+The area around Naha Port, the stage of the Naha Hari, has been a maritime gateway since the era of the Ryukyu Kingdom. Nearby are the World Heritage site of the Shurijo Castle ruins, which convey the splendor of the Ryukyu Kingdom to the present, and Kokusai Street, famous as an international shopping district, so that alongside the festival one can savor both the history and the modern vitality of Okinawa.
+
+In the center of Naha City are scattered sights unique to Okinawa, such as the Tsuboya Yachimun Street, where kilns of the traditional Ryukyu craft of Tsuboya ware gather, and the First Makishi Public Market, where one can experience the local food culture. After enjoying the fervor of the hari, a stroll around the food and culture of Okinawa is also recommended.
+
+Early-summer Okinawa is enveloped in the air of a subtropical summer that arrives ahead of the mainland. The hari, unfolding beneath the blue sea and sky, becomes a highlight of Okinawa tourism in itself, and is positioned as a starting point for trips to the surrounding beaches and outlying islands.
+
+## Related Information
+
+- Month: Early May (Golden Week)
+- Prefecture: Okinawa Prefecture
+- Origin: Dragon-boat racing from southern China transmitted to the Ryukyu Kingdom around the 14th to 15th centuries
+- Body: A sea deity festival by Naha''s three districts (Kume, Naha, and Tomari)
+- Main Events: The prayer race, the main race, and the general race
+- Character: A traditional rite praying for safety at sea and bountiful catches','naha-hari','naha-hari',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11673429','鬼夜','Oniyo',NULL,NULL,'Q11433630','大善寺','Daizenji',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%A4%9C',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16676664','四宮祭り','Shinomiya Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11653306','長浜曳山祭','Nagahama Hikiyama Festival','滋賀県長浜市で開催される祭',NULL,'Q11653283','長浜八幡宮','Nagahama Hachimangū','滋賀県','kinki',NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
