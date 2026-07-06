@@ -12510,15 +12510,115 @@ INSERT INTO "festivals" VALUES('Q11629036','西流','Nishi-nagare','博多祇園
 INSERT INTO "festivals" VALUES('Q11613747','舟っこ流し','Funekko Nagashi','盆の送り火・精霊舟の一種','annual event in Morioka, Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%88%9F%E3%81%A3%E3%81%93%E6%B5%81%E3%81%97',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596078','秦野たばこ祭','Hadano Tobacco Festival',NULL,NULL,'Q460806','秦野市','Hadano',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%A6%E9%87%8E%E3%81%9F%E3%81%B0%E3%81%93%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11586814','石清水祭','Iwashimizu-sai','京都府八幡市の石清水八幡宮の例祭',NULL,'Q710098','石清水八幡宮','Iwashimizu Hachimangū','京都府','kinki',NULL,NULL,863,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%B8%85%E6%B0%B4%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎年7月に福島県相馬市および南相馬市で開催される祭り・神事',NULL,NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/The%20Soma%20Nomaoi%202005-5.jpg','https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E9%87%8E%E9%A6%AC%E8%BF%BD',NULL,85,'drafted','相馬野馬追（そうまのまおい）は、福島県相馬市および南相馬市を中心とする相馬地方で行われる、勇壮な馬の祭り・神事である。伝統的には毎年7月(近年は5月にも開催)に三日間にわたって繰り広げられ、甲冑をまとった数百騎の騎馬武者が大地を駆ける、戦国絵巻さながらの壮大な祭礼として知られる。
+INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎年7月に福島県相馬市および南相馬市で開催される祭り・神事',NULL,NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/The%20Soma%20Nomaoi%202005-5.jpg','https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E9%87%8E%E9%A6%AC%E8%BF%BD',NULL,85,'drafted','## 概要
+相馬野馬追（そうまのまおい）は、福島県の相馬市・南相馬市を中心とする相馬地方で行われる、勇壮な馬の祭礼にして神事である。甲冑をまとい先祖伝来の旗指物を背負った数百騎の騎馬武者が大地を駆ける姿は、戦国絵巻がそのまま現代によみがえったかのようで、東北を代表する夏の祭りとして全国的に知られている。相馬地方に鎮座する妙見信仰の三つの社の祭礼として、地域の人々の手で連綿と受け継がれてきた。
 
-その起源は、平安時代に相馬氏の祖とされる平将門が、領内に放った野馬を敵兵に見立てて軍事訓練を行ったことに遡るとされ、千年以上の歴史を誇る。祭りは、騎馬武者が威風堂々と行進する「お行列」、数百騎が一斉に疾走し旗を競う「甲冑競馬」、そして打ち上げられた神旗を騎馬武者たちが奪い合う「神旗争奪戦(しんきそうだつせん)」という見どころで構成される。
+この祭りの本質は、華やかな時代絵巻であると同時に、千年の歴史を背負った厳粛な神事である点にある。騎馬武者たちは各家に伝わる家紋の旗を掲げ、馬とともに神事に臨む。単なる観光行事ではなく、武家の伝統と地域共同体の誇りが一体となって支えてきた祭礼であり、1952年（昭和27年）には国の重要無形民俗文化財に指定されている。
 
-なかでも神旗争奪戦は圧巻で、花火とともに天高く舞い上がる御神旗を目がけ、甲冑武者たちが砂塵を巻き上げて殺到する様は、観衆を熱狂させる。相馬野馬追は1952年に国の重要無形民俗文化財に指定された。武家の伝統と地域の誇りを受け継ぎ、東日本大震災という困難を乗り越えて開催され続けるこの祭りは、相馬の人々の不屈の精神と歴史への敬意を、今に力強く伝えている。','The Sōma Nomaoi is a spirited horse festival and Shinto rite held in the Sōma region centered on Sōma and Minamisōma, Fukushima Prefecture. Traditionally held over three days each July (in recent years also held in May), it is known as a grand festival like a picture-scroll of the Warring States period, in which hundreds of armored mounted warriors gallop across the land.
+## 歴史と由来
+相馬野馬追の起源は、平安時代中期にまで遡るとされる。相馬氏の遠祖と伝えられる平将門が、下総国（現在の千葉県北部・茨城県西部）で領内に放った野馬を敵兵に見立てて追い、これを捕らえる形で軍事訓練を行ったことに始まると伝えられている。生きた馬を用いた実戦さながらの鍛錬は、武士団の機動力と結束を養う場であり、これが祭礼の原型となった。千年以上の歴史を誇るとされる由緒は、この祭りに他に類を見ない重みを与えている。
 
-Its origins are said to date to the Heian period, when Taira no Masakado—regarded as the ancestor of the Sōma clan—conducted military training by treating wild horses released across his domain as enemy soldiers, giving it a history of over a thousand years. The festival consists of the "Ogyōretsu" procession, in which mounted warriors march with stately dignity; the "Kacchū Keiba" armored horse race, in which hundreds gallop together competing with their banners; and the "Shinki Sōdatsusen," in which mounted warriors vie to seize sacred flags launched into the air.
+その後、相馬氏が鎌倉時代に奥州の相馬地方へ移り、この地を治めるようになると、野馬追の行事も相馬の地に受け継がれた。相馬氏は代々この行事を軍事訓練として、また武運長久を祈る神事として重んじ、地域に深く根づかせていった。武家の棟梁が家臣団を率いて臨むこの行事は、藩政期を通じて相馬地方の年中行事として定着し、武士の気風を今に伝える貴重な文化として磨かれていった。
 
-The Shinki Sōdatsusen in particular is breathtaking: the sight of armored warriors rushing in a cloud of dust toward the sacred flags soaring skyward with fireworks electrifies the crowd. The Sōma Nomaoi was designated an Important Intangible Folk Cultural Property of Japan in 1952. Inheriting samurai tradition and regional pride, and continuing to be held even after overcoming the hardship of the Great East Japan Earthquake, this festival powerfully conveys to this day the indomitable spirit of the people of Sōma and their reverence for history.','soma-nomaoi','soma-nomaoi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+相馬野馬追は、相馬地方の妙見信仰と結びついた神事でもある。祭りは「相馬三妙見」と呼ばれる三つの社――太田神社・中村神社・小高神社――の合同祭礼として営まれ、それぞれの社を氏神とする地域の騎馬武者たちが参加する。妙見は北辰（北極星・北斗七星）を神格化した信仰であり、武運や方位を司る神として武士に篤く崇敬された。馬と武と信仰が分かちがたく結びついている点に、この祭礼の宗教的な奥行きがある。
+
+近代以降、相馬野馬追は軍事訓練としての性格を離れ、地域の伝統文化・観光資源として受け継がれてきた。2011年の東日本大震災と原子力災害では、開催地である相馬地方が甚大な被害を受け、馬を失い避難を強いられた担い手も少なくなかった。それでも祭りは翌年以降も規模を縮小しながら続けられ、復興の象徴として人々を勇気づけてきた。伝統的には毎年7月に開催されてきたが、近年は夏季の猛暑による馬や騎馬武者への負担を避けるため、開催時期の見直しが行われている。
+
+## 見どころ
+**数百騎の騎馬武者による総大将出陣**
+相馬野馬追の初日を飾るのが、総大将を先頭とした騎馬武者たちの出陣である。甲冑に身を固め、先祖伝来の旗指物を背負った武者が隊列を組んで進む姿は、まさに戦国の軍勢そのものである。各騎が掲げる旗指物は家ごとに異なり、その多彩さと荘厳さは、武家の伝統が今も生きていることを実感させる。
+
+**お行列の荘厳な巡行**
+本祭の日には、総大将以下の騎馬武者が甲冑姿で市中を巡行する「お行列」が行われる。法螺貝と陣太鼓が鳴り響くなか、隊列を組んだ数百騎が堂々と練り歩く様は、時代絵巻さながらの迫力に満ちている。沿道を埋める観衆は、目の前を進む騎馬武者の一騎一騎に、往時の武士の姿を重ね合わせる。
+
+**甲冑競馬の疾走**
+祭りの中盤の見どころが「甲冑競馬」である。重い甲冑を身につけ、旗指物をなびかせた騎馬武者たちが、雲雀ヶ原の馬場を一斉に疾走する。砂塵を巻き上げて競い合う馬と武者の姿は圧巻で、勝ち抜いた騎馬武者には大きな栄誉が与えられる。実戦さながらの装備で馬を駆るこの競馬は、野馬追が軍事訓練に由来することを今に伝えている。
+
+**神旗争奪戦の熱狂**
+相馬野馬追で最も知られる見どころが「神旗争奪戦（しんきそうだつせん）」である。花火とともに天高く打ち上げられた御神旗が風に舞い落ちてくると、それを目がけて数百騎の甲冑武者が砂塵を巻き上げて殺到する。御神旗を手にした武者は、旗を掲げて本陣の置かれた高台を駆け上がり、その栄誉を神前に奉告する。花火・御神旗・騎馬武者が織りなすこの光景は、観衆を熱狂の渦に巻き込む。
+
+**野馬懸の神事**
+祭りの最終日に行われるのが「野馬懸（のまがけ）」である。裸馬を素手で追い込んで捕らえ、神社に奉納するこの神事は、野馬追の最も古い形をとどめる部分とされる。白装束の御小人（おこびと）たちが素手で暴れ馬に立ち向かう姿には、平将門の故事に由来する野馬追の原点が凝縮されており、荒々しくも神聖な雰囲気に包まれる。
+
+**三妙見の祭礼としての厳粛さ**
+華やかな競技の陰で、相馬野馬追はあくまで太田・中村・小高の三妙見社の神事として営まれている。各社での神事や祈願、御神旗の奉納など、随所に宗教行事としての厳粛さが息づいている。娯楽的な迫力と信仰の厳かさが同居する点こそ、相馬野馬追が単なる時代祭と一線を画す最大の特色である。
+
+## 開催情報・アクセス
+- **開催地**: 福島県相馬市・南相馬市を中心とする相馬地方（甲冑競馬・神旗争奪戦の主会場は南相馬市の雲雀ヶ原祭場地）
+- **関係する社**: 相馬三妙見（太田神社・中村神社・小高神社）の合同祭礼
+- **開催時期**: 伝統的には毎年7月に三日間にわたり開催。近年は夏季の猛暑対策として開催時期の見直しが行われている
+- **主な行事**: 出陣、お行列、甲冑競馬、神旗争奪戦、野馬懸
+- **アクセス**: JR常磐線の原ノ町駅などが最寄り。会場周辺は交通規制・混雑が予想されるため公共交通機関の利用が推奨される
+- **確認事項**: 具体的な開催日・会場・観覧席の詳細は毎年主催者から発表されるため、観覧希望の場合は事前確認が望ましい
+
+## 周辺の見どころ
+相馬野馬追の舞台となる相馬地方は、福島県の太平洋沿岸（浜通り）北部に位置する。祭りゆかりの太田神社・中村神社・小高神社を巡れば、妙見信仰と相馬氏の歴史に触れることができ、祭りの背景にある土地の由緒をより深く実感できる。とりわけ相馬氏の居城であった中村城跡（馬陵公園）は、桜の名所としても知られ、城下町の面影を今に伝えている。
+
+浜通りの海沿いには、太平洋を望む景勝地や漁港が点在し、新鮮な海の幸を味わうことができる。この地域は2011年の東日本大震災で大きな被害を受けたが、復興が進むなかで、震災の記憶を伝える施設や再建された町並みを訪ねることもできる。相馬野馬追が復興の象徴として続けられてきた歩みと合わせて巡ることで、この土地の強さに触れられる。
+
+相馬地方から少し足を延ばせば、福島県浜通りの各地に温泉地や自然豊かな景勝地が広がっている。勇壮な祭りの熱気を体感したのち、静かな温泉で旅の疲れを癒やし、東北の食と自然を楽しむ旅へとつなげることができる。歴史・信仰・復興・自然という多層的な魅力を併せ持つのが、この地域を訪れる醍醐味である。
+
+## 関連情報
+- **開催時期**: 伝統的に7月（近年は開催時期の見直しあり）
+- **所在地**: 福島県相馬市・南相馬市を中心とする相馬地方（浜通り北部）
+- **起源伝承**: 平安時代、相馬氏の祖とされる平将門が野馬を敵兵に見立てて行った軍事訓練に由来するとされ、千年以上の歴史を誇る
+- **関係する社**: 相馬三妙見（太田神社・中村神社・小高神社）の合同祭礼。妙見信仰（北辰信仰）に基づく
+- **文化財**: 1952年（昭和27年）に国の重要無形民俗文化財に指定
+- **主な構成**: お行列・甲冑競馬・神旗争奪戦・野馬懸。数百騎の甲冑騎馬武者が参加する','## Overview
+The Soma Nomaoi is a spirited festival of horses and, at the same time, a sacred rite, held in the Soma region of Fukushima Prefecture, centered on the cities of Soma and Minamisoma. Several hundred mounted warriors, clad in armor and bearing the heirloom battle flags of their ancestors, gallop across the field in a scene that seems to bring a warring-states era picture scroll to life, and it is known throughout Japan as a representative summer festival of the Tohoku region. It has been handed down by the people of the Soma region as the joint rite of three shrines devoted to the Myoken faith.
+
+The essence of this festival lies in its being, at once, a splendid historical pageant and a solemn rite bearing a thousand years of history. The mounted warriors raise flags marked with their family crests and take part in the rite together with their horses. Far from a mere tourist event, it is a festival sustained by the union of samurai tradition and the pride of the local community, and in 1952 it was designated an Important Intangible Folk Cultural Property of Japan.
+
+## History & Origins
+The origins of the Soma Nomaoi are said to reach back to the mid-Heian period. Taira no Masakado, held to be a distant ancestor of the Soma clan, is said to have released wild horses within his domain in Shimosa Province (present-day northern Chiba and western Ibaraki), treated them as enemy soldiers, and pursued and captured them as a form of military training. This drill, conducted with living horses as if in actual battle, was a means of cultivating the mobility and unity of the warrior band, and it became the prototype of the festival. The claim of a history exceeding a thousand years lends this festival a weight unlike any other.
+
+Later, when the Soma clan moved to the Soma region of the Oshu district in the Kamakura period and came to govern that land, the nomaoi was carried on there as well. Successive generations of the Soma clan valued the event both as military training and as a rite praying for lasting fortune in war, rooting it deeply in the region. As an event in which the head of the warrior house led his retainers, it became established through the domain era as an annual observance of the Soma region and was refined as a precious tradition conveying the spirit of the samurai.
+
+The Soma Nomaoi is also a rite bound up with the Myoken faith of the Soma region. The festival is held as the joint rite of the three shrines known as the Soma San-Myoken: Ota Shrine, Nakamura Shrine, and Odaka Shrine, with mounted warriors from the districts that revere each shrine as their guardian deity taking part. Myoken is a deification of the pole star and the Big Dipper, worshipped as a deity governing martial fortune and direction, and was deeply revered by warriors. That horse, martial valor, and faith are inseparably joined here gives this rite its religious depth.
+
+In the modern era, the Soma Nomaoi shed its character as military training and has been passed down as a regional tradition and tourism asset. In the Great East Japan Earthquake and nuclear disaster of 2011, the Soma region where the festival is held suffered enormous damage, and many of its bearers lost horses and were forced to evacuate. Even so, the festival continued in the following years, if on a reduced scale, and encouraged people as a symbol of recovery. Traditionally held each July, in recent years the timing of the festival has been under review in order to spare horses and riders the burden of the summer heat.
+
+## Highlights
+**The departure of the commander and hundreds of mounted warriors**
+The first day of the Soma Nomaoi is graced by the departure of the mounted warriors, led by the supreme commander. Clad in armor and bearing the battle flags handed down from their ancestors, the warriors advance in formation in a sight that is the very image of a warring-states army. The flags each rider raises differ from house to house, and their variety and solemnity make one feel that the samurai tradition is still alive.
+
+**The stately procession of the Ogyoretsu**
+On the day of the main festival, the mounted warriors from the supreme commander on down parade through the town in armor in the Ogyoretsu, the grand procession. As conch trumpets and war drums resound, several hundred riders advance in formation with dignity, filling the scene with the power of a historical picture scroll. Spectators lining the route see in each passing rider the figure of a samurai of old.
+
+**The gallop of the armored horse race**
+A highlight of the festival''s middle stage is the Kacchu Keiba, the armored horse race. Mounted warriors, weighed down by heavy armor and with their flags streaming, gallop all at once across the field of Hibarigahara. The sight of horses and warriors competing amid clouds of dust is overwhelming, and great honor is bestowed on the victorious rider. Racing on horseback in full battle gear, this contest conveys to this day that the nomaoi arose from military training.
+
+**The frenzy of the sacred flag competition**
+The best-known highlight of the Soma Nomaoi is the Shinki Sodatsusen, the sacred flag competition. When sacred flags are launched high into the sky together with fireworks and drift down on the wind, several hundred armored warriors rush toward them, kicking up clouds of dust. The warrior who seizes a sacred flag raises it aloft and gallops up the height where the headquarters stands, reporting the honor before the deity. The scene woven by fireworks, sacred flags, and mounted warriors sweeps spectators into a whirlpool of excitement.
+
+**The rite of the Nomagake**
+Held on the final day of the festival is the Nomagake. In this rite, bare horses are driven and captured by hand and offered to the shrine, and it is regarded as preserving the oldest form of the nomaoi. The sight of the okobito, clad in white, confronting the wild horses with their bare hands distills the origin of the nomaoi, rooted in the legend of Taira no Masakado, and is wrapped in an atmosphere at once rough and sacred.
+
+**The solemnity of a rite of the three Myoken shrines**
+Behind the splendid contests, the Soma Nomaoi is conducted, above all, as a rite of the three Myoken shrines of Ota, Nakamura, and Odaka. Rites and prayers at each shrine and the dedication of the sacred flags carry the solemnity of a religious observance throughout. The coexistence of entertaining spectacle and the solemnity of faith is the very feature that sets the Soma Nomaoi apart from a mere historical pageant.
+
+## Access & Information
+- **Location**: The Soma region of Fukushima Prefecture, centered on the cities of Soma and Minamisoma (the main venue for the armored horse race and sacred flag competition is the Hibarigahara festival grounds in Minamisoma)
+- **Related shrines**: A joint rite of the Soma San-Myoken (Ota Shrine, Nakamura Shrine, and Odaka Shrine)
+- **Timing**: Traditionally held over three days each July. In recent years the timing has been under review as a measure against the summer heat.
+- **Main events**: The departure, the grand procession, the armored horse race, the sacred flag competition, and the Nomagake
+- **Access**: The nearest access includes Haranomachi Station on the JR Joban Line. Traffic restrictions and crowding are expected around the venue, so public transport is recommended.
+- **Note**: Exact dates, venues, and seating details are announced each year by the organizers, so those wishing to attend are advised to confirm in advance.
+
+## Around the Area
+The Soma region, the stage of the Soma Nomaoi, lies in the northern part of the Pacific coast (the Hamadori area) of Fukushima Prefecture. Visiting the Ota, Nakamura, and Odaka shrines connected with the festival allows one to touch the history of the Myoken faith and the Soma clan, and to feel more deeply the origins of the land behind the festival. In particular, the ruins of Nakamura Castle, the seat of the Soma clan (now Baryo Park), are known as a spot for cherry blossoms and preserve the atmosphere of the old castle town.
+
+Along the coast of the Hamadori area lie scenic spots and fishing ports overlooking the Pacific, where fresh seafood can be enjoyed. This region suffered great damage in the Great East Japan Earthquake of 2011, but as recovery has progressed one can also visit facilities that convey the memory of the disaster and rebuilt townscapes. Touring these together with the path the Soma Nomaoi has walked as a symbol of recovery lets one feel the strength of this land.
+
+Venturing a little farther from the Soma region, hot spring resorts and scenic spots rich in nature extend throughout the Hamadori area of Fukushima. After experiencing the heat of the spirited festival, one can soothe the fatigue of travel in a quiet hot spring and extend the journey to enjoy the food and nature of Tohoku. The pleasure of visiting this region lies in its many layers of appeal: history, faith, recovery, and nature.
+
+## Related Information
+- **Timing**: Traditionally July (in recent years the timing has been under review)
+- **Location**: The Soma region of Fukushima Prefecture, centered on the cities of Soma and Minamisoma (northern Hamadori)
+- **Origin tradition**: Said to derive from military training in which Taira no Masakado, held to be the ancestor of the Soma clan, treated wild horses as enemy soldiers in the Heian period; it boasts a history of more than a thousand years.
+- **Related shrines**: A joint rite of the Soma San-Myoken (Ota, Nakamura, and Odaka shrines), based on the Myoken (pole star) faith
+- **Cultural property**: Designated an Important Intangible Folk Cultural Property of Japan in 1952 (Showa 27)
+- **Main structure**: The grand procession, the armored horse race, the sacred flag competition, and the Nomagake, with several hundred armored mounted warriors taking part','soma-nomaoi','soma-nomaoi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11612066','能褒野神社','Nobono Shrine','三重県亀山市田村町にある神社','Shinto shrine in Mie Prefecture, Japan',NULL,NULL,NULL,'三重県','kinki',34.886111,136.482778,1895,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Nobono-jinja%20torii.JPG','https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
 
 能褒野神社(のぼのじんじゃ)は、三重県亀山市田村町にある神社で、ヤマトタケル(日本武尊)を主祭神として祀る古社である。背後に控える能褒野墓は、宮内庁によりヤマトタケルの陵墓に治定されており、白鳥伝説発祥の地として歴史的価値が極めて高い。
