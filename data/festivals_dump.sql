@@ -2600,42 +2600,114 @@ The central district of Goshogawara is within walking distance of Goshogawara St
 
 Goshogawara, located at the center of the Tsugaru Plain, is home to Kanagi, the hometown of the author Osamu Dazai. The "Shayōkan," Dazai''s birthplace, and the nostalgic stove train of the Tsugaru Railway (in winter) are popular tourist draws. Visitors can enjoy the nature, culture, and food distinctive to the Tsugaru region, including the rural scenery of the Tsugaru Plain with views of Mount Iwaki, the freshwater clams of Lake Jūsan, and Tsugaru''s traditional crafts. Together with the summer festival, it is an area where one can savor a place associated with a great writer and the character of Tsugaru.','goshogawara-tachineputa-festival','goshogawara-tachineputa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1749262','博多祇園山笠','Hakata Gion Yamakasa Festival','博多の櫛田神社における神事','festival in Hakata, Fukuoka, Japan','Q11433106','大博通り','Taihaku Dōri','福岡県','kyushu',33.59297,130.41045,1241,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hakata%20gion%20yamakasa%202005%2001.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Hakata_Gion_Yamakasa',95,'drafted','## 概要
+博多祇園山笠（はかたぎおんやまかさ）は、福岡県福岡市博多区の櫛田神社で毎年7月1日から15日にかけて行われる、博多を代表する夏の祭礼である。総重量1トンを超える「舁き山笠（かきやまかさ）」を締め込み姿の男衆が担ぎ、博多の街を全力で疾走する勇壮な姿で全国に知られ、約780年の歴史を誇る博多の総鎮守・櫛田神社への奉納神事として受け継がれてきた。国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」を構成する祭礼の一つでもある。
 
-博多祇園山笠（はかたぎおんやまかさ）は、福岡県福岡市博多区の櫛田神社で毎年7月1日から15日にかけて行われる、約780年の歴史を持つ国指定重要無形民俗文化財の伝統祭礼である。総重量1トンを超える「舁き山笠（かきやまかさ）」を男衆が舁いて博多の街を疾走する勇壮な姿で全国的に知られ、ユネスコ無形文化遺産「山・鉾・屋台行事」を構成する日本三大祇園祭の一つに数えられる。
+この祭りは、豪華絢爛な観賞用の「飾り山笠」と、疾走のための機能を極めた「舁き山笠」という二つの山笠が併存する点に大きな特色がある。前者は高くそびえる人形装飾で街を彩り、後者は速さを競って博多の街を駆け抜ける。静と動、美と力という対照的な魅力を一つの祭りで味わえることが、博多祇園山笠が多くの人を惹きつける理由である。
 
-## 歴史
+## 歴史と由来
+博多祇園山笠の起源は、鎌倉時代の仁治2年（1241年）にまで遡ると伝えられる。当時、博多に疫病が流行した際、承天寺の開祖・聖一国師（円爾）が施餓鬼棚に乗り、町中に祈祷水を撒いて疫病退散を祈願したことが始まりとされる。疫病を鎮めるための祈りという原点は、京都の祇園祭をはじめとする各地の祇園信仰と共通しており、博多の山笠もまた御霊信仰・疫病退散の願いを核として発展してきた。
 
-博多祇園山笠の起源は鎌倉時代の仁治2年（1241年）、博多に疫病が流行した際、承天寺の開祖・聖一国師が施餓鬼棚に乗って祈祷水を撒き疫病退散を祈願したことに始まると伝わる。室町期には博多商人が町の繁栄と疫病退散を祈願して山笠を担ぐ風習が定着し、戦国時代の博多焼失と豊臣秀吉による太閤町割（1587年）を経て、町ごとに「流（ながれ）」と呼ばれる組織が形成された。江戸期には豪華絢爛な「飾り山笠」が発達したが、明治31年（1898年）に電線架設で高さ制限が生じ、現在の「舁き山笠（疾走用・低い）」と「飾り山笠（観賞用・高い）」の二本立てに分化した。1979年に国の重要無形民俗文化財に指定、2016年にユネスコ無形文化遺産に登録された。
+室町期になると、博多の町人たちが町の繁栄と疫病退散を願って山笠を担ぐ風習が定着していった。戦国時代には戦乱によって博多の町が焼失する苦難もあったが、天正15年（1587年）、豊臣秀吉による博多復興の町割「太閤町割」を経て町の区画が整えられ、これを基盤として町ごとに「流（ながれ）」と呼ばれる自治的な組織が形成された。現在も博多祇園山笠は、この流を単位として運営されており、町人の自治の伝統が祭りの根幹をなしている。
+
+江戸期には、豪華な人形で飾り立てた高い「飾り山笠」が発達し、博多の富と美意識を競う華やかな見世物として親しまれた。ところが明治31年（1898年）、電線の架設によって山笠の高さに制限が生じたため、疾走用に低く仕立てた「舁き山笠」と、観賞用に高くそびえる「飾り山笠」とが分化し、現在の二本立ての形が整った。近代化がもたらした制約が、かえって二種類の山笠という独自の文化を生んだのである。
+
+その文化的価値が認められ、博多祇園山笠は1979年（昭和54年）に国の重要無形民俗文化財に指定された。さらに2016年（平成28年）には、全国各地の同種の祭礼とともに、ユネスコ無形文化遺産「山・鉾・屋台行事」の一つとして登録され、国際的にもその価値が認められた。疫病退散への祈りに始まり、町人の自治とともに磨かれてきたこの祭りは、博多の人々のアイデンティティそのものとして生き続けている。
 
 ## 見どころ
+**クライマックスの追い山笠**
+博多祇園山笠最大の見せ場が、最終日7月15日の早朝に行われる「追い山笠（おいやま）」である。午前4時59分、櫛田神社の境内に据えられた清道旗をまわる「櫛田入り」を皮切りに、各流の舁き山笠が約5キロのコースを全力疾走で駆け抜ける。まだ暗い博多の街を、締め込み姿の男衆が水をかけられながら山を舁いて走る姿は、この祭りの神髄を凝縮した光景である。
 
-最大の見せ場はクライマックスの「追い山笠」で、7月15日午前4時59分の太鼓を合図に櫛田神社を一斉スタートし、約5キロのコースを各流が全力疾走で駆け抜ける。総重量1トンの舁き山笠を約30人の舁き手が肩に担ぎ、地下足袋に長法被姿で「オイサ、オイサ」の掛け声と共に博多の街を疾走する姿は圧巻。期間中は市内14基の「飾り山笠」も街中に展示され、歴史絵巻や時事ネタを織り込んだ豪華な人形装飾を間近で観賞できる。
+**櫛田入りの気迫**
+追い山笠の起点となる「櫛田入り」は、各流が櫛田神社の清道を回り込み、舁き山笠の速さと勢いを競う瞬間である。狭い境内を巨大な山笠が一気に旋回する様は迫力に満ち、この櫛田入りにかかる時間（タイム）が各流の名誉を左右する。神前での奉納であると同時に、流同士の誇りをかけた真剣勝負でもある点に、この場面の緊張感がある。
+
+**そびえ立つ飾り山笠**
+期間中、博多の街の各所には観賞用の「飾り山笠」が立てられる。歴史絵巻や物語、時事の題材を織り込んだ豪華絢爛な人形装飾は高くそびえ、間近で見上げるとその精緻な造形と迫力に圧倒される。表側の「見送り」と裏側で異なる題材が描かれることも多く、博多人形の技を受け継ぐ人形師たちの腕の競演を楽しむことができる。
+
+**流を単位とした舁き手たちの結束**
+博多祇園山笠は、太閤町割に由来する「流」という町組織を単位として運営される。締め込みと長法被をまとった舁き手たちが「オイサ、オイサ」の掛け声とともに一体となって山を舁く姿には、町ごとの結束と誇りが表れている。一つの山笠を担ぐには数十人が呼吸を合わせる必要があり、そこに博多の町人が育んできた共同体の力が凝縮されている。
+
+**勢い水と沿道の熱気**
+山笠が疾走するあいだ、沿道からは「勢い水（きおいみず）」が絶え間なく浴びせられる。男衆と山笠に水を掛けて清め、また熱気を鎮めるこの水しぶきが、夏の博多の朝に涼と活気を添える。走る男衆、飛び交う水、鳴り響く掛け声が一体となった沿道の熱狂は、観る者をも祭りの当事者に引き込む。
+
+**約2週間にわたる神事の積み重ね**
+追い山笠の華やかさの陰で、博多祇園山笠は7月1日から始まる一連の神事の積み重ねによって成り立っている。海の砂を採る「お汐井とり」、舁き手が街を舁いて回る各種の行事、本番前の予行である「追い山笠ならし」など、日を追って高まっていく過程そのものが祭りの一部である。祈りと鍛錬を重ねた末に迎える最終日の追い山笠だからこそ、その一瞬に博多中の熱気が結集する。
 
 ## 開催情報・アクセス
+- **開催地**: 福岡県福岡市博多区の櫛田神社（博多旧市街地一帯）を中心に開催
+- **開催時期**: 毎年7月1日〜15日。クライマックスの追い山笠は7月15日早朝（午前4時59分開始）
+- **主な行事**: お汐井とり、飾り山笠の公開、舁き山笠の各行事、追い山笠ならし、追い山笠
+- **運営単位**: 太閤町割に由来する「流（ながれ）」を単位に運営
+- **アクセス**: JR博多駅から徒歩約15分、福岡市地下鉄祇園駅から徒歩約3分。追い山笠は早朝のため事前の交通手段確認が必要
+- **観覧料**: 沿道での観覧は無料。具体的な日程・観覧情報は毎年主催者・櫛田神社の発表で確認が望ましい
 
-会場は櫛田神社（福岡市博多区上川端町1-41）を中心とする博多旧市街地一帯。JR博多駅から徒歩約15分、地下鉄祇園駅から徒歩約3分。観覧は無料。期間中（7/1-7/15）の最大の盛り上がりは15日早朝の追い山笠で、観客動員は約100万人。
+## 周辺の見どころ
+博多祇園山笠の舞台となる博多区一帯は、博多の歴史が凝縮された地域である。祭りの中心である櫛田神社は「お櫛田さん」と親しまれる博多の総鎮守で、境内には飾り山笠が通年展示されており、祭りの期間外でもその迫力に触れられる。近隣には、山笠発祥の地とされる承天寺や、大仏で知られる東長寺など、由緒ある寺社が集まっている。
 
-## 周辺観光
+博多は古くから大陸との交易で栄えた商人の町であり、その伝統は今も色濃く残る。博多町家ふるさと館では明治・大正期の町家の暮らしを、博多伝統工芸館では博多織や博多人形といった伝統工芸を知ることができ、山笠を育んだ博多の町人文化を立体的に理解できる。祭りの背景にある博多の歴史に触れることで、山笠の見え方も一層深まる。
 
-博多区一帯は櫛田神社・東長寺・承天寺など歴史的寺社や、博多町家ふるさと館、博多伝統工芸館などが集中する。中洲屋台街、博多ラーメン、もつ鍋、明太子など博多グルメの聖地でもあり、福岡空港・博多駅の交通至便性と相まって、夏のインバウンド観光地として国際的人気が高い。','## Overview
+さらに博多は、屋台文化やご当地グルメの聖地としても全国的に知られる。中洲の屋台街をはじめ、博多ラーメン、もつ鍋、明太子など、博多ならではの食を楽しめる。福岡空港や博多駅からのアクセスが極めて良く、国内外からの玄関口となっていることもあり、夏の博多祇園山笠は近年インバウンド観光の目玉としても注目を集めている。
 
-Hakata Gion Yamakasa is a traditional festival with approximately 780 years of history, held annually from July 1 to 15 at Kushida Shrine in Hakata Ward, Fukuoka City, Fukuoka Prefecture, and designated as a National Important Intangible Folk Cultural Property. Renowned nationwide for the spectacular sight of men carrying "kakiyama" floats weighing over one ton while sprinting through the streets of Hakata, the festival is counted among Japan''s three great Gion festivals and is a constituent element of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai Float Festivals."
+## 関連情報
+- **開催時期**: 7月1日〜15日（夏）。クライマックスの追い山笠は7月15日早朝
+- **所在地**: 福岡県福岡市博多区・櫛田神社
+- **起源伝承**: 仁治2年（1241年）、承天寺の聖一国師が疫病退散を祈願したことに始まると伝わる。約780年の歴史
+- **運営組織**: 太閤町割（1587年）に由来する「流」を単位に運営される町人主体の祭り
+- **文化財**: 1979年（昭和54年）国の重要無形民俗文化財に指定。2016年（平成28年）ユネスコ無形文化遺産「山・鉾・屋台行事」に登録
+- **特色**: 疾走用の「舁き山笠」と観賞用の「飾り山笠」が併存。総重量1トン超の舁き山笠を男衆が舁いて疾走する','## Overview
+The Hakata Gion Yamakasa is a summer festival representative of Hakata, held at Kushida Shrine in Hakata Ward, Fukuoka City, Fukuoka Prefecture, each year from July 1 to 15. It is known throughout Japan for the spirited sight of men in loincloths bearing kaki-yamakasa floats weighing more than a ton and racing at full speed through the streets of Hakata, and it has been handed down as a rite dedicated to Kushida Shrine, the guardian shrine of all Hakata, with a history of some 780 years. It is designated an Important Intangible Folk Cultural Property of Japan and is one of the festivals that make up the UNESCO Intangible Cultural Heritage of the Yama, Hoko, and Yatai float festivals.
 
-## History
+A major feature of this festival is the coexistence of two kinds of floats: the gorgeous kazari-yamakasa built for display, and the kaki-yamakasa refined for racing. The former, with towering figures, adorns the town, while the latter races through the streets of Hakata competing for speed. That one can savor contrasting appeals in a single festival, the still and the moving, beauty and power, is why the Hakata Gion Yamakasa draws so many people.
 
-The origins of Hakata Gion Yamakasa trace back to 1241 (Ninji 2) during the Kamakura period, when an epidemic broke out in Hakata and Shōichi Kokushi, the founder of Jōten-ji Temple, mounted a segaki memorial platform and scattered blessed water to pray for the epidemic''s end. During the Muromachi period, the custom of Hakata merchants shouldering yamakasa floats to pray for town prosperity and epidemic protection became firmly established. Following the destruction of Hakata during the Warring States period and Toyotomi Hideyoshi''s Taikō Town Division (1587), neighborhood organizations called "Nagare" were formed. During the Edo period, magnificent "Kazariyama" decorative floats developed, but the introduction of overhead electrical wires in 1898 (Meiji 31) created height restrictions, leading to the current dual format of low "Kakiyama" (running floats) and tall "Kazariyama" (display floats). The festival was designated a National Important Intangible Folk Cultural Property in 1979 and registered as a UNESCO Intangible Cultural Heritage in 2016.
+## History & Origins
+The origins of the Hakata Gion Yamakasa are said to reach back to the year 1241 in the Kamakura period. When an epidemic spread through Hakata at that time, Shoichi Kokushi (Enni), founder of Jotenji Temple, is said to have ridden on a segaki platform and scattered prayer water through the town to pray for the banishment of the disease, and this is held to be the beginning. The starting point of a prayer to quell an epidemic is shared with the Gion faith of many regions, including the Gion Festival of Kyoto, and the Hakata yamakasa too developed with the wish for the banishment of disease and the goryo faith at its core.
+
+By the Muromachi period, the custom of townspeople of Hakata bearing yamakasa in prayer for the prosperity of the town and the banishment of epidemics had become established. In the Warring States period the town of Hakata was burned in the turmoil of war, but after the Taiko Machiwari, the town division carried out by Toyotomi Hideyoshi to rebuild Hakata in 1587, the districts were laid out anew, and on this basis autonomous organizations called nagare were formed by district. To this day the Hakata Gion Yamakasa is run with the nagare as its unit, and the tradition of townspeople self-governance forms the very foundation of the festival.
+
+In the Edo period, tall kazari-yamakasa decorated with gorgeous figures developed and were enjoyed as splendid spectacles competing in the wealth and aesthetic sense of Hakata. However, in 1898 the stringing of electric wires imposed height restrictions on the floats, so the kaki-yamakasa, built low for racing, and the kazari-yamakasa, towering high for display, separated, and the present two-fold form took shape. The constraint brought by modernization, in turn, gave rise to the distinctive culture of two kinds of yamakasa.
+
+In recognition of its cultural value, the Hakata Gion Yamakasa was designated an Important Intangible Folk Cultural Property of Japan in 1979. Furthermore, in 2016 it was registered, together with similar festivals from across the country, as one of the UNESCO Intangible Cultural Heritage of the Yama, Hoko, and Yatai float festivals, and its value was recognized internationally as well. Beginning in a prayer for the banishment of epidemics and refined together with the self-governance of the townspeople, this festival lives on as the very identity of the people of Hakata.
 
 ## Highlights
+**The climactic Oiyama**
+The greatest highlight of the Hakata Gion Yamakasa is the Oiyama, held in the early morning of the final day, July 15. At 4:59 a.m., beginning with the Kushida-iri, in which the floats round the sacred banner set within the precincts of Kushida Shrine, the kaki-yamakasa of each nagare race at full speed over a course of about five kilometers. The sight of men in loincloths bearing the floats and running as water is thrown over them, through the still-dark streets of Hakata, is a scene that distills the essence of this festival.
 
-The climactic highlight is the "Oiyama" finale, when at the signal of drums at 4:59 a.m. on July 15, all teams simultaneously depart from Kushida Shrine and race through an approximately 5-kilometer course at full sprint. Approximately 30 carriers shoulder a one-ton kakiyama float, dressed in jika-tabi traditional footwear and long happi coats, charging through the streets of Hakata with shouts of "Oisa, Oisa." During the festival period, 14 ornate "Kazariyama" floats are displayed throughout the city, allowing close viewing of magnificent doll decorations incorporating historical scrolls and contemporary themes.
+**The intensity of the Kushida-iri**
+The Kushida-iri, the starting point of the Oiyama, is the moment when each nagare rounds the sacred way of Kushida Shrine, competing in the speed and momentum of the kaki-yamakasa. The sight of the enormous floats turning at once within the narrow precincts is full of power, and the time it takes to complete the Kushida-iri governs the honor of each nagare. The tension of this scene lies in its being at once a dedication before the deity and a serious contest staking the pride of each nagare against the others.
 
-## Event Details and Access
+**The towering kazari-yamakasa**
+During the festival, kazari-yamakasa for display are erected throughout the streets of Hakata. The gorgeous figures, weaving in historical scenes, tales, and topical subjects, tower high, and looking up at them from close by, one is overwhelmed by their intricate craft and power. The front and back often depict different subjects, and one can enjoy the competition of skill among the doll artisans who carry on the craft of Hakata dolls.
 
-The festival is centered around Kushida Shrine (1-41 Kamikawabata-chō, Hakata Ward, Fukuoka City) and extends throughout the old Hakata district. Access is approximately 15 minutes on foot from Hakata Station or 3 minutes from Gion Station on the subway. Viewing is free of charge. The peak excitement during the festival period (July 1-15) occurs during the Oiyama finale on the early morning of July 15, drawing approximately one million spectators in total.
+**The unity of the bearers organized by nagare**
+The Hakata Gion Yamakasa is run with the nagare, the town organization derived from the Taiko Machiwari, as its unit. In the sight of the bearers, clad in loincloths and long happi coats, bearing the float as one to the cry of Oisa, Oisa, the solidarity and pride of each district are revealed. Bearing a single float requires dozens of people to match their breathing, and there the strength of the community that the townspeople of Hakata have nurtured is distilled.
 
-## Surrounding Attractions
+**The kioimizu and the fervor of the roadside**
+While the floats race, kioimizu, momentum water, is thrown ceaselessly from the roadside. This spray, cast over the men and the floats to purify them and to cool the heat, adds coolness and vitality to the summer Hakata morning. The frenzy of the roadside, where the running men, the flying water, and the resounding cries become one, draws even onlookers in as participants in the festival.
 
-The Hakata Ward area features a concentration of historic temples and shrines including Kushida Shrine, Tōchō-ji Temple, and Jōten-ji Temple, as well as the Hakata Machiya Folk Museum and the Hakata Traditional Craft Museum. The district is also a sacred ground of Hakata cuisine, famed for its Nakasu yatai food stalls, Hakata ramen, motsunabe hot pot, and mentaiko spicy cod roe. Combined with the convenient access of Fukuoka Airport and Hakata Station, the area has gained tremendous international popularity as a summer inbound tourism destination.','hakata-gion-yamakasa','hakata-gion-yamakasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The accumulation of rites over some two weeks**
+Behind the splendor of the Oiyama, the Hakata Gion Yamakasa is built up through a series of rites beginning on July 1. The Oshioi-tori of gathering sand from the sea, the various events in which the bearers carry the float through the town, and the Oiyama-narashi, the rehearsal before the main event, and this very process of mounting day by day is part of the festival. Because the final-day Oiyama comes after the accumulation of prayer and training, all the fervor of Hakata is concentrated in that single instant.
+
+## Access & Information
+- **Location**: Held around Kushida Shrine in Hakata Ward, Fukuoka City, Fukuoka Prefecture (the old town district of Hakata)
+- **Timing**: Each year from July 1 to 15. The climactic Oiyama is held in the early morning of July 15 (beginning at 4:59 a.m.)
+- **Main events**: Oshioi-tori, the display of the kazari-yamakasa, the various kaki-yamakasa events, the Oiyama-narashi, and the Oiyama
+- **Organizing unit**: Run with the nagare, derived from the Taiko Machiwari, as its unit
+- **Access**: About a 15-minute walk from JR Hakata Station, or about a 3-minute walk from Gion Station on the Fukuoka City Subway. As the Oiyama is held in the early morning, confirming transport in advance is necessary.
+- **Admission**: Roadside viewing is free. It is advisable to confirm exact dates and viewing information each year through the organizers and Kushida Shrine.
+
+## Around the Area
+The Hakata Ward area, the stage of the Hakata Gion Yamakasa, is a district where the history of Hakata is concentrated. Kushida Shrine, the center of the festival, is the guardian shrine of all Hakata, affectionately called Okushida-san, and a kazari-yamakasa is displayed in its precincts year-round, so one can experience its power even outside the festival period. Nearby gather shrines and temples of venerable history, such as Jotenji Temple, said to be the birthplace of the yamakasa, and Tochoji Temple, known for its great Buddha.
+
+Hakata was long a merchant town that flourished through trade with the continent, and that tradition remains strong today. At the Hakata Machiya Folk Museum one can learn of townhouse life in the Meiji and Taisho eras, and at the Hakata Traditional Craft and Design Museum one can learn of traditional crafts such as Hakata-ori textiles and Hakata dolls, giving a three-dimensional understanding of the townspeople culture that nurtured the yamakasa. Touching the history of Hakata behind the festival deepens one''s view of the yamakasa itself.
+
+Furthermore, Hakata is known throughout Japan as a mecca of yatai stall culture and local cuisine. Beginning with the yatai district of Nakasu, one can enjoy foods unique to Hakata, such as Hakata ramen, motsunabe, and mentaiko. Because access from Fukuoka Airport and Hakata Station is exceptionally good, making it a gateway from home and abroad, the summer Hakata Gion Yamakasa has drawn attention in recent years as a highlight of inbound tourism as well.
+
+## Related Information
+- **Timing**: July 1 to 15 (summer). The climactic Oiyama is held in the early morning of July 15.
+- **Location**: Kushida Shrine, Hakata Ward, Fukuoka City, Fukuoka Prefecture
+- **Origin tradition**: Said to begin when Shoichi Kokushi of Jotenji Temple prayed for the banishment of an epidemic in 1241; a history of some 780 years.
+- **Organization**: A festival led by townspeople, run with the nagare derived from the Taiko Machiwari of 1587 as its unit
+- **Cultural property**: Designated an Important Intangible Folk Cultural Property of Japan in 1979; registered in 2016 as UNESCO Intangible Cultural Heritage among the Yama, Hoko, and Yatai float festivals
+- **Feature**: The kaki-yamakasa for racing and the kazari-yamakasa for display coexist. Men bear the kaki-yamakasa, weighing over a ton, and race with it.','hakata-gion-yamakasa','hakata-gion-yamakasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2276034','沖縄国際映画祭','Okinawa International Movie Festival','日本の沖縄県で開催される映画祭','annual film festival in Japan','Q600614','沖縄本島','Okinawa','沖縄県','okinawa',NULL,NULL,2009,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/3rd%20Okinawa%20International%20Movie%20Festival%20001.jpg','https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Okinawa_International_Movie_Festival',85,'drafted','沖縄国際映画祭（おきなわこくさいえいがさい）は、沖縄県で毎年春に開催される映画祭で、2009年(平成21年)に始まった比較的新しいイベントである。お笑いを中心としたエンターテインメント企業である吉本興業が主催し、「Laugh & Peace(笑いと平和)」をテーマに掲げる、笑いと島の文化が融合したユニークな祭典として知られる。
 
 この映画祭の最大の特徴は、一般的な映画祭の枠にとどまらない、地域密着型・参加型のスタイルにある。映画の上映やコンペティションに加え、人気芸人や俳優が多数登場するステージイベント、沖縄各地の市町村と連携した「地域発信型」の作品作りなど、沖縄全体を巻き込んだお祭りとして発展してきた。レッドカーペットならぬ「レッドカーペット」イベントには多くの著名人が登場し、地元の人々や観光客で賑わう。
