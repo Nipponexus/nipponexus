@@ -1479,7 +1479,7 @@ INSERT INTO "festivals" VALUES('Q493695','唐津くんち','Karatsu Kunchi','佐
 ## 歴史と由来
 唐津くんちは、唐津神社の秋季例大祭として営まれてきた祭りである。祭りそのものの由来は古く、江戸時代前期にはすでに秋の例大祭として行われていたと伝えられるが、現在の祭りを特徴づける豪華な曳山が登場するのは江戸時代後期のことである。収穫への感謝と地域の繁栄を願う秋祭りが、曳山という華やかな要素を得て、唐津を代表する祭礼へと発展していった。
 
-現存する曳山のうち最古とされるのは、文政2年（1819年）に一番曳山として奉納された「赤獅子」である。以後、唐津の各町がそれぞれの誇りをかけて競うように曳山を新調し、獅子・鯛・兜・龍・鳳凰・宝船・武者など多彩な題材の曳山が次々と生み出された。そして明治9年（1876年）に奉納された「七宝丸」をもって、現在の14台の体制が整った。約60年をかけて町ごとに積み上げられた曳山群は、唐津の町人文化の到達点といえる。
+現存する曳山のうち最古とされるのは、文政2年（1819年）に一番曳山として奉納された「赤獅子」である。以後、唐津の各町がそれぞれの誇りをかけて競うように曳山を新調し、獅子・鯛・兜・龍・鳳凰・宝船・武者など多彩な題材の曳山が次々と生み出された。以後、明治9年（1876年）までに合計15台の曳山が奉納されたが、そのうち1台が明治中期に焼失し、現在は14台が現存している。約60年をかけて町ごとに積み上げられた曳山群は、唐津の町人文化の到達点といえる。
 
 曳山は、木組みの骨格に和紙を幾層にも貼り重ね、漆を塗り重ねて金箔などで装飾する「一閑張り」の技法で作られている。重さは2〜3トンにも及ぶ大型のものが多く、その堅牢さと華やかさは、唐津の職人たちの高い技術に支えられている。百数十年を経た曳山が今なお現役で巡行できるのは、各町が修復と保存を絶やさず受け継いできたからにほかならない。
 
@@ -1522,7 +1522,7 @@ INSERT INTO "festivals" VALUES('Q493695','唐津くんち','Karatsu Kunchi','佐
 ## 関連情報
 - **開催時期**: 11月2日〜4日（秋）。クライマックスのお旅所神幸は11月3日
 - **所在地**: 佐賀県唐津市・唐津神社（旧城下町一帯）
-- **起源**: 唐津神社の秋季例大祭。現存最古の曳山は文政2年（1819年）の「赤獅子」、明治9年（1876年）の「七宝丸」で現在の14台が完成
+- **起源・曳山数**: 唐津神社の秋季例大祭。現存最古の曳山は文政2年（1819年）の「赤獅子」。文政2年から明治9年（1876年）までに計15台が奉納され、うち1台が明治中期に焼失、現在14台が現存
 - **曳山**: 漆と金箔で装飾した「一閑張り」の大型山車。重さ2〜3トン。鯛・獅子・兜・龍・鳳凰・宝船など多彩な題材
 - **文化財**: 1980年（昭和55年）国の重要無形民俗文化財に指定。2016年（平成28年）ユネスコ無形文化遺産「山・鉾・屋台行事」に登録
 - **「くんち」**: 九州北部で秋の例大祭を指す語。長崎くんち・博多おくんちと並び称される','## Overview
@@ -1533,7 +1533,7 @@ Kunchi is a word used in northern Kyushu for an autumn harvest festival or grand
 ## History & Origins
 The Karatsu Kunchi has been observed as the autumn grand festival of Karatsu Shrine. The origins of the festival itself are old, and it is said to have already been held as an autumn grand festival in the early Edo period, but the gorgeous floats that characterize the present festival appeared in the late Edo period. An autumn festival praying in thanks for the harvest and for the prosperity of the region, gaining the splendid element of the floats, developed into the festival representative of Karatsu.
 
-Among the surviving floats, the oldest is held to be the Aka-jishi, the red lion, dedicated as the first float in 1819. Thereafter each district of Karatsu built floats anew, as if competing, each staking its pride, and floats of varied subjects, lions, sea bream, helmets, dragons, phoenixes, treasure ships, and warriors, were created one after another. And with the Shippomaru, dedicated in 1876, the present system of fourteen floats was completed. The group of floats, built up district by district over some sixty years, may be called the culmination of the townspeople culture of Karatsu.
+Among the surviving floats, the oldest is held to be the Aka-jishi, the red lion, dedicated as the first float in 1819. Thereafter each district of Karatsu built floats anew, as if competing, each staking its pride, and floats of varied subjects, lions, sea bream, helmets, dragons, phoenixes, treasure ships, and warriors, were created one after another. Thereafter, by 1876 a total of fifteen floats had been dedicated, of which one was destroyed by fire in the mid-Meiji period, so that fourteen survive today. The group of floats, built up district by district over some sixty years, may be called the culmination of the townspeople culture of Karatsu.
 
 The floats are made by the ikkanbari technique, in which layers of Japanese paper are pasted over a wooden frame, coats of lacquer are applied, and the surface is decorated with gold leaf and the like. Many are large, weighing two to three tons, and their sturdiness and splendor are supported by the high skill of the artisans of Karatsu. That floats over a century old can still parade today is due precisely to each district having carried them on without ceasing repair and preservation.
 
@@ -1576,7 +1576,7 @@ Venturing farther into the outskirts, one can enjoy both seafood and history, at
 ## Related Information
 - **Timing**: November 2 to 4 (autumn). The climactic Otabisho Shinko is on November 3.
 - **Location**: Karatsu Shrine, Karatsu City, Saga Prefecture (the old castle town)
-- **Origins**: The autumn grand festival of Karatsu Shrine. The oldest surviving float is the Aka-jishi of 1819, and the present fourteen floats were completed with the Shippomaru of 1876.
+- **Origins and number of floats**: The autumn grand festival of Karatsu Shrine. The oldest surviving float is the Aka-jishi of 1819. A total of fifteen floats were dedicated between 1819 and 1876, of which one was lost to fire in the mid-Meiji period, leaving fourteen today.
 - **Floats**: Large floats decorated with lacquer and gold leaf by the ikkanbari technique, weighing two to three tons, with varied subjects such as sea bream, lions, helmets, dragons, phoenixes, and treasure ships
 - **Cultural property**: Designated an Important Intangible Folk Cultural Property of Japan in 1980; registered in 2016 as UNESCO Intangible Cultural Heritage among the Yama, Hoko, and Yatai float festivals
 - **Kunchi**: A word for an autumn grand festival in northern Kyushu; spoken of alongside the Nagasaki Kunchi and the Hakata Okunchi','karatsu-kunchi','karatsu-kunchi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -12738,7 +12738,7 @@ INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎
 
 相馬野馬追は、相馬地方の妙見信仰と結びついた神事でもある。祭りは「相馬三妙見」と呼ばれる三つの社――太田神社・中村神社・小高神社――の合同祭礼として営まれ、それぞれの社を氏神とする地域の騎馬武者たちが参加する。妙見は北辰（北極星・北斗七星）を神格化した信仰であり、武運や方位を司る神として武士に篤く崇敬された。馬と武と信仰が分かちがたく結びついている点に、この祭礼の宗教的な奥行きがある。
 
-近代以降、相馬野馬追は軍事訓練としての性格を離れ、地域の伝統文化・観光資源として受け継がれてきた。2011年の東日本大震災と原子力災害では、開催地である相馬地方が甚大な被害を受け、馬を失い避難を強いられた担い手も少なくなかった。それでも祭りは翌年以降も規模を縮小しながら続けられ、復興の象徴として人々を勇気づけてきた。伝統的には毎年7月に開催されてきたが、近年は夏季の猛暑による馬や騎馬武者への負担を避けるため、開催時期の見直しが行われている。
+近代以降、相馬野馬追は軍事訓練としての性格を離れ、地域の伝統文化・観光資源として受け継がれてきた。2011年の東日本大震災と原子力災害では、開催地である相馬地方が甚大な被害を受け、馬を失い避難を強いられた担い手も少なくなかった。それでも祭りは翌年以降も規模を縮小しながら続けられ、復興の象徴として人々を勇気づけてきた。長らく毎年7月末に開催されてきたが、夏季の猛暑による馬や騎馬武者、観客への負担（熱中症の多発）が深刻化したため、2026年（令和8年）からは開催時期が5月下旬へと正式に変更された。
 
 ## 見どころ
 **数百騎の騎馬武者による総大将出陣**
@@ -12762,7 +12762,7 @@ INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎
 ## 開催情報・アクセス
 - **開催地**: 福島県相馬市・南相馬市を中心とする相馬地方（甲冑競馬・神旗争奪戦の主会場は南相馬市の雲雀ヶ原祭場地）
 - **関係する社**: 相馬三妙見（太田神社・中村神社・小高神社）の合同祭礼
-- **開催時期**: 伝統的には毎年7月に三日間にわたり開催。近年は夏季の猛暑対策として開催時期の見直しが行われている
+- **開催時期**: 長年7月末に三日間開催されてきたが、猛暑対策のため2026年（令和8年）から5月下旬開催に変更（2026年は5月23〜25日を中心に実施）
 - **主な行事**: 出陣、お行列、甲冑競馬、神旗争奪戦、野馬懸
 - **アクセス**: JR常磐線の原ノ町駅などが最寄り。会場周辺は交通規制・混雑が予想されるため公共交通機関の利用が推奨される
 - **確認事項**: 具体的な開催日・会場・観覧席の詳細は毎年主催者から発表されるため、観覧希望の場合は事前確認が望ましい
@@ -12775,7 +12775,7 @@ INSERT INTO "festivals" VALUES('Q11582543','相馬野馬追','Sōma Nomaoi','毎
 相馬地方から少し足を延ばせば、福島県浜通りの各地に温泉地や自然豊かな景勝地が広がっている。勇壮な祭りの熱気を体感したのち、静かな温泉で旅の疲れを癒やし、東北の食と自然を楽しむ旅へとつなげることができる。歴史・信仰・復興・自然という多層的な魅力を併せ持つのが、この地域を訪れる醍醐味である。
 
 ## 関連情報
-- **開催時期**: 伝統的に7月（近年は開催時期の見直しあり）
+- **開催時期**: 従来は7月末。2026年（令和8年）から5月下旬に変更
 - **所在地**: 福島県相馬市・南相馬市を中心とする相馬地方（浜通り北部）
 - **起源伝承**: 平安時代、相馬氏の祖とされる平将門が野馬を敵兵に見立てて行った軍事訓練に由来するとされ、千年以上の歴史を誇る
 - **関係する社**: 相馬三妙見（太田神社・中村神社・小高神社）の合同祭礼。妙見信仰（北辰信仰）に基づく
@@ -12792,7 +12792,7 @@ Later, when the Soma clan moved to the Soma region of the Oshu district in the K
 
 The Soma Nomaoi is also a rite bound up with the Myoken faith of the Soma region. The festival is held as the joint rite of the three shrines known as the Soma San-Myoken: Ota Shrine, Nakamura Shrine, and Odaka Shrine, with mounted warriors from the districts that revere each shrine as their guardian deity taking part. Myoken is a deification of the pole star and the Big Dipper, worshipped as a deity governing martial fortune and direction, and was deeply revered by warriors. That horse, martial valor, and faith are inseparably joined here gives this rite its religious depth.
 
-In the modern era, the Soma Nomaoi shed its character as military training and has been passed down as a regional tradition and tourism asset. In the Great East Japan Earthquake and nuclear disaster of 2011, the Soma region where the festival is held suffered enormous damage, and many of its bearers lost horses and were forced to evacuate. Even so, the festival continued in the following years, if on a reduced scale, and encouraged people as a symbol of recovery. Traditionally held each July, in recent years the timing of the festival has been under review in order to spare horses and riders the burden of the summer heat.
+In the modern era, the Soma Nomaoi shed its character as military training and has been passed down as a regional tradition and tourism asset. In the Great East Japan Earthquake and nuclear disaster of 2011, the Soma region where the festival is held suffered enormous damage, and many of its bearers lost horses and were forced to evacuate. Even so, the festival continued in the following years, if on a reduced scale, and encouraged people as a symbol of recovery. Long held in late July each year, from 2026 the timing of the festival was formally changed to late May, as the burden of the summer heat on horses, riders, and spectators (with frequent cases of heatstroke) had become severe.
 
 ## Highlights
 **The departure of the commander and hundreds of mounted warriors**
@@ -12816,7 +12816,7 @@ Behind the splendid contests, the Soma Nomaoi is conducted, above all, as a rite
 ## Access & Information
 - **Location**: The Soma region of Fukushima Prefecture, centered on the cities of Soma and Minamisoma (the main venue for the armored horse race and sacred flag competition is the Hibarigahara festival grounds in Minamisoma)
 - **Related shrines**: A joint rite of the Soma San-Myoken (Ota Shrine, Nakamura Shrine, and Odaka Shrine)
-- **Timing**: Traditionally held over three days each July. In recent years the timing has been under review as a measure against the summer heat.
+- **Timing**: Long held over three days in late July, but changed from 2026 to late May as a measure against the summer heat (in 2026 held mainly on May 23 to 25).
 - **Main events**: The departure, the grand procession, the armored horse race, the sacred flag competition, and the Nomagake
 - **Access**: The nearest access includes Haranomachi Station on the JR Joban Line. Traffic restrictions and crowding are expected around the venue, so public transport is recommended.
 - **Note**: Exact dates, venues, and seating details are announced each year by the organizers, so those wishing to attend are advised to confirm in advance.
@@ -12829,7 +12829,7 @@ Along the coast of the Hamadori area lie scenic spots and fishing ports overlook
 Venturing a little farther from the Soma region, hot spring resorts and scenic spots rich in nature extend throughout the Hamadori area of Fukushima. After experiencing the heat of the spirited festival, one can soothe the fatigue of travel in a quiet hot spring and extend the journey to enjoy the food and nature of Tohoku. The pleasure of visiting this region lies in its many layers of appeal: history, faith, recovery, and nature.
 
 ## Related Information
-- **Timing**: Traditionally July (in recent years the timing has been under review)
+- **Timing**: Formerly late July; changed from 2026 to late May
 - **Location**: The Soma region of Fukushima Prefecture, centered on the cities of Soma and Minamisoma (northern Hamadori)
 - **Origin tradition**: Said to derive from military training in which Taira no Masakado, held to be the ancestor of the Soma clan, treated wild horses as enemy soldiers in the Heian period; it boasts a history of more than a thousand years.
 - **Related shrines**: A joint rite of the Soma San-Myoken (Ota, Nakamura, and Odaka shrines), based on the Myoken (pole star) faith
@@ -14059,11 +14059,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
