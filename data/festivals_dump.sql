@@ -2589,42 +2589,114 @@ Its purpose and character have likewise been disputed. Because political circums
 
 "Falling talismans," "ee ja nai ka," and "okage-mairi" are often spoken of together but were originally distinct. In western Japan such as Kinki and Shikoku the chant was prominent, whereas in the Tokai region only the falling talismans were shared, often interpreted in connection with the Okuwa festivals and Ise pilgrimage. As a cultural phenomenon, continuities have been noted with mass ecstatic outbreaks seen worldwide and with earlier folk performances such as the Ise odori. Because it was a one-time historical event without a fixed season, this database treats it as outside the seasonal classification. As a symbolic eruption of late-Tokugawa social anxiety and popular energy, it remains an important subject of study in both early-modern Japanese history and folklore.','ee-ja-nai-ka','ee-ja-nai-ka',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q4701224','竿燈','Akita Kantō','秋田県秋田市で行われる祭り','Japanese festival celebrated from 3–7 August in Akita, Japan','Q17139','秋田市','Akita','秋田県','tohoku',39.71847222,140.11319444,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Akita%20Kanto%20Festival%202017.jpg','https://ja.wikipedia.org/wiki/%E7%AB%BF%E7%87%88','https://en.wikipedia.org/wiki/Akita_Kant%C5%8D',95,'drafted','## 概要
+竿燈まつり（かんとうまつり）は、秋田県秋田市で毎年8月3日から6日までの4日間にわたって行われる、五穀豊穣・無病息災・厄除けを祈願する秋田を代表する夏祭りである。多数の提灯を吊るした「竿燈（かんとう）」と呼ばれる長大な竹竿を、差し手（さして）が手のひら・額・肩・腰へと巧みに移して支える妙技で全国的に知られる。無数の提灯の灯りが夏の夜空にゆらめく光景は、実った稲穂を思わせ、豊作への祈りをそのまま形にした祭りである。
 
-竿燈まつり（かんとうまつり）は、秋田県秋田市で毎年8月3日から6日までの4日間にわたって行われる、五穀豊穣・無病息災・厄除けを祈念する伝統行事である。重さ50キログラム、長さ12メートルにも及ぶ「竿燈（かんとう）」と呼ばれる竹竿に46個もの提灯を吊るし、それを腰や額、肩、手のひらで支える妙技を披露する。青森ねぶた・仙台七夕と並んで「東北三大祭り」に数えられ、1980年（昭和55年）に国の重要無形民俗文化財に指定されている。
+竿燈まつりは、青森ねぶた祭・仙台七夕まつりと並んで「東北三大祭り」に数えられ、東北の夏を代表する祭礼の一つである。1980年（昭和55年）には国の重要無形民俗文化財に指定された。技を競う勇壮さと、豊作を祈る素朴な信仰とが一体となっている点に、この祭りの奥深い魅力がある。
 
-## 歴史
+## 歴史と由来
+竿燈まつりの起源は、宝暦年間（1751〜1764年）以前にまで遡るとされる。その原型となったのは、真夏の睡魔や穢れを払う「ねぶり流し」と呼ばれる眠り流しの行事である。夏の農作業の妨げとなる眠気を、灯籠や笹などに託して水に流す習俗は東北各地に共通しており、青森のねぶた・ねぷたと同じ源流をもつ。竿燈もまた、この眠り流しの行事を核として成り立っている。
 
-竿燈の起源は宝暦年間（1751-1764年）以前に遡るとされ、当時の秋田藩で行われていた「ねぶり流し」という眠気払いの行事と、五穀豊穣を祈願する七夕の風習が融合して成立したと伝わる。藩政期には町人文化として発展し、寛政元年（1789年）の津村淙庵『雪の降る道』に竿燈らしき行事の記述が残されている。明治・大正期には一時衰退したものの、昭和初期に地元有志により復興、戦後は秋田市の観光行事として大規模化し、現在では国内外から多数の観光客を迎える夏祭りに発展した。
+このねぶり流しの行事に、五穀豊穣を祈願する七夕の風習や、笹竹に願いを託す習わしが結びついて、竿燈まつりの独自の形が育まれていった。提灯を稲穂に、竿燈全体を実った稲の束に見立てるという発想は、農業を基盤とする秋田の暮らしから生まれたものであり、豊作への切実な願いがこの祭りの根底に息づいている。
+
+文献の上では、寛政元年（1789年）に津村淙庵が記した紀行『雪の降る道（雪の出羽路）』などに、竿燈の原型とみられる行事の記述が残されている。藩政期には秋田の町人文化として発展し、各町内が技と規模を競い合うなかで、竿燈は次第に大型化し洗練されていった。町ごとの誇りをかけた妙技の競演という性格は、この時代に形づくられたものである。
+
+明治から大正にかけては一時的に衰退した時期もあったが、昭和初期に地元有志の手によって復興が図られた。戦後には秋田市を代表する観光行事として規模を拡大し、現在では国内外から多くの観光客を迎える大祭へと発展している。眠り流しと豊作祈願という古い祈りを核としながら、時代に応じて姿を変えつつ受け継がれてきたことが、竿燈まつりの生命力を支えている。
 
 ## 見どころ
+**夜空を埋める竿燈の灯り**
+竿燈まつり最大の見どころは、夜に行われる「夜本番」である。多数の竿燈が一斉に立ち上がり、無数の提灯の灯りがゆらめきながら大通りを埋め尽くす光景は圧巻である。提灯の一つひとつに灯された火が、夏の夜風に揺れながら連なって波打つ様は、まるで黄金色に実った稲穂の海のようで、豊作を祈るこの祭りの原点を美しく体現している。
 
-最大の見どころは毎晩18:50頃から始まる「夜本番」で、約280本もの竿燈が約2万個の提灯の灯りを揺らしながら大通りを埋め尽くす光景は圧巻。差し手（さして）と呼ばれる演者が「ドッコイショ、ドッコイショ」の掛け声と共に、流し・平手・額・肩・腰の5つの技を披露する。提灯の灯りが稲穂のように揺れる姿は、五穀豊穣を象徴する原初の祈りの形を伝える。日中には「妙技会」が開催され、技の優劣を競う競技形式の演技も楽しめる。
+**差し手の妙技**
+竿燈を支えるのは「差し手」と呼ばれる演者たちである。彼らは、しなる長大な竿燈を手のひらだけで支える「流し（平手）」に始まり、額・肩・腰へと支える場所を次々に移し替えていく高度な技を披露する。バランスを取りながら重い竿燈を操る差し手の姿には、長年の鍛錬に裏打ちされた技量と度胸がにじみ、観衆を息をのませる。
+
+**継ぎ竹による高さの競演**
+竿燈は、演技の途中で「継ぎ竹」を足して竿を高く伸ばしていく。高く伸びるほど竿はしなり、支えるのが難しくなるため、差し手の技量が一層試される。風にあおられて大きくしなる竿燈をぎりぎりで支え、あるいは崩れそうになりながら立て直す緊張感は、この祭りならではのスリルであり、成功した瞬間には沿道から大きな歓声が上がる。
+
+**ドッコイショの掛け声と囃子**
+竿燈の演技は、「ドッコイショ、ドッコイショ」という掛け声と、笛・太鼓による囃子に彩られる。差し手を励まし、観衆と一体となって場を盛り上げるこの掛け声は、竿燈まつりの気分を高める欠かせない要素である。囃子の軽快なリズムと差し手の妙技、揺れる提灯の灯りが一体となって、秋田の夏の夜を熱気で包み込む。
+
+**昼の妙技会**
+夜の幻想的な演技とは趣を変え、日中には「竿燈妙技会」が開催される。これは差し手たちが技の優劣を競う競技形式の催しで、明るい昼の光のもとで一つひとつの技をじっくりと観賞できる。夜本番では見えにくい差し手の細やかな身体さばきや、竿燈を支える一瞬の集中を間近で見られるため、技そのものの奥深さを味わうことができる。
+
+**規模ごとに分かれる竿燈**
+竿燈には、大若・中若・小若・幼若といった大きさの区分があり、担い手の年齢や熟練度に応じて使い分けられる。最大の大若は長さ・重さともに堂々たるもので、これを自在に操るには相当の技量を要する。一方、小さな竿燈は子どもたちが練習を重ねる場でもあり、幼い頃から技を受け継いでいく仕組みが、この祭りの伝統を絶やさず支えている。
 
 ## 開催情報・アクセス
+- **開催地**: 秋田県秋田市の竿燈大通り（山王十字路から二丁目橋にかけての一帯）
+- **開催時期**: 毎年8月3日〜6日の4日間
+- **主な行事**: 夜本番（夜間の竿燈演技）、昼の竿燈妙技会
+- **竿燈の規模区分**: 大若・中若・小若・幼若
+- **アクセス**: JR秋田駅から徒歩約15分。期間中は交通規制・混雑が予想されるため公共交通機関の利用が推奨される
+- **観覧料**: 沿道での自由観覧は無料。有料観覧席も設けられる。具体的な日程・観覧情報は毎年主催者の発表で確認が望ましい
 
-会場は秋田県秋田市の竿燈大通り（山王十字路から二丁目橋まで約800メートル）。JR秋田駅から徒歩約15分。観覧席は有料（前売り2,700-3,500円）、自由観覧は無料。4日間で約130万人の観光客が訪れる。
+## 周辺の見どころ
+竿燈まつりの舞台となる秋田市は、久保田藩（秋田藩）の城下町として栄えた県都である。市の中心にある千秋公園は、久保田城の城跡を整備した公園で、緑豊かな園内には往時をしのばせる御隅櫓などが残る。市内には赤れんが郷土館や秋田県立美術館などの文化施設もあり、竿燈まつりの歴史的背景とあわせて、秋田の町の歩みに触れることができる。
 
-## 周辺観光
+竿燈まつりに関する展示は、「ねぶり流し館」で通年見学することができる。実物の竿燈や関連資料を通して、祭りの由来や差し手の技について学べるため、祭りの期間以外に訪れても竿燈の魅力に触れられる。祭りの背景にあるねぶり流しの信仰や、町人文化としての発展の歴史を知ることで、竿燈の演技の見え方も一層深まる。
 
-秋田市内には千秋公園（久保田城跡）、赤れんが郷土館、秋田県立美術館、ねぶり流し館（竿燈の常設展示）など歴史・文化観光資源が集中する。郊外には男鹿半島・なまはげ館、田沢湖、角館武家屋敷、乳頭温泉郷などの観光地が広がり、夏季は秋田名物・きりたんぽ、稲庭うどん、比内地鶏、地酒の蔵元巡りなど食文化も堪能できる。','## Overview
+秋田市を起点に少し足を延ばせば、なまはげで知られる男鹿半島、神秘的な湖・田沢湖、武家屋敷の町並みが残る角館、乳頭温泉郷など、秋田を代表する観光地が広がっている。きりたんぽ・稲庭うどん・比内地鶏といった秋田の食文化や、豊かな米どころならではの地酒も楽しめる。竿燈まつりを起点に、秋田の自然・歴史・食を満喫する旅へとつなげることができる。
 
-The Kantō Festival (Kantō Matsuri) is a traditional Japanese festival held annually from August 3 to 6 in Akita City, Akita Prefecture, dedicated to prayers for bountiful harvests, protection from illness, and the warding off of evil. Performers display extraordinary feats of balance using "kantō"—long bamboo poles up to 12 meters in length and 50 kilograms in weight, hung with as many as 46 paper lanterns—supporting them on their hips, foreheads, shoulders, and palms. Together with the Aomori Nebuta and Sendai Tanabata, it is counted among the "Three Great Festivals of the Tōhoku Region" and was designated as a National Important Intangible Folk Cultural Property in 1980 (Shōwa 55).
+## 関連情報
+- **開催時期**: 8月3日〜6日（夏）
+- **所在地**: 秋田県秋田市・竿燈大通り
+- **起源**: 宝暦年間（1751〜1764年）以前に遡る。眠り流しの行事「ねぶり流し」と七夕の豊作祈願が融合して成立したと伝わる
+- **見立て**: 提灯を稲穂に、竿燈全体を実った稲の束に見立て、五穀豊穣を祈願する
+- **技**: 差し手が流し（平手）・額・肩・腰へと竿燈を移す妙技。継ぎ竹で高さを競う
+- **文化財・位置づけ**: 1980年（昭和55年）国の重要無形民俗文化財に指定。青森ねぶた・仙台七夕と並ぶ「東北三大祭り」の一つ','## Overview
+The Kanto Matsuri is a summer festival representative of Akita, held in Akita City, Akita Prefecture, over four days each year from August 3 to 6, praying for an abundant harvest, freedom from illness, and protection from misfortune. It is known throughout Japan for the feat in which the sashite, the bearers, skillfully shift a long bamboo pole hung with many lanterns, called a kanto, from palm to forehead to shoulder to hip. The sight of the lights of countless lanterns swaying in the summer night sky calls to mind ripened ears of rice, and the festival gives direct form to a prayer for a bountiful harvest.
 
-## History
+The Kanto Matsuri is counted, together with the Aomori Nebuta Festival and the Sendai Tanabata Festival, among the Three Great Festivals of Tohoku, and is one of the festivals representative of summer in the Tohoku region. In 1980 it was designated an Important Intangible Folk Cultural Property of Japan. The deep charm of this festival lies in the union of the spirited display of skill and the simple faith of praying for a good harvest.
 
-The origins of the Kantō Festival are traced back to before the Hōreki era (1751-1764), when a drowsiness-dispelling ritual called "Neburi-nagashi" performed in the Akita Domain merged with the Tanabata custom of praying for bountiful harvests. During the domain administration period, the festival developed as a townspeople''s culture, with descriptions of what appears to be the kantō ritual recorded in Tsumura Sōan''s 1789 (Kansei 1) work "Yuki no Furu Michi" (The Snow-Falling Road). Although the festival declined temporarily during the Meiji and Taishō periods, it was revived in the early Shōwa era through the efforts of local volunteers. After World War II, it grew into a large-scale tourism event sponsored by Akita City, developing into the major summer festival it is today, welcoming visitors from around the world.
+## History & Origins
+The origins of the Kanto Matsuri are said to reach back before the Horeki era (1751 to 1764). Its prototype was the Neburi-nagashi, a sleep-banishing rite that drives away the drowsiness and impurity of midsummer. The custom of entrusting to lanterns and bamboo grasses the sleepiness that hinders summer farm work, and washing it away in the water, is shared throughout the Tohoku region and has the same source as the Nebuta and Neputa of Aomori. The kanto, too, is built around this sleep-banishing rite.
+
+To this Neburi-nagashi rite were joined the Tanabata custom of praying for an abundant harvest and the practice of entrusting wishes to bamboo grasses, and the distinctive form of the Kanto Matsuri was nurtured. The idea of likening the lanterns to ears of rice and the whole kanto to a sheaf of ripened rice arose from the life of Akita, founded on agriculture, and an earnest prayer for a good harvest lives at the root of this festival.
+
+In the documentary record, an event thought to be the prototype of the kanto is described in works such as the travel account Yuki no Furu Michi, written by Tsumura Soan in 1789. In the domain era it developed as the townspeople culture of Akita, and as each district competed in skill and scale, the kanto gradually grew larger and more refined. The character of a competition of feats staking the pride of each district was shaped in this era.
+
+From the Meiji into the Taisho period there was a time of temporary decline, but in the early Showa period a revival was undertaken by local volunteers. After the war it expanded in scale as a tourism event representative of Akita City, and today it has developed into a great festival welcoming many visitors from home and abroad. That it has been handed down, changing its form with the times while keeping the old prayers of sleep-banishing and the wish for a good harvest at its core, sustains the vitality of the Kanto Matsuri.
 
 ## Highlights
+**The lanterns filling the night sky**
+The greatest highlight of the Kanto Matsuri is the Yorohonban, the main evening performance. The sight of many kanto rising all at once, the lights of countless lanterns swaying as they fill the main street, is overwhelming. The way the flame lit in each lantern sways in the summer night breeze, linked together and undulating, is like a sea of golden ripened rice, beautifully embodying the origin of this festival of prayer for a good harvest.
 
-The greatest attraction is the "Yoru Honban" (Evening Performance) beginning around 18:50 each night, when approximately 280 kantō poles fill the main avenue, their roughly 20,000 lanterns swaying with light in an overwhelming spectacle. Performers called "sashite" demonstrate five techniques—Nagashi (flow), Hirate (palm), Hitai (forehead), Kata (shoulder), and Koshi (hip)—accompanied by chants of "Dokkoisho, Dokkoisho." The sight of the lantern lights swaying like ripe rice ears conveys the primitive form of prayer for bountiful harvests. During the day, "Myōgi-kai" (skill competitions) are held, allowing visitors to enjoy competitive performances where techniques are judged for excellence.
+**The feats of the sashite**
+It is the performers called sashite who support the kanto. Beginning with the Nagashi (Hirate), in which they support the long, flexing kanto on the palm alone, they display advanced feats, shifting the point of support one after another to the forehead, shoulder, and hip. In the figure of the sashite manipulating the heavy kanto while keeping their balance, the skill and nerve backed by years of training show through, taking the breath of the spectators.
 
-## Event Details and Access
+**The competition of height with added bamboo**
+During the performance the kanto is extended higher by adding tsugidake, sections of bamboo. The higher it rises, the more the pole flexes and the harder it becomes to support, so the skill of the sashite is tested all the more. The tension of supporting, at the very limit, a kanto that flexes greatly in the wind, or of righting one about to topple, is a thrill unique to this festival, and at the moment of success great cheers rise from the roadside.
 
-The venue is Kantō Ōdōri Avenue in Akita City, Akita Prefecture, extending approximately 800 meters from Sannō Crossing to Nichōme Bridge. Access is approximately 15 minutes on foot from Akita Station on the JR lines. Reserved seating is available for purchase (advance tickets 2,700-3,500 yen), while general viewing along the street is free. The four-day festival attracts approximately 1.3 million visitors.
+**The cries of Dokkoisho and the music**
+The kanto performance is colored by the cry of Dokkoisho, Dokkoisho and the music of flutes and drums. This cry, which encourages the sashite and enlivens the scene in unity with the spectators, is an indispensable element that heightens the mood of the Kanto Matsuri. The lively rhythm of the music, the feats of the sashite, and the swaying lantern lights unite to wrap the Akita summer night in fervor.
 
-## Surrounding Attractions
+**The daytime feat competition**
+Changing in character from the enchanting evening performance, in the daytime the Kanto Feat Competition is held. This is a contest in which the sashite compete in the merit of their skills, and under the bright daylight one can carefully appreciate each individual feat. Because one can see up close the fine bodily movements of the sashite and the momentary concentration of supporting the kanto, hard to see in the evening performance, one can savor the depth of the skill itself.
 
-Akita City offers a concentration of historical and cultural attractions including Senshū Park (the ruins of Kubota Castle), the Akarenga Museum of Local History, the Akita Museum of Art, and the Neburi-nagashi Hall (a permanent exhibition of kantō poles). The surrounding area features the Oga Peninsula and Namahage Museum, Lake Tazawa, the Kakunodate samurai district, and the Nyūtō Hot Spring village. Summer travelers can also enjoy Akita''s culinary specialties including kiritanpo, Inaniwa udon noodles, Hinai-jidori chicken, and tours of local sake breweries, making it a richly rewarding destination for both cultural and gastronomic exploration.','kanto-matsuri-akita','kanto-matsuri-akita',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Kanto divided by scale**
+Kanto are divided by size into owaka, chuwaka, kowaka, and yowaka, used according to the age and skill of the bearer. The largest, the owaka, is imposing in both length and weight, and manipulating it freely requires considerable skill. The smaller kanto, meanwhile, are also a place where children build up practice, and this system of passing down the skill from an early age sustains the tradition of this festival without letting it lapse.
+
+## Access & Information
+- **Location**: Kanto O-dori in Akita City, Akita Prefecture (the area from the Sanno crossroads to Nichome Bridge)
+- **Timing**: Four days each year, from August 3 to 6
+- **Main events**: The main evening performance (nighttime kanto performance) and the daytime Kanto Feat Competition
+- **Scale divisions of the kanto**: Owaka, chuwaka, kowaka, and yowaka
+- **Access**: About a 15-minute walk from JR Akita Station. Traffic restrictions and crowding are expected during the festival, so public transport is recommended.
+- **Admission**: Free viewing along the roadside; paid seating is also provided. It is advisable to confirm exact dates and viewing information each year through the organizers.
+
+## Around the Area
+Akita City, the stage of the Kanto Matsuri, is the prefectural capital that flourished as the castle town of the Kubota domain (Akita domain). Senshu Park, in the center of the city, is a park developed on the ruins of Kubota Castle, and within its green grounds remain features such as the corner turret that evoke former times. In the city are also cultural facilities such as the Akita City Folk Traditions Hall and the Akita Museum of Art, and together with the historical background of the Kanto Matsuri one can touch the history of the town of Akita.
+
+Displays concerning the Kanto Matsuri can be viewed year-round at the Neburi-nagashi Hall. Through actual kanto and related materials one can learn of the origins of the festival and the skills of the sashite, so even outside the festival period one can experience the charm of the kanto. Learning of the Neburi-nagashi faith behind the festival and of its history of development as a townspeople culture deepens one''s view of the kanto performance.
+
+Venturing a little farther from Akita City, one finds tourist sites representative of Akita, such as the Oga Peninsula known for the Namahage, the mysterious Lake Tazawa, Kakunodate with its preserved samurai residences, and the Nyuto hot spring villages. One can also enjoy Akita''s food culture, such as kiritanpo, Inaniwa udon, and Hinai jidori chicken, and the local sake unique to this rich rice country. From the Kanto Matsuri one can extend the journey to savor the nature, history, and food of Akita.
+
+## Related Information
+- **Timing**: August 3 to 6 (summer)
+- **Location**: Kanto O-dori, Akita City, Akita Prefecture
+- **Origins**: Reaching back before the Horeki era (1751 to 1764). Said to have come into being through the fusion of the Neburi-nagashi sleep-banishing rite and the Tanabata prayer for a good harvest.
+- **Symbolism**: The lanterns are likened to ears of rice and the whole kanto to a sheaf of ripened rice, in prayer for an abundant harvest.
+- **Skills**: The sashite shift the kanto from the Nagashi (Hirate) to the forehead, shoulder, and hip; height is contested by adding sections of bamboo.
+- **Cultural property and standing**: Designated an Important Intangible Folk Cultural Property of Japan in 1980; one of the Three Great Festivals of Tohoku, alongside the Aomori Nebuta and the Sendai Tanabata','kanto-matsuri-akita','kanto-matsuri-akita',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3343765','サイトウ・キネン・フェスティバル松本','Seiji Ozawa Matsumoto Festival',NULL,'annual classical music festival held in the Japanese Alps near Matsumoto',NULL,NULL,NULL,'長野県','chubu',NULL,NULL,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%BB%E3%82%AA%E3%82%B6%E3%83%AF_%E6%9D%BE%E6%9C%AC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Seiji_Ozawa_Matsumoto_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11372403','五所川原立佞武多','Goshogawara Tachineputa Festival','青森県五所川原市で開催される祭り','summer festival in Goshogawara, Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tachineputa%EF%BD%9E2007%20%22Mebukiurasaburu%22.JPG','https://ja.wikipedia.org/wiki/%E4%BA%94%E6%89%80%E5%B7%9D%E5%8E%9F%E7%AB%8B%E4%BD%9E%E6%AD%A6%E5%A4%9A','https://en.wikipedia.org/wiki/Goshogawara_Tachineputa_Festival',85,'drafted','## 五所川原立佞武多とは
 
