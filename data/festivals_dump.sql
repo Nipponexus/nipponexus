@@ -253,7 +253,7 @@ Kanda Matsuri is counted, together with the Sanno Festival and the Fukagawa Fest
 - Deities: Onamuchi-no-Mikoto, Sukunahikona-no-Mikoto, Taira no Masakado
 - Founding: traditionally 730; a history of about 1,300 years
 - Status: general guardian shrine of Edo; shogunate-sanctioned Tenka Matsuri; one of the three great festivals of Edo','kanda-matsuri','kanda-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q114712','長崎くんち','Nagasaki Kunchi','長崎市のお祭り','festival in Nagasaki, Japan','Q84028','鎮西大社諏訪神社','Suwa Shrine','長野県','chubu',32.754125,129.88211111,1634,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Jaodori%20of%20Nagasaki%20Kunchi.jpg','https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Nagasaki_Kunchi',95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q114712','長崎くんち','Nagasaki Kunchi','長崎市のお祭り','festival in Nagasaki, Japan','Q84028','鎮西大社諏訪神社','Suwa Shrine','長崎県','kyushu',32.754125,129.88211111,1634,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Jaodori%20of%20Nagasaki%20Kunchi.jpg','https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Nagasaki_Kunchi',95,'drafted','## 概要
 
 長崎くんち（ながさきくんち）は、長崎県長崎市の鎮西大社諏訪神社で毎年10月7日から9日にかけて執り行われる、諏訪神社の例大祭である。「長崎くんちの奉納踊」として国の重要無形民俗文化財に指定されており、博多おくんち（福岡県）、唐津くんち（佐賀県）と並ぶ「日本三大くんち」のひとつに数えられる。異国情緒あふれる「龍踊（じゃおどり）」「コッコデショ」「川船」など、長崎の国際性を象徴する奉納踊が最大の見どころである。
 
@@ -1472,42 +1472,114 @@ The Saijo Sakagura-dori is a historic townscape of white-plaster breweries and b
 - Predecessor: "Everyone''s Festival" (1974), developed around "sake" from 1990
 - Attendance: About 200,000 over the two days','saijo-sake-matsuri','saijo-sake-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q493695','唐津くんち','Karatsu Kunchi','佐賀県唐津市にある唐津神社の秋季例大祭','festival in Japan','Q11418639','唐津神社','Karatsu Shrine','佐賀県','kyushu',33.445171292,129.967403864,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Hikiyama.jpg','https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Karatsu_Kunchi',95,'drafted','## 概要
+唐津くんち（からつくんち）は、佐賀県唐津市の唐津神社の秋季例大祭であり、毎年11月2日から4日にかけて行われる、唐津を代表する秋の祭礼である。漆と金箔で彩られた14台の巨大な「曳山（ひきやま）」が、笛・太鼓・鉦の囃子に乗って旧城下町を勇壮に巡行する姿で全国的に知られ、約400年の歴史を誇る。国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」を構成する祭礼の一つでもある。
 
-唐津くんち（からつくんち）は、佐賀県唐津市の唐津神社の秋季例大祭で、毎年11月2日から4日にかけて開催される、約400年の歴史を持つ伝統祭礼である。14台の豪華絢爛な「曳山（ひきやま）」が城下町を巡行する勇壮な姿で全国的に知られ、1980年（昭和55年）に国の重要無形民俗文化財に指定、2016年にはユネスコ無形文化遺産「山・鉾・屋台行事」の構成要素として登録された。
+「くんち」とは九州北部で秋の収穫祭・例大祭を指す言葉で、長崎くんち・博多おくんちと並び称される。唐津くんちの最大の特色は、鯛・獅子・兜・龍・鳳凰・宝船といった多彩な題材をかたどった曳山の造形美と、それを数百人の曳き子が曳いて街を練り歩く迫力の共存にある。町人たちが競って新調してきた曳山は、唐津の富と美意識、そして共同体の誇りの結晶である。
 
-## 歴史
+## 歴史と由来
+唐津くんちは、唐津神社の秋季例大祭として営まれてきた祭りである。祭りそのものの由来は古く、江戸時代前期にはすでに秋の例大祭として行われていたと伝えられるが、現在の祭りを特徴づける豪華な曳山が登場するのは江戸時代後期のことである。収穫への感謝と地域の繁栄を願う秋祭りが、曳山という華やかな要素を得て、唐津を代表する祭礼へと発展していった。
 
-唐津くんちの起源は、寛文年間（1661-1673年）に唐津神社の秋季例大祭として始まったと伝わるが、本格的な曳山の登場は文政2年（1819年）の「赤獅子」が最古とされる。江戸後期から明治初期にかけて、唐津の町人たちが各町ごとに豪華な曳山を新調し、現在の14台体制が明治9年（1876年）の「七宝丸」をもって完成した。曳山は「武者・獅子・鯛・龍・兜・鳳凰・宝船」など多彩な題材で、漆と金箔を多用した重さ2-3トンの大型山車である。第二次世界大戦中も中断せず継承され、戦後は唐津市を代表する観光行事として規模を拡大した。
+現存する曳山のうち最古とされるのは、文政2年（1819年）に一番曳山として奉納された「赤獅子」である。以後、唐津の各町がそれぞれの誇りをかけて競うように曳山を新調し、獅子・鯛・兜・龍・鳳凰・宝船・武者など多彩な題材の曳山が次々と生み出された。そして明治9年（1876年）に奉納された「七宝丸」をもって、現在の14台の体制が整った。約60年をかけて町ごとに積み上げられた曳山群は、唐津の町人文化の到達点といえる。
+
+曳山は、木組みの骨格に和紙を幾層にも貼り重ね、漆を塗り重ねて金箔などで装飾する「一閑張り」の技法で作られている。重さは2〜3トンにも及ぶ大型のものが多く、その堅牢さと華やかさは、唐津の職人たちの高い技術に支えられている。百数十年を経た曳山が今なお現役で巡行できるのは、各町が修復と保存を絶やさず受け継いできたからにほかならない。
+
+唐津くんちは、戦乱や戦争の時代を越えて途切れることなく受け継がれてきた。その歴史的・文化的価値が認められ、1980年（昭和55年）に国の重要無形民俗文化財に指定された。さらに2016年（平成28年）には、全国各地の同種の祭礼とともにユネスコ無形文化遺産「山・鉾・屋台行事」の一つとして登録され、国際的にもその価値が認められている。町人が育て、世代を超えて守ってきた曳山の祭りは、唐津のアイデンティティそのものである。
 
 ## 見どころ
+**14台の曳山の巡行**
+唐津くんち最大の魅力は、漆と金箔に彩られた14台の曳山が一堂に会して街を巡行する光景である。赤獅子・青獅子・亀と浦島太郎・鯛・鳳凰丸・飛龍・七宝丸など、それぞれ趣向の異なる曳山が列をなして進む様は、まるで動く美術品の行列のようである。町ごとの意匠の違いを見比べながら巡行を追うのも、この祭りならではの楽しみである。
 
-最大の見どころは11月3日の「お旅所神幸」で、14台の曳山が囃子の音色に乗って唐津神社から西の浜お旅所まで約2キロを巡行する。曳山は「ヤァサーヤァサー」「エンヤーエンヤー」の掛け声と共に、500人以上の曳き子により西の浜の砂浜に勢いよく曳き込まれ、車輪が砂にめり込む中を力強く進む光景は圧巻。夜には提灯に灯りが入り、漆塗りの曳山が幻想的に浮かび上がる。11月2日の宵山、4日の町廻りも華やか。
+**お旅所神幸の曳き込み**
+祭りのクライマックスが、11月3日に行われる「お旅所神幸（おたびしょしんこう）」である。14台の曳山が唐津神社から西の浜のお旅所まで巡行し、砂地に一台ずつ勢いよく曳き込まれる。車輪が砂にめり込むなかを、数百人の曳き子が「エンヤ、エンヤ」の掛け声とともに渾身の力で曳く姿は、この祭り随一の見せ場である。重い曳山を砂の上で動かす難しさが、かえって曳き子たちの結束と迫力を際立たせる。
+
+**曳き子たちの掛け声と囃子**
+曳山を動かすのは、法被姿の曳き子たちである。「ヤッサー、ヤッサー」「エンヤ、エンヤ」といった掛け声が街に響きわたり、笛・太鼓・鉦による囃子と一体となって祭りの気分を高めていく。一台の曳山を曳くには大勢の呼吸を合わせる必要があり、掛け声はその心を一つにするためのものでもある。唐津の人々が幼い頃から親しんできた囃子の音色は、この土地の秋の記憶そのものである。
+
+**夜を彩る提灯の曳山**
+昼の勇壮さとは趣を変え、夜には曳山に提灯の灯りがともされる。漆塗りの曳山が闇のなかにほのかに浮かび上がる光景は幻想的で、昼間とはまったく異なる美しさを見せる。11月2日の宵曳山（よいやま）では、灯りをまとった曳山が街を巡り、祭りの幕開けを告げる。同じ曳山が昼と夜で二つの表情を持つことも、唐津くんちの奥深い魅力である。
+
+**一閑張りの造形美**
+間近で見る曳山は、その精緻な造形と重厚な質感に圧倒される。和紙を貼り重ねて漆で仕上げる一閑張りの技法によって生み出された曳山は、金箔や極彩色で豪華に装飾され、細部にいたるまで職人の技が息づいている。獅子の勇ましさ、鯛の躍動感、兜や宝船の意匠など、それぞれの曳山に込められた工夫と美意識を鑑賞できる。
+
+**町を挙げた祭りの継承**
+唐津くんちは、曳山を持つ各町が主体となって受け継いできた祭りである。曳山の保存・修復、囃子の稽古、祭りの運営まで、町ぐるみで担われており、子どもから大人まで世代を超えて祭りに関わる。百数十年を経た曳山が今も現役で走り続けている背景には、こうした町人の絶え間ない継承の努力がある。祭りを支える共同体の姿そのものが、唐津くんちの根幹をなす見どころである。
 
 ## 開催情報・アクセス
+- **開催地**: 佐賀県唐津市の唐津神社および唐津市中心部の旧城下町一帯
+- **開催時期**: 毎年11月2日〜4日（唐津神社の秋季例大祭）
+- **主な行事**: 宵曳山（11月2日）、お旅所神幸（11月3日・西の浜への曳き込み）、翌日祭・町廻り（11月4日）
+- **曳山の数**: 14台（各町が奉納した曳山）
+- **アクセス**: JR唐津駅から徒歩約10分。期間中は交通規制・混雑が予想されるため公共交通機関の利用が推奨される
+- **観覧料・通年展示**: 巡行の沿道観覧は無料。曳山展示場では年間を通して全14台の曳山を見学できる。具体的な日程は毎年主催者・唐津神社の発表で確認が望ましい
 
-会場は唐津神社（佐賀県唐津市南城内3-13）および唐津市中心部の旧城下町一帯。JR唐津駅から徒歩約10分。観覧は無料。3日間で約50万人の観光客が訪れる。曳山展示場では年間を通して全14台の曳山を観覧可能。
+## 周辺の見どころ
+唐津くんちの舞台となる唐津市は、玄界灘に面した肥前国北部の城下町である。市のシンボルである唐津城（舞鶴城）は海を望む高台に建ち、天守からの眺望が美しい。市内には、辰野金吾（東京駅を設計した唐津出身の建築家）の監修による旧唐津銀行など、近代建築も残り、城下町の歴史と近代の記憶が同居する町並みを楽しめる。
 
-## 周辺観光
+唐津といえば、日本三大松原の一つに数えられる「虹の松原」が名高い。玄界灘沿いに約4.5キロにわたって続く黒松の林は圧巻で、鏡山の展望台から見下ろす虹の松原と唐津湾の眺めは、この地を代表する景観である。祭りの熱気に触れたのち、雄大な自然のなかで静かなひとときを過ごすことができる。
 
-唐津市内には唐津城、旧唐津銀行（辰野金吾設計）、虹の松原（日本三大松原）、鏡山展望台などの歴史・自然観光地が集中する。郊外には呼子の朝市（イカ料理で全国的に有名）、名護屋城跡（豊臣秀吉の朝鮮出兵拠点）、玄海国定公園など、肥前国北部の歴史と海の幸を堪能できる観光資源が広がる。佐賀県内では吉野ヶ里遺跡、有田焼の里・有田町と組み合わせた周遊も人気。','## Overview
+さらに郊外へ足を延ばせば、イカの活き造りで全国的に知られる呼子（よぶこ）の朝市や、豊臣秀吉の朝鮮出兵の拠点となった名護屋城跡など、海の幸と歴史の両方を堪能できる。焼き物の里として名高い有田や、弥生時代の環濠集落・吉野ヶ里遺跡など、佐賀県内の名所と組み合わせた周遊の拠点としても、唐津は魅力的である。
 
-Karatsu Kunchi is a traditional festival with approximately 400 years of history, held annually from November 2 to 4 as the autumn grand festival of Karatsu Shrine in Karatsu City, Saga Prefecture. Renowned nationwide for the spectacular sight of 14 magnificent "hikiyama" (pulled floats) parading through the castle town, the festival was designated as a National Important Intangible Folk Cultural Property in 1980 (Shōwa 55) and registered as a constituent element of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai Float Festivals" in 2016.
+## 関連情報
+- **開催時期**: 11月2日〜4日（秋）。クライマックスのお旅所神幸は11月3日
+- **所在地**: 佐賀県唐津市・唐津神社（旧城下町一帯）
+- **起源**: 唐津神社の秋季例大祭。現存最古の曳山は文政2年（1819年）の「赤獅子」、明治9年（1876年）の「七宝丸」で現在の14台が完成
+- **曳山**: 漆と金箔で装飾した「一閑張り」の大型山車。重さ2〜3トン。鯛・獅子・兜・龍・鳳凰・宝船など多彩な題材
+- **文化財**: 1980年（昭和55年）国の重要無形民俗文化財に指定。2016年（平成28年）ユネスコ無形文化遺産「山・鉾・屋台行事」に登録
+- **「くんち」**: 九州北部で秋の例大祭を指す語。長崎くんち・博多おくんちと並び称される','## Overview
+The Karatsu Kunchi is the autumn grand festival of Karatsu Shrine in Karatsu City, Saga Prefecture, held each year from November 2 to 4, and it is the autumn festival representative of Karatsu. It is known throughout Japan for the spirited sight of fourteen enormous hikiyama floats, adorned with lacquer and gold leaf, parading through the old castle town to the music of flutes, drums, and gongs, and it boasts a history of some 400 years. It is designated an Important Intangible Folk Cultural Property of Japan and is one of the festivals that make up the UNESCO Intangible Cultural Heritage of the Yama, Hoko, and Yatai float festivals.
 
-## History
+Kunchi is a word used in northern Kyushu for an autumn harvest festival or grand festival, and the Karatsu Kunchi is spoken of alongside the Nagasaki Kunchi and the Hakata Okunchi. The greatest feature of the Karatsu Kunchi lies in the coexistence of the sculptural beauty of floats shaped as varied subjects, such as sea bream, lions, helmets, dragons, phoenixes, and treasure ships, and the power of several hundred pullers drawing them through the streets. The floats, which the townspeople competed to build anew, are the crystallization of the wealth and aesthetic sense of Karatsu and of the pride of the community.
 
-The origins of Karatsu Kunchi are believed to date back to the Kanbun era (1661-1673) as the autumn grand festival of Karatsu Shrine, though the full-scale appearance of hikiyama floats began with the "Akajishi" (Red Lion) of 1819 (Bunsei 2), the oldest extant float. From the late Edo to early Meiji periods, the townspeople of Karatsu each commissioned magnificent hikiyama for their respective districts, completing the current 14-float lineup with the "Shippōmaru" in 1876 (Meiji 9). The floats feature diverse motifs including warriors, lions, sea bream, dragons, helmets, phoenixes, and treasure ships, and are large, ornate constructions weighing 2-3 tons, generously decorated with lacquer and gold leaf. The festival continued uninterrupted even during World War II, and after the war it expanded in scale to become the signature tourism event representing Karatsu City.
+## History & Origins
+The Karatsu Kunchi has been observed as the autumn grand festival of Karatsu Shrine. The origins of the festival itself are old, and it is said to have already been held as an autumn grand festival in the early Edo period, but the gorgeous floats that characterize the present festival appeared in the late Edo period. An autumn festival praying in thanks for the harvest and for the prosperity of the region, gaining the splendid element of the floats, developed into the festival representative of Karatsu.
+
+Among the surviving floats, the oldest is held to be the Aka-jishi, the red lion, dedicated as the first float in 1819. Thereafter each district of Karatsu built floats anew, as if competing, each staking its pride, and floats of varied subjects, lions, sea bream, helmets, dragons, phoenixes, treasure ships, and warriors, were created one after another. And with the Shippomaru, dedicated in 1876, the present system of fourteen floats was completed. The group of floats, built up district by district over some sixty years, may be called the culmination of the townspeople culture of Karatsu.
+
+The floats are made by the ikkanbari technique, in which layers of Japanese paper are pasted over a wooden frame, coats of lacquer are applied, and the surface is decorated with gold leaf and the like. Many are large, weighing two to three tons, and their sturdiness and splendor are supported by the high skill of the artisans of Karatsu. That floats over a century old can still parade today is due precisely to each district having carried them on without ceasing repair and preservation.
+
+The Karatsu Kunchi has been handed down without interruption through ages of war and turmoil. In recognition of its historical and cultural value, it was designated an Important Intangible Folk Cultural Property of Japan in 1980. Furthermore, in 2016 it was registered, together with similar festivals from across the country, as one of the UNESCO Intangible Cultural Heritage of the Yama, Hoko, and Yatai float festivals, and its value is recognized internationally as well. The festival of floats, raised by townspeople and protected across generations, is the very identity of Karatsu.
 
 ## Highlights
+**The parade of the fourteen floats**
+The greatest appeal of the Karatsu Kunchi is the sight of the fourteen floats, adorned with lacquer and gold leaf, gathering together and parading through the streets. Floats of differing designs, the red lion, the blue lion, the turtle and Urashima Taro, the sea bream, the phoenix ship, the flying dragon, and the Shippomaru, advance in a line like a procession of moving works of art. Following the parade while comparing the differing designs of each district is a pleasure unique to this festival.
 
-The festival''s greatest highlight is the "Otabisho Shinkō" (Sacred Journey to the Shrine Outpost) on November 3, when all 14 hikiyama parade approximately 2 kilometers from Karatsu Shrine to the Nishi-no-Hama Otabisho. To the rhythms of festival music and accompanied by shouts of "Yāsā-Yāsā" and "Enya-Enya," more than 500 puller-children draw the floats vigorously onto the sandy beach of Nishi-no-Hama, where the wheels sink deep into the sand but are forced forward by sheer human strength—an overwhelming spectacle of communal effort. At night, lanterns are lit on the floats, causing the lacquered hikiyama to glow with magical beauty. The "Yoiyama" (Eve Festival) on November 2 and the "Machi-mawari" (Town Procession) on November 4 are also resplendent occasions.
+**The pulling-in of the Otabisho Shinko**
+The climax of the festival is the Otabisho Shinko, held on November 3. The fourteen floats parade from Karatsu Shrine to the resting place on the Nishi-no-hama beach, and are pulled vigorously, one by one, onto the sand. The sight of several hundred pullers straining with all their might to the cry of Enya, Enya, as the wheels sink into the sand, is the foremost highlight of this festival. The difficulty of moving the heavy floats over the sand, in turn, brings out the solidarity and power of the pullers.
 
-## Event Details and Access
+**The cries and music of the pullers**
+It is the pullers, clad in happi coats, who move the floats. Cries such as Yassa, Yassa and Enya, Enya resound through the streets and, uniting with the music of flutes, drums, and gongs, heighten the mood of the festival. Pulling a single float requires many people to match their breathing, and the cries also serve to make their hearts one. The music the people of Karatsu have known since childhood is the very memory of autumn in this land.
 
-The venue is Karatsu Shrine (3-13 Minami-Jōnai, Karatsu City, Saga Prefecture) and the surrounding old castle town center. Access is approximately 10 minutes on foot from Karatsu Station on the JR lines. Viewing is free of charge. The three-day festival attracts approximately 500,000 visitors. The Hikiyama Exhibition Hall allows year-round viewing of all 14 hikiyama floats.
+**The lantern-lit floats of the night**
+Changing in character from the daytime spirit, at night lanterns are lit on the floats. The scene of the lacquered floats floating faintly in the darkness is enchanting, showing a beauty entirely different from that of daytime. In the Yoiyama on the night of November 2, the lantern-clad floats parade through the streets, announcing the opening of the festival. That the same floats have two faces by day and by night is also a deep charm of the Karatsu Kunchi.
 
-## Surrounding Attractions
+**The sculptural beauty of the ikkanbari**
+Seen up close, the floats overwhelm with their intricate form and weighty texture. Produced by the ikkanbari technique of layering Japanese paper and finishing with lacquer, the floats are gorgeously decorated with gold leaf and brilliant colors, and the skill of the artisans lives in every detail. One can appreciate the ingenuity and aesthetic sense embodied in each float, the fierceness of the lion, the vigor of the sea bream, and the designs of the helmets and treasure ships.
 
-Karatsu City features a concentration of historical and natural attractions including Karatsu Castle, the former Karatsu Bank building (designed by famed architect Tatsuno Kingo), Niji-no-Matsubara (the Rainbow Pine Grove, one of Japan''s three great pine groves), and the Kagamiyama Observation Deck. The surrounding area offers Yobuko''s famous morning market (renowned nationwide for squid cuisine), the Nagoya Castle ruins (Toyotomi Hideyoshi''s base for the Korean campaigns), and the Genkai Quasi-National Park, providing rich resources for experiencing the history and seafood bounty of northern Hizen Province. Within Saga Prefecture, combined tours with the Yoshinogari archaeological site and the Arita porcelain village in Arita Town are also highly popular among visitors.','karatsu-kunchi','karatsu-kunchi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The town-wide inheritance of the festival**
+The Karatsu Kunchi is a festival handed down with the districts that own the floats as its principal bearers. From the preservation and repair of the floats to the practice of the music and the running of the festival, it is borne by the whole town, and people from children to adults take part across generations. Behind floats over a century old still running today lies this ceaseless effort of inheritance by the townspeople. The very figure of the community that sustains the festival forms the core highlight of the Karatsu Kunchi.
+
+## Access & Information
+- **Location**: Karatsu Shrine in Karatsu City, Saga Prefecture, and the old castle town in the center of Karatsu City
+- **Timing**: Each year from November 2 to 4 (the autumn grand festival of Karatsu Shrine)
+- **Main events**: The Yoiyama (November 2), the Otabisho Shinko (November 3, the pulling-in onto Nishi-no-hama), and the following-day festival and town circuit (November 4)
+- **Number of floats**: Fourteen (floats dedicated by each district)
+- **Access**: About a 10-minute walk from JR Karatsu Station. Traffic restrictions and crowding are expected during the festival, so public transport is recommended.
+- **Admission and year-round display**: Roadside viewing of the parade is free. At the Hikiyama Exhibition Hall all fourteen floats can be viewed throughout the year. It is advisable to confirm exact dates each year through the organizers and Karatsu Shrine.
+
+## Around the Area
+Karatsu City, the stage of the Karatsu Kunchi, is a castle town of northern Hizen Province facing the Genkai Sea. Karatsu Castle (Maizuru Castle), the symbol of the city, stands on a height overlooking the sea, and the view from the keep is beautiful. In the city remain works of modern architecture such as the former Karatsu Bank, supervised by Tatsuno Kingo, the Karatsu-born architect who designed Tokyo Station, and one can enjoy a townscape where the history of the castle town and the memory of the modern era coexist.
+
+Karatsu is famed for the Niji-no-Matsubara, the Rainbow Pine Grove, counted among the three great pine groves of Japan. The forest of black pines, stretching about 4.5 kilometers along the Genkai Sea, is overwhelming, and the view of the Niji-no-Matsubara and Karatsu Bay seen from the observation deck of Mount Kagami is a landscape representative of this land. After experiencing the fervor of the festival, one can spend a quiet time amid magnificent nature.
+
+Venturing farther into the outskirts, one can enjoy both seafood and history, at the morning market of Yobuko, known throughout Japan for live squid sashimi, and at the ruins of Nagoya Castle, which served as the base for Toyotomi Hideyoshi''s campaigns in Korea. As a base for a tour combined with famous sites within Saga Prefecture, such as Arita, renowned as a village of pottery, and the Yoshinogari ruins, a moated settlement of the Yayoi period, Karatsu is also appealing.
+
+## Related Information
+- **Timing**: November 2 to 4 (autumn). The climactic Otabisho Shinko is on November 3.
+- **Location**: Karatsu Shrine, Karatsu City, Saga Prefecture (the old castle town)
+- **Origins**: The autumn grand festival of Karatsu Shrine. The oldest surviving float is the Aka-jishi of 1819, and the present fourteen floats were completed with the Shippomaru of 1876.
+- **Floats**: Large floats decorated with lacquer and gold leaf by the ikkanbari technique, weighing two to three tons, with varied subjects such as sea bream, lions, helmets, dragons, phoenixes, and treasure ships
+- **Cultural property**: Designated an Important Intangible Folk Cultural Property of Japan in 1980; registered in 2016 as UNESCO Intangible Cultural Heritage among the Yama, Hoko, and Yatai float festivals
+- **Kunchi**: A word for an autumn grand festival in northern Kyushu; spoken of alongside the Nagasaki Kunchi and the Hakata Okunchi','karatsu-kunchi','karatsu-kunchi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11193613','COMITIA','COMITIA','自主制作漫画誌展示即売会','doujinshi convention in Japan','Q1359125','東京国際展示場','Tokyo Big Sight','東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/COMITIA','https://en.wikipedia.org/wiki/COMITIA',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1033843','パシフィック・ミュージック・フェスティバル','Pacific Music Festival','作曲家のレナード・バーンスタインが北海道札幌市で創設した国際教育音楽祭','an international classical music festival held annually in Sapporo, Japan',NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1990,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sapporo%20Art%20Park%20Outdoor%20Stage%20%282017%29.jpg','https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Pacific_Music_Festival',85,'drafted','パシフィック・ミュージック・フェスティバル（PMF）は、北海道札幌市で毎年7月から8月にかけて約1ヶ月間にわたって開催される国際教育音楽祭であり、世界三大教育音楽祭の一つに数えられる。20世紀を代表する指揮者・作曲家のレナード・バーンスタインが、若手音楽家育成を理念として1990年に創設し、今もその精神を継承する若き才能育成の場として国際的に高く評価されている。
 
