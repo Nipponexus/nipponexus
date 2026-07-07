@@ -2105,15 +2105,127 @@ Also, in areas where long-established doll shops handling May dolls and carp str
 ## Related Information
 
 Details on Tango no Sekku can be found in materials on various annual events and in tourism information for regional carp-streamer events. This event is one of the Five Seasonal Festivals held on May 5, a traditional Japanese annual event praying for the healthy growth and success in life of boys. Originally a Chinese-derived event for warding off evil spirits with iris and the like at the turn of the season, it developed in Japan, by way of warrior society, into an event displaying armor, helmets, and May dolls and raising carp streamers to celebrate the growth of boys. It is now widely beloved as the national holiday Children''s Day and is handed down in homes throughout the country, together with the customs of soaking in the iris bath and eating kashiwa-mochi and chimaki. Tracing the meaning carried by each custom—that iris is a homophone of esteeming the martial and of contest, that carp streamers derive from the tale of the Dragon Gate—the depth of parents'' wishes for their children, nurtured by this event over a long history, comes into view.','tango-no-sekku','tango-no-sekku',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q17222071','鳥取しゃんしゃん祭','Tottori Shan-Shan Festival','毎年8月中旬に鳥取市で開催されるイベント','a festival in Tottori, Japan',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Shanshan2013-2.jpg','https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E3%81%97%E3%82%83%E3%82%93%E3%81%97%E3%82%83%E3%82%93%E7%A5%AD','https://en.wikipedia.org/wiki/Shan-shan_festival',85,'drafted','鳥取しゃんしゃん祭（とっとりしゃんしゃんまつり）は、鳥取県鳥取市で毎年8月中旬に開催される夏祭りである。鈴のついた色鮮やかな傘を手に、大勢の踊り手が市内の大通りを一斉に踊り歩く「しゃんしゃん傘踊り」で知られ、鳥取市最大の年中行事として親しまれている。
+INSERT INTO "festivals" VALUES('Q17222071','鳥取しゃんしゃん祭','Tottori Shan-Shan Festival','毎年8月中旬に鳥取市で開催されるイベント','a festival in Tottori, Japan',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Shanshan2013-2.jpg','https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E3%81%97%E3%82%83%E3%82%93%E3%81%97%E3%82%83%E3%82%93%E7%A5%AD','https://en.wikipedia.org/wiki/Shan-shan_festival',85,'drafted','## 概要
 
-「しゃんしゃん」という名は、傘につけられた多数の鈴が、踊りに合わせて「しゃんしゃん」と涼やかな音を奏でることに由来するとされる。また、鳥取市の名湯・吉岡温泉などの豊富な湯が「しゃんしゃん」と湧き出る様にも掛けられているという。鳥取地方に古くから伝わる「因幡の傘踊り」を、誰もが参加しやすいよう近代に再構成したもので、市民総参加型の祭りとして発展してきた。
+鳥取しゃんしゃん祭は、鳥取県鳥取市で毎年8月中旬に開催される、鳥取市最大の夏祭りである。鈴のついた色鮮やかな傘を手にした数千人の踊り手が、市内中心部の大通りを一斉に舞い歩く「しゃんしゃん傘踊り」で知られ、傘踊りとしては国内最大級の規模を誇る。見物客は毎年20万人以上に達し、夏の山陰を代表する風物詩として全国に広く知られている。
 
-祭りの最大の見どころは、数千人もの踊り手が一糸乱れぬ群舞を披露する「一斉傘踊り」である。色とりどりの花笠が大通りいっぱいに広がり、鈴の音と祭囃子が街に響き渡る光景は壮観で、その規模は傘踊りとして国内最大級を誇る。手作りの花笠が織りなす華やかな光の波は、見る者を魅了する。夏の鳥取を熱く彩るしゃんしゃん祭は、市民の手で育まれてきた、躍動感あふれる現代の夏祭りである。','The Tottori Shan-Shan Festival is a summer festival held in mid-August each year in Tottori City, Tottori Prefecture. Known for the "Shan-Shan umbrella dance," in which crowds of dancers parade together down the city''s main streets holding vividly colored umbrellas fitted with bells, it is beloved as Tottori City''s largest annual event.
+祭りの中心となる「一斉傘踊り」では、約100の「連」と呼ばれる団体、総勢4,000人を超える踊り手が市内を練り歩く。色とりどりの花傘が大通りを埋め尽くし、無数の鈴が奏でる「しゃんしゃん」という涼やかな音色と祭囃子が街に響き渡る光景は圧巻である。市民が主体となって支える参加型の祭りであり、地域の一体感と躍動感にあふれた現代の夏祭りとして親しまれている。
 
-The name "Shan-Shan" is said to derive from the cool sound—"shan shan"—made by the many bells attached to the umbrellas as they move with the dance. It is also said to play on the way the abundant waters of Tottori''s famed hot springs, such as Yoshioka Onsen, gush forth with a "shan shan." It is a modern reconstruction of the "Inaba Umbrella Dance" long handed down in the Tottori region, reworked so that anyone can easily take part, and has developed as a festival of total citizen participation.
+## 歴史と由来
 
-The festival''s greatest highlight is the "mass umbrella dance," in which thousands of dancers present perfectly coordinated group dancing. The spectacle of colorful flower-umbrellas spreading across the entire main street, with the sound of bells and festival music resounding through the city, is magnificent, and its scale boasts one of the largest umbrella dances in the country. The splendid wave of light woven by handmade flower-umbrellas captivates onlookers. Ardently coloring summer in Tottori, the Shan-Shan Festival is a dynamic modern summer festival nurtured by the hands of the citizens.','tottori-shan-shan-festival','tottori-shan-shan-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+鳥取しゃんしゃん祭の直接の始まりは、1961年(昭和36年)にさかのぼる。この年、地元の聖神社・大森神社の例祭に合わせ、戦後の経済活性化を目的として「鳥取祭」というイベントが催された。当初の目玉は神輿行列と仮装行列で、当時の市長も七福神などに扮して参加したと伝わる。しかし祭りの中心が氏子のパレードに偏り、一般市民が加わる余地が少なかったため、いま一つ盛り上がりに欠けていた。この課題こそが、後の大衆参加型の祭りへと転換する契機となった。
+
+そこで注目されたのが、鳥取県東部に古くから伝わる「因幡の傘踊り」であった。1964年(昭和39年)、鳥取市庁舎の新築落成を記念して、この伝統舞踊を誰もが簡単に踊れるようアレンジした新作の傘踊り「きなんせ節」が発表された。振付を平易にすることで市民の誰もが参加できるようにした点が画期的で、翌1965年(昭和40年)の祭りから正式に採用された。この改革によって、祭りは見るものから「自ら踊るもの」へと性格を大きく変えたのである。
+
+祭りの名称もこの時に公募され、「しゃんしゃん祭」と決まった。この名には二つの由来がある。一つは鳥取駅前に湧く鳥取温泉の湯が「しゃんしゃんと湧く」こと、もう一つは傘に取り付けられた鈴が踊りに合わせて「しゃんしゃんと鳴る」ことである。温泉と鈴の音という土地に根ざした二つの響きを重ねたこの名は、鳥取の風土と祭りの活気を巧みに言い表しており、市民に親しまれる愛称として定着していった。
+
+祭りのさらなる源流をたどると、明治期に成立した「因幡の傘踊り」があり、その背景には江戸時代以前から因幡各地に伝わった雨乞いの踊りがある。旧国府町や横枕地区には、旱魃の年に農民が笠や傘を掲げて雨乞いの祈りを捧げ、やがて雨を得て豊作となったという伝承が残る。こうした切実な祈りの舞が芸能として洗練され、現代の華やかな傘踊りへと受け継がれてきた。祭りは第1回の1965年に1,000人の踊り手で始まり、1972年には4,000人を突破するなど年々規模を拡大し、今日の大祭へと成長した。
+
+## 見どころ
+
+**数千人による一斉傘踊り**
+祭り最大の見どころは、約100連・4,000人を超える踊り手が市内中心部の周回路で繰り広げる一斉傘踊りである。若桜街道や智頭街道といった目抜き通りを、色鮮やかな傘の群舞が埋め尽くす。個々の連が競い合いながらも全体として一つの大きな波を成す光景は、傘踊りとして国内最大級の迫力を持ち、訪れる人々を圧倒する。
+
+**しゃんしゃん傘の意匠**
+踊りに用いられる傘は、竹と因州和紙で作られた鳥取ならではの工芸品である。一本の傘に30個から100個ほどの鈴と、色とりどりの和紙の幣が飾られ、その色にはそれぞれ意味が込められている。一番外側の紅白は砂丘を、青は日本海を、銀は魚を、金は賑わいを表すとされ、傘の頂には雨乞いに由来する白和紙が立体的に取り付けられている。近年の傘は長さ約1.2m・直径約0.8mと扱いやすく整えられている。
+
+**鈴の音が生む祭りの音色**
+祭りの名の由来ともなった鈴の音は、しゃんしゃん祭を五感で楽しませる要素である。踊り手が傘を振るたびに無数の鈴が一斉に鳴り、その澄んだ音色が祭囃子と溶け合って街全体を包み込む。視覚的な華やかさだけでなく、耳に響く独特の音の風景こそが、この祭りを他に類のないものにしている。
+
+**すずっこ踊り**
+2006年(平成18年)からは、「すずっこ」と呼ばれる鳥取生まれの手具を用いた「すずっこ踊り」が加わった。すずっこは幅広のしゃもじ形をした朱色の板に鈴を取り付けた楽器で、掌に握って手軽に扱えるため踊りの自由度が高い。和傘の入手難や創作振付の広がりに対応して考案されたもので、より多くの世代が祭りに参加できるようになった。
+
+**四つの踊り歌**
+しゃんしゃん祭では現在、伝統の「きなんせ節」と「鳥取しゃんしゃん傘踊り」を基本踊りとし、「平成鳥取音頭」と「しゃん☆しゃん☆しゃんぐりら」を創作踊りとする四曲が踊られる。基本踊りは全連が同じ振付で舞い、創作踊りは各連が独自の振付で個性を競う。伝統と新しさが同居するこの構成が、祭りに幅広い年齢層を呼び込む工夫となっている。
+
+**市民納涼花火大会**
+祭り期間中には、千代川の河川敷で市民納涼花火大会が催される。夜空を彩る花火は、日中から続く傘踊りの熱気に一層の華を添え、祭りのクライマックスを演出する。踊りと花火が織りなす夏の夜の情景は、鳥取の短い夏を惜しむように輝き、多くの来場者の記憶に刻まれる。
+
+## 開催情報・アクセス
+
+- 開催地: 鳥取県鳥取市中心部
+- 主な会場: 若桜街道・智頭街道・片原通りの周回路(一斉傘踊り)、千代川河川敷(花火大会)
+- 開催時期: 毎年8月中旬(前夜祭・一斉傘踊り・花火大会など数日間)
+- 主催: 鳥取しゃんしゃん祭振興会
+- アクセス: JR鳥取駅から徒歩圏内(会場は駅前の中心街一帯)
+- 来場者数: 見物客20万人以上、一斉傘踊りの踊り手は約100連・4,000人超
+
+## 周辺の見どころ
+
+鳥取市を訪れたなら、日本最大級の砂丘として名高い鳥取砂丘は外せない名所である。日本海に面して広がる雄大な砂の起伏は、風によって絶えず表情を変える砂の芸術「風紋」を生み出し、しゃんしゃん傘の意匠にも取り入れられた土地の象徴である。夏の砂丘は日中の暑さが厳しいため、朝夕の穏やかな時間帯の散策が心地よい。
+
+祭りの名の由来にもなった鳥取温泉は、鳥取駅のほど近くに湧く珍しい市街地の温泉である。旅の疲れを癒すのに便利な立地で、祭りの余韻に浸りながら湯に浸かる時間は格別である。市内には飲食店や宿も集まり、傘踊りを堪能した後にゆっくりと過ごすことができる。
+
+やや足を延ばせば、鳥取砂丘に隣接する砂の美術館や、白兎神社にまつわる「因幡の白兎」の神話の舞台なども巡ることができる。山陰の海の幸を味わえる港町や、緑豊かな山間の景勝地も点在しており、しゃんしゃん祭とあわせて鳥取の自然と文化を存分に楽しむ旅程を組むことができる。
+
+## 関連情報
+
+- 開催月: 8月(中旬)
+- 都道府県・地域: 鳥取県(中国地方・山陰)
+- 起源: 1961年(昭和36年)の「鳥取祭」に始まり、1965年(昭和40年)に因幡の傘踊りを取り入れ「しゃんしゃん祭」として発展
+- 中心行事: 一斉傘踊り(約100連・4,000人超)、すずっこ踊り、市民納涼花火大会
+- 記録: 2014年(平成26年)第50回に「世界最大の傘踊り」としてギネス世界記録に認定
+- 由来の芸能: 明治期成立の因幡の傘踊り(江戸期以前の雨乞い踊りが源流)','## Overview
+
+The Tottori Shan Shan Festival is the largest summer festival in Tottori City, Tottori Prefecture, held every year in mid-August. It is famous for the Shan Shan Umbrella Dance, in which thousands of dancers holding colorful umbrellas fitted with bells parade through the main streets of the city center in unison, forming what is counted among the largest umbrella dances in Japan. Drawing more than 200,000 spectators each year, it is widely known as a defining summer spectacle of the San''in region.
+
+At the heart of the festival is the grand simultaneous umbrella dance, in which some 100 groups known as ren, totaling more than 4,000 dancers, make their way through the city. Colorful decorated umbrellas fill the main avenues, and the cool ringing of countless bells, blending with festival music, resounds throughout the streets in a truly overwhelming sight. Sustained chiefly by the citizens themselves, it is a participatory festival cherished as a modern summer celebration brimming with community unity and dynamic energy.
+
+## History and Origins
+
+The direct beginnings of the Tottori Shan Shan Festival date back to 1961. That year, in step with the annual rites of the local Hijiri Shrine and Omori Shrine, an event called the Tottori Festival was held to stimulate the postwar economy. Its original centerpieces were a portable-shrine procession and a costume parade, and it is said that the mayor of the day took part dressed as one of the Seven Lucky Gods. However, because the festival leaned toward a parade of shrine parishioners with little room for ordinary citizens to join, it lacked excitement. This very shortcoming became the catalyst for its transformation into a festival of mass participation.
+
+What drew attention was the Inaba Umbrella Dance, a folk dance long handed down in eastern Tottori Prefecture. In 1964, to commemorate the completion of the new Tottori City Hall, a newly arranged umbrella dance called Kinanse-bushi was unveiled, adapting this traditional dance so that anyone could perform it easily. Simplifying the choreography so that any citizen could take part was groundbreaking, and it was formally adopted from the following year''s festival in 1965. This reform greatly changed the character of the festival, turning it from something to watch into something to dance oneself.
+
+The name of the festival was also chosen by public solicitation at this time, settling on Shan Shan Festival. The name has two origins. One is that the waters of Tottori Onsen, welling up in front of Tottori Station, are said to bubble up shan shan; the other is that the bells attached to the umbrellas ring shan shan in time with the dance. Layering these two sounds rooted in the land, the hot spring and the bells, the name deftly expresses the character of Tottori and the vitality of the festival, and it took hold as a beloved name among the citizens.
+
+Tracing the festival''s deeper source leads to the Inaba Umbrella Dance established in the Meiji era, behind which lie rain-praying dances handed down across the Inaba region since before the Edo period. In areas such as the former Kokufu district and the Yokomakura district, traditions remain of farmers in years of drought raising up sedge hats and umbrellas to offer prayers for rain, eventually gaining rain and a bountiful harvest. Such earnest dances of prayer were refined into performing art and passed down into today''s gorgeous umbrella dance. Beginning with 1,000 dancers at the first festival in 1965, participation grew year by year, surpassing 4,000 by 1972, and the festival grew into the great celebration it is today.
+
+## Highlights
+
+**The Simultaneous Umbrella Dance of Thousands**
+The greatest attraction is the simultaneous umbrella dance, in which more than 4,000 dancers in some 100 groups perform along a circuit through the city center. Colorful groups of umbrellas fill main streets such as Wakasa-kaido and Chizu-kaido. The sight of individual groups vying with one another while together forming one great wave carries a power counted among the largest umbrella dances in Japan, overwhelming all who come to watch.
+
+**The Design of the Shan Shan Umbrella**
+The umbrellas used in the dance are craft objects unique to Tottori, made of bamboo and Inshu washi paper. Each umbrella is adorned with roughly 30 to 100 bells and colorful paper streamers, each color carrying its own meaning. The outermost red and white are said to represent the sand dunes, blue the Sea of Japan, silver the fish, and gold prosperity, while at the top of the umbrella white paper derived from rain-praying rites is mounted three-dimensionally. Recent umbrellas are made easy to handle, about 1.2 meters long and 0.8 meters in diameter.
+
+**The Soundscape Created by the Bells**
+The ringing of the bells, which gave the festival its very name, is an element that lets visitors enjoy the Shan Shan Festival with all their senses. Each time a dancer waves an umbrella, countless bells ring out at once, and their clear tone melds with the festival music to envelop the whole town. Beyond visual splendor, it is precisely this distinctive soundscape reaching the ear that makes this festival unlike any other.
+
+**The Suzukko Dance**
+From 2006, the Suzukko Dance, using a hand-held implement called a suzukko born in Tottori, was added. The suzukko is an instrument shaped like a broad rice paddle in vermilion with bells attached, and because it can be held in the palm and handled with ease, it allows great freedom of movement. Devised in response to the difficulty of obtaining paper umbrellas and the spread of original choreography, it enabled a wider range of generations to join the festival.
+
+**Four Dance Songs**
+Today the Shan Shan Festival features four songs: the traditional Kinanse-bushi and Tottori Shan Shan Umbrella Dance as basic dances, and Heisei Tottori Ondo and Shan Shan Shangri-la as original dances. In the basic dances all groups dance with the same choreography, while in the original dances each group competes with its own choreography to express its individuality. This blend of tradition and novelty is a device that draws a wide range of ages to the festival.
+
+**The Citizens'' Evening Fireworks**
+During the festival, a citizens'' evening fireworks display is held on the riverbed of the Sendai River. The fireworks coloring the night sky add still greater brilliance to the heat of the umbrella dance carried over from the day, staging the climax of the festival. The scene of the summer night woven by dance and fireworks shines as if to savor Tottori''s short summer, engraving itself in the memory of many visitors.
+
+## Event Information and Access
+
+- Location: Central Tottori City, Tottori Prefecture
+- Main venues: The circuit along Wakasa-kaido, Chizu-kaido, and Katahara-dori (simultaneous umbrella dance); the Sendai River riverbed (fireworks display)
+- Dates: Mid-August every year (over several days, including an eve festival, the simultaneous umbrella dance, and the fireworks display)
+- Organizer: The Tottori Shan Shan Festival Promotion Association
+- Access: Within walking distance of JR Tottori Station (venues cover the central district in front of the station)
+- Scale: More than 200,000 spectators; the simultaneous umbrella dance involves some 100 groups and over 4,000 dancers
+
+## Nearby Attractions
+
+For anyone visiting Tottori City, the Tottori Sand Dunes, renowned as among the largest sand dunes in Japan, are an essential sight. The majestic undulations of sand spreading along the Sea of Japan give rise to the sand art of wind ripples, ever changing their expression with the wind, a symbol of the land that was even incorporated into the design of the shan shan umbrella. Because the summer dunes grow intensely hot during the day, a stroll in the calmer hours of morning or evening is most pleasant.
+
+Tottori Onsen, which even gave the festival its name, is an unusual hot spring welling up in the city center, close to Tottori Station. Conveniently located for easing the fatigue of travel, it offers a special chance to soak in the waters while lingering in the afterglow of the festival. Restaurants and lodgings gather in the city, allowing visitors to relax at leisure after enjoying the umbrella dance.
+
+A little farther afield, one can visit the Sand Museum adjoining the dunes, or the setting of the myth of the White Hare of Inaba associated with Hakuto Shrine. Port towns where the seafood of San''in can be savored and scenic mountain spots rich in greenery are also scattered about, making it possible to plan an itinerary that fully enjoys the nature and culture of Tottori alongside the Shan Shan Festival.
+
+## Related Information
+
+- Month held: August (mid-month)
+- Prefecture and region: Tottori Prefecture (Chugoku region, San''in area)
+- Origins: Beginning with the Tottori Festival of 1961, it developed as the Shan Shan Festival after adopting the Inaba Umbrella Dance in 1965
+- Central events: The simultaneous umbrella dance (some 100 groups, over 4,000 dancers), the Suzukko Dance, and the citizens'' evening fireworks
+- Record: Recognized by Guinness World Records as the largest umbrella dance in the world at the 50th festival in 2014
+- Source art form: The Inaba Umbrella Dance established in the Meiji era (originating in rain-praying dances from before the Edo period)','tottori-shan-shan-festival','tottori-shan-shan-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16642915','土用の丑の日','Midsummer Day of the Ox','土用の時期中で、十二支が丑に当たる日','Day of the Japanese calendar',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%94%A8%E3%81%AE%E4%B8%91%E3%81%AE%E6%97%A5','https://en.wikipedia.org/wiki/Midsummer_Ox_Day',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16909481','SUPER ROCK ''85 IN JAPAN','Super Rock ''85 in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/SUPER_ROCK_%2785_IN_JAPAN','https://en.wikipedia.org/wiki/Super_Rock_%2785_in_Japan',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3610588','ひろしまフラワーフェスティバル','Hiroshima Flower Festival','広島県広島市で開催される祭り','annual Flower Festival in Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1977,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hana-no-to2.jpg','https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Hiroshima_Flower_Festival',85,'drafted','## 概要
