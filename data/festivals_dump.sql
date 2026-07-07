@@ -12622,15 +12622,113 @@ The area around Senso-ji is one of Tokyo''s premier sightseeing districts. Beyon
 ## Related Information
 The Tokyo Jidai Matsuri adapts the "period procession" format, represented by Kyoto''s Jidai Matsuri, to the stage of Asakusa in Tokyo. While it shares with such festivals the idea of reenacting history through a procession, its distinctiveness lies in foregrounding the character of Asakusa—where the popular culture of Edo flourished—by making use of the gate-front setting of Senso-ji, one of Tokyo''s oldest temples. With its new starting point in the first year of Heisei yet carrying the long history of Asakusa on its shoulders, the festival can be seen as one of the ways an old temple town continues to express its heritage to citizens and visitors alike.','tokyo-jidai-matsuri','tokyo-jidai-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11482696','平川ねぷた','Hirakawa Neputa','青森県平川市の祭り',NULL,NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,2006,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B7%9D%E3%81%AD%E3%81%B7%E3%81%9F',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11509924','日田祇園祭','Hita Gion Festival','大分県日田市で行われる神事',NULL,'Q11391826','八阪神社','Mameda Yasaka Shrine','大分県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20fesutebaru%20Hita%20Oita%20Japan%202.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,85,'drafted','日田祇園祭（ひたぎおんさい）は、大分県日田市で毎年7月に行われる祇園祭礼で、隈・竹田地区の隈八坂神社と豆田地区の豆田八阪神社を中心に営まれる、約300年の歴史を持つ伝統行事である。京都の祇園祭の流れを汲み、疫病退散と無病息災を祈願する夏の祭りとして、九州を代表する祇園祭の一つに数えられる。
+INSERT INTO "festivals" VALUES('Q11509924','日田祇園祭','Hita Gion Festival','大分県日田市で行われる神事',NULL,'Q11391826','八阪神社','Mameda Yasaka Shrine','大分県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20fesutebaru%20Hita%20Oita%20Japan%202.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,85,'drafted','日田祇園祭（ひたぎおんまつり）は、大分県日田市で行われる曳山（山鉾）を伴う厄除けの神事である。京都の祇園祭を手本とした祇園祭のひとつで、豆田地区の豆田八阪神社、隈地区の隈八坂神社、竹田地区の竹田若八幡宮の三社で営まれる。約300年にわたって受け継がれてきた日田の夏を代表する伝統行事であり、絢爛豪華な山鉾が祇園囃子の音色とともに市中を巡行する。
 
-祭りの主役は、勇壮華麗な山鉾(やまほこ)である。豪華な飾り幕や見送り幕で彩られた高さ10メートル前後の山鉾が、日田の城下町・天領の面影を残す町並みを巡行する。日中の「晩山(ばんやま)」では絢爛な飾りが映え、夜には数百個の提灯で飾られた「ヤマ」が灯りをともして練り歩く「集団顔見世」が行われ、闇に浮かぶ幻想的な光景が観衆を魅了する。
+祭りの中心となる曳山行事は、毎年7月20日過ぎの土日に行われる。疫病や風水害を払い、地域の安泰を祈念するこの祭りは、1996年（平成8年）に国の重要無形民俗文化財に指定され、2016年（平成28年）には「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録された。九州の博多祇園山笠や唐津くんちと並ぶ、日本を代表する曳山祭のひとつである。
 
-日田は江戸時代に幕府の直轄地「天領」として栄え、九州各地の物資が集まる商都であった。その豊かな経済力を背景に発展した山鉾の文化は、2016年に「日田祇園の曳山行事」として「山・鉾・屋台行事」の一つにユネスコ無形文化遺産へ登録された。水郷・日田の夏を彩るこの祭りは、九州内陸部の歴史と祭礼文化の豊かさを今に伝えている。','The Hita Gion Festival is a Gion festival held every July in Hita, Ōita Prefecture, centered on Kuma Yasaka Shrine in the Kuma-Takeda district and Mameda Yasaka Shrine in the Mameda district. A traditional event with around 300 years of history, it descends from Kyoto''s Gion Festival and is held as a summer festival praying for the dispelling of plague and good health—ranking among the representative Gion festivals of Kyūshū.
+## 歴史と由来
 
-The stars of the festival are its magnificent and ornate float-towers (yamahoko). Standing around 10 meters tall and adorned with lavish hanging curtains, the yamahoko parade through streets that still retain the atmosphere of Hita''s castle town and its days as shogunate territory. During the daytime "banyama," the splendid decorations shine brilliantly, while at night the "shūdan kao-mise" is held, in which the floats, decorated with hundreds of lanterns, parade aglow—creating a fantastical scene that captivates spectators.
+日田祇園祭の起源は約400年前にさかのぼる。かつて日隈城内にあった八坂神社が、日隈城の廃城にともなって現在の隈・寺町付近へ移され、その後この地で厄除けの神事が行われるようになったことに始まると伝えられる。祇園社の祭神は牛頭天王（素戔嗚尊）で、悪疫を鎮める荒神として信仰され、疫病退散を願う祇園信仰が祭りの根底にある。
 
-In the Edo period, Hita flourished as tenryō, territory directly governed by the shogunate, and served as a commercial hub where goods from across Kyūshū gathered. The culture of yamahoko that developed against this backdrop of economic prosperity was registered in 2016 as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan," under the name "Hita Gion float festival." Coloring summer in the riverside city of Hita, this festival conveys the richness of history and festival culture in inland Kyūshū.','hita-gion-festival','hita-gion-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+曳山（山鉾）の巡行は、江戸時代前期の寛文年間（1660年〜1672年）頃には、すでに杉の葉枝などを盛り幕で飾った曳山を太鼓で囃して巡行していたことが、地元の古文書に記録されている。素朴な曳山が、やがて豪華な山鉾へと発展していく素地が、この時期にすでに整っていたことがうかがえる。
+
+江戸時代中期の正徳4年（1714年）、南条代官の時代に、京都の祇園山・鉾を手本として本格的な山鉾が造られるようになった。これにより日田祇園の山鉾は、単なる地方の曳山から、京都祇園祭の様式を取り入れた華麗な祭礼装置へと姿を変えた。以来、日田の町人文化のなかで山鉾は磨き上げられ、独自の発展を遂げていった。
+
+その価値は近代以降、段階的に公的に認められてきた。1972年（昭和47年）に日田市の無形文化財、1984年（昭和59年）に大分県の無形民俗文化財、そして1996年（平成8年）に「日田祇園の曳山行事」として国の重要無形民俗文化財に指定された。さらに2016年（平成28年）、全国33件の「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録され、その伝統は世界的にも認められた。
+
+## 見どころ
+
+**絢爛豪華な山鉾の巡行**　日田祇園祭最大の見どころは、9基（旧上横町を含め計10基が現存）の山鉾が市中を巡行する光景である。岩山に滝や流水、屋形、造花、人形などを立体的に配し、背後には伝説上の動物や人物を刺繍した赤い「見送り幕」を掛けた山鉾は、歌舞伎の演目などを題材に趣向を凝らした華やかさで観衆を魅了する。
+
+**明笛に由来する独特の祇園囃子**　日田祇園の囃子は、篠笛を主旋律に太鼓・小太鼓・三味線で構成される。文化年間に長崎で明笛（みんてき）を習得した人物が祇園囃子として用いたのが始まりとされ、竹紙を貼った明笛は京祇園の笛とは異なり、内にこもったような独特の音色を奏でる。江戸中期から大正までの俗曲を元にした30数曲が伝わる。
+
+**JR日田駅前の集団顔見世**　曳山本番に先立ち、各地区の山鉾がJR日田駅前に一堂に会する「集団顔見世」が行われる。1989年（平成元年）から始まったこの行事は、巡行の安全を確かめる「流れ曳き」を利用したもので、豆田・隈・竹田の各地区の山鉾がそろい踏みする様子は、祭りの開幕を告げる華やかな見どころとなっている。
+
+**川で行う神輿洗いの神事**　山鉾巡行の1週間前の土曜深夜には「神輿洗い」が営まれる。町内に疫をもたらす神を荒神神輿に引き連れ、川で禊を行うこの神事は、疫病退散を願う祇園祭の本義をよく表している。華やかな曳山行事の背後にある、厳かな祈りの側面を伝える所作である。
+
+**提灯を灯した幻想的な晩山（宵山）**　夜には、いくつもの提灯を取り付けた山鉾が巡行する「晩山（宵山）」が行われる。昼間の絢爛たる山鉾とは趣を変え、無数の提灯に照らされて闇に浮かぶ山鉾の姿は幻想的で、夏の夜の日田を情緒豊かに彩る。昼と夜で異なる山鉾の表情を楽しめるのも、この祭りの魅力である。
+
+**ユネスコ無形文化遺産としての価値**　日田祇園祭は、山鉾の構造や飾り、囃子、担ぎ手の所作に至るまで、約300年にわたって受け継がれてきた伝統を今に伝える。博多祇園山笠・唐津くんちなどとともに「山・鉾・屋台行事」としてユネスコ無形文化遺産に登録された、日本の曳山文化を代表する祭りとして、その一つひとつの所作に歴史の重みが宿っている。
+
+## 開催情報
+
+- 開催地：大分県日田市
+- 会場：豆田地区（豆田八阪神社）・隈地区（隈八坂神社）・竹田地区（竹田若八幡宮）
+- 開催時期：毎年7月20日過ぎの土曜・日曜（曳山行事本番）。集団顔見世は巡行前に実施
+- 主な行事：山鉾巡行、集団顔見世、神輿洗い、流れ曳き、晩山（宵山）
+- アクセス：JR久大本線・日田駅から徒歩圏
+- 観覧：観覧無料。※日程・内容は変更となる場合がある
+
+## 周辺の見どころ
+
+日田市豆田町は、江戸時代に幕府直轄地（天領）として栄えた商家町で、国の重要伝統的建造物群保存地区に選定されている。白壁や格子の商家、造り酒屋などが立ち並ぶ町並みは往時の繁栄を今に伝え、日田祇園祭の舞台のひとつであるとともに、祭りの時期以外にも散策を楽しめる歴史空間である。
+
+日田祇園山鉾会館では、隈・竹田地区の山鉾4基、平成山鉾、旧上横町の山鉾など計6基が常時展示されている。祭りの当日でなくても、巨大な山鉾の細部や見送り幕の刺繍をじっくりと鑑賞でき、日田祇園の曳山文化を深く知ることができる施設である。
+
+日田は「水郷（すいきょう）日田」と呼ばれる水の町で、三隈川（筑後川上流）が町を潤す。夏には鵜飼や屋形船が楽しめ、豊かな水と山に囲まれた盆地の風土が独特の文化を育んできた。天ケ瀬温泉をはじめとする温泉地も近く、祭りの見物とあわせて日田の自然と歴史を巡る旅の拠点となる。
+
+## 関連情報
+
+- 開催月：7月（夏）
+- 所在地：大分県日田市（九州地方）
+- 起源：約400年前に八坂神社が移されて厄除け神事が始まり、正徳4年（1714年）に京都を手本とした本格的な山鉾が成立
+- 文化財：1996年 国重要無形民俗文化財／2016年 ユネスコ無形文化遺産「山・鉾・屋台行事」
+- 御祭神：牛頭天王（素戔嗚尊）＝悪疫鎮護の神
+- 規模：現存する山鉾は計10基（巡行は9基）
+','The Hita Gion Festival is a rite for warding off misfortune, accompanied by pulled floats (yamahoko), held in Hita City, Oita Prefecture. One of the Gion festivals modeled on the Gion Festival of Kyoto, it is conducted at three shrines: Mameda Yasaka Shrine in the Mameda district, Kuma Yasaka Shrine in the Kuma district, and Takeda Wakahachimangu Shrine in the Takeda district. A traditional event representative of summer in Hita, handed down for about 300 years, it features gorgeous floats parading through the town to the sound of Gion music.
+
+The float-pulling that forms the heart of the festival is held every year on the Saturday and Sunday after July 20. This festival, which prays to drive away plague and wind-and-flood disasters and to secure the peace of the region, was designated an Important Intangible Folk Cultural Property of Japan in 1996, and in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the Yama, Hoko, Yatai float festivals. It is one of Japan''s representative float festivals, ranking with the Hakata Gion Yamakasa and the Karatsu Kunchi of Kyushu.
+
+## History and Origins
+
+The origins of the Hita Gion Festival reach back about 400 years. It is said to have begun when Yasaka Shrine, once located within Hinokuma Castle, was moved to the present area of Kuma and Teramachi upon the abolition of the castle, after which rites for warding off misfortune came to be held in this place. The deity of the Gion shrine is Gozu Tenno (Susanoo-no-mikoto), revered as a fierce deity who quells pestilence, and the Gion faith praying for the expulsion of plague lies at the foundation of the festival.
+
+Local old documents record that by around the Kanbun era (1660-1672) of the early Edo period, pulled floats heaped with cedar branches and decorated with curtains were already being paraded to the accompaniment of drums. This shows that the groundwork for simple floats to develop in time into gorgeous yamahoko was already in place during this period.
+
+In 1714 (Shotoku 4), in the middle of the Edo period, in the time of the Nanjo magistrate, full-scale yamahoko came to be built modeled on the Gion floats and halberds of Kyoto. Through this, the floats of Hita Gion changed from mere provincial pulled floats into splendid festival apparatus incorporating the style of the Kyoto Gion Festival. Ever since, the floats have been refined within the townspeople''s culture of Hita and have achieved a distinctive development.
+
+Its value has been officially recognized in stages since the modern era. It was designated an Intangible Cultural Property of Hita City in 1972, an Intangible Folk Cultural Property of Oita Prefecture in 1984, and in 1996 an Important Intangible Folk Cultural Property of Japan as the Float Event of Hita Gion. Furthermore, in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the thirty-three nationwide Yama, Hoko, Yatai float festivals, so that its tradition came to be recognized internationally as well.
+
+## Highlights
+
+**The parade of gorgeous floats**　The greatest highlight of the Hita Gion Festival is the sight of nine floats (with ten in existence including the old Kamiyokocho float) parading through the town. On a rocky-mountain base are arranged waterfalls, flowing water, pavilions, artificial flowers, and figures in three dimensions, and behind is hung a red mikuri-maku curtain embroidered with legendary animals and figures. Drawing on themes such as kabuki plays, the floats captivate the crowds with their elaborate splendor.
+
+**The distinctive Gion music derived from the minteki**　The music of Hita Gion is composed of the shinobue flute as the main melody, together with drum, small drum, and shamisen. It is said to have begun when a person who had learned the minteki (a Chinese flute) in Nagasaki during the Bunka era used it as Gion music, and the minteki, pasted with bamboo membrane, produces a distinctive muffled tone unlike the flute of Kyoto Gion. More than thirty pieces based on popular songs from the mid-Edo period to the Taisho era have been handed down.
+
+**The group preview in front of JR Hita Station**　Ahead of the main float-pulling, a group preview is held in which the floats of each district gather together in front of JR Hita Station. This event, begun in 1989, makes use of the nagarebiki trial pull that confirms the safety of the parade, and the sight of the floats of the Mameda, Kuma, and Takeda districts lined up together is a splendid highlight announcing the opening of the festival.
+
+**The portable shrine washing rite performed in the river**　Late on the Saturday one week before the float parade, the mikoshi-arai (portable shrine washing) is performed. In this rite, the deity that brings plague to the town is led away in a fierce-deity portable shrine and purified in the river, well expressing the true meaning of a Gion festival praying for the expulsion of plague. It conveys the solemn aspect of prayer that lies behind the gorgeous float event.
+
+**The fantastical evening floats lit by lanterns**　At night, the banyama (evening floats) are paraded, with the floats fitted with numerous lanterns. Different in character from the gorgeous floats of daytime, the figures of the floats floating in the darkness lit by countless lanterns are fantastical, coloring the summer night of Hita with rich atmosphere. Being able to enjoy the different faces of the floats by day and by night is also an appeal of this festival.
+
+**Value as a UNESCO Intangible Cultural Heritage**　The Hita Gion Festival conveys to the present a tradition handed down over about 300 years, down to the structure and decoration of the floats, the music, and the movements of the bearers. As a festival representative of Japan''s float culture, inscribed on the UNESCO Intangible Cultural Heritage list as a Yama, Hoko, Yatai float festival together with the Hakata Gion Yamakasa and Karatsu Kunchi, the weight of history dwells in each and every one of its acts.
+
+## Event Information
+
+- Location: Hita City, Oita Prefecture
+- Venues: Mameda district (Mameda Yasaka Shrine), Kuma district (Kuma Yasaka Shrine), Takeda district (Takeda Wakahachimangu Shrine)
+- Dates: The Saturday and Sunday after July 20 each year (the main float event); the group preview is held before the parade
+- Main events: Float parade, group preview, portable shrine washing, trial pull, evening floats
+- Access: Within walking distance of Hita Station on the JR Kyudai Main Line
+- Admission: Free to view. Note that dates and details may change.
+
+## Around the Area
+
+The Mameda district of Hita City is a merchant town that flourished in the Edo period as a territory directly controlled by the shogunate (tenryo), and it is designated an Important Preservation District for Groups of Traditional Buildings. The townscape, lined with white-walled and lattice merchant houses and sake breweries, conveys the prosperity of former days, and as one of the stages of the Hita Gion Festival it is also a historical space to enjoy strolling in outside the festival season.
+
+At the Hita Gion Float Museum, a total of six floats are on permanent display, including the four floats of the Kuma and Takeda districts, the Heisei float, and the old Kamiyokocho float. Even outside the festival day, one can carefully admire the details of the giant floats and the embroidery of the mikuri-maku curtains, at a facility where one can gain a deep understanding of the float culture of Hita Gion.
+
+Hita is a town of water known as Suikyo Hita, watered by the Mikuma River (the upper reaches of the Chikugo River). In summer one can enjoy cormorant fishing and pleasure boats, and the climate of a basin surrounded by abundant water and mountains has nurtured a distinctive culture. Hot spring areas such as Amagase Onsen are also nearby, making it a base for a journey touring the nature and history of Hita together with viewing the festival.
+
+## Related Information
+
+- Month: July (summer)
+- Location: Hita City, Oita Prefecture (Kyushu region)
+- Origins: Rites for warding off misfortune began about 400 years ago when Yasaka Shrine was moved; full-scale floats modeled on Kyoto were established in 1714 (Shotoku 4)
+- Cultural property: Important Intangible Folk Cultural Property of Japan (1996); UNESCO Intangible Cultural Heritage, Yama, Hoko, Yatai float festivals (2016)
+- Enshrined deity: Gozu Tenno (Susanoo-no-mikoto), a deity who quells pestilence
+- Scale: A total of ten floats survive (nine parade)
+','hita-gion-festival','hita-gion-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11489206','御燈祭','Otō Matsuri','和歌山県新宮市の神倉神社の例祭',NULL,'Q11588748','神倉神社','Kamikura Shrine','和歌山県','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/518wakayama-Kumano%20Oto%20Festival-xl.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%87%88%E7%A5%AD',NULL,85,'drafted','御燈祭（おとうまつり）は、和歌山県新宮市の神倉神社で毎年2月6日に斎行される勇壮な火祭りである。世界遺産「紀伊山地の霊場と参詣道」を構成する熊野速玉大社の摂社・神倉神社を舞台とし、急峻な石段で知られるご神体「ゴトビキ岩」のもとに、白装束に荒縄を腰に巻いた「上り子（のぼりこ）」と呼ばれる男たちが集う。
 
 祭りの起源は古く、熊野信仰の歴史とともに千年以上にわたって受け継がれてきたと伝えられる。上り子は数日前から精進潔斎し、当日は松明を手にして神倉神社の社殿前に集結する。神火が松明に移されると、約500段に及ぶ急な石段を、無数の炎が滝のように流れ下る。その光景は「下り龍」とも呼ばれ、闇夜に火の帯が連なる様は圧巻である。
