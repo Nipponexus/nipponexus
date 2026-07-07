@@ -11993,15 +11993,127 @@ INSERT INTO "festivals" VALUES('Q21654797','道饗祭','Michiae no matsuri',NULL
 INSERT INTO "festivals" VALUES('Q30925230','夏山八幡宮火祭り','Natsuyama Fire Festival',NULL,NULL,'Q11429969','夏山八幡宮','Natsuyama Hachimangu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%8F%E5%B1%B1%E5%85%AB%E5%B9%A1%E5%AE%AE%E7%81%AB%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28682646','ぎおん柏崎まつり','Gion Kashiwazaki Matsuri',NULL,'festival','Q633983','柏崎市','Kashiwazaki',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8E%E3%81%8A%E3%82%93%E6%9F%8F%E5%B4%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24867306','寄居玉淀水天宮祭','Yoriitamayodosuitennguu Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AF%84%E5%B1%85%E7%8E%89%E6%B7%80%E6%B0%B4%E5%A4%A9%E5%AE%AE%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q28686206','尾張津島秋まつり','Owari Tsushima Autumn Festival','愛知県津島市にて行われる祭',NULL,NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Owari%20Tsushima%20autumn%20festival1.jpg','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','尾張津島秋まつり（おわりつしまあきまつり）は、愛知県津島市で毎年10月に行われる祭礼である。津島神社を中心とした津島の町に伝わる祭りで、夏の「尾張津島天王祭」と並ぶ津島の二大祭りの一つとして、地域の人々に親しまれている秋の祭礼である。
+INSERT INTO "festivals" VALUES('Q28686206','尾張津島秋まつり','Owari Tsushima Autumn Festival','愛知県津島市にて行われる祭',NULL,NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Owari%20Tsushima%20autumn%20festival1.jpg','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
 
-この祭りの最大の見どころは、各町内から繰り出される豪華絢爛な「山車(だし)」である。精巧な彫刻や金箔で飾られた山車の上では、糸操りによって人形が舞い、文字を書くなどの妙技を披露する「からくり人形」が奉納される。江戸時代から続く職人の技が生み出すからくりの動きは精巧かつ優美で、見る者を楽しませる。山車が津島の町を巡行する様は、城下町の秋を華やかに彩る。
+尾張津島秋まつりは、愛知県津島市で毎年10月に行われる秋の祭礼である。津島神社を中心とする津島の町に伝わる祭りで、からくり人形を乗せた豪華な山車と、鉦や太鼓を打ち鳴らす石取祭車が町を巡行・競演する。夏の「尾張津島天王祭」と並ぶ津島の二大祭りの一つに数えられ、地域の人々に長く親しまれてきた行事である。
 
-津島は、津島神社の門前町・港町として古くから栄えた歴史を持ち、織田信長をはじめとする戦国武将からの崇敬も篤かった。尾張津島秋まつりは、こうした津島の豊かな歴史と文化を背景に育まれた祭りである。からくり人形という日本独特の機巧文化を今に伝えるこの祭りは、尾張地方の秋を代表する伝統行事として、地域の誇りとともに受け継がれている。','The Owari Tsushima Autumn Festival is a festival held every October in Tsushima, Aichi Prefecture. Handed down in the town of Tsushima centered on Tsushima Shrine, it is beloved by local people as one of Tsushima''s two great festivals, alongside the summer "Owari Tsushima Tennō Festival"—an autumn celebration.
+約300年前から続くとされるこの祭りでは、七切・今市場・向島・神守の四地区で受け継がれてきた山車行事が繰り広げられる。かつては各地区が別々の日に祭礼を営んでいたが、現在は10月第1日曜日とその前日の土曜日に合わせて行われる。山車と石取祭車を合わせた計20輌が町を巡り、まちじゅうが祭り一色に染まる、津島の秋を代表する一大行事である。
 
-The festival''s greatest highlight is the magnificent and ornate floats (dashi) that parade from the various neighborhoods. Atop floats adorned with intricate carvings and gold leaf, "karakuri puppets" are dedicated, performing feats such as dancing and writing characters through string manipulation. The movements of the karakuri, produced by craftsmanship continued since the Edo period, are intricate and elegant, delighting onlookers. The sight of the floats processing through the town of Tsushima splendidly colors autumn in the castle town.
+## 歴史と由来
 
-Tsushima has a history of flourishing from ancient times as the temple-gate town and port town of Tsushima Shrine, commanding deep reverence from warring-states warlords including Oda Nobunaga. The Owari Tsushima Autumn Festival is a festival nurtured against the backdrop of Tsushima''s rich history and culture. Conveying to this day the uniquely Japanese mechanical culture of karakuri puppets, this festival is handed down together with regional pride as a traditional event representative of autumn in the Owari region.','owari-tsushima-autumn-festival','owari-tsushima-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+尾張津島秋まつりは、およそ300年前から続くとされる伝統的な秋祭りである。津島は、全国の天王社の総本社として知られる津島神社の門前町・港町として古くから栄え、その繁栄を背景に多彩な祭礼文化を育んできた。秋まつりもこうした津島の歴史のなかで形づくられ、町の人々の手で世代を超えて受け継がれてきた行事である。
+
+この祭りの山車行事は、七切・今市場・向島・神守の四つの地区でそれぞれ伝承されてきた。もともとは各地区が異なる日に祭礼を行っていたが、時代とともに現在の10月第1日曜日と前日土曜日という共通の日程へと統合された。地区ごとに独自の様式を保ちながら一つの祭りとして集うこの形は、津島の町の結びつきの深さと、各地区が守ってきた誇りの両方を映し出している。
+
+祭りに登場する山車と石取祭車は、いずれも100年以上の歴史を持つ津島の大切な文化財である。長い年月のなかで幾度も修復や継承を重ねながら守られてきたこれらの祭車は、単なる祭りの道具ではなく、地域の歴史そのものを体現する存在である。職人の技と町衆の情熱が結晶したこれらの祭車が今も現役で町を巡ることこそ、尾張津島秋まつりの価値を物語っている。
+
+なお、同じ津島神社を舞台とする夏の「尾張津島天王祭」は、山車が舟に乗る車楽舟(だんじりぶね)行事で知られ、ユネスコ無形文化遺産に登録されている。これに対し秋まつりは陸上を巡行する山車と石取祭車が主役であり、両者は性格を異にする別々の祭りである。この二つの祭りを併せ持つことが、津島が「祭りのまち」と称される所以となっている。
+
+## 見どころ
+
+**からくり人形を乗せた山車**
+尾張津島秋まつりの山車には、すべてからくり人形が乗せられているのが大きな特色である。精巧な彫刻や装飾で飾られた山車の上で、糸操りによって人形が舞い、妙技を披露する。犬山祭や亀崎潮干祭など尾張・知多の山車と同じ系譜に連なるこのからくりは、日本独特の機巧文化を今に伝えるもので、迫真の演技が見る者を魅了する。
+
+**勇壮な「車切」**
+七切・今市場・向島の山車は神守の山車に比べて小型で、前輪を浮かせて山車を回転させる「車切(くるまきり)」と呼ばれる所作を見せる。狭い町なかで大きな山車を勢いよく回すこの技は、担ぎ手たちの息の合った力技であり、掛け声とともに繰り広げられる勇壮な光景は秋まつり随一の見どころとなっている。
+
+**枝垂れ柳の桜飾を付けた神守の山車**
+神守地区の山車は、前方に枝垂れ柳の桜飾を付けているのが特徴で、車切を行う他地区の小型の山車とは異なる趣を持つ。地区ごとに山車の形や飾りが異なることで、巡行を見比べる楽しみが生まれる。それぞれの地区が守ってきた個性が一堂に会することで、祭り全体に多彩な表情が与えられている。
+
+**鉦と太鼓が響く石取祭車**
+山車とともに町を練り歩くのが、威勢よく鉦や太鼓を打ち鳴らす石取祭車である。その賑やかで力強い囃子は、からくり山車の優美さとは対照的な祭りの熱気を生み出す。石取祭車と山車が織りなす静と動の対比が、尾張津島秋まつりの豊かな祭りの音風景を形づくっている。
+
+**名鉄津島駅前・天王通りの競演**
+祭りでは、名鉄津島駅前や天王通りに山車と石取祭車が集い、からくりの披露や祭車の競演が繰り広げられる。各町の祭車が一か所に集まる場面は華やかで見応えがあり、多くの観客で賑わう。町を巡行する姿を各所で追うのも、一か所でまとめて観覧するのも、それぞれに祭りの魅力を味わえる。
+
+**秋の城下町を彩る巡行**
+山車と石取祭車が津島神社の門前町を巡る様子は、尾張地方の秋を華やかに彩る。門前町・港町として栄えた津島の古い町並みを背景に進む祭車の列は、土地の歴史と祭りが一体となった情景を生み出す。秋空のもとに響く囃子とからくりの妙技が、訪れる人々に津島ならではの秋の風情を届ける。
+
+## 開催情報・アクセス
+
+- 開催地: 愛知県津島市中心部
+- 主な会場: 津島神社および市内各所(名鉄津島駅前・天王通りなど)
+- 開催時期: 毎年10月第1日曜日と前日の土曜日(1日目13:00頃〜、2日目9:00頃〜)
+- 参加: 七切・今市場・向島・神守の4地区、山車・石取祭車を合わせて計20輌
+- アクセス: 名鉄津島線津島駅から徒歩約20分
+- 主催・問い合わせ: 津島市観光協会・津島市
+
+## 周辺の見どころ
+
+祭りの中心となる津島神社は、全国におよそ3,000社あるといわれる天王信仰(牛頭天王・スサノオ信仰)の総本社として知られる古社である。戦国時代には織田信長をはじめとする武将からも篤い崇敬を受け、社殿には歴史の重みが感じられる。秋まつりの拝観とあわせて参拝すれば、祭りが津島神社の信仰と深く結びついていることを実感できる。
+
+津島は津島神社の門前町・港町として中世以来栄えた歴史を持ち、市内には古い町並みや歴史的な建造物が点在する。街道沿いを歩けば、かつて交通と商業の要衝として賑わった往時の面影をたどることができる。祭りの巡行路と重ねて散策すれば、山車や石取祭車がなぜこの町並みを舞台とするのかがより深く理解できるだろう。
+
+やや足を延ばせば、同じ津島神社を舞台とする夏のユネスコ無形文化遺産・尾張津島天王祭の関連スポットや、木曽三川に育まれた輪中地帯の水郷景観なども楽しめる。尾張の山車文化を代表する犬山祭の犬山城下や、知多方面の祭礼の町も比較的近く、東海地方の祭り文化を巡る旅程を尾張津島秋まつりとあわせて組み立てることができる。
+
+## 関連情報
+
+- 開催月: 10月(第1日曜日と前日土曜日)
+- 都道府県・地域: 愛知県(中部・尾張)
+- 起源: 約300年前から続くとされる秋祭り(七切・今市場・向島・神守の4地区で山車行事を伝承)
+- 構成: からくり人形を乗せた山車と鉦太鼓の石取祭車、合わせて計20輌
+- 特色: 前輪を浮かせて回す「車切」、神守山車の枝垂れ柳の桜飾、山車・石取祭車は100年以上の歴史を持つ津島の文化財
+- 関連する祭り: 夏の尾張津島天王祭(車楽舟行事・ユネスコ無形文化遺産)とは別の祭りで、秋まつりは陸上の山車・石取祭車が主役','## Overview
+
+The Owari Tsushima Autumn Festival is an autumn festival held every year in October in Tsushima City, Aichi Prefecture. Handed down in the town of Tsushima centered on Tsushima Shrine, it features gorgeous floats bearing karakuri mechanical puppets and stone-gathering festival carts that beat gongs and drums as they parade and compete through the town. Counted alongside the summer Owari Tsushima Tenno Festival as one of Tsushima''s two great festivals, it is an event long cherished by local people.
+
+Said to have continued for about 300 years, this festival unfolds the float rites handed down in the four districts of Nanakire, Imaichiba, Mukojima, and Kamori. In former times each district held its rites on separate days, but today they are conducted together on the first Sunday of October and the preceding Saturday. A total of twenty carts, combining the floats and the stone-gathering carts, tour the town, dyeing the whole town in festival color as a leading event of Tsushima''s autumn.
+
+## History and Origins
+
+The Owari Tsushima Autumn Festival is a traditional autumn festival said to have continued for about 300 years. Tsushima flourished from early times as the shrine town and port town of Tsushima Shrine, known as the head shrine of the Tenno shrines throughout Japan, and against the backdrop of this prosperity it nurtured a rich culture of festival rites. The autumn festival too took shape within this history of Tsushima and has been handed down across generations by the hands of the townspeople.
+
+The float rites of this festival have been handed down separately in the four districts of Nanakire, Imaichiba, Mukojima, and Kamori. Originally each district held its rites on different days, but with the passage of time they were consolidated into the present shared schedule of the first Sunday of October and the preceding Saturday. This form, in which each district gathers as one festival while preserving its own distinct style, reflects both the depth of the ties among the neighborhoods of Tsushima and the pride each district has guarded.
+
+The floats and stone-gathering carts that appear in the festival are all precious cultural properties of Tsushima with histories exceeding a hundred years. Preserved through repeated repair and inheritance over long years, these carts are not mere festival implements but embodiments of the region''s very history. That these carts, the crystallization of artisans'' skill and the townspeople''s passion, still actively tour the town today speaks to the value of the Owari Tsushima Autumn Festival.
+
+It should be noted that the summer Owari Tsushima Tenno Festival, held at the same Tsushima Shrine, is known for its float-boat (danjiri-bune) rites in which floats are mounted on boats, and is inscribed on the UNESCO list of Intangible Cultural Heritage. By contrast, the autumn festival features land-borne floats and stone-gathering carts as its main attraction, and the two are distinct festivals of differing character. Possessing these two festivals is the very reason Tsushima is called a town of festivals.
+
+## Highlights
+
+**Floats Bearing Karakuri Puppets**
+A great distinctive feature of the Owari Tsushima Autumn Festival is that all its floats bear karakuri mechanical puppets. Atop floats adorned with intricate carving and decoration, the puppets dance and display feats of skill through string manipulation. Belonging to the same lineage as the floats of the Owari and Chita regions, such as the Inuyama Festival and the Kamezaki Shiohi Festival, these karakuri convey Japan''s distinctive mechanical-craft culture to this day, and their lifelike performances captivate all who watch.
+
+**The Spirited Kurumakiri**
+The floats of Nanakire, Imaichiba, and Mukojima are smaller than those of Kamori and perform a movement called kurumakiri, in which the front wheels are lifted and the float is spun around. Vigorously turning a large float in the narrow town streets is a feat of coordinated strength by the bearers, and the spirited sight unfolding to shouts is among the greatest highlights of the autumn festival.
+
+**Kamori''s Floats with Weeping-Willow Cherry Decorations**
+The floats of the Kamori district are distinguished by weeping-willow cherry decorations attached at the front, giving them a different character from the smaller floats of the other districts that perform the kurumakiri. Because the shape and decoration of the floats differ by district, a pleasure arises in comparing them during the procession. As the individuality guarded by each district gathers in one place, the whole festival is given a rich variety of expressions.
+
+**Stone-Gathering Carts Resounding with Gongs and Drums**
+Parading through the town alongside the floats are the stone-gathering carts, which vigorously beat gongs and drums. Their lively and powerful music generates a festival fervor in contrast to the grace of the karakuri floats. The contrast of stillness and motion woven by the stone-gathering carts and the floats shapes the rich festival soundscape of the Owari Tsushima Autumn Festival.
+
+**The Competition at Meitetsu Tsushima Station Square and Tenno-dori**
+During the festival, floats and stone-gathering carts gather at the square in front of Meitetsu Tsushima Station and along Tenno-dori, where karakuri displays and competitions among the carts unfold. The scene of the carts of each neighborhood assembling in one place is splendid and worth seeing, drawing large crowds. Whether following the carts as they tour the town from place to place, or viewing them gathered together in one spot, one can savor the festival''s appeal in either way.
+
+**A Procession Coloring the Autumn Town**
+The sight of floats and stone-gathering carts touring the shrine town of Tsushima Shrine colors the autumn of the Owari region splendidly. The line of carts advancing against the backdrop of the old townscape of Tsushima, which flourished as a shrine town and port town, creates a scene in which the land''s history and the festival become one. The music and the marvels of the karakuri resounding beneath the autumn sky bring visitors the autumn atmosphere distinctive to Tsushima.
+
+## Event Information and Access
+
+- Location: Central Tsushima City, Aichi Prefecture
+- Main venues: Tsushima Shrine and various sites in the city (the square in front of Meitetsu Tsushima Station, Tenno-dori, and others)
+- Dates: The first Sunday of October and the preceding Saturday every year (day one from around 13:00, day two from around 9:00)
+- Participation: The four districts of Nanakire, Imaichiba, Mukojima, and Kamori, with a total of twenty floats and stone-gathering carts
+- Access: About a 20-minute walk from Tsushima Station on the Meitetsu Tsushima Line
+- Organizer and inquiries: Tsushima City Tourism Association and Tsushima City
+
+## Nearby Attractions
+
+Tsushima Shrine, the heart of the festival, is an ancient shrine known as the head shrine of the Tenno faith (the worship of Gozu Tenno and Susanoo), said to number some 3,000 shrines throughout Japan. In the Sengoku period it received deep veneration from warlords including Oda Nobunaga, and the weight of history can be felt in its buildings. Paying a visit together with viewing the autumn festival lets one truly sense how deeply the festival is bound to the faith of Tsushima Shrine.
+
+Tsushima holds a history of flourishing as the shrine town and port town of Tsushima Shrine since medieval times, and old townscapes and historic structures are scattered about the city. Walking along the highways, one can trace the vestiges of former days when it thrived as a hub of transport and commerce. Strolling while overlaying the festival''s procession route allows a deeper understanding of why the floats and stone-gathering carts take this townscape as their stage.
+
+A little farther afield, one can enjoy sites related to the summer Owari Tsushima Tenno Festival, a UNESCO Intangible Cultural Heritage held at the same Tsushima Shrine, as well as the waterside scenery of the ring-levee region nurtured by the three rivers of Kiso. The castle town of Inuyama, home to the Inuyama Festival that represents the float culture of Owari, and festival towns in the Chita direction are also relatively close, allowing an itinerary touring the festival culture of the Tokai region to be built alongside the Owari Tsushima Autumn Festival.
+
+## Related Information
+
+- Month held: October (the first Sunday and the preceding Saturday)
+- Prefecture and region: Aichi Prefecture (Chubu region, Owari area)
+- Origins: An autumn festival said to have continued for about 300 years (float rites handed down in the four districts of Nanakire, Imaichiba, Mukojima, and Kamori)
+- Composition: Floats bearing karakuri puppets and stone-gathering carts with gongs and drums, twenty in total
+- Distinctive features: The kurumakiri, in which the front wheels are lifted to spin the float; the weeping-willow cherry decorations of the Kamori floats; the floats and stone-gathering carts are cultural properties of Tsushima with histories exceeding a hundred years
+- Related festival: Distinct from the summer Owari Tsushima Tenno Festival (a float-boat rite and UNESCO Intangible Cultural Heritage); the autumn festival features land-borne floats and stone-gathering carts as its main attraction','owari-tsushima-autumn-festival','owari-tsushima-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21654718','まほろば夏まつり',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.44202778,140.88121389,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24872241','笠間の陶炎祭',NULL,'茨城県笠間市で行われる陶器市',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AC%A0%E9%96%93%E3%81%AE%E9%99%B6%E7%82%8E%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q22123263','十二日まち','Jūninichi-machi','さいたま市浦和区で開かれる大歳の市','festival in Urawa-ku, Saitama',NULL,NULL,NULL,'埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A15.JPG','https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A1',NULL,85,'drafted','十二日まち（じゅうにちまち）は、埼玉県さいたま市浦和区の調神社(つきじんじゃ)で、毎年12月12日に開かれる年末の市(いち)である。「大歳の市(おおとしのいち)」とも呼ばれ、一年の締めくくりに、新年の幸福を願う縁起物の熊手などを買い求める人々で大いに賑わう、浦和の冬の風物詩である。
