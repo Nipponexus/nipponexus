@@ -14475,93 +14475,115 @@ The stars of the festival are ten gorgeously ornate floats (yatai) gleaming in g
 
 The greatest highlights are the "station-front event," in which all floats assemble before the station, and the procession through the town from late night into dawn. The scene woven by the golden floats emerging in lantern light and the music trembling the night air is dreamlike, captivating all who visit. Hanawa Bayashi was designated an Important Intangible Folk Cultural Property of Japan in 2014, and in 2016 registered as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan." It is a precious festival culture conveying the pride and spirit of Kazuno-Hanawa, which flourished as a mining town.','hanawa-bayashi','hanawa-bayashi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11597870','立川まつり国営昭和記念公園花火大会','Showa Kinen Park Fireworks',NULL,NULL,'Q3915473','国営昭和記念公園','Shōwa Memorial Park',NULL,NULL,NULL,NULL,1954,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11596130','秩父川瀬祭','Chichibu Kawase Matsuri','毎年7月に開催される埼玉県秩父市の祭り',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chichibu%20Kawase%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B7%9D%E7%80%AC%E7%A5%AD',NULL,85,'drafted','<h2>概要</h2>
-<p>秩父川瀬祭（ちちぶかわせまつり）は、埼玉県秩父市番場町の秩父神社で毎年7月19日・20日に行われる夏の例大祭です。秩父では「お祇園」とも呼ばれ、笠鉾4基・屋台4基の計8基の山車が秩父屋台囃子を響かせながら街なかを曳き廻されます。冬に行われる日本三大曳山祭の一つ「秩父夜祭」と対をなす祭りとされ、夜祭に対しては昼の祭り、冬に対しては夏、大人の祭りに対しては子どもの祭りと位置づけられています。笠鉾・屋台の囃子手や、花笠を付けた拍子木を子どもたちが務める姿が見られる、子どもが主役の祭りです。</p>
-<p>祭りの最大の見どころは、20日の大祭で重量約400kgもの白木造りの神社神輿が荒川の清流の中へと担ぎ込まれる「神輿洗いの儀式」です。斎場前の荒川で34人の氏子に担がれた大御輿がもみ込まれる様子は、あらゆる災厄を流し去るとされ、祭りは最高潮を迎えます。清らかな水の霊力によって罪や穢れを祓うという古くからの禊信仰を今に伝える、夏らしい神事です。</p>
+INSERT INTO "festivals" VALUES('Q11596130','秩父川瀬祭','Chichibu Kawase Matsuri','毎年7月に開催される埼玉県秩父市の祭り',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chichibu%20Kawase%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B7%9D%E7%80%AC%E7%A5%AD',NULL,85,'drafted','秩父川瀬祭（ちちぶかわせまつり）は、埼玉県秩父市番場町の秩父神社で毎年7月19日・20日に行われる夏の例大祭である。秩父では「お祇園」とも呼ばれ、笠鉾4基・屋台4基の計8基の山車が秩父屋台囃子を響かせながら街なかを曳き廻される。冬に行われる日本三大曳山祭の一つ「秩父夜祭」と対をなす祭りとされ、夜祭に対しては昼の祭り、冬に対しては夏、大人の祭りに対しては子どもの祭りと位置づけられている。笠鉾・屋台の囃子手や、花笠を付けた拍子木を子どもたちが務める姿が見られる、子どもが主役の祭りである。
 
-<h2>歴史</h2>
-<p>秩父川瀬祭は「お祇園」「祇園祭」「天王様」などとも呼ばれ、平安時代に京都の八坂神社で始められた祇園祭、すなわち祇園御霊会（ぎおんごりょうえ）の流れを汲むものと考えられています。祇園御霊会は疫病や災厄をもたらす悪神を鎮め、暑い夏を無事に過ごせるよう祈願する信仰から生まれた祭りで、平安時代以降に全国へと広まりました。</p>
-<p>祭神の須佐之男命（すさのおのみこと）は、神仏習合の時代には仏教で疫病を司るとされた牛頭天王と同一視され、「天王様」とも呼ばれてきました。蘇民将来の伝説とも結びつき、悪疫除けのご利益で広く知られています。全国各地の夏祭りの多くは、この須佐之男命を祀って行われており、秩父川瀬祭もその一つに数えられます。</p>
-<p>荒川に神輿を担ぎ込むのは、清らかな水の霊力によって人々の罪や穢れを洗い流そうとする禊やお祓いの信仰によるものです。秩父では、各町会が山車を持たなかった時代でも、行列が川に出向いて胡瓜やお供物を川に流し、無病息災を祈願したことが文献に記されています。神輿を川に舁ぎ込むことは、神様自身が禊をされるという意味を持つと考えられています。</p>
-<p>また、かつて秩父の町内では「祇園柱」「天王柱」と呼ばれる柱松を立て、そこに須佐之男命を迎えて悪疫の退散を願う儀式が江戸時代末から明治初年ごろまで行われていました。これは病気や災いをもたらす悪神の町内への侵入を防ぐための儀式で、現在の宵宮で行われる「天王柱立て神事」にその信仰が受け継がれています。</p>
+祭りの最大の見どころは、20日の大祭で重量約400キログラムもの白木造りの神社神輿が荒川の清流の中へと担ぎ込まれる「神輿洗いの儀式」である。斎場前の荒川で34人の氏子に担がれた大御輿がもみ込まれる様子は、あらゆる災厄を流し去るとされ、祭りは最高潮を迎える。清らかな水の霊力によって罪や穢れを祓うという古くからの禊信仰を今に伝える、夏らしい神事である。
 
-<h2>見どころ</h2>
-<h3>神輿洗いの儀式</h3>
-<p>20日の大祭で行われる神輿洗いの儀式が、この祭り最大のクライマックスです。重量約400kgの白木造りの神社神輿が、斎場前の荒川の清流の中へと担ぎ込まれ、34人の氏子によってもみ込まれます。あらゆる災厄を流し去るとされる勇壮な神事です。</p>
-<h3>8基の笠鉾・屋台の曳き廻し</h3>
-<p>笠鉾4基・屋台4基の計8基の山車が、秩父屋台囃子を響かせながら街なかを曳き廻されます。絢爛豪華な山車が夏の秩父の街を彩る様子は圧巻です。</p>
-<h3>子どもが主役の祭り</h3>
-<p>笠鉾・屋台の囃子手や、花笠を付けた拍子木を子どもたちが務めるのが、この祭りの大きな特徴です。冬の秩父夜祭が大人の祭りであるのに対し、川瀬祭は子どもが中心となる祭りとして親しまれています。</p>
-<h3>天王柱立て神事</h3>
-<p>19日の宵宮の夕方、各笠鉾・屋台が秩父神社に集結し、境内の日御碕宮（ひのみさきぐう）に祀られる須佐之男命を迎える「天王柱立て神事」が行われます。境内に浮かび上がる提灯やぼんぼりの灯りが幻想的です。</p>
-<h3>山車のすれ違いと曳き別れ</h3>
-<p>20日の夜には、大通りを中心に山車の曳行が行われ、狭い道での「すれ違い」や、祭りの終わりを告げる「曳き別れ」が見どころとなります。屋台囃子とともに繰り広げられる勇壮な場面です。</p>
-<h3>お水取り行事</h3>
-<p>川瀬祭の前夜には、荒川武の鼻の妙見淵周辺で「お水取り行事」が行われます。選ばれた若者が荒川の水を汲んで持ち帰り、町内の入口や辻に撒くもので、清らかな水の霊力で町内を災いから守る清めの儀式です。</p>
+## 歴史と由来
 
-<h2>開催情報</h2>
-<p>正式名称：秩父川瀬祭（別名「お祇園」「祇園祭」）</p>
-<p>開催日：毎年7月19日（宵宮）・20日（大祭）</p>
-<p>会場：秩父神社（埼玉県秩父市番場町）および秩父市街地・荒川斎場周辺</p>
-<p>山車：笠鉾4基・屋台4基の計8基</p>
-<p>主な神事：天王柱立て神事（19日宵宮）、神輿洗いの儀式（20日大祭）、お水取り行事（前夜）</p>
-<p>アクセス：秩父鉄道秩父駅、または西武秩父線西武秩父駅から徒歩</p>
+秩父川瀬祭は「お祇園」「祇園祭」「天王様」などとも呼ばれ、平安時代に京都の八坂神社で始められた祇園祭、すなわち祇園御霊会（ぎおんごりょうえ）の流れを汲むものと考えられている。祇園御霊会は疫病や災厄をもたらす悪神を鎮め、暑い夏を無事に過ごせるよう祈願する信仰から生まれた祭りで、平安時代以降に全国へと広まった。
 
-<h2>周辺情報</h2>
-<p>秩父神社は2000余年の歴史をもつ秩父地方の総鎮守で、宝登山神社・三峯神社と並ぶ秩父三社の一つです。天正期に徳川家康が再建した社殿には数多くの精緻な彫刻が施され、それぞれに「いわれ」が伝えられています。荘厳な社殿そのものが見どころとなっています。</p>
-<p>秩父神社の冬の例大祭「秩父夜祭」は、京都祇園祭・飛騨高山祭とともに日本三大曳山祭の一つに数えられ、ユネスコ無形文化遺産にも登録されています。夏の川瀬祭とあわせて、秩父神社の一年を彩る二大祭礼として知られています。</p>
-<p>秩父地方は荒川の清流と山々に囲まれた自然豊かな土地で、長瀞のライン下りや羊山公園の芝桜など、四季折々の見どころがあります。祭りとあわせて秩父の自然や食を楽しむこともできます。</p>
+祭神の須佐之男命（すさのおのみこと）は、神仏習合の時代には仏教で疫病を司るとされた牛頭天王と同一視され、「天王様」とも呼ばれてきた。蘇民将来の伝説とも結びつき、悪疫除けのご利益で広く知られている。全国各地の夏祭りの多くは、この須佐之男命を祀って行われており、秩父川瀬祭もその一つに数えられる。
 
-<h2>関連情報</h2>
-<p>秩父神社：2000余年の歴史をもつ秩父三社の一つで、川瀬祭の母体となる神社です。</p>
-<p>秩父夜祭：同じ秩父神社の冬の例大祭で、川瀬祭と対をなす日本三大曳山祭の一つです。</p>
-<p>須佐之男命：境内の日御碕宮に祀られる祭神で、牛頭天王と同一視され悪疫除けの信仰を集めます。</p>
-<p>祇園御霊会：平安時代に京都八坂神社で始まった祭りで、川瀬祭の由緒の源流とされます。</p>
-<p>神輿洗い：荒川の清流に神輿を担ぎ込み、災厄を流し去る川瀬祭最大のクライマックスです。</p>
-<p>秩父三社：秩父神社・宝登山神社・三峯神社を指し、秩父を代表する三つの古社です。</p>','<h2>Overview</h2>
-<p>The Chichibu Kawase Festival (Chichibu Kawase Matsuri) is the summer grand festival of Chichibu Shrine in Banba-cho, Chichibu City, Saitama Prefecture, held every year on July 19 and 20. Known locally as "Ogion," the festival features eight floats in total, four kasaboko (umbrella-crowned floats) and four yatai (float stages), which are pulled through the streets to the resounding rhythm of the Chichibu float music. It is considered the counterpart to the Chichibu Night Festival held in winter, one of Japan''s three great float festivals. While the Night Festival is a festival of the night, of winter, and of adults, the Kawase Festival is a festival of the day, of summer, and of children. Children take on the roles of the musicians on the kasaboko and yatai, as well as the hyoshigi (wooden clappers) players wearing flower hats, making it a festival in which children play the leading role.</p>
-<p>The greatest highlight of the festival is the "mikoshi washing rite," in which a plain-wood shrine palanquin weighing about 400 kilograms is carried into the clear waters of the Arakawa River during the grand festival on the 20th. The sight of the large palanquin, carried by 34 parishioners, being jostled in the Arakawa in front of the ritual site is said to wash away all misfortune, bringing the festival to its climax. It is a distinctly summer rite that conveys to the present day the ancient belief in purification, in which the spiritual power of clean water washes away sin and defilement.</p>
+荒川に神輿を担ぎ込むのは、清らかな水の霊力によって人々の罪や穢れを洗い流そうとする禊やお祓いの信仰によるものである。秩父では、各町会が山車を持たなかった時代でも、行列が川に出向いて胡瓜やお供物を川に流し、無病息災を祈願したことが文献に記されている。神輿を川に舁ぎ込むことは、神様自身が禊をされるという意味を持つと考えられている。
 
-<h2>History</h2>
-<p>The Chichibu Kawase Festival is also called "Ogion," "Gion Festival," and "Tenno-sama," and is thought to derive from the Gion Festival, or Gion Goryoe, that began at Yasaka Shrine in Kyoto during the Heian period. The Gion Goryoe arose from beliefs aimed at pacifying the evil deities that brought epidemics and disasters and praying for safe passage through the hot summer, and it spread throughout Japan from the Heian period onward.</p>
-<p>The enshrined deity, Susanoo-no-Mikoto, was identified during the age of Shinto-Buddhist syncretism with Gozu Tenno, the Buddhist deity believed to govern epidemics, and has therefore also been called "Tenno-sama." Linked with the legend of Somin Shorai, the deity is widely known for warding off pestilence. Many summer festivals across Japan are held in honor of Susanoo-no-Mikoto, and the Chichibu Kawase Festival is counted among them.</p>
-<p>The reason the palanquin is carried into the Arakawa River lies in the belief in purification and exorcism, in which the spiritual power of clean water washes away people''s sin and defilement. In Chichibu, even in eras when the town associations did not own floats, records describe processions going to the river to float cucumbers and offerings downstream while praying for good health. Carrying the palanquin into the river is thought to carry the meaning that the deity itself undergoes purification.</p>
-<p>Furthermore, in the towns of Chichibu, from the end of the Edo period until the early Meiji era, a rite was held in which "Gion pillars" or "Tenno pillars" (pillar pines) were raised to welcome Susanoo-no-Mikoto and pray for the dispelling of pestilence. This was a rite to prevent the intrusion of evil deities that brought illness and disaster into the town, and this belief is carried on in the "Tenno pillar raising rite" performed at the eve festival today.</p>
+また、かつて秩父の町内では「祇園柱」「天王柱」と呼ばれる柱松を立て、そこに須佐之男命を迎えて悪疫の退散を願う儀式が江戸時代末から明治初年ごろまで行われていた。これは病気や災いをもたらす悪神の町内への侵入を防ぐための儀式で、現在の宵宮で行われる「天王柱立て神事」にその信仰が受け継がれている。
 
-<h2>Highlights</h2>
-<h3>The Mikoshi Washing Rite</h3>
-<p>The mikoshi washing rite performed during the grand festival on the 20th is the greatest climax of this festival. A plain-wood shrine palanquin weighing about 400 kilograms is carried into the clear waters of the Arakawa in front of the ritual site and jostled by 34 parishioners. It is a valiant rite said to wash away all misfortune.</p>
-<h3>The Procession of Eight Kasaboko and Yatai</h3>
-<p>A total of eight floats, four kasaboko and four yatai, are pulled through the streets to the resounding rhythm of the Chichibu float music. The sight of the gorgeous floats coloring the streets of summer Chichibu is spectacular.</p>
-<h3>A Festival Led by Children</h3>
-<p>A major feature of this festival is that children serve as the musicians on the kasaboko and yatai and as the wooden-clapper players wearing flower hats. In contrast to the Chichibu Night Festival in winter, which is a festival of adults, the Kawase Festival is beloved as one in which children take center stage.</p>
-<h3>The Tenno Pillar Raising Rite</h3>
-<p>On the evening of the eve festival on the 19th, the kasaboko and yatai gather at Chichibu Shrine, and the "Tenno pillar raising rite" is held to welcome Susanoo-no-Mikoto, enshrined at the Hinomisaki-gu within the precincts. The glow of lanterns and paper lamps floating up in the precincts is enchanting.</p>
-<h3>The Passing and Parting of the Floats</h3>
-<p>On the night of the 20th, the floats are pulled mainly along the main street, and the "passing" of floats on narrow roads and the "parting" that announces the end of the festival are highlights. These are valiant scenes unfolding to the accompaniment of the float music.</p>
-<h3>The Water-Drawing Rite</h3>
-<p>On the eve of the Kawase Festival, the "water-drawing rite" is held around the Myoken-buchi pool at Takenohana on the Arakawa. Selected young men draw water from the Arakawa, carry it back, and sprinkle it at the entrances and crossroads of the town, a purification rite that protects the town from disaster through the spiritual power of clean water.</p>
+母体である秩父神社は2000余年の歴史をもつ秩父地方の総鎮守で、宝登山神社・三峯神社と並ぶ秩父三社の一つである。冬の例大祭「秩父夜祭」は京都祇園祭・飛騨高山祭とともに日本三大曳山祭に数えられ、ユネスコ無形文化遺産にも登録されている。夏の川瀬祭と冬の夜祭は、同じ秩父神社の一年を彩る二大祭礼として、対をなす存在として親しまれてきた。
 
-<h2>Event Information</h2>
-<p>Official name: Chichibu Kawase Festival (also known as "Ogion" or "Gion Festival")</p>
-<p>Dates: July 19 (eve festival) and 20 (grand festival) every year</p>
-<p>Venue: Chichibu Shrine (Banba-cho, Chichibu City, Saitama Prefecture) and the Chichibu city center and Arakawa ritual site area</p>
-<p>Floats: Eight in total, four kasaboko and four yatai</p>
-<p>Main rites: Tenno pillar raising rite (eve festival on the 19th), mikoshi washing rite (grand festival on the 20th), water-drawing rite (the previous night)</p>
-<p>Access: On foot from Chichibu Station on the Chichibu Railway, or Seibu-Chichibu Station on the Seibu Chichibu Line</p>
+## 見どころ
 
-<h2>Around the Area</h2>
-<p>Chichibu Shrine is the general guardian shrine of the Chichibu region with a history of over 2,000 years, and it is one of the three shrines of Chichibu alongside Hodosan Shrine and Mitsumine Shrine. The shrine buildings, rebuilt by Tokugawa Ieyasu in the Tensho era, are adorned with many intricate carvings, each with its own legend. The solemn shrine buildings themselves are a highlight.</p>
-<p>The winter grand festival of Chichibu Shrine, the Chichibu Night Festival, is counted among Japan''s three great float festivals alongside the Kyoto Gion Festival and the Hida Takayama Festival, and it is registered as a UNESCO Intangible Cultural Heritage. Together with the summer Kawase Festival, it is known as one of the two great festivals that color the year at Chichibu Shrine.</p>
-<p>The Chichibu region is a nature-rich land surrounded by the clear Arakawa River and mountains, offering seasonal highlights such as the Nagatoro river-boat descent and the moss phlox of Hitsujiyama Park. Along with the festival, visitors can enjoy the nature and cuisine of Chichibu.</p>
+**神輿洗いの儀式**　20日の大祭で行われる神輿洗いの儀式が、この祭り最大のクライマックスである。重量約400キログラムの白木造りの神社神輿が、斎場前の荒川の清流の中へと担ぎ込まれ、34人の氏子によってもみ込まれる。あらゆる災厄を流し去るとされる勇壮な神事である。
 
-<h2>Related Information</h2>
-<p>Chichibu Shrine: One of the three shrines of Chichibu with a history of over 2,000 years, and the parent shrine of the Kawase Festival.</p>
-<p>Chichibu Night Festival: The winter grand festival of the same Chichibu Shrine, one of Japan''s three great float festivals and the counterpart to the Kawase Festival.</p>
-<p>Susanoo-no-Mikoto: The deity enshrined at the Hinomisaki-gu within the precincts, identified with Gozu Tenno and revered for warding off pestilence.</p>
-<p>Gion Goryoe: The festival that began at Yasaka Shrine in Kyoto during the Heian period, considered the source of the Kawase Festival''s origin.</p>
-<p>Mikoshi Washing: The greatest climax of the Kawase Festival, in which the palanquin is carried into the clear waters of the Arakawa to wash away misfortune.</p>
-<p>The Three Shrines of Chichibu: Chichibu Shrine, Hodosan Shrine, and Mitsumine Shrine, the three ancient shrines representing Chichibu.</p>','chichibu-kawase-matsuri','chichibu-kawase-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**8基の笠鉾・屋台の曳き廻し**　笠鉾4基・屋台4基の計8基の山車が、秩父屋台囃子を響かせながら街なかを曳き廻される。絢爛豪華な山車が夏の秩父の街を彩る様子は圧巻である。
+
+**子どもが主役の祭り**　笠鉾・屋台の囃子手や、花笠を付けた拍子木を子どもたちが務めるのが、この祭りの大きな特徴である。冬の秩父夜祭が大人の祭りであるのに対し、川瀬祭は子どもが中心となる祭りとして親しまれている。
+
+**天王柱立て神事**　19日の宵宮の夕方、各笠鉾・屋台が秩父神社に集結し、境内の日御碕宮（ひのみさきぐう）に祀られる須佐之男命を迎える「天王柱立て神事」が行われる。境内に浮かび上がる提灯やぼんぼりの灯りが幻想的である。
+
+**山車のすれ違いと曳き別れ**　20日の夜には、大通りを中心に山車の曳行が行われ、狭い道での「すれ違い」や、祭りの終わりを告げる「曳き別れ」が見どころとなる。屋台囃子とともに繰り広げられる勇壮な場面である。
+
+**お水取り行事**　川瀬祭の前夜には、荒川武の鼻の妙見淵周辺で「お水取り行事」が行われる。選ばれた若者が荒川の水を汲んで持ち帰り、町内の入口や辻に撒くもので、清らかな水の霊力で町内を災いから守る清めの儀式である。
+
+## 開催情報
+
+- 正式名称: 秩父川瀬祭（別名「お祇園」「祇園祭」）
+- 開催日: 毎年7月19日（宵宮）・20日（大祭）
+- 会場: 秩父神社（埼玉県秩父市番場町）および秩父市街地・荒川斎場周辺
+- 山車: 笠鉾4基・屋台4基の計8基
+- 主な神事: 天王柱立て神事（19日宵宮）、神輿洗いの儀式（20日大祭）、お水取り行事（前夜）
+- アクセス: 秩父鉄道秩父駅、または西武秩父線西武秩父駅から徒歩
+
+## 周辺情報
+
+秩父神社は2000余年の歴史をもつ秩父地方の総鎮守で、宝登山神社・三峯神社と並ぶ秩父三社の一つである。天正期に徳川家康が再建した社殿には数多くの精緻な彫刻が施され、それぞれに「いわれ」が伝えられている。荘厳な社殿そのものが見どころとなっている。
+
+秩父神社の冬の例大祭「秩父夜祭」は、京都祇園祭・飛騨高山祭とともに日本三大曳山祭の一つに数えられ、ユネスコ無形文化遺産にも登録されている。夏の川瀬祭とあわせて、秩父神社の一年を彩る二大祭礼として知られている。
+
+秩父地方は荒川の清流と山々に囲まれた自然豊かな土地で、長瀞のライン下りや羊山公園の芝桜など、四季折々の見どころがある。祭りとあわせて秩父の自然や食を楽しむこともできる。
+
+## 関連情報
+
+- 秩父神社: 2000余年の歴史をもつ秩父三社の一つで、川瀬祭の母体となる神社である。
+- 秩父夜祭: 同じ秩父神社の冬の例大祭で、川瀬祭と対をなす日本三大曳山祭の一つである。
+- 須佐之男命: 境内の日御碕宮に祀られる祭神で、牛頭天王と同一視され悪疫除けの信仰を集める。
+- 祇園御霊会: 平安時代に京都八坂神社で始まった祭りで、川瀬祭の由緒の源流とされる。
+- 神輿洗い: 荒川の清流に神輿を担ぎ込み、災厄を流し去る川瀬祭最大のクライマックスである。
+- 秩父三社: 秩父神社・宝登山神社・三峯神社を指し、秩父を代表する三つの古社である。','The Chichibu Kawase Festival (Chichibu Kawase Matsuri) is the summer grand festival of Chichibu Shrine in Banba-cho, Chichibu City, Saitama Prefecture, held every year on July 19 and 20. Known locally as Ogion, the festival features eight floats in total, four kasaboko (umbrella-crowned floats) and four yatai (float stages), which are pulled through the streets to the resounding rhythm of the Chichibu float music. It is considered the counterpart to the Chichibu Night Festival held in winter, one of Japan''s three great float festivals. While the Night Festival is a festival of the night, of winter, and of adults, the Kawase Festival is a festival of the day, of summer, and of children. Children take on the roles of the musicians on the kasaboko and yatai, as well as the hyoshigi (wooden clappers) players wearing flower hats, making it a festival in which children play the leading role.
+
+The greatest highlight of the festival is the mikoshi washing rite, in which a plain-wood shrine palanquin weighing about 400 kilograms is carried into the clear waters of the Arakawa River during the grand festival on the 20th. The sight of the large palanquin, carried by 34 parishioners, being jostled in the Arakawa in front of the ritual site is said to wash away all misfortune, bringing the festival to its climax. It is a distinctly summer rite that conveys to the present day the ancient belief in purification, in which the spiritual power of clean water washes away sin and defilement.
+
+## History and Origins
+
+The Chichibu Kawase Festival is also called Ogion, Gion Festival, and Tenno-sama, and is thought to derive from the Gion Festival, or Gion Goryoe, that began at Yasaka Shrine in Kyoto during the Heian period. The Gion Goryoe arose from beliefs aimed at pacifying the evil deities that brought epidemics and disasters and praying for safe passage through the hot summer, and it spread throughout Japan from the Heian period onward.
+
+The enshrined deity, Susanoo-no-Mikoto, was identified during the age of Shinto-Buddhist syncretism with Gozu Tenno, the Buddhist deity believed to govern epidemics, and has therefore also been called Tenno-sama. Linked with the legend of Somin Shorai, the deity is widely known for warding off pestilence. Many summer festivals across Japan are held in honor of Susanoo-no-Mikoto, and the Chichibu Kawase Festival is counted among them.
+
+The reason the palanquin is carried into the Arakawa River lies in the belief in purification and exorcism, in which the spiritual power of clean water washes away people''s sin and defilement. In Chichibu, even in eras when the town associations did not own floats, records describe processions going to the river to float cucumbers and offerings downstream while praying for good health. Carrying the palanquin into the river is thought to carry the meaning that the deity itself undergoes purification.
+
+Furthermore, in the towns of Chichibu, from the end of the Edo period until the early Meiji era, a rite was held in which Gion pillars or Tenno pillars (pillar pines) were raised to welcome Susanoo-no-Mikoto and pray for the dispelling of pestilence. This was a rite to prevent the intrusion of evil deities that brought illness and disaster into the town, and this belief is carried on in the Tenno pillar raising rite performed at the eve festival today.
+
+The parent shrine, Chichibu Shrine, is the general guardian shrine of the Chichibu region with a history of over 2,000 years, and is one of the three shrines of Chichibu alongside Hodosan Shrine and Mitsumine Shrine. Its winter grand festival, the Chichibu Night Festival, is counted among Japan''s three great float festivals alongside the Kyoto Gion Festival and the Hida Takayama Festival, and is registered as a UNESCO Intangible Cultural Heritage. The summer Kawase Festival and the winter Night Festival are beloved as the two great festivals that color the year at the same Chichibu Shrine, standing as counterparts to each other.
+
+## Highlights
+
+**The Mikoshi Washing Rite**　The mikoshi washing rite performed during the grand festival on the 20th is the greatest climax of this festival. A plain-wood shrine palanquin weighing about 400 kilograms is carried into the clear waters of the Arakawa in front of the ritual site and jostled by 34 parishioners. It is a valiant rite said to wash away all misfortune.
+
+**The Procession of Eight Kasaboko and Yatai**　A total of eight floats, four kasaboko and four yatai, are pulled through the streets to the resounding rhythm of the Chichibu float music. The sight of the gorgeous floats coloring the streets of summer Chichibu is spectacular.
+
+**A Festival Led by Children**　A major feature of this festival is that children serve as the musicians on the kasaboko and yatai and as the wooden-clapper players wearing flower hats. In contrast to the Chichibu Night Festival in winter, which is a festival of adults, the Kawase Festival is beloved as one in which children take center stage.
+
+**The Tenno Pillar Raising Rite**　On the evening of the eve festival on the 19th, the kasaboko and yatai gather at Chichibu Shrine, and the Tenno pillar raising rite is held to welcome Susanoo-no-Mikoto, enshrined at the Hinomisaki-gu within the precincts. The glow of lanterns and paper lamps floating up in the precincts is enchanting.
+
+**The Passing and Parting of the Floats**　On the night of the 20th, the floats are pulled mainly along the main street, and the passing of floats on narrow roads and the parting that announces the end of the festival are highlights. These are valiant scenes unfolding to the accompaniment of the float music.
+
+**The Water-Drawing Rite**　On the eve of the Kawase Festival, the water-drawing rite is held around the Myoken-buchi pool at Takenohana on the Arakawa. Selected young men draw water from the Arakawa, carry it back, and sprinkle it at the entrances and crossroads of the town, a purification rite that protects the town from disaster through the spiritual power of clean water.
+
+## Event Information
+
+- Official name: Chichibu Kawase Festival (also known as Ogion or Gion Festival)
+- Dates: July 19 (eve festival) and 20 (grand festival) every year
+- Venue: Chichibu Shrine (Banba-cho, Chichibu City, Saitama Prefecture) and the Chichibu city center and Arakawa ritual site area
+- Floats: Eight in total, four kasaboko and four yatai
+- Main rites: Tenno pillar raising rite (eve festival on the 19th), mikoshi washing rite (grand festival on the 20th), water-drawing rite (the previous night)
+- Access: On foot from Chichibu Station on the Chichibu Railway, or Seibu-Chichibu Station on the Seibu Chichibu Line
+
+## Around the Area
+
+Chichibu Shrine is the general guardian shrine of the Chichibu region with a history of over 2,000 years, and it is one of the three shrines of Chichibu alongside Hodosan Shrine and Mitsumine Shrine. The shrine buildings, rebuilt by Tokugawa Ieyasu in the Tensho era, are adorned with many intricate carvings, each with its own legend. The solemn shrine buildings themselves are a highlight.
+
+The winter grand festival of Chichibu Shrine, the Chichibu Night Festival, is counted among Japan''s three great float festivals alongside the Kyoto Gion Festival and the Hida Takayama Festival, and it is registered as a UNESCO Intangible Cultural Heritage. Together with the summer Kawase Festival, it is known as one of the two great festivals that color the year at Chichibu Shrine.
+
+The Chichibu region is a nature-rich land surrounded by the clear Arakawa River and mountains, offering seasonal highlights such as the Nagatoro river-boat descent and the moss phlox of Hitsujiyama Park. Along with the festival, visitors can enjoy the nature and cuisine of Chichibu.
+
+## Related Information
+
+- Chichibu Shrine: One of the three shrines of Chichibu with a history of over 2,000 years, and the parent shrine of the Kawase Festival.
+- Chichibu Night Festival: The winter grand festival of the same Chichibu Shrine, one of Japan''s three great float festivals and the counterpart to the Kawase Festival.
+- Susanoo-no-Mikoto: The deity enshrined at the Hinomisaki-gu within the precincts, identified with Gozu Tenno and revered for warding off pestilence.
+- Gion Goryoe: The festival that began at Yasaka Shrine in Kyoto during the Heian period, considered the source of the Kawase Festival''s origin.
+- Mikoshi Washing: The greatest climax of the Kawase Festival, in which the palanquin is carried into the clear waters of the Arakawa to wash away misfortune.
+- The Three Shrines of Chichibu: Chichibu Shrine, Hodosan Shrine, and Mitsumine Shrine, the three ancient shrines representing Chichibu.','chichibu-kawase-matsuri','chichibu-kawase-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17209977','漢字の日','Kanji Day',NULL,'annual event celebrating kanji','Q221716','清水寺','Kiyomizu-dera Temple','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E3%81%AE%E6%97%A5',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11662545','青森花火大会','Aomori Fireworks Display',NULL,'Fireworks show in Japan','Q11662157','青森港','Port of Aomori',NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642088','三熊野神社大祭','Mikumano Jinja Taisai','静岡県掛川市の三熊野神社の祭礼','festival by Mikumano Jinja in Kakegawa City, Shizuoka Prefecture, Japan','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Mikumano%20Jinja%20Taisai%202009%2020090404.jpg','https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','三熊野神社大祭（みくまのじんじゃたいさい）は、静岡県掛川市横須賀地区の三熊野神社で毎年4月の第1金・土・日に行われる例祭である。遠州横須賀の城下町を舞台に、独特の「祢里(ねり)」と呼ばれる屋台が練り歩き、軽快な「遠州横須賀三社祭礼囃子(えんしゅうよこすかさんしゃさいれいばやし)」が町に響き渡る、遠州地方を代表する春の祭礼である。
