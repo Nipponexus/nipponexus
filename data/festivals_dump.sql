@@ -12321,15 +12321,127 @@ Food stalls operate throughout both venues, offering specialties of Asahikawa an
 
 Access to the festival is straightforward. The Heiwa-dori venue lies just three minutes on foot from JR Asahikawa Station, while the Asahibashi venue is reached by free shuttle bus in about ten minutes. From New Chitose Airport, the main air gateway to Hokkaido, Asahikawa can be reached in approximately three and a half hours by limited express train. Asahikawa Airport provides direct access for travelers with shorter timelines, with the city center about thirty minutes by car. The festival pairs well with visits to the famous Asahiyama Zoo, the Sounkyo Ice Waterfall Festival in the nearby gorge, and the celebrated landscapes of Furano and Biei, allowing visitors to construct a comprehensive winter itinerary across central and northern Hokkaido. Visitors must come prepared for severe cold with high-quality insulated outerwear, waterproof boots with good traction on packed snow and ice, gloves, hats, and face coverings.','asahikawa-winter-festival','asahikawa-winter-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11499924','文学フリマ',NULL,'日本の文学作品展示即売会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2002,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%A6%E3%83%95%E3%83%AA%E3%83%9E',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11498235','掛川祭','Kakegawa Matsuri','龍尾神社、神明宮、利神社、池邊神社、白山神社、津島神社、および、貴船神社の祭礼','festival by Tatsuo Jinja, Shimmei Gū, Toshi Jinja, Ikebe Jinja, Hakusan Jinja, Tsushima Jinja and Kifune Jinja','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2rin-yatai-kakegawa.jpg','https://ja.wikipedia.org/wiki/%E6%8E%9B%E5%B7%9D%E7%A5%AD',NULL,85,'drafted','掛川祭（かけがわまつり）は、静岡県掛川市で行われる秋の祭礼で、龍尾神社・神明宮・利神社・池邊神社・白山神社・津島神社・貴船神社など複数の神社の合同祭礼として知られる。例年10月の体育の日前後に開催され、城下町・掛川の中心市街地が祭り一色に染まる。
+INSERT INTO "festivals" VALUES('Q11498235','掛川祭','Kakegawa Matsuri','龍尾神社、神明宮、利神社、池邊神社、白山神社、津島神社、および、貴船神社の祭礼','festival by Tatsuo Jinja, Shimmei Gū, Toshi Jinja, Ikebe Jinja, Hakusan Jinja, Tsushima Jinja and Kifune Jinja','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2rin-yatai-kakegawa.jpg','https://ja.wikipedia.org/wiki/%E6%8E%9B%E5%B7%9D%E7%A5%AD',NULL,85,'drafted','## 概要
 
-掛川祭は3年に一度、特に盛大に行われる「大祭(おおまつり)」が有名で、この年には市内各町から数十台の屋台(山車)が繰り出し、絢爛な装飾と勇壮なお囃子で街を練り歩く。なかでも掛川独特の芸能である「獅子舞」や、伝統的な「奴道中(やっこどうちゅう)」、そして掛川大祭の三大余興と称される「かんからまち」「大獅子」「仁藤の大獅子」は、長い歴史に培われた地域文化の粋を今に伝える。
+掛川祭は、静岡県掛川市で毎年10月上旬に行われる秋の祭礼である。掛川城の城下町・掛川宿の伝統を色濃く受け継ぐ祭りで、掛川駅北側の市街地を中心に、華やかに装飾された二輪型の屋台が各町から繰り出して練り歩く。城下町ならではの風情と、夜の熱気に満ちた賑わいの両方を味わえる、東海地方を代表する城下町の祭りである。
 
-掛川は東海道の宿場町・城下町として栄えた歴史を持ち、掛川城を擁する城下の町割りがそのまま祭りの舞台となる。各町内が誇りをかけて屋台や芸能を競い合う様子は、地域の結束と伝統継承の象徴である。秋の夜に提灯の灯りを揺らしながら進む屋台の列は、東海地方の城下町ならではの情緒を色濃く漂わせる。','The Kakegawa Matsuri is an autumn festival held in Kakegawa, Shizuoka Prefecture, known as a joint festival of multiple shrines including Tatsuo Shrine, Shinmei-gū, Toshi Shrine, Ikebe Shrine, Hakusan Shrine, Tsushima Shrine, and Kifune Shrine. Held annually around the Health and Sports Day holiday in October, it transforms the central district of the former castle town of Kakegawa into a festive spectacle.
+掛川祭の大きな特徴は、三年に一度、干支の丑・辰・未・戌の年に規模を拡大して催される「掛川大祭」の存在である。大祭の年には市内各町の屋台に加え、三大余興と称される「仁藤町の大獅子」「瓦町のかんからまち」「西町の奴道中」が登場し、街は一年で最も熱気に包まれる。大祭以外の年は規模を縮小した小祭として毎年開催され、屋台の曳き回しや踊り、囃子が披露される。
 
-The Kakegawa Matsuri is especially famous for its grand festival (ō-matsuri) held once every three years, when dozens of floats (yatai) from neighborhoods across the city parade through the streets with lavish decorations and spirited festival music. Among the highlights are Kakegawa''s distinctive lion dances, the traditional "yakko dōchū" procession, and the three great entertainments of the Kakegawa Grand Festival—"Kankaramachi," the "Great Lion," and the "Great Lion of Nitō"—which embody the essence of regional culture cultivated over a long history.
+## 歴史と由来
 
-Kakegawa flourished as a post town on the Tōkaidō highway and as a castle town, and the urban layout surrounding Kakegawa Castle itself becomes the stage for the festival. The sight of neighborhoods competing with pride through their floats and performances symbolizes community solidarity and the transmission of tradition. The procession of floats advancing through the autumn night, their lanterns swaying, evokes the distinctive atmosphere of a castle town in the Tōkai region.','kakegawa-matsuri','kakegawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+掛川祭の歴史は江戸時代中期にさかのぼる。掛川市に残る古文書によれば、延享3年(1746年)にはすでに祭りが行われていたことが分かっており、寛延3年(1750年)から宝暦年間(1751年〜1764年)にかけては、龍尾神社・神明宮・利神社の三社が合同で祭りを営んでいたとの記述が残る。城下町・掛川宿の公認された祭礼として、早くから地域に根づいていたことがうかがえる。
+
+明治時代に入ると、いったんは三社それぞれが別々に祭りを行うようになった。しかし大正9年(1920年)に江戸時代以来の合同祭礼が復活し、以後は再び複数神社が力を合わせて祭りを支える形が受け継がれてきた。祭神の異なる複数の神社が合同で祭典を営むのは全国的にも珍しく、掛川祭の大きな特色となっている。
+
+現在の掛川祭は、掛川城周辺に鎮座する七社、すなわち龍尾神社・神明宮・利神社・池辺神社・白山神社・津島神社・貴船神社による合同の祭りへと発展している。この七社の氏子である四十一の町が参加し、それぞれが屋台や芸能を持ち寄ることで、規模と多様性を兼ね備えた祭りが形づくられている。もともと三社の祭りであったものが、近代以降の市街地の整備や町の結びつきの中で七社合同へと広がっていった経緯は、掛川という城下町の歴史そのものを映している。
+
+祭りに繰り出す屋台や芸能には、各地の文化が出会い融合した掛川ならではの個性がある。屋台の装飾は主に中京圏の影響を受け、囃子は江戸の天下祭に源を持つ東日本の系譜を引くとされる。戦前には「衣裳祭り」とも呼ばれ、華やかな衣装をまとった子どもたちが参加する伝統は今も息づいている。異なる文化の流れが一つの祭りに結晶している点こそ、掛川祭の奥深さである。
+
+## 見どころ
+
+**仁藤町の大獅子**
+掛川大祭を象徴する余興が、仁藤町の大獅子である。重さおよそ220kgの巨大な獅子頭と全長約25mに及ぶ胴体(母衣)を、百数十人がかりで操って舞う姿は圧巻の一言に尽きる。竹法螺の音が大獅子の到来を告げ、「鉄火」の曲に乗って道いっぱいに躍動する。幕末に仁藤町の僧が伊勢国白子で見た大獅子頭の山車をもとに考案したと伝わる、他に類を見ない獅子舞である。
+
+**瓦町のかんからまち**
+瓦町から出る「かんからまち」は、静岡県指定無形民俗文化財に指定された伝統の獅子舞である。透き通る笛の音とリズムを刻む太鼓のなか、一人立ちの三頭の獅子が舞い、道行・三角舞・本舞・戻り三角舞の四部構成で演じられる。二頭の雄獅子が一頭の雌獅子をめぐって競い合う本舞は物語性に富み、龍尾神社の神輿渡御の露払いを務める格式ある芸能でもある。
+
+**西町の奴道中**
+西町に伝わる奴道中は、薩摩島津氏の大名行列を模して掛川宿当時の道中を再現するものである。白毛の印をつけた長柄槍を投げ渡す奴の演技が見どころで、参勤交代の行列の様子を今に伝える。開催期間中には奴道中のみで練り歩く場合と、総編成の大名行列として繰り出す場合とがあり、城下町・宿場町としての掛川の歴史を体感できる。
+
+**四十一町の二輪屋台**
+掛川祭では四十一の町がそれぞれ趣向を凝らした屋台を曳き回す。掛川の屋台は国内でも珍しい二輪型で、華やかな装飾と各町の誇りが込められている。掛川駅北側の「お祭り広場」では、市内各町の屋台や踊り・舞・囃子・余興がまとめて披露されるため、多彩な屋台を一度に楽しむことができる。
+
+**屋台すれ違いのしきたり**
+屋台同士がすれ違う際には、掛川祭特有のしきたりが行われる。先導役が掛け声を交わし、囃子を止めて屋台の位置を調整し、リズムを変えて再び進むという一連のやり取りは「外交」「手木合わせ」「徹花」と呼ばれる。道幅が狭かった時代の名残であり、交差点周辺で繰り広げられるこの作法は、時に和やかに時に緊迫した独特の雰囲気を生み出す。
+
+**昼と夜で異なる祭りの表情**
+掛川祭は、昼は城下町ならではの風情ある佇まいを見せ、夜は提灯の灯りに照らされた屋台が熱気とともに街を巡る。日中と夜とで趣を大きく変えるのも魅力の一つで、秋空にそびえる掛川城を背景に進む屋台の列は、東海の城下町らしい情緒を色濃くたたえている。
+
+## 開催情報・アクセス
+
+- 開催地: 静岡県掛川市中心部(掛川駅北側の市街地)
+- 主な会場: 掛川駅北側の「お祭り広場」および市内各町
+- 開催時期: 毎年10月上旬(大祭は4日間、小祭は3日間)
+- 大祭の周期: 三年に一度、干支の丑・辰・未・戌の年に「掛川大祭」を開催(それ以外の年は小祭)
+- 参加: 掛川城周辺の七社の氏子四十一町・約40台の屋台
+- アクセス: JR掛川駅から徒歩圏内(会場は駅北側の中心街)
+
+## 周辺の見どころ
+
+祭りの舞台となる掛川の街の中心には、掛川城がそびえる。戦国武将・山内一豊が城主を務めたことで知られ、平成に日本初の本格木造復元天守として再建された天守閣は、掛川のシンボルである。天守からは城下町の町割りを一望でき、その町割りがそのまま祭りの舞台となっていることを実感できる。祭りとあわせて訪れれば、城下町の歴史と祭礼の結びつきをより深く味わえる。
+
+掛川は東海道五十三次の宿場「掛川宿」として栄えた歴史を持ち、街道沿いには宿場町の面影が残る。市内には掛川城御殿(重要文化財)など歴史的な建造物も点在し、城下町・宿場町としての掛川の来歴をたどる散策が楽しめる。祭りの余興「奴道中」が再現する参勤交代の情景と重ねて歩けば、往時の掛川の賑わいが偲ばれる。
+
+やや足を延ばせば、掛川市は茶の名産地としても知られ、深蒸し茶をはじめとする掛川茶を味わうことができる。また、花と緑のテーマパークや歴史ある寺社も点在しており、山内一豊ゆかりの地を巡る旅や、遠州の自然と食を楽しむ旅程を、掛川祭とあわせて組み立てることができる。
+
+## 関連情報
+
+- 開催月: 10月(上旬)
+- 都道府県・地域: 静岡県(中部・遠州)
+- 起源: 延享3年(1746年)には既に開催、寛延3年(1750年)〜宝暦年間に龍尾・神明・利の三社が合同、大正9年(1920年)に合同祭礼が復活
+- 主催・構成: 掛川城周辺の七社(龍尾・神明・利・池辺・白山・津島・貴船)の合同祭礼・氏子四十一町が参加
+- 三大余興(大祭時): 仁藤町の大獅子・瓦町のかんからまち(静岡県指定無形民俗文化財)・西町の奴道中
+- 特色: 三年に一度(丑・辰・未・戌年)の大祭と毎年の小祭の二層構造、国内でも珍しい二輪型屋台','## Overview
+
+The Kakegawa Festival is an autumn festival held every year in early October in Kakegawa City, Shizuoka Prefecture. Deeply inheriting the traditions of Kakegawa-juku, the castle town of Kakegawa Castle, the festival centers on the urban district north of Kakegawa Station, where gorgeously decorated two-wheeled floats set out from each neighborhood and parade through the streets. Offering both the refined atmosphere unique to a castle town and the fervent bustle of the night, it is a leading castle-town festival of the Tokai region.
+
+A major feature of the Kakegawa Festival is the Kakegawa Grand Festival, held on an enlarged scale once every three years, in the zodiac years of the ox, dragon, sheep, and dog. In the year of the grand festival, in addition to the floats of each neighborhood, three great performances appear, known as the Great Lion of Nito, the Kankaramachi of Kawara, and the Yakko Dochu of Nishimachi, wrapping the town in the greatest excitement of the year. In other years the festival is held annually on a reduced scale as the small festival, with float pulling, dance, and music on display.
+
+## History and Origins
+
+The history of the Kakegawa Festival dates back to the mid-Edo period. According to old documents preserved in Kakegawa City, the festival was already being held in 1746, and records remain that from 1750 through the Horeki era (1751 to 1764), the three shrines of Ryubi Shrine, Shinmei-gu, and Toshi Shrine jointly conducted the festival. It can be seen that it took root early in the region as an officially recognized festival of the castle town of Kakegawa-juku.
+
+Entering the Meiji era, the three shrines came for a time to hold their festivals separately. However, in 1920 the joint festival dating from the Edo period was revived, and thereafter the form in which several shrines join forces to support the festival has been handed down once more. That several shrines with different enshrined deities jointly conduct a festival is rare nationwide and has become a great distinctive feature of the Kakegawa Festival.
+
+The Kakegawa Festival of today has developed into a joint festival of seven shrines situated around Kakegawa Castle, namely Ryubi Shrine, Shinmei-gu, Toshi Shrine, Ikebe Shrine, Hakusan Shrine, Tsushima Shrine, and Kifune Shrine. Forty-one neighborhoods that are the parishioners of these seven shrines take part, each bringing floats and performing arts, thereby shaping a festival that combines scale with diversity. The course by which what was once a festival of three shrines expanded into a joint festival of seven, amid the modern development of the urban district and the ties among neighborhoods, mirrors the very history of Kakegawa as a castle town.
+
+The floats and performing arts that fill the festival possess a character distinctive to Kakegawa, born of the meeting and fusion of cultures from various regions. The decoration of the floats is said to be chiefly influenced by the Chukyo area, while the festival music traces its lineage to the eastern Japanese tradition originating in Edo''s Tenka festivals. Before the war it was even called the Costume Festival, and the tradition of children taking part clad in gorgeous costumes lives on today. That the currents of differing cultures crystallize into a single festival is precisely the depth of the Kakegawa Festival.
+
+## Highlights
+
+**The Great Lion of Nito**
+The performance that symbolizes the Kakegawa Grand Festival is the Great Lion of Nito neighborhood. The sight of a colossal lion, with a head weighing roughly 220 kilograms and a body (horo) extending some 25 meters, manipulated and danced by more than a hundred people, can only be called overwhelming. The sound of a bamboo conch announces the arrival of the great lion, which surges the width of the road to the tune of Tekka. It is a lion dance unlike any other, said to have been conceived from a great lion-head float that a monk of Nito saw in Shiroko, Ise Province, in the late Edo period.
+
+**The Kankaramachi of Kawara**
+The Kankaramachi that comes from Kawara neighborhood is a traditional lion dance designated an Intangible Folk Cultural Property by Shizuoka Prefecture. Amid the clear tone of a flute and the rhythm-keeping beat of a drum, three single-standing lions dance, performing in a four-part structure of the procession, the triangle dance, the main dance, and the returning triangle dance. The main dance, in which two male lions vie over a single female lion, is rich in narrative, and it is also a performance of high dignity that serves as the vanguard for the portable-shrine procession of Ryubi Shrine.
+
+**The Yakko Dochu of Nishimachi**
+The Yakko Dochu handed down in Nishimachi reenacts the procession of the days of Kakegawa-juku, modeled on the feudal-lord procession of the Shimazu clan of Satsuma. A highlight is the performance of servants tossing to one another long-handled spears marked with white hair, conveying to this day the scene of the alternate-attendance processions. During the festival period, there are times when the Yakko Dochu parades alone and times when it sets out as a full-formation feudal-lord procession, allowing one to experience the history of Kakegawa as a castle town and post town.
+
+**The Two-Wheeled Floats of Forty-One Neighborhoods**
+At the Kakegawa Festival, forty-one neighborhoods each pull floats crafted with ingenuity. Kakegawa''s floats are of a two-wheeled type rare even within Japan, embodying gorgeous decoration and the pride of each neighborhood. At the Festival Plaza north of Kakegawa Station, the floats, dance, music, and performances of each neighborhood are presented together, so that visitors can enjoy a rich variety of floats all at once.
+
+**The Custom of Passing Floats**
+When floats pass one another, a custom unique to the Kakegawa Festival is performed. The series of exchanges in which the leaders call out to one another, the music stops to adjust the floats'' positions, and the rhythm changes before they proceed again is called gaiko, tegi-awase, and tekka. A vestige of an age when the roads were narrow, this etiquette unfolding around intersections creates a distinctive atmosphere, at times genial and at times tense.
+
+**Different Faces by Day and Night**
+The Kakegawa Festival shows the refined bearing distinctive to a castle town by day, while by night floats lit by the glow of lanterns tour the town amid great heat. That it changes its aspect greatly between day and night is one of its attractions, and the line of floats advancing against the backdrop of Kakegawa Castle rising into the autumn sky richly embodies the atmosphere of a Tokai castle town.
+
+## Event Information and Access
+
+- Location: Central Kakegawa City, Shizuoka Prefecture (the urban district north of Kakegawa Station)
+- Main venues: The Festival Plaza north of Kakegawa Station and neighborhoods throughout the city
+- Dates: Early October every year (the grand festival over four days, the small festival over three days)
+- Grand festival cycle: The Kakegawa Grand Festival is held once every three years, in the zodiac years of the ox, dragon, sheep, and dog (other years feature the small festival)
+- Participation: Forty-one neighborhoods of the parishioners of the seven shrines around Kakegawa Castle, with about 40 floats
+- Access: Within walking distance of JR Kakegawa Station (venues are in the central district north of the station)
+
+## Nearby Attractions
+
+At the heart of the town that hosts the festival rises Kakegawa Castle. Known for having had the warlord Yamauchi Kazutoyo as its lord, its keep, rebuilt in the Heisei era as Japan''s first full-scale wooden reconstruction, is a symbol of Kakegawa. From the keep one can survey the layout of the castle town, and realize that this very layout serves directly as the stage of the festival. Visiting together with the festival allows a deeper appreciation of the bond between the castle town''s history and its rites.
+
+Kakegawa holds a history of flourishing as Kakegawa-juku, a post town on the Tokaido''s fifty-three stations, and traces of the post town remain along the highway. Historic structures such as the Kakegawa Castle Palace, an Important Cultural Property, are scattered about the city, offering strolls that trace Kakegawa''s origins as a castle town and post town. Walking while overlaying the scene of the alternate-attendance procession reenacted by the festival performance Yakko Dochu, one can imagine the bustle of Kakegawa in former days.
+
+A little farther afield, Kakegawa City is also known as a renowned tea-producing area, where one can savor Kakegawa tea, including deep-steamed green tea. Flower-and-greenery theme parks and historic temples and shrines are also scattered about, and one can build an itinerary alongside the Kakegawa Festival that tours places associated with Yamauchi Kazutoyo or enjoys the nature and cuisine of the Enshu region.
+
+## Related Information
+
+- Month held: October (early)
+- Prefecture and region: Shizuoka Prefecture (Chubu region, Enshu area)
+- Origins: Already held by 1746; the three shrines of Ryubi, Shinmei, and Toshi held a joint festival from 1750 through the Horeki era; the joint festival was revived in 1920
+- Organization: A joint festival of the seven shrines around Kakegawa Castle (Ryubi, Shinmei, Toshi, Ikebe, Hakusan, Tsushima, Kifune), with forty-one parishioner neighborhoods taking part
+- Three great performances (at the grand festival): The Great Lion of Nito, the Kankaramachi of Kawara (a Shizuoka Prefecture Intangible Folk Cultural Property), and the Yakko Dochu of Nishimachi
+- Distinctive features: A two-tier structure of a grand festival once every three years (ox, dragon, sheep, dog years) and an annual small festival, with two-wheeled floats rare within Japan','kakegawa-matsuri','kakegawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11526135','東北三大祭り','Three Great Festivals of Tōhoku','仙台七夕まつり、青森ねぶた祭、秋田竿燈まつりの総称',NULL,'Q129465','東北地方','Tōhoku region',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E4%B8%89%E5%A4%A7%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11502083','新川市まつり','Shinkawa-ichi Festival',NULL,NULL,NULL,NULL,NULL,'山口県','chugoku',33.95153,131.24677,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%96%B0%E5%B7%9D%E5%B8%82%E3%81%BE%E3%81%A4%E3%82%8A%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B7%9D%E5%B8%82%E3%81%BE%E3%81%A4%E3%82%8A',NULL,90,'drafted','新川市まつりは、山口県防府市の中心市街地で毎年7月下旬に開催される夏祭りであり、防府市民にとって最大の年中行事の一つである。新川と呼ばれる市街地を流れる川沿いと、駅前の中心商店街を会場として、神輿渡御、花火大会、踊りパレードなどが繰り広げられる。江戸時代から続く市場の名残を伝える祭りで、地域コミュニティの結束を象徴する伝統行事として大切に継承されている。
 
