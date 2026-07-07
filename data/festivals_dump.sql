@@ -13070,15 +13070,113 @@ INSERT INTO "festivals" VALUES('Q11541041','椿祭り','Camellia Festival','東�
 INSERT INTO "festivals" VALUES('Q11546062','武生国際音楽祭','Takefu International Music Festival','福井県越前市（旧・武生市）で行われる音楽祭',NULL,NULL,NULL,NULL,'福井県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%9F%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11557606','浜名湖花博','Pacific Flora 2004',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%90%8D%E6%B9%96%E8%8A%B1%E5%8D%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11533908','染織祭',NULL,NULL,NULL,'Q34600','京都市','Kyoto','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9F%93%E7%B9%94%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11573781','琴弾八幡宮大祭','Kotohiki Hachimangū Taisai','香川県観音寺市の琴弾八幡宮の秋季大祭',NULL,'Q3199184','琴弾八幡宮','Kotohiki Hachimangū','香川県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Nanagouchi.jpg','https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AB%E5%B9%A1%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','琴弾八幡宮大祭（ことひきはちまんぐうたいさい）は、香川県観音寺市の琴弾八幡宮で毎年10月に行われる秋季大祭である。瀬戸内海を望む琴弾山に鎮座する古社・琴弾八幡宮の例祭として、観音寺の秋を彩る勇壮な祭礼として親しまれている。
+INSERT INTO "festivals" VALUES('Q11573781','琴弾八幡宮大祭','Kotohiki Hachimangū Taisai','香川県観音寺市の琴弾八幡宮の秋季大祭',NULL,'Q3199184','琴弾八幡宮','Kotohiki Hachimangū','香川県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Nanagouchi.jpg','https://ja.wikipedia.org/wiki/%E7%90%B4%E5%BC%BE%E5%85%AB%E5%B9%A1%E5%AE%AE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','琴弾八幡宮大祭（ことひきはちまんぐうたいさい）は、香川県観音寺市の琴弾八幡宮で毎年10月の第3週末に行われる秋季大祭である。正式名称は「琴弾八幡宮御大祭」で、地元では「観音寺祭り」「観音寺ちょうさ祭り」の通称で広く親しまれている。瀬戸内海を望む琴弾山に鎮座する古社の例祭として、収穫の秋に感謝を捧げるとともに、香川県西部（西讃）に根づいた太鼓台文化の粋を集めた勇壮な祭礼である。
 
-祭りの主役は、豪華絢爛な「ちょうさ」と呼ばれる太鼓台である。金糸で刺繍された飾り幕で装飾されたちょうさを、大勢の担ぎ手たちが「ちょうさじゃ」の威勢のよい掛け声とともに担ぎ上げる。複数のちょうさが一堂に会し、力と技を競い合う「かきくらべ」は、観衆の熱気を最高潮に高める。重量のある太鼓台を高々と差し上げる男たちの姿は圧巻である。
+祭りの主役は「ちょうさ」と呼ばれる太鼓台で、琴弾八幡宮には9台が奉納される。この9台は周辺地域の太鼓台に比べてかなりの大型で、俗に「3トン級」と呼ばれるほどの重量を誇り、金糸で刺繍された飾り幕をまとった姿は絢爛豪華そのものである。夜間の派手な電飾でも知られ、担ぎ手たちが息を合わせて太鼓台を高々と差し上げる「かきくらべ」は、観衆の熱気を最高潮に高める祭りのハイライトとなっている。
 
-琴弾八幡宮は、海の守護神・八幡神を祀る古社で、眼下に広がる有明浜の砂浜に描かれた巨大な「寛永通宝」の銭形砂絵でも知られる景勝の地である。瀬戸内の温暖な気候のもと、収穫の秋に感謝を捧げるこの大祭は、香川県西部に根づいた太鼓台文化と、海と山に育まれた地域の祭礼の伝統を今に伝えている。','The Kotohiki Hachimangū Taisai is the grand autumn festival held every October at Kotohiki Hachimangū in Kan''onji, Kagawa Prefecture. As the annual festival of the ancient Kotohiki Hachimangū, which sits on Mt. Kotohiki overlooking the Seto Inland Sea, it is beloved as a spirited celebration coloring autumn in Kan''onji.
+## 歴史と由来
 
-The stars of the festival are the magnificent and ornate drum-floats called "chōsa." Adorned with hanging curtains embroidered in gold thread, the chōsa are hoisted by large numbers of bearers to the rousing chant of "chōsa ja." The "kakikurabe," in which several chōsa gather together to compete in strength and skill, raises the crowd''s excitement to its peak. The sight of men lifting the heavy drum-floats high aloft is overwhelming.
+琴弾八幡宮は、瀬戸内海を望む景勝の地・琴弾山の山頂に鎮座する古社である。社伝によれば大宝3年（703年）の創建と伝えられ、海の守護神である八幡神（応神天皇）を祀る。琴を弾く主を船とともに山頂まで引き上げて神殿を建て「琴弾八幡宮」として祀ったという神話が社名の由来とされ、この「船を山頂へ引き上げる」故事は、後述する大祭の稚児行列の所作にも受け継がれている。
 
-Kotohiki Hachimangū is an ancient shrine enshrining Hachiman, the guardian deity of the sea, and a scenic spot also known for the gigantic "Kan''ei Tsūhō" coin-shaped sand drawing rendered on the sands of Ariake Beach spreading below. Held under the mild climate of the Seto Inland Sea to give thanks in the harvest autumn, this grand festival conveys the drum-float culture rooted in western Kagawa and the festival traditions of a region nurtured by both sea and mountain.','kotohiki-hachimangu-taisai','kotohiki-hachimangu-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+江戸時代以前、琴弾八幡宮は神仏習合のもとで四国八十八ヶ所霊場の第68番札所であった歴史をもつ。また源義経が源平合戦（屋島の戦い）に際して勝利祈願をした地としても知られ、瀬戸内海の海上交通と武家の信仰を集めてきた由緒ある社である。こうした歴史的背景が、地域を挙げての盛大な秋季大祭を支える土壌となってきた。
+
+大祭の中心をなす太鼓台（ちょうさ）の奉納は、江戸時代からの伝統をもつ。香川県西部の西讃地域は太鼓台文化がとりわけ濃密な土地で、豊浜・観音寺・大野原に大型の太鼓台が集中し、観音寺市内だけでも118台ものちょうさが現存するとされる。10月になると市内各地でちょうさ祭が催され、まちは太鼓の音と熱気に包まれるが、その中心的存在が琴弾八幡宮大祭である。
+
+9台の太鼓台はそれぞれ地域の自治会によって運営・保存されており、壹號中太鼓から九號社家太鼓まで号数と名称が定められている。八號茂木太鼓は平成11年（1999年）より茂木自治会が、九號社家太鼓は平成12年（2000年）より八幡町自治会が所有するなど、比較的新しく加わった太鼓台もあり、江戸期以来の伝統を受け継ぎながら現在も担い手の輪が維持されている。かつて奉納されていた子供太鼓のように休止中のものもあり、祭りは時代とともにその姿を変えながら続いてきた。
+
+## 見どころ
+
+**3トン級の巨大なちょうさ9台**　琴弾八幡宮に奉納される9台のちょうさは、周辺地域の太鼓台よりもひときわ大型で、俗に3トン級と称される。金糸の刺繍で彩られた飾り幕をまとった巨体を大勢の担ぎ手が支える姿は、西讃の太鼓台文化の頂点を体現している。
+
+**男たちが競う「かきくらべ」**　複数のちょうさが一堂に会し、重量のある太鼓台を高々と差し上げて力と技を競い合うのが「かきくらべ」である。担ぎ手たちの息の合った所作と威勢のよい掛け声が響き、観衆の熱気とともに祭り全体が最高潮を迎える瞬間となる。
+
+**山頂本殿への宮入り奉納**　土・日曜日の午後には、東地区・西地区を運行したちょうさが琴弾八幡宮へと宮入りし、太鼓台を奉納する。三架橋を渡って進む太鼓台の列は観音寺の秋を象徴する光景で、細かい規則に則って運営される奉納の所作にも伝統の重みが宿る。
+
+**神話に基づく稚児行列（お供揃い）**　琴弾八幡宮の成り立ちにまつわる神話に基づき、地域の子供たちや祭礼関係者が船を山頂の本殿まで引き上げる稚児行列（お供揃い）が行われる。お稚児さん行列と神輿が琴弾山麓の十王堂内を通過する際には、ちょうさのかきくらべが一時中断される慣わしがある。
+
+**夜を彩る電飾と花火の競演**　琴弾八幡宮大祭は夜間の派手な電飾でも有名で、ライトアップされたちょうさが闇に浮かび上がる。例年、土曜日の夜には花火が打ち上げられ、光り輝く太鼓台と夜空の花火が競演する幻想的な光景が、昼とはまた異なる祭りの魅力を見せる。
+
+**七十五膳配膳式と一ツ物放生会**　大祭では太鼓台奉納のほかにも多彩な祭礼行事が営まれる。神前に七十五の膳を供える「七十五膳配膳式」や、鳥居前を流れる八幡川（放生川）に鯉を放流する「一ツ物放生会」、里神楽などの奉納行事が行われ、勇壮な太鼓台と静謐な神事が一体となって大祭を形づくっている。
+
+## 開催情報
+
+- 開催地：香川県観音寺市
+- 会場：琴弾八幡宮（観音寺市八幡町1-1-1）・十王堂周辺
+- 開催時期：毎年10月の第3日曜日を最終とする金・土・日の3日間（金曜＝宵祭り、土日＝宮入奉納）
+- 主な行事：ちょうさのかきくらべ・宮入奉納、稚児行列（お供揃い）、神輿渡御、花火（土曜夜）、屋台
+- アクセス：JR予讃線・観音寺駅からタクシー約4分／高松自動車道さぬき豊中ICから車で約12分
+- 観覧：観覧無料（駐車は有明浜グラウンド等の指示に従う）。※情勢により中止・変更となる場合がある
+
+## 周辺の見どころ
+
+祭りの舞台となる琴弾山を含む一帯は、国の名勝に指定された琴弾公園として整備されている。園内の有明浜には、周囲約345メートルにおよぶ巨大な砂絵「銭形砂絵（寛永通宝）」が描かれており、琴弾山の山頂展望台から見下ろすこの銭形は「見た者は健康で長生きし、お金に不自由しない」と言い伝えられる観音寺屈指の名所である。
+
+観音寺市には太鼓台文化を一年を通じて体感できる「ちょうさ会館」があり、実物のちょうさや祭りの映像を通じて、市内に100台以上現存する太鼓台の世界を学ぶことができる。大祭の時期以外に訪れても、西讃の秋祭りの熱気の一端に触れられる施設である。
+
+琴弾八幡宮の周辺は四国八十八ヶ所霊場の札所が集まる遍路の地でもある。琴弾八幡宮は江戸時代以前に第68番札所であった歴史をもち、現在の第68番神恵院・第69番観音寺は同一境内に並ぶ全国的にも珍しい二霊場として知られ、祭りと巡礼の文化が重なり合う観音寺ならではの風景を楽しめる。
+
+## 関連情報
+
+- 開催月：10月（秋）
+- 所在地：香川県観音寺市（四国地方）
+- 起源：太鼓台奉納は江戸時代からの伝統／琴弾八幡宮は社伝で大宝3年（703年）創建と伝わる
+- 規模：3トン級のちょうさ9台を奉納（観音寺市内には計118台のちょうさが現存）
+- 通称：観音寺祭り／観音寺ちょうさ祭り
+- 特色：山頂本殿への宮入り、神話に由来する稚児行列、夜間電飾と花火の競演
+','The Kotohiki Hachimangu Taisai is the grand autumn festival of Kotohiki Hachimangu Shrine in Kan''onji City, Kagawa Prefecture, held every year over the third weekend of October. Its formal name is Kotohiki Hachimangu Otaisai, but it is far better known by its local names, the Kan''onji Festival and the Kan''onji Chosa Festival. As the annual rite of an ancient shrine standing on Mount Kotohiki overlooking the Seto Inland Sea, the festival gives thanks for the autumn harvest while showcasing the very finest of the drum-float culture rooted in western Kagawa, a region known as Sanuki-sei-san.
+
+The stars of the festival are the great drum floats called chosa, of which nine are dedicated to Kotohiki Hachimangu Shrine. These nine floats are considerably larger than the drum floats of neighboring areas, so heavy that they are popularly described as belonging to the three-ton class, and their bodies draped in curtains embroidered with gold thread are gorgeous in the extreme. The floats are also famous for their dazzling nighttime illumination, and the kakikurabe, in which teams of bearers work in unison to hoist the massive floats high overhead, is the highlight that brings the excitement of the crowds to its peak.
+
+## History and Origins
+
+Kotohiki Hachimangu Shrine stands at the summit of Mount Kotohiki, a scenic height commanding views of the Seto Inland Sea. According to shrine tradition it was founded in the third year of the Taiho era (703), and it enshrines Hachiman, the god of war and guardian of the sea, identified with Emperor Ojin. The shrine''s name is said to derive from a legend in which the master of a koto (a stringed instrument) was drawn up to the summit together with his boat, where a shrine was then built to enshrine him as Kotohiki Hachimangu. This ancient tale of drawing a boat up to the mountaintop lives on in the children''s procession of the modern festival, described below.
+
+Before the modern separation of Buddhism and Shinto, Kotohiki Hachimangu was the sixty-eighth temple of the Shikoku Pilgrimage of eighty-eight sacred sites. It is also known as the place where Minamoto no Yoshitsune prayed for victory during the Genpei War, drawing the faith of both the maritime traffic of the Inland Sea and the warrior class. This deep historical background formed the foundation for a grand autumn festival embraced by the entire community.
+
+The dedication of the chosa drum floats that lies at the heart of the festival has been a tradition since the Edo period. The Sanuki-sei-san district of western Kagawa is an especially dense center of drum-float culture, with large floats concentrated in Toyohama, Kan''onji, and Onohara. It is said that within Kan''onji City alone there are as many as 118 chosa in existence. When October comes, chosa festivals are held throughout the city and the town is enveloped in the sound of drums and the heat of the crowds, and the Kotohiki Hachimangu Taisai stands at the very center of these celebrations.
+
+Each of the nine drum floats is operated and preserved by its local neighborhood associations, and they are given numbers and names from the First (Naka) drum through to the Ninth (Shake) drum. Some are relatively recent additions, such as the Eighth (Mogi) drum, owned by the Mogi association since 1999, and the Ninth (Shake) drum, owned by the Hachimancho association since 2000. In this way the festival continues to maintain its circle of bearers today while inheriting a tradition that reaches back to the Edo period. Some floats, such as the children''s drum floats once dedicated, are currently suspended, and the festival has continued while changing its form with the times.
+
+## Highlights
+
+**Nine massive three-ton-class chosa**　The nine chosa dedicated to Kotohiki Hachimangu are conspicuously larger than the drum floats of surrounding areas and are known as the three-ton class. The sight of a great crowd of bearers supporting these giant bodies, adorned with curtains embroidered in gold thread, embodies the pinnacle of the drum-float culture of western Kagawa.
+
+**The kakikurabe contest of strength**　In the kakikurabe, several chosa gather together and their bearers compete in strength and skill by hoisting the heavy drum floats high into the air. The perfectly coordinated movements and spirited chants of the bearers ring out, and together with the fervor of the onlookers this is the moment when the whole festival reaches its climax.
+
+**Dedication and entry to the summit shrine**　On Saturday and Sunday afternoons, the chosa that have paraded through the eastern and western districts enter the precincts of Kotohiki Hachimangu and are dedicated to the shrine. The line of drum floats crossing the Sankakyo Bridge is a scene emblematic of autumn in Kan''onji, and the dedication, conducted according to detailed rules, carries the full weight of tradition.
+
+**The children''s procession rooted in legend**　Based on the legend of the shrine''s founding, a children''s procession known as osonaezoroe is held in which local children and festival participants draw a boat up to the main shrine at the summit. When the procession of children and the portable shrine pass through the Juodo hall at the foot of Mount Kotohiki, the kakikurabe of the chosa is customarily paused.
+
+**Nighttime illumination and fireworks**　The Kotohiki Hachimangu Taisai is famous for its flamboyant nighttime illumination, with the chosa lit up and floating out of the darkness. Each year fireworks are launched on Saturday night, and the fantastical spectacle of the glowing drum floats set against fireworks in the night sky reveals a charm of the festival quite different from that of the daytime.
+
+**The seventy-five-tray offering and the release of carp**　Beyond the dedication of the drum floats, the grand festival hosts a wealth of ritual events. The seventy-five-tray offering ceremony, in which seventy-five trays are presented before the deity, the hitotsumono release rite in which carp are released into the Hachiman River (Hojogawa) that flows before the shrine gate, and dedications of village kagura dance are all performed, so that the vigorous drum floats and the serene rites together give the festival its full shape.
+
+## Event Information
+
+- Location: Kan''onji City, Kagawa Prefecture
+- Venue: Kotohiki Hachimangu Shrine (1-1-1 Hachimancho, Kan''onji City) and the area around the Juodo hall
+- Dates: Three days from Friday to Sunday, with the third Sunday of October as the final day (Friday is the eve festival; Saturday and Sunday are the shrine entry and dedication)
+- Main events: Chosa kakikurabe and shrine dedication, children''s procession (osonaezoroe), portable shrine procession, fireworks (Saturday night), food stalls
+- Access: About 4 minutes by taxi from Kan''onji Station on the JR Yosan Line; about 12 minutes by car from the Sanuki-Toyonaka IC on the Takamatsu Expressway
+- Admission: Free to view (follow directions for parking at the Ariake beach ground and elsewhere). Note that the festival may be canceled or changed depending on circumstances.
+
+## Around the Area
+
+The area including Mount Kotohiki, the stage of the festival, is maintained as Kotohiki Park, designated a national Place of Scenic Beauty. On the Ariake beach within the park is drawn a colossal sand picture, the Zenigata Sunae in the shape of the Kan''ei Tsuho coin, measuring about 345 meters in circumference. Viewed from the observation deck at the summit of Mount Kotohiki, this coin figure is one of Kan''onji''s foremost attractions, and legend holds that those who see it will enjoy health, long life, and freedom from want of money.
+
+Kan''onji City is home to the Chosa Kaikan, a hall where visitors can experience the drum-float culture throughout the year. Through actual chosa and footage of the festivals, one can learn about the world of the more than one hundred drum floats that survive within the city. Even for those who visit outside the festival season, it offers a taste of the fervor of the autumn festivals of western Kagawa.
+
+The area around Kotohiki Hachimangu is also a land of pilgrimage where sacred sites of the Shikoku Pilgrimage of eighty-eight temples cluster together. Kotohiki Hachimangu itself was the sixty-eighth temple before the Meiji era, and today the sixty-eighth temple Jinnein and the sixty-ninth temple Kan''onji stand side by side within a single precinct, a pairing rare even nationwide, offering a landscape unique to Kan''onji where the cultures of festival and pilgrimage overlap.
+
+## Related Information
+
+- Month: October (autumn)
+- Location: Kan''onji City, Kagawa Prefecture (Shikoku region)
+- Origins: The dedication of drum floats is a tradition dating from the Edo period; the shrine is said by tradition to have been founded in 703
+- Scale: Nine three-ton-class chosa are dedicated (a total of 118 chosa survive within Kan''onji City)
+- Common names: Kan''onji Festival / Kan''onji Chosa Festival
+- Features: Entry and dedication to the summit shrine, a children''s procession rooted in legend, nighttime illumination and fireworks
+','kotohiki-hachimangu-taisai','kotohiki-hachimangu-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11549314','水郷潮来あやめまつり','Suigō Itako Iris Festival','茨城県潮来市の水郷潮来あやめ園で行われる祭り',NULL,'Q11397147','水郷潮来あやめ園','Suigō Itako Iris Garden','茨城県','kanto',35.9366,140.5461,1952,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Suigo%20Itako%20Ayame%20Garden%2015.jpg','https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E6%BD%AE%E6%9D%A5%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
 水郷潮来あやめまつり（すいごういたこあやめまつり）は、茨城県潮来市の水郷潮来あやめ園で毎年5月下旬から6月下旬にかけて開催される、約100万本のあやめ・花菖蒲が咲き誇る大規模な花の祭典である。1952年（昭和27年）に始まり、関東屈指のあやめ名所として知られる。
@@ -14493,11 +14591,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
