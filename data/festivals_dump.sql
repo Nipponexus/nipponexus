@@ -6263,93 +6263,111 @@ A little farther afield is Zao, spreading to the east of Yamagata City. Zao is t
 ## Related Information
 
 Details on the Yamagata Hanagasa Festival can be found on the festival''s official site and in tourism information of Yamagata Prefecture and Yamagata City. This festival began in 1963 as the Hanagasa Ondo Grand Parade of the Zao Summer Festival and came to be held as an independent festival from 1965; though comparatively new, it is a summer festival representative of Tohoku. Known nationwide as one of the Four Great Festivals of Tohoku alongside the Aomori Nebuta Festival, the Akita Kanto Festival, and the Sendai Tanabata Festival, it gathers about 14,000 dancers and some one million spectators. That the original song of the Hanagasa Ondo lies in the earth-tamping song of Narusawa in Zao, Yamagata, and that the safflower adorning the flower hats is a specialty of Yamagata, show that the climate and history of Yamagata are deeply engraved in the festival. The path by which a folk song born from a work song was elevated to the star of a gorgeous great festival is a fine example of how regional culture is nurtured and handed down.','yamagata-hanagasa-matsuri','yamagata-hanagasa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11383026','佐原の大祭','Sawara Float Festival','千葉県香取市佐原で行われる本宿祇園祭と新宿秋祭りの総称',NULL,'Q17221438','八坂神社','Yasaka Shrine','千葉県','kanto',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%BD%90%E5%8E%9F%E3%81%AE%E5%A4%A7%E7%A5%AD',NULL,65,'drafted','<h2>概要</h2>
-<p>佐原の大祭（さわらのたいさい）は、千葉県香取市佐原で行われる、約300年の伝統をもつ山車祭りです。7月の夏祭り（八坂神社祇園祭）と10月の秋祭り（諏訪神社秋祭り）の年2回にわたって開催され、京都祇園祭・飛騨高山祭とともに関東三大山車祭りの一つに数えられます。2016年（平成28年12月）には「山・鉾・屋台行事」33件の一つとしてユネスコ無形文化遺産に登録され、国の重要無形民俗文化財にも指定されています。夏祭りは7月10日以降の金・土・日の3日間、小野川をはさんだ東側の本宿地区一帯を10台の山車が曳き廻されます。</p>
-<p>祭りの最大の魅力は、総欅造りの本体に関東彫りの重厚な彫刻を施し、上部に高さ約4mにも及ぶ大人形を飾った豪華絢爛な山車です。これらの山車が、日本三大囃子の一つ「佐原囃子」の音色を町中に響かせながら、「小江戸」と呼ばれる古い町並み（国選定重要伝統的建造物群保存地区）を、家々の軒先をかすめるように進んでいきます。江戸時代の情景を彷彿とさせる風情ある光景は、訪れる人々を時代絵巻の世界へと誘います。</p>
+INSERT INTO "festivals" VALUES('Q11383026','佐原の大祭','Sawara Float Festival','千葉県香取市佐原で行われる本宿祇園祭と新宿秋祭りの総称',NULL,'Q17221438','八坂神社','Yasaka Shrine','千葉県','kanto',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%BD%90%E5%8E%9F%E3%81%AE%E5%A4%A7%E7%A5%AD',NULL,65,'drafted','佐原の大祭（さわらのたいさい）は、千葉県香取市佐原で行われる、約300年の伝統をもつ山車祭りである。7月の夏祭り（八坂神社祇園祭）と10月の秋祭り（諏訪神社秋祭り）の年2回にわたって開催され、京都祇園祭・飛騨高山祭とともに関東三大山車祭りの一つに数えられる。2016年（平成28年12月）には「山・鉾・屋台行事」33件の一つとしてユネスコ無形文化遺産に登録され、国の重要無形民俗文化財にも指定されている。夏祭りは7月10日以降の金・土・日の3日間、小野川をはさんだ東側の本宿地区一帯を10台の山車が曳き廻される。
 
-<h2>歴史</h2>
-<p>佐原の大祭は約300年の歴史をもつ祭りで、利根川水運の要衝として栄えた佐原の経済力を背景に発展してきました。江戸時代、佐原は利根川舟運によって江戸と結ばれ、大いに賑わった商都でした。その繁栄ぶりは「江戸優り（えどまさり）」と称され、江戸の文化を取り入れながらも、それを上回るほどの洗練を誇ったと言われています。この豊かな町人文化が、豪華な山車祭りを育んだ土壌となりました。</p>
-<p>夏祭りは、佐原の総鎮守の一つである八坂神社の祇園祭として行われます。祇園祭は疫病や災厄を鎮め、暑い夏を無事に乗り切ることを祈願する信仰から生まれた祭りで、平安時代に京都で始まり全国へと広まりました。佐原でも夏の疫病除けを願う祭礼として、本宿地区の人々によって受け継がれてきました。</p>
-<p>山車の上部を飾る大人形は、江戸・明治期の名人人形師によって制作されたもので、日本神話や歴史上の英雄、伝説の人物などをかたどっています。高さ約4mにも及ぶこれらの人形は、佐原の職人文化と町人の心意気を象徴する存在です。総欅造りの山車本体に施された関東彫りの彫刻とともに、佐原の大祭の芸術的価値を高めています。</p>
-<p>祭りの運営は、若衆（若連）と呼ばれる若者たちが担ってきました。山車の運行はすべて若頭（かしら）の打つ拍子木（ちゃき）を合図に行われ、梃子棒を操って重い山車を巧みに動かします。こうした若者を中心とする祭りの担い手の仕組みが、300年にわたり途切れることなく伝統を伝えてきた原動力となっています。</p>
+祭りの最大の魅力は、総欅造りの本体に関東彫りの重厚な彫刻を施し、上部に高さ約4メートルにも及ぶ大人形を飾った豪華絢爛な山車である。これらの山車が、日本三大囃子の一つ「佐原囃子」の音色を町中に響かせながら、「小江戸」と呼ばれる古い町並み（国選定重要伝統的建造物群保存地区）を、家々の軒先をかすめるように進んでいく。江戸時代の情景を彷彿とさせる風情ある光景は、訪れる人々を時代絵巻の世界へと誘う。
 
-<h2>見どころ</h2>
-<h3>高さ4mの大人形を載せた山車</h3>
-<p>総欅造りの本体に関東彫りの重厚な彫刻を飾り、上部には江戸・明治期の名人人形師が制作した高さ約4mの大人形を載せた山車が、佐原の大祭の主役です。10台の山車が町を練り歩く様子は圧巻の一言です。</p>
-<h3>小江戸の町並みを行く山車</h3>
-<p>山車は「小江戸」と呼ばれる重要伝統的建造物群保存地区の古い町並みを、家々の軒先をかすめるように進みます。小野川沿いの柳をかすめて通る山車の姿は、江戸時代の情景を彷彿とさせる風情たっぷりの光景です。</p>
-<h3>日本三大囃子「佐原囃子」</h3>
-<p>祭りの間、町中には日本三大囃子の一つに数えられる「佐原囃子」の音色が響き渡ります。哀愁を帯びた独特の旋律が、祭りの情緒をいっそう深めます。</p>
-<h3>曲曳き「のの字廻し」</h3>
-<p>重い山車を巧みに操る曲曳きも見どころの一つで、なかでも山車を「の」の字を描くように回転させる「のの字廻し」は、若衆の技量が問われる花形の演目です。</p>
-<h3>狭い道での曳き違い</h3>
-<p>狭い道路で山車どうしがすれ違う「曳き違い」も腕の見せ所です。互いに巧みに山車を操ってすれ違ったあと、拍手でお互いを称え合う場面には祭りの一体感がにじみます。</p>
-<h3>夜の提灯山車</h3>
-<p>夕刻になると山車に提灯がともされ、昼とは異なる幻想的な表情を見せます。佐原囃子の音とともに灯りをまとって進む夜の山車は、この祭りならではの見どころです。</p>
+## 歴史と由来
 
-<h2>開催情報</h2>
-<p>正式名称：佐原の大祭（夏祭りは八坂神社祇園祭）</p>
-<p>開催日：夏祭りは毎年7月10日以降の金・土・日の3日間</p>
-<p>会場：千葉県香取市佐原（夏祭りは本宿地区、小野川東側一帯）</p>
-<p>開催時間：午前10時から午後10時まで（雨天決行、山車人形にはビニールシートがかけられる）</p>
-<p>山車：夏祭りは10台（総欅造り・高さ約4mの大人形を飾る）</p>
-<p>アクセス：JR成田線佐原駅下車。東関東自動車道佐原香取ICから約10分。利根川河川敷に臨時駐車場あり</p>
+佐原の大祭は約300年の歴史をもつ祭りで、利根川水運の要衝として栄えた佐原の経済力を背景に発展してきた。江戸時代、佐原は利根川舟運によって江戸と結ばれ、大いに賑わった商都であった。その繁栄ぶりは「江戸優り（えどまさり）」と称され、江戸の文化を取り入れながらもそれを上回るほどの洗練を誇ったと言われる。この豊かな町人文化が、豪華な山車祭りを育んだ土壌となった。
 
-<h2>周辺情報</h2>
-<p>佐原の町並みは「小江戸」と呼ばれ、国の重要伝統的建造物群保存地区に選定されています。小野川沿いには江戸から明治期の商家や蔵造りの建物が今も残り、舟からの町並み観光も楽しめます。祭りのない時期でも、水郷の風情ある町歩きが人気です。</p>
-<p>佐原は、日本全図を初めて実測で作り上げた伊能忠敬ゆかりの地としても知られています。旧宅や記念館が残り、佐原の町人文化の奥深さを今に伝えています。祭りとあわせて訪れたい歴史スポットです。</p>
-<p>「水郷佐原山車会館」では、夏祭りと秋祭りの山車が1台ずつ交替で展示されており、祭りの時期以外でも豪華な山車を間近で見ることができます。佐原の大祭の歴史や文化を学べる施設として親しまれています。</p>
+夏祭りは、佐原の総鎮守の一つである八坂神社の祇園祭として行われる。祇園祭は疫病や災厄を鎮め、暑い夏を無事に乗り切ることを祈願する信仰から生まれた祭りで、平安時代に京都で始まり全国へと広まった。佐原でも夏の疫病除けを願う祭礼として、本宿地区の人々によって受け継がれてきた。
 
-<h2>関連情報</h2>
-<p>八坂神社祇園祭：佐原の大祭の夏祭りにあたり、本宿地区で10台の山車が曳き廻されます。</p>
-<p>諏訪神社秋祭り：佐原の大祭の秋祭りにあたり、10月に新宿地区で14台の山車が曳き廻されます。</p>
-<p>関東三大山車祭り：佐原の大祭は、関東を代表する三つの山車祭りの一つに数えられます。</p>
-<p>ユネスコ無形文化遺産：2016年に「山・鉾・屋台行事」の一つとして登録されました。</p>
-<p>佐原囃子：日本三大囃子の一つで、祭りの間町中に響き渡ります。</p>
-<p>伊能忠敬：佐原ゆかりの偉人で、旧宅や記念館が町に残されています。</p>','<h2>Overview</h2>
-<p>The Sawara no Taisai (Sawara Grand Festival) is a float festival with about 300 years of tradition, held in Sawara, Katori City, Chiba Prefecture. It takes place twice a year, as a summer festival (the Gion Festival of Yasaka Shrine) in July and an autumn festival (the autumn festival of Suwa Shrine) in October, and is counted among the three great float festivals of the Kanto region, alongside the Kyoto Gion Festival and the Hida Takayama Festival. In 2016 (December of the 28th year of Heisei), it was registered as a UNESCO Intangible Cultural Heritage as one of the 33 "float festivals" (Yama, Hoko, Yatai events), and it is also designated a National Important Intangible Folk Cultural Property. During the summer festival, held over three days from the first Friday, Saturday, and Sunday on or after July 10, ten floats are pulled through the Honjuku district on the east side of the Ono River.</p>
-<p>The greatest attraction of the festival is its gorgeous floats, whose bodies are made entirely of zelkova wood, decorated with heavy Kanto-style carvings, and topped with giant dolls reaching heights of about four meters. These floats proceed through the old townscape known as "Koedo" (Little Edo), a nationally selected Important Preservation District for Groups of Traditional Buildings, brushing past the eaves of the houses while filling the town with the sound of "Sawara-bayashi," one of Japan''s three great festival musics. The atmospheric scene, reminiscent of the Edo period, draws visitors into a world like a picture scroll of old Japan.</p>
+山車の上部を飾る大人形は、江戸・明治期の名人人形師によって制作されたもので、日本神話や歴史上の英雄、伝説の人物などをかたどっている。高さ約4メートルにも及ぶこれらの人形は、佐原の職人文化と町人の心意気を象徴する存在である。総欅造りの山車本体に施された関東彫りの彫刻とともに、佐原の大祭の芸術的価値を高めている。
 
-<h2>History</h2>
-<p>The Sawara no Taisai is a festival with about 300 years of history, developed against the backdrop of the economic power of Sawara, which flourished as a key point of Tone River water transport. During the Edo period, Sawara was connected to Edo by boat traffic on the Tone River and thrived as a commercial city. Its prosperity was praised as "Edo-masari" (surpassing Edo), and it is said to have boasted a refinement that even exceeded that of Edo while adopting its culture. This rich townspeople''s culture became the soil that nurtured the lavish float festival.</p>
-<p>The summer festival is held as the Gion Festival of Yasaka Shrine, one of the guardian shrines of Sawara. The Gion Festival arose from beliefs aimed at pacifying epidemics and disasters and praying to pass safely through the hot summer, and it began in Kyoto during the Heian period before spreading throughout Japan. In Sawara too, it has been carried on by the people of the Honjuku district as a festival praying to ward off summer epidemics.</p>
-<p>The giant dolls that adorn the tops of the floats were created by master doll makers of the Edo and Meiji periods, depicting figures from Japanese mythology, historical heroes, and legendary characters. Reaching heights of about four meters, these dolls symbolize the craft culture of Sawara and the spirit of its townspeople. Together with the Kanto-style carvings applied to the zelkova-wood float bodies, they heighten the artistic value of the Sawara no Taisai.</p>
-<p>The operation of the festival has been carried out by the young men known as "wakashu" (waka-ren). All movement of the floats is signaled by the wooden clappers (chaki) struck by the young leader (kashira), and the heavy floats are skillfully maneuvered using levers. This system of festival bearers centered on young people has been the driving force that has passed down the tradition without interruption for 300 years.</p>
+祭りの運営は、若衆（若連）と呼ばれる若者たちが担ってきた。山車の運行はすべて若頭（かしら）の打つ拍子木（ちゃき）を合図に行われ、梃子棒を操って重い山車を巧みに動かす。こうした若者を中心とする担い手の仕組みが、300年にわたり途切れることなく伝統を伝えてきた原動力となっている。
 
-<h2>Highlights</h2>
-<h3>Floats Bearing Four-Meter Giant Dolls</h3>
-<p>The stars of the Sawara no Taisai are the floats, with bodies made entirely of zelkova wood, decorated with heavy Kanto-style carvings, and topped with giant dolls about four meters tall created by master doll makers of the Edo and Meiji periods. The sight of ten floats parading through the town is spectacular.</p>
-<h3>Floats Through the Koedo Townscape</h3>
-<p>The floats proceed through the old townscape known as "Koedo," an Important Preservation District for Groups of Traditional Buildings, brushing past the eaves of the houses. The sight of the floats passing by the willows along the Ono River is an atmospheric scene reminiscent of the Edo period.</p>
-<h3>The Sawara-bayashi, One of Japan''s Three Great Festival Musics</h3>
-<p>Throughout the festival, the town resounds with "Sawara-bayashi," counted among Japan''s three great festival musics. Its distinctive melodies, tinged with melancholy, deepen the mood of the festival all the more.</p>
-<h3>The "No-no-ji Mawashi" Trick Pulling</h3>
-<p>Skillful trick pulling of the heavy floats is another highlight, and among them the "no-no-ji mawashi," in which the float is spun to trace the shape of the hiragana character "no," is a star performance that tests the skill of the young men.</p>
-<h3>Passing on Narrow Streets</h3>
-<p>The "hiki-chigai," in which floats pass each other on narrow roads, is another chance to show off skill. After skillfully maneuvering the floats past one another, the participants praise each other with applause, revealing the sense of unity of the festival.</p>
-<h3>Lantern-Lit Floats at Night</h3>
-<p>As evening falls, lanterns are lit on the floats, giving them a fantastical appearance different from the daytime. The night floats, clad in light and advancing to the sound of the Sawara-bayashi, are a highlight unique to this festival.</p>
+## 見どころ
 
-<h2>Event Information</h2>
-<p>Official name: Sawara no Taisai (the summer festival is the Gion Festival of Yasaka Shrine)</p>
-<p>Dates: The summer festival is held over three days, the Friday, Saturday, and Sunday on or after July 10 each year</p>
-<p>Venue: Sawara, Katori City, Chiba Prefecture (the summer festival takes place in the Honjuku district, on the east side of the Ono River)</p>
-<p>Hours: 10:00 a.m. to 10:00 p.m. (held even in rain, though vinyl sheets are placed over the float dolls)</p>
-<p>Floats: Ten for the summer festival (made entirely of zelkova wood, adorned with giant dolls about four meters tall)</p>
-<p>Access: Get off at Sawara Station on the JR Narita Line. About 10 minutes from the Sawara-Katori IC on the Higashi-Kanto Expressway. Temporary parking is available on the Tone River bank.</p>
+**高さ4メートルの大人形を載せた山車**　総欅造りの本体に関東彫りの重厚な彫刻を飾り、上部には江戸・明治期の名人人形師が制作した高さ約4メートルの大人形を載せた山車が、佐原の大祭の主役である。10台の山車が町を練り歩く様子は圧巻の一言である。
 
-<h2>Around the Area</h2>
-<p>The townscape of Sawara is called "Koedo" (Little Edo) and is designated a national Important Preservation District for Groups of Traditional Buildings. Along the Ono River, merchant houses and storehouse-style buildings from the Edo and Meiji periods still remain, and visitors can enjoy sightseeing of the townscape from a boat. Even outside the festival season, atmospheric strolls through the waterside town are popular.</p>
-<p>Sawara is also known as a place associated with Ino Tadataka, who was the first to create a map of all Japan based on actual surveying. His former residence and a memorial museum remain, conveying the depth of Sawara''s townspeople''s culture to the present day. It is a historical spot well worth visiting along with the festival.</p>
-<p>At the "Suigo Sawara Dashi Kaikan" (Float Museum), one float each from the summer and autumn festivals is displayed on a rotating basis, allowing visitors to see the gorgeous floats up close even outside the festival season. It is a beloved facility where one can learn about the history and culture of the Sawara no Taisai.</p>
+**小江戸の町並みを行く山車**　山車は「小江戸」と呼ばれる重要伝統的建造物群保存地区の古い町並みを、家々の軒先をかすめるように進む。小野川沿いの柳をかすめて通る山車の姿は、江戸時代の情景を彷彿とさせる風情たっぷりの光景である。
 
-<h2>Related Information</h2>
-<p>Gion Festival of Yasaka Shrine: The summer festival of the Sawara no Taisai, in which ten floats are pulled through the Honjuku district.</p>
-<p>Autumn Festival of Suwa Shrine: The autumn festival of the Sawara no Taisai, in which fourteen floats are pulled through the Shinjuku district in October.</p>
-<p>Three Great Float Festivals of Kanto: The Sawara no Taisai is counted among the three representative float festivals of the Kanto region.</p>
-<p>UNESCO Intangible Cultural Heritage: Registered in 2016 as one of the "float festivals" (Yama, Hoko, Yatai events).</p>
-<p>Sawara-bayashi: One of Japan''s three great festival musics, resounding through the town throughout the festival.</p>
-<p>Ino Tadataka: A great figure associated with Sawara, whose former residence and memorial museum remain in the town.</p>','sawara-no-taisai','sawara-no-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**日本三大囃子「佐原囃子」**　祭りの間、町中には日本三大囃子の一つに数えられる「佐原囃子」の音色が響き渡る。哀愁を帯びた独特の旋律が、祭りの情緒をいっそう深めている。
+
+**曲曳き「のの字廻し」**　重い山車を巧みに操る曲曳きも見どころの一つで、なかでも山車を「の」の字を描くように回転させる「のの字廻し」は、若衆の技量が問われる花形の演目である。
+
+**狭い道での曳き違い**　狭い道路で山車どうしがすれ違う「曳き違い」も腕の見せ所である。互いに巧みに山車を操ってすれ違ったあと、拍手でお互いを称え合う場面には祭りの一体感がにじむ。
+
+**夜の提灯山車**　夕刻になると山車に提灯がともされ、昼とは異なる幻想的な表情を見せる。佐原囃子の音とともに灯りをまとって進む夜の山車は、この祭りならではの見どころである。
+
+## 開催情報
+
+- 正式名称: 佐原の大祭（夏祭りは八坂神社祇園祭）
+- 開催日: 夏祭りは毎年7月10日以降の金・土・日の3日間
+- 会場: 千葉県香取市佐原（夏祭りは本宿地区、小野川東側一帯）
+- 開催時間: 午前10時から午後10時まで（雨天決行、山車人形にはビニールシートがかけられる）
+- 山車: 夏祭りは10台（総欅造り・高さ約4メートルの大人形を飾る）
+- アクセス: JR成田線佐原駅下車。東関東自動車道佐原香取ICから約10分。利根川河川敷に臨時駐車場あり
+
+## 周辺情報
+
+佐原の町並みは「小江戸」と呼ばれ、国の重要伝統的建造物群保存地区に選定されている。小野川沿いには江戸から明治期の商家や蔵造りの建物が今も残り、舟からの町並み観光も楽しめる。祭りのない時期でも、水郷の風情ある町歩きが人気である。
+
+佐原は、日本全図を初めて実測で作り上げた伊能忠敬ゆかりの地としても知られている。旧宅や記念館が残り、佐原の町人文化の奥深さを今に伝えている。祭りとあわせて訪れたい歴史スポットである。
+
+「水郷佐原山車会館」では、夏祭りと秋祭りの山車が1台ずつ交替で展示されており、祭りの時期以外でも豪華な山車を間近で見ることができる。佐原の大祭の歴史や文化を学べる施設として親しまれている。
+
+## 関連情報
+
+- 八坂神社祇園祭: 佐原の大祭の夏祭りにあたり、本宿地区で10台の山車が曳き廻される。
+- 諏訪神社秋祭り: 佐原の大祭の秋祭りにあたり、10月に新宿地区で14台の山車が曳き廻される。
+- 関東三大山車祭り: 佐原の大祭は、関東を代表する三つの山車祭りの一つに数えられる。
+- ユネスコ無形文化遺産: 2016年に「山・鉾・屋台行事」の一つとして登録された。
+- 佐原囃子: 日本三大囃子の一つで、祭りの間町中に響き渡る。
+- 伊能忠敬: 佐原ゆかりの偉人で、旧宅や記念館が町に残されている。','The Sawara no Taisai (Sawara Grand Festival) is a float festival with about 300 years of tradition, held in Sawara, Katori City, Chiba Prefecture. It takes place twice a year, as a summer festival (the Gion Festival of Yasaka Shrine) in July and an autumn festival (the autumn festival of Suwa Shrine) in October, and is counted among the three great float festivals of the Kanto region, alongside the Kyoto Gion Festival and the Hida Takayama Festival. In 2016 (December of the 28th year of Heisei), it was registered as a UNESCO Intangible Cultural Heritage as one of the 33 float festivals (Yama, Hoko, Yatai events), and it is also designated a National Important Intangible Folk Cultural Property. During the summer festival, held over three days from the first Friday, Saturday, and Sunday on or after July 10, ten floats are pulled through the Honjuku district on the east side of the Ono River.
+
+The greatest attraction of the festival is its gorgeous floats, whose bodies are made entirely of zelkova wood, decorated with heavy Kanto-style carvings, and topped with giant dolls reaching heights of about four meters. These floats proceed through the old townscape known as Koedo (Little Edo), a nationally selected Important Preservation District for Groups of Traditional Buildings, brushing past the eaves of the houses while filling the town with the sound of Sawara-bayashi, one of Japan''s three great festival musics. The atmospheric scene, reminiscent of the Edo period, draws visitors into a world like a picture scroll of old Japan.
+
+## History and Origins
+
+The Sawara no Taisai is a festival with about 300 years of history, developed against the backdrop of the economic power of Sawara, which flourished as a key point of Tone River water transport. During the Edo period, Sawara was connected to Edo by boat traffic on the Tone River and thrived as a commercial city. Its prosperity was praised as Edo-masari (surpassing Edo), and it is said to have boasted a refinement that even exceeded that of Edo while adopting its culture. This rich townspeople''s culture became the soil that nurtured the lavish float festival.
+
+The summer festival is held as the Gion Festival of Yasaka Shrine, one of the guardian shrines of Sawara. The Gion Festival arose from beliefs aimed at pacifying epidemics and disasters and praying to pass safely through the hot summer, and it began in Kyoto during the Heian period before spreading throughout Japan. In Sawara too, it has been carried on by the people of the Honjuku district as a festival praying to ward off summer epidemics.
+
+The giant dolls that adorn the tops of the floats were created by master doll makers of the Edo and Meiji periods, depicting figures from Japanese mythology, historical heroes, and legendary characters. Reaching heights of about four meters, these dolls symbolize the craft culture of Sawara and the spirit of its townspeople. Together with the Kanto-style carvings applied to the zelkova-wood float bodies, they heighten the artistic value of the Sawara no Taisai.
+
+The operation of the festival has been carried out by the young men known as wakashu (waka-ren). All movement of the floats is signaled by the wooden clappers (chaki) struck by the young leader (kashira), and the heavy floats are skillfully maneuvered using levers. This system of festival bearers centered on young people has been the driving force that has passed down the tradition without interruption for 300 years.
+
+## Highlights
+
+**Floats Bearing Four-Meter Giant Dolls**　The stars of the Sawara no Taisai are the floats, with bodies made entirely of zelkova wood, decorated with heavy Kanto-style carvings, and topped with giant dolls about four meters tall created by master doll makers of the Edo and Meiji periods. The sight of ten floats parading through the town is spectacular.
+
+**Floats Through the Koedo Townscape**　The floats proceed through the old townscape known as Koedo, an Important Preservation District for Groups of Traditional Buildings, brushing past the eaves of the houses. The sight of the floats passing by the willows along the Ono River is an atmospheric scene reminiscent of the Edo period.
+
+**The Sawara-bayashi, One of Japan''s Three Great Festival Musics**　Throughout the festival, the town resounds with Sawara-bayashi, counted among Japan''s three great festival musics. Its distinctive melodies, tinged with melancholy, deepen the mood of the festival all the more.
+
+**The No-no-ji Mawashi Trick Pulling**　Skillful trick pulling of the heavy floats is another highlight, and among them the no-no-ji mawashi, in which the float is spun to trace the shape of the hiragana character no, is a star performance that tests the skill of the young men.
+
+**Passing on Narrow Streets**　The hiki-chigai, in which floats pass each other on narrow roads, is another chance to show off skill. After skillfully maneuvering the floats past one another, the participants praise each other with applause, revealing the sense of unity of the festival.
+
+**Lantern-Lit Floats at Night**　As evening falls, lanterns are lit on the floats, giving them a fantastical appearance different from the daytime. The night floats, clad in light and advancing to the sound of the Sawara-bayashi, are a highlight unique to this festival.
+
+## Event Information
+
+- Official name: Sawara no Taisai (the summer festival is the Gion Festival of Yasaka Shrine)
+- Dates: The summer festival is held over three days, the Friday, Saturday, and Sunday on or after July 10 each year
+- Venue: Sawara, Katori City, Chiba Prefecture (the summer festival takes place in the Honjuku district, on the east side of the Ono River)
+- Hours: 10:00 a.m. to 10:00 p.m. (held even in rain, though vinyl sheets are placed over the float dolls)
+- Floats: Ten for the summer festival (made entirely of zelkova wood, adorned with giant dolls about four meters tall)
+- Access: Get off at Sawara Station on the JR Narita Line. About 10 minutes from the Sawara-Katori IC on the Higashi-Kanto Expressway. Temporary parking is available on the Tone River bank.
+
+## Around the Area
+
+The townscape of Sawara is called Koedo (Little Edo) and is designated a national Important Preservation District for Groups of Traditional Buildings. Along the Ono River, merchant houses and storehouse-style buildings from the Edo and Meiji periods still remain, and visitors can enjoy sightseeing of the townscape from a boat. Even outside the festival season, atmospheric strolls through the waterside town are popular.
+
+Sawara is also known as a place associated with Ino Tadataka, who was the first to create a map of all Japan based on actual surveying. His former residence and a memorial museum remain, conveying the depth of Sawara''s townspeople''s culture to the present day. It is a historical spot well worth visiting along with the festival.
+
+At the Suigo Sawara Dashi Kaikan (Float Museum), one float each from the summer and autumn festivals is displayed on a rotating basis, allowing visitors to see the gorgeous floats up close even outside the festival season. It is a beloved facility where one can learn about the history and culture of the Sawara no Taisai.
+
+## Related Information
+
+- Gion Festival of Yasaka Shrine: The summer festival of the Sawara no Taisai, in which ten floats are pulled through the Honjuku district.
+- Autumn Festival of Suwa Shrine: The autumn festival of the Sawara no Taisai, in which fourteen floats are pulled through the Shinjuku district in October.
+- Three Great Float Festivals of Kanto: The Sawara no Taisai is counted among the three representative float festivals of the Kanto region.
+- UNESCO Intangible Cultural Heritage: Registered in 2016 as one of the float festivals (Yama, Hoko, Yatai events).
+- Sawara-bayashi: One of Japan''s three great festival musics, resounding through the town throughout the festival.
+- Ino Tadataka: A great figure associated with Sawara, whose former residence and memorial museum remain in the town.','sawara-no-taisai','sawara-no-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11400381','勝浦大漁まつり','Katsuura Autumn Festival','千葉県勝浦市の祭礼',NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E5%A4%A7%E6%BC%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11408485','南部の火祭り','Nanbu Fire Festival',NULL,NULL,'Q1204802','南部町','Nanbu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11374881','京都国際学生映画祭','Kyoto International Student Film and Video Festival',NULL,NULL,'Q120730','京都府','Kyoto Prefecture','京都府','kinki',NULL,NULL,1997,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%9B%BD%E9%9A%9B%E5%AD%A6%E7%94%9F%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
