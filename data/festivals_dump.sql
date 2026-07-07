@@ -3687,7 +3687,127 @@ INSERT INTO "festivals" VALUES('Q11248231','TBC夏まつり','TBC Summer Festiva
 INSERT INTO "festivals" VALUES('Q11255135','YOSAKOIさせぼ祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/YOSAKOI%E3%81%95%E3%81%9B%E3%81%BC%E7%A5%AD%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11241119','ROCKS TOKYO',NULL,'日本のロック・フェスティバル (2010-2012)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/ROCKS_TOKYO',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q199831','舞鶴つつじまつり',NULL,'京都府舞鶴市で行われているお祭りのひとつ',NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%88%9E%E9%B6%B4%E3%81%A4%E3%81%A4%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q9385159','仙台七夕','Sendai Tanabata','東北三大祭りの一つである宮城県仙台市で開かれる祭り',NULL,'Q46747','仙台市','Sendai','宮城県','tohoku',38.26049722,140.87196944,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sendai%20Tanabata%202023.jpg','https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95',NULL,95,'drafted','（政宗奨励説は「〜と伝えられる」で伝承扱い／開催8月6〜8日／前夜祭花火8月5日・第57回・約16,000発・テーマHOPE／七つ飾り＝短冊・紙衣・折鶴・巾着・投網・屑籠・吹き流しを意味付きで列挙／戦後1946年に商店街を中心に復活・竹飾り本数は非明記／来場者200万人超）...full Japanese article...','...full English article (>=JA*2, >=2400)...','sendai-tanabata','sendai-tanabata',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+INSERT INTO "festivals" VALUES('Q9385159','仙台七夕','Sendai Tanabata','東北三大祭りの一つである宮城県仙台市で開かれる祭り',NULL,'Q46747','仙台市','Sendai','宮城県','tohoku',38.26049722,140.87196944,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sendai%20Tanabata%202023.jpg','https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95',NULL,95,'drafted','## 概要
+
+仙台七夕まつりは、宮城県仙台市で毎年8月6日から8日にかけて開催される、日本を代表する七夕行事である。旧暦の風習を受け継ぎ新暦の月遅れで催されるこの祭りは、青森ねぶた祭・秋田竿燈まつりと並んで「東北三大祭り」の一つに数えられ、期間中は市内中心部の商店街を中心に、和紙と竹で作られた豪華絢爛な笹飾りが一斉に掲げられる。毎年200万人を超える観光客が全国から訪れ、夏の東北を象徴する風物詩として広く親しまれている。
+
+仙台の七夕が他地域の七夕と一線を画すのは、その飾りの規模と精巧さにある。長さ数メートルから10メートルを超える巨大な吹き流しが商店街のアーケードを埋め尽くすように連なり、色鮮やかな和紙が風に揺れる光景は圧巻である。各商店や団体が一年をかけて手作りする飾りには優劣を競う審査もあり、意匠を凝らした作品が並ぶことで、単なる年中行事を超えた地域ぐるみの一大イベントとなっている。
+
+## 歴史と由来
+
+仙台七夕の起源は、仙台藩祖・伊達政宗の時代にさかのぼると伝えられる。政宗が婦女子の技芸の向上や文化的な素養を育むことを願い、七夕の行事を奨励したという説が広く語られており、この由来が仙台七夕の格式と歴史の深さを物語るものとして親しまれている。ただし、この政宗奨励説は地域の伝承として受け継がれてきたもので、一次史料による確証は乏しく、七夕行事そのものの起こりについては諸説あることに留意が必要である。いずれにせよ、七夕を大切にする気風が古くから仙台の地に根づいていたことは確かである。
+
+七夕は元来、中国から伝わった星祭りと、日本古来の棚機津女(たなばたつめ)の信仰、そして技芸の上達を願う乞巧奠(きこうでん)の風習が習合して成立した年中行事である。仙台ではこれが庶民の生活に溶け込み、江戸時代を通じて手芸や書道の上達を願う季節の営みとして定着していった。笹竹に短冊や飾りを結びつけて願いを込めるという基本的な形は、この長い歴史の中で受け継がれてきたものである。
+
+明治以降、近代化や新暦への移行の中で七夕行事は一時衰退し、さらに戦争によって大きな打撃を受けた。華やかな飾りが街から姿を消し、仙台七夕は存続の危機に瀕したのである。この行事が地域の記憶から失われかけたことは、伝統の継承がいかに人々の意志に支えられているかを示す出来事であった。
+
+転機となったのは戦後の復興期である。1946年(昭和21年)、荒廃した街に活気を取り戻そうと、地元の商店街が中心となって七夕飾りを復活させた。この復興を機に仙台七夕は再び勢いを取り戻し、以後は商店街の集客行事としても発展しながら年々規模を拡大していった。復活した七夕は市民の誇りとなり、やがて全国から観光客を集める東北屈指の祭りへと成長し、今日に至るまで途切れることなく受け継がれている。
+
+## 見どころ
+
+**豪華な笹飾りと吹き流し**
+仙台七夕最大の見どころは、商店街を埋め尽くす豪華な笹飾りである。中でも長さ数メートルから10メートル超に及ぶ吹き流しは圧倒的な存在感を放ち、頭上一面を色とりどりの和紙が覆う光景は他に類を見ない。各飾りは職人や商店主が一年がかりで手作りするもので、その精巧さと華やかさが仙台七夕を特別なものにしている。
+
+**七つ飾りとその意味**
+仙台七夕の飾りには「七つ飾り」と呼ばれる伝統的な構成がある。短冊は学問や書道の上達を、紙衣(かみごろも)は裁縫の上達や厄除けを、折鶴は延命長寿を、巾着(きんちゃく)は商売繁盛と節約を、投網(とあみ)は豊漁を、屑籠(くずかご)は清潔と倹約を、そして吹き流しは織姫の織り糸を象徴するとされる。それぞれに込められた願いを知ることで、飾りの一つ一つに宿る祈りの深さを味わうことができる。
+
+**前夜祭の花火大会**
+祭りの開幕前夜にあたる8月5日には、仙台七夕花火祭が開催される。2026年で第57回を数えるこの花火大会は約16,000発の花火が夜空を彩る大規模なもので、テーマ「HOPE」のもと復興と希望を象徴する催しとして親しまれている。翌日から始まる本祭への高揚感を一気に高める、夏の夜の一大イベントである。
+
+**商店街ごとの個性**
+仙台七夕は特定の会場に集約されるのではなく、中央通りや一番町といった中心部の複数の商店街に飾りが広がる形をとる。商店街ごとに飾りの傾向や趣向が異なり、歩きながら各エリアの個性を比較して楽しめるのが特徴である。飾りには審査があり、優れた作品には賞が贈られるため、作り手たちの意匠の競い合いも見どころとなっている。
+
+**七夕飾りの手作り文化**
+仙台七夕の飾りは既製品ではなく、和紙と竹を用いて一つ一つ手作りされる点に大きな価値がある。くす玉と吹き流しを組み合わせた仙台独特の様式は、長年培われた職人技の結晶であり、制作には数か月を要することも珍しくない。この手仕事の伝統こそが、飾りの質の高さと祭り全体の格を支えている。
+
+**夏の風情と市民の熱気**
+祭り期間中の仙台中心部は、飾りの華やかさと訪れる人々の熱気に包まれる。浴衣姿の来場者が行き交い、露店や関連イベントも街を彩る。伝統行事でありながら現代の都市の賑わいと調和している点が仙台七夕の魅力であり、地域の人々が主体となって支える祭りの温かさが随所に感じられる。
+
+## 開催情報・アクセス
+
+- 開催地: 宮城県仙台市中心部
+- 主な会場: 中央通り・一番町などの中心部商店街(アーケード街一帯)
+- 開催時期: 毎年8月6日〜8日(月遅れの七夕)
+- 前夜祭: 8月5日に仙台七夕花火祭を開催(2026年で第57回・約16,000発・テーマ「HOPE」)
+- アクセス: JR仙台駅から徒歩圏内(中心部商店街まで数分〜十数分)
+- 来場者数: 期間中およそ200万人超
+
+## 周辺の見どころ
+
+仙台市は「杜の都」と称される緑豊かな都市であり、七夕まつりの前後には市内各所の観光を楽しむことができる。中心部からほど近い青葉山には、伊達政宗が築いた仙台城(青葉城)の跡があり、city を一望できる高台からの眺望と、政宗の騎馬像が訪れる人を迎える。仙台七夕の由来に政宗の名が語られることを思えば、城跡を巡ることで祭りの歴史的背景に一層親しみを感じられるだろう。
+
+食の面でも仙台は魅力にあふれている。名物の牛タンや笹かまぼこ、ずんだ餅など、東北を代表する味覚を市内の各所で堪能できる。祭りで賑わう商店街の周辺には飲食店が集まり、飾りを眺めながら地元グルメを味わう時間は旅の楽しみを一段と豊かにしてくれる。
+
+やや足を延ばせば、日本三景の一つに数えられる松島がある。仙台駅から鉄道で行きやすく、大小の島々が浮かぶ穏やかな海の景観は仙台観光の定番である。夏の七夕まつりとあわせて松島の風光を巡れば、宮城の自然と文化の両面を存分に味わう旅程となる。
+
+## 関連情報
+
+- 開催月: 8月(前夜祭は8月5日)
+- 都道府県・地域: 宮城県(東北地方)
+- 分類: 東北三大祭りの一つ(青森ねぶた祭・秋田竿燈まつりと並称)
+- 行事の系譜: 中国伝来の星祭り・棚機津女信仰・乞巧奠が習合した七夕行事
+- 復活年: 戦後の1946年(昭和21年)に商店街を中心に復興
+- 来場者規模: 期間中およそ200万人超','## Overview
+
+The Sendai Tanabata Festival is one of Japan''s most celebrated star festivals, held every year from August 6 to 8 in Sendai, Miyagi Prefecture. Following the traditional custom on a month-delayed schedule under the new calendar, it ranks alongside the Aomori Nebuta Festival and the Akita Kanto Festival as one of the Three Great Festivals of the Tohoku region. During the festival, the shopping arcades of the city center are filled with gorgeous streamer decorations crafted from washi paper and bamboo. Drawing more than two million visitors from across the country each year, it stands as a defining symbol of summer in northeastern Japan.
+
+What sets Sendai''s Tanabata apart from Tanabata observances elsewhere is the sheer scale and refinement of its decorations. Enormous streamers, some ranging from several meters to over ten meters in length, hang in dense rows across the arcade ceilings, and the sight of vividly colored paper swaying in the breeze is truly spectacular. Many shops and organizations spend an entire year handcrafting their displays, and the decorations are judged competitively, turning what might be a simple seasonal custom into a community-wide spectacle of artistry.
+
+## History and Origins
+
+The origins of the Sendai Tanabata are said to date back to the era of Date Masamune, the founding lord of the Sendai domain. It is widely told that Masamune encouraged the Tanabata observance in the hope of cultivating the skills and cultural refinement of women, and this tradition is cherished as testimony to the festival''s dignity and long heritage. It should be noted, however, that this account of Masamune''s patronage has been handed down as local tradition, with little confirmation in primary historical sources, and there are various theories regarding the true origins of the Tanabata observance itself. In any case, it is certain that a spirit of valuing Tanabata took root in Sendai from early times.
+
+Tanabata originally developed as an annual event blending a star festival transmitted from China, the ancient Japanese belief in the weaver maiden known as Tanabata-tsume, and the custom of Kikoden, a prayer for improvement in the arts and crafts. In Sendai, these customs became woven into the daily life of ordinary people and, throughout the Edo period, took hold as a seasonal practice of praying for progress in handicrafts and calligraphy. The basic form of tying strips of paper and decorations to bamboo to convey one''s wishes has been passed down through this long history.
+
+From the Meiji era onward, amid modernization and the shift to the new calendar, the Tanabata observance temporarily declined, and it suffered a further heavy blow during the war years. The elaborate decorations vanished from the streets, and Sendai Tanabata faced a crisis of survival. That this event nearly faded from the community''s memory shows how deeply the continuation of tradition depends on the will of the people.
+
+The turning point came during the postwar reconstruction period. In 1946, in an effort to restore vitality to a devastated city, the local shopping district took the lead in reviving the Tanabata decorations. This revival gave Sendai Tanabata renewed momentum, and it went on to grow steadily, developing also as a means of drawing shoppers to the arcades. The revived festival became a source of civic pride and eventually grew into one of Tohoku''s foremost festivals, attracting visitors from all over the country, and it has been carried on without interruption to the present day.
+
+## Highlights
+
+**Lavish Bamboo Decorations and Streamers**
+The greatest attraction of Sendai Tanabata is the lavish array of bamboo decorations that fill the shopping arcades. The streamers in particular, ranging from several meters to over ten meters in length, command overwhelming presence, and the sight of colorful washi paper covering the space overhead is unlike anything found elsewhere. Each decoration is handmade over the course of a year by craftspeople and shop owners, and this intricacy and splendor is what makes Sendai Tanabata so special.
+
+**The Seven Decorations and Their Meanings**
+Sendai Tanabata features a traditional set of decorations known as the Seven Ornaments. The paper strips represent progress in learning and calligraphy, the paper kimono (kamigoromo) symbolizes skill in sewing and protection from misfortune, the folded cranes signify longevity, the purse (kinchaku) stands for prosperity in business and thrift, the cast net (toami) represents a bountiful catch, the waste basket (kuzukago) expresses cleanliness and frugality, and the streamer (fukinagashi) symbolizes the weaving threads of the celestial weaver maiden. Knowing the wish embodied in each allows visitors to appreciate the depth of prayer dwelling in every ornament.
+
+**The Eve Fireworks Festival**
+On August 5, the eve of the festival''s opening, the Sendai Tanabata Fireworks Festival is held. Reaching its 57th occasion in 2026, this large-scale event lights up the night sky with roughly 16,000 fireworks and, under the theme HOPE, is cherished as a celebration symbolizing recovery and hope. It is a great event of the summer night that heightens anticipation for the main festival beginning the following day.
+
+**The Individuality of Each Arcade**
+Rather than being concentrated at a single venue, Sendai Tanabata spreads its decorations across several shopping arcades in the city center, such as Chuo-dori and Ichibancho. Each arcade differs in the tendency and design of its decorations, and a distinctive pleasure lies in strolling through and comparing the character of each area. Because the decorations are judged and prizes awarded to outstanding works, the competition of design among the makers is itself a highlight.
+
+**The Handcraft Culture of the Decorations**
+A great value of Sendai Tanabata lies in the fact that its decorations are not ready-made but crafted one by one from washi paper and bamboo. The distinctively Sendai style combining a decorative ball with a streamer is the fruit of long-cultivated craftsmanship, and their creation not uncommonly requires several months. This tradition of handwork is precisely what supports the high quality of the decorations and the dignity of the festival as a whole.
+
+**Summer Atmosphere and Civic Energy**
+During the festival, the center of Sendai is enveloped in the splendor of the decorations and the energy of the visitors. People in yukata come and go, and food stalls and related events color the streets. That a traditional observance harmonizes with the bustle of a modern city is part of the appeal of Sendai Tanabata, and the warmth of a festival supported chiefly by local people can be felt everywhere.
+
+## Event Information and Access
+
+- Location: Central Sendai, Miyagi Prefecture
+- Main venues: Shopping arcades in the city center such as Chuo-dori and Ichibancho (throughout the arcade district)
+- Dates: August 6 to 8 every year (month-delayed Tanabata)
+- Eve event: The Sendai Tanabata Fireworks Festival on August 5 (57th occasion in 2026, roughly 16,000 fireworks, theme HOPE)
+- Access: Within walking distance of JR Sendai Station (a few to around fifteen minutes to the central arcades)
+- Attendance: More than two million people over the festival period
+
+## Nearby Attractions
+
+Sendai is known as the City of Trees, a verdant metropolis, and visitors can enjoy sightseeing around the city before and after the Tanabata festival. Close to the center, on Mount Aoba, lie the ruins of Sendai Castle (Aoba Castle), built by Date Masamune, where a hilltop vantage offers a sweeping view over the city and an equestrian statue of Masamune greets visitors. Given that Masamune''s name is spoken of in connection with the origins of Sendai Tanabata, touring the castle ruins deepens one''s sense of the festival''s historical background.
+
+Sendai is also rich in culinary appeal. Regional specialties such as grilled beef tongue, sasakamaboko fish cakes, and zunda mochi can be savored throughout the city. Around the bustling festival arcades, restaurants gather in abundance, and taking time to enjoy local cuisine while gazing at the decorations makes a journey all the more rewarding.
+
+A little farther afield lies Matsushima, counted among the Three Views of Japan. Easily reached by rail from Sendai Station, its tranquil seascape dotted with islands large and small is a classic destination of Sendai sightseeing. Combining the summer Tanabata festival with the scenic beauty of Matsushima makes for an itinerary that fully embraces both the nature and culture of Miyagi.
+
+## Related Information
+
+- Month held: August (the eve fireworks are on August 5)
+- Prefecture and region: Miyagi Prefecture (Tohoku region)
+- Classification: One of the Three Great Festivals of Tohoku (named together with the Aomori Nebuta Festival and the Akita Kanto Festival)
+- Lineage of the observance: A Tanabata event blending a Chinese star festival, the weaver-maiden belief, and the Kikoden custom
+- Year of revival: Revived in 1946 during the postwar period, led by the shopping district
+- Scale of attendance: More than two million people over the festival period','sendai-tanabata','sendai-tanabata',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11192451','Black indie!','Black indie!','日本で開催されている自主映画の映画祭',NULL,'Q17','日本','Japan',NULL,NULL,NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/Black_indie!',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11251770','UBE現代日本彫刻展','Ube Sculpture Triennale','山口県宇部市で開催される野外彫刻の国際コンクール・展覧会','International Sculpture　Competition in Ube,Yamaguchi','Q11607744','緑と花と彫刻の博物館','Ube Tokiwa Museum','山口県','chugoku',NULL,NULL,1961,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/UBE%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E5%BD%AB%E5%88%BB%E5%B1%95',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11199280','FM.W','FM.W',NULL,'Rock Festival in Japan','Q37951','札幌市','Sapporo','北海道','hokkaido',NULL,NULL,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/FM.W',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
