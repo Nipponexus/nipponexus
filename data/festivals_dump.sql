@@ -13683,15 +13683,113 @@ The festival''s defining feature is that a sacred barge (gozabune) bearing the d
 
 The Kangensai is said to derive from Taira no Kiyomori''s deep reverence for Itsukushima Shrine and his introduction of the capital''s aristocratic culture to the shrine, boasting around 850 years of history. Against the backdrop of the vermilion great torii gate floating on the sea and the shrine buildings, this dreamlike festival woven by lights and gagaku is a rite unique to the island of Miyajima in the Seto Inland Sea. Counted among Japan''s three great boat rites, it is handed down as an unparalleled and precious festival fusing the sea, faith, and court culture.','kangensai','kangensai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11599004','竹割り祭り','Takewari Festival',NULL,NULL,'Q11619342','菅生石部神社','Sugō Isobe Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11582690','県祭り','Agata Matsuri','京都府宇治市の祭',NULL,'Q11608139','縣神社','Agata Shrine','京都府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Bonten%20togyo.jpg','https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A',NULL,85,'drafted','県祭り（あがたまつり）は、京都府宇治市の縣神社(あがたじんじゃ)で毎年6月5日から6日にかけての深夜に行われる祭礼である。明かりを一切消した暗闇のなかで神事が営まれることから「暗夜の奇祭」とも呼ばれ、宇治の初夏を彩る神秘的な祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q11582690','県祭り','Agata Matsuri','京都府宇治市の祭',NULL,'Q11608139','縣神社','Agata Shrine','京都府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Bonten%20togyo.jpg','https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A',NULL,85,'drafted','県祭り（あがたまつり）は、京都府宇治市の縣神社（あがたじんじゃ）で毎年6月5日から6日未明にかけて行われる祭礼である。沿道の灯火をすべて消した暗闇のなかを、梵天（ぼんてん）と呼ばれる神輿が進むことから「暗夜の奇祭」「暗闇の奇祭」の異名で知られ、東京・府中の大國魂神社の例祭などと並ぶ暗闇祭りとして名高い。
 
-この祭りの最大の特徴は、その名の通り深い闇のなかで行われる「梵天渡御(ぼんてんとぎょ)」である。日付が変わった深夜、町の灯りが消され、御神体を遷した「梵天」と呼ばれる大きな御幣が、担ぎ手たちによって町を渡御する。漆黒の闇のなか、梵天を勢いよく回転させる「ぶんまわし」が披露され、人々のざわめきと熱気だけが闇に満ちる光景は、他に類を見ない幻想的な体験である。
+縣神社は、世界遺産・平等院の南門から100メートルほどの地に鎮座し、木花咲耶姫命（このはなさくやひめのみこと）を祀る。祭りの中心は深夜に営まれる「梵天渡御」で、町内の男たちが梵天を担いで練り歩く。神輿の通過する間は家々も明かりを落としてこれを迎えるため、宇治の初夏を象徴する幻想的で神秘的な祭りとして、多くの人々を惹きつけてきた。
 
-縣神社は、宇治の総鎮守であり、平等院とも深い関わりを持つ古社である。県祭りは、暗闇という非日常の空間で神霊を迎えるという、古代の信仰のかたちを色濃く残す貴重な祭礼として注目される。深夜にもかかわらず、夜店が立ち並び数多くの参拝客で賑わうこの祭りは、世界遺産の町・宇治に伝わる神秘と活気が同居する、初夏の風物詩である。','The Agata Matsuri is a festival held at Agata Shrine in Uji, Kyoto Prefecture, late at night from June 5th into the 6th each year. Because the rites are conducted in total darkness with all lights extinguished, it is also called the "strange festival of the dark night," known as a mysterious festival coloring early summer in Uji.
+## 歴史と由来
 
-The festival''s defining feature is, as its name suggests, the "Bonten Togyo" procession carried out in deep darkness. In the small hours after the date changes, the town''s lights are turned off, and a large sacred wand called the "bonten," to which the divine spirit has been transferred, is paraded through the town by bearers. In the pitch-black darkness, the "bunmawashi"—vigorously spinning the bonten—is performed, and the scene of only the murmur and fervor of the people filling the darkness is an unparalleled, dreamlike experience.
+縣神社の県祭りは、藤原氏が宇治の静謐を願って斎行した「道餐祭（みちあえのまつり）」に始まると伝えられる。道餐祭は、都に通じる道の境で疫病や災いの侵入を防ぐ古い信仰に根ざした祭りで、宇治の地を守る祈りが、後の県祭りの原形となったとされる。平等院を築いた藤原氏の時代にさかのぼる由緒が、この祭りの古さを物語っている。
 
-Agata Shrine is the guardian shrine of Uji, an ancient shrine with deep ties to Byōdō-in Temple. The Agata Matsuri draws attention as a precious festival that vividly preserves an ancient form of faith—welcoming the divine spirit within the extraordinary space of darkness. Despite the late hour, with night stalls lined up and crowds of worshippers, this festival is an early-summer tradition where mystery and vitality coexist, handed down in the World Heritage town of Uji.','agata-matsuri','agata-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+県祭りは、かつては旧暦5月15日に行われていた。夜を徹して行われるこの祭りでは、沿道の家で人々がお渡りを待つ習わしがあり、古い民俗として性的な意味合いを帯びた側面も伝えられ、「種貰い祭」の異名で呼ばれた時代もあった。こうした記録は、県祭りが単なる神事にとどまらず、地域の暮らしや民間信仰と深く結びついた年中行事であったことを示している。
+
+祭りの大きな柱のひとつが「大幣（おおぬさ）」の神事である。大幣殿を出た大幣は、幣差（へいさし）や神馬など多くのお供とともに、あがた通り・新町通り・本町通りを、町の角々で祓いの儀式を行いながら進む。帰着後、大幣殿で三回転させて地面に叩きつけた大幣を、十二人の幣差が県通りを宇治橋まで引きずって走り、橋の上から祓われた疫病とともに宇治川へ流す。疫病退散を祈るこの所作は、道餐祭以来の祓いの信仰を今に伝えている。
+
+近年、梵天渡御の担ぎ手をめぐって運営体制の変遷があり、長く分裂した形での開催が続いた時期もあったが、2026年以降は縣神社側に一本化されることで関係者の合意が得られたと伝えられる。長い歴史のなかで幾度も形を変えながらも、暗闇のなかを梵天が進む祭りの核心は変わることなく受け継がれている。
+
+## 見どころ
+
+**暗闇のなかを進む梵天渡御**　県祭り最大の見どころは、6月5日深夜に営まれる梵天渡御である。沿道の灯火がすべて消された漆黒の闇のなか、町内の男たちが梵天を担いで進む。明かりを落として神輿を迎える町並みと、闇に浮かぶ梵天の姿は、他の祭りにはない幻想的で神秘的な光景をつくり出す。
+
+**豪快な梵天のぶん回し**　梵天渡御では、担ぎ手たちが梵天を勢いよく回転させる「ぶん回し」が最大の見せ場となる。巨大な梵天を暗闇のなかで豪快に振り回す所作は迫力に満ち、担ぎ手の掛け声と観衆の熱気が一体となって、祭りは最高潮を迎える。
+
+**疫病退散を祈る大幣の神事**　大幣殿を出た大幣が町の角々で祓いを行いながら練り歩き、最後に幣差が宇治橋まで引きずって宇治川へ流す大幣の神事も、県祭りを象徴する所作である。道餐祭以来の疫病退散・災厄除けの祈りが込められており、勇壮な梵天渡御とはまた異なる、祓いの信仰の厳かさを見ることができる。
+
+**平等院にほど近い縣神社の社頭**　祭りの舞台・縣神社は、世界遺産の平等院南門から100メートルほどの地に鎮座する。木花咲耶姫命を祀るこの古社の境内と、宇治の歴史ある町並みが、暗夜の奇祭の背景をなす。名だたる古都の一角で営まれる祭りという立地そのものが、県祭りの魅力を一層引き立てている。
+
+**境内を埋める夜店の賑わい**　神秘的な神事の一方で、6月5日の午後10時頃までは縣神社の境内や周辺に数多くの夜店が立ち並ぶ。宇治市を代表する大きな祭りとして多くの人出で賑わい、昼から宵にかけての華やかな祭りの賑わいと、深夜の静謐な暗闇の神事という、二つの表情を一夜のうちに楽しむことができる。
+
+**初夏の宇治を彩る年中行事**　県祭りは、毎年6月上旬に営まれる宇治の初夏の風物詩である。梅雨を迎えるこの時期、暗闇のなかで営まれる古式の祭りは、宇治の一年の節目を告げる年中行事として地域に根づいている。古都・宇治ならではの歴史と信仰が凝縮された祭りとして、訪れる人々の記憶に残る。
+
+## 開催情報
+
+- 開催地：京都府宇治市
+- 会場：縣神社（宇治市宇治蓮華72）およびその周辺
+- 開催時期：毎年6月5日から6日未明（梵天渡御は5日深夜）
+- 主な行事：梵天渡御、大幣の神事、夜店（5日午後10時頃まで）
+- アクセス：JR宇治駅または京阪宇治駅から徒歩圏（平等院南門近く）
+- 観覧：観覧無料。※梵天渡御は深夜に行われる。日程・運営体制は変更となる場合がある
+
+## 周辺の見どころ
+
+縣神社のすぐ近くには、世界文化遺産「古都京都の文化財」の構成資産である平等院がある。藤原頼通が建立した鳳凰堂は、十円硬貨の意匠でも知られる平安時代の代表的な建築で、阿弥陀如来坐像を安置する優美な姿は必見である。県祭りの参拝とあわせて、宇治の歴史を代表する名刹を訪ねることができる。
+
+宇治は日本有数の茶の産地としても名高く、宇治橋周辺には老舗の茶店や茶問屋が軒を連ねる。宇治茶を用いた菓子や抹茶スイーツを味わいながら、宇治川の流れと歴史ある町並みを楽しむのは、この地ならではの体験である。祭りの時期以外にも多くの観光客が訪れる。
+
+宇治は『源氏物語』最後の舞台「宇治十帖」の地としても知られる。宇治川沿いには源氏物語ミュージアムや宇治上神社（世界遺産）などの名所が点在し、平安文学の世界に思いを馳せながら散策を楽しめる。県祭りの舞台・宇治は、古代から中世にかけての日本文化が幾重にも積み重なった地である。
+
+## 関連情報
+
+- 開催月：6月（夏・初夏の年中行事）
+- 所在地：京都府宇治市（近畿地方）
+- 由緒：藤原氏が宇治の静謐を願って斎行した道餐祭に始まると伝わる
+- 特色：灯火を消した暗闇で行う「暗夜の奇祭」、梵天渡御と大幣の神事
+- 御祭神：木花咲耶姫命（縣神社）
+- 異名：暗闇の奇祭／かつては「種貰い祭」とも
+','The Agata Matsuri is a festival held every year from June 5 into the small hours of June 6 at Agata Shrine in Uji City, Kyoto Prefecture. Because a portable shrine called the bonten proceeds through darkness with all the lights along the route extinguished, it is known by the names Festival of the Dark Night and Strange Festival of the Darkness, and it is celebrated as one of Japan''s darkness festivals alongside such rites as the annual festival of Okunitama Shrine in Fuchu, Tokyo.
+
+Agata Shrine stands about one hundred meters from the south gate of Byodo-in, a World Heritage site, and it enshrines Konohanasakuya-hime-no-mikoto. The heart of the festival is the bonten togyo, the procession of the portable shrine performed late at night, in which the men of the town blocks carry the bonten. Because the houses too lower their lights to receive the shrine as it passes, it has drawn many people as a fantastical and mysterious festival symbolic of early summer in Uji.
+
+## History and Origins
+
+The Agata Matsuri of Agata Shrine is said to have begun with the Michiae-no-matsuri, a rite performed by the Fujiwara clan in prayer for the tranquility of Uji. The Michiae-no-matsuri was a festival rooted in an ancient faith that sought to prevent the entry of plague and calamity at the boundaries of the roads leading to the capital, and the prayer to protect the land of Uji is said to have become the prototype of the later Agata Matsuri. Its origins, reaching back to the age of the Fujiwara who built Byodo-in, testify to the antiquity of this festival.
+
+The Agata Matsuri was once held on the fifteenth day of the fifth lunar month. At this festival conducted through the night, there was a custom for people along the route to await the passing of the shrine, and as an old folk practice it is recorded to have carried associations of a sexual character as well, so that in earlier times it was also called the seed-receiving festival. Such records show that the Agata Matsuri was not merely a shrine rite but a yearly event deeply bound up with the life of the community and folk belief.
+
+One of the great pillars of the festival is the rite of the oonusa (great purification wand). Leaving the oonusa hall, the great wand proceeds along Agata Street, Shinmachi Street, and Honmachi Street together with wand-bearers, sacred horses, and many other attendants, performing purification rites at the corners of the town. After returning, the wand is turned three times in the hall and struck against the ground, and twelve wand-bearers then drag it along Agata Street to the Uji Bridge and, from the bridge, cast it into the Uji River together with the plague that has been purified. This act of praying for the expulsion of plague carries on the purification faith handed down since the Michiae-no-matsuri.
+
+In recent years there was a shift in the operating structure surrounding the bearers of the bonten togyo, and for a time the festival continued in a divided form, but it is reported that agreement was reached among those concerned for it to be unified under Agata Shrine from 2026 onward. Though it has changed its form many times over its long history, the core of the festival, in which the bonten proceeds through the darkness, has been handed down unchanged.
+
+## Highlights
+
+**The bonten procession through the dark**　The greatest highlight of the Agata Matsuri is the bonten togyo performed late in the night of June 5. Amid pitch-black darkness in which all the lights along the route have been extinguished, the men of the town blocks proceed carrying the bonten. The townscape lowering its lights to receive the shrine, and the figure of the bonten floating in the darkness, create a fantastical and mysterious scene found in no other festival.
+
+**The dynamic spinning of the bonten**　In the bonten procession, the greatest spectacle is the bunmawashi, in which the bearers spin the bonten vigorously. The act of powerfully swinging the huge bonten around in the darkness is full of force, and the chants of the bearers and the fervor of the crowd unite to bring the festival to its climax.
+
+**The oonusa rite praying for the expulsion of plague**　The oonusa rite, in which the great wand proceeds performing purifications at the corners of the town and is finally dragged by the wand-bearers to the Uji Bridge and cast into the river, is also an act emblematic of the Agata Matsuri. Carrying the prayer for the expulsion of plague and the warding off of calamity handed down since the Michiae-no-matsuri, it shows a solemnity of purification faith quite different from the vigorous bonten procession.
+
+**The shrine grounds close to Byodo-in**　The stage of the festival, Agata Shrine, stands about one hundred meters from the south gate of the World Heritage site Byodo-in. The precincts of this ancient shrine enshrining Konohanasakuya-hime, together with the historic townscape of Uji, form the backdrop of this strange festival of the dark night. The very location, a festival held in a corner of a renowned ancient capital, heightens the appeal of the Agata Matsuri all the more.
+
+**The bustle of night stalls filling the precincts**　Alongside the mysterious rites, until around ten in the evening on June 5 many night stalls line the precincts of Agata Shrine and its surroundings. As a great festival representative of Uji it bustles with large crowds, so that one can enjoy in a single night two faces of the festival: the lively bustle from afternoon into evening, and the serene rites of the darkness late at night.
+
+**A yearly event coloring early summer in Uji**　The Agata Matsuri is a seasonal feature of early summer in Uji, held every year in early June. As the rainy season approaches, this ancient rite conducted in darkness is rooted in the community as a yearly event announcing a turning point in the year for Uji. As a festival distilling the history and faith unique to the ancient city of Uji, it remains in the memory of those who visit.
+
+## Event Information
+
+- Location: Uji City, Kyoto Prefecture
+- Venue: Agata Shrine (72 Uji Renge, Uji City) and its surroundings
+- Dates: From June 5 into the small hours of June 6 every year (the bonten procession is late on the night of the 5th)
+- Main events: Bonten procession, the oonusa rite, night stalls (until around 10 p.m. on the 5th)
+- Access: Within walking distance of JR Uji Station or Keihan Uji Station (near the south gate of Byodo-in)
+- Admission: Free to view. Note that the bonten procession is held late at night, and dates and operating structure may change.
+
+## Around the Area
+
+Very close to Agata Shrine is Byodo-in, a component asset of the World Cultural Heritage Historic Monuments of Ancient Kyoto. The Phoenix Hall, built by Fujiwara no Yorimichi, is a representative work of Heian-period architecture also known from the design of the ten-yen coin, and its graceful form housing a seated image of Amida Nyorai is a must-see. Together with a visit to the Agata Matsuri, one can visit this celebrated temple representative of the history of Uji.
+
+Uji is also famous as one of Japan''s foremost centers of tea production, and around the Uji Bridge long-established tea houses and tea merchants stand side by side. Savoring sweets and matcha desserts made with Uji tea while enjoying the flow of the Uji River and the historic townscape is an experience unique to this land. Many tourists visit even outside the festival season.
+
+Uji is also known as the setting of the Ten Quires of Uji, the final part of The Tale of Genji. Along the Uji River are scattered such attractions as the Tale of Genji Museum and Ujigami Shrine (a World Heritage site), and one can enjoy strolling while reflecting on the world of Heian literature. Uji, the stage of the Agata Matsuri, is a land where the culture of Japan from ancient into medieval times is layered many times over.
+
+## Related Information
+
+- Month: June (summer, an early-summer yearly event)
+- Location: Uji City, Kyoto Prefecture (Kinki region)
+- Origin: Said to have begun with the Michiae-no-matsuri performed by the Fujiwara clan in prayer for the tranquility of Uji
+- Features: A strange festival of the dark night held in darkness with lights extinguished; the bonten procession and the oonusa rite
+- Enshrined deity: Konohanasakuya-hime-no-mikoto (Agata Shrine)
+- Other names: Strange Festival of the Darkness; formerly also called the seed-receiving festival
+','agata-matsuri','agata-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603039','筒井町出来町天王祭','Tsutsui-chō Deki-machi Tennō-sai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E7%94%BA%E5%87%BA%E6%9D%A5%E7%94%BA%E5%A4%A9%E7%8E%8B%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11628729','西条祭り','Saijo Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9D%A1%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11589725','神戸まつり','Kobe Matsuri',NULL,NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,1971,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/2010%20Kobe%20Matsuri00s3s4050.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
