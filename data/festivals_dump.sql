@@ -13564,15 +13564,113 @@ A distinctive feature of this fireworks display is that, set against the majesti
 
 The Chikugo River Fireworks Festival is a traditional event uniting faith and entertainment, tied to the festival of Suitengū, which is revered as a deity of protection from water disasters and of safe childbirth and the granting of children. Handed down for over 370 years, these fireworks are a major event symbolizing summer in Kurume—an indispensable annual observance heralding the arrival of summer for the people of the Chikugo region.','chikugo-river-fireworks-festival','chikugo-river-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11594894','秋吉台国際20世紀音楽セミナー&フェスティバル','Akiyoshidai International Contemporary Music Seminar and Festival',NULL,NULL,NULL,NULL,NULL,'山口県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%90%89%E5%8F%B0%E5%9B%BD%E9%9A%9B20%E4%B8%96%E7%B4%80%E9%9F%B3%E6%A5%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%26%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11590440','神武天皇祭','Emperor Jinmu Festival','神武天皇を祭る皇室の祭祀',NULL,'Q62756148','畝傍山東北陵','Unebiyama-no-Ushitora-no-Sumi-no-Misasagi','奈良県','kinki',NULL,NULL,1860,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Jinmusai-fes1.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%AD%A6%E5%A4%A9%E7%9A%87%E7%A5%AD',NULL,85,'drafted','神武天皇祭（じんむてんのうさい）は、日本の初代天皇とされる神武天皇を祭る皇室の祭祀である。神武天皇が崩御したと伝えられる4月3日に、宮中の皇霊殿(こうれいでん)、および奈良県橿原市にある神武天皇陵(畝傍山東北陵)などで斎行される。1860年(万延元年)に制度として整えられた、皇室の重要な式典の一つである。
+INSERT INTO "festivals" VALUES('Q11590440','神武天皇祭','Emperor Jinmu Festival','神武天皇を祭る皇室の祭祀',NULL,'Q62756148','畝傍山東北陵','Unebiyama-no-Ushitora-no-Sumi-no-Misasagi','奈良県','kinki',NULL,NULL,1860,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Jinmusai-fes1.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%AD%A6%E5%A4%A9%E7%9A%87%E7%A5%AD',NULL,85,'drafted','神武天皇祭（じんむてんのうさい）は、奈良県橿原市の橿原神宮で毎年4月3日に斎行される祭典である。橿原神宮の御祭神である神武天皇の崩御の日と伝えられる4月3日にちなんで行われ、古くから地元で「神武さん」と親しみを込めて呼ばれてきた。地元はもとより近郷や他府県からも多くの参拝者が訪れ、春の橿原を彩る大祭として知られている。
 
-神武天皇は、『古事記』『日本書紀』において、日向(現在の宮崎県)から東征し、大和(現在の奈良県)の橿原宮で即位して日本を建国したと伝えられる伝説上の天皇である。その陵墓とされる畝傍山東北陵は、神聖な聖域として今も篤い崇敬を集めており、神武天皇祭の際には宮中からの勅使が派遣され、厳粛な祭儀が執り行われる。
+神武天皇は、日本の記紀（古事記・日本書紀）に初代天皇として伝えられる人物で、橿原の地で即位したとされることから、その宮跡と伝わる場所に橿原神宮が創建された。神武天皇祭は、2月11日の紀元祭と並ぶ橿原神宮の重要な大祭に位置づけられ、祝詞奏上や玉串奉奠といった厳かな神事を通じて、国家の弥栄と人々の安寧、家内安全や健康長寿が祈願される。
 
-橿原神宮では、神武天皇祭にあわせて多彩な祭典行事が催され、参拝客で賑わう。また、戦前には4月3日が祝祭日とされ、全国の学校や神社で式典が行われた歴史を持つ。桜の咲く春の季節に営まれるこの祭祀は、日本の建国神話と皇室の歴史を今に伝えるとともに、大和の地に深く根ざした古代信仰の系譜を映し出す行事である。','The Emperor Jinmu Festival is an imperial court ritual honoring Emperor Jinmu, regarded as the first Emperor of Japan. On April 3rd, the day on which Emperor Jinmu is said to have passed away, it is conducted at the Kōreiden hall of the Imperial Palace, as well as at the Mausoleum of Emperor Jinmu (Unebiyama-no-Ushitora-no-Sumi-no-Misasagi) in Kashihara, Nara Prefecture, among other sites. Established as a formal observance in 1860, it is one of the important ceremonies of the imperial house.
+## 歴史と由来
 
-Emperor Jinmu is a legendary emperor who, in the Kojiki and Nihon Shoki, is said to have undertaken an eastern campaign from Hyūga (present-day Miyazaki Prefecture), ascended the throne at the Kashihara Palace in Yamato (present-day Nara Prefecture), and founded Japan. The mausoleum attributed to him, the northeastern tomb of Mt. Unebi, still commands deep reverence as a sacred precinct, and during the Emperor Jinmu Festival an imperial envoy is dispatched from the court to conduct solemn rites.
+神武天皇は、記紀において日本の初代天皇として記される伝説的な存在である。日向（宮崎)を発って東へ進む「神武東征」の末に大和を平定し、辛酉の年の正月に橿原の地で即位したと『日本書紀』は伝える。その即位の地とされる畝傍山の東南麓に、明治23年（1890年）、神武天皇と皇后を祀る官幣大社として橿原神宮が創建された。
 
-At Kashihara Shrine, a variety of festival events are held in conjunction with the Emperor Jinmu Festival, drawing crowds of worshippers. Historically, April 3rd was also a national holiday before the war, when ceremonies were held at schools and shrines across the country. Conducted in the spring season when cherry blossoms bloom, this rite conveys Japan''s founding mythology and the history of the imperial house, while reflecting the lineage of ancient faith deeply rooted in the land of Yamato.','emperor-jinmu-festival','emperor-jinmu-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+神武天皇祭は、その神武天皇が崩御したと伝えられる4月3日にちなんで営まれる祭典である。神武天皇の御聖業を仰ぎ、その御神徳に感謝するとともに、初代天皇の遺徳を偲ぶ日として、橿原神宮では毎年この日に厳粛に斎行されてきた。橿原神宮にとっては、建国を祝う2月11日の紀元祭と同様に、御祭神に直接かかわる最も大切な祭りのひとつである。
+
+4月3日という日付は、宮中においても天皇が自ら祭祀を行う重要な日とされてきた歴史をもつ。橿原神宮の神武天皇祭も、そうした神武天皇を奉祀する営みの一環として、御祭神の崩御日に祈りを捧げる祭典として位置づけられている。地元では親しみを込めて「神武さん」と呼び、深い敬慕とともに世代を越えて受け継がれてきた。
+
+神武大祭は4月3日の当日だけでなく、前後にかけて複数の祭儀で構成される。前日の4月2日には橿原神宮の鎮座を記念する御鎮座記念祭が営まれ、4月3日午前に神武天皇祭の本義が斎行される。こうした一連の祭儀を通じて、創建以来の橿原神宮の歩みと、御祭神・神武天皇への信仰が改めて確かめられる。
+
+## 見どころ
+
+**厳かに斎行される神武天皇祭の神事**　4月3日午前10時、橿原神宮では神武天皇祭が斎行される。祝詞奏上や玉串奉奠など、伝統に則った厳粛な神事を通じて、国家の弥栄と人々の平和、参拝者の家内安全や健康長寿が祈願される。神域に満ちる静謐な空気のなかで営まれる祭儀は、大祭の核心である。
+
+**古式ゆかしい国栖奏の奉納**　4月3日の午後1時には、国栖奏（くずそう)が奉納される。国栖奏は吉野の国栖に伝わる古式の歌舞で、笛や鼓に合わせて古歌を歌い舞う、きわめて古い由緒をもつ芸能である。悠久の調べが神前に響くこの奉納は、神武天皇祭ならではの見どころとなっている。
+
+**紀元祭と並ぶ橿原神宮の大祭**　神武天皇祭は、建国を祝う2月11日の紀元祭と並ぶ橿原神宮の重要な大祭である。御祭神・神武天皇に直接かかわる祭りとして特別に位置づけられており、一年の祭典のなかでも格別の重みをもって斎行される点に、この祭りの性格がよく表れている。
+
+**「神武さん」に集う多くの参拝者**　神武天皇祭の日は、地元はもとより近郷・他府県からも多くの参拝者が橿原神宮を訪れる。古くから「神武さん」と呼び親しまれてきたこの祭りには、初代天皇への敬慕と親しみが込められており、広い神苑に参拝者が集う様子は春の橿原の風物詩となっている。
+
+**前日の御鎮座記念祭**　神武大祭は4月3日の神武天皇祭を中心に、前日の4月2日午前に営まれる御鎮座記念祭とあわせて構成される。明治23年の創建を記念するこの祭儀を経て翌日の本義へと続く流れは、橿原神宮の歴史と祭りの重層性を感じさせる。
+
+**桜に包まれる春の神苑**　神武天皇祭が営まれる4月上旬は、橿原神宮の広大な神苑が桜に彩られる季節でもある。畝傍山を背にした荘厳な社殿と、春の花に包まれた深い森の景観が調和し、祭りに訪れる人々を迎える。祈りの場としての厳かさと、春の華やぎとが同時に味わえる。
+
+## 開催情報
+
+- 開催地：奈良県橿原市
+- 会場：橿原神宮（橿原市久米町934）
+- 開催時期：毎年4月3日（神武大祭は4月2日の御鎮座記念祭を含む）
+- 主な行事：神武天皇祭（4月3日午前10時）、国栖奏奉納（同日午後1時）、御鎮座記念祭（4月2日午前10時）
+- アクセス：近鉄橿原神宮前駅から徒歩約10分
+- 観覧：一般参拝は自由（祭典への正式参列は事前の奉賛・案内による）。※日程・内容は変更となる場合がある
+
+## 周辺の見どころ
+
+橿原神宮の背後にそびえる畝傍山は、大和三山のひとつに数えられる標高約199メートルの山である。神武天皇の宮があったと伝えられる地であり、山麓には歴代天皇の陵に治定された古墳も点在する。橿原神宮の参拝とあわせて、記紀神話や古代大和の歴史に思いを馳せながら周辺を巡ることができる。
+
+橿原神宮の広大な神苑は、四季を通じて豊かな自然が楽しめる憩いの場となっている。深田池をはじめとする園内は野鳥や草花に富み、春の桜、初夏の新緑など、季節ごとに表情を変える。荘厳な社殿と自然が一体となった空間は、祭りの日以外にも多くの参拝者や散策者に親しまれている。
+
+橿原の一帯は、藤原京跡や飛鳥地方など、日本古代史の舞台が集まる地域でもある。橿原神宮前駅は飛鳥・吉野方面への交通の要衝で、古代の宮都の跡や古墳、寺社を巡る歴史散策の拠点として便利である。神武天皇祭の参拝を、奈良の古代史を訪ねる旅の起点とするのもよい。
+
+## 関連情報
+
+- 開催月：4月（春）
+- 所在地：奈良県橿原市（近畿地方）
+- 由緒：御祭神・神武天皇の崩御日と伝わる4月3日にちなむ祭典
+- 位置づけ：2月11日の紀元祭と並ぶ橿原神宮の重要な大祭
+- 主な奉納：国栖奏（吉野の国栖に伝わる古式の歌舞）
+- 通称：地元で「神武さん」と親しまれる
+','The Jinmu Tenno-sai is a rite performed every year on April 3 at Kashihara Jingu Shrine in Kashihara City, Nara Prefecture. It is held in connection with April 3, traditionally regarded as the day on which Emperor Jinmu, the enshrined deity of Kashihara Jingu, passed away, and from ancient times it has been affectionately called Jinmu-san by local people. Drawing many worshippers not only from the locality but also from nearby districts and other prefectures, it is known as a grand festival that colors spring in Kashihara.
+
+Emperor Jinmu is a figure recorded in the Kojiki and Nihon Shoki, Japan''s ancient chronicles, as the first emperor, and because he is said to have acceded to the throne in the land of Kashihara, Kashihara Jingu was founded at the place traditionally held to be the site of his palace. The Jinmu Tenno-sai is regarded as one of the important grand festivals of Kashihara Jingu, alongside the Kigen-sai of February 11, and through solemn rites such as the recitation of prayers and the offering of sacred sakaki branches, prayers are made for the flourishing of the nation, the peace of the people, safety in the household, and health and long life.
+
+## History and Origins
+
+Emperor Jinmu is a legendary figure recorded in the ancient chronicles as the first emperor of Japan. The Nihon Shoki relates that, after setting out from Hyuga (Miyazaki) and advancing eastward in what is known as the Jinmu Eastern Expedition, he pacified Yamato and acceded to the throne in the land of Kashihara in the first month of the kanoto-tori year. At the southeastern foot of Mount Unebi, held to be the place of his enthronement, Kashihara Jingu was founded in 1890 (Meiji 23) as an imperial shrine enshrining Emperor Jinmu and his empress.
+
+The Jinmu Tenno-sai is a rite conducted in connection with April 3, the day on which Emperor Jinmu is said to have passed away. As a day for revering the great achievements of Emperor Jinmu, giving thanks for his virtue, and recalling the legacy of the first emperor, this rite has been solemnly performed at Kashihara Jingu every year on this date. For Kashihara Jingu it is, like the Kigen-sai of February 11 that celebrates the founding of the nation, one of the most important festivals directly connected with the enshrined deity.
+
+The date of April 3 has a history of being regarded as an important day on which the emperor himself performed rites within the imperial court as well. The Jinmu Tenno-sai of Kashihara Jingu is likewise positioned as a rite offering prayers on the day of the deity''s passing, as part of the tradition of venerating Emperor Jinmu. Local people call it Jinmu-san with affection, and it has been handed down across the generations together with deep reverence.
+
+The grand Jinmu festival is composed of several rites not only on April 3 itself but also over the surrounding days. On the previous day, April 2, the Gochinza Kinen-sai commemorating the enshrinement of Kashihara Jingu is performed, and on the morning of April 3 the central rite of the Jinmu Tenno-sai is conducted. Through this series of rites, the course of Kashihara Jingu since its founding and the faith in the enshrined deity, Emperor Jinmu, are reaffirmed.
+
+## Highlights
+
+**The solemnly conducted rite of the Jinmu Tenno-sai**　At ten in the morning on April 3, the Jinmu Tenno-sai is performed at Kashihara Jingu. Through solemn rites conducted according to tradition, such as the recitation of prayers and the offering of sacred sakaki branches, prayers are made for the flourishing of the nation, the peace of the people, and the household safety and long life of the worshippers. The rite, performed amid the serene air that fills the sacred precincts, is the very heart of the grand festival.
+
+**The dedication of the ancient Kuzuso**　At one in the afternoon on April 3, the Kuzuso is dedicated. The Kuzuso is an ancient song and dance handed down among the Kuzu people of Yoshino, a performing art of extremely old lineage in which ancient songs are sung and danced to the accompaniment of flute and drum. This dedication, in which timeless melodies resound before the deity, is a highlight distinctive to the Jinmu Tenno-sai.
+
+**A grand festival ranking with the Kigen-sai**　The Jinmu Tenno-sai is an important grand festival of Kashihara Jingu, ranking with the Kigen-sai of February 11 that celebrates the founding of the nation. It is given special standing as a festival directly connected with the enshrined deity Emperor Jinmu, and the fact that it is conducted with exceptional weight among the year''s rites well expresses the character of this festival.
+
+**Many worshippers gathering for Jinmu-san**　On the day of the Jinmu Tenno-sai, many worshippers visit Kashihara Jingu not only from the locality but also from nearby districts and other prefectures. This festival, long called Jinmu-san with familiarity, carries reverence and affection for the first emperor, and the sight of worshippers gathering in the broad sacred garden has become a seasonal scene of spring in Kashihara.
+
+**The Gochinza Kinen-sai of the previous day**　The grand Jinmu festival is composed of the Jinmu Tenno-sai of April 3 at its center, together with the Gochinza Kinen-sai performed on the morning of the previous day, April 2. The flow from this rite commemorating the founding of the shrine in 1890 on to the central rite of the following day conveys the historical depth and layered structure of the festivals of Kashihara Jingu.
+
+**The spring sacred garden wrapped in cherry blossoms**　Early April, when the Jinmu Tenno-sai is held, is also the season when the vast sacred garden of Kashihara Jingu is colored by cherry blossoms. The majestic shrine buildings set against Mount Unebi harmonize with the scenery of the deep forest wrapped in spring flowers, welcoming those who come for the festival. One can savor at once the solemnity of a place of prayer and the brilliance of spring.
+
+## Event Information
+
+- Location: Kashihara City, Nara Prefecture
+- Venue: Kashihara Jingu Shrine (934 Kumecho, Kashihara City)
+- Dates: April 3 every year (the grand Jinmu festival includes the Gochinza Kinen-sai on April 2)
+- Main events: Jinmu Tenno-sai (10 a.m. on April 3), dedication of the Kuzuso (1 p.m. the same day), Gochinza Kinen-sai (10 a.m. on April 2)
+- Access: About 10 minutes on foot from Kashiharajingu-mae Station on the Kintetsu line
+- Admission: General worship is free (formal attendance at the rite is by prior offering and invitation). Note that dates and details may change.
+
+## Around the Area
+
+Mount Unebi, rising behind Kashihara Jingu, is one of the three mountains of Yamato, standing about 199 meters high. It is a place said to be where the palace of Emperor Jinmu stood, and at its foot are scattered ancient tombs designated as the mausoleums of successive emperors. Together with a visit to Kashihara Jingu, one can tour the surroundings while reflecting on the myths of the ancient chronicles and the history of ancient Yamato.
+
+The vast sacred garden of Kashihara Jingu is a place of repose where rich nature can be enjoyed throughout the four seasons. The grounds, including Fukada Pond, abound in wild birds and plants and change their appearance with each season, from the cherry blossoms of spring to the fresh green of early summer. This space, where majestic shrine buildings and nature form a single whole, is beloved by many worshippers and strollers even outside festival days.
+
+The Kashihara area is also a region where the stages of Japan''s ancient history gather, such as the site of the Fujiwara-kyo capital and the Asuka district. Kashiharajingu-mae Station is a hub for transport toward Asuka and Yoshino, and it is convenient as a base for historical walks touring the remains of ancient capitals, tombs, and temples and shrines. A visit to the Jinmu Tenno-sai may well serve as the starting point for a journey exploring the ancient history of Nara.
+
+## Related Information
+
+- Month: April (spring)
+- Location: Kashihara City, Nara Prefecture (Kinki region)
+- Origin: A rite in connection with April 3, traditionally the day of the passing of the enshrined deity Emperor Jinmu
+- Standing: An important grand festival of Kashihara Jingu, ranking with the Kigen-sai of February 11
+- Main dedication: The Kuzuso (an ancient song and dance handed down among the Kuzu people of Yoshino)
+- Common name: Affectionately called Jinmu-san by local people
+','emperor-jinmu-festival','emperor-jinmu-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11622981','藤原まつり','Fujiwara Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11585601','石崎奉燈祭','Issaki Hōtō Festival','石川県七尾市で開催されるキリコ祭り',NULL,NULL,NULL,NULL,'石川県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B4%8E%E5%A5%89%E7%87%88%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社の祭礼',NULL,'Q114575','広島湾','Hiroshima Bay','広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kangen%20jigozen2.jpg','https://ja.wikipedia.org/wiki/%E7%AE%A1%E7%B5%83%E7%A5%AD',NULL,85,'drafted','管絃祭（かんげんさい）は、広島県廿日市市の世界遺産・厳島神社で行われる海上の祭礼で、旧暦6月17日(現在は7月から8月頃)に営まれる。平安時代の貴族が舟遊びの際に楽しんだ「管絃の遊び」を神事として今に伝える、雅やかで荘厳な祭りとして知られる。
