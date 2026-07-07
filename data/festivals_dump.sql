@@ -12709,15 +12709,113 @@ There are various theories about the origins of the Hamaori-sai, but it carries 
 INSERT INTO "festivals" VALUES('Q11565005','ネブタ流し','Namerikawa Nebuta Nagashi','滑川市の祭事',NULL,'Q823513','滑川市','Namerikawa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E3%81%AE%E3%83%8D%E3%83%96%E3%82%BF%E6%B5%81%E3%81%97',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11563560','湯布院映画祭','Yufuin Film Festival',NULL,NULL,'Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,1976,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B8%83%E9%99%A2%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11550984','江戸三大祭り','Three Great Festivals of Edo','東京都で行われる3つの大きなお祭り。神田祭、山王祭、深川祭。',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E4%B8%89%E5%A4%A7%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11566877','火振りかまくら','Hiburi Kamakura','秋田県仙北市角館地域に伝わる伝統行事',NULL,'Q11630890','角館','Kakunodate','秋田県','tohoku',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hiburi%20Kamakura%20in%20Kakunodate%202019b.jpg','https://ja.wikipedia.org/wiki/%E7%81%AB%E6%8C%AF%E3%82%8A%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89',NULL,85,'drafted','火振りかまくら（ひぶりかまくら）は、秋田県仙北市角館(かくのだて)地域に伝わる小正月の伝統行事である。毎年2月13日・14日に行われ、武家屋敷の町並みで知られる角館の冬の夜を、回転する炎の光が彩る勇壮な火祭りとして親しまれている。
+INSERT INTO "festivals" VALUES('Q11566877','火振りかまくら','Hiburi Kamakura','秋田県仙北市角館地域に伝わる伝統行事',NULL,'Q11630890','角館','Kakunodate','秋田県','tohoku',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Hiburi%20Kamakura%20in%20Kakunodate%202019b.jpg','https://ja.wikipedia.org/wiki/%E7%81%AB%E6%8C%AF%E3%82%8A%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89',NULL,85,'drafted','火振りかまくら（ひぶりかまくら）は、秋田県仙北市角館町に伝わる小正月の伝統行事で、毎年2月14日の夜に行われる。わら紐の先に付けた炭俵に火をつけ、縄の先端を持って自分の体の周りを大きく振り回すもので、真っ白な雪原に次々と描かれる火の輪が、冬の夜を幻想的に彩る。
 
-この行事の最大の特徴は、その名の通り「火を振る」という独特の所作である。参加者は、炭俵に縄をつけて火をつけた「火の玉」を、体の周りで勢いよく振り回す。雪に覆われた暗い夜のなか、無数の火の輪が円を描いて回転する光景は幻想的で、見る者を魅了する。この火振りには、無病息災や五穀豊穣、家内安全を祈願する意味が込められている。
+神聖な火で厄を払うとともに、五穀豊穣・無病息災・家内安全など一年の無事を祈願する行事である。400年以上の伝統をもち、仙北市指定無形民俗文化財に指定されている。見るだけでなく実際に火振りを体験できる参加型の行事であることも大きな特色で、雪国角館の冬を代表する風物詩として親しまれている。
 
-火振りかまくらは、田畑の厄を払い、その年の豊作を願う小正月の予祝行事に由来するとされる。回した火の縄は最後に積み上げて燃やし、その炎で団子を焼いて食べたり、書き初めを燃やしたりする風習も伝わる。みちのくの厳しい冬を彩るこの火祭りは、雪国・角館に根づいた農耕儀礼と人々の祈りを今に伝える、東北の貴重な小正月行事である。','Hiburi Kamakura is a traditional Little New Year event handed down in the Kakunodate area of Senboku, Akita Prefecture. Held annually on February 13th and 14th, it is a spirited fire festival in which spinning flames color the winter night of Kakunodate, a town famous for its samurai-residence streetscape.
+## 歴史と由来
 
-The defining feature of this event is the distinctive act of "swinging fire," as its name suggests. Participants vigorously whirl around their bodies a "ball of fire"—a charcoal straw bag tied to a rope and set alight. Amid the dark, snow-covered night, the sight of countless rings of fire spinning in circles is dreamlike and captivating. This fire-swinging carries prayers for good health, an abundant harvest, and the safety of the household.
+火振りかまくらは、田の忌み（田畑にまつわる災いや穢れ）を嫌った農家によって始められたと伝えられ、400年以上の歴史をもつ小正月の行事である。小正月は旧暦1月15日前後を指し、正月飾りを焼いて年神を送り、一年の豊作と無事を祈る全国的な農村行事の系譜に連なるが、角館ではそれが雪中に火の輪を描く独特の形へと発展した。
 
-Hiburi Kamakura is said to derive from a Little New Year rite of anticipatory celebration, driving away misfortune from the fields and praying for a good harvest that year. Customs also survive of piling up and burning the fire-ropes at the end, then roasting and eating dumplings over the flames, or burning one''s New Year calligraphy. Coloring the harsh winter of the Tōhoku region, this fire festival is a precious Little New Year event of northern Japan, conveying the agricultural rituals and prayers rooted in the snow country of Kakunodate.','hiburi-kamakura','hiburi-kamakura',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+行事の根底にあるのは「火」を神聖なものとする信仰である。炭俵に点火して体の周りを振り回すことで身についた厄を祓い、あわせて五穀豊穣・無病息災・家内安全を祈る。火を振るという直接的で力強い所作は、厳しい雪と寒さのなかで暮らす人々が、春の実りと家族の健康を願う切実な思いを形にしたものといえる。
+
+火振りかまくらは、雪でつくった「かまど」に薪を入れて燃やすことから始まる。このかまどの火が火振りの火種となり、行事全体の起点となる。角館の町では2月14日当日、地区内の36か所で町内ごとに火振りかまくらが行われ、それぞれの決まった場所で火の輪が夜空に舞う光景が繰り広げられる。
+
+角館は江戸時代に佐竹北家の城下町として栄え、みちのくの小京都とも呼ばれる武家屋敷の町並みで知られる。その歴史ある町に暮らす人々が、町内ごとに場所と役割を受け継ぎながら火振りかまくらを守り伝えてきた。使用した縄をお守りとして持ち帰る習わしも残り、行事は単なる観光行事ではなく、地域の暮らしに根づいた祈りの営みとして続いている。
+
+## 見どころ
+
+**雪原に踊る火の輪**　火振りかまくらの最大の見どころは、真っ白な雪の中に次々と描かれる火の輪である。炭俵に火をつけて体の周りを振り回すと、闇の中に赤々とした光の円が幾重にも重なり、冬の夜のメルヘンの世界へと誘う。雪国ならではの幻想的な光景が、この行事の象徴となっている。
+
+**天筆焼き**　町内ごとに決まった場所では、高さ3メートルほどの長木に稲藁などを巻き付けて雪に立て、これに火をつける「天筆焼き」が行われる。正月の門松や注連飾りをともに焼き上げ、立ち上る炎と煙にのせて一年の無事を天に祈る、小正月らしい火祭りの所作である。
+
+**火振り体験ができる参加型行事**　火振りかまくらは見るだけでなく、観光客も実際に火振りを体験できる参加型の行事である点が大きな魅力である。万一衣服に火が引火すると危険なため、角館祭りに使う木綿のハッピが貸し出され、地元の人の指導のもとで安全に火の輪を描く体験ができる。
+
+**雪でつくるかまどと水神様**　行事は雪でつくったかまどに薪を入れて燃やすことから始まり、この火が火振りの火種となる。また会場には雪洞（かまくら）も作られ、そこに水神様が祀られる。火と水、そして雪という角館の冬を形づくる要素が一体となって、小正月の祈りの場を整える。
+
+**36か所で繰り広げられる町内の火**　当日は角館地区の36か所で、町内ごとに火振りかまくらが行われる。城下町の各町内がそれぞれの場所で火の輪を描くため、町全体が同じ夜に無数の火に包まれる。決まった場所と役割を代々受け継いできた、地域に根づいた行事のあり方がうかがえる。
+
+**お守りとして持ち帰る縄**　火振りに使った縄は、厄を祓った神聖なものとして、お守りとして持ち帰られることがある。振り終えた縄をそのまま家に持ち帰り一年の無事を願うこの習わしは、火振りかまくらが単なる火の見世物ではなく、実際の祈願行事として生きていることを物語っている。
+
+## 開催情報
+
+- 開催地：秋田県仙北市角館町
+- 会場：角館地区内の各町内（主会場のほか地区内36か所）
+- 開催時期：毎年2月14日の夜（小正月行事）
+- 主な行事：火振り、天筆焼き、雪のかまど点火、火振り体験
+- アクセス：秋田新幹線・JR田沢湖線 角館駅から徒歩約15分
+- 観覧：観覧無料。火振り体験用に木綿のハッピを貸出（安全のため）。※日程・会場は変更となる場合がある
+
+## 周辺の見どころ
+
+火振りかまくらの舞台・角館は、江戸時代に佐竹北家の城下町として栄えた歴史ある町で、「みちのくの小京都」と称される。国の重要伝統的建造物群保存地区に選定された武家屋敷通りには、黒板塀と枝垂れ桜に彩られた屋敷が連なり、冬には雪化粧をまとった凛とした町並みを楽しむことができる。
+
+角館は桜の名所としても全国的に知られる。武家屋敷通りの枝垂れ桜と、桧木内川堤の約2キロにわたるソメイヨシノの桜並木は春の絶景として名高く、火振りかまくらの季節とは異なる角館の魅力を伝える。四季を通じて城下町の風情を味わえるのが角館の大きな魅力である。
+
+角館駅周辺は田沢湖・角館観光の拠点でもある。日本一の深さを誇るカルデラ湖・田沢湖や、乳頭温泉郷といった秋田内陸部の名所へのアクセスもよく、火振りかまくらの見物とあわせて、雪深い秋田の自然と温泉を巡る冬の旅の起点として親しまれている。
+
+## 関連情報
+
+- 開催月：2月（冬・小正月行事）
+- 所在地：秋田県仙北市角館町（東北地方）
+- 起源：田の忌みを嫌った農家が始めたと伝わる400年以上の伝統
+- 文化財：仙北市指定無形民俗文化財
+- 規模：角館地区内の36か所で町内ごとに実施
+- 特色：雪原に描く火の輪、天筆焼き、観光客も参加できる火振り体験
+','Hiburi Kamakura is a traditional Little New Year (koshogatsu) event handed down in the Kakunodate district of Semboku City, Akita Prefecture, held every year on the night of February 14. Participants light a small straw charcoal bale tied to the end of a rope, grip the end of the rope, and swing it in great circles around their bodies, so that rings of fire drawn one after another across the pure white snow color the winter night with a fantastical glow.
+
+It is a rite that drives away misfortune with sacred fire while praying for a good harvest, freedom from illness, safety in the household, and a year without mishap. With a tradition of more than four hundred years, it is designated an Intangible Folk Cultural Property by Semboku City. A major distinguishing feature is that it is a participatory event that can be not only watched but actually experienced, and it is beloved as a signature winter scene of snowbound Kakunodate.
+
+## History and Origins
+
+Hiburi Kamakura is said to have been begun by farmers who wished to ward off the impurities and misfortunes connected with their fields, and it is a Little New Year event with a history of more than four hundred years. The Little New Year, centered on around the fifteenth day of the first lunar month, belongs to a nationwide tradition of rural rites in which New Year decorations are burned to see off the year god and prayers are offered for a bountiful harvest and safety, but in Kakunodate this developed into the distinctive form of drawing rings of fire in the snow.
+
+At the foundation of the event lies a faith that regards fire as sacred. By lighting a charcoal bale and swinging it around the body, one drives off the misfortune that has clung to oneself, while praying for a good harvest, freedom from illness, and safety in the home. The direct and powerful act of swinging fire gives shape to the earnest wishes of people who live amid harsh snow and cold, longing for the coming of spring''s bounty and the health of their families.
+
+Hiburi Kamakura begins with the lighting of a hearth (kamado) built of snow, into which firewood is placed and burned. The fire of this hearth becomes the source for the fire swinging and serves as the starting point of the whole event. On February 14, the event is carried out in thirty-six places throughout the district, town block by town block, so that rings of fire dance in the night sky at each of the fixed locations.
+
+Kakunodate flourished in the Edo period as the castle town of the Satake-Kita family, and it is known for its samurai residence townscape, so celebrated that it is called the Little Kyoto of the north country. The people who live in this historic town have preserved and handed down Hiburi Kamakura while inheriting places and roles for each town block. The custom of carrying home the used rope as a protective charm also survives, so that the event continues not as a mere tourist attraction but as an act of prayer rooted in the life of the community.
+
+## Highlights
+
+**Rings of fire dancing over the snow**　The greatest highlight of Hiburi Kamakura is the rings of fire drawn one after another in the pure white snow. When a charcoal bale is lit and swung around the body, glowing red circles of light overlap in layer upon layer within the darkness, drawing onlookers into the fairy-tale world of a winter night. This fantastical scene, possible only in snow country, has become the symbol of the event.
+
+**The tenpitsu-yaki burning**　At the fixed locations for each town block, a tenpitsu-yaki is performed, in which a tall pole about three meters high, wrapped with rice straw, is set up in the snow and set alight. New Year pine decorations and sacred straw ornaments are burned together, and prayers for a year of safety are offered upon the rising flames and smoke, an act of fire ritual characteristic of the Little New Year.
+
+**A participatory event with fire-swinging experience**　A great appeal of Hiburi Kamakura is that it is a participatory event in which visitors too can actually experience the fire swinging, not merely watch it. Because there is danger should clothing catch fire, cotton happi coats of the kind used at the Kakunodate Festival are lent out, and under the guidance of local people visitors can safely experience drawing rings of fire.
+
+**The snow hearth and the water deity**　The event begins with the lighting of a hearth built of snow, and this fire becomes the source for the fire swinging. A snow hut (kamakura) is also made at the site, and within it the water deity is enshrined. Fire, water, and snow, the very elements that shape winter in Kakunodate, come together to prepare the setting for the prayers of the Little New Year.
+
+**Fire spread across thirty-six locations**　On the day, Hiburi Kamakura is carried out in thirty-six places throughout the Kakunodate district, town block by town block. Because each town block of the castle town draws its rings of fire at its own location, the whole town is wrapped in countless fires on the same night. This reflects the character of an event rooted in the community, with fixed places and roles handed down through the generations.
+
+**The rope carried home as a charm**　The rope used in the fire swinging is sometimes carried home as a protective charm, a sacred object that has driven off misfortune. This custom of taking the swung rope home to wish for a year of safety shows that Hiburi Kamakura lives on not as a mere spectacle of fire but as a genuine rite of supplication.
+
+## Event Information
+
+- Location: Kakunodate, Semboku City, Akita Prefecture
+- Venue: The individual town blocks of the Kakunodate district (main sites and thirty-six locations across the district)
+- Dates: The night of February 14 every year (a Little New Year event)
+- Main events: Fire swinging, tenpitsu-yaki burning, lighting of the snow hearth, fire-swinging experience
+- Access: About 15 minutes on foot from Kakunodate Station on the Akita Shinkansen and the JR Tazawako Line
+- Admission: Free to view. Cotton happi coats are lent for the fire-swinging experience (for safety). Note that dates and venues may change.
+
+## Around the Area
+
+Kakunodate, the stage of Hiburi Kamakura, is a historic town that flourished in the Edo period as the castle town of the Satake-Kita family, and it is called the Little Kyoto of the north country. Along the samurai residence street, selected as a national Important Preservation District for Groups of Traditional Buildings, stand residences adorned with black board fences and weeping cherry trees, and in winter one can enjoy a dignified townscape clad in snow.
+
+Kakunodate is also known nationwide as a place famous for cherry blossoms. The weeping cherries of the samurai residence street and the roughly two-kilometer row of Yoshino cherry trees along the Hinokinai River embankment are celebrated as a masterpiece of spring scenery, conveying a charm of Kakunodate quite different from the season of Hiburi Kamakura. Being able to savor the atmosphere of the castle town throughout the four seasons is one of Kakunodate''s great attractions.
+
+The area around Kakunodate Station is also a base for touring Lake Tazawa and Kakunodate. With good access to such attractions of inland Akita as Lake Tazawa, the deepest caldera lake in Japan, and the Nyuto hot spring villages, it is beloved as a starting point for a winter journey combining a visit to Hiburi Kamakura with the nature and hot springs of deep-snow Akita.
+
+## Related Information
+
+- Month: February (winter, a Little New Year event)
+- Location: Kakunodate, Semboku City, Akita Prefecture (Tohoku region)
+- Origins: Said to have been begun by farmers wishing to ward off the impurities of the fields; a tradition of more than four hundred years
+- Cultural property: Designated an Intangible Folk Cultural Property by Semboku City
+- Scale: Carried out in thirty-six locations throughout the Kakunodate district, town block by town block
+- Features: Rings of fire drawn in the snow, the tenpitsu-yaki burning, a fire-swinging experience open to visitors
+','hiburi-kamakura','hiburi-kamakura',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11528841','杵築盆踊り','Kitsuki Bon-odori',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B5%E7%AF%89%E7%9B%86%E8%B8%8A%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11529737','松山まつり',NULL,NULL,NULL,NULL,NULL,NULL,'愛媛県','shikoku',33.83676,132.77014,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E9%87%8E%E7%90%83%E6%8B%B3%E3%81%8A%E3%81%A9%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11565710','潮来祇園祭禮','Itako Gion Matsuri','茨城県潮来市で行われる祭礼',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Itako%20Gion%20Festival%2C%20Ibaraki%2014.jpg','https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%9D%A5%E7%A5%87%E5%9C%92%E7%A5%AD%E7%A6%AE',NULL,85,'drafted','潮来祇園祭禮（いたこぎおんさいれい）は、茨城県潮来市で毎年8月に行われる祭礼で、水郷の町・潮来の総鎮守である素鵞熊野神社(そがくまのじんじゃ)の祭礼として、約300年の歴史を誇る伝統行事である。利根川下流の水運で栄えた潮来の町並みを舞台に、豪壮華麗な山車が繰り出す関東有数の夏祭りとして知られる。
