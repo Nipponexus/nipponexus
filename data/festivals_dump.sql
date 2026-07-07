@@ -13973,93 +13973,117 @@ The Kashihara area is also a region where the stages of Japan''s ancient history
 ','emperor-jinmu-festival','emperor-jinmu-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11622981','藤原まつり','Fujiwara Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11585601','石崎奉燈祭','Issaki Hōtō Festival','石川県七尾市で開催されるキリコ祭り',NULL,NULL,NULL,NULL,'石川県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B4%8E%E5%A5%89%E7%87%88%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社の祭礼',NULL,'Q114575','広島湾','Hiroshima Bay','広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kangen%20jigozen2.jpg','https://ja.wikipedia.org/wiki/%E7%AE%A1%E7%B5%83%E7%A5%AD',NULL,85,'drafted','<h2>概要</h2>
-<p>管絃祭（かんげんさい）は、広島県廿日市市宮島町の嚴島神社で毎年旧暦6月17日に執り行われる、嚴島神社最大の神事です。華やかに飾り付けられた御座船が管絃を奏でながら、宮島の嚴島神社と対岸の地御前神社のあいだを往来する様子は、まるで平安絵巻を海上に再現したかのようで、松島の塩竈みなと祭・大阪天満宮の天神祭とともに「日本三大船祭」の一つに数えられています。旧暦の日付で行われるため新暦での開催日は毎年変動し、2026年は7月30日（木）、2027年は7月20日、2028年は8月7日にあたります。</p>
-<p>由緒は、平安時代に嚴島神社の社殿を造営した平清盛が、都の貴族たちが池や河川に船を浮かべて楽器を奏でた「管絃の遊び」を、遊興ではなく神様をお慰めする神事として宮島に伝えたことにあります。舞台は池や河川ではなく瀬戸内の穏やかな海となり、宮島ならではの雄大で優雅な祭りとして今日まで受け継がれてきました。真夏の夜、篝火と提灯の灯を暗い海面に映しながら進む御座船と、そこから流れる管絃の音色が、宮島の夏を象徴する幻想的な光景をつくり出します。</p>
+INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社の祭礼',NULL,'Q114575','広島湾','Hiroshima Bay','広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kangen%20jigozen2.jpg','https://ja.wikipedia.org/wiki/%E7%AE%A1%E7%B5%83%E7%A5%AD',NULL,85,'drafted','管絃祭（かんげんさい）は、広島県廿日市市宮島町の嚴島神社で毎年旧暦6月17日に執り行われる、嚴島神社最大の神事である。華やかに飾り付けられた御座船が管絃を奏でながら、宮島の嚴島神社と対岸の地御前神社のあいだを往来する様子は、まるで平安絵巻を海上に再現したかのようで、松島の塩竈みなと祭・大阪天満宮の天神祭とともに「日本三大船祭」の一つに数えられる。旧暦の日付で行われるため新暦での開催日は毎年変動し、2026年は7月30日、2027年は7月20日、2028年は8月7日にあたる。
 
-<h2>歴史</h2>
-<p>宮島は古くから島全体が神として崇められ、人が住むことを許されない神域でした。そのため、対岸の地御前（じごぜん）から神を迎え、管絃を奉奏して慰めたことが管絃祭のはじまりと伝えられています。平清盛が嚴島神社を厚く崇敬し、平安京で流行していた貴族の船遊びの風習を神事として持ち込んだことで、海上を舞台とする独特の祭礼が成立しました。</p>
-<p>由緒となった「管絃の遊び」とは、貴族が池や河川に船を浮かべ、管楽器を奏でて雅を楽しむ平安時代の遊興です。これが神事として形を変えて宮島へ伝わった際、舞台は瀬戸の海へと大きくスケールを変え、遊興の域を超えたダイナミックな神事へと発展しました。神を乗せた御座船が海を渡る様式は、山や川を舞台とする他の多くの祭礼とは一線を画すものです。</p>
-<p>御座船はかつて櫓を6丁備えた大きな船一艘で、自力で航行していたと伝えられています。しかし1701年（元禄14年）、地御前神社から宮島の長浜神社へ帰る途中に御座船が暴風雨に遭い、転覆寸前の危機に陥りました。このとき、鯛網漁に出ていた阿賀（あが）村の岡野喜右衛門の船と、嚴島参拝に訪れていた江波（えば）村の古川屋伝蔵の伝馬船が、二次災害を顧みず勇気ある行動で御座船を救助したと伝えられています。</p>
-<p>この救助を機に、阿賀と江波の両村が御座船を曳航する役割を担うようになり、その伝統は令和の現在まで続いています。現在は江波漕伝馬保存会と阿賀漁業協同組合が曳航を務め、御座船は和船三艘を並べて一艘に組む形式がとられています。数百年にわたり地域の人々の献身によって支えられてきた歴史そのものが、この祭りの大きな価値となっています。</p>
+由緒は、平安時代に嚴島神社の社殿を造営した平清盛が、都の貴族たちが池や河川に船を浮かべて楽器を奏でた「管絃の遊び」を、遊興ではなく神様をお慰めする神事として宮島に伝えたことにある。舞台は池や河川ではなく瀬戸内の穏やかな海となり、宮島ならではの雄大で優雅な祭りとして今日まで受け継がれてきた。真夏の夜、篝火と提灯の灯を暗い海面に映しながら進む御座船と、そこから流れる管絃の音色が、宮島の夏を象徴する幻想的な光景をつくり出す。
 
-<h2>見どころ</h2>
-<h3>平安絵巻を思わせる御座船の曳航</h3>
-<p>華やかに飾られた御座船が管絃を奏でながら瀬戸の海を渡る姿は、まさに海上の平安絵巻です。舳先の左右に焚かれた篝火と、船に灯された高張提灯や20数個の飾り提灯が暗い海面に映り込み、夕刻から深夜にかけて幻想的な光景を描き出します。</p>
-<h3>枡形での三匝（さんそう）</h3>
-<p>祭りのクライマックスは、嚴島神社の廻廊に囲まれた狭い枡形（ますがた）に御座船が入り、水竿を使って三回まわりながら管絃を奉奏する場面です。最小の水域で船を巧みに回す技は圧巻で、参拝客の歓声と拍手が廻廊にこだまします。</p>
-<h3>満月に照らされた夜の海</h3>
-<p>管絃祭が旧暦6月17日に行われるのは、満月に近く海面が明るいことも理由の一つです。満潮の海に浮かぶ御座船と、その上空に輝く月が織りなす情景は、この祭りならではの美しさです。</p>
-<h3>管絃の音色</h3>
-<p>祭りの名の由来となった管絃の奉奏は、船上と各神社前で繰り返されます。潮の香りのする海上に響く雅な楽の音は、平安の雅を今に伝える貴重な体験です。</p>
-<h3>地御前神社での祭典</h3>
-<p>御座船は対岸の地御前神社前に到着し、浜辺で祭典と管絃が奉奏されます。地御前神社からの御迎船に先導されて進む様子も見どころの一つです。</p>
-<h3>長浜神社前の提灯行列</h3>
-<p>長浜神社前で御座船を迎える提灯行列は、予約不要・無料で誰でも参加できます（提灯の数に限りあり）。祭りを見るだけでなく、自ら灯りを掲げて神事に加わることができる貴重な機会です。</p>
+## 歴史と由来
 
-<h2>開催情報</h2>
-<p>正式名称：管絃祭（嚴島神社管絃祭）</p>
-<p>開催日：毎年旧暦6月17日（新暦では毎年変動。2026年は7月30日、2027年は7月20日、2028年は8月7日）</p>
-<p>会場：嚴島神社（広島県廿日市市宮島町）および地御前神社ほか周辺海上</p>
-<p>主な神事：発輦祭、大鳥居前の儀、地御前神社・長浜神社・大元神社・火焼前・客神社前での祭典と管絃奉奏、枡形での三匝、本殿還御</p>
-<p>拝観：嚴島神社への昇殿には昇殿料が必要（管絃祭当日は開門時間が延長される）。潮位や潮流により進行時刻が大幅に変わる場合がある</p>
-<p>アクセス：JR宮島口駅または広電宮島口からフェリーで宮島桟橋へ、徒歩で嚴島神社</p>
+宮島は古くから島全体が神として崇められ、人が住むことを許されない神域であった。そのため、対岸の地御前（じごぜん）から神を迎え、管絃を奉奏して慰めたことが管絃祭のはじまりと伝えられている。平清盛が嚴島神社を厚く崇敬し、平安京で流行していた貴族の船遊びの風習を神事として持ち込んだことで、海上を舞台とする独特の祭礼が成立した。
 
-<h2>周辺情報</h2>
-<p>嚴島神社は海上に立つ大鳥居と朱塗りの社殿で知られ、1996年に世界文化遺産に登録されました。干潮時には大鳥居のたもとまで歩いて近づくことができ、満潮時には社殿が海に浮かんでいるように見えるなど、潮の満ち引きによって表情を変えるのが宮島の大きな魅力です。</p>
-<p>宮島の背後にそびえる弥山（みせん）は原始林に覆われ、ロープウェーと登山道で山頂を目指すことができます。山頂からは瀬戸内海の多島美を一望でき、嚴島神社とあわせて訪れたいスポットです。</p>
-<p>参道の表参道商店街では、名物のもみじ饅頭や焼き牡蠣、あなごめしなど、宮島ならではの味覚を楽しめます。人に慣れた鹿が島内を歩く様子も、宮島らしい風景として親しまれています。</p>
+由緒となった「管絃の遊び」とは、貴族が池や河川に船を浮かべ、管楽器を奏でて雅を楽しむ平安時代の遊興である。これが神事として形を変えて宮島へ伝わった際、舞台は瀬戸の海へと大きくスケールを変え、遊興の域を超えたダイナミックな神事へと発展した。神を乗せた御座船が海を渡る様式は、山や川を舞台とする他の多くの祭礼とは一線を画すものである。
 
-<h2>関連情報</h2>
-<p>日本三大船祭：管絃祭は、松島の塩竈みなと祭、大阪天満宮の天神祭とともに日本三大船祭の一つに数えられます。</p>
-<p>平清盛：嚴島神社の社殿を造営し、管絃祭の由緒をつくった平安時代の武将です。</p>
-<p>地御前神社：嚴島神社の外宮にあたり、御座船が渡って祭典を行う対岸の神社です。</p>
-<p>阿賀・江波の曳航：1701年の御座船救助を機に始まった伝統で、現在は江波漕伝馬保存会と阿賀漁業協同組合が担っています。</p>
-<p>世界文化遺産：会場の嚴島神社は1996年にユネスコ世界文化遺産に登録されています。</p>
-<p>旧暦開催：潮位・月明かり・台風リスクの条件から旧暦6月17日に固定されており、新暦の開催日は毎年変動します。</p>','<h2>Overview</h2>
-<p>The Kangensai (Kangen Festival) is the most important Shinto rite of Itsukushima Shrine, held every year on the 17th day of the sixth lunar month in Miyajima, Hatsukaichi City, Hiroshima Prefecture. During the festival, an elaborately decorated ceremonial boat travels back and forth between Itsukushima Shrine on Miyajima and Jigozen Shrine on the opposite shore, while court music (kangen) is performed on board. The elegant scene, resembling a Heian-era picture scroll brought to life on the sea, has earned the festival a place among Japan''s "Three Great Boat Festivals," alongside the Shiogama Minato Festival of Matsushima and the Tenjin Festival of Osaka Tenmangu Shrine. Because the date follows the lunar calendar, the modern date shifts each year: it falls on July 30 in 2026, July 20 in 2027, and August 7 in 2028.</p>
-<p>The origin of the festival traces back to Taira no Kiyomori, the powerful warrior who built the shrine buildings of Itsukushima in the Heian period. Kiyomori brought to Miyajima the aristocratic pastime of "kangen no asobi," in which nobles floated boats on ponds and rivers to play wind and string instruments, but he transformed it from mere entertainment into a sacred rite to console the deities. The stage was no longer a pond or river but the calm waters of the Seto Inland Sea, giving rise to a majestic and graceful festival unique to Miyajima. On a midsummer night, the ceremonial boat glides across the dark sea with bonfires and lanterns reflected on the water, and the sound of court music drifting over the waves creates a dreamlike scene that has come to symbolize summer in Miyajima.</p>
+御座船はかつて櫓を6丁備えた大きな船一艘で、自力で航行していたと伝えられている。しかし1701年（元禄14年）、地御前神社から宮島の長浜神社へ帰る途中に御座船が暴風雨に遭い、転覆寸前の危機に陥った。このとき、鯛網漁に出ていた阿賀（あが）村の岡野喜右衛門の船と、嚴島参拝に訪れていた江波（えば）村の古川屋伝蔵の伝馬船が、二次災害を顧みず勇気ある行動で御座船を救助したと伝えられている。
 
-<h2>History</h2>
-<p>Since ancient times, the entire island of Miyajima was revered as a deity, and people were not permitted to live on this sacred ground. For this reason, it is said that the origin of the Kangensai lies in welcoming the deities from Jigozen on the opposite shore and performing court music to console them. Because Taira no Kiyomori deeply revered Itsukushima Shrine and introduced the aristocratic custom of boating that was popular in the Heian capital as a sacred rite, a distinctive festival staged on the sea came into being.</p>
-<p>The "kangen no asobi" from which the festival takes its name was a Heian-period pastime in which aristocrats floated boats on ponds and rivers and played wind instruments to enjoy refined elegance. When this was transformed into a Shinto rite and transmitted to Miyajima, its stage shifted dramatically to the Seto Inland Sea, and it developed into a dynamic sacred rite that went far beyond mere entertainment. The form in which a boat carrying the deities crosses the sea sets it apart from the many other festivals staged on mountains or rivers.</p>
-<p>The ceremonial boat was once a single large vessel equipped with six oars, and it is said to have sailed under its own power. However, in 1701 (the 14th year of the Genroku era), the ceremonial boat was caught in a violent storm on its way back from Jigozen Shrine to Nagahama Shrine on Miyajima and was on the verge of capsizing. At that time, a boat belonging to Okano Kiemon of Aga village, which was out fishing for sea bream, and a transport boat belonging to Furukawaya Denzo of Eba village, which had come to worship at Itsukushima, are said to have bravely rescued the ceremonial boat without regard for the danger to themselves.</p>
-<p>Following this rescue, the two villages of Aga and Eba came to take on the role of towing the ceremonial boat, and this tradition continues to the present Reiwa era. Today, the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative carry out the towing, and the ceremonial boat is assembled by joining three Japanese-style boats into one. The history itself, sustained over several centuries by the devotion of local people, is one of the great values of this festival.</p>
+この救助を機に、阿賀と江波の両村が御座船を曳航する役割を担うようになり、その伝統は令和の現在まで続いている。現在は江波漕伝馬保存会と阿賀漁業協同組合が曳航を務め、御座船は和船三艘を並べて一艘に組む形式がとられている。数百年にわたり地域の人々の献身によって支えられてきた歴史そのものが、この祭りの大きな価値となっている。
 
-<h2>Highlights</h2>
-<h3>The Ceremonial Boat Resembling a Heian Picture Scroll</h3>
-<p>The sight of the elaborately decorated ceremonial boat crossing the Seto Inland Sea while court music is played is truly a Heian picture scroll on the sea. The bonfires burning on either side of the prow and the high lanterns and more than twenty decorative lanterns lit on the boat are reflected on the dark water, creating a fantastical scene from dusk into the depths of night.</p>
-<h3>The Triple Turn in the Masugata</h3>
-<p>The climax of the festival comes when the ceremonial boat enters the narrow masugata surrounded by the corridors of Itsukushima Shrine and turns three times using poles while court music is performed. The skill of maneuvering the boat in the smallest possible space is spectacular, and the cheers and applause of the worshippers echo through the corridors.</p>
-<h3>The Sea Illuminated by the Full Moon</h3>
-<p>One reason the Kangensai is held on the 17th day of the sixth lunar month is that the moon is near full and the sea surface is bright. The scene of the ceremonial boat floating on the high tide beneath the shining moon is a beauty unique to this festival.</p>
-<h3>The Sound of Court Music</h3>
-<p>The performance of court music, from which the festival takes its name, is repeated on the boat and in front of each shrine. The elegant strains of music echoing over the salt-scented sea offer a precious experience that conveys the refinement of the Heian period to the present day.</p>
-<h3>The Rite at Jigozen Shrine</h3>
-<p>The ceremonial boat arrives in front of Jigozen Shrine on the opposite shore, where a rite and court music are performed on the beach. The way the boat proceeds led by a welcoming boat from Jigozen Shrine is another highlight.</p>
-<h3>The Lantern Procession in Front of Nagahama Shrine</h3>
-<p>The lantern procession that welcomes the ceremonial boat in front of Nagahama Shrine is open to anyone free of charge and without reservation (though the number of lanterns is limited). It is a precious opportunity not only to watch the festival but to take part in the rite by holding up a light oneself.</p>
+旧暦6月17日という日取りにも理由がある。海上を舞台とする神事のため、御座船が航行しやすい大潮の満潮が不可欠であり、上げ潮の高い旧暦6月が選ばれた。さらに満月に近く海面が明るいこと、台風のリスクが低いことも重なり、好条件が整うこの日が絶好の日として定着した。旧暦にもとづくため新暦の日付は毎年動くが、祭りの本質を支える潮と月の条件は変わらない。
 
-<h2>Event Information</h2>
-<p>Official name: Kangensai (Itsukushima Shrine Kangen Festival)</p>
-<p>Date: The 17th day of the sixth lunar month each year (the date on the modern calendar varies annually: July 30 in 2026, July 20 in 2027, August 7 in 2028)</p>
-<p>Venue: Itsukushima Shrine (Miyajima, Hatsukaichi City, Hiroshima Prefecture) and the surrounding waters, including Jigozen Shrine</p>
-<p>Main rites: Hatsurensai, the rite before the great torii, rites and court music at Jigozen, Nagahama, Omoto, Hitasaki, and Marodo shrines, the triple turn in the masugata, and the return to the main hall</p>
-<p>Admission: An admission fee is required to enter the shrine buildings (opening hours are extended on the day of the Kangensai). The timing of the rite may change greatly depending on the tide and current.</p>
-<p>Access: Take a ferry from JR Miyajimaguchi Station or Hiroden Miyajimaguchi to Miyajima Pier, then walk to Itsukushima Shrine.</p>
+## 見どころ
 
-<h2>Around the Area</h2>
-<p>Itsukushima Shrine is famous for its great torii gate standing in the sea and its vermilion-lacquered buildings, and it was registered as a UNESCO World Heritage Site in 1996. At low tide, visitors can walk right up to the base of the great torii, while at high tide the buildings appear to float on the sea. The way Miyajima changes its expression with the ebb and flow of the tide is one of its great charms.</p>
-<p>Mount Misen, which rises behind Miyajima, is covered in virgin forest, and visitors can reach the summit by ropeway and hiking trails. From the summit, one can take in the beauty of the many islands of the Seto Inland Sea, making it a spot well worth visiting together with Itsukushima Shrine.</p>
-<p>Along the Omotesando shopping street, visitors can enjoy Miyajima specialties such as momiji manju, grilled oysters, and anagomeshi (conger eel rice). The sight of deer, accustomed to people, walking around the island is another scene beloved as distinctly Miyajima.</p>
+**平安絵巻を思わせる御座船の曳航**　華やかに飾られた御座船が管絃を奏でながら瀬戸の海を渡る姿は、まさに海上の平安絵巻である。舳先の左右に焚かれた篝火と、船に灯された高張提灯や20数個の飾り提灯が暗い海面に映り込み、夕刻から深夜にかけて幻想的な光景を描き出す。
 
-<h2>Related Information</h2>
-<p>Japan''s Three Great Boat Festivals: The Kangensai is counted among Japan''s three great boat festivals, alongside the Shiogama Minato Festival of Matsushima and the Tenjin Festival of Osaka Tenmangu Shrine.</p>
-<p>Taira no Kiyomori: The Heian-period warrior who built the shrine buildings of Itsukushima and established the origin of the Kangensai.</p>
-<p>Jigozen Shrine: The outer shrine of Itsukushima Shrine, located on the opposite shore, to which the ceremonial boat crosses to perform rites.</p>
-<p>The Towing by Aga and Eba: A tradition that began with the rescue of the ceremonial boat in 1701, now carried out by the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative.</p>
-<p>World Heritage Site: Itsukushima Shrine, the venue of the festival, was registered as a UNESCO World Heritage Site in 1996.</p>
-<p>Lunar Calendar Scheduling: The festival is fixed to the 17th day of the sixth lunar month based on tide levels, moonlight, and the low risk of typhoons, so its date on the modern calendar varies each year.</p>','kangensai','kangensai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**枡形での三匝（さんそう）**　祭りのクライマックスは、嚴島神社の廻廊に囲まれた狭い枡形（ますがた）に御座船が入り、水竿を使って三回まわりながら管絃を奉奏する場面である。最小の水域で船を巧みに回す技は圧巻で、参拝客の歓声と拍手が廻廊にこだまする。
+
+**満月に照らされた夜の海**　管絃祭が旧暦6月17日に行われるのは、満月に近く海面が明るいことも理由の一つである。満潮の海に浮かぶ御座船と、その上空に輝く月が織りなす情景は、この祭りならではの美しさである。
+
+**管絃の音色**　祭りの名の由来となった管絃の奉奏は、船上と各神社前で繰り返される。潮の香りのする海上に響く雅な楽の音は、平安の雅を今に伝える貴重な体験である。
+
+**地御前神社での祭典**　御座船は対岸の地御前神社前に到着し、浜辺で祭典と管絃が奉奏される。地御前神社からの御迎船に先導されて進む様子も見どころの一つである。
+
+**長浜神社前の提灯行列**　長浜神社前で御座船を迎える提灯行列は、予約不要・無料で誰でも参加できる（提灯の数に限りあり）。祭りを見るだけでなく、自ら灯りを掲げて神事に加わることができる貴重な機会である。
+
+## 開催情報
+
+- 正式名称: 管絃祭（嚴島神社管絃祭）
+- 開催日: 毎年旧暦6月17日（新暦では毎年変動。2026年は7月30日、2027年は7月20日、2028年は8月7日）
+- 会場: 嚴島神社（広島県廿日市市宮島町）および地御前神社ほか周辺海上
+- 主な神事: 発輦祭、大鳥居前の儀、地御前神社・長浜神社・大元神社・火焼前・客神社前での祭典と管絃奉奏、枡形での三匝、本殿還御
+- 拝観: 嚴島神社への昇殿には昇殿料が必要（管絃祭当日は開門時間が延長される）。潮位や潮流により進行時刻が大幅に変わる場合がある
+- アクセス: JR宮島口駅または広電宮島口からフェリーで宮島桟橋へ、徒歩で嚴島神社
+
+## 周辺情報
+
+嚴島神社は海上に立つ大鳥居と朱塗りの社殿で知られ、1996年に世界文化遺産に登録された。干潮時には大鳥居のたもとまで歩いて近づくことができ、満潮時には社殿が海に浮かんでいるように見えるなど、潮の満ち引きによって表情を変えるのが宮島の大きな魅力である。
+
+宮島の背後にそびえる弥山（みせん）は原始林に覆われ、ロープウェーと登山道で山頂を目指すことができる。山頂からは瀬戸内海の多島美を一望でき、嚴島神社とあわせて訪れたいスポットである。
+
+参道の表参道商店街では、名物のもみじ饅頭や焼き牡蠣、あなごめしなど、宮島ならではの味覚を楽しめる。人に慣れた鹿が島内を歩く様子も、宮島らしい風景として親しまれている。
+
+## 関連情報
+
+- 日本三大船祭: 管絃祭は、松島の塩竈みなと祭、大阪天満宮の天神祭とともに日本三大船祭の一つに数えられる。
+- 平清盛: 嚴島神社の社殿を造営し、管絃祭の由緒をつくった平安時代の武将である。
+- 地御前神社: 嚴島神社の外宮にあたり、御座船が渡って祭典を行う対岸の神社である。
+- 阿賀・江波の曳航: 1701年の御座船救助を機に始まった伝統で、現在は江波漕伝馬保存会と阿賀漁業協同組合が担っている。
+- 世界文化遺産: 会場の嚴島神社は1996年にユネスコ世界文化遺産に登録されている。
+- 旧暦開催: 潮位・月明かり・台風リスクの条件から旧暦6月17日に固定されており、新暦の開催日は毎年変動する。
+','The Kangensai (Kangen Festival) is the most important Shinto rite of Itsukushima Shrine, held every year on the 17th day of the sixth lunar month in Miyajima, Hatsukaichi City, Hiroshima Prefecture. During the festival, an elaborately decorated ceremonial boat travels back and forth between Itsukushima Shrine on Miyajima and Jigozen Shrine on the opposite shore, while court music (kangen) is performed on board. The elegant scene, resembling a Heian-era picture scroll brought to life on the sea, has earned the festival a place among Japan''s three great boat festivals, alongside the Shiogama Minato Festival of Matsushima and the Tenjin Festival of Osaka Tenmangu Shrine. Because the date follows the lunar calendar, the modern date shifts each year: it falls on July 30 in 2026, July 20 in 2027, and August 7 in 2028.
+
+The origin of the festival traces back to Taira no Kiyomori, the powerful warrior who built the shrine buildings of Itsukushima in the Heian period. Kiyomori brought to Miyajima the aristocratic pastime of kangen no asobi, in which nobles floated boats on ponds and rivers to play wind and string instruments, but he transformed it from mere entertainment into a sacred rite to console the deities. The stage was no longer a pond or river but the calm waters of the Seto Inland Sea, giving rise to a majestic and graceful festival unique to Miyajima. On a midsummer night, the ceremonial boat glides across the dark sea with bonfires and lanterns reflected on the water, and the sound of court music drifting over the waves creates a dreamlike scene that has come to symbolize summer in Miyajima.
+
+## History and Origins
+
+Since ancient times, the entire island of Miyajima was revered as a deity, and people were not permitted to live on this sacred ground. For this reason, it is said that the origin of the Kangensai lies in welcoming the deities from Jigozen on the opposite shore and performing court music to console them. Because Taira no Kiyomori deeply revered Itsukushima Shrine and introduced the aristocratic custom of boating that was popular in the Heian capital as a sacred rite, a distinctive festival staged on the sea came into being.
+
+The kangen no asobi from which the festival takes its name was a Heian-period pastime in which aristocrats floated boats on ponds and rivers and played wind instruments to enjoy refined elegance. When this was transformed into a Shinto rite and transmitted to Miyajima, its stage shifted dramatically to the Seto Inland Sea, and it developed into a dynamic sacred rite that went far beyond mere entertainment. The form in which a boat carrying the deities crosses the sea sets it apart from the many other festivals staged on mountains or rivers.
+
+The ceremonial boat was once a single large vessel equipped with six oars, and it is said to have sailed under its own power. However, in 1701 (the 14th year of the Genroku era), the ceremonial boat was caught in a violent storm on its way back from Jigozen Shrine to Nagahama Shrine on Miyajima and was on the verge of capsizing. At that time, a boat belonging to Okano Kiemon of Aga village, which was out fishing for sea bream, and a transport boat belonging to Furukawaya Denzo of Eba village, which had come to worship at Itsukushima, are said to have bravely rescued the ceremonial boat without regard for the danger to themselves.
+
+Following this rescue, the two villages of Aga and Eba came to take on the role of towing the ceremonial boat, and this tradition continues to the present Reiwa era. Today, the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative carry out the towing, and the ceremonial boat is assembled by joining three Japanese-style boats into one. The history itself, sustained over several centuries by the devotion of local people, is one of the great values of this festival.
+
+There is also a reason for the date of the 17th day of the sixth lunar month. Because it is a rite staged on the sea, the high tide of a spring tide, when the ceremonial boat can navigate easily, is essential, so the sixth lunar month with its high rising tides was chosen. Combined with the fact that the moon is near full and the sea surface is bright, and the low risk of typhoons, this day, when favorable conditions align, became established as the ideal day. Because it is based on the lunar calendar, the date on the modern calendar shifts each year, but the conditions of tide and moon that support the essence of the festival remain unchanged.
+
+## Highlights
+
+**The Ceremonial Boat Resembling a Heian Picture Scroll**　The sight of the elaborately decorated ceremonial boat crossing the Seto Inland Sea while court music is played is truly a Heian picture scroll on the sea. The bonfires burning on either side of the prow and the high lanterns and more than twenty decorative lanterns lit on the boat are reflected on the dark water, creating a fantastical scene from dusk into the depths of night.
+
+**The Triple Turn in the Masugata**　The climax of the festival comes when the ceremonial boat enters the narrow masugata surrounded by the corridors of Itsukushima Shrine and turns three times using poles while court music is performed. The skill of maneuvering the boat in the smallest possible space is spectacular, and the cheers and applause of the worshippers echo through the corridors.
+
+**The Sea Illuminated by the Full Moon**　One reason the Kangensai is held on the 17th day of the sixth lunar month is that the moon is near full and the sea surface is bright. The scene of the ceremonial boat floating on the high tide beneath the shining moon is a beauty unique to this festival.
+
+**The Sound of Court Music**　The performance of court music, from which the festival takes its name, is repeated on the boat and in front of each shrine. The elegant strains of music echoing over the salt-scented sea offer a precious experience that conveys the refinement of the Heian period to the present day.
+
+**The Rite at Jigozen Shrine**　The ceremonial boat arrives in front of Jigozen Shrine on the opposite shore, where a rite and court music are performed on the beach. The way the boat proceeds led by a welcoming boat from Jigozen Shrine is another highlight.
+
+**The Lantern Procession in Front of Nagahama Shrine**　The lantern procession that welcomes the ceremonial boat in front of Nagahama Shrine is open to anyone free of charge and without reservation (though the number of lanterns is limited). It is a precious opportunity not only to watch the festival but to take part in the rite by holding up a light oneself.
+
+## Event Information
+
+- Official name: Kangensai (Itsukushima Shrine Kangen Festival)
+- Date: The 17th day of the sixth lunar month each year (the date on the modern calendar varies annually: July 30 in 2026, July 20 in 2027, August 7 in 2028)
+- Venue: Itsukushima Shrine (Miyajima, Hatsukaichi City, Hiroshima Prefecture) and the surrounding waters, including Jigozen Shrine
+- Main rites: Hatsurensai, the rite before the great torii, rites and court music at Jigozen, Nagahama, Omoto, Hitasaki, and Marodo shrines, the triple turn in the masugata, and the return to the main hall
+- Admission: An admission fee is required to enter the shrine buildings (opening hours are extended on the day of the Kangensai). The timing of the rite may change greatly depending on the tide and current.
+- Access: Take a ferry from JR Miyajimaguchi Station or Hiroden Miyajimaguchi to Miyajima Pier, then walk to Itsukushima Shrine.
+
+## Around the Area
+
+Itsukushima Shrine is famous for its great torii gate standing in the sea and its vermilion-lacquered buildings, and it was registered as a UNESCO World Heritage Site in 1996. At low tide, visitors can walk right up to the base of the great torii, while at high tide the buildings appear to float on the sea. The way Miyajima changes its expression with the ebb and flow of the tide is one of its great charms.
+
+Mount Misen, which rises behind Miyajima, is covered in virgin forest, and visitors can reach the summit by ropeway and hiking trails. From the summit, one can take in the beauty of the many islands of the Seto Inland Sea, making it a spot well worth visiting together with Itsukushima Shrine.
+
+Along the Omotesando shopping street, visitors can enjoy Miyajima specialties such as momiji manju, grilled oysters, and anagomeshi (conger eel rice). The sight of deer, accustomed to people, walking around the island is another scene beloved as distinctly Miyajima.
+
+## Related Information
+
+- Japan''s Three Great Boat Festivals: The Kangensai is counted among Japan''s three great boat festivals, alongside the Shiogama Minato Festival of Matsushima and the Tenjin Festival of Osaka Tenmangu Shrine.
+- Taira no Kiyomori: The Heian-period warrior who built the shrine buildings of Itsukushima and established the origin of the Kangensai.
+- Jigozen Shrine: The outer shrine of Itsukushima Shrine, located on the opposite shore, to which the ceremonial boat crosses to perform rites.
+- The Towing by Aga and Eba: A tradition that began with the rescue of the ceremonial boat in 1701, now carried out by the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative.
+- World Heritage Site: Itsukushima Shrine, the venue of the festival, was registered as a UNESCO World Heritage Site in 1996.
+- Lunar Calendar Scheduling: The festival is fixed to the 17th day of the sixth lunar month based on tide levels, moonlight, and the low risk of typhoons, so its date on the modern calendar varies each year.
+','kangensai','kangensai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11599004','竹割り祭り','Takewari Festival',NULL,NULL,'Q11619342','菅生石部神社','Sugō Isobe Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11582690','県祭り','Agata Matsuri','京都府宇治市の祭',NULL,'Q11608139','縣神社','Agata Shrine','京都府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Bonten%20togyo.jpg','https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A',NULL,85,'drafted','県祭り（あがたまつり）は、京都府宇治市の縣神社（あがたじんじゃ）で毎年6月5日から6日未明にかけて行われる祭礼である。沿道の灯火をすべて消した暗闇のなかを、梵天（ぼんてん）と呼ばれる神輿が進むことから「暗夜の奇祭」「暗闇の奇祭」の異名で知られ、東京・府中の大國魂神社の例祭などと並ぶ暗闇祭りとして名高い。
 
