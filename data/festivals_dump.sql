@@ -13554,15 +13554,113 @@ INSERT INTO "festivals" VALUES('Q11618171','草津国際音楽アカデミー&�
 A major feature of this festival is its rich "academy," in which world-renowned performers and music educators are invited as "professors" who not only perform in concerts but also directly instruct the next generation of young musicians. Amid the cool, clear air—even in summer—of Kusatsu Onsen, which springs forth on a highland at an altitude of 1,200 meters, students train under world-class musicians. Concerts are held daily throughout the period, and tourists visiting the hot spring resort can easily encounter top-tier performances.
 
 Fusing the natural setting of Kusatsu, famed as a summer retreat, with authentic classical music, this festival is a pioneering presence that took root in Japan from the tradition of European music festivals. The several weeks of summer when beautiful music resounds through the highland resort, with the steam of hot springs rising, bring new cultural value to Kusatsu Onsen and draw many music lovers from across the country.','kusatsu-summer-music-festival','kusatsu-summer-music-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11602813','筑後川花火大会','Chikugo River Fireworks Festival','福岡県久留米市で開催される花火大会','Shinto shrine in Kurume, Japan','Q954320','筑後川','Chikugo River','福岡県','kyushu',NULL,NULL,1650,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/ColorfulFireworks.png','https://ja.wikipedia.org/wiki/%E7%AD%91%E5%BE%8C%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','筑後川花火大会（ちくごがわはなびたいかい）は、福岡県久留米市を流れる筑後川を舞台に、毎年夏に開催される花火大会である。西日本でも有数の規模を誇り、約1万8,000発もの花火が夜空を彩る、九州を代表する夏の風物詩として親しまれている。その歴史は古く、1650年(慶安3年)に久留米藩の総鎮守・水天宮で奉納花火が打ち上げられたことに起源を持つとされる。
+INSERT INTO "festivals" VALUES('Q11602813','筑後川花火大会','Chikugo River Fireworks Festival','福岡県久留米市で開催される花火大会','Shinto shrine in Kurume, Japan','Q954320','筑後川','Chikugo River','福岡県','kyushu',NULL,NULL,1650,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/ColorfulFireworks.png','https://ja.wikipedia.org/wiki/%E7%AD%91%E5%BE%8C%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','筑後川花火大会（ちくごがわはなびたいかい）は、福岡県久留米市で毎年8月5日に開催される花火大会である。九州最大の河川である筑後川の河川敷を舞台に、例年約1万8000発の花火が夜空を彩り、毎年45万人以上の観客が訪れる西日本最大級の規模を誇る。福岡県単独で開催される花火大会としては、唯一打ち上げ数が1万発を超える大規模大会である。
 
-この花火大会の特徴は、筑後川という雄大な河川を舞台とすることで、水面に映る花火の美しさが際立つ点にある。川の両岸に複数の打ち上げ会場が設けられ、スターマインや大玉が次々と打ち上げられる。広い夜空と川面を埋め尽くす光の競演は圧巻で、毎年数十万人もの観客が river の両岸に詰めかける。
+この花火大会は、久留米市に鎮座する全国総本宮・水天宮の夏大祭に奉献される奉納花火として打ち上げられる。350年以上の歴史をもつ由緒ある大会で、起承転結のある壮大なスターマイン、ナイアガラをはじめとする大規模な仕掛け花火、そして夜空に大輪を咲かせる巨大な尺玉が見どころである。浴衣姿のカップルや親子連れで賑わい、久留米の夏を代表する風物詩となっている。
 
-筑後川花火大会は、水難除けと安産・子授けの神として信仰を集める水天宮の祭礼と結びついた、信仰と娯楽が一体となった伝統行事である。370年以上にわたって受け継がれてきたこの花火は、久留米の夏を象徴する一大イベントであり、筑後地方の人々にとって夏の到来を告げる、なくてはならない年中行事となっている。','The Chikugo River Fireworks Festival is a fireworks display held each summer on the Chikugo River, which flows through Kurume, Fukuoka Prefecture. Boasting one of the largest scales in western Japan, with around 18,000 fireworks coloring the night sky, it is beloved as a representative summer tradition of Kyūshū. Its history is ancient, said to originate in 1650 when dedicatory fireworks were launched at Suitengū, the guardian shrine of the Kurume domain.
+## 歴史と由来
 
-A distinctive feature of this fireworks display is that, set against the majestic Chikugo River, the beauty of the fireworks reflected on the water''s surface stands out. Multiple launch sites are set up on both banks of the river, and star mines and large shells are launched one after another. The spectacle of light filling the wide night sky and the river''s surface is overwhelming, and each year hundreds of thousands of spectators crowd both banks of the river.
+筑後川花火大会の起源は、1650年（慶安3年）にさかのぼる。久留米藩2代藩主・有馬忠頼が水天宮の社地に社殿を寄贈した際、その完成を祝う落成祝賀にあたって花火を奉納したことが始まりとされる。水天宮は安産・子育て・水難除けの神として全国的に信仰を集める神社で、その夏大祭に花火を奉げる伝統が、350年以上にわたって受け継がれてきた。
 
-The Chikugo River Fireworks Festival is a traditional event uniting faith and entertainment, tied to the festival of Suitengū, which is revered as a deity of protection from water disasters and of safe childbirth and the granting of children. Handed down for over 370 years, these fireworks are a major event symbolizing summer in Kurume—an indispensable annual observance heralding the arrival of summer for the people of the Chikugo region.','chikugo-river-fireworks-festival','chikugo-river-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+長らく「水天宮奉納花火大会」の名で親しまれてきたこの花火は、混乱や戦争などによる9回の中止を乗り越えながら続けられ、1965年（昭和40年）に現在の「筑後川花火大会」という名称になった。江戸時代の藩主による奉納に端を発し、近代・現代を通じて久留米の人々に守られてきた歴史が、この大会の重みを支えている。
+
+1972年（昭和47年）には、久留米市街地の各例大祭を統合した「久留米水の祭典」がこの花火大会に合わせて始まり、花火大会はその祭りのフィナーレを飾る意味も担うようになった。ただし、筑後川花火大会はあくまで水天宮夏大祭の奉献花火であり、歴史的には水の祭典久留米まつりとは別の由来をもつ行事である点が、地元では明確に区別されている。
+
+会場の形も時代とともに変化してきた。従来は水天宮前の河川敷のみで打ち上げられていたが、2001年に発生した花火大会での群衆事故を教訓に、2004年からは久留米城前の篠山会場との分散打ち上げが導入され、従来会場は京町会場と名づけられた。翌年からは対岸の鳥栖市なども加わり、広大な筑後川の河川敷を活かした複数会場での開催へと発展している。
+
+## 見どころ
+
+**西日本最大級・約1万8000発の大花火**　筑後川花火大会最大の魅力は、その圧倒的な規模である。例年約1万8000発（年により規模は変動する）が九州最大の河川・筑後川の広い河川敷から打ち上げられ、福岡県単独では唯一1万発を超える。空一面を埋め尽くす光の饗宴は、西日本最大級のスケールを誇る。
+
+**起承転結のあるスターマイン**　速射連発花火であるスターマインは、この大会の見どころのひとつである。単に連発するだけでなく、起承転結のある構成で展開される優れた演出が特徴で、次々と打ち上がる花火が織りなすリズムと迫力が、観客を惹きつけてやまない。
+
+**ナイアガラと巨大な尺玉**　筑後川の川面を活かした大規模な仕掛け花火も見どころである。滝のように光が流れ落ちるナイアガラや、夜空に大輪の花を咲かせる巨大な尺玉が、広い河川敷ならではのダイナミックな光景をつくり出す。篠山会場では夜半近くから尺玉の打ち上げが始まり、クライマックスを盛り上げる。
+
+**筑後川の広大な河川敷を活かした多会場**　この大会は京町・篠山・小森野・長門石など複数の会場で分散して打ち上げられる。広い筑後川の河川敷を活かした構成により、会場間の徒歩移動も可能で、それぞれの場所から異なる角度で花火を楽しめる。障害物のない郊外では立ち見でも花火を望むことができる。
+
+**水天宮への奉納という祈りの伝統**　華やかな花火の根底には、水天宮夏大祭への奉献という祈りの伝統がある。単なる観光イベントではなく、江戸時代の藩主による社殿寄贈の落成祝賀に始まる奉納花火であるという由緒が、この大会に他にはない歴史的な重みを与えている。
+
+**露店が並ぶ夏祭りの賑わい**　会場には400店以上の露店が立ち並び、久留米のB級グルメの店なども出店して、大会を彩る。浴衣を着たカップルや親子連れが行き交い、花火とともに夏祭りの賑わいを満喫できる。久留米の夏の夜を象徴する、活気にあふれた光景が広がる。
+
+## 開催情報
+
+- 開催地：福岡県久留米市（一部会場は佐賀県側）
+- 会場：筑後川河川敷（京町会場・篠山会場ほか複数会場）
+- 開催時期：例年8月5日（曜日にかかわらず。雨天時は隔日順延の年もある）
+- 打ち上げ数：例年約1万8000発（年により規模は変動）
+- アクセス：JR久留米駅から徒歩／西鉄久留米駅から臨時シャトルバス
+- 観覧：観覧無料。駐車場は設置されず公共交通機関での来場が強く推奨される。※日程・会場・規模は変更となる場合がある
+
+## 周辺の見どころ
+
+花火大会の由緒の中心である水天宮は、久留米市瀬下町に鎮座する全国の水天宮の総本宮である。安産・子育て・水難除けの神として全国的な信仰を集め、境内は花火大会の起源をたどるうえでも訪れたい場所である。夏大祭の時期には多くの参拝者で賑わい、筑後川とともに久留米の歴史を今に伝えている。
+
+久留米市は、ブリヂストンやムーンスターなどを生んだゴム産業発祥の地として知られる、福岡県南部の中核都市である。久留米ラーメンや久留米焼きとりといったご当地グルメも豊富で、花火大会の際に出店するB級グルメの店でもその一端を味わえる。城下町としての歴史と近代産業が融合した町並みが魅力である。
+
+筑後川は「筑紫次郎」の異名をもつ九州最大の河川で、その流域には豊かな自然と歴史が広がる。久留米周辺には久留米城跡や高良大社などの名所が点在し、花火大会の観覧とあわせて、雄大な筑後川と筑後地方の歴史文化を巡る旅を楽しむことができる。
+
+## 関連情報
+
+- 開催月：8月（夏）
+- 所在地：福岡県久留米市（九州地方）
+- 起源：1650年（慶安3年）、久留米藩主・有馬忠頼の水天宮社殿寄贈の落成祝賀に始まる奉納花火
+- 位置づけ：水天宮夏大祭の奉献花火（350年以上の歴史）
+- 規模：例年約1万8000発・観客45万人以上の西日本最大級
+- 旧名称：水天宮奉納花火大会（1964年まで）
+','The Chikugogawa Fireworks Festival is a fireworks display held every year on August 5 in Kurume City, Fukuoka Prefecture. Staged on the riverbed of the Chikugo River, the largest river in Kyushu, it colors the night sky with about eighteen thousand fireworks in a typical year and draws more than 450,000 spectators annually, boasting a scale among the largest in western Japan. Among fireworks displays held solely within Fukuoka Prefecture, it is the only one whose number of fireworks exceeds ten thousand.
+
+This display is launched as a dedicatory fireworks offering to the summer grand festival of Suitengu, the head shrine of all Suitengu shrines nationwide, located in Kurume. With a history of more than 350 years, its highlights include grand starmines with a clear dramatic structure, large-scale set-piece fireworks such as the Niagara, and enormous shakudama shells that bloom into great flowers in the night sky. Bustling with couples and families in summer kimono, it has become a signature scene of summer in Kurume.
+
+## History and Origins
+
+The origins of the Chikugogawa Fireworks Festival reach back to 1650 (Keian 3). When Arima Tadayori, the second lord of the Kurume domain, donated a shrine building to the grounds of Suitengu, fireworks are said to have been dedicated at the celebration marking its completion, and this was the beginning of the display. Suitengu is a shrine that attracts nationwide faith as a deity of safe childbirth, child-rearing, and protection from water accidents, and the tradition of offering fireworks to its summer grand festival has been handed down for more than 350 years.
+
+Long beloved under the name Suitengu Dedicatory Fireworks Display, this event continued while overcoming nine cancellations due to disturbances and wars, and in 1965 (Showa 40) it took its present name, the Chikugogawa Fireworks Festival. The history of a display that began with a dedication by an Edo-period domain lord and was preserved by the people of Kurume through the modern and contemporary eras supports the weight of this event.
+
+In 1972 (Showa 47), the Kurume Water Festival, which unified the various annual grand festivals of the Kurume city area, began in conjunction with this fireworks display, and the display came to bear also the meaning of a finale to that festival. Yet the Chikugogawa Fireworks Festival is fundamentally a dedicatory fireworks offering to the summer grand festival of Suitengu, and locally it is clearly distinguished as an event with an origin historically separate from the Kurume Water Festival.
+
+The form of the venue has also changed with the times. Formerly the fireworks were launched only from the riverbed in front of Suitengu, but learning from a crowd accident at a fireworks display in 2001, from 2004 a dispersed launch was introduced together with the Sasayama venue in front of Kurume Castle, and the former venue was named the Kyomachi venue. From the following year, the city of Tosu on the opposite bank and others also joined, developing into a display held at multiple venues that makes use of the vast riverbed of the Chikugo River.
+
+## Highlights
+
+**About 18,000 fireworks, among the largest in western Japan**　The greatest appeal of the Chikugogawa Fireworks Festival is its overwhelming scale. In a typical year about eighteen thousand fireworks (the scale varies by year) are launched from the broad riverbed of the Chikugo River, the largest river in Kyushu, the only display within Fukuoka Prefecture alone to exceed ten thousand. The feast of light that fills the entire sky boasts a scale among the largest in western Japan.
+
+**Starmines with dramatic structure**　The starmine, a rapid-fire volley of fireworks, is one of the highlights of this display. Characterized not by mere rapid firing but by excellent staging that unfolds with a clear dramatic structure, the rhythm and force woven by the fireworks launched one after another never cease to draw the spectators in.
+
+**The Niagara and giant shakudama**　Large-scale set-piece fireworks that make use of the surface of the Chikugo River are also a highlight. The Niagara, in which light cascades down like a waterfall, and the enormous shakudama shells that bloom into great flowers in the night sky, create dynamic scenes possible only on a broad riverbed. At the Sasayama venue, the launching of shakudama begins near midnight, heightening the climax.
+
+**Multiple venues along the vast Chikugo riverbed**　This display is launched in dispersed fashion at several venues, including Kyomachi, Sasayama, Komorino, and Nagatoishi. Thanks to a layout that makes use of the broad riverbed of the Chikugo River, movement on foot between venues is possible, and one can enjoy the fireworks from different angles at each location. In the open suburbs free of obstacles, the fireworks can be viewed even while standing.
+
+**The tradition of prayer as an offering to Suitengu**　At the foundation of the gorgeous fireworks lies the tradition of prayer as a dedication to the summer grand festival of Suitengu. Not a mere tourist event, the fact that it is a dedicatory fireworks offering originating in the celebration of the completion of a shrine building donated by an Edo-period domain lord gives this display a historical weight found nowhere else.
+
+**The bustle of a summer festival lined with stalls**　More than four hundred stalls line the venues, and shops of Kurume''s local gourmet fare also appear, coloring the event. Couples and families in summer kimono come and go, and one can fully enjoy the bustle of a summer festival together with the fireworks. A lively scene symbolic of a summer night in Kurume unfolds.
+
+## Event Information
+
+- Location: Kurume City, Fukuoka Prefecture (some venues on the Saga side)
+- Venue: The Chikugo River riverbed (Kyomachi venue, Sasayama venue, and several others)
+- Dates: Usually August 5 (regardless of the day of the week; in some years postponed on alternate days in case of rain)
+- Number of fireworks: About 18,000 in a typical year (the scale varies by year)
+- Access: On foot from JR Kurume Station; special shuttle bus from Nishitetsu Kurume Station
+- Admission: Free to view. No parking is provided, and arrival by public transport is strongly recommended. Note that dates, venues, and scale may change.
+
+## Around the Area
+
+Suitengu, at the center of the display''s origins, is located in Seno-shita, Kurume City, and is the head shrine of all Suitengu shrines nationwide. Attracting nationwide faith as a deity of safe childbirth, child-rearing, and protection from water accidents, its precincts are a place worth visiting to trace the origins of the fireworks display. During the summer grand festival it bustles with many worshippers, conveying the history of Kurume together with the Chikugo River.
+
+Kurume City is a core city in southern Fukuoka Prefecture, known as the birthplace of the rubber industry that produced companies such as Bridgestone and Moonstar. It is rich in local gourmet fare such as Kurume ramen and Kurume yakitori, a taste of which can be had at the local food stalls that appear at the fireworks display. The townscape, blending its history as a castle town with modern industry, is a great attraction.
+
+The Chikugo River, bearing the nickname Chikushi Jiro, is the largest river in Kyushu, and rich nature and history spread along its basin. Scattered around Kurume are attractions such as the ruins of Kurume Castle and Kora Taisha Shrine, and together with viewing the fireworks one can enjoy a journey touring the majestic Chikugo River and the history and culture of the Chikugo region.
+
+## Related Information
+
+- Month: August (summer)
+- Location: Kurume City, Fukuoka Prefecture (Kyushu region)
+- Origin: A dedicatory fireworks display beginning in 1650 (Keian 3) at the celebration of the completion of a shrine building donated to Suitengu by the Kurume lord Arima Tadayori
+- Standing: A dedicatory fireworks offering to the summer grand festival of Suitengu (a history of more than 350 years)
+- Scale: About 18,000 fireworks and more than 450,000 spectators in a typical year, among the largest in western Japan
+- Former name: Suitengu Dedicatory Fireworks Display (until 1964)
+','chikugo-river-fireworks-festival','chikugo-river-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11594894','秋吉台国際20世紀音楽セミナー&フェスティバル','Akiyoshidai International Contemporary Music Seminar and Festival',NULL,NULL,NULL,NULL,NULL,'山口県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%90%89%E5%8F%B0%E5%9B%BD%E9%9A%9B20%E4%B8%96%E7%B4%80%E9%9F%B3%E6%A5%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%26%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11590440','神武天皇祭','Emperor Jinmu Festival','神武天皇を祭る皇室の祭祀',NULL,'Q62756148','畝傍山東北陵','Unebiyama-no-Ushitora-no-Sumi-no-Misasagi','奈良県','kinki',NULL,NULL,1860,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Jinmusai-fes1.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%AD%A6%E5%A4%A9%E7%9A%87%E7%A5%AD',NULL,85,'drafted','神武天皇祭（じんむてんのうさい）は、奈良県橿原市の橿原神宮で毎年4月3日に斎行される祭典である。橿原神宮の御祭神である神武天皇の崩御の日と伝えられる4月3日にちなんで行われ、古くから地元で「神武さん」と親しみを込めて呼ばれてきた。地元はもとより近郷や他府県からも多くの参拝者が訪れ、春の橿原を彩る大祭として知られている。
 
