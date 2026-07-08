@@ -9113,15 +9113,129 @@ INSERT INTO "festivals" VALUES('Q17219247','江戸川区花火大会','Edogawa F
 INSERT INTO "festivals" VALUES('Q21652715','おもしぇがらきてけさin富谷',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.40008333,140.89122222,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%82%E3%81%97%E3%81%87%E3%81%8C%E3%82%89%E3%81%8D%E3%81%A6%E3%81%91%E3%81%95in%E5%AF%8C%E8%B0%B7',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17210412','竹鼻祭り','Takehana Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%BC%BB%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17226082','日吉山王祭','Hiyoshi Sannō-sai','滋賀県大津市の日吉大社の祭礼',NULL,'Q656451','日吉大社','Hiyoshi Taisha','東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%89%E5%B1%B1%E7%8E%8B%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q17211667','三国祭','Mikuni Matsuri','福井県坂井市三国町で行われる三國神社の春祭り',NULL,'Q11354793','三國神社','Mikuni Shrine','福井県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Mikuni%20festival%202022.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E7%A5%AD',NULL,85,'drafted','三国祭（みくにまつり）は、福井県坂井市三国町の三國神社で毎年5月に行われる春祭りで、北陸三大祭りの一つに数えられる勇壮な祭礼である。日本海に面した港町・三国を舞台に、巨大な武者人形を載せた山車が町を練り歩く、約260年の歴史を誇る福井県有数の伝統行事である。
+INSERT INTO "festivals" VALUES('Q17211667','三国祭','Mikuni Matsuri','福井県坂井市三国町で行われる三國神社の春祭り',NULL,'Q11354793','三國神社','Mikuni Shrine','福井県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Mikuni%20festival%202022.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの最大の見どころは、「山車(やま)」と呼ばれる豪華な山車である。三国祭の山車は、高さ6メートルを超える巨大な武者人形を最上部に載せているのが特徴で、その勇壮な姿は他に類を見ない。歴史上の英雄や物語の登場人物をかたどった人形が、見上げるほどの高さでそびえ立ち、狭い港町の通りをゆっくりと巡行する様は圧巻である。人形は毎年新たに制作され、その出来栄えも祭りの楽しみの一つとなっている。
+三国祭（みくにまつり）は、福井県坂井市三国町で行われる三國神社の春の例大祭です。富山県高岡市の御車山祭、石川県七尾市の青柏祭とともに「北陸三大祭」の一つに数えられ、毎年5月19日の例大祭、20日の山車神輿巡行（中日祭）、21日の後日祭と、三日間にわたって盛大に催されます。中でも20日に旧市街を練り歩く山車巡行は圧巻で、武者人形を乗せた高さ6mを超える巨大な山車が湊町の歴史ある町並みを進む姿は、多くの見物客を魅了します。
 
-三国は江戸時代、北前船(きたまえぶね)の寄港地として栄えた港町であり、その豊かな経済力を背景に、絢爛な山車文化が育まれた。最盛期には20基以上の山車が出たと伝えられる。現在も数基の山車が町を巡行し、笛や太鼓の祭囃子が港町に響き渡る。三国祭の山車行事は福井県の無形民俗文化財に指定されており、北前船で栄えた三国の歴史と、町衆の誇りを今に伝える、北陸を代表する春の祭礼である。','The Mikuni Matsuri is a spring festival held every May at Mikuni Shrine in Mikuni, Sakai, Fukui Prefecture, counted among the three great festivals of the Hokuriku region. Set in the port town of Mikuni facing the Sea of Japan, it is one of Fukui Prefecture''s foremost traditional events, boasting around 260 years of history, in which floats bearing gigantic warrior figures parade through the town.
+三国湊は北前船交易の拠点として栄えた港町であり、三国祭はその繁栄を築いた町衆が山車人形や舟神輿を奉納してきた祭りです。約300年の歴史を持ち、三國神社の神事を中心に据えながら、豪壮な山車が町を巡って三国湊の文化と信仰を今に伝えています。2005年に三国町（現・坂井市）の無形民俗文化財に、翌2006年には福井県の無形民俗文化財に指定され、地域を代表する伝統行事として大切に受け継がれています。
 
-The festival''s greatest highlight is its ornate floats called "yama." The floats of the Mikuni Matsuri are distinctive for bearing enormous warrior figures exceeding 6 meters in height atop them, and their spirited appearance is unparalleled. The sight of figures shaped after historical heroes and characters from tales towering at a height that must be looked up to, processing slowly through the narrow streets of the port town, is overwhelming. The figures are newly crafted each year, and their craftsmanship is one of the pleasures of the festival.
+## 歴史と由来
 
-In the Edo period, Mikuni flourished as a port of call for the kitamaebune cargo ships, and against the backdrop of its economic prosperity, a splendid float culture was nurtured. At its peak, more than twenty floats are said to have appeared. Today as well, several floats process through the town, and the festival music of flutes and drums resounds through the port town. The float event of the Mikuni Matsuri is designated an Intangible Folk Cultural Property of Fukui Prefecture, and as a representative spring festival of the Hokuriku region, it conveys to this day the history of Mikuni, which flourished through the kitamaebune trade, and the pride of its townspeople.','mikuni-matsuri','mikuni-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+三国祭の曳山がいつ始まったか正確な日付は明らかではありませんが、享保二年（1717年）の「大門町記録」に傘鉾の記録が見え、この頃には祭礼の原型があったと考えられています。宝暦年間（1750年頃）には傘鉾や担い屋台が登場し、祭りの華やかさが増していきました。三國神社の公式には、祭りの起源を元禄十年（1697年）とする伝えもあり、いずれにせよ江戸時代中期には港町の祭礼として定着していたことがうかがえます。
+
+飾り山車の奉納の始まりとされるのが、宝暦三年（1753年）に木場町と今町の両町組が、三國神社の社地・桜谷の桜にちなんで永代桜を飾った「桜山」を曳き出したことです。続く宝暦七年（1757年）には元新町・下新町の両町組が武蔵野の笠鉾を出し、以後隔年で山車を出すようになりました。こうして各町がそれぞれの趣向を凝らした山車を競うように奉納する流れが生まれていきました。
+
+現在の三国祭を特徴づける武者人形の山車が広まったのは、天保十五年（1844年）のことです。「万代不易録」によると、この年に担ぎ屋台へ人形を飾ったところ大変な人気を博し、翌年から他の屋台もこれを見習うようになったと伝わります。北前船交易で三国湊が隆盛するとともに山車人形も豪華さを増し、最盛期には高さ10mを超えるような巨大な武者人形が出来栄えを競うほどでした。
+
+しかし明治に入って町に電線が敷設されると、巨大な山車はそのまま曳くことができなくなり、現在では高さが制限され、6m前後の山車が巡行しています。坂井市龍翔博物館の別館には、明治末期に用いられた10mを超える人形を載せた山車が展示されており、かつての壮大な姿を今に伝えています。このように三国祭は、港町の経済的繁栄と時代の変化を映しながら、その姿を変えつつ受け継がれてきた祭りなのです。
+
+## 見どころ
+
+**武者人形を乗せた巨大山車の巡行**  
+三国祭最大の見どころは、中日の5月20日に行われる山車巡行です。町内には18基の山車があり、その年に山番にあたった6基（または7基）が旧三国町内を巡行します。武者人形を乗せた高さ6mを超える山車が、狭い湊町の路地を練り歩く迫力は圧巻で、北陸三大祭の名にふさわしい壮観な光景を生み出します。
+
+**三國神社前の勢揃いと奉納**  
+中日祭の20日には、当番区の山車が三國神社前に勢揃いして奉納されます。その後、神輿・武者行列をはさんで山車が前後に並び、神社前を出発して区民に曳かれながら旧市街を巡行します。神事と山車巡行が一体となって進む様子は、この祭りが単なる曳山行事ではなく、神への奉納を核とした格式ある神事であることを物語っています。
+
+**歴史上の英雄を題材にした山車人形**  
+山車の頂に据えられる人形は、源義経や真田幸村、明智光秀、柴田勝家といった歴史上の武将や、歌舞伎の名場面を題材とすることが多く、区ごとに趣向を凝らして制作されます。人形師の手による精巧な造形は毎年の話題となり、どの区がどの題材を奉納するかも祭りの楽しみの一つとなっています。
+
+**宵山車の練り歩き**  
+本番前日にあたる19日の夕刻には、「宵山車（よいやま）」が行われます。夕闇の中を山車が三國神社周辺を練り歩く様子は幻想的で、翌日の本番への期待を高めます。灯りに照らされた武者人形が夜の湊町に浮かび上がる光景は、昼間の巡行とはまた違った風情があります。
+
+**子供たちによる囃子方**  
+各区の山車には囃子方の子供たちが乗り込み、太鼓や笛で祭りを盛り上げます。祭りの数ヶ月前から練習を重ねた小学生たちが、元気な掛け声と力強いバチさばきを披露する姿は、祭りを次世代へ受け継ぐ地域の営みそのものです。
+
+**由緒ある山車屋台と文化財**  
+山車の土台となる屋台そのものにも見どころがあります。天保年間に制作された最も古い形を伝える屋台や、精緻な彫り物・刺繍を施した水引幕など、坂井市の有形文化財に指定されているものもあり、人形だけでなく屋台の工芸美もじっくり鑑賞したい要素です。
+
+## 開催情報・アクセス
+
+- **開催日**：毎年5月19日（例大祭）・20日（山車神輿巡行／中日祭）・21日（後日祭）の3日間
+- **神事期間**：5月15日の宮開式から21日の後日祭まで一連の神事が執り行われる
+- **場所**：三國神社および旧三国町内（福井県坂井市三国町）
+- **主催**：三国祭保存振興会
+- **見どころの中心**：20日の山車巡行、19日夕方の宵山車
+- **アクセス**：えちぜん鉄道三国芦原線「三国駅」下車、三國神社最寄りは「三国神社駅」
+
+## 周辺の見どころ
+
+三国祭を訪れる際は、日本海に面した景勝地「東尋坊」がすぐ近くにあります。荒々しい柱状節理の断崖が約1km続く景観は国の天然記念物・名勝に指定されており、祭りとあわせて三国の自然美を堪能できます。
+
+三国湊は北前船で栄えた港町の面影を色濃く残しており、旧市街には格子戸の町家や商家が点在します。祭りの前後に湊町の街並みを歩けば、山車を生み育てた町衆の文化や、海運で富を築いた三国の歴史を肌で感じることができます。
+
+また、明治末期の10mを超える山車を展示する坂井市龍翔博物館は、三国祭の歴史をより深く知るのに格好の施設です。かつての壮大な山車の姿を目にしてから祭りを見物すれば、現在の山車に込められた伝統の重みをいっそう味わうことができるでしょう。
+
+## 関連情報
+
+- **開催月**：5月（春）
+- **地域**：福井県坂井市三国町
+- **神社**：三國神社（旧称・山王宮／三国湊の総鎮守）
+- **起源**：江戸時代中期に成立、飾り山車は宝暦3年（1753年）の桜山が初め、武者人形は天保15年（1844年）から広まる
+- **位置づけ**：御車山祭・青柏祭とともに北陸三大祭の一つ
+- **文化財**：2005年に三国町、2006年に福井県の無形民俗文化財に指定
+','## Overview
+
+Mikuni Matsuri is the spring grand festival of Mikuni Shrine, held in Mikuni-cho, Sakai City, Fukui Prefecture. Counted as one of the Three Great Festivals of the Hokuriku region alongside the Mikurumayama Festival of Takaoka in Toyama and the Seihaku Festival of Nanao in Ishikawa, it is celebrated grandly over three days each year: the grand festival on May 19, the float and portable shrine procession (the middle-day festival) on May 20, and the closing festival on May 21. The highlight is the float procession that winds through the old town on May 20, when huge floats more than six meters tall bearing warrior dolls advance through the historic streets of the port town, captivating many spectators.
+
+Mikuni Port flourished as a hub of the Kitamaebune coastal trade, and the Mikuni Matsuri is a festival in which the townspeople who built that prosperity dedicated float dolls and boat-shaped portable shrines. With some 300 years of history, it centers on the Shinto rites of Mikuni Shrine while grand floats parade through the town, conveying to this day the culture and faith of Mikuni Port. It was designated an intangible folk cultural property of Mikuni-cho, now Sakai City, in 2005, and of Fukui Prefecture the following year in 2006, and is cherished as a leading traditional event of the region.
+
+## History and Origins
+
+The exact date when the floats of the Mikuni Matsuri began is not clear, but a record of umbrella-topped standards appears in the Daimon-cho record of 1717, suggesting that a prototype of the festival existed by that time. Around the Horeki era (about 1750), umbrella standards and shouldered stalls appeared, adding to the festival''s splendor. Mikuni Shrine officially traces the origin of the festival to 1697, but in any case it had become established as a port-town festival by the middle of the Edo period.
+
+The beginning of decorated float dedication is said to be in 1753, when the town groups of Kiba-cho and Ima-cho pulled out a cherry float called Sakurayama, inspired by the cherry trees of Sakuradani, the shrine''s grounds of Mikuni Shrine. In 1757, the town groups of Motoshin-machi and Shimoshin-machi brought out a Musashino umbrella standard, and thereafter took turns bringing out floats every other year. In this way, a custom emerged of each town competing to dedicate floats with its own creative flourishes.
+
+The warrior-doll floats that characterize today''s Mikuni Matsuri spread in 1844. According to the Bandai Fueki-roku, when dolls were placed on a shouldered stall that year, it proved so popular that the following year other stalls followed suit. As Mikuni Port prospered through the Kitamaebune trade, the float dolls grew ever more lavish, and at their peak, giant warrior dolls more than ten meters tall competed in craftsmanship.
+
+However, when electric wires were laid through the town in the Meiji era, the giant floats could no longer be pulled as they were, so today their height is restricted and floats of around six meters parade. An annex of the Sakai City Ryusho Museum displays a float bearing a doll more than ten meters tall, used in the late Meiji period, preserving the grand form of the past. In this way, the Mikuni Matsuri is a festival that has been handed down while changing its appearance, reflecting the economic prosperity of the port town and the transformations of the times.
+
+## Highlights
+
+**Procession of giant floats bearing warrior dolls**  
+The greatest highlight of the Mikuni Matsuri is the float procession held on the middle day, May 20. There are 18 floats in the town, and the 6 (or 7) whose turn it is that year parade through the old Mikuni district. The sight of floats more than six meters tall bearing warrior dolls advancing through the narrow alleys of the port town is overwhelming, creating a magnificent spectacle worthy of the name of a Great Festival of Hokuriku.
+
+**Assembly and dedication before Mikuni Shrine**  
+On the middle-day festival of May 20, the floats of the towns on duty assemble before Mikuni Shrine to be dedicated. Afterward, the floats line up before and behind the portable shrine and warrior procession, set out from the shrine, and are pulled by the townspeople through the old streets. The way the Shinto rites and the float procession proceed as one shows that this festival is not merely a float event but a formal Shinto rite centered on offering to the deity.
+
+**Float dolls depicting historical heroes**  
+The dolls set atop the floats often depict historical warriors such as Minamoto no Yoshitsune, Sanada Yukimura, Akechi Mitsuhide, and Shibata Katsuie, or famous scenes from kabuki, each made with the creative ingenuity of its town. The exquisite forms crafted by doll makers become a topic of conversation each year, and which town dedicates which subject is one of the pleasures of the festival.
+
+**The evening float parade**  
+On the evening of the 19th, the day before the main event, the yoiyama evening float parade takes place. The sight of floats parading around Mikuni Shrine in the dusk is dreamlike, heightening anticipation for the main day. The warrior dolls illuminated in the night port town have a charm quite different from the daytime procession.
+
+**Children as musicians**  
+Children board each town''s float as musicians, enlivening the festival with drums and flutes. Elementary school children who have practiced for months before the festival show off spirited chants and powerful drumstick handling, embodying the very work of a community passing the festival to the next generation.
+
+**Storied float stalls and cultural properties**  
+The stalls that form the base of the floats are themselves worth seeing. Some, including a stall preserving the oldest form made in the Tenpo era and water-hanging curtains adorned with fine carvings and embroidery, are designated tangible cultural properties of Sakai City, offering a chance to appreciate the craft beauty of the stalls as well as the dolls.
+
+## Event Information and Access
+
+- **Dates**: Three days each year, May 19 (grand festival), May 20 (float and portable shrine procession / middle-day festival), and May 21 (closing festival)
+- **Ritual period**: A series of Shinto rites is held from the opening ceremony on May 15 to the closing festival on May 21
+- **Location**: Mikuni Shrine and the old Mikuni district (Mikuni-cho, Sakai City, Fukui Prefecture)
+- **Organizer**: Mikuni Matsuri Preservation and Promotion Association
+- **Central highlights**: The float procession on the 20th and the evening float parade on the 19th
+- **Access**: Get off at Mikuni Station on the Echizen Railway Mikuni Awara Line; the nearest station to Mikuni Shrine is Mikuni Jinja Station
+
+## Around the Area
+
+When visiting the Mikuni Matsuri, the scenic Tojinbo cliffs facing the Sea of Japan are close by. The landscape of rugged columnar joints stretching about one kilometer is designated a national natural monument and place of scenic beauty, allowing visitors to enjoy the natural beauty of Mikuni together with the festival.
+
+Mikuni Port strongly retains the atmosphere of a port town that flourished with the Kitamaebune, and lattice-doored townhouses and merchant houses dot the old district. Walking through the port town''s streets before or after the festival lets you feel firsthand the culture of the townspeople who nurtured the floats and the history of Mikuni, which grew wealthy through maritime trade.
+
+The Sakai City Ryusho Museum, which displays a float of more than ten meters from the late Meiji period, is an ideal facility for learning more deeply about the history of the Mikuni Matsuri. Seeing the grand floats of the past before watching the festival lets you savor all the more the weight of tradition carried by today''s floats.
+
+## Related Information
+
+- **Month**: May (spring)
+- **Region**: Mikuni-cho, Sakai City, Fukui Prefecture
+- **Shrine**: Mikuni Shrine (formerly Sanno-gu, the guardian shrine of Mikuni Port)
+- **Origin**: Established in the middle Edo period; decorated floats began with the Sakurayama of 1753, and warrior dolls spread from 1844
+- **Standing**: One of the Three Great Festivals of Hokuriku, along with the Mikurumayama and Seihaku festivals
+- **Cultural property**: Designated an intangible folk cultural property of Mikuni-cho in 2005 and of Fukui Prefecture in 2006
+','mikuni-matsuri','mikuni-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21652985','くりこま山車まつり',NULL,NULL,NULL,NULL,NULL,NULL,'秋田県','tohoku',38.831125,140.99074722,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8A%E3%81%93%E3%81%BE%E5%B1%B1%E8%BB%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21015433','多賀城跡あやめまつり',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.3037,140.99158611,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%9A%E8%B3%80%E5%9F%8E%E8%B7%A1%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q20045025','深大寺鬼燈まつり','Jindai-ji Hōzuki Festival',NULL,NULL,'Q500736','深大寺','Jindai-ji Temple','東京都','kanto',35.66752778,139.55047222,2009,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/JindaijiMonzen.JPG','https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%A4%A7%E5%AF%BA%E9%AC%BC%E7%87%88%E3%81%BE%E3%81%A4%E3%82%8A',NULL,90,'drafted','深大寺鬼燈まつりは、東京都調布市の深大寺で毎年7月の3連休に開催される夏の風物詩であり、東京西部で最も親しまれている真夏の縁日の一つである。深大寺の参道や境内に並ぶ約120軒のほおずき店が、朱色に染まった実をたわわに付けたほおずき鉢を売り、来場者は涼やかな鈴の音と緑陰に包まれて夏の入りを楽しむ。
