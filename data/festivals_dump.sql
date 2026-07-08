@@ -15970,15 +15970,129 @@ The Chichibu region is a nature-rich land surrounded by the clear Arakawa River 
 - The Three Shrines of Chichibu: Chichibu Shrine, Hodosan Shrine, and Mitsumine Shrine, the three ancient shrines representing Chichibu.','chichibu-kawase-matsuri','chichibu-kawase-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17209977','漢字の日','Kanji Day',NULL,'annual event celebrating kanji','Q221716','清水寺','Kiyomizu-dera Temple','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E3%81%AE%E6%97%A5',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11662545','青森花火大会','Aomori Fireworks Display',NULL,'Fireworks show in Japan','Q11662157','青森港','Port of Aomori',NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11642088','三熊野神社大祭','Mikumano Jinja Taisai','静岡県掛川市の三熊野神社の祭礼','festival by Mikumano Jinja in Kakegawa City, Shizuoka Prefecture, Japan','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Mikumano%20Jinja%20Taisai%202009%2020090404.jpg','https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','三熊野神社大祭（みくまのじんじゃたいさい）は、静岡県掛川市横須賀地区の三熊野神社で毎年4月の第1金・土・日に行われる例祭である。遠州横須賀の城下町を舞台に、独特の「祢里(ねり)」と呼ばれる屋台が練り歩き、軽快な「遠州横須賀三社祭礼囃子(えんしゅうよこすかさんしゃさいれいばやし)」が町に響き渡る、遠州地方を代表する春の祭礼である。
+INSERT INTO "festivals" VALUES('Q11642088','三熊野神社大祭','Mikumano Jinja Taisai','静岡県掛川市の三熊野神社の祭礼','festival by Mikumano Jinja in Kakegawa City, Shizuoka Prefecture, Japan','Q823988','掛川市','Kakegawa','静岡県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Mikumano%20Jinja%20Taisai%202009%2020090404.jpg','https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','## 概要
 
-この祭りの特徴は、江戸の「天下祭」の様式を色濃く伝える点にある。横須賀は江戸時代、横須賀藩の城下町として栄え、参勤交代などを通じて江戸の祭礼文化が伝わった。そのため祢里は、江戸型山車の流れをくむ一本柱万度型(いっぽんばしらまんどがた)という古い形式を今に残している。13台の祢里が、独特の節回しの祭囃子に合わせて城下町をゆっくりと巡行する様は風情豊かである。
+三熊野神社大祭（みくまのじんじゃたいさい）は、静岡県掛川市横須賀に鎮座する三熊野神社の春の大祭で、正式には「遠州横須賀三熊野神社大祭」と呼ばれます。桜の咲き誇る4月第1週の金・土・日曜の3日間にわたって行われ、遠州地方の春の祭りの先陣を飾る行事として広く知られています。最大の見どころは、神輿の渡御とそれに従う華やかな13台の「祢里（ねり）」の曳き廻しで、笛と太鼓が奏でる祭囃子と「シタッ！シタッ！」の勇ましい掛け声とともに、旧城下町の町並みを威勢よく練り歩きます。
 
-また、この祭りには「地固め舞」「田遊び」といった、安産や五穀豊穣を祈願する神事芸能も伝わっている。三熊野神社は安産の神として信仰を集める古社であり、祭りには子授け・安産への祈りも込められている。遠州横須賀三社祭礼囃子は静岡県の無形民俗文化財に指定されており、城下町の面影を残す横須賀の町並みとともに、江戸文化の粋を今に伝える貴重な祭礼である。','The Mikumano Jinja Taisai is the annual festival held on the first Friday, Saturday, and Sunday of April each year at Mikumano Shrine in the Yokosuka district of Kakegawa, Shizuoka Prefecture. Set in the castle town of Enshū Yokosuka, it is a representative spring festival of the Enshū region, in which distinctive floats called "neri" parade and the lively "Enshū Yokosuka Sansha festival music" resounds through the town.
+三熊野神社は安産・子授けの神社として古くから信仰を集めており、大祭でも「神子抱きの神事」や「子授け祈願」といった神事が執り行われます。祢里の勇壮な曳き廻しと、安産・子授けを願う静かな神事が同居する点にこの祭りの奥行きがあります。祭りの中心をなす「三社祭礼囃子」や「地固め舞・田遊び」は静岡県の無形文化財・無形民俗文化財に指定されており、三熊野神社大祭は江戸の祭り文化を今に伝える貴重な民俗行事として高く評価されています。
 
-A distinctive feature of this festival is how vividly it conveys the style of Edo''s "Tenka Matsuri" (shogunal festivals). In the Edo period, Yokosuka flourished as the castle town of the Yokosuka domain, and Edo''s festival culture was transmitted there through the alternate attendance system and other means. As a result, the neri preserve to this day an old form known as "ippon-bashira mando-gata," descended from Edo-style floats. The sight of thirteen neri slowly processing through the castle town to the distinctive melodies of the festival music is rich in atmosphere.
+## 歴史と由来
 
-The festival also preserves ritual performing arts such as "jigatame-mai" and "ta-asobi," which pray for safe childbirth and abundant harvests. Mikumano Shrine is an ancient shrine revered as a deity of safe childbirth, and the festival also carries prayers for the granting of children and safe delivery. The Enshū Yokosuka Sansha festival music is designated an Intangible Folk Cultural Property of Shizuoka Prefecture, and together with the streetscape of Yokosuka that retains the air of a castle town, it is a precious festival conveying the essence of Edo culture to the present.','mikumano-jinja-taisai','mikumano-jinja-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+三熊野神社大祭の歴史は古く、江戸時代の元禄年間（1690年頃）には、すでに踊りを主体とした祭りが存在していたと伝えられています。現在の様式の原型が作られたのは享保年間（1720年頃）のことで、第14代横須賀城主・西尾隠岐守忠尚（にしおおきのかみただなお）公が、当時の江戸天下祭、すなわち神田祭・山王祭の祭り文化を横須賀の地へと伝えたことに始まるとされます。以来、子々孫々へと受け継がれ、280年余りの伝統を誇る祭りとなりました。
+
+横須賀では山車のことを「祢里」と呼びます。この祢里の曳き廻しは神輿渡御のお供としての性格を持ち、各種神事の付け祭りとして発達してきました。祢里の形態は「一本柱万度型（いっぽんばしらまんどがた）」と呼ばれる独特のもので、江戸中期の天下祭を克明に描いた「神田明神祭礼絵巻」の中にほぼ同一のものが見られます。この形態を持つ山車は、発祥の地である東京ではすでに姿を消しており、現在では横須賀地区とその近隣にのみ残る大変貴重なものです。
+
+祭りを盛り上げる「三社祭礼囃子」も、享保年間に西尾忠尚公が参勤交代の折り、その御家人衆が江戸で習ったものが原型とされています。以後、横須賀独自の調子が加えられて今日の形となり、その古い歴史と比類のない名調子が認められて、昭和30年に静岡県指定無形文化財の第1号に指定されました。曲目には、大間・屋台下・馬鹿囃子の道中囃子三曲と、昇殿・鎌倉・四丁目の役太鼓三曲があり、演奏には小太鼓・大太鼓・すり金・特一本調子の篠笛が用いられます。
+
+このように三熊野神社大祭は、江戸天下祭の祭礼文化が城主を介して遠州の地に移植され、地域独自の発展を遂げた祭りです。発祥地では失われた一本柱万度型の祢里や、県指定第1号の三社祭礼囃子を今に伝えることから、単なる地方の祭礼にとどまらず、江戸の祭り文化を知るうえでも貴重な生きた文化財としての意味を持っています。2025年には「三熊野神社大祭の祢里行事」が静岡県の無形民俗文化財に指定され、その価値が改めて公的に認められました。
+
+## 見どころ
+
+**13台の祢里の曳き廻し**  
+大祭最大の見どころは、神輿の渡御に従う13台の祢里の勇壮な曳き廻しです。「シタッ！シタッ！」の掛け声とともに一本柱万度型の祢里が城下町の町並みを練り歩く姿は迫力に満ち、笛と太鼓の祭囃子と相まって町全体が祭り一色に染まります。発祥地では消えた貴重な形態の山車を間近で見られる点も、この祭りならではの魅力です。
+
+**県指定無形文化財の三社祭礼囃子**  
+祢里の上で奏でられる三社祭礼囃子は、祭りに欠かせない音の主役です。「ひょっとこ」「おかめ」の面をつけた手古舞（てこまい）が演奏に合わせて舞う様子も見どころで、宵宮にあたる土曜には「三社祭礼囃子演技奉納祭」が行われ、各町がその技を競います。県指定無形文化財第1号という格式が、その名調子を裏づけています。
+
+**安産・子授けの神子抱きの神事**  
+三熊野神社は安産・子授けの神社として信仰されており、本楽の日曜午後には「神子抱きの神事」や子授け祈願が執り行われます。華やかな祢里の曳き廻しとは対照的に、静かに命の誕生を願うこれらの神事は、この祭りが授かりものへの祈りを核とした信仰行事であることを示しています。
+
+**地固め舞・田遊びの奉納**  
+本楽の日曜午後には、県指定無形民俗文化財である「地固め舞・田遊び」が奉納されます。田植えの所作をなぞらえ豊作を祈るこの芸能は、祢里や囃子とはまた異なる古式ゆかしい神事芸能であり、祭りに農耕儀礼としての深い層を加えています。
+
+**三日間を彩る夜祭り**  
+大祭は昼だけでなく夜も見どころが尽きません。宵宮や本楽の夜には夜祭りが行われ、灯りに照らされた祢里が夜の城下町に浮かび上がります。特に最終日夜の千秋楽は三熊野神社境内で行われ、祭りの締めくくりにふさわしい熱気に包まれます。
+
+**神輿渡御と供奉行列**  
+本楽の日曜には例大祭・神幸祭に続いて神輿渡御が行われ、祢里の供奉行列がこれに従います。神輿を中心に据え、13台の祢里が付き従う行列は、祢里の曳き廻しが本来「神輿渡御のお供」として発達してきたというこの祭りの本義を、目の前で見せてくれる場面です。
+
+## 開催情報・アクセス
+
+- **開催日**：毎年4月の第1金曜日・土曜日・日曜日の3日間（2026年は4月3日〜5日）
+- **1日目（金）「揃」**：正午から午後9時 祢里曳き廻し
+- **2日目（土）「宵宮・試楽」**：三社祭礼囃子演技奉納祭、夜祭り
+- **3日目（日）「本楽・楽日」**：例大祭・神幸祭、神輿渡御、神子抱きの神事、地固め舞・田遊び奉納、千秋楽
+- **場所**：三熊野神社および横須賀の氏子域（静岡県掛川市横須賀）
+- **アクセス**：東海道本線袋井駅からバスで約20分「新横須賀」下車、東名袋井ICから車で約25分
+
+## 周辺の見どころ
+
+三熊野神社のある横須賀は、かつて横須賀城の城下町として栄えた町で、今も古い町並みに城下町の面影が色濃く残ります。祭りの前後に町を歩けば、祢里や囃子を育んだ町衆の暮らしと、江戸の祭り文化が根づいた歴史を肌で感じることができます。
+
+近隣には、山内一豊ゆかりの掛川城があります。日本初の本格的木造復元天守として知られ、桜の名所でもあるため、4月の大祭の時期にあわせて訪れれば、城と桜、そして祭りを一度に楽しむことができます。
+
+遠州横須賀は遠州灘にも近く、海の幸に恵まれた土地でもあります。祭り見物のあとには地元の食を味わったり、遠州の海辺の景色を巡ったりと、掛川・遠州エリアの観光とあわせて祭りの余韻を楽しむのがおすすめです。
+
+## 関連情報
+
+- **開催月**：4月（春）
+- **地域**：静岡県掛川市横須賀（遠州横須賀）
+- **神社**：三熊野神社（安産・子授けの信仰で知られる）
+- **起源**：享保年間（1720年頃）に横須賀城主・西尾忠尚が江戸天下祭の文化を伝来（280余年の伝統）
+- **山車**：一本柱万度型の「祢里」13台（発祥地東京では消滅した貴重な形態）
+- **文化財**：三社祭礼囃子（昭和30年・県指定無形文化財第1号）、地固め舞・田遊び（県指定無形民俗文化財）、祢里行事（2025年県指定無形民俗文化財）
+','## Overview
+
+Mikumano Jinja Taisai is the spring grand festival of Mikumano Shrine in Yokosuka, Kakegawa City, Shizuoka Prefecture, formally known as the Enshu Yokosuka Mikumano Shrine Grand Festival. Held over three days on the Friday, Saturday, and Sunday of the first week of April, when the cherry blossoms are in full bloom, it is widely known as the event that opens the spring festival season of the Enshu region. The greatest highlight is the procession of the portable shrine and the 13 gorgeous floats called neri that follow it, which parade vigorously through the streets of the former castle town to the festival music of flutes and drums and the spirited chant of shita, shita.
+
+Mikumano Shrine has long drawn faith as a shrine of safe childbirth and the blessing of children, and the grand festival includes rites such as the miko-daki child-holding rite and prayers for the blessing of children. The depth of this festival lies in the coexistence of the bold pulling of the neri floats and the quiet rites praying for safe birth and children. The Sanja Sairei-bayashi festival music and the ji-gatame-mai earth-firming dance and ta-asobi rice-field play, which form the heart of the festival, are designated intangible cultural properties and intangible folk cultural properties of Shizuoka Prefecture, and the festival is highly valued as a precious folk event that conveys the festival culture of Edo to this day.
+
+## History and Origins
+
+The history of the Mikumano Jinja Taisai is old, and it is said that a festival centered on dancing already existed in the Genroku era, around 1690, in the Edo period. The prototype of the present form was created in the Kyoho era, around 1720, when the 14th lord of Yokosuka Castle, Nishio Oki-no-kami Tadanao, brought the festival culture of the Edo Tenka Matsuri, that is, the Kanda and Sanno festivals, to the land of Yokosuka. Handed down through the generations ever since, it has become a festival boasting more than 280 years of tradition.
+
+In Yokosuka, floats are called neri. The pulling of the neri has the character of an attendant to the procession of the portable shrine and developed as a supplementary festival to various rites. The form of the neri, called ippon-bashira mando-gata, or single-pillar mando type, is distinctive, and an almost identical form can be seen in the Kanda Myojin Festival Picture Scroll, which vividly depicts the mid-Edo Tenka Matsuri. Floats of this form have already disappeared in Tokyo, their place of origin, and today they survive only in the Yokosuka district and its vicinity, making them extremely precious.
+
+The Sanja Sairei-bayashi music that enlivens the festival also has its prototype in what the retainers of Nishio Tadanao learned in Edo during his alternate attendance duties in the Kyoho era. Afterward, tunes unique to Yokosuka were added to give it its present form, and its old history and unrivaled melody were recognized when it was designated the first intangible cultural property of Shizuoka Prefecture in 1955. Its repertoire includes the three traveling tunes of oma, yatashita, and baka-bayashi, and the three ceremonial drum pieces of shoten, kamakura, and shichome, played with small and large drums, a suri-gane gong, and a special single-key shinobue flute.
+
+In this way, the Mikumano Jinja Taisai is a festival in which the ritual culture of the Edo Tenka Matsuri was transplanted to the Enshu region through the lord and achieved its own local development. By conveying to this day the single-pillar mando-type neri, lost in its place of origin, and the Sanja Sairei-bayashi, the prefecture''s first designated property, it holds meaning not merely as a regional festival but as a precious living cultural asset for understanding the festival culture of Edo. In 2025, the neri events of the Mikumano Jinja Taisai were designated an intangible folk cultural property of Shizuoka Prefecture, formally reaffirming their value.
+
+## Highlights
+
+**The pulling of the 13 neri floats**  
+The greatest highlight of the grand festival is the bold pulling of the 13 neri that follow the procession of the portable shrine. The sight of the single-pillar mando-type neri parading through the castle-town streets to the chant of shita, shita is full of power, and together with the festival music of flutes and drums, it dyes the whole town in the colors of the festival. Being able to see up close this precious form of float, lost in its birthplace, is a charm unique to this festival.
+
+**The prefecturally designated Sanja Sairei-bayashi**  
+The Sanja Sairei-bayashi played atop the neri is the leading voice of sound essential to the festival. The tekomai dancers wearing the masks of hyottoko and okame dancing in time with the music are another highlight, and on Saturday, the eve of the main day, the Sanja Sairei-bayashi Performance Dedication Festival is held, in which the towns compete in their skill. The prestige of being the first designated intangible cultural property of the prefecture backs up its fine melody.
+
+**The child-holding rite of safe childbirth and blessing of children**  
+Mikumano Shrine is worshipped as a shrine of safe childbirth and the blessing of children, and on Sunday afternoon of the main day, the miko-daki child-holding rite and prayers for the blessing of children are performed. In contrast to the gorgeous pulling of the neri, these quiet rites praying for the birth of life show that this festival is a rite of faith centered on the prayer for the gift of children.
+
+**Dedication of the earth-firming dance and rice-field play**  
+On Sunday afternoon of the main day, the ji-gatame-mai earth-firming dance and ta-asobi rice-field play, prefecturally designated intangible folk cultural properties, are dedicated. This performing art, which mimics the motions of rice planting and prays for a good harvest, is an ancient ritual art quite different from the neri and the music, adding a deep layer of agricultural rite to the festival.
+
+**The night festivals that color the three days**  
+The grand festival has endless highlights not only by day but by night. On the eve and the main day, night festivals are held, and the neri illuminated by lights emerge in the nocturnal castle town. In particular, the senshuraku finale on the night of the last day is held in the precincts of Mikumano Shrine, wrapped in an excitement befitting the close of the festival.
+
+**The portable shrine procession and attendant parade**  
+On the main day of Sunday, following the grand festival and the divine procession rite, the portable shrine procession takes place, with the attendant parade of neri following it. The procession, centered on the portable shrine and followed by the 13 neri, shows before one''s eyes the true meaning of this festival, that the pulling of the neri originally developed as an attendant to the portable shrine procession.
+
+## Event Information and Access
+
+- **Dates**: Three days on the first Friday, Saturday, and Sunday of April each year (April 3 to 5 in 2026)
+- **Day 1 (Fri) Soroi**: Noon to 9 p.m., pulling of the neri
+- **Day 2 (Sat) Yomiya / Shigaku**: Sanja Sairei-bayashi Performance Dedication Festival, night festival
+- **Day 3 (Sun) Honraku / Rakubi**: Grand festival and divine procession rite, portable shrine procession, miko-daki child-holding rite, dedication of the earth-firming dance and rice-field play, senshuraku finale
+- **Location**: Mikumano Shrine and the parishioner area of Yokosuka (Yokosuka, Kakegawa City, Shizuoka Prefecture)
+- **Access**: About 20 minutes by bus from Fukuroi Station on the Tokaido Main Line, get off at Shin-Yokosuka; about 25 minutes by car from Fukuroi IC on the Tomei Expressway
+
+## Around the Area
+
+Yokosuka, where Mikumano Shrine stands, is a town that once flourished as the castle town of Yokosuka Castle, and the appearance of the castle town still remains strongly in its old streets. Walking through the town before or after the festival lets you feel firsthand the life of the townspeople who nurtured the neri and the music, and the history in which the festival culture of Edo took root.
+
+Nearby stands Kakegawa Castle, associated with Yamauchi Kazutoyo. Known as Japan''s first full-scale wooden restored castle keep and a famous spot for cherry blossoms, it lets visitors who come during the April grand festival enjoy the castle, the cherry blossoms, and the festival all at once.
+
+Enshu Yokosuka is also close to the Enshu Sea and is a land blessed with the bounty of the ocean. After watching the festival, savoring local cuisine or touring the coastal scenery of Enshu is a fine way to enjoy the afterglow of the festival together with sightseeing in the Kakegawa and Enshu area.
+
+## Related Information
+
+- **Month**: April (spring)
+- **Region**: Yokosuka, Kakegawa City, Shizuoka Prefecture (Enshu Yokosuka)
+- **Shrine**: Mikumano Shrine (known for faith in safe childbirth and the blessing of children)
+- **Origin**: The culture of the Edo Tenka Matsuri was brought by the Yokosuka lord Nishio Tadanao in the Kyoho era, around 1720 (more than 280 years of tradition)
+- **Floats**: 13 single-pillar mando-type neri (a precious form lost in its birthplace of Tokyo)
+- **Cultural properties**: Sanja Sairei-bayashi (prefecture''s first designated intangible cultural property, 1955), earth-firming dance and rice-field play (prefecturally designated intangible folk cultural property), neri events (designated intangible folk cultural property of the prefecture in 2025)
+','mikumano-jinja-taisai','mikumano-jinja-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q12624253','日韓交流おまつり',NULL,NULL,NULL,'Q8684','ソウル特別市','Seoul',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9F%93%E4%BA%A4%E6%B5%81%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11630000','西馬音内の盆踊','Nishimonai no Bon-odori','秋田県羽後町に伝わる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',39.199556,140.403222,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishimonai%20Bon%20Odori.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%A6%AC%E9%9F%B3%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
 
