@@ -13254,15 +13254,125 @@ The Kumano region, including Shingu City, is home to many World Heritage attract
 - Shrine: Kamikura Shrine (an auxiliary shrine of Kumano Hayatama Taisha, with Gotobiki-iwa as its object of worship)
 - Features: A fire festival forbidding women, rare even nationwide, said to have continued for more than 1,400 years
 - Cultural property designation: Designated an Important Intangible Folk Cultural Property of the nation in 2016','oto-matsuri','oto-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11513731','春木だんじり祭','Haruki Danjiri Matsuri','大阪府岸和田市春木地区で行われる祭',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Haruki%20danjiri%202011.jpg','https://ja.wikipedia.org/wiki/%E6%98%A5%E6%9C%A8%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,85,'drafted','春木だんじり祭（はるきだんじりまつり）は、大阪府岸和田市春木地区で行われるだんじり祭で、全国的に有名な「岸和田だんじり祭」を構成する祭礼の一つである。例年9月から10月にかけて開催され、勇壮な「やりまわし」で知られる岸和田のだんじり文化を、春木地区独自の熱気とともに今に伝えている。
+INSERT INTO "festivals" VALUES('Q11513731','春木だんじり祭','Haruki Danjiri Matsuri','大阪府岸和田市春木地区で行われる祭',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Haruki%20danjiri%202011.jpg','https://ja.wikipedia.org/wiki/%E6%98%A5%E6%9C%A8%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,85,'drafted','## 概要
 
-だんじりとは、精緻な彫刻が施された木造の山車のことで、重さ約4トンにも及ぶ。これを数百人の曳き手が綱で曳き、町中を猛スピードで走り抜ける。祭りの最大の見どころは、交差点を勢いそのままに直角に方向転換する「やりまわし」である。だんじりの後ろに乗り、屋根の上で華麗に舞う「大工方(だいくがた)」の姿は、観衆の歓声を一身に集める花形である。
+春木だんじり祭（はるきだんじりまつり）は、大阪府岸和田市の春木地区で毎年九月に行われる、だんじり祭です。全国的に名高い岸和田だんじり祭と同日に開催され、同じ地域に伝わる勇壮な祭礼として知られています。精巧な彫刻を施した木造の「だんじり（地車）」を、数百人の曳き手が綱で曳き、町中を猛スピードで走り抜ける迫力に満ちた祭りで、秋の岸和田を熱狂の渦に巻き込みます。
 
-春木地区のだんじり祭は、岸和田旧市の祭礼とは別の日程で行われることが多く、地元の人々にとっては地域の誇りをかけた一年最大の行事である。各町のだんじりが速さと曳き回しの妙を競い合い、町全体が一体となって沸き立つ。木をきしませながら疾走するだんじりと、それを操る男たちの一糸乱れぬ連携は、泉州の地に根づいた祭礼文化の力強さと、地域共同体の結束を象徴している。','The Haruki Danjiri Matsuri is a danjiri festival held in the Haruki district of Kishiwada, Osaka Prefecture, one of the festivals that make up the nationally famous "Kishiwada Danjiri Festival." Held annually from September into October, it carries on Kishiwada''s danjiri culture—renowned for its dramatic "yarimawashi"—with the distinctive fervor of the Haruki district.
+この祭りの最大の見どころは、交差点を勢いそのままに直角に方向転換させる「やりまわし」です。だんじりが猛スピードで走りながら、大工方の合図で瞬時に向きを変えるさまは、危険と隣り合わせの緊張感と圧倒的な迫力にあふれ、見物客からは大きな歓声が沸き起こります。春木地区の各町がそれぞれのだんじりを曳き出し、日中の豪快な曳行から夜の情緒ある灯入れ曳行まで、二日間にわたって町全体が祭り一色に染まります。
 
-A danjiri is a wooden float adorned with intricate carvings, weighing around 4 tons. Several hundred pullers haul it by ropes, racing through the town at full speed. The festival''s greatest highlight is the "yarimawashi," in which the float makes a sharp right-angle turn at an intersection without losing momentum. The "daikugata," who rides atop the float''s roof and dances gracefully there, is the star figure drawing the loudest cheers from the crowd.
+## 歴史と由来
 
-The Haruki district''s danjiri festival is often held on different dates from the festivals of central Kishiwada, and for local residents it is the greatest event of the year, staking the pride of the community. The danjiri of each neighborhood compete in speed and the skill of their turns, and the entire town surges as one. The danjiri racing along with creaking timber, and the perfectly coordinated teamwork of the men who steer them, symbolize the powerful festival culture rooted in the Senshū region and the solidarity of the local community.','haruki-danjiri-matsuri','haruki-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+春木だんじり祭は、全国的に知られる岸和田だんじり祭と深く結びついた祭りです。岸和田だんじり祭は、江戸時代中期に岸和田藩主が五穀豊穣を祈願して稲荷祭を行ったことに始まると伝えられ、三百年以上の歴史と伝統を誇ります。春木だんじり祭は、この岸和田だんじり祭と同じ九月の祭礼として、岸和田市の春木地区に伝えられてきたもので、両者は地区の違いによって呼び分けられています。
+
+だんじり祭は、豊作への祈りと感謝を根底に持つ祭礼です。岸和田一帯では、各町がそれぞれ自分たちのだんじりを所有し、これを守り、飾り立て、曳き競うことに強い誇りと情熱を注いできました。春木地区もその例外ではなく、各町のだんじりが地域の結束の象徴として代々受け継がれ、祭りは世代を超えて地域の暮らしに深く根づいてきました。
+
+だんじりそのものは、けやきなどの木材に精巧な彫刻を施した豪華な山車です。武者絵や合戦の場面、故事などを題材とした緻密な彫り物は、職人の高度な技術の結晶であり、一台一台が芸術品ともいえる価値を持っています。数トンにおよぶこの重厚なだんじりを、数百人の曳き手が息を合わせて曳き、猛スピードで走らせるところに、だんじり祭ならではの豪快さと結束の力強さが表れています。
+
+長い年月をかけて受け継がれてきた春木だんじり祭は、岸和田だんじり祭とともに大阪を代表する秋祭りとして発展を続けてきました。春木地区では公に十二台のだんじりが曳行され、南海本線春木駅前を舞台にしたパレードなども行われます。町ぐるみで祭りを支える熱意は今も少しも衰えることなく、春木だんじり祭は地域の人々の誇りとして、勇壮に守り伝えられています。
+
+## 見どころ
+
+**豪快なやりまわし**
+春木だんじり祭最大の見せ場が、交差点を勢いそのままに直角に曲がる「やりまわし」です。数百人の曳き手が猛スピードで走りながら、大工方の合図に合わせて数トンのだんじりを一気に直角に方向転換させます。スピードを緩めずに巨大なだんじりを回すこの技は危険と隣り合わせで、成功した瞬間には見物客から大きな歓声と拍手が沸き起こります。
+
+**春木駅前のパレード**
+南海本線春木駅近くのラ・パーク前では、春木地区各町のだんじりが集まりセレモニーを行い、春木若松町交差点を勢いよくやり回すパレードが繰り広げられます。次々とだんじりがやりまわしを披露するこの場面は、春木だんじり祭を代表する見どころの一つで、多くの見物客が詰めかけます。
+
+**精巧な彫刻のだんじり**
+だんじりは、けやきなどの木材に武者絵や合戦の場面などを緻密に彫り込んだ豪華な山車です。職人の高度な技術によって施された彫刻は、一台ごとに趣向が異なり、間近で見ればその精緻さに驚かされます。走るときの迫力だけでなく、止まっているときの美術品のような美しさも、だんじりの大きな魅力です。
+
+**各町のだんじりの競演**
+春木地区では、公に十二台のだんじりが曳行されます。各町がそれぞれのだんじりを誇りをかけて曳き回し、やりまわしの技や曳行の勢いを競い合います。町ごとに異なる法被やだんじりの意匠が入り乱れる光景は色鮮やかで、地域全体が一体となって盛り上がる祭りの熱気を存分に感じることができます。
+
+**夜の灯入れ曳行**
+日中の豪快な曳行とは対照的に、夜になるとだんじりに提灯が灯され、ゆったりとした「灯入れ曳行」が行われます。無数の提灯にやわらかく照らされただんじりが町を進む光景は情緒豊かで、昼間の激しさとはまったく異なる幻想的な美しさをたたえています。昼と夜、二つの表情を楽しめるのもこの祭りの魅力です。
+
+**数百人が織りなす結束の力**
+数トンのだんじりを猛スピードで走らせ、やりまわしを成功させるには、数百人の曳き手と大工方、後梃子などが完璧に息を合わせる必要があります。役割ごとに緻密に連携し、町の総力を挙げて一台のだんじりを動かすさまには、地域の結束と伝統に対する誇りが凝縮されています。この一体感こそ、だんじり祭の根幹をなす魅力です。
+
+## 開催情報・アクセス
+
+- 開催地: 大阪府岸和田市春木地区
+- 会場: 春木地区一帯（南海本線春木駅前ほか）
+- 開催時期: 毎年九月（岸和田だんじり祭と同日開催・宵宮と本宮の二日間）
+- だんじり: 春木地区で公に十二台
+- アクセス: 南海本線「春木駅」から会場一帯へ
+- 主催・問い合わせ: 春木地区だんじり祭礼年番・岸和田市
+
+## 周辺の見どころ
+
+春木だんじり祭が行われる岸和田市では、同日に全国的に有名な岸和田だんじり祭も岸和田地区で開催されます。両地区の祭りは同じ日に繰り広げられるため、時期を合わせて訪れれば、岸和田一帯に根づくだんじり文化の熱気を一度に味わうことができます。地区ごとの違いを見比べるのも、この地域ならではの楽しみ方です。
+
+岸和田市の中心には、天守閣がそびえる岸和田城があり、周囲には美しい庭園や城下町の風情が残されています。祭りの合間に城とその周辺を散策すれば、だんじり祭を育んだこの土地の歴史と文化にふれることができます。城を背景にだんじりが曳行される光景も、岸和田ならではの見どころです。
+
+岸和田市は大阪府南部の泉州地域に位置し、大阪市内からのアクセスも良好です。周辺には泉州の海の幸や名産品も豊富で、祭りとあわせて地域の食文化を楽しむことができます。だんじり祭の季節に岸和田を訪れれば、勇壮なやりまわしの迫力とともに、泉州の歴史と活気に満ちた風土を存分に体感することができます。
+
+## 関連情報
+
+- 開催月: 九月（秋）
+- 都道府県・地域: 大阪府岸和田市春木地区・泉州地方
+- 特色: 交差点を直角に方向転換する勇壮な「やりまわし」
+- だんじり: 春木地区で公に十二台の地車を曳行
+- 関連: 全国的に有名な岸和田だんじり祭と同日開催の同系統の祭り','## Overview
+
+The Haruki Danjiri Festival (Haruki Danjiri Matsuri) is a danjiri festival held each September in the Haruki district of Kishiwada City, Osaka Prefecture. Held on the same days as the nationally famous Kishiwada Danjiri Festival, it is known as a valiant festival handed down in the same region. It is a festival full of power in which wooden danjiri, or floats bearing fine carvings, are pulled by rope by hundreds of pullers and run through the town at tremendous speed, sweeping the autumn of Kishiwada into a whirl of frenzy.
+
+The greatest highlight of this festival is the yarimawashi, in which the danjiri turn at right angles at intersections without losing momentum. The way a danjiri, while running at tremendous speed, changes direction in an instant at the signal of the daikugata, the roof rider, is full of a tension bordering on danger and overwhelming power, and great cheers rise from the spectators. Each town of the Haruki district brings out its own danjiri, and from the bold pulling of the day to the atmospheric lit pulling of the night, over two days the whole town is dyed entirely in the colors of the festival.
+
+## History and Origins
+
+The Haruki Danjiri Festival is a festival deeply connected with the nationally known Kishiwada Danjiri Festival. The Kishiwada Danjiri Festival is said to have begun in the mid-Edo period when the lord of the Kishiwada domain held an Inari festival to pray for a rich harvest, and it boasts a history and tradition of more than three hundred years. The Haruki Danjiri Festival, as a September festival on the same days as this Kishiwada Danjiri Festival, has been handed down in the Haruki district of Kishiwada City, and the two are distinguished by the difference of district.
+
+The danjiri festival is a rite with prayer and gratitude for a rich harvest at its root. Throughout the Kishiwada area, each town owns its own danjiri, and the people have poured strong pride and passion into preserving it, decorating it, and competing in pulling it. The Haruki district is no exception, and the danjiri of each town have been handed down through the generations as symbols of local unity, so that the festival has taken deep root in the life of the region across the generations.
+
+The danjiri themselves are gorgeous floats of wood such as zelkova, bearing fine carvings. The intricate carvings, taking as their themes warrior pictures, battle scenes, and old tales, are the crystallization of the high skill of artisans, and each one holds a value that may be called a work of art. In pulling these massive danjiri, weighing several tons, with hundreds of pullers in unison and running them at tremendous speed, there appears the boldness and the strength of unity unique to the danjiri festival.
+
+Handed down over many long years, the Haruki Danjiri Festival, together with the Kishiwada Danjiri Festival, has continued to develop as an autumn festival representative of Osaka. In the Haruki district, twelve danjiri are officially pulled, and parades staged before Haruki Station on the Nankai Main Line are also held. The passion of the whole town in supporting the festival has not waned in the least even now, and the Haruki Danjiri Festival is valiantly preserved as the pride of the local people.
+
+## Highlights
+
+**The Bold Yarimawashi**
+The greatest spectacle of the Haruki Danjiri Festival is the yarimawashi, in which the danjiri turn at right angles at intersections without losing momentum. Hundreds of pullers, while running at tremendous speed, change the direction of a danjiri weighing several tons at right angles in one motion at the signal of the daikugata. This feat of turning a huge danjiri without slowing borders on danger, and at the moment of success, great cheers and applause rise from the spectators.
+
+**The Parade Before Haruki Station**
+Before the La Park building near Haruki Station on the Nankai Main Line, the danjiri of each town of the Haruki district gather to hold a ceremony, and a parade is staged in which they vigorously turn at the Haruki Wakamatsucho intersection. This scene, in which danjiri one after another display the yarimawashi, is one of the highlights representative of the Haruki Danjiri Festival, and many spectators throng to it.
+
+**Danjiri of Fine Carving**
+The danjiri are gorgeous floats intricately carved with warrior pictures and battle scenes on wood such as zelkova. The carvings, applied by the high skill of artisans, differ in design from float to float, and seen up close they astonish with their delicacy. Not only the power of the danjiri when running but also its beauty like a work of art when at rest is a great appeal.
+
+**The Competition of the Danjiri of Each Town**
+In the Haruki district, twelve danjiri are officially pulled. Each town pulls its own danjiri with its pride at stake, competing in the skill of the yarimawashi and the vigor of the pulling. The sight of the differing happi coats and danjiri designs of each town intermingling is vividly colorful, and one can fully feel the heat of a festival in which the whole region celebrates as one.
+
+**The Lit Pulling at Night**
+In contrast to the bold pulling of the day, when night falls lanterns are lit on the danjiri and a leisurely lit pulling is held. The sight of a danjiri, softly illuminated by countless lanterns, advancing through the town is rich in feeling, holding a fantastical beauty entirely different from the intensity of daytime. That one can enjoy two expressions, day and night, is also an appeal of this festival.
+
+**The Strength of Unity Woven by Hundreds**
+To run a danjiri weighing several tons at tremendous speed and succeed at the yarimawashi, hundreds of pullers, the daikugata, and the ushiroteko rear brakemen must all be in perfect unison. In the way the whole town coordinates minutely by role and moves a single danjiri with all its combined strength, the unity of the region and its pride in tradition are concentrated. This very sense of oneness is the appeal that forms the very core of the danjiri festival.
+
+## Access and Information
+
+- Location: Haruki district, Kishiwada City, Osaka Prefecture
+- Venue: Throughout the Haruki district (before Haruki Station on the Nankai Main Line and others)
+- Dates: Each September (held on the same days as the Kishiwada Danjiri Festival; two days of eve festival and main festival)
+- Danjiri: Twelve officially pulled in the Haruki district
+- Access: From Haruki Station on the Nankai Main Line to the venue area
+- Organizer and inquiries: Haruki District Danjiri Festival Committee and Kishiwada City
+
+## Around the Area
+
+In Kishiwada City, where the Haruki Danjiri Festival is held, the nationally famous Kishiwada Danjiri Festival is also held in the Kishiwada district on the same days. Since the festivals of the two districts unfold on the same day, visiting at the right time allows one to savor at once the heat of the danjiri culture rooted throughout the Kishiwada area. Comparing the differences between the districts is a way of enjoyment unique to this region.
+
+At the center of Kishiwada City stands Kishiwada Castle with its castle keep, and around it remain a beautiful garden and the atmosphere of a castle town. Strolling around the castle and its surroundings between the festivities allows one to touch the history and culture of this land that nurtured the danjiri festival. The sight of danjiri being pulled against the backdrop of the castle is also a highlight unique to Kishiwada.
+
+Kishiwada City is located in the Senshu region of southern Osaka Prefecture, with good access from central Osaka. The area is also rich in the seafood and specialties of Senshu, and together with the festival one can enjoy the food culture of the region. Visiting Kishiwada in the season of the danjiri festival, one can fully experience the valiant power of the yarimawashi, along with the history and lively climate of Senshu.
+
+## Related Information
+
+- Month: September (autumn)
+- Prefecture and region: Haruki district, Kishiwada City, Osaka Prefecture, Senshu region
+- Features: The valiant yarimawashi, turning at right angles at intersections
+- Danjiri: Twelve floats officially pulled in the Haruki district
+- Related: A festival of the same lineage, held on the same days as the nationally famous Kishiwada Danjiri Festival','haruki-danjiri-matsuri','haruki-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11518232','木古内町寒中みそぎ祭り','Kanchu Misogi Matsuri','毎年1月に日本の北海道木古内町で行われる祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8F%A4%E5%86%85%E7%94%BA%E5%AF%92%E4%B8%AD%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11502788','新潟まつり','niigata matsuri','新潟市の祭',NULL,'Q711787','中央区','Chūō-ku','新潟県','chubu',NULL,NULL,1955,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11490726','忌部神社 (松江市)','Inbe Shrine (Matsue City)','松江市にある神社','Shinto shrine in Shimane Prefecture, Japan',NULL,NULL,NULL,'島根県','chugoku',35.399028,133.03111,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BF%8C%E9%83%A8%E7%A5%9E%E7%A4%BE.jpg','https://ja.wikipedia.org/wiki/%E5%BF%8C%E9%83%A8%E7%A5%9E%E7%A4%BE_(%E6%9D%BE%E6%B1%9F%E5%B8%82)',NULL,95,'drafted','## 概要
