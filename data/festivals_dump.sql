@@ -13025,17 +13025,125 @@ Hita is a town of water known as Suikyo Hita, watered by the Mikuma River (the u
 - Enshrined deity: Gozu Tenno (Susanoo-no-mikoto), a deity who quells pestilence
 - Scale: A total of ten floats survive (nine parade)
 ','hita-gion-festival','hita-gion-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11489206','御燈祭','Otō Matsuri','和歌山県新宮市の神倉神社の例祭',NULL,'Q11588748','神倉神社','Kamikura Shrine','和歌山県','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/518wakayama-Kumano%20Oto%20Festival-xl.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%87%88%E7%A5%AD',NULL,85,'drafted','御燈祭（おとうまつり）は、和歌山県新宮市の神倉神社で毎年2月6日に斎行される勇壮な火祭りである。世界遺産「紀伊山地の霊場と参詣道」を構成する熊野速玉大社の摂社・神倉神社を舞台とし、急峻な石段で知られるご神体「ゴトビキ岩」のもとに、白装束に荒縄を腰に巻いた「上り子（のぼりこ）」と呼ばれる男たちが集う。
+INSERT INTO "festivals" VALUES('Q11489206','御燈祭','Otō Matsuri','和歌山県新宮市の神倉神社の例祭',NULL,'Q11588748','神倉神社','Kamikura Shrine','和歌山県','kinki',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/518wakayama-Kumano%20Oto%20Festival-xl.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E7%87%88%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの起源は古く、熊野信仰の歴史とともに千年以上にわたって受け継がれてきたと伝えられる。上り子は数日前から精進潔斎し、当日は松明を手にして神倉神社の社殿前に集結する。神火が松明に移されると、約500段に及ぶ急な石段を、無数の炎が滝のように流れ下る。その光景は「下り龍」とも呼ばれ、闇夜に火の帯が連なる様は圧巻である。
+御燈祭り（おとうまつり・御灯祭・お燈まつりとも表記）は、和歌山県新宮市の神倉神社で毎年二月六日の夜に斎行される、勇壮な火祭りです。神倉神社は熊野速玉大社の摂社（別宮）であり、ゴトビキ岩と呼ばれる巨岩を御神体とする、熊野信仰の原点ともいわれる聖地です。この神社の急峻な石段を、無数の炎が滝のように流れ下る光景は圧巻で、「熊野に春を呼ぶ火祭り」として全国に知られています。
 
-御燈祭は、原則として男性のみが参加する祭りとして知られ、地域の成人儀礼的な性格も併せ持つ。新宮節にも「御燈祭は男の祭り」と歌われるほど、地元の人々にとって特別な意味を持つ年中行事である。2016年には国の重要無形民俗文化財に指定された。寒さの厳しい初春の夜に燃え上がる炎は、新年の無病息災と豊穣を祈る祈りの象徴であり、熊野の聖地に伝わる火と信仰の文化を今に伝えている。','The Otō Matsuri is a dramatic fire festival held every February 6th at Kamikura Shrine in Shingū, Wakayama Prefecture. Set against Kamikura Shrine—a subordinate shrine of Kumano Hayatama Taisha, part of the UNESCO World Heritage "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range"—the festival centers on the sacred Gotobiki-iwa rock, reached by a famously steep stone stairway.
+祭りの主役は、白装束に荒縄を締めた約二千人の「上り子（のぼりこ）」と呼ばれる男たちです。彼らは御神火を移した松明を手に、神倉山の山頂から五百三十八段におよぶ急な石段を一気に駆け下ります。山全体が炎に包まれ、まるで「火の滝」「下り龍」のように見えるさまは、まさに神秘と狂気が交錯する熊野の奇祭にふさわしい壮観です。全国でも珍しい女人禁制の祭りとして、また千年以上の歴史を伝える行事として、二〇一六年には国の重要無形民俗文化財に指定されました。
 
-The festival''s origins are ancient, said to have been passed down for over a thousand years alongside the history of Kumano faith. The participants, known as noboriko, are men dressed in white robes with straw ropes tied around their waists. They undergo ritual purification for several days beforehand and gather before the shrine carrying torches on the night of the festival.
+## 歴史と由来
 
-Once the sacred flame is transferred to their torches, the men descend the roughly 500 steep stone steps in a cascade of fire. This spectacle, sometimes called the "descending dragon," creates a breathtaking river of flame flowing through the darkness.
+御燈祭りは、一四〇〇年以上前から続くと伝えられる、たいへん古い歴史を持つ祭りです。舞台となる神倉神社は、熊野速玉大社の摂社でありながら、その創祀は速玉大社よりも古いとも語られる熊野信仰の発祥の地とされています。ゴトビキ岩と呼ばれる巨大な岩を御神体として仰ぐ原始的な自然崇拝のかたちを今に残しており、御燈祭りはその聖地で連綿と受け継がれてきた神事です。
 
-Notably, the Otō Matsuri is traditionally a festival for men only, carrying connotations of a coming-of-age rite for the local community. A local folk song even declares "the Otō Matsuri is a festival of men," reflecting its special significance. In 2016 it was designated an Important Intangible Folk Cultural Property of Japan. The flames blazing on a cold early-spring night symbolize prayers for health and a bountiful harvest in the new year, preserving the culture of fire and faith handed down in the sacred land of Kumano.','oto-matsuri','oto-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+この祭りが「火」を主役とするのには、暮らしに根ざした由来が伝えられています。かつて上り子たちは、御神火すなわち「神の火」を家のかまどの火種として持ち帰るために、「火が消えないうちに早く」と急いで石段を駆け下りたといいます。神から授かった清らかな火を家に迎え入れ、一年の無事を祈るという素朴な信仰が、この激しい火祭りの根底に流れているのです。女性は家にとどまってその火を待ち、かまどに移したと伝えられています。
+
+御燈祭りが全国でも珍しい女人禁制の祭りとして知られるのも、こうした古い信仰と結びついています。祭りに参加する上り子は男子に限られ、参加者は数日前から身を清め、白装束・荒縄・草鞋・足袋・松明といった定められた装いを整えて祭りに臨みます。心身を清めた上り子たちが「家内安全」などの願いを込めて炎とともに駆け下る姿には、聖なる火を扱う者としての厳しい作法が息づいています。
+
+長く和歌山県指定の無形民俗文化財であった御燈祭りは、その歴史的・文化的価値が高く評価され、二〇一六年に国の重要無形民俗文化財に指定されました。神倉神社を含む一帯は世界遺産「紀伊山地の霊場と参詣道」とも深く関わる聖地であり、御燈祭りは熊野の信仰と風土が生んだ稀有な火祭りとして、いまも地域の人々の手で厳かに守り伝えられています。
+
+## 見どころ
+
+**山を流れ下る「火の滝」**
+御燈祭り最大の見どころは、神倉山の急峻な石段を無数の松明が一斉に駆け下る光景です。約二千人の上り子が持つ炎が連なって流れ下るさまは「火の滝」「下り龍」とも形容され、闇夜に浮かび上がる巨大な炎の流れは他に類を見ない迫力です。この幻想的で壮絶な光景を一目見ようと、多くの見物客が新宮の町に集まります。
+
+**五百三十八段を駆け下る上り子**
+白装束に荒縄を締めた上り子たちが、五百三十八段という急で長い石段を松明を掲げて一気に駆け下る姿は、この祭りの核心です。狭く険しい石段を大勢が同時に下る危険と緊張のなかで、上り子たちは声を上げながら勢いよく下っていきます。その迫力と熱気は、見る者の胸を打ちます。
+
+**ゴトビキ岩の御神火**
+祭りの火は、御神体であるゴトビキ岩のもとで灯された御神火から分けられます。原始的な巨岩信仰の聖地で授かった神聖な火を、上り子たちが松明に移して山を下るという流れには、自然崇拝に根ざした熊野信仰の本質が凝縮されています。神聖な火が次々と分けられていく様子も、厳粛な見どころの一つです。
+
+**女人禁制という古式**
+御燈祭りは、全国でも数少ない女人禁制を守り続ける祭りです。参加者を男子に限るという古式は、神の火を扱う神事としての厳しさと、一四〇〇年以上受け継がれてきた伝統の重みを物語っています。時代を超えて守られてきたこの作法そのものが、祭りの持つ独特の緊張感と神秘性を際立たせています。
+
+**白装束の一体感**
+祭りに臨む上り子は、全員が白装束に荒縄を締めた統一された姿で山に登ります。夜の闇のなか、山頂に白装束の男たちが続々と集結する光景は壮観で、開門を待つ緊張した空気とあいまって、祭りの高揚を静かに高めていきます。白と炎の赤が織りなす鮮烈な対比も印象的です。
+
+**熊野に春を呼ぶ火**
+御燈祭りは、厳しい冬の熊野に春の訪れを告げる祭りとして親しまれています。二月の冷たい夜気を焦がすように燃え上がる炎は、新しい季節への希望と、一年の無事を願う人々の祈りを象徴しています。地域にとって、この火祭りは冬の終わりと春の始まりを告げる大切な節目となっています。
+
+## 開催情報・アクセス
+
+- 開催地: 和歌山県新宮市
+- 会場: 神倉神社（熊野速玉大社の摂社）
+- 開催時期: 毎年二月六日の夜
+- 参加者: 白装束の「上り子」約二千人（女人禁制）
+- 主な内容: 神倉山山頂から五百三十八段の石段を松明を持って駆け下る
+- 主催・問い合わせ: 熊野速玉大社・神倉神社
+
+## 周辺の見どころ
+
+祭りの舞台となる神倉神社は、ゴトビキ岩と呼ばれる巨岩を御神体とし、急峻な石段を上った先に鎮座する熊野信仰の原点ともいえる聖地です。祭りの日以外にも、山上からは新宮の市街地と海を一望でき、原始的な巨岩信仰の空気を肌で感じることができます。世界遺産「紀伊山地の霊場と参詣道」とも深く関わる特別な場所です。
+
+神倉神社の本宮にあたる熊野速玉大社は、朱塗りの美しい社殿を持つ熊野三山の一社で、毎年十月には熊野川を舞台とした壮大な例大祭「熊野速玉祭」が斎行されます。御燈祭りとあわせて訪れれば、熊野信仰の中心をなす二つの神社の関わりと、その祭礼文化の奥深さを味わうことができます。
+
+新宮市を含む熊野地域には、熊野本宮大社・熊野那智大社という熊野三山の他の二社や、熊野古道をはじめとする世界遺産の見どころが数多く広がっています。御燈祭りの季節に熊野を訪れれば、冬の夜を焦がす壮絶な火祭りとともに、聖地・熊野の自然と信仰が織りなす深い世界にふれることができます。
+
+## 関連情報
+
+- 開催月: 二月（冬）
+- 都道府県・地域: 和歌山県新宮市・紀伊半島（熊野地方）
+- 神社: 神倉神社（熊野速玉大社の摂社・ゴトビキ岩を御神体とする）
+- 特色: 全国でも珍しい女人禁制・一四〇〇年以上続くと伝わる火祭り
+- 文化財指定: 二〇一六年に国の重要無形民俗文化財に指定','## Overview
+
+The Oto Festival (Oto Matsuri), also written as Otou Matsuri or Otomatsuri, is a valiant fire festival held on the night of February 6 each year at Kamikura Shrine in Shingu City, Wakayama Prefecture. Kamikura Shrine is an auxiliary shrine of Kumano Hayatama Taisha, and with a huge rock called Gotobiki-iwa as its object of worship, it is a sacred site said to be the very origin of Kumano faith. The sight of countless flames flowing down the shrine''s steep stone stairway like a waterfall is breathtaking, and the festival is known throughout Japan as the fire festival that calls spring to Kumano.
+
+The stars of the festival are the roughly two thousand men called noboriko, clad in white garments bound with rough rope. Holding torches lit from the sacred fire, they dash all at once down a steep stairway of five hundred and thirty-eight steps from the summit of Mount Kamikura. The way the entire mountain is wrapped in flame, appearing like a waterfall of fire or a descending dragon, is a spectacle truly worthy of a strange festival of Kumano where the mysterious and the frenzied intersect. As a festival that forbids the participation of women, rare even nationwide, and as an event conveying a history of more than a thousand years, it was designated an Important Intangible Folk Cultural Property of the nation in 2016.
+
+## History and Origins
+
+The Oto Festival is a festival of very ancient history, said to have continued for more than 1,400 years. Kamikura Shrine, its stage, is an auxiliary shrine of Kumano Hayatama Taisha, yet its founding is said to be even older than that of Hayatama Taisha, and it is regarded as the birthplace of Kumano faith. Preserving to this day a primal form of nature worship that reveres a great rock called Gotobiki-iwa as its object of worship, the shrine is where the Oto Festival has been continuously handed down as a rite in that sacred place.
+
+There is an origin rooted in daily life behind why this festival takes fire as its central element. It is said that long ago the noboriko hurried down the stone steps, urging one another to be quick before the flame went out, in order to carry home the sacred fire, the fire of the gods, as tinder for the hearths of their houses. A simple faith of welcoming into the home the pure fire granted by the gods and praying for a safe year runs at the root of this fierce fire festival. Women, it is said, waited at home for that fire and transferred it to the hearth.
+
+The fact that the Oto Festival is known as a festival forbidding the participation of women, rare even nationwide, is also bound to such ancient faith. The noboriko who take part are limited to men, and participants purify themselves for several days beforehand and prepare the prescribed attire of white garments, rough rope, straw sandals, tabi socks, and torches before facing the festival. In the figures of the noboriko, purified in body and mind, dashing down with the flames while praying for such things as the safety of the household, there lives a strict etiquette befitting those who handle sacred fire.
+
+Long designated an intangible folk cultural property of Wakayama Prefecture, the Oto Festival was highly esteemed for its historical and cultural value and designated an Important Intangible Folk Cultural Property of the nation in 2016. The area including Kamikura Shrine is a sacred site deeply connected with the World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range, and the Oto Festival, a rare fire festival born of the faith and land of Kumano, is even now solemnly preserved and handed down by the hands of local people.
+
+## Highlights
+
+**The Waterfall of Fire Flowing Down the Mountain**
+The greatest highlight of the Oto Festival is the sight of countless torches dashing all at once down the steep stone stairway of Mount Kamikura. The way the flames held by some two thousand noboriko flow down in a connected stream is likened to a waterfall of fire or a descending dragon, and the great flow of flame emerging in the darkness of night is of unrivaled power. Many spectators gather in the town of Shingu to catch a glimpse of this fantastical and stunning scene.
+
+**The Noboriko Dashing Down 538 Steps**
+The core of this festival is the sight of the noboriko, clad in white bound with rough rope, holding aloft their torches as they dash at once down the steep and long stairway of five hundred and thirty-eight steps. Amid the danger and tension of a great number descending the narrow and rugged steps at the same time, the noboriko rush down while raising their voices. Their power and heat strike the hearts of all who watch.
+
+**The Sacred Fire of Gotobiki-iwa**
+The fire of the festival is divided from the sacred fire lit at the foot of Gotobiki-iwa, the object of worship. In the sequence of receiving a sacred fire at a sacred site of primal rock worship and carrying it down the mountain transferred to the torches, the essence of Kumano faith, rooted in nature worship, is concentrated. The way the sacred fire is passed one after another is also a solemn highlight.
+
+**The Ancient Custom of Forbidding Women**
+The Oto Festival is one of the few festivals nationwide that continues to observe the prohibition of women. The ancient custom of limiting participants to men speaks to the strictness of a rite that handles the fire of the gods and to the weight of a tradition handed down for more than 1,400 years. This very etiquette, preserved across the ages, heightens the distinctive tension and mystery the festival possesses.
+
+**The Unity of White Garments**
+The noboriko facing the festival all climb the mountain in the unified figure of white garments bound with rough rope. In the darkness of night, the sight of the white-clad men gathering one after another at the summit is magnificent, and together with the tense air of waiting for the gate to open, it quietly heightens the exaltation of the festival. The vivid contrast of white and the red of the flames is also striking.
+
+**The Fire that Calls Spring to Kumano**
+The Oto Festival is cherished as a festival announcing the arrival of spring in the harsh winter of Kumano. The flames that blaze up as if to scorch the cold night air of February symbolize hope for a new season and the prayers of people for a safe year. For the region, this fire festival is an important turning point that announces the end of winter and the beginning of spring.
+
+## Access and Information
+
+- Location: Shingu City, Wakayama Prefecture
+- Venue: Kamikura Shrine (an auxiliary shrine of Kumano Hayatama Taisha)
+- Dates: The night of February 6 each year
+- Participants: About two thousand white-clad noboriko (women are not permitted)
+- Main content: Dashing down a stairway of five hundred and thirty-eight steps from the summit of Mount Kamikura holding torches
+- Organizer and inquiries: Kumano Hayatama Taisha and Kamikura Shrine
+
+## Around the Area
+
+Kamikura Shrine, the setting of the festival, takes as its object of worship a huge rock called Gotobiki-iwa and is enshrined at the top of a steep stone stairway, a sacred site that may be called the very origin of Kumano faith. Even outside the festival day, from the mountaintop one can command a view of the urban area of Shingu and the sea, and can feel with one''s own skin the air of primal rock worship. It is a special place deeply connected with the World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range.
+
+Kumano Hayatama Taisha, the main shrine to which Kamikura Shrine belongs, is one of the shrines of the Kumano Sanzan with beautiful vermilion-lacquered halls, and each October the grand annual festival, the Kumano Hayatama Festival, is held with the Kumano River as its stage. Visiting it together with the Oto Festival allows one to savor the connection between the two shrines at the heart of Kumano faith and the depth of their festival culture.
+
+The Kumano region, including Shingu City, is home to many World Heritage attractions, such as the other two shrines of the Kumano Sanzan, Kumano Hongu Taisha and Kumano Nachi Taisha, and the Kumano Kodo pilgrimage routes. Visiting Kumano in the season of the Oto Festival, one can touch the profound world woven by the nature and faith of the sacred land of Kumano, together with a stunning fire festival that scorches a winter night.
+
+## Related Information
+
+- Month: February (winter)
+- Prefecture and region: Shingu City, Wakayama Prefecture, Kii Peninsula (Kumano region)
+- Shrine: Kamikura Shrine (an auxiliary shrine of Kumano Hayatama Taisha, with Gotobiki-iwa as its object of worship)
+- Features: A fire festival forbidding women, rare even nationwide, said to have continued for more than 1,400 years
+- Cultural property designation: Designated an Important Intangible Folk Cultural Property of the nation in 2016','oto-matsuri','oto-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11513731','春木だんじり祭','Haruki Danjiri Matsuri','大阪府岸和田市春木地区で行われる祭',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Haruki%20danjiri%202011.jpg','https://ja.wikipedia.org/wiki/%E6%98%A5%E6%9C%A8%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD',NULL,85,'drafted','春木だんじり祭（はるきだんじりまつり）は、大阪府岸和田市春木地区で行われるだんじり祭で、全国的に有名な「岸和田だんじり祭」を構成する祭礼の一つである。例年9月から10月にかけて開催され、勇壮な「やりまわし」で知られる岸和田のだんじり文化を、春木地区独自の熱気とともに今に伝えている。
 
 だんじりとは、精緻な彫刻が施された木造の山車のことで、重さ約4トンにも及ぶ。これを数百人の曳き手が綱で曳き、町中を猛スピードで走り抜ける。祭りの最大の見どころは、交差点を勢いそのままに直角に方向転換する「やりまわし」である。だんじりの後ろに乗り、屋根の上で華麗に舞う「大工方(だいくがた)」の姿は、観衆の歓声を一身に集める花形である。
