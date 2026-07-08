@@ -12995,15 +12995,111 @@ INSERT INTO "festivals" VALUES('Q11563278','湘南ひらつか七夕まつり','
 INSERT INTO "festivals" VALUES('Q11579109','登別地獄まつり','Noboribetsu Jigoku Matsuri',NULL,NULL,'Q3888689','登別温泉','Noboribetsu Onsen',NULL,NULL,NULL,NULL,1964,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%99%BB%E5%88%A5%E5%9C%B0%E7%8D%84%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11536932','桃まつり','Peach Festival',NULL,'Japanese spring festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A1%83%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11574728','生國魂祭','Ikutama Matsuri','大阪市天王寺区にある生國魂神社の祭礼',NULL,'Q11574477','生國魂神社','Ikukunitama Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%94%9F%E5%9C%8B%E9%AD%82%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11558084','浜降祭','Hamaori-sai','神奈川県茅ヶ崎市で行われる祭り',NULL,NULL,NULL,NULL,'神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hamaori-sai%202010%20b%2C%20Naka-kaigan%20Hachidai-ry%C5%AB%C5%8Djin.jpg','https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%99%8D%E7%A5%AD',NULL,85,'drafted','浜降祭（はまおりさい）は、神奈川県茅ヶ崎市の南湖海岸(なんごかいがん)で毎年7月の海の日に行われる祭りで、「暁の祭典」とも称される勇壮な神輿の祭礼である。茅ヶ崎・寒川地域の数十の神社から、約40基もの神輿が早朝の海岸に一堂に会する、相模国を代表する夏祭りの一つである。
+INSERT INTO "festivals" VALUES('Q11558084','浜降祭','Hamaori-sai','神奈川県茅ヶ崎市で行われる祭り',NULL,NULL,NULL,NULL,'神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hamaori-sai%202010%20b%2C%20Naka-kaigan%20Hachidai-ry%C5%AB%C5%8Djin.jpg','https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%99%8D%E7%A5%AD',NULL,85,'drafted','浜降祭（はまおりさい）は、神奈川県茅ヶ崎市の茅ヶ崎西浜海岸で、毎年七月第三月曜日の「海の日」の早朝に斎行される、湘南に夏の到来を告げる暁の祭典です。夜明けとともに、寒川町と茅ヶ崎市に鎮座する三十四の神社から大小合わせて約四十基もの神輿が海岸へと参集し、朝日に照らされた砂浜に「どっこい、どっこい」という相州神輿独特の勇ましい掛け声が響き渡ります。
 
-祭りは未明から始まる。各神社を出発した神輿が、担ぎ手たちの「ドッコイ、ドッコイ」という独特の掛け声とともに、夜明け前の暗い道を南湖海岸を目指して進む。夜が白み始める頃、続々と海岸に集結した神輿が砂浜に勢ぞろいする光景は壮観である。神事の後、神輿は次々と海へと担ぎ込まれ、波しぶきを上げながら海上で揉み合う「禊(みそぎ)」が行われる。朝日を浴びて海中で輝く神輿の群れは、この祭り最大の見どころである。
+暗いうちから神輿が続々と浜へ集まり、明け方の海を背に神事が営まれるさまは、他の祭りにはない荘厳さと躍動感をあわせ持っています。神輿が海に入る「みそぎ」の光景はとりわけよく知られ、地域の人々にとって夏の始まりを実感させる風物詩となっています。昭和五十三年（一九七八年）には神奈川県の無形民俗文化財に指定され、「かながわのまつり五十選」にも選ばれた、湘南を代表する伝統行事です。
 
-浜降祭の起源には諸説あるが、神輿の禊と海への感謝、そして地域の各神社が一堂に会する「神々の集い」としての性格を持つ。1978年には神奈川県の無形民俗文化財に指定された。夏の早朝、湘南の海を舞台に繰り広げられる神輿の祭典は、海辺の町・茅ヶ崎に根づいた信仰と共同体の絆を鮮やかに映し出している。','The Hamaori-sai is a festival held every July on Marine Day at Nango Beach in Chigasaki, Kanagawa Prefecture. Also called the "festival of dawn," it is a spirited portable-shrine festival in which around 40 mikoshi from dozens of shrines in the Chigasaki and Samukawa areas gather together on the beach in the early morning—one of the representative summer festivals of the former Sagami Province.
+## 歴史と由来
 
-The festival begins before dawn. Departing from their respective shrines, the mikoshi advance toward Nango Beach along dark pre-dawn roads, carried to the bearers'' distinctive chant of "dokkoi, dokkoi." As the sky begins to lighten, the sight of the mikoshi assembling one after another to line up across the sandy beach is magnificent. After the Shinto rites, the mikoshi are carried one by one into the sea, where the "misogi" purification takes place as they jostle amid the waves and spray. The cluster of mikoshi gleaming in the water under the morning sun is the festival''s greatest spectacle.
+浜降祭の起源は、茅ヶ崎・寒川一帯の神社が海辺で行ってきた「みそぎ」の神事にあります。海水によって身を清め、神輿を浜に迎えて祓い清めるという禊祓（みそぎはらえ）の信仰が、この祭りの根幹をなしています。夏の盛りに海の力を借りて心身の穢れを祓い、地域の安寧と豊穣を祈るという営みは、海と深く結びついて生きてきた湘南の人々の暮らしそのものを映しています。
 
-There are various theories about the origins of the Hamaori-sai, but it carries the character of a mikoshi purification, an offering of gratitude to the sea, and a "gathering of the gods" in which the local shrines convene together. In 1978 it was designated an Intangible Folk Cultural Property of Kanagawa Prefecture. Unfolding on the Shōnan coast in the early morning of summer, this mikoshi festival vividly reflects the faith and communal bonds rooted in the seaside town of Chigasaki.','hamaori-sai','hamaori-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+祭日はもともと旧暦六月二十九日に定められていました。この日付は、夏越の祓の時期と重なり、半年の穢れを祓い清めるという禊の意味あいを色濃く帯びていました。海に近い地域ならではの形で、海辺のみそぎが夏の重要な神事として受け継がれてきたのです。
+
+明治九年（一八七六年）になると、祭日は七月十五日に改められ、寒川神社との合同祭典として営まれるようになりました。周辺の複数の神社が一堂に会して神輿を浜に集めるという現在の合同祭典の原型は、この時期に整えられていきました。その後、各神社が別々に祭りを行った時代もありましたが、再び合同で斎行されるようになり、多数の神輿が浜に集うという壮観な形が定着していきました。
+
+現在では開催日が七月第三月曜日の「海の日」に定められ、寒川神社を始めとする寒川町と茅ヶ崎市の三十四社の神輿約四十基が茅ヶ崎西浜海岸に集結します。祭りを通じて地域の産業発展と海上安全が祈念され、単なる伝統行事にとどまらず、海とともに生きる地域社会の結束を確かめる場ともなっています。昭和五十三年の県無形民俗文化財指定は、こうした歴史と地域性が高く評価された結果です。
+
+## 見どころ
+
+**夜明け前の神輿参集** 浜降祭最大の見どころは、まだ暗い夜明け前から神輿が続々と浜へ集まってくる光景です。一番神輿が会場に到着するのは午前四時ごろ。各神社を出発した神輿が、暗闇のなかを掛け声とともに浜を目指し、夜が白み始めるころには約四十基が砂浜に居並びます。刻一刻と明るくなる空のもとで神輿が揃っていくさまは、この祭りならではの神秘的な情景です。
+
+**海に入る「みそぎ」** 神輿が海へと担ぎ入れられる「みそぎ」は、浜降祭を象徴する場面です。担ぎ手たちが神輿を担いだまま波打ち際へと進み、海水で神輿と自らを清めます。海の力によって穢れを祓うというこの祭りの本義が、最も鮮烈に表れる瞬間であり、しぶきを上げながら海に入る神輿の姿は多くの見物客を惹きつけます。
+
+**相州神輿の掛け声** 「どっこい、どっこい」という掛け声は、相州神輿独特のもので、浜降祭の熱気を支えています。神輿を上下に大きく揺らしながら担ぐ相州地方の担ぎ方は勇壮で、砂浜に響く掛け声と担ぎ手の一体感が、明け方の海岸を祭りの高揚感で満たしていきます。
+
+**約四十基の神輿の共演** 寒川町と茅ヶ崎市の三十四社から集まる約四十基もの神輿が一堂に会する光景は、他ではなかなか見られない規模です。それぞれの神社の個性ある神輿が砂浜に並び立つさまは壮観で、地域ごとに受け継がれてきた神輿の装飾や担ぎ方の違いを見比べる楽しみもあります。
+
+**浜降祭合同祭** 午前七時からは、集まった神輿を前に浜降祭合同祭が営まれます。多数の神社が合同で行うこの神事では、地域の産業発展と海上安全が祈念されます。個々の神社の枠を超えて一つの祭りとして祈りを捧げるこの合同祭こそ、明治以来受け継がれてきた浜降祭の姿を今に伝えるものです。
+
+**御旅所祭と還御** 合同祭のあと、午前十時十五分ごろには御旅所祭が営まれ、神輿は各神社へと帰路につきます。早朝から始まった祭りが朝のうちに一巡し、担ぎ手たちが名残を惜しみつつ浜をあとにする光景は、夏の一日の始まりと祭りの余韻が交錯する印象深い場面です。
+
+## 開催情報
+
+- 開催日: 毎年七月第三月曜日「海の日」の早朝（令和八年は七月二十日）
+- 会場: 茅ヶ崎西浜海岸（茅ヶ崎漁港西側）
+- 主な流れ: 午前二時三十分ごろ発輿祭（寒川神社）→午前四時ごろ一番神輿入場→午前七時から浜降祭合同祭→午前十時十五分ごろ御旅所祭
+- 参加神社: 寒川町・茅ヶ崎市の三十四社
+- 神輿数: 大小約四十基
+- 文化財指定: 昭和五十三年（一九七八年）神奈川県無形民俗文化財、「かながわのまつり五十選」選定
+
+## 周辺の関連する行事と場所
+
+浜降祭の中心的な担い手のひとつが、相模国一之宮として知られる寒川神社です。全国唯一の八方除の守護神として広く信仰を集める古社で、浜降祭では午前二時三十分ごろに発輿祭が営まれ、神輿が浜へと向かいます。祭りの日以外にも多くの参拝者が訪れる名社で、浜降祭とあわせて足を運ぶ人も少なくありません。
+
+茅ヶ崎の鶴嶺八幡宮も浜降祭に神輿を出す神社のひとつで、「湘南茅ヶ崎鎮守」として八幡信仰の本地とされています。長い参道と歴史ある社殿を持ち、地域の氏神として親しまれてきました。浜降祭を通じて、こうした地域の神社と海辺の暮らしとの結びつきを感じ取ることができます。
+
+会場となる茅ヶ崎西浜海岸は、湘南を代表する海岸のひとつで、夏には多くの海水浴客でにぎわう場所です。祭りの日には、その砂浜が神輿と担ぎ手、見物客で埋め尽くされ、日常の海岸とはまったく異なる祭りの空間へと変わります。早朝の澄んだ空気のなかで海と祭りを同時に味わえるのは、この祭りならではの魅力です。
+
+## 関連情報
+
+- 開催月: 七月（第三月曜日「海の日」）
+- 都道府県・地域: 神奈川県茅ヶ崎市・関東地方
+- 起源: 海辺での禊祓の神事。旧暦六月二十九日から明治九年に七月十五日へ、現在は海の日に
+- 規模: 三十四社・約四十基の神輿が茅ヶ崎西浜海岸に参集
+- 文化財: 神奈川県無形民俗文化財（昭和五十三年指定）・かながわのまつり五十選
+- 特色: 神輿が海に入る「みそぎ」と相州神輿の「どっこい」の掛け声で知られる暁の祭典','The Hamaori Festival is a dawn festival that heralds the arrival of summer on the Shonan coast, held each year in the early morning of Marine Day, the third Monday of July, on the Nishihama Beach of Chigasaki in Kanagawa Prefecture. As dawn breaks, some forty portable shrines of all sizes gather on the beach from the thirty-four shrines enshrined in the town of Samukawa and the city of Chigasaki, and across the sunlit sands rings the vigorous cry unique to Soshu-style shrine bearing, dokkoi, dokkoi.
+
+From the dark hours before dawn the portable shrines stream one after another toward the beach, and the sight of the rites being conducted against the brightening morning sea holds a solemnity and a dynamism found in no other festival. The scene of the portable shrines entering the sea in a purification rite is especially well known, and for the people of the region it has become a seasonal tradition that makes them feel the true beginning of summer. In 1978 the festival was designated an Intangible Folk Cultural Property of Kanagawa Prefecture and was also chosen among the Fifty Selected Festivals of Kanagawa, making it a representative traditional event of the Shonan area.
+
+## History and Origins
+
+The origins of the Hamaori Festival lie in the purification rites that the shrines of the Chigasaki and Samukawa area have long performed by the sea. The faith of misogi-harae, purifying the body with seawater and welcoming the portable shrines to the beach to cleanse them, forms the very foundation of this festival. The practice of borrowing the power of the sea in the height of summer to purify body and mind of defilement, and of praying for the peace and abundance of the region, reflects the very life of the Shonan people, who have lived in deep connection with the sea.
+
+The festival day was originally set on the twenty-ninth day of the sixth month of the old lunar calendar. This date overlapped with the season of the summer purification rite, and it strongly carried the meaning of cleansing away the defilements accumulated over half a year. In a form characteristic of a region close to the sea, the seaside purification was handed down as an important summer rite.
+
+In 1876, the festival day was changed to July 15, and it came to be conducted as a joint ceremony with Samukawa Shrine. The prototype of the present joint ceremony, in which several neighboring shrines gather together and bring their portable shrines to the beach, was shaped during this period. Later there were times when the shrines held their festivals separately, but they came once again to be conducted jointly, and the magnificent form in which numerous portable shrines gather on the beach became firmly established.
+
+Today the date is set on Marine Day, the third Monday of July, and about forty portable shrines from the thirty-four shrines of Samukawa and Chigasaki, beginning with Samukawa Shrine, gather on Nishihama Beach in Chigasaki. Through the festival, prayers are offered for the development of local industry and for safety at sea, and beyond being a mere traditional event, it serves as an occasion to reaffirm the solidarity of a community that lives together with the sea. The 1978 designation as a prefectural Intangible Folk Cultural Property was the result of high esteem for this history and regional character.
+
+## Highlights
+
+**The Gathering of Shrines Before Dawn** The greatest highlight of the Hamaori Festival is the sight of the portable shrines gathering on the beach one after another from before dawn while it is still dark. The first shrine arrives at the site around four in the morning. The shrines that have set out from each shrine head for the beach through the darkness with their cries, and by the time the sky begins to whiten some forty of them stand ranged upon the sands. The sight of the shrines assembling under a sky that grows lighter moment by moment is a mystical scene found only at this festival.
+
+**Entering the Sea for Purification** The purification rite in which the portable shrines are carried into the sea is the scene that symbolizes the Hamaori Festival. The bearers advance to the water''s edge with the shrines on their shoulders and cleanse both the shrines and themselves with seawater. It is the moment when the festival''s essential meaning of purifying defilement through the power of the sea appears most vividly, and the sight of the shrines entering the sea amid the spray draws many spectators.
+
+**The Cry of the Soshu Shrine** The cry dokkoi, dokkoi is unique to Soshu-style shrine bearing and sustains the fervor of the Hamaori Festival. The Soshu manner of bearing, swinging the shrine greatly up and down, is spirited, and the cry echoing across the sands together with the unity of the bearers fills the dawn coast with the exhilaration of the festival.
+
+**The Assembly of Some Forty Shrines** The sight of about forty portable shrines gathering together from the thirty-four shrines of Samukawa and Chigasaki is a scale rarely seen elsewhere. The distinctive shrines of each community standing ranged upon the sands make a magnificent view, and there is also the pleasure of comparing the differences in the decoration of the shrines and the manner of bearing handed down in each locality.
+
+**The Joint Festival** From seven in the morning, the joint festival of the Hamaori Festival is conducted before the assembled shrines. In this rite performed jointly by many shrines, prayers are offered for the development of local industry and for safety at sea. It is precisely this joint festival, in which the shrines transcend their individual bounds to offer prayer as a single festival, that conveys to the present day the form of the Hamaori Festival handed down since the Meiji era.
+
+**The Otabisho Rite and the Return** After the joint festival, around ten fifteen in the morning the otabisho rite is conducted, and the shrines set out on their return to each shrine. The sight of a festival that began before dawn coming full circle within the morning, with the bearers reluctantly leaving the beach, is a deeply impressive scene where the start of a summer day and the lingering afterglow of the festival cross paths.
+
+## Event Information
+
+- Date: Early morning of Marine Day, the third Monday of July, each year (July 20 in 2026)
+- Venue: Nishihama Beach, Chigasaki (west of Chigasaki Fishing Port)
+- Main Flow: Departure rite around 2:30 a.m. at Samukawa Shrine, first shrine entering around 4:00 a.m., the joint festival from 7:00 a.m., and the otabisho rite around 10:15 a.m.
+- Participating Shrines: Thirty-four shrines of Samukawa town and Chigasaki city
+- Number of Shrines: About forty of all sizes
+- Cultural Property: Intangible Folk Cultural Property of Kanagawa Prefecture (designated 1978); chosen among the Fifty Selected Festivals of Kanagawa
+
+## Related Events and Nearby Places
+
+One of the central bearers of the Hamaori Festival is Samukawa Shrine, known as the first shrine of Sagami Province. It is an ancient shrine that draws wide faith as the only guardian deity of happo-yoke, protection from misfortune in all directions, in the country, and at the Hamaori Festival the departure rite is conducted there around 2:30 a.m. before the shrine heads for the beach. It is a famous shrine visited by many worshippers on days other than the festival as well, and not a few people visit it together with the Hamaori Festival.
+
+Tsurumine Hachimangu in Chigasaki is one of the shrines that sends a portable shrine to the Hamaori Festival, and as the tutelary shrine of Shonan Chigasaki it is regarded as a heartland of Hachiman faith. With its long approach and its historic hall, it has long been cherished as the local guardian deity. Through the Hamaori Festival, one can sense the connection between such local shrines and life by the sea.
+
+Nishihama Beach, the venue, is one of the representative beaches of Shonan and is crowded with many bathers in summer. On the day of the festival, the sands are filled with portable shrines, bearers, and spectators, and the beach is transformed into a festival space utterly different from its everyday self. Being able to savor the sea and the festival at once in the clear air of early morning is a charm unique to this festival.
+
+## Related Information
+
+- Month: July (Marine Day, the third Monday)
+- Prefecture and Region: Chigasaki, Kanagawa Prefecture; Kanto region
+- Origin: A seaside purification rite; from the twenty-ninth day of the sixth lunar month to July 15 in 1876, and now on Marine Day
+- Scale: Thirty-four shrines and about forty portable shrines gather on Nishihama Beach in Chigasaki
+- Cultural Property: Intangible Folk Cultural Property of Kanagawa Prefecture (designated 1978); Fifty Selected Festivals of Kanagawa
+- Features: A dawn festival known for the shrines entering the sea in purification and for the dokkoi cry of Soshu-style shrine bearing','hamaori-sai','hamaori-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11565005','ネブタ流し','Namerikawa Nebuta Nagashi','滑川市の祭事',NULL,'Q823513','滑川市','Namerikawa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E3%81%AE%E3%83%8D%E3%83%96%E3%82%BF%E6%B5%81%E3%81%97',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11563560','湯布院映画祭','Yufuin Film Festival',NULL,NULL,'Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,1976,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B8%83%E9%99%A2%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11550984','江戸三大祭り','Three Great Festivals of Edo','東京都で行われる3つの大きなお祭り。神田祭、山王祭、深川祭。',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E4%B8%89%E5%A4%A7%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
