@@ -15053,15 +15053,111 @@ Heading farther south, one can also visit sites distinctive to southern Okinawa,
 - **Organizer**: The Tomigusuku Hari Tournament is sponsored by the Tomigusuku Dragon Boat Association (since 2008).
 - **Related events**: The Itoman Haree and Naha Hari, among other hari (dragon-boat races) across Okinawa, all share the character of a sea rite praying for safe voyages and good catches.','tomigusuku-hari','tomigusuku-hari',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11636486','越後三大花火',NULL,'新潟県内で行われる3つの花火大会 (ぎおん柏崎まつり、長岡まつり、片貝まつり) の総称',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%BE%8C%E4%B8%89%E5%A4%A7%E8%8A%B1%E7%81%AB',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11644507','采女祭','Uneme Matsuri','奈良県奈良市の采女神社の例祭',NULL,'Q22118013','采女神社','Uneme Shrine','奈良県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Uneme%20Matsuri%20Festival%202015092702.jpg','https://ja.wikipedia.org/wiki/%E9%87%87%E5%A5%B3%E7%A5%AD',NULL,85,'drafted','采女祭（うねめまつり）は、奈良県奈良市の采女神社で、毎年中秋の名月の日に行われる例祭である。奈良公園内の猿沢池(さるさわのいけ)のほとりに鎮座する采女神社にまつわる悲恋の伝説に由来し、月明かりのもとで雅やかに営まれる、古都・奈良の秋を彩る幻想的な祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q11644507','采女祭','Uneme Matsuri','奈良県奈良市の采女神社の例祭',NULL,'Q22118013','采女神社','Uneme Shrine','奈良県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Uneme%20Matsuri%20Festival%202015092702.jpg','https://ja.wikipedia.org/wiki/%E9%87%87%E5%A5%B3%E7%A5%AD',NULL,85,'drafted','采女祭（うねめまつり）は、奈良市の猿沢池（さるさわいけ）のほとりで、毎年中秋の名月の日に斎行される祭りです。猿沢池畔に鎮座する采女神社（うねめじんじゃ）の例祭で、龍頭（りゅうとう）と鷁首（げきしゅ）の飾りをつけた二隻の管絃船（かんげんせん）が、雅楽の調べのなか名月に照らされた池を巡る幻想的な光景で知られています。
 
-この祭りは、奈良時代の悲しい物語に基づいている。帝(みかど)の寵愛を失ったことを嘆いた采女(うねめ・天皇に仕えた女官)が、猿沢池に身を投げて命を絶ったと伝えられる。その霊を慰めるために建てられたのが采女神社であり、入水した池を見るのが忍びないとして、社殿が池に背を向けて建っているという珍しい言い伝えも残る。
+この祭りは、奈良時代に天皇に仕えた采女（うねめ）の悲しい伝説にちなんでいます。天皇の寵愛が薄れたことを嘆いた采女が猿沢池に身を投じたと伝えられ、その霊を慰めるための行事として受け継がれてきました。中秋の名月という一年で最も美しい月の夜に、水面に浮かぶ管絃船と雅楽が織りなす情景は、古都奈良の秋を象徴する風物詩となっています。
 
-祭りの最大の見どころは、中秋の名月の夜に行われる「管絃船(かんげんぶね)の儀」である。雅楽が奏でられるなか、龍頭(りゅうとう)と鷁首(げきしゅ)の形をした2艘の豪華な船が、花扇(はなおうぎ)を乗せて猿沢池をゆっくりと巡る。水面に映る満月と提灯の灯り、そして雅楽の調べが織りなす光景は、平安絵巻さながらの優美さである。秋の夜長に繰り広げられるこの祭りは、古都に伝わる伝説と王朝文化の風雅を今に伝えている。','The Uneme Matsuri is the annual festival held on the night of the harvest moon each year at Uneme Shrine in Nara, Nara Prefecture. Deriving from a tragic love legend associated with Uneme Shrine, which stands beside Sarusawa Pond in Nara Park, it is known as a dreamlike festival coloring autumn in the ancient capital of Nara, elegantly held under the moonlight.
+## 歴史と由来
 
-This festival is based on a sorrowful tale from the Nara period. It is said that an uneme—a court lady serving the emperor—who grieved at losing the emperor''s affection, threw herself into Sarusawa Pond and ended her life. Uneme Shrine was built to console her spirit, and a curious legend remains that the shrine building stands with its back to the pond, as it could not bear to look upon the waters into which she cast herself.
+采女祭の由来は、平安時代中期の歌物語『大和物語』に伝わる采女伝説にさかのぼります。飛鳥時代から、地方の豪族がその娘を天皇家に献上する習慣があり、こうして宮中に仕えた女官を采女と呼びました。采女は天皇の身のまわりに奉仕する女性たちで、地方の名家の出であることが多く、宮廷における特別な存在でした。
 
-The festival''s greatest highlight is the "Kangen-bune rite" held on the night of the harvest moon. As gagaku court music plays, two ornate boats shaped with a dragon head and a mythical bird''s head slowly circle Sarusawa Pond, carrying a "hana-ōgi" flower fan. The scene woven by the full moon reflected on the water, the lantern light, and the strains of gagaku is as elegant as a Heian picture-scroll. Unfolding over the long autumn night, this festival conveys to the present the legend handed down in the ancient capital and the refinement of court culture.','uneme-matsuri','uneme-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+『大和物語』が伝えるところによれば、奈良時代、ある采女が天皇の寵愛を受けていましたが、やがてその寵愛が薄れていきました。深く嘆き悲しんだ采女は、ついに猿沢池に身を投げてしまったと伝えられています。この悲恋の物語は古くから人々の心に残り、采女の霊を慰めるための祭りが営まれるようになりました。
+
+猿沢池のほとりに鎮座する采女神社は、この采女の霊を祀る社で、春日大社の末社にあたります。この神社には特異な言い伝えがあり、池に身を投げた采女が、自らの入水した池を見るのは忍びないとして、社殿が池に背を向けて建てられたと伝えられています。池に背を向けた「後ろ向きの社」という珍しい姿は、采女への哀惜の念を今に伝えるものとして知られています。
+
+采女祭は、この采女神社の例祭として、毎年中秋の名月の日に催されてきました。中秋の名月に合わせて営まれるため、新暦での開催日は毎年変動します。満月の光のもとで采女の霊を鎮めるというこの祭りの趣向は、月と水と雅楽が一体となった王朝文化の美意識を今に伝えるものであり、古都奈良ならではの雅やかな秋祭りとして親しまれています。
+
+## 見どころ
+
+**管絃船の儀** 采女祭最大の見どころは、夜に猿沢池で行われる管絃船の儀です。龍頭と鷁首の飾りをつけた二隻の優雅な船が、雅楽の演奏が響き渡るなか、名月に照らされた池をゆるやかに巡ります。水面に映る月と船、そして流れる雅楽の調べが一体となった情景は、平安の王朝絵巻を思わせる幻想的な美しさをたたえています。
+
+**花扇を池に投じる神事** 管絃船の儀のクライマックスでは、采女の霊を鎮めるため、花扇（はなおうぎ）が池に投じられます。秋の草花で美しく飾られた花扇が水面に浮かぶさまは、采女への鎮魂の祈りを象徴する場面です。悲しい伝説を背景に持つこの所作には、静かで深い情感が込められています。
+
+**花扇奉納神事** 夕刻には、采女神社で春日大社の神職による厳かな例祭「花扇奉納神事」が営まれます。管絃船の儀に先立つこの神事は、祭りの中心をなす神事であり、采女の霊に花扇を奉納して祭りの無事を祈ります。古社ならではの荘厳な空気のなかで営まれる神事は、華やかな管絃船の儀とはまた異なる趣を持っています。
+
+**花扇奉納行列** 祭りの当日には、時代衣装をまとった花扇使（はなおうぎづかい）らが花扇を掲げ、三条通りなど奈良市内を練り歩く「花扇奉納行列」が繰り広げられます。平安の装束に身を包んだ行列が古都の街並みを進むさまは華やかで、沿道の人々の目を楽しませます。祭りの雅やかな雰囲気を街全体に広げる役割を担っています。
+
+**中秋の名月との調和** 采女祭は中秋の名月の日に催されるため、祭りそのものが月と深く結びついています。一年で最も美しいとされる満月の光のもとで、管絃船が池を巡り雅楽が流れる情景は、月をめでる日本の伝統的な美意識と采女伝説の哀切さが溶け合った、この祭りならではの魅力です。名月の夜という特別な設定が、祭りに一層の情緒を添えています。
+
+**猿沢池の情景** 舞台となる猿沢池は、興福寺の五重塔を望む奈良を代表する景勝地です。周囲を柳が縁取る池のほとりは、昼は多くの観光客が訪れる憩いの場ですが、采女祭の夜には管絃船と灯り、名月に照らされて幻想的な祭りの空間へと変わります。歴史ある池そのものが、この祭りの重要な舞台装置となっています。
+
+## 開催情報
+
+- 開催日: 毎年中秋の名月の日（旧暦八月十五日にあたり、新暦では毎年変動）
+- 会場: 猿沢池・采女神社（奈良市）
+- 主催: 采女神社（春日大社の末社）
+- 主な祭事: 花扇奉納神事（采女神社での例祭）→花扇奉納行列（奈良市内）→管絃船の儀（猿沢池・夜）
+- 管絃船: 龍頭・鷁首の飾りをつけた二隻の船が雅楽のなか池を巡る
+- 由来: 『大和物語』の采女伝説（天皇の寵愛を失った采女が猿沢池に入水）
+
+## 周辺の関連する行事と場所
+
+祭りの中心となる采女神社は、猿沢池のほとりに建つ春日大社の末社です。池に背を向けて建つ「後ろ向きの社」という珍しい姿で知られ、普段は静かにたたずむ小さな社ですが、采女祭の日には多くの人々が訪れます。采女伝説という物語を背負った神社として、奈良を訪れる人々の関心を集めています。
+
+猿沢池のすぐ近くには、世界遺産にも登録された興福寺があります。五重塔をはじめとする壮麗な伽藍を持つ古刹で、猿沢池越しに望む五重塔の姿は奈良を代表する景観として知られています。采女祭を訪れる際には、興福寺やその周辺の奈良公園をあわせて巡ることで、古都の歴史と文化を存分に味わうことができます。
+
+猿沢池の一帯は、奈良公園の南端に位置し、春日大社や東大寺といった名だたる社寺へと続く古都の中心的なエリアです。鹿が行き交う奈良公園の風情や、ならまちと呼ばれる古い町並みも近く、采女祭とあわせて奈良の秋を堪能できる立地となっています。名月の夜に古都を訪れる特別な体験が、この祭りの大きな魅力です。
+
+## 関連情報
+
+- 開催月: 中秋の名月の日（旧暦八月十五日・新暦では毎年変動）
+- 都道府県・地域: 奈良県奈良市・近畿地方
+- 主催神社: 采女神社（春日大社の末社・池に背を向けた後ろ向きの社）
+- 由来: 『大和物語』の采女伝説。天皇の寵愛を失った采女が猿沢池に入水したという悲話
+- 特色: 龍頭・鷁首の管絃船が名月の猿沢池を巡り、采女の霊を鎮めるため花扇を投じる
+- 関連: 飛鳥時代以来の采女（宮中に仕えた女官）の制度に由来する鎮魂の祭り','The Uneme Festival is held each year on the night of the harvest moon by Sarusawa Pond in the city of Nara. It is the annual festival of Uneme Shrine, which stands on the bank of Sarusawa Pond, and it is known for the enchanting sight of two elegant boats adorned with the figures of a dragon head and a legendary water bird gliding across the moonlit pond amid the strains of gagaku court music.
+
+This festival is connected with the sorrowful legend of an uneme, a court lady who served the Emperor in the Nara period. It is said that an uneme, lamenting that the Emperor''s affection for her had faded, threw herself into Sarusawa Pond, and the festival has been handed down as a rite to console her spirit. On the night of the harvest moon, the most beautiful moon of the year, the scene woven by the boats floating on the water and the gagaku music has become a seasonal tradition symbolizing autumn in the ancient capital of Nara.
+
+## History and Origins
+
+The origin of the Uneme Festival traces back to the legend of the uneme handed down in the Yamato Monogatari, a poem-tale of the mid-Heian period. From the Asuka period there was a custom by which provincial nobles presented their daughters to the imperial house, and the court ladies who thus served in the palace were called uneme. The uneme were women who attended to the Emperor''s personal needs, often from distinguished provincial families, and they held a special place at court.
+
+According to the Yamato Monogatari, in the Nara period a certain uneme enjoyed the Emperor''s affection, but in time that affection faded. Grieving deeply, the uneme at last threw herself into Sarusawa Pond, so the tale relates. This story of tragic love long remained in people''s hearts, and a festival came to be held to console the spirit of the uneme.
+
+Uneme Shrine, which stands on the bank of Sarusawa Pond, is the shrine that enshrines the spirit of this uneme, and it is a subordinate shrine of Kasuga Taisha. The shrine has a distinctive tradition: it is said that because the uneme who threw herself into the pond could not bear to look upon the very pond into which she had cast herself, the shrine building was constructed facing away from the pond. This rare form of a shrine turned away from the water is known as conveying to the present the sense of grief and affection for the uneme.
+
+The Uneme Festival has been held as the annual festival of this Uneme Shrine on the night of the harvest moon each year. Because it is held to coincide with the harvest moon, its date on the modern calendar varies from year to year. The conceit of this festival, in which the spirit of the uneme is consoled beneath the light of the full moon, conveys to the present the aesthetic sense of court culture in which moon, water, and gagaku are united, and it is cherished as an elegant autumn festival unique to the ancient capital of Nara.
+
+## Highlights
+
+**The Rite of the Music Boats** The greatest highlight of the Uneme Festival is the rite of the music boats performed at night on Sarusawa Pond. Two graceful boats adorned with the figures of a dragon head and a legendary water bird glide slowly across the moonlit pond amid the resounding performance of gagaku. The scene in which the moon reflected on the water, the boats, and the flowing strains of gagaku are united holds an enchanting beauty reminiscent of a Heian court picture scroll.
+
+**Casting the Flower Fan into the Pond** At the climax of the rite of the music boats, a flower fan is cast into the pond to console the spirit of the uneme. The sight of the flower fan, beautifully adorned with autumn grasses and flowers, floating on the water is a scene that symbolizes the prayer of repose for the uneme. This act, set against the background of a sorrowful legend, is imbued with a quiet and deep emotion.
+
+**The Rite of Offering the Flower Fan** In the evening, the solemn annual rite of offering the flower fan is conducted at Uneme Shrine by priests of Kasuga Taisha. Preceding the rite of the music boats, this rite forms the heart of the festival, offering a flower fan to the spirit of the uneme and praying for the festival to pass without incident. Conducted amid the solemn air unique to an ancient shrine, it has a character distinct from the splendid rite of the music boats.
+
+**The Procession Offering the Flower Fan** On the day of the festival, a procession unfolds in which bearers of the flower fan clad in period costume hold the fan aloft and parade through the streets of Nara, including Sanjo-dori. The sight of a procession in Heian-era dress advancing through the streets of the ancient capital is splendid and delights the eyes of people along the route. It plays the role of spreading the elegant atmosphere of the festival throughout the town.
+
+**Harmony with the Harvest Moon** Because the Uneme Festival is held on the night of the harvest moon, the festival itself is deeply bound up with the moon. Beneath the light of the full moon said to be the most beautiful of the year, the scene of the music boats crossing the pond and the gagaku flowing is a charm unique to this festival, in which the traditional Japanese aesthetic of moon-viewing and the pathos of the uneme legend blend together. The special setting of the night of the harvest moon lends the festival an even deeper emotion.
+
+**The Scenery of Sarusawa Pond** Sarusawa Pond, the stage of the festival, is a scenic spot representative of Nara, commanding a view of the five-story pagoda of Kofuku-ji. The bank of the pond, fringed with willows, is a place of rest visited by many sightseers by day, but on the night of the Uneme Festival it is transformed into an enchanting festival space illuminated by the music boats, the lanterns, and the harvest moon. The historic pond itself serves as an important stage setting of this festival.
+
+## Event Information
+
+- Date: The night of the harvest moon each year (the fifteenth night of the eighth lunar month; varies on the modern calendar)
+- Venue: Sarusawa Pond and Uneme Shrine (Nara City)
+- Host: Uneme Shrine (a subordinate shrine of Kasuga Taisha)
+- Main Rites: The rite of offering the flower fan at Uneme Shrine, the procession offering the flower fan through Nara, and the rite of the music boats on Sarusawa Pond at night
+- Music Boats: Two boats adorned with a dragon head and a legendary water bird cross the pond amid gagaku
+- Origin: The uneme legend of the Yamato Monogatari (a court lady who lost the Emperor''s affection threw herself into Sarusawa Pond)
+
+## Related Events and Nearby Places
+
+Uneme Shrine, the heart of the festival, is a subordinate shrine of Kasuga Taisha standing on the bank of Sarusawa Pond. Known for its rare form of a shrine turned away from the pond, it is usually a small, quiet shrine, but on the day of the Uneme Festival many people visit it. As a shrine bearing the story of the uneme legend, it draws the interest of those who visit Nara.
+
+Very close to Sarusawa Pond stands Kofuku-ji, which is registered as a World Heritage Site. It is an ancient temple with magnificent halls including its five-story pagoda, and the view of the pagoda across Sarusawa Pond is known as a scene representative of Nara. When visiting the Uneme Festival, by touring Kofuku-ji and the surrounding Nara Park together, one can fully savor the history and culture of the ancient capital.
+
+The area around Sarusawa Pond lies at the southern edge of Nara Park and is a central district of the ancient capital leading to famous shrines and temples such as Kasuga Taisha and Todai-ji. With the charm of Nara Park where deer come and go, and the old townscape called Naramachi nearby, it is a location where one can enjoy autumn in Nara together with the Uneme Festival. The special experience of visiting the ancient capital on the night of the harvest moon is a great charm of this festival.
+
+## Related Information
+
+- Month: The night of the harvest moon (the fifteenth of the eighth lunar month; varies on the modern calendar)
+- Prefecture and Region: Nara City, Nara Prefecture; Kinki region
+- Host Shrine: Uneme Shrine (a subordinate shrine of Kasuga Taisha; a shrine turned away from the pond)
+- Origin: The uneme legend of the Yamato Monogatari; the sorrowful tale of a court lady who lost the Emperor''s affection and threw herself into Sarusawa Pond
+- Features: Music boats with a dragon head and a legendary water bird cross the moonlit Sarusawa Pond, and a flower fan is cast to console the spirit of the uneme
+- Related: A rite of repose deriving from the institution of the uneme, court ladies who served in the palace since the Asuka period','uneme-matsuri','uneme-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の誕生日を祝う祭り（灌仏会）に対する日本語の名称。名称の発生は明治期','Buddha''s birthday festival in Japan',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/A%20birthday%20of%20Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG',NULL,NULL,70,'drafted','## 概要
 
 花祭り（はなまつり）は、釈迦（しゃか）の誕生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合もある）に、全国の寺院で営まれる。色とりどりの花で飾った小さなお堂「花御堂（はなみどう）」の中に、誕生したばかりの釈迦の姿をかたどった「誕生仏（たんじょうぶつ）」を安置し、参拝者がその誕生仏に甘茶（あまちゃ）をそそいで祝うのが、この行事の中心である。「花祭り」という呼び名は明治期に生まれたとされ、それ以前は灌仏会・仏生会（ぶっしょうえ）・降誕会（ごうたんえ）などと呼ばれていた。春の花が咲き誇る季節に、仏教の開祖である釈迦の誕生を、花とともに祝う、心和む行事である。
