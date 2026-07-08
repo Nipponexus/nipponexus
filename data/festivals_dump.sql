@@ -14864,15 +14864,125 @@ Chiryu also enjoys good access to the Nagoya area and to various parts of the Mi
 INSERT INTO "festivals" VALUES('Q11602875','筑波山梅まつり',NULL,NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603787','篠田の花火',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%8A%B1%E7%81%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11604063','米子がいな祭',NULL,NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%AD%90%E3%81%8C%E3%81%84%E3%81%AA%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11581335','盛岡さんさ踊り','Morioka Sansa Odori','岩手県盛岡市にて行われる祭り','festival in Morioka, Japan','Q11363800','中央通り','Central Avenue','岩手県','tohoku',NULL,NULL,1978,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sansa%20Odori%202.JPG','https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E3%81%95%E3%82%93%E3%81%95%E8%B8%8A%E3%82%8A',NULL,85,'drafted','盛岡さんさ踊り（もりおかさんさおどり）は、岩手県盛岡市で毎年8月初旬に開催される夏祭りで、東北の夏を彩る代表的な祭りの一つである。1978年(昭和53年)に現在の形で始まり、市の中央通りを舞台に、太鼓・笛・踊り手が一体となって繰り広げる華やかなパレードが見どころである。
+INSERT INTO "festivals" VALUES('Q11581335','盛岡さんさ踊り','Morioka Sansa Odori','岩手県盛岡市にて行われる祭り','festival in Morioka, Japan','Q11363800','中央通り','Central Avenue','岩手県','tohoku',NULL,NULL,1978,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sansa%20Odori%202.JPG','https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E3%81%95%E3%82%93%E3%81%95%E8%B8%8A%E3%82%8A',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、なんといっても「太鼓」の数である。和太鼓を打ち鳴らしながら踊る「太鼓パレード」は、その参加太鼓数の多さで知られ、「世界一の太鼓パレード」としてギネス世界記録に認定されたこともある。数千個の太鼓が一斉に打ち鳴らされる重低音は腹の底に響き、笛の音色と踊り手の優美な所作が織りなす光景は壮観である。
+盛岡さんさ踊り（もりおかさんさおどり）は、岩手県盛岡市で毎年八月一日から四日までの四日間にわたって行われる、東北を代表する夏祭りの一つです。青森ねぶた祭・秋田竿燈まつり・仙台七夕まつりと並ぶ東北の夏の風物詩として広く知られ、盛岡市中央通を舞台に、太鼓・笛・踊り手が一体となった華やかなパレードが繰り広げられます。「サッコラチョイワヤッセ」の掛け声とともに、色鮮やかな衣装をまとった踊り手が優美に舞い、無数の太鼓が地響きのように鳴り渡る光景は、盛岡の夏の夜を熱気で包み込みます。
 
-「さんさ踊り」の名は、岩手に伝わる伝説に由来する。人々を苦しめた鬼を神が退治し、鬼が二度と悪さをしないと誓った証に岩に手形を押したという「三ツ石伝説」がその起源とされ、これが「岩手」の県名の由来とも言われる。鬼の退散を喜んだ人々が「さんさ、さんさ」と踊ったことが祭りの始まりと伝えられる。みちのくの短い夏に、踊り手のかけ声「サッコラチョイワヤッセ」が響き渡るこの祭りは、盛岡の人々の躍動と歓喜を映し出している。','The Morioka Sansa Odori is a summer festival held in early August each year in Morioka, Iwate Prefecture, one of the representative festivals coloring summer in the Tōhoku region. Beginning in its current form in 1978, its highlight is a dazzling parade staged along the city''s Central Avenue, where drums, flutes, and dancers move as one.
+この祭りの最大の特色は、和太鼓の同時演奏です。二〇〇七年には「和太鼓同時演奏者数」でギネス世界記録に認定され、その後の記録更新をへて、二〇一四年には再び世界一を奪還しました。以来「世界一の太鼓大パレード」を掲げ、老若男女の敲き手による「一万太鼓の群舞」が祭りの象徴となっています。優雅な踊りと勇壮な太鼓が融合したこの祭りには、四日間で多くの見物客が国内外から訪れ、街全体が踊りと囃子に沸き立ちます。
 
-The festival''s greatest distinction is, above all, the sheer number of drums. The "drum parade," in which performers dance while beating Japanese taiko, is known for the vast number of participating drums and has been certified by Guinness World Records as the "world''s largest taiko drum parade." The deep bass of thousands of drums struck in unison resonates in the pit of the stomach, and the spectacle woven by the sound of flutes and the graceful movements of the dancers is magnificent.
+## 歴史と由来
 
-The name "Sansa Odori" derives from a legend handed down in Iwate. Its origin is said to lie in the "Mitsuishi (Three Rocks) Legend," in which a deity vanquished a demon that had tormented the people, and the demon pressed its handprint onto a rock as a pledge never to do harm again—said also to be the origin of the prefecture''s name "Iwate" (meaning "rock hand"). The people, rejoicing at the demon''s banishment, are said to have danced crying "sansa, sansa," marking the festival''s beginning. With the dancers'' chant of "sakkora choiwa yasse" echoing through the short Tōhoku summer, this festival reflects the vitality and joy of the people of Morioka.','morioka-sansa-odori','morioka-sansa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+さんさ踊りそのものの起源は藩政時代にさかのぼり、盛岡市名須川町にある三ツ石神社が発祥の地とされています。三ツ石神社には「三ツ石伝説」と呼ばれる鬼退治の物語が伝わっており、これがさんさ踊りの由来として語り継がれてきました。この伝説は、盛岡という土地の名の由来とも深く結びついており、単なる踊りの起源譚にとどまらない地域のアイデンティティの根幹をなしています。
+
+伝説によれば、その昔、盛岡には羅刹（らせつ）という鬼が現れて人々を苦しめていました。困り果てた里人が三ツ石神社の神に祈願したところ、神はその願いを聞き入れて悪鬼を捕らえ、二度と悪さをしないという誓いの証として、境内にそびえる三つの巨大な岩（三ツ石）に鬼の手形を押させたといいます。岩に手形が残されたことから、この地が「岩手」と呼ばれるようになったとも伝えられ、県名の由来としても知られています。
+
+鬼が二度と現れないと約束して去ったことに人々は大いに喜び、三ツ石の周りを「さんささんさ」と唱えながら踊り回ったのが、さんさ踊りの始まりとされています。こうして農民や町人の間で受け継がれてきた素朴な民俗舞踊が、地域ごとに多様な流派を生みながら、長い年月をかけて盛岡の暮らしに根づいていきました。祈りと感謝、そして厄除けの意味を込めた踊りは、世代を超えて伝承されてきたのです。
+
+パレードを中心とする現在の大規模な祭りの形が始まったのは、一九七八年（昭和五十三年）のことでした。それまで各地に伝わっていたさんさ踊りを一つの祭りとして統合し、市街地でのパレード形式に発展させたことで、盛岡さんさ踊りは飛躍的に規模を拡大しました。歴史はやや浅いながらも、太鼓の同時演奏でのギネス世界記録達成など話題性のある取り組みを重ね、いまや東北屈指の夏祭りへと成長を遂げています。
+
+## 見どころ
+
+**世界一の太鼓大パレード**
+盛岡さんさ踊りの象徴が、無数の和太鼓が一斉に打ち鳴らされる大パレードです。二〇〇七年に「和太鼓同時演奏者数」でギネス世界記録に認定され、二〇一四年には世界一を奪還しました。「一万太鼓の群舞」と称される地響きのような太鼓の轟きは、体の芯まで響きわたり、観客を圧倒します。
+
+**優美な踊り手の群舞**
+色鮮やかな衣装に身を包んだ踊り手たちが、太鼓と笛の囃子にあわせて優雅に舞う姿は、この祭りのもう一つの見どころです。しなやかな手さばきと軽やかな足取りが揃った群舞は美しく、勇壮な太鼓とは対照的な優美さで祭りに彩りを添えます。
+
+**「サッコラチョイワヤッセ」の掛け声**
+踊りに欠かせないのが、独特の「サッコラチョイワヤッセ」という掛け声です。この掛け声には福を呼び込む意味が込められているとされ、踊り手と観客が一体となって声を響かせることで、会場の熱気は最高潮に達します。耳に残るこのリズムは、盛岡の夏の音として親しまれています。
+
+**ミスさんさ踊りと太鼓連**
+祭りを華やかに先導するミスさんさ踊りや、統率のとれた太鼓連の演奏も見逃せません。各参加団体が趣向を凝らした隊列を組み、老若男女の敲き手が一体となって行進する様子には、地域が総出で祭りを支える熱意が表れています。
+
+**伝統さんさ踊りの披露**
+現代的なパレードとともに、各地区に古くから伝わる伝統的なさんさ踊りが披露されるのも魅力です。地域ごとに異なる振り付けや節回しには、統合前のさんさ踊りが持っていた多様な流派の面影が残されており、民俗芸能としての奥行きを感じさせます。
+
+**夏の夜を彩る熱気**
+四日間にわたって夕刻から夜にかけて行われるパレードは、夏の夜空の下で繰り広げられる光と音の饗宴です。日が暮れるにつれて増していく太鼓の熱気と踊りの高揚が、盛岡の街を非日常の空間へと変え、訪れる人々を魅了します。
+
+## 開催情報・アクセス
+
+- 開催地: 岩手県盛岡市
+- 会場: 中央通（岩手県公会堂前〜映画館通り）を主会場とする市街地
+- 開催時期: 毎年八月一日〜四日（パレードは十八時開始）
+- 雨天時: 盛岡市民文化ホール（マリオス）などで対応
+- アクセス: JR「盛岡駅」から会場まで徒歩圏
+- 主催・問い合わせ: 盛岡さんさ踊り実行委員会（盛岡商工会議所内）
+
+## 周辺の見どころ
+
+さんさ踊り発祥の地とされる三ツ石神社は、盛岡市名須川町にあり、東顕寺の裏手に三つの巨大な花崗岩が立ち並んでいます。鬼の手形伝説の舞台であり、「岩手」という地名の由来の地としても知られるこの神社は、祭りの起源にふれることができる特別な場所です。祭り見物とあわせて訪れれば、盛岡さんさ踊りの物語をより深く味わうことができます。
+
+盛岡は北上川と中津川が流れる城下町で、市内には盛岡城跡公園（岩手公園）をはじめとする歴史的な名所が点在しています。趣ある町並みや石割桜などの名木、地元で愛されるわんこそばや冷麺、じゃじゃ麺といった盛岡三大麺も、祭りの季節の楽しみを一層豊かにしてくれます。
+
+また盛岡は東北新幹線の主要駅であり、周辺には花巻温泉郷や小岩井農場、宮沢賢治ゆかりの地など見どころが広がっています。夏の東北を巡る旅の拠点として、盛岡さんさ踊りは東北三大祭とあわせて訪れる価値のある祭りとなっています。
+
+## 関連情報
+
+- 開催月: 八月（夏）
+- 都道府県・地域: 岩手県盛岡市・東北地方
+- 起源: 藩政時代の三ツ石神社「三ツ石伝説」に由来
+- 現行祭りの開始: 一九七八年（昭和五十三年）にパレード形式で本格化
+- 記録: 二〇〇七年に和太鼓同時演奏者数でギネス世界記録・二〇一四年に世界一奪還','## Overview
+
+The Morioka Sansa Odori is one of the leading summer festivals of the Tohoku region, held over four days from August 1 to 4 each year in Morioka City, Iwate Prefecture. Widely known as one of the great summer traditions of Tohoku alongside the Aomori Nebuta Festival, the Akita Kanto Festival, and the Sendai Tanabata Festival, it unfolds along Chuo-dori in central Morioka as a splendid parade uniting drummers, flute players, and dancers. To the shout of Sakkora Choiwa Yasse, dancers in vividly colored costumes move with grace while countless drums resound like a rolling of the earth, filling the summer nights of Morioka with heat and excitement.
+
+The greatest feature of this festival is its simultaneous drumming. In 2007, it was certified by Guinness World Records for the largest number of people playing Japanese drums at once, and after subsequent record changes it reclaimed the world title in 2014. Since then, under the banner of the world''s greatest drum parade, the grand dance of ten thousand drums, performed by drummers young and old, has become the symbol of the festival. Blending elegant dancing with valiant drumming, the festival draws many spectators from Japan and abroad over four days, and the whole city seethes with dance and music.
+
+## History and Origins
+
+The origin of the Sansa Odori itself goes back to the domain era, and the Mitsuishi Shrine in Nasukawa-cho, Morioka City, is regarded as its birthplace. Mitsuishi Shrine preserves a tale of demon subjugation known as the Legend of the Three Rocks, which has been handed down as the origin of the Sansa Odori. This legend is also deeply connected to the origin of the very name of the region, forming a core of local identity that goes beyond a mere account of a dance''s beginnings.
+
+According to the legend, long ago a demon called Rasetsu appeared in Morioka and tormented the people. At their wits'' end, the villagers prayed to the deity of Mitsuishi Shrine. The deity granted their wish, captured the evil demon, and made it press its handprints upon the three great rocks, the Mitsuishi, standing within the precincts as a pledge that it would never do evil again. Because handprints were left on the rocks, it is said that the land came to be called Iwate, meaning rock hands, and this is known as one account of the origin of the prefecture''s name.
+
+Overjoyed that the demon had promised never to appear again and had departed, the people danced around the three rocks chanting Sansa Sansa, and this is said to be the beginning of the Sansa Odori. Thus a simple folk dance, handed down among farmers and townspeople, took root in the life of Morioka over long years, giving rise to diverse local styles. Imbued with meanings of prayer, gratitude, and the warding off of misfortune, the dance has been transmitted across the generations.
+
+The present large-scale form of the festival, centered on a parade, began in 1978. By integrating the various Sansa dances handed down in different areas into a single festival and developing them into a parade format through the city center, the Morioka Sansa Odori dramatically expanded in scale. Though its history is relatively short, it has grown into one of the foremost summer festivals of Tohoku through attention-grabbing efforts such as achieving a Guinness World Record for simultaneous drumming.
+
+## Highlights
+
+**The World''s Greatest Drum Parade**
+The symbol of the Morioka Sansa Odori is the grand parade in which countless Japanese drums are struck all at once. In 2007 it was certified by Guinness World Records for the largest number of people playing drums simultaneously, and in 2014 it reclaimed the world title. The thunder of drums called the grand dance of ten thousand drums resounds to the core of the body and overwhelms the spectators.
+
+**The Graceful Dance of the Performers**
+Another highlight is the sight of dancers clad in vividly colored costumes moving elegantly to the music of drums and flutes. The unified group dance, with supple hand movements and light footsteps, is beautiful, adding a grace that contrasts with the valiant drumming to color the festival.
+
+**The Shout of Sakkora Choiwa Yasse**
+Indispensable to the dance is the distinctive shout of Sakkora Choiwa Yasse. This cry is said to carry the meaning of inviting good fortune, and as dancers and spectators raise their voices together, the excitement of the venue reaches its peak. This memorable rhythm is cherished as a sound of Morioka''s summer.
+
+**Miss Sansa Odori and the Drum Corps**
+The Miss Sansa Odori who splendidly lead the festival, and the well-disciplined performances of the drum corps, are also not to be missed. Each participating group forms a procession with its own ingenuity, and the way drummers of all ages march as one reveals the passion of a community that supports the festival with all its members.
+
+**Performances of Traditional Sansa Dances**
+Along with the modern parade, the display of traditional Sansa dances handed down since ancient times in each district is another attraction. The choreography and melodies that differ from area to area preserve traces of the diverse styles the Sansa Odori had before its integration, conveying the depth of a folk performing art.
+
+**The Heat that Colors the Summer Nights**
+The parades, held from evening into night over four days, are a feast of light and sound unfolding under the summer sky. The heat of the drums and the exhilaration of the dance, mounting as the day darkens, transform the city of Morioka into an extraordinary space that captivates all who visit.
+
+## Access and Information
+
+- Location: Morioka City, Iwate Prefecture
+- Venue: The city center with Chuo-dori (from in front of the Iwate Prefectural Public Hall to Eigakan-dori) as the main site
+- Dates: August 1 to 4 each year (parade begins at 6 p.m.)
+- In case of rain: Handled at venues such as the Morioka Civic Cultural Hall (Marios)
+- Access: Within walking distance from JR Morioka Station to the venue
+- Organizer and inquiries: Morioka Sansa Odori Executive Committee (within the Morioka Chamber of Commerce and Industry)
+
+## Around the Area
+
+Mitsuishi Shrine, regarded as the birthplace of the Sansa Odori, is located in Nasukawa-cho, Morioka City, where three enormous granite rocks stand behind Tokenji Temple. As the setting of the demon handprint legend and the place said to be the origin of the name Iwate, this shrine is a special site where one can touch the origins of the festival. Visiting it together with the festival allows a deeper appreciation of the story of the Morioka Sansa Odori.
+
+Morioka is a former castle town through which the Kitakami and Nakatsu rivers flow, and historic sites such as Morioka Castle Site Park (Iwate Park) are scattered throughout the city. The charming townscape, famous trees such as the Ishiwari-zakura cherry that splits a rock, and the locally beloved three great noodles of Morioka, wanko soba, reimen, and jajamen, further enrich the pleasures of the festival season.
+
+Morioka is also a major station on the Tohoku Shinkansen, and around it spread attractions such as the Hanamaki hot spring resorts, Koiwai Farm, and places connected to the poet Kenji Miyazawa. As a base for a journey through the Tohoku summer, the Morioka Sansa Odori is a festival well worth visiting together with the three great festivals of Tohoku.
+
+## Related Information
+
+- Month: August (summer)
+- Prefecture and region: Morioka City, Iwate Prefecture, Tohoku region
+- Origins: Derived from the Legend of the Three Rocks at Mitsuishi Shrine in the domain era
+- Start of the current festival: Fully established in parade form in 1978
+- Records: Guinness World Record for simultaneous drum players in 2007, world title reclaimed in 2014','morioka-sansa-odori','morioka-sansa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11611763','胡子講','Ebisukō','広島市中区の胡子神社で開かれる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Ebisu%20street.jpg','https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B',NULL,85,'drafted','胡子講（えびすこう）は、広島県広島市中区の胡子神社で毎年11月に行われる祭りで、商売繁盛を祈願する広島最大の祭りの一つとして知られる。「えべっさん」の愛称で親しまれ、毎年11月18日から20日までの3日間にわたって開催され、市内中心部の商店街は多くの参拝客と買い物客で大いに賑わう。
 
 胡子神社に祀られる胡子大神(えびすおおかみ)は、七福神の一柱「えびす様」として知られ、商売繁盛・福徳円満を授ける神として広く信仰を集めている。胡子講の期間中、参拝者は福を「かきこむ」とされる縁起物の熊手「こまざらえ」を買い求める。色とりどりの装飾が施された熊手を手に、新たな一年の商売繁盛を願う人々の姿は、晩秋の広島の風物詩となっている。
