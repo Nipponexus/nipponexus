@@ -8611,15 +8611,129 @@ INSERT INTO "festivals" VALUES('Q125612865',NULL,'Obuse Short Film Festival',NUL
 INSERT INTO "festivals" VALUES('Q125612854',NULL,'Yokohama Football Film Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q131826721',NULL,'International Ceramics Festival Mino',NULL,'ceramics triennale in Tajimi city, Mizunami city, Toki City, and Kani city of Gifu prefecture','Q819689','多治見市','Tajimi','岐阜県','chubu',NULL,NULL,1986,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q131701907','横濱漢祭 2025','Yokohama Otoko Matsuri 2025','2025年8月26日から8月28日まで横浜スタジアムで開催されたイベント',NULL,'Q1148681','横浜スタジアム','Yokohama Stadium','神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A8%AA%E6%BF%B1%E6%BC%A2%E7%A5%AD2025%E3%80%90JERA%20%E3%82%BB%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%B0%E5%85%AC%E5%BC%8F%E6%88%A6%E3%80%91%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20vs%20%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%2017%E5%9B%9E%E6%88%A6%20%E6%A8%AA%E6%B5%9C%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%202025%E5%B9%B48%E6%9C%8826%E6%97%A5%E3%81%AE%E6%A8%AA%E6%B5%9C%20202508261426%20IMG%204937.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q125894291','梵天まつり','Bonden','秋田県内各地で行われる祭事',NULL,'Q81863','秋田県','Akita Prefecture','秋田県','tohoku',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Bonden%20Dedication%20at%20Asahiokayama%20Shrine%20202402b.jpg','https://ja.wikipedia.org/wiki/%E6%A2%B5%E5%A4%A9%E3%81%BE%E3%81%A4%E3%82%8A_(%E7%A7%8B%E7%94%B0%E7%9C%8C)',NULL,85,'drafted','梵天まつり（ぼんでんまつり）は、秋田県内各地で小正月の頃に行われる伝統的な祭事である。「梵天(ぼんでん)」と呼ばれる色鮮やかな御幣(ごへい)を神社に奉納し、その年の五穀豊穣・無病息災・家内安全を祈願する、秋田の冬を代表する勇壮な祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q125894291','梵天まつり','Bonden','秋田県内各地で行われる祭事',NULL,'Q81863','秋田県','Akita Prefecture','秋田県','tohoku',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Bonden%20Dedication%20at%20Asahiokayama%20Shrine%20202402b.jpg','https://ja.wikipedia.org/wiki/%E6%A2%B5%E5%A4%A9%E3%81%BE%E3%81%A4%E3%82%8A_(%E7%A7%8B%E7%94%B0%E7%9C%8C)',NULL,85,'drafted','## 概要
 
-梵天とは、竹や木の先に大きな筒状の飾りをつけ、色とりどりの布や紙で華やかに装飾した巨大な御幣である。重さ数十キロにも及ぶ梵天を、揃いの法被や半纏(はんてん)をまとった担ぎ手たちが担ぎ上げ、「ジョヤサ、ジョヤサ」の威勢のよい掛け声とともに神社を目指す。なかでも秋田市の太平山三吉神社(たいへいざんみよしじんじゃ)の梵天祭りは特に有名で、各町内や団体から奉納される梵天が、先を競って社殿への到着一番を争う「梵天奉納祭」は、もみ合いながら進む熱気に満ちた光景で観衆を圧倒する。
+梵天まつり（ぼんでんまつり）は、秋田県各地で小正月の前後に行われる冬の伝統神事の総称です。「梵天（ぼんでん）」とは、神霊が降臨するための標示物・依代（よりしろ）を意味する大きな御幣形の飾りで、竿の先に籠を取り付け、色鮮やかな布や豪華な頭飾りを施したものを指します。町内や職場、団体ごとに製作した梵天を担ぎ、掛け声とともに神社を目指して奉納する光景は、雪深い秋田の冬を象徴する風物詩として広く知られています。奉納には五穀豊穣・家内安全・商売繁盛・産業発展・無病息災など、その年一年の幸を願うさまざまな祈りが込められています。
 
-雪深い秋田の冬、白銀の世界のなかで繰り広げられる梵天まつりは、厳しい寒さを吹き飛ばす男たちの熱気と、新年の幸福を願う人々の祈りに満ちている。豊かに飾られた梵天が雪空に映える光景は、東北の小正月行事ならではの華やかさと力強さを今に伝える、秋田の貴重な祭礼文化である。','Bonden Matsuri is a traditional festival held around the Little New Year in various places throughout Akita Prefecture. Dedicating colorful sacred wands called "bonden" at shrines and praying for that year''s abundant harvest, good health, and household safety, it is known as a spirited festival representative of Akita''s winter.
+秋田県の梵天まつりは一つの祭りではなく、地域ごとに独自の性格を持つ複数の行事の集合体です。代表的なものに、秋田市の太平山三吉神社で行われる「三吉梵天祭」、横手市の旭岡山神社に奉納される「横手のぼんでん」、大仙市大曲で雄物川を舟で渡る「川を渡るぼんでん」があります。いずれも先陣を競って激しく押し合いながら梵天を奉納する勇壮さと、頭飾りの華やかさを共通の特徴としながら、開催日・由来・奉納の作法にそれぞれの地域色が色濃く残されている点が興味深いところです。
 
-A bonden is a gigantic sacred wand made by attaching a large cylindrical ornament to the tip of bamboo or wood and decorating it gorgeously with colorful cloth and paper. Bearers in matching happi coats or hanten, hoisting bonden weighing tens of kilograms, head for the shrine to the rousing chant of "joyasa, joyasa." The Bonden Festival at Taiheizan Miyoshi Shrine in Akita City is especially famous: the "Bonden Dedication Festival," in which bonden dedicated by various neighborhoods and groups compete to be the first to reach the shrine building, overwhelms spectators with its fervent scene of jostling forward.
+## 歴史と由来
 
-In Akita''s deep-snow winter, the Bonden Matsuri, unfolding amid a silver-white world, is filled with the heat of men dispelling the harsh cold and the prayers of people wishing for happiness in the new year. The sight of richly adorned bonden standing out against the snowy sky conveys to this day the splendor and power unique to a Little New Year event of the Tōhoku region—a precious festival culture of Akita.','bonden-matsuri','bonden-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+梵天という言葉と形の起源については諸説あり、一つに定まってはいません。もともと祭りにあたって神霊が降臨するための依代である「ボデ」から出た言葉とされ、それが修験道の幣束である大梵天王と結びつき、やがて「梵天」という当て字で書かれるようになったと説明されています。幣は神々に献ずる最上の礼物を意味し、古くは絹・木綿・麻などが用いられていましたが、時代の変遷とともに今日のようなさまざまな布へと変わってきました。このように梵天まつりは、依代信仰と修験道の要素が融合しながら育まれてきた秋田固有の民俗行事です。
+
+秋田市の太平山三吉神社の三吉梵天祭は、江戸時代頃に始まったとされますが正確な開始年代は不詳です。御祭神である三吉霊神が力や勝負の神として信仰されてきたことから、その霊力にあやかろうと威勢よく先陣を競い、境内を激しくもみ合いながら奉納する勇壮さが際立ち、その力強さから「けんか梵天」の異名を持ちます。奉納される梵天数は毎年約80本と県内随一を誇り、拝観者も一体となって賑わう秋田市の冬の風物詩として定着しています。
+
+横手市の旭岡山神社に奉納される横手のぼんでんは、約300年の歴史を持つといわれる小正月行事です。文政四年（1821年）の神官宅火災で古い記録が焼失したため起源は定かではありませんが、弘化二年（1845年）に横手城主戸村十太夫が催した巻狩で火消しや火防組が用いた「まとい」の形が、現在の大型の梵天として受け継がれたとされます。かつては旧暦1月17日に奉納されていましたが、昭和27年から「かまくら」とともに新暦2月17日に改められ、昭和29年より雪まつりとして観光行事となりました。昭和34年からは頭飾りのでき栄えを競う「梵天コンクール」が、昭和55年からは地元の小学生が奉納する「小若ぼんでん」も加わり、行事の内容が豊かに広がってきました。
+
+大仙市大曲花館地区の「川を渡るぼんでん」は、160年以上続くとされる伝統行事です。かつて渡し舟でしか行くことのできなかった雄物川対岸の伊豆山神社へ梵天を奉納するため、舟で川を渡って参詣したことに由来します。昭和52年に大曲大橋が完成し翌年には渡し舟がなくなりましたが、昔からのなごりを大切にし、今なお舟で川を渡ってぼんでんを奉納する独特の姿を今日に伝えています。このように、同じ梵天まつりであっても、その土地の地理や歴史が奉納の作法を形づくってきたのです。
+
+## 見どころ
+
+**けんか梵天と呼ばれる先陣争い**  
+三吉梵天祭では、各団体が村札をかざし、ほら貝を轟かせ梵天唄を響かせながら神社を目指します。境内に近づくにつれて大きな押し合いの渦となり、自分たちの梵天を無事に奉納しようとする者と、他団体を妨害する者が入り乱れて先陣争いが最高潮に達します。その激しさこそが「けんか梵天」と呼ばれる所以であり、力の神・三吉霊神への信仰が生んだ勇壮な光景です。
+
+**豪華絢爛な頭飾りとコンクール**  
+横手のぼんでん最大の特徴は、他に類を見ないほど大型であることと、豪華な頭飾りにあります。梵天本体は4mの竿の先に直径90cmの籠を取り付け、友禅や絹、羽二重などの色鮮やかな「さがり」を垂らします。頭飾りはかつて町章や団体の徴章を模したものが多かったものが、現在では干支をかたどった軽く美しい飾りが競われるようになり、前日の梵天コンクールで技を披露する場が設けられています。
+
+**雄物川を舟で渡る奉納**  
+大曲の川を渡るぼんでんでは、梵天を担いだ担ぎ手たちが舟に乗り込み、冬の雄物川を渡って対岸の伊豆山神社を目指します。橋が架かった現代においてもあえて舟渡しの形を残す姿は他の梵天行事には見られないもので、川を彩る冬の風物詩として多くの見物客を集めます。
+
+**三吉節（梵天唄）の披露**  
+三吉梵天祭では、古くから太平山三吉神社に伝わる秋田民謡「三吉節（梵天唄）」が謡われます。梵天が神社を目指す道すがら、各団体の歌い手が「わたしゃ太平三吉のこども　人に押し負け大きらい」などの歌詞を高らかに披露し、祭りに独特の情趣を添えます。毎年1月には三吉節保存会による講習会も神社で行われ、唄の伝承が続けられています。
+
+**三角守をめぐる攻防**  
+三吉梵天祭では、梵天に付けられた「三角守」に強い霊力が宿るとされ、これを取ろうと拝観者が手を伸ばします。奉納者と拝観者が一体となって繰り広げる攻防は祭りの佳境であり、観る者も参加者となって熱気に巻き込まれていくのが梵天まつりならではの魅力です。
+
+**子供たちが担ぐ梵天**  
+近年の梵天まつりでは、大人だけでなく子供たちが担ぐ梵天も見どころとなっています。三吉梵天祭では子供会やスポーツ少年団による子供梵天が奉納され、横手では昭和55年から小学生中心の「小若ぼんでん」が加わりました。次世代へ行事を受け継ぐ地域の姿が、まつりの温かな一面を形づくっています。
+
+## 開催情報・アクセス
+
+- **三吉梵天祭**：太平山三吉神社総本宮（秋田県秋田市広面字赤沼3-2）／毎年1月17日／秋田駅からバスで約10分、秋田中央ICから車で約8分
+- **横手のぼんでん**：旭岡山神社（横手市大沢字上庭当田地内）ほか／毎年2月17日に梵天奉納、前日2月16日に梵天コンクール（横手市役所本庁舎前）
+- **川を渡るぼんでん**：大仙市花館地区〜雄物川〜伊豆山神社／毎年2月11日／JR大曲駅から車で約7分、秋田自動車道大曲ICから車で約10分
+- **時期**：いずれも小正月前後の冬（1月〜2月）に集中
+- **観覧**：屋外の無料観覧が基本。雪と寒さが厳しいため防寒具・滑りにくい靴が必須
+- **問合せ**：各神社・各市の観光協会（横手市観光協会 0182-33-7111 ほか）
+
+## 周辺の見どころ
+
+秋田市で三吉梵天祭を訪れる際は、総本宮のある太平山の自然や、秋田市中心部の千秋公園、久保田城跡などをあわせて巡るのがおすすめです。冬の秋田市では、きりたんぽをはじめとする郷土料理を味わえる店も多く、祭りの熱気で冷えた体を温めてくれます。
+
+横手のぼんでんは、同時期に開催される「横手のかまくら」と対をなす行事です。雪洞の中で水神様をまつる「静」のかまくらと、勇壮に押し合う「動」のぼんでんを一度の旅で体験できるのは、雪国横手ならではの醍醐味です。名物の横手やきそばも、まつり見物とあわせて楽しみたい味覚です。
+
+大仙市大曲は、夏の「大曲の花火」で全国に知られる花火のまちですが、冬には川を渡るぼんでんが雄物川を彩ります。周辺には温泉地も点在し、雪景色の中でゆっくりと湯に浸かりながら、冬の秋田の旅情を味わうことができます。
+
+## 関連情報
+
+- **開催時期**：1月〜2月（小正月前後の冬）
+- **地域**：秋田県（秋田市・横手市・大仙市など各地）
+- **主な奉納先**：太平山三吉神社（秋田市）、旭岡山神社（横手市）、伊豆山神社（大仙市）
+- **起源**：依代信仰と修験道が融合した秋田固有の特殊神事（江戸時代以前に遡るとされる）
+- **主な別称**：けんか梵天（三吉梵天祭）
+- **特色**：豪華な頭飾り、先陣を競う押し合い、三角守や梵天唄などの民俗要素
+','## Overview
+
+Bonden Matsuri is the collective name for a group of winter Shinto rituals held around the Little New Year in various places throughout Akita Prefecture. A bonden is a large sacred wand that serves as a marker and vessel (yorishiro) for a deity to descend into. Made by attaching a basket to the tip of a tall pole and decorating it with brightly colored cloth and lavish ornaments, the bonden is carried to a shrine and dedicated with rousing chants. The sight of these wands being borne through deep snow toward the shrine is one of the great symbols of winter in Akita. The dedication carries prayers for a bountiful harvest, family safety, prosperous business, industrial growth, and good health throughout the coming year.
+
+The Bonden Matsuri of Akita is not a single event but a cluster of local rituals, each with its own character. The most famous include the Miyoshi Bonden Festival at Taiheizan Miyoshi Shrine in Akita City, the Yokote Bonden dedicated at Asaokayama Shrine in Yokote City, and the Bonden That Crosses the River in the Omagari district of Daisen City, where wands are carried across a river by boat. All share the boldness of teams jostling fiercely for the lead as they dedicate their wands, along with the splendor of the ornamental crests, yet each retains strong regional differences in date, origin, and the manner of dedication.
+
+## History and Origins
+
+The origins of the word and form of the bonden are told in several ways and are not firmly settled. It is said to derive from the word bode, a vessel into which a deity descends during festivals, which later merged with Daibontenno, a ritual wand of Shugendo mountain asceticism, and eventually came to be written with the characters read as bonden. The offering wand signifies the finest gift presented to the gods; in ancient times silk, cotton, and hemp were used, but over the ages these gave way to the varied cloths seen today. In this way, Bonden Matsuri grew from a fusion of yorishiro belief and Shugendo elements into a folk ritual unique to Akita.
+
+The Miyoshi Bonden Festival at Taiheizan Miyoshi Shrine in Akita City is said to have begun sometime in the Edo period, though the exact starting year is unknown. Because the enshrined deity, Miyoshi-reijin, has long been revered as a god of strength and contest, dedicators compete boldly for the lead and jostle violently within the precincts to draw upon that power, earning the festival the nickname Kenka Bonden, or fighting bonden. With roughly 80 wands dedicated each year, it boasts the largest number in the prefecture and has become established as a winter tradition of Akita City in which spectators join wholeheartedly in the excitement.
+
+The Yokote Bonden, dedicated at Asaokayama Shrine in Yokote City, is a Little New Year event said to have some 300 years of history. Because old records were lost in an 1821 fire at the priest''s residence, its origins are uncertain, but it is said that the shape of the matoi standards carried by firefighting groups during a great hunt held by the lord Tomura Judayu in 1845 was handed down as today''s large bonden. Once dedicated on the old lunar calendar date of the 17th day of the first month, the event was moved to February 17 of the new calendar in 1952 and became a tourist snow festival from 1954. A Bonden Contest judging the ornaments was added in 1959, and from 1980 the Kowaka Bonden, dedicated mainly by local elementary school children, joined as well.
+
+The Bonden That Crosses the River in the Hanadate district of Omagari, Daisen City, is a tradition said to be more than 160 years old. It originated in the practice of crossing the Omono River by boat to dedicate wands at Izusan Shrine on the far bank, which could once be reached only by ferry. Although the Omagari Ohashi bridge was completed in 1977 and the ferry disappeared the following year, the community cherishes the old custom and to this day carries its bonden across the river by boat, preserving a distinctive scene. Thus, even within the same Bonden Matsuri, the geography and history of each place have shaped the manner of dedication.
+
+## Highlights
+
+**The fighting bonden and its scramble for the lead**  
+At the Miyoshi Bonden Festival, teams hold up their village placards and advance toward the shrine sounding conch shells and singing bonden songs. As they near the precincts, they merge into a great surging mass, and the scramble for the lead reaches its peak as some strive to dedicate their wands while others try to block rival teams. This intensity is the reason for the nickname Kenka Bonden, a rousing spectacle born of faith in Miyoshi-reijin, the god of strength.
+
+**Splendid ornaments and the contest**  
+The greatest feature of the Yokote Bonden is its unrivaled size and its gorgeous ornaments. The main body attaches a basket about 90 centimeters across to the tip of a four-meter pole, hung with colorful sagari of Yuzen dyeing, silk, and habutae. The crest ornaments, once modeled on town or group emblems, are now more often shaped after the animal of the zodiac year, light and beautiful, and their craftsmanship is shown off in the Bonden Contest held the day before.
+
+**Dedication by boat across the river**  
+At the Bonden That Crosses the River in Omagari, the bearers board a boat and cross the wintry Omono River to reach Izusan Shrine on the opposite bank. The choice to keep the ferry crossing even in an age of bridges is found in no other bonden event and draws many visitors as a winter scene coloring the river.
+
+**Performance of the Miyoshi-bushi bonden song**  
+At the Miyoshi Bonden Festival, the Akita folk song Miyoshi-bushi, long handed down at Taiheizan Miyoshi Shrine, is sung. As the wands make their way toward the shrine, each team''s singers ring out verses, adding a distinctive flavor to the festival. Every January, a workshop by the Miyoshi-bushi preservation society is also held at the shrine to keep the song alive.
+
+**The contest over the sankaku-mamori charm**  
+At the Miyoshi Bonden Festival, the sankaku-mamori triangular charm attached to the wands is believed to hold strong spiritual power, and spectators reach out to seize it. The struggle between dedicators and onlookers marks the climax of the festival, and the way viewers become participants is a charm unique to Bonden Matsuri.
+
+**Bonden carried by children**  
+In recent years, wands carried by children as well as adults have become a highlight. At the Miyoshi Bonden Festival, childrens groups and youth sports clubs dedicate their own wands, and in Yokote the Kowaka Bonden of elementary school children joined from 1980. This picture of a community passing the ritual to the next generation forms a warm side of the festival.
+
+## Event Information and Access
+
+- **Miyoshi Bonden Festival**: Taiheizan Miyoshi Shrine Head Shrine (3-2 Azanuma, Hiromote, Akita City) / every January 17 / about 10 minutes by bus from Akita Station, about 8 minutes by car from Akita-Chuo IC
+- **Yokote Bonden**: Asaokayama Shrine (Kaminiwatoda, Osawa, Yokote City) and elsewhere / bonden dedication on February 17 each year, with the Bonden Contest the day before on February 16 (in front of Yokote City Hall)
+- **Bonden That Crosses the River**: Hanadate district of Daisen City, across the Omono River to Izusan Shrine / every February 11 / about 7 minutes by car from JR Omagari Station, about 10 minutes from Omagari IC on the Akita Expressway
+- **Season**: All concentrated in winter around the Little New Year (January to February)
+- **Viewing**: Generally free outdoor viewing. Warm clothing and non-slip footwear are essential due to severe snow and cold
+- **Inquiries**: Individual shrines and city tourism associations (Yokote City Tourism Association 0182-33-7111, and others)
+
+## Around the Area
+
+When visiting the Miyoshi Bonden Festival in Akita City, it is recommended to combine it with the nature of Mount Taihei, home of the head shrine, and with Senshu Park and the Kubota Castle ruins in central Akita City. Winter Akita City has many restaurants serving local dishes such as kiritanpo, which warm the body chilled by the excitement of the festival.
+
+The Yokote Bonden pairs with the Yokote Kamakura event held at the same time. Being able to experience both the still kamakura, in which the water deity is enshrined within snow huts, and the dynamic bonden with its vigorous jostling in a single trip is a special delight found only in snowbound Yokote. Yokote yakisoba, a local specialty, is another taste to enjoy alongside the festival.
+
+Omagari in Daisen City is nationally known for its summer Omagari Fireworks, but in winter the Bonden That Crosses the River colors the Omono River. Hot spring resorts are scattered around the area, allowing visitors to soak leisurely amid the snowy scenery and savor the sentiment of a winter journey through Akita.
+
+## Related Information
+
+- **Season**: January to February (winter, around the Little New Year)
+- **Region**: Akita Prefecture (Akita City, Yokote City, Daisen City, and elsewhere)
+- **Main dedication sites**: Taiheizan Miyoshi Shrine (Akita City), Asaokayama Shrine (Yokote City), Izusan Shrine (Daisen City)
+- **Origin**: A special ritual unique to Akita, fusing yorishiro belief and Shugendo (said to date back before the Edo period)
+- **Common alternative name**: Kenka Bonden (fighting bonden, for the Miyoshi Bonden Festival)
+- **Features**: Lavish crest ornaments, jostling for the lead, and folk elements such as the sankaku-mamori charm and bonden songs
+','bonden-matsuri','bonden-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q132348219','神宮からあげ祭','Jingu Karaage Festival','2025年4月2日から4月4日に明治神宮野球場(神宮球場)で開催されたイベント',NULL,'Q944559','明治神宮野球場','Meiji Jingu Stadium','東京都','kanto',NULL,NULL,NULL,NULL,'spring',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q129630207','ラヴィット！ロック2024','LOVE IT! ROCK 2024','2024年8月24日に国立代々木競技場第一体育館で開催された『ラヴィット！』のイベント',NULL,'Q1069457','国立代々木競技場','Yoyogi National Gymnasium',NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/202408241502%20IMG%202701.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q130530824','永平寺門前花祭り','Eiheiji Temple Flower Festival',NULL,'festival in Japan','Q1303631','永平寺町','Eiheiji','福井県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Japan%202024-05-06%20%2853893039588%29.jpg',NULL,NULL,65,'drafted','## 概要
