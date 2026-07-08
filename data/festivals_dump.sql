@@ -804,15 +804,111 @@ Evening illumination, known as the momiji light-up, transforms the park into a d
 Food stalls and craft markets operate within the park throughout the festival, offering seasonal Aomori specialties. Visitors can sample new apple varieties at tasting booths, try grilled corn known locally as dake-kimi, warm themselves with the regional kenoshiru vegetable soup, or enjoy senbei-jiru, a hot pot dish featuring local rice crackers simmered in chicken broth. Traditional crafts from the Tsugaru region are also available, including the lustrous Tsugaru lacquerware known for its distinctive multi-layered finish and the rustic Shimokawara pottery with its dark glazes.
 
 Access to the festival is identical to that of the spring cherry blossom event. JR Hirosaki Station can be reached from Shin-Aomori Station, the regional Shinkansen terminus, in approximately thirty-five minutes via the Ou Main Line, and from there the park is fifteen minutes by the one-hundred-yen circulator bus. The festival pairs naturally with broader autumn travel in Aomori Prefecture, where Lake Towada and the Oirase Stream offer some of Japan''s most dramatic mountain foliage, and the Hakkoda Mountains feature autumn vistas accessible via cableway. The contrast between Hirosaki''s cultivated garden aesthetics and the wild autumn landscapes of the surrounding mountains gives visitors a comprehensive view of how the Japanese tradition celebrates the season.','hirosaki-castle-chrysanthemum-autumn-foliage','hirosaki-castle-chrysanthemum-autumn-foliage',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11501518','新嘗祭','Niiname-no-Matsuri','日本の宮中祭祀のひとつ','Japanese harvest ritual',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Omike%28Yamatohime-no-miya%29%2001.JPG','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD','https://en.wikipedia.org/wiki/Niiname-no-Matsuri',85,'drafted','新嘗祭（にいなめさい／しんじょうさい）は、日本の宮中祭祀のひとつで、天皇がその年に収穫された新穀を天照大神をはじめとする神々に供え、自らもこれを食して五穀豊穣を感謝する、最も重要な収穫祭である。毎年11月23日に執り行われ、特定の地域ではなく日本全国にかかわる国家的な年中行事として位置づけられる。
+INSERT INTO "festivals" VALUES('Q11501518','新嘗祭','Niiname-no-Matsuri','日本の宮中祭祀のひとつ','Japanese harvest ritual',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Omike%28Yamatohime-no-miya%29%2001.JPG','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD','https://en.wikipedia.org/wiki/Niiname-no-Matsuri',85,'drafted','新嘗祭（にいなめさい）は、天皇がその年に収穫された新穀を天神地祇に供えて実りへの感謝を捧げ、みずからもその新穀を神からの賜りものとして食する、日本の宮中祭祀のひとつです。毎年十一月二十三日に、宮中三殿の近くに建つ神嘉殿（しんかでん）で厳粛に斎行され、同じ日には全国の神社でも新嘗祭が執り行われます。数ある宮中祭祀のなかでも大祭に位置づけられ、古代から連綿と続く最も重要な祭事のひとつとされています。
 
-その起源は極めて古く、『日本書紀』にも記述が見られるなど、稲作とともに発展してきた日本の農耕文化と皇室の祭祀が結びついた伝統である。宮中の神嘉殿(しんかでん)において、天皇が神々と新穀をともにする儀式が深夜に厳粛に営まれる。天皇が即位後初めて行う新嘗祭は特に「大嘗祭(だいじょうさい)」と呼ばれ、一世一度の重儀として執り行われる。
+天皇が即位の礼のあと初めて行う新嘗祭は、とくに大嘗祭（だいじょうさい）と呼ばれ、一代に一度だけ営まれる特別な祭儀となります。現在、十一月二十三日は「勤労感謝の日」として国民の祝日になっていますが、その前身がこの新嘗祭であり、収穫と労働への感謝という祝日の本義は、稲作とともに歩んできた日本の祈りの歴史に根ざしています。
 
-現在、11月23日は「勤労感謝の日」として国民の祝日となっているが、これはもともと新嘗祭の日に由来する。全国の神社でも新穀を供える新嘗祭の神事が広く行われており、収穫への感謝と翌年の豊穣を祈る日本人の精神性を象徴する行事として、今日まで連綿と受け継がれている。','The Niiname-no-Matsuri is one of Japan''s imperial court rituals and the most important harvest festival, in which the Emperor offers the newly harvested grain of the year to Amaterasu-Ōmikami and other deities, partakes of it himself, and gives thanks for an abundant harvest. Held annually on November 23rd, it is a national observance concerning all of Japan rather than any specific region.
+## 歴史と由来
 
-Its origins are extremely ancient, with descriptions found even in the Nihon Shoki, reflecting a tradition in which Japan''s agricultural culture—developed alongside rice cultivation—is intertwined with imperial ritual. The ceremony, in which the Emperor shares the new grain with the deities, is conducted solemnly late at night in the Shinkaden hall of the Imperial Palace. The first Niiname festival performed by an Emperor after his accession is especially called the Daijōsai, a once-in-a-reign rite of great solemnity.
+古くから日本各地には五穀の収穫を祝う風習があり、新嘗祭はそうした収穫儀礼を国家祭祀へと昇華させたものと考えられています。その原型には弥生時代の稲作儀礼にまで遡る要素があるとされ、稲を育て、その恵みに感謝する営みが、天皇による祭祀の中心に据えられてきました。稲の実りは国の安寧そのものであり、それを神に捧げて感謝することが、統治の根幹に関わる神聖な行為とみなされたのです。
 
-Today, November 23rd is a national holiday known as Labor Thanksgiving Day, which originally derived from the day of the Niiname festival. Niiname rituals offering new grain are also widely held at shrines throughout the country. As an observance symbolizing the Japanese spirit of gratitude for the harvest and prayer for the coming year''s abundance, it has been continuously handed down to the present day.','niiname-no-matsuri','niiname-no-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+記紀神話にもその記述が見え、『日本書紀』神武天皇即位前紀には新穀を「嘗（にひなへ）」する記述があり、また仁徳天皇四十年条には「新嘗」の語がみられます。これらの記述が史実をどこまで反映しているかは定かではありませんが、新嘗祭という祭祀が神話の時代から日本人の意識の深くに位置づけられてきたことを物語っています。やがて律令の整備とともに、新嘗祭は国家祭祀としての体裁を整え、伊勢神宮の神事の形式を取り入れながら、宮中祭祀として受け継がれていきました。
+
+しかし中世に入ると、後花園天皇の寛正四年（一四六三年）に行われて以降、応仁の乱や朝廷の窮乏によって新嘗祭は長らく中断を余儀なくされます。この断絶は、朝廷が本来担うべき祭祀を維持できないほど困窮した時代の厳しさを映すものでした。再興が図られたのは江戸時代で、東山天皇の元禄元年（一六八八年）に霊元上皇の強い意向によって「新嘗御祈」という略式の形で復活しました。当時は祭場となる神嘉殿がなかったため、紫宸殿が代わりの場として用いられました。
+
+その後、桜町天皇の元文五年（一七四〇年）に本来の形へと復興し、光格天皇の寛政三年（一七九一年）には内裏の造営にともなって神嘉殿が再建されました。この年以降、現在に至るまで毎年途切れることなく宮中祭祀として続けられています。明治五年（一八七二年）からは新嘗祭に合わせて伊勢神宮へ勅使が遣わされるようになり、明治四十一年（一九〇八年）制定の皇室祭祀令では大祭に指定されました。同法令は戦後に廃止されましたが、それ以降も従来のかたちに則って新嘗祭は営まれ続けています。
+
+## 見どころ
+
+**神嘉殿の儀** 新嘗祭の中心となるのが、夜に斎行される神嘉殿の儀です。天皇は斎戒沐浴ののち純白の御祭服を身にまとい、松明の明かりに照らされるなか神嘉殿へと渡御します。この間、楽師によって神楽歌が奏でられ、闇のなかに古式ゆかしい祭祀の荘厳な空気が満ちていきます。日常から隔絶された神聖な時空のなかで、国の実りへの祈りが捧げられます。
+
+**御親供と御告文** 神嘉殿の母屋で、天皇はみずからの手で、古来のやり方に則りピンセット型の竹箸を用いて柏の葉の皿に神饌を移し、神前に供えます。これを御親供（ごしんく）といいます。親供を終えると、天皇は天照大神および天神地祇の諸神に対して御告文（おつげぶみ）を奏上します。この一連の所作は他者に委ねることなく天皇自身が行うところに、新嘗祭の本質的な意義が込められています。
+
+**夕御饌の儀と朝御饌の儀** 神嘉殿の儀は二度にわたって同じ所作が繰り返されます。前半を夕御饌（ゆうみけ）の儀、後半を朝御饌（あさみけ）の儀と呼び、旧例ではそれぞれ亥刻から子刻、寅刻から卯刻に、現在は十八時から二十時および二十三時から一時に行われます。太陽の力が最も衰える夜半に忌み籠り、暁とともに霊威を更新するという解釈もあり、時刻そのものに深い象徴性が宿っています。
+
+**純白の御祭服** 神嘉殿の儀と大嘗祭の悠紀殿・主基殿の儀のときにのみ天皇が着る御祭服は、天皇が着る神事の服のなかでも最も清浄かつ神聖な装いです。純白の生織りのままの絹地で仕立てられ、冠は幘（さく）の冠、袍は御斎衣と呼ばれる特別な仕立てになっています。何色にも染められていない白の絹が、この祭祀の清浄さを視覚的に体現しています。
+
+**神饌に込められた恵み** 神前には、米の蒸し御飯や御粥、粟の御飯や御粥、新米から醸した白酒（しろき）と黒酒（くろき）、鯛や鮑などの鮮魚、干柿やかち栗といった果物など、多彩な神饌が供えられます。これらを盛る容器は柏の葉に竹のひごを刺して作られ、調理には鑚火（きりび）の忌火が用いられます。すべてがこの上ない清浄さのもとに整えられ、神饌そのものが神として扱われる点に古代祭祀の観念がうかがえます。
+
+**前日の鎮魂祭** 新嘗祭の前日には、綾綺殿で鎮魂祭が営まれます。鎮魂祭には、翌日の新嘗祭に臨む天皇の霊を強化するという意義があるとされ、神楽の奉納が行われます。祭祀の前に心身と霊性を整えるこの儀式は、新嘗祭が単なる収穫感謝にとどまらず、天皇の霊性の更新に関わる祭祀であることを示しています。
+
+## 開催情報
+
+- 開催日: 毎年十一月二十三日（現在の「勤労感謝の日」）
+- 主な祭場: 宮中三殿に附属する神嘉殿（皇居内）
+- 斎行者: 天皇（御親供・御告文の奏上）
+- 全国の神社: 同日に全国各地の神社でも新嘗祭を斎行
+- 伊勢神宮: 外宮・内宮で新嘗祭大御饌の儀・奉幣の儀を行い、以後七日間かけて関連宮社で斎行
+- 位置づけ: 宮中祭祀の大祭。即位後初回の新嘗祭は特に大嘗祭と呼ぶ
+
+## 周辺の関連する行事と場所
+
+新嘗祭と深く結びつく祭祀に、伊勢神宮の神嘗祭があります。神嘗祭は十月に伊勢神宮で行われ、その年の新穀を天照大神に捧げる祭りで、新嘗祭と対をなす重要な収穫感謝の祭儀です。新嘗祭当日には伊勢神宮でも大御饌の儀と奉幣の儀が営まれ、宮中と伊勢が呼応するように実りへの感謝を捧げます。
+
+出雲大社では、新嘗祭と同じ日の夜に古伝新嘗祭（こでんしんじょうさい）が斎行されます。祭典に用いるすべての食事が熊野大社から鑽り出された神聖な火で調理され、神職が「オジャレマウ」と唱えると出雲国造が参進します。歯固め神事や百番の舞、釜の神事などの重儀が受け継がれており、古代の新嘗の姿を今に伝える貴重な祭祀として知られています。
+
+十一月二十三日は「勤労感謝の日」として広く親しまれていますが、その背景に新嘗祭があることを知ると、この祝日の意味が一段と豊かに感じられます。全国の神社では一般の参拝者も新嘗祭の日に足を運ぶことができ、実りへの感謝という日本古来の祈りに、身近に触れることができます。
+
+## 関連情報
+
+- 開催月: 十一月（毎年十一月二十三日）
+- 種別: 宮中祭祀（大祭）・年中行事
+- 起源: 記紀神話に記述があり、原型は弥生時代の稲作儀礼に遡るとされる
+- 変遷: 中世に中断、江戸時代（元禄・元文・寛政期）に再興・復興し現在まで継続
+- 現在の祝日: 昭和二十三年（一九四八年）の祝日法により「勤労感謝の日」となる
+- 関連祭祀: 大嘗祭（即位後初回の新嘗祭）、神嘗祭（伊勢神宮・十月）、鎮魂祭（前日）','Niinamesai, the Grand Harvest Festival, is one of the most important Shinto rites performed by the Emperor of Japan. In this ceremony the Emperor offers the newly harvested rice and other grains of the year to the heavenly and earthly deities, expresses gratitude for the harvest, and himself partakes of the new grain as a gift received from the gods. It is held every year on November 23 at the Shinkaden, a sacred hall standing near the Three Palace Sanctuaries within the Imperial Palace, and on the same day Niinamesai is also observed at Shinto shrines throughout the country.
+
+Among the many rites of the imperial court, Niinamesai is classified as a major festival and is regarded as one of the most significant ceremonies handed down from ancient times. The Niinamesai that an Emperor performs for the first time after his enthronement is given a special name, Daijosai, and is celebrated only once in a reign. Today November 23 is the national holiday known as Labor Thanksgiving Day, and its origin lies in this very festival. The holiday''s essential meaning of gratitude for harvest and labor is rooted in the long history of prayer that has accompanied rice cultivation in Japan.
+
+## History and Origins
+
+From ancient times, communities across Japan held customs celebrating the harvest of the five grains, and Niinamesai can be understood as the elevation of such harvest rituals into a rite of state. Its prototype is thought to trace back to the rice-farming rituals of the Yayoi period. Growing rice and giving thanks for its bounty came to stand at the very center of imperial rites, for the abundance of the rice harvest was seen as inseparable from the peace and stability of the realm. To offer that abundance to the gods and give thanks was thus regarded as a sacred act bound up with the very foundation of governance.
+
+References to the rite appear in the ancient chronicles. The Nihon Shoki contains a description of the Emperor partaking of new grain in the section preceding the accession of Emperor Jimmu, and the word niiname itself appears in the entry for the fortieth year of Emperor Nintoku. However far these accounts may reflect actual history, they testify that the rite of Niinamesai has been embedded deep in Japanese consciousness since the age of myth. In time, with the establishment of the ritsuryo legal codes, Niinamesai took shape as a rite of state, incorporating the forms of the sacred rites of Ise Grand Shrine while being carried on as a court ceremony.
+
+In the medieval period, however, the festival faced a long interruption. After being held in the fourth year of the Kansho era (1463) under Emperor Gohanazono, the Onin War and the impoverishment of the imperial court forced Niinamesai into a prolonged suspension. This break reflected the harshness of an age in which the court could no longer maintain the very rites it was meant to uphold. Restoration came in the Edo period, when in the first year of the Genroku era (1688), through the strong will of the Retired Emperor Reigen, the festival was revived in a simplified form. Because there was no Shinkaden to serve as the ceremonial hall at that time, the Shishinden was used in its place.
+
+Later, in the fifth year of the Genbun era (1740) under Emperor Sakuramachi, the festival was restored to its original form, and in the third year of the Kansei era (1791) under Emperor Kokaku, the Shinkaden was rebuilt as part of the construction of the imperial residence. From that year onward, Niinamesai has continued without interruption as a court ceremony down to the present day. From 1872 an imperial envoy was dispatched to Ise Grand Shrine to coincide with Niinamesai, and under the Imperial Household Ritual Law enacted in 1908 the festival was designated a major rite. Although that law was abolished after the war, Niinamesai has continued to be conducted in accordance with its established forms ever since.
+
+## Highlights
+
+**The Rite of the Shinkaden** The heart of Niinamesai is the rite of the Shinkaden, performed at night. The Emperor purifies himself through ritual bathing, dons pure white ceremonial vestments, and proceeds to the Shinkaden amid the light of torches. During this procession court musicians play sacred kagura songs, and a solemn atmosphere of ancient ritual fills the darkness. Within a sacred time and space set apart from the everyday, prayers for the nation''s harvest are offered.
+
+**The Offering and the Prayer** In the main chamber of the Shinkaden, the Emperor himself, following ancient practice, uses tweezer-shaped bamboo chopsticks to place the sacred food onto dishes of oak leaves and offers them before the deities in a rite called goshinku. Having completed the offering, the Emperor recites a prayer of address to Amaterasu Omikami and the heavenly and earthly deities. The fact that this sequence is performed by the Emperor himself, entrusted to no one else, expresses the essential meaning of Niinamesai.
+
+**The Evening and Morning Rites** The rite of the Shinkaden is carried out twice, repeating the same sequence of actions. The first part is called the evening food rite and the second the morning food rite. In older custom these were held during the late-night hours, and today they take place from around 18:00 to 20:00 and from 23:00 to 1:00. There is an interpretation that the Emperor secludes himself during the hours when the power of the sun is weakest and renews its sacred vitality at dawn, so that the very timing carries deep symbolism.
+
+**The Pure White Vestments** The ceremonial robe worn by the Emperor only during the rite of the Shinkaden and the Yuki and Suki hall rites of the Daijosai is the most pure and sacred of all the vestments the Emperor wears for Shinto rites. It is made of plain white raw silk, and the crown and robe are of a special design. The undyed white silk visually embodies the purity of this festival.
+
+**The Sacred Offerings** Before the deities are placed a rich variety of offerings: steamed rice and rice gruel, millet rice and millet gruel, white sake and black sake brewed from the new rice, fresh fish such as sea bream and abalone, and fruits such as dried persimmon and chestnut. The vessels holding these offerings are made of oak leaves pierced with bamboo splints, and the cooking fire is the sacred kindled fire. Everything is prepared under conditions of the utmost purity, and the fact that the offerings themselves are treated as divine reveals the conceptions of ancient ritual.
+
+**The Chinkonsai of the Previous Day** On the day before Niinamesai, the Chinkonsai, or spirit-pacifying rite, is held at the Ryokiden. This rite is said to strengthen the spirit of the Emperor as he approaches Niinamesai the following day, and kagura is offered. Preparing body, mind, and spirit before the festival, this rite shows that Niinamesai is not merely a harvest thanksgiving but a rite bound up with the renewal of the Emperor''s spiritual vitality.
+
+## Event Information
+
+- Date: Every year on November 23 (the present Labor Thanksgiving Day)
+- Main Venue: The Shinkaden attached to the Three Palace Sanctuaries within the Imperial Palace
+- Celebrant: The Emperor (the offering and the recitation of the prayer)
+- Nationwide Shrines: Niinamesai is observed at shrines throughout Japan on the same day
+- Ise Grand Shrine: The Grand Food Rite and the offering rite are performed at the Outer and Inner Shrines, followed by seven days of rites at related shrines
+- Status: A major rite of the imperial court; the first Niinamesai after enthronement is called Daijosai
+
+## Related Events and Nearby Places
+
+A rite deeply connected with Niinamesai is the Kannamesai of Ise Grand Shrine. Held in October at Ise, Kannamesai offers the year''s new grain to Amaterasu Omikami and forms a pair with Niinamesai as an important harvest thanksgiving rite. On the day of Niinamesai, the Grand Food Rite and the offering rite are also performed at Ise, so that the imperial court and Ise offer thanks for the harvest in mutual resonance.
+
+At Izumo Grand Shrine, the Koden Shinjosai, or ancient-tradition harvest rite, is performed on the night of the same day. All the food used in the ceremony is cooked with a sacred fire kindled at Kumano Grand Shrine, and when the priest calls out, the Izumo Kokuso comes forward. Solemn rites such as the tooth-hardening rite, the dance of a hundred rounds, and the kettle rite have been handed down, making it a precious ceremony that preserves the ancient form of the harvest rite to this day.
+
+While November 23 is widely enjoyed as Labor Thanksgiving Day, knowing that Niinamesai lies behind it gives the holiday a far richer meaning. At shrines throughout the country, ordinary worshippers can also visit on the day of Niinamesai and come into close contact with the ancient Japanese prayer of gratitude for the harvest.
+
+## Related Information
+
+- Month: November (every year on November 23)
+- Category: Court ritual (major rite) and annual observance
+- Origin: Described in the ancient chronicles; the prototype is said to trace back to Yayoi-period rice rituals
+- Transition: Interrupted in the medieval period, revived and restored in the Edo period (Genroku, Genbun, and Kansei eras), and continuing to the present
+- Present Holiday: Became Labor Thanksgiving Day under the Holiday Law of 1948
+- Related Rites: Daijosai (the first Niinamesai after enthronement), Kannamesai (Ise, October), Chinkonsai (the previous day)','niiname-no-matsuri','niiname-no-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11487199','弘前さくらまつり','Hirosaki Cherry Blossom Festival',NULL,'cherry blossom festival in Hirosaki, Japan','Q11288816','弘前公園','Hirosaki Park','青森県','tohoku',40.6039,140.4649,1918,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hirosaki%20castle.jpg','https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hirosaki_Cherry_Blossom_Festival',90,'drafted','弘前さくらまつりは、青森県弘前市の弘前公園で毎年4月下旬から5月上旬にかけて開催される桜の祭典であり、日本三大桜名所の一つに数えられる。約2,600本もの桜が城跡の堀や石垣を彩る景観は、東北を代表する春の風物詩として国内外から200万人を超える観光客を集める。
 
 弘前公園は、津軽氏代々の居城であった弘前城を中心とする広大な城跡公園で、現存12天守の一つである弘前城天守をはじめ、五つの城門と三つの櫓が国の重要文化財に指定されている。園内の桜は1715年に津軽信寿が25本のカスミザクラを植えたのが始まりとされ、明治時代に旧藩士が1,000本のソメイヨシノを寄贈したことで現在の規模となった。日本古来の樹齢100年を超える老木と、丁寧に手入れされた若木が共存する弘前の桜は、林檎の栽培技術を応用した独自の剪定法によって一本一本が大きな花房をつけることで知られている。
