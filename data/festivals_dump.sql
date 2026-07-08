@@ -16708,15 +16708,125 @@ INSERT INTO "festivals" VALUES('Q11660875','霧島国際音楽祭','Kirishima In
 A major feature of this festival is that world-renowned performers participate as "professors," performing in concerts while directly instructing young musicians who will carry the next generation. With the training facility "Miyama Conseru," cradled in Kirishima''s rich nature, as its main venue, concerts are held daily over about two weeks. Students receive guidance from world-class musicians and present the fruits of their efforts in concerts.
 
 Set against the majestic nature of the Kirishima mountains and the Kirishima Highlands, also renowned as a hot spring region, this festival, where authentic classical music resounds, is a central presence in summer music culture in Kyūshū. Concerts are also held in surrounding areas such as Kagoshima City and Miyazaki Prefecture, enveloping the entire region in music. Allowing audiences to encounter world-class music amid Kirishima''s clear air and beautiful nature, this festival has established itself as an indispensable cultural event of summer in southern Kyūshū.','kirishima-music-festival','kirishima-music-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11661985','青梅大祭','Ōme Grand Festival','東京都青梅市で行われる祭り',NULL,'Q237683','青梅市','Ome','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Ibayashi.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A2%85%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','青梅大祭（おうめたいさい）は、東京都青梅市で毎年5月2日・3日に行われる祭礼である。青梅の旧街道沿いの各町内から繰り出される、精巧な彫刻と豪華な装飾で飾られた山車が見どころで、「西多摩随一の祭り」とも称される、多摩地方を代表する春の祭りである。
+INSERT INTO "festivals" VALUES('Q11661985','青梅大祭','Ōme Grand Festival','東京都青梅市で行われる祭り',NULL,'Q237683','青梅市','Ome','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Ibayashi.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A2%85%E5%A4%A7%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの主役は、12台の絢爛豪華な山車である。これらの山車のなかには、かつて江戸の「天下祭」で曳かれていた由緒ある山車を譲り受けたものもあり、江戸の祭礼文化の名残を今に伝える貴重な存在である。山車の上には武者人形や歴史上の人物の人形が飾られ、旧青梅街道を厳かに巡行する。
+青梅大祭（おうめたいさい）は、東京都青梅市の青梅街道沿いに鎮座する住吉神社の例祭で、毎年五月二日・三日に行われる、青梅最大規模の祭りです。五百年以上の歴史と伝統を誇り、旧青梅街道を十二の町内が豪華絢爛な山車を曳いて巡行する、東京西部を代表する春祭りとして広く知られています。江戸の「天下祭」の系譜を引く行列型の祭りとして、レトロな町並みを賑やかに彩り、ゴールデンウィークの青梅を熱気に包み込みます。
 
-青梅大祭の最大の見どころは、複数の山車が出会った際に繰り広げられる「ひっかわせ」である。山車同士が向かい合い、それぞれの町内のお囃子が競い合うように打ち鳴らされる様は、祭りの興奮が最高潮に達する瞬間である。笛や太鼓の音色が町に響き、囃子方の腕の見せ所となるこの場面に、観衆は大きな声援を送る。旧街道の宿場町として栄えた青梅の歴史と、江戸文化を受け継ぐ町衆の誇りが息づくこの祭りは、新緑の季節に青梅の町を熱く盛り上げる初夏の風物詩である。','The Ōme Grand Festival is a festival held every May 2nd and 3rd in Ōme, Tokyo. Its highlight is the floats—adorned with intricate carvings and lavish decorations—that parade from the various neighborhoods along Ōme''s old highway. Also called "the foremost festival of Nishi-Tama," it is a representative spring festival of the Tama region.
+この祭りの最大の見どころは、山車と山車が行き交うときの「競り合い（ひっかわせ）」です。囃子を競い合いながら山車がすれ違うさまは迫力満点で、夜には提灯に灯がともった山車が喧嘩囃子を打ち鳴らして競演します。各町が誇る山車と、それを飾る江戸の名人形師の手による山車人形など、見どころに満ちたこの祭りには、地元はもとより都内各地から多くの見物客が集まります。
 
-The stars of the festival are twelve magnificent and ornate floats. Among them are floats once pulled in Edo''s "Tenka Matsuri" (shogunal festivals), received as transfers, making them precious survivors that convey the legacy of Edo''s festival culture to this day. Atop the floats are displayed warrior figures and puppets of historical personages, processing solemnly along the old Ōme highway.
+## 歴史と由来
 
-The Ōme Grand Festival''s greatest highlight is the "hikkawase," performed when several floats meet. The sight of the floats facing one another while each neighborhood''s festival music is struck up as if in competition is the moment when the festival''s excitement reaches its peak. As the tones of flutes and drums resound through the town and the musicians show off their skill, the crowd offers loud cheers. Alive with the history of Ōme, which flourished as a post town on the old highway, and the pride of townspeople who inherit Edo culture, this festival is an early-summer tradition that ardently enlivens the town of Ōme in the season of fresh green.','ome-grand-festival','ome-grand-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+青梅大祭の舞台となる住吉神社は、青梅街道沿いに位置する青梅宿の総鎮守で、大阪の住吉大社から勧請して一三六九年（応安二年）に創建されたと伝えられています。青梅は古くから青梅街道の宿場町として栄えた土地であり、住吉神社は宿場の人々の信仰を集める中心的な存在でした。この由緒ある神社の例祭として、青梅大祭は長い歴史を歩んできました。
+
+祭りそのものの始まりは、戦国時代の一五一三年（永正十年）にさかのぼると伝えられています。この年、青梅村民が住吉神社の拝殿を改修し、それを祝って氏子である五町、すなわち現在の住江町・本町・仲町・上町・森下町が祭りを行ったのが青梅大祭の起源とされています。神社の改修という節目を祝う人々の喜びから生まれた祭りは、以来五百年以上にわたって受け継がれてきました。
+
+当初は氏子五町の祭礼として始まった青梅大祭は、時代を経るなかで参加する町が増え、規模を拡大してきました。現在では十二の町内が祭りに加わり、それぞれが自慢の山車を曳き回すようになっています。江戸の「天下祭」の系譜を引く行列型の祭りとして発展したこの祭りは、江戸文化の粋を今に伝える貴重な行事となっています。
+
+各町の山車を飾る山車人形は、青梅市の有形民俗文化財に指定されており、なかには江戸の名人形師の手によるものも含まれています。住江町の「神功皇后」の出陣姿をはじめ、各町がそれぞれの歴史や伝説を題材とした人形や意匠を凝らしており、これらの山車人形を一堂に見ることができるのは青梅大祭のときだけです。町ごとに受け継がれてきた山車と人形は、青梅の人々の誇りとして大切に守り伝えられています。
+
+## 見どころ
+
+**十二台の山車の巡行**
+青梅大祭の象徴が、旧青梅街道を練り歩く十二台の豪華絢爛な山車です。各町がそれぞれ自慢の山車を曳き回し、彫刻や幕の装飾には一台ごとに趣向が凝らされています。レトロな町並みを背景に山車が行き交う光景は華やかで、見比べながら歩くのも祭りの大きな楽しみの一つとなっています。
+
+**山車の競り合い（ひっかわせ）**
+この祭り最大の見せ場が、山車と山車が行き交うときの「競り合い」、地元で「ひっかわせ」とも呼ばれる場面です。すれ違う山車どうしが囃子を競い合い、激しく張り合うさまは迫力に満ちています。町の意地と誇りがぶつかり合うこの競り合いは、見物客を大いに沸かせる青梅大祭の醍醐味です。
+
+**夜の喧嘩囃子と競演**
+夜になると、山車には提灯の灯がともされ、昼とは異なる幻想的な表情を見せます。宵宮では、灯りをまとった山車が「喧嘩囃子」を打ち鳴らして競演し、激しい囃子の応酬が夜の青梅街道に響きわたります。昼の巡行とはまた違う、熱く華やかな夜の光景は、この祭りならではの魅力です。
+
+**江戸の名人形師による山車人形**
+各町の山車を飾る山車人形は、青梅市の有形民俗文化財に指定された貴重なものです。なかには江戸の名人形師の手による名品もあり、住江町の「神功皇后」の出陣姿など、それぞれの町が題材に趣向を凝らしています。これらの山車人形を一度に見ることができるのは青梅大祭のときだけで、歴史と芸術の粋を間近に味わえます。
+
+**手古舞と木遣り**
+華やかな衣装で山車を先導する拍子木や手古舞、そして粋ないでたちで唱じる町内衆の木遣りも、青梅大祭の見どころです。江戸の祭礼文化を受け継ぐこれらの所作や唄は、祭りに格式と情緒を添えています。山車の迫力だけでなく、こうした伝統芸能の風情もこの祭りの魅力を深めています。
+
+**まつり市の賑わい**
+祭りの期間中、青梅街道には多くの露店が立ち並ぶ「まつり市」が開かれ、町全体が賑やかな祭りの空気に包まれます。山車の巡行を眺めながら露店を巡るのは、青梅大祭ならではの楽しみです。ゴールデンウィークのひとときを、伝統ある祭りと町の賑わいのなかで満喫することができます。
+
+## 開催情報・アクセス
+
+- 開催地: 東京都青梅市
+- 会場: 旧青梅街道沿い（住吉神社ほか）
+- 開催時期: 毎年五月二日（宵宮祭り）・三日（本祭り）
+- 山車: 十二の町内が山車を曳行
+- アクセス: JR青梅線「青梅駅」から会場一帯へ（住吉神社は青梅駅から徒歩約三分）
+- 主催・問い合わせ: 青梅大祭実行委員会・住吉神社
+
+## 周辺の見どころ
+
+祭りの舞台となる住吉神社は、大阪の住吉大社から勧請された青梅宿の総鎮守で、一三六九年の創建と伝わる由緒ある古社です。JR青梅駅から徒歩約三分とアクセスもよく、祭りの日以外にも訪れて、青梅の歴史と信仰の中心にふれることができます。
+
+青梅市は、昭和レトロな町並みで知られる観光の町でもあります。旧青梅街道沿いには、どこか懐かしい雰囲気の商店や建物が残り、散策を楽しむ人々に親しまれています。祭り見物とあわせて、レトロな町並みをゆっくりと歩けば、青梅ならではの独特の情緒を味わうことができます。
+
+青梅市は多摩川の上流域に位置し、周辺には御岳山や奥多摩の豊かな自然が広がっています。ハイキングや川遊び、温泉など、都心から近い自然の行楽地としても人気です。青梅大祭の季節に訪れれば、五百年の伝統を誇る祭りの華やかさとともに、多摩の自然と歴史ある町並みを存分に楽しむことができます。
+
+## 関連情報
+
+- 開催月: 五月（春）
+- 都道府県・地域: 東京都青梅市・多摩地方
+- 神社: 住吉神社（青梅宿の総鎮守・一三六九年創建）
+- 起源: 一五一三年（永正十年）に氏子五町が住吉神社拝殿改修を祝って始めた・五百年以上の歴史
+- 特色: 十二町の山車巡行と「競り合い（ひっかわせ）」・青梅市有形民俗文化財の山車人形','## Overview
+
+The Ome Grand Festival (Ome Taisai) is the annual festival of Sumiyoshi Shrine, enshrined along the Ome Kaido road in Ome City, Tokyo, and is the largest festival in Ome, held on May 2 and 3 each year. Boasting a history and tradition of more than five hundred years, it is widely known as a spring festival representative of the western part of Tokyo, in which twelve neighborhoods pull gorgeous floats in procession along the old Ome Kaido. As a procession-type festival in the lineage of the Edo tenka matsuri, it colors the retro townscape with liveliness and wraps the Ome of the Golden Week holidays in heat.
+
+The greatest highlight of this festival is the seriai, the competitive encounter, when float meets float. The way the floats pass one another while competing in their festival music is full of power, and at night floats lit by lanterns strike up the kenka-bayashi, the quarrel music, in a contest. With the floats that each town takes pride in, and the float puppets made by the master puppeteers of Edo that adorn them, this festival, full of things to see, draws many spectators not only from the locality but from all over Tokyo.
+
+## History and Origins
+
+Sumiyoshi Shrine, the setting of the Ome Grand Festival, is the guardian shrine of the Ome post town, located along the Ome Kaido, and it is said to have been founded in 1369 by inviting the deity from Sumiyoshi Taisha in Osaka. Ome is a land that flourished from ancient times as a post town on the Ome Kaido, and Sumiyoshi Shrine was a central presence drawing the faith of the people of the post town. As the annual festival of this venerable shrine, the Ome Grand Festival has walked a long history.
+
+The beginning of the festival itself is said to trace back to 1513, in the Warring States period. In that year, it is said that the villagers of Ome renovated the worship hall of Sumiyoshi Shrine, and in celebration the five parishioner towns, that is the present Sumie-cho, Hon-cho, Naka-cho, Kami-cho, and Morishita-cho, held a festival, which is regarded as the origin of the Ome Grand Festival. Born of the joy of people celebrating the milestone of the shrine''s renovation, the festival has been handed down ever since for more than five hundred years.
+
+Beginning at first as the festival of the five parishioner towns, the Ome Grand Festival increased its participating towns and expanded in scale over the ages. At present, twelve neighborhoods take part in the festival, each pulling the float it takes pride in. Developing as a procession-type festival in the lineage of the Edo tenka matsuri, this festival has become a precious event that conveys the essence of Edo culture to this day.
+
+The float puppets that adorn the floats of each town are designated tangible folk cultural properties of Ome City, and among them are included some made by the master puppeteers of Edo. From the figure of Empress Jingu setting out for war on the Sumie-cho float, each town displays ingenuity in puppets and designs taking as their themes their own histories and legends, and it is only at the time of the Ome Grand Festival that one can see all these float puppets together. The floats and puppets handed down in each town are carefully preserved as the pride of the people of Ome.
+
+## Highlights
+
+**The Procession of Twelve Floats**
+The symbol of the Ome Grand Festival is the twelve gorgeous floats parading along the old Ome Kaido. Each town pulls the float it takes pride in, and the carvings and the decoration of the hangings are contrived with ingenuity on each one. The sight of the floats coming and going against the backdrop of the retro townscape is splendid, and walking while comparing them is one of the great pleasures of the festival.
+
+**The Competitive Encounter of the Floats**
+The greatest spectacle of this festival is the seriai, the competitive encounter, when float meets float, called locally the hikkawase. The way passing floats compete in their festival music and vie fiercely with one another is full of power. This encounter, in which the willpower and pride of the towns collide, is the essence of the Ome Grand Festival that greatly excites the spectators.
+
+**The Quarrel Music and Contest at Night**
+When night falls, lanterns are lit on the floats, showing an expression different from the day and full of fantasy. At the eve festival, floats clad in light strike up the kenka-bayashi, the quarrel music, in a contest, and the fierce exchange of music resounds along the nighttime Ome Kaido. The heated and splendid nighttime scene, different again from the daytime procession, is an appeal unique to this festival.
+
+**Float Puppets by the Master Puppeteers of Edo**
+The float puppets that adorn the floats of each town are precious items designated tangible folk cultural properties of Ome City. Among them are masterpieces by the master puppeteers of Edo, and each town displays ingenuity in its theme, such as the figure of Empress Jingu setting out for war on the Sumie-cho float. It is only at the time of the Ome Grand Festival that one can see these float puppets all at once, and one can savor the essence of history and art up close.
+
+**Tekomai and Kiyari**
+The hyoshigi clappers and tekomai dancers who lead the floats in splendid costumes, and the kiyari songs sung in stylish attire by the townspeople, are also highlights of the Ome Grand Festival. These gestures and songs, inheriting the festival culture of Edo, add dignity and feeling to the festival. Not only the power of the floats but also the atmosphere of such traditional performing arts deepens the appeal of this festival.
+
+**The Bustle of the Festival Market**
+During the festival, a festival market with many stalls lined up is held along the Ome Kaido, and the whole town is wrapped in the lively air of the festival. Strolling among the stalls while watching the float procession is a pleasure unique to the Ome Grand Festival. One can fully enjoy a moment of the Golden Week holidays amid a festival of tradition and the bustle of the town.
+
+## Access and Information
+
+- Location: Ome City, Tokyo
+- Venue: Along the old Ome Kaido (Sumiyoshi Shrine and others)
+- Dates: May 2 (eve festival) and May 3 (main festival) each year
+- Floats: Twelve neighborhoods pull floats
+- Access: From Ome Station on the JR Ome Line to the venue area (Sumiyoshi Shrine is about a three-minute walk from Ome Station)
+- Organizer and inquiries: Ome Grand Festival Executive Committee and Sumiyoshi Shrine
+
+## Around the Area
+
+Sumiyoshi Shrine, the setting of the festival, is the guardian shrine of the Ome post town, invited from Sumiyoshi Taisha in Osaka, and is a venerable old shrine said to have been founded in 1369. With good access, about a three-minute walk from JR Ome Station, one can visit it even outside the festival days and touch the center of Ome''s history and faith.
+
+Ome City is also a tourist town known for its Showa-retro townscape. Along the old Ome Kaido remain shops and buildings with a somewhat nostalgic atmosphere, cherished by people who enjoy strolling. Together with festival viewing, walking slowly through the retro townscape allows one to savor the distinctive feeling unique to Ome.
+
+Ome City is located in the upper reaches of the Tama River, and around it spread the rich nature of Mount Mitake and Okutama. It is also popular as a natural recreation area close to the city center, offering hiking, river play, and hot springs. Visiting in the season of the Ome Grand Festival, one can fully enjoy the nature of Tama and the historic townscape, together with the splendor of a festival boasting five hundred years of tradition.
+
+## Related Information
+
+- Month: May (spring)
+- Prefecture and region: Ome City, Tokyo, Tama region
+- Shrine: Sumiyoshi Shrine (guardian shrine of the Ome post town, founded in 1369)
+- Origins: Begun in 1513 when the five parishioner towns celebrated the renovation of the Sumiyoshi Shrine worship hall; a history of more than five hundred years
+- Features: The procession of the floats of twelve towns and the competitive encounter (hikkawase); float puppets designated tangible folk cultural properties of Ome City','ome-grand-festival','ome-grand-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11638353','迎え火','mukaebi','客人や神霊をむかえるためにたく火','part of the Bon Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mukaebi%2020120731.jpg','https://ja.wikipedia.org/wiki/%E8%BF%8E%E3%81%88%E7%81%AB',NULL,85,'drafted','迎え火（むかえび）は、日本のお盆の時期に、あの世から帰ってくる祖先の霊(精霊)を家へ迎え入れるためにたく火である。全国各地で行われる年中行事で、一般的にはお盆の入りである8月13日(地域によっては7月13日)の夕刻に、家の門口や玄関先で営まれる。
 
 迎え火には、帰ってくる先祖の霊が道に迷わないよう、目印として火を灯すという意味が込められている。麻の茎を乾燥させた「苧殻(おがら)」を、素焼きの皿である「焙烙(ほうろく)」の上で燃やすのが伝統的な作法とされる。立ち上る煙と炎を頼りに、祖霊はこの火を目印として、懐かしい我が家へと戻ってくると信じられている。
