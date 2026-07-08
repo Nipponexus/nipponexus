@@ -13308,15 +13308,111 @@ The area around Kakunodate Station is also a base for touring Lake Tazawa and Ka
 ','hiburi-kamakura','hiburi-kamakura',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11528841','杵築盆踊り','Kitsuki Bon-odori',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B5%E7%AF%89%E7%9B%86%E8%B8%8A%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11529737','松山まつり',NULL,NULL,NULL,NULL,NULL,NULL,'愛媛県','shikoku',33.83676,132.77014,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E9%87%8E%E7%90%83%E6%8B%B3%E3%81%8A%E3%81%A9%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11565710','潮来祇園祭禮','Itako Gion Matsuri','茨城県潮来市で行われる祭礼',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Itako%20Gion%20Festival%2C%20Ibaraki%2014.jpg','https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%9D%A5%E7%A5%87%E5%9C%92%E7%A5%AD%E7%A6%AE',NULL,85,'drafted','潮来祇園祭禮（いたこぎおんさいれい）は、茨城県潮来市で毎年8月に行われる祭礼で、水郷の町・潮来の総鎮守である素鵞熊野神社(そがくまのじんじゃ)の祭礼として、約300年の歴史を誇る伝統行事である。利根川下流の水運で栄えた潮来の町並みを舞台に、豪壮華麗な山車が繰り出す関東有数の夏祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q11565710','潮来祇園祭禮','Itako Gion Matsuri','茨城県潮来市で行われる祭礼',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Itako%20Gion%20Festival%2C%20Ibaraki%2014.jpg','https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%9D%A5%E7%A5%87%E5%9C%92%E7%A5%AD%E7%A6%AE',NULL,85,'drafted','潮来祇園祭禮（いたこぎおんさいれい）は、茨城県潮来市で毎年八月の第一金曜日から日曜日までの三日間にわたって開催される、水郷潮来を代表する山車祭りです。天王山に鎮座する素鵞熊野神社（そがくまのじんじゃ）の例大祭であり、八百有余年の歴史と伝統を誇る勇壮かつ華やかな祭礼として知られています。
 
-祭りの主役は、見事な彫刻と精緻な飾りで装飾された14台の山車である。各町内が誇る山車の上には、日本神話や歴史上の英雄をかたどった巨大な人形が据えられ、町を練り歩く。なかでも見どころは、複数の山車が出会った際に繰り広げられる「のの字廻し」と呼ばれる勇壮な方向転換である。重量のある山車を「テコ」と呼ばれる担ぎ手たちが息を合わせて回転させる様は、観衆の喝采を浴びる。
+祭りの主役は、総数十四台にのぼる豪華絢爛な山車です。それぞれの山車には歴史上の人物をかたどった大人形が飾られ、その高さは四メートル以上にもなります。山車のうち三台は県指定文化財に、山車の上で奏でられる「潮来ばやし」は県指定無形民俗文化財に指定されており、水郷の町を彩る夏の一大行事として、地域内外から多くの人々が訪れます。
 
-潮来は古くから水郷観光の地として親しまれ、初夏のあやめまつりとともに、この祇園祭禮は町の夏を彩る一大行事である。三年に一度の本祭りには特に多くの観光客が訪れ、お囃子の音色と威勢のよい掛け声が水郷の町に響き渡る。利根の水運がもたらした商人文化の繁栄を背景に育まれた山車祭りは、潮来の人々の誇りと共同体の絆を今に伝えている。','The Itako Gion Matsuri is a festival held every August in Itako, Ibaraki Prefecture, boasting around 300 years of history as the festival of Soga-Kumano Shrine, the guardian shrine of the riverside town of Itako. Set against a townscape that flourished through the river transport of the lower Tone River, it is known as one of the leading summer festivals of the Kantō region, featuring magnificent and ornate floats.
+## 歴史と由来
 
-The stars of the festival are its fourteen floats, adorned with splendid carvings and intricate decorations. Atop each neighborhood''s float stands an enormous figure representing a hero from Japanese mythology or history, paraded through the town. A particular highlight is the spirited turning maneuver known as "no-no-ji mawashi," performed when several floats meet—bearers called "teko" coordinate their movements to rotate the heavy floats, drawing cheers from the crowd.
+潮来祇園祭禮は、天王山に鎮座する素鵞熊野神社の例大祭として営まれてきました。素鵞熊野神社は御鎮座から千年を超える歴史を持つ古社とされ、潮来の地に遷座してからも長い年月が経っています。祭禮そのものの発祥も数百年前にさかのぼると伝えられ、八百有余年におよぶ歴史と伝統を積み重ねてきた祭りです。
 
-Itako has long been beloved as a destination for riverside sightseeing, and alongside the early-summer iris festival, this Gion festival is a major event coloring the town''s summer. The triennial main festival draws especially large crowds, with the strains of festival music and spirited chants echoing through the water town. Nurtured against the backdrop of merchant culture that prospered from the Tone River''s water transport, this float festival conveys the pride and communal bonds of the people of Itako to this day.','itako-gion-matsuri','itako-gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+祇園祭禮という名が示すとおり、この祭りは疫病退散を願う祇園信仰の流れをくむものです。夏の盛りに疫病が流行しやすかった時代、人々は素鵞（すが＝須佐之男命に通じる）の神を祀り、災厄を祓い、地域の安寧を祈願しました。水郷の地であった潮来において、こうした祇園信仰にもとづく祭礼が、地域の暮らしと結びついて連綿と受け継がれてきたのです。
+
+潮来は、利根川や霞ヶ浦につながる水郷地帯に開けた町で、古くから水運によって栄えました。江戸と東北を結ぶ水運の要衝として賑わったこの町では、経済的な繁栄を背景に、豪華な山車を仕立てて祭りを盛大に営む文化が育まれていきました。山車に飾られる大人形や、洗練された潮来ばやしの調べは、こうした町の繁栄と誇りを映すものとして磨き上げられてきました。
+
+現在、祭禮に登場する山車は十四台を数え、そのうち三台が県指定文化財となっています。また、山車の上で芸座連（げざれん）によって奏でられる潮来ばやしは県指定無形民俗文化財に指定されており、祭りに欠かせない音の彩りとなっています。三丁目の獅子舞をはじめとする多彩な演目もあわせて受け継がれ、水郷潮来の夏を象徴する祭礼として今日に至っています。
+
+## 見どころ
+
+**十四台の山車の曳き廻し** 潮来祇園祭禮最大の見どころは、総数十四台の豪華絢爛な山車が町中を曳き廻される光景です。それぞれの町内が誇る山車が、勇ましい掛け声とともに引かれていくさまは壮観で、三日間を通じて水郷の町が祭りの熱気に包まれます。数多くの山車が一度に見られる規模の大きさは、この祭りの大きな魅力です。
+
+**四メートルを超える大人形** 山車の上には、歴史上の人物をかたどった大人形が飾られます。その高さは四メートル以上にもなり、見上げるほどの迫力があります。武将や英雄などをあらわした人形は精巧に作られ、それぞれの山車の個性を際立たせています。町を進む山車の頂に鎮座する大人形は、祭りの華やかさを象徴する存在です。
+
+**潮来ばやしの調べ** 山車の上で芸座連によって奏でられる潮来ばやしは、県指定無形民俗文化財に指定された祭りの音の要です。笛や太鼓、鉦が織りなす囃子の調べは、山車の曳き廻しに躍動感を添え、祭りの雰囲気を一層高めます。受け継がれてきた洗練された囃子は、潮来の祭り文化の粋を伝えるものです。
+
+**山車の曳き廻しの妙技** 水郷の町の路地を進む山車は、狭い場所での方向転換や曳き手の連携など、随所に技と力が求められます。町内ごとに受け継がれてきた曳き廻しの所作や、山車同士がすれ違う場面には、担い手たちの熟練と気迫が凝縮されています。緊張感あふれる曳き廻しは、見る者を惹きつけてやみません。
+
+**三丁目の獅子舞** 山車の曳き廻しとともに、三丁目の獅子舞をはじめとする演目が祭りに花を添えます。伝統的な芸能が祭礼のなかで受け継がれ、山車の華やかさとはまた異なる趣を加えています。こうした多彩な演目が組み合わさることで、潮来祇園祭禮は重層的な祭りの厚みを持っています。
+
+**県指定文化財の山車** 十四台の山車のうち三台は県指定文化財に指定されており、その造形や装飾には歴史的・文化的な価値が認められています。長い年月をかけて受け継がれ、守られてきた山車を間近に見られることは、この祭りならではの貴重な体験です。町の繁栄と職人の技が結晶した山車は、祭りの歴史そのものを物語っています。
+
+## 開催情報
+
+- 開催日: 毎年八月の第一金曜日から日曜日までの三日間
+- 会場: 茨城県潮来市（水郷潮来の市街地）
+- 主催神社: 素鵞熊野神社（天王山鎮座）の例大祭
+- 山車: 総数十四台。うち三台は県指定文化財
+- 囃子: 潮来ばやし（県指定無形民俗文化財）
+- 歴史: 八百有余年の歴史と伝統を持つ祇園信仰の祭礼
+
+## 周辺の関連する行事と場所
+
+祭りの中心となる素鵞熊野神社は、潮来の天王山に鎮座する古社です。千年を超える御鎮座の歴史を持つとされ、潮来の地の総鎮守として長く信仰を集めてきました。祭りの日には、この神社を起点として山車が町へと繰り出します。祭礼の由緒を知るうえで、まず訪れておきたい社です。
+
+潮来は水郷地帯を代表する町として知られ、初夏には水郷潮来あやめ園に咲き誇るあやめが名高く、あやめ祭りでも多くの観光客を集めます。祇園祭禮の八月とは季節が異なりますが、水と花に彩られた水郷の風情は潮来ならではの魅力で、四季を通じて訪れる価値のある土地です。
+
+潮来周辺は、利根川や霞ヶ浦につながる豊かな水辺の景観に恵まれた地域です。かつて水運で栄えた歴史を今に伝える町並みや、川と湖に育まれた自然が広がります。潮来祇園祭禮を訪れる際には、こうした水郷の風土や歴史を体験する舟めぐりなどとあわせて、地域の魅力を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 八月（第一金曜日から日曜日までの三日間）
+- 都道府県・地域: 茨城県潮来市・関東地方
+- 主催神社: 素鵞熊野神社（天王山鎮座）
+- 起源: 疫病退散を願う祇園信仰。八百有余年の歴史を持つ
+- 文化財: 山車三台が県指定文化財、潮来ばやしが県指定無形民俗文化財
+- 特色: 総数十四台の山車と四メートルを超える大人形、潮来ばやしで知られる水郷の山車祭り','The Itako Gion Festival is a float festival representative of the water town of Itako, held over three days from the first Friday to Sunday of August each year in the city of Itako, Ibaraki Prefecture. It is the grand annual festival of Soga Kumano Shrine, enshrined on Tenno-yama, and is known as a spirited and splendid festival boasting a history and tradition of more than eight hundred years.
+
+The stars of the festival are its fourteen gorgeous floats. Each float is adorned with a large figure modeled on a historical personage, and their height reaches more than four meters. Three of the floats are designated cultural properties of the prefecture, and the Itako-bayashi music played atop the floats is designated an Intangible Folk Cultural Property of the prefecture. As a great summer event coloring the water town, it draws many people from within and beyond the region.
+
+## History and Origins
+
+The Itako Gion Festival has been conducted as the grand annual festival of Soga Kumano Shrine, enshrined on Tenno-yama. Soga Kumano Shrine is said to be an ancient shrine with a history of more than a thousand years since its founding, and long years have passed since it was moved to the land of Itako. The origin of the festival itself is also said to trace back several centuries, and it is a festival that has accumulated a history and tradition of more than eight hundred years.
+
+As its name Gion Festival indicates, this festival belongs to the current of Gion faith, which prays for the dispelling of epidemics. In an age when epidemics readily spread at the height of summer, people enshrined the deity of Suga, connected with Susanoo no Mikoto, prayed to ward off calamity, and prayed for the peace of the region. In Itako, which was a water-town land, such a festival based on Gion faith has been handed down continuously, bound up with the life of the region.
+
+Itako is a town that opened in a water-town district connected to the Tone River and Lake Kasumigaura, and it flourished from early times through water transport. In this town, which prospered as a key point of water transport linking Edo and the northeast, a culture developed of preparing gorgeous floats and holding the festival on a grand scale against the background of economic prosperity. The large figures adorning the floats and the refined strains of the Itako-bayashi have been polished as reflections of the town''s prosperity and pride.
+
+Today the floats appearing in the festival number fourteen, three of which are designated cultural properties of the prefecture. The Itako-bayashi played atop the floats by the musicians'' guilds is designated an Intangible Folk Cultural Property of the prefecture and forms an indispensable coloring of sound for the festival. A varied array of performances, beginning with the lion dance of the third district, has also been handed down together, and the festival has come to the present as one symbolizing summer in the water town of Itako.
+
+## Highlights
+
+**The Procession of Fourteen Floats** The greatest highlight of the Itako Gion Festival is the sight of the fourteen gorgeous floats being drawn through the town. The spectacle of each district''s proud float being pulled along with spirited cries is magnificent, and over the three days the water town is wrapped in the fervor of the festival. The sheer scale of being able to see so many floats at once is a great charm of this festival.
+
+**The Large Figures Exceeding Four Meters** Atop the floats are placed large figures modeled on historical personages. Their height reaches more than four meters, with a power that makes one look up. The figures representing warriors and heroes are elaborately made and bring out the individuality of each float. The large figures enshrined at the summit of the floats advancing through the town are a presence that symbolizes the splendor of the festival.
+
+**The Strains of the Itako-bayashi** The Itako-bayashi played atop the floats by the musicians'' guilds is the sonic essence of the festival, designated an Intangible Folk Cultural Property of the prefecture. The strains woven by flute, drum, and gong add dynamism to the procession of the floats and further heighten the atmosphere of the festival. The refined music that has been handed down conveys the finest of Itako''s festival culture.
+
+**The Skill of the Float Procession** The floats advancing through the alleys of the water town require skill and strength at every turn, in changing direction in narrow places and in the coordination of the pullers. In the actions of the procession handed down in each district, and in the scenes where floats pass one another, are concentrated the mastery and spirit of the bearers. The tension-filled procession never ceases to captivate onlookers.
+
+**The Lion Dance of the Third District** Along with the procession of the floats, performances such as the lion dance of the third district add color to the festival. Traditional performing arts have been handed down within the festival, adding a character distinct from the splendor of the floats. By combining such a varied array of performances, the Itako Gion Festival possesses the multilayered depth of a festival.
+
+**The Floats Designated as Cultural Properties** Three of the fourteen floats are designated cultural properties of the prefecture, and their form and decoration are recognized as having historical and cultural value. Being able to see up close the floats that have been handed down and preserved over long years is a precious experience unique to this festival. The floats, in which the town''s prosperity and the skill of craftsmen are crystallized, tell the very history of the festival.
+
+## Event Information
+
+- Date: Three days from the first Friday to Sunday of August each year
+- Venue: Itako City, Ibaraki Prefecture (the town center of the water town of Itako)
+- Host Shrine: The grand annual festival of Soga Kumano Shrine (enshrined on Tenno-yama)
+- Floats: Fourteen in total, three of which are prefectural cultural properties
+- Music: Itako-bayashi (Intangible Folk Cultural Property of the prefecture)
+- History: A festival of Gion faith with a history and tradition of more than eight hundred years
+
+## Related Events and Nearby Places
+
+Soga Kumano Shrine, the heart of the festival, is an ancient shrine enshrined on Tenno-yama in Itako. Said to have a history of more than a thousand years since its founding, it has long drawn faith as the chief guardian shrine of the land of Itako. On the day of the festival, the floats set out into the town starting from this shrine. It is a shrine one would want to visit first in order to understand the origins of the festival.
+
+Itako is known as a town representative of the water-town district, and in early summer the irises blooming in profusion at the Itako Iris Garden are famous, drawing many sightseers to the iris festival as well. Although the season differs from August of the Gion Festival, the charm of the water town colored by water and flowers is unique to Itako, and it is a place worth visiting throughout the four seasons.
+
+The area around Itako is a region blessed with rich waterside scenery connected to the Tone River and Lake Kasumigaura. The townscape that conveys to the present its history of once flourishing through water transport, and the nature nurtured by river and lake, spread out here. When visiting the Itako Gion Festival, one can fully savor the charm of the region together with boat tours that experience the character and history of the water town.
+
+## Related Information
+
+- Month: August (three days from the first Friday to Sunday)
+- Prefecture and Region: Itako City, Ibaraki Prefecture; Kanto region
+- Host Shrine: Soga Kumano Shrine (enshrined on Tenno-yama)
+- Origin: Gion faith praying for the dispelling of epidemics; a history of more than eight hundred years
+- Cultural Property: Three floats are prefectural cultural properties, and the Itako-bayashi is an Intangible Folk Cultural Property of the prefecture
+- Features: A water-town float festival known for its fourteen floats, large figures exceeding four meters, and the Itako-bayashi','itako-gion-matsuri','itako-gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11530803','松本ぼんぼん','Matsumoto-Bonbon Festival','毎年8月の第1土曜日に長野県松本市の中心街で行われる夏祭り','Summer festival held every year on the first Saturday in August in the center of Matsumoto City, Nagano Prefecture',NULL,NULL,NULL,'長野県','chubu',36.234425,137.96922,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%BC%E3%82%93%E3%81%BC%E3%82%93',NULL,75,'drafted','## 概要
 
 松本ぼんぼん（正式には「夏まつり 松本ぼんぼん」）は、長野県松本市で毎年8月の第1土曜日に開催される、長野県下最大の夏祭りです。会場は、松本駅の東側から国宝・松本城にかけて広がる中心市街地一帯で、まちの目抜き通りが踊り手と観客で埋め尽くされます。揃いの浴衣や法被に身を包んだ大勢の踊り手が、軽快な「松本ぼんぼん」の歌に合わせて、いくつもの連（グループ）を組んで通りを踊り歩く光景は壮観で、城下町・松本の夏を象徴する一大イベントとなっています。
