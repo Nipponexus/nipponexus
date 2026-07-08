@@ -15836,15 +15836,125 @@ Yatsuo is a town known nationwide for the Owara Kaze no Bon held in September, a
 - Background: merchant culture that flourished through sericulture and washi in the Edo period; onandodokoro of the Toyama domain
 - Related: the Owara Kaze no Bon held in September in the same Yatsuo district
 ','etchu-yatsuo-hikiyama-matsuri','etchu-yatsuo-hikiyama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11661913','青柏祭','Seihaku Festival','石川県七尾市の大地主神社の例大祭（国の重要無形民俗文化財、ユネスコの無形文化遺産）',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Dekayama%20sanno.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%8F%E7%A5%AD',NULL,85,'drafted','青柏祭（せいはくさい）は、石川県七尾市の大地主神社(おおとこぬしじんじゃ)の例大祭で、毎年5月に行われる。能登地方最大の祭りとして知られ、日本一巨大とされる曳山「でか山」が城下町を曳き回される、勇壮かつ豪壮な春の祭礼である。国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産にも登録されている。
+INSERT INTO "festivals" VALUES('Q11661913','青柏祭','Seihaku Festival','石川県七尾市の大地主神社の例大祭（国の重要無形民俗文化財、ユネスコの無形文化遺産）',NULL,'Q11433686','大地主神社','Ōtokonushi Shrine','石川県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Dekayama%20sanno.jpg','https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%8F%E7%A5%AD',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、なんといっても「でか山」と呼ばれる巨大な曳山である。高さ約12メートル、重さ約20トンにも及ぶでか山は、その名の通り日本最大級の山車で、3台が市内を巡行する。神饌(しんせん)を青柏(あおがしわ)の葉に盛って供えたことが祭りの名の由来とされ、その起源は1000年以上前に遡るとも伝えられる。
+青柏祭（せいはくさい）は、石川県七尾市の大地主神社（おおとこぬしじんじゃ・山王神社）の例大祭で、能登地方で最も盛大な祭礼として知られています。若葉の萌える五月に行われる春祭りで、その名は青柏（あおがしわ）の葉の上に神饌（しんせん・神へのお供え物）を載せて奉納する神事に由来します。深い歴史を背景に、能登の人々が守り伝えてきた信仰と祭礼文化が凝縮された、七尾の春を彩る一大行事です。
 
-最大の見どころは、巨大なでか山が狭い辻(つじ)を方向転換する「辻回し(つじまわし)」である。「地車(じぐるま)」と呼ばれる大きな車輪を持つでか山を、てこの原理を使って大勢の曳き手が力を合わせて方向を変える様は、迫力満点で観衆を魅了する。木遣り唄が響くなか、巨大な山車が町を進む光景は圧巻である。能登の人々の心意気と伝統が結集したこの祭りは、七尾の初夏を熱く彩る、日本を代表する曳山祭りである。','The Seihaku Festival is the grand annual festival of Ōtokonushi Shrine in Nanao, Ishikawa Prefecture, held every May. Known as the largest festival of the Noto region, it is a spirited and grand spring celebration in which the "dekayama"—said to be Japan''s largest festival floats—are pulled through the castle town. It is designated an Important Intangible Folk Cultural Property of Japan and registered as UNESCO Intangible Cultural Heritage.
+この祭りの最大の主役は、日本一巨大な曳山「でか山」です。高さ約十二メートル、重さ約二十トン、車輪の直径は約二メートルにおよぶ末広型の巨大な山車で、これが三台、七尾の狭い市街地の路地を巡行します。その圧倒的な大きさと、車輪をきしませながら向きを変える豪快な辻回しは見る者を圧倒します。「青柏祭の曳山行事」は国の重要無形民俗文化財に指定され、二〇一六年にはユネスコ無形文化遺産「山・鉾・屋台行事」の一つにも登録された、名実ともに全国屈指の山車祭りです。
 
-The festival''s greatest distinction is, above all, the gigantic floats called "dekayama." Standing about 12 meters tall and weighing around 20 tons, the dekayama are, as their name (meaning "huge mountain") suggests, among the largest floats in Japan, with three of them processing through the city. The festival''s name is said to derive from the practice of offering sacred food heaped on leaves of the "aogashiwa" (blue oak), and its origins are said to date back more than 1,000 years.
+## 歴史と由来
 
-The greatest highlight is the "tsujimawashi," in which the gigantic dekayama turn direction at a narrow intersection. The sight of many pullers joining forces to change the direction of the dekayama—which has large wheels called "jiguruma"—using the principle of leverage is full of intensity and captivates the crowd. As work songs resound, the spectacle of the giant floats advancing through the town is overwhelming. Bringing together the spirit and tradition of the people of Noto, this festival is a representative Japanese float festival that ardently colors early summer in Nanao.','seihaku-festival','seihaku-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+青柏祭の起源は平安時代にまでさかのぼります。伝えによれば、天元四年（九八一年）に能登国の国守であった源順（みなもとのしたごう）が、この祭りを能登国の祭りとして定めたことに始まるとされています。千年を超える歴史を持つこの祭礼は、能登の国の総鎮守ともいうべき大地主神社の格式を今に伝えるものであり、地域の信仰の中心として長く重んじられてきました。
+
+祭りの名称の由来となっているのは、青柏の葉の上に神饌を載せて神に奉納するという古式ゆかしい神事です。青々とした柏の葉を器として用いて神へのお供えを捧げるこの所作には、豊かな実りへの祈りと自然への感謝が込められており、祭りの本質が神事にあることを物語っています。華やかな曳山巡行の陰で、こうした厳かな神事が脈々と受け継がれてきました。
+
+祭りの象徴である巨大な曳山「でか山」が曳かれるようになったのは、文明五年（一四七三年）のことと伝えられています。すなわち、平安時代に始まった神事に、室町時代になって壮大な曳山行事が加わり、現在に近い祭りの姿が形づくられていったのです。以来、七尾の町衆によってでか山は代々維持され、造り替えられながら守り伝えられてきました。
+
+長い歴史のなかで、青柏祭は能登を代表する祭礼として発展を続けてきました。「青柏祭の曳山行事」として国の重要無形民俗文化財に指定され、さらに二〇一六年には全国の「山・鉾・屋台行事」とともにユネスコ無形文化遺産に登録されるなど、その文化的価値は国内外で高く評価されています。飛越能地域を代表するユネスコ登録の祭りの一つとして、能登の誇りとなっています。
+
+## 見どころ
+
+**日本一巨大なでか山**
+青柏祭の象徴が、高さ約十二メートル、重さ約二十トンにおよぶ日本一巨大な曳山「でか山」です。上が末広がりに開いた独特の形状で、車輪の直径だけでも約二メートルあります。この巨大な山車が三台、七尾の市街地を巡行する光景は他に類を見ない迫力で、初めて目にする人は皆その大きさに圧倒されます。
+
+**豪快な辻回し**
+狭い路地を進むでか山が交差点で向きを変える「辻回し」は、この祭り最大の見せ場です。巨大な車輪をきしませ、大勢の曳き手が力を合わせて二十トンの山車を回転させるさまは、緊張感と迫力に満ちています。狭い街路でこれほどの巨体を操る技と結束力に、観客からは大きな歓声が上がります。
+
+**歌舞伎人形の飾り**
+でか山の上段には、その年ごとに趣向を凝らした歌舞伎の名場面を表す人形が飾られます。豪華絢爛な人形飾りは、巨大な山車の迫力に華やかさを添え、山車全体を一つの動く舞台のように仕立て上げます。人形の題材選びも祭りの楽しみの一つとなっています。
+
+**青柏の神事**
+祭りの名の由来である、青柏の葉の上に神饌を載せて奉納する神事も、見逃せない見どころです。派手な曳山巡行とは対照的な、静謐で厳かなこの神事は、青柏祭が本来は神への祈りの祭礼であることを今に伝えています。祭りの根底にある信仰にふれることができる場面です。
+
+**三台のでか山の勢揃い**
+大地主神社の境内などにでか山三台が勢揃いする場面は、祭りのハイライトの一つです。日本一の巨体が三台並ぶ壮観は圧巻で、多くの見物客がその瞬間を目に焼き付けようと集まります。それぞれの山車を担う町の心意気が一堂に会する、晴れやかな光景です。
+
+**能登の春の風物詩**
+若葉が萌える五月、能登半島の中心都市・七尾がこの祭りで一年で最も活気づきます。町中に響く囃子と曳き手の掛け声、集まる人々の熱気が、能登に本格的な春の到来を告げます。地域を挙げて盛り上がるこの祭りは、七尾の人々の誇りと結束の象徴となっています。
+
+## 開催情報・アクセス
+
+- 開催地: 石川県七尾市
+- 会場: 七尾市街地中心部（大地主神社ほか）
+- 開催時期: 毎年五月三日〜五日を中心とする期間
+- 曳山: でか山三台（高さ約十二メートル・重さ約二十トン・車輪直径約二メートル）
+- アクセス: JR七尾線「七尾駅」から会場まで徒歩圏
+- 主催・問い合わせ: 七尾市（交流推進課）
+
+## 周辺の見どころ
+
+祭りの舞台となる大地主神社（山王神社）は、能登の国を代表する古社で、青柏祭の起源の地としてその歴史をしのぶことができます。祭りの期間以外にも、千年を超える由緒を持つこの神社を訪ね、静かな境内で能登の信仰の深さにふれる価値があります。
+
+七尾市は能登半島の中心都市で、市街地からほど近い和倉温泉は北陸有数の名湯として知られています。祭り見物とあわせて、海を望む温泉宿でくつろぐのも能登の旅の醍醐味です。また七尾湾の新鮮な海の幸や、能登の伝統工芸である七尾仏壇なども、この地を訪れる楽しみを豊かにしてくれます。
+
+七尾は能登観光の玄関口でもあり、周辺には能登島や見附島など能登半島ならではの景勝地が広がっています。青柏祭の季節に能登を訪れれば、日本一の曳山という祭りの迫力とともに、豊かな自然と食に恵まれた能登の魅力を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 五月（春）
+- 都道府県・地域: 石川県七尾市・能登地方
+- 起源: 天元四年（九八一年）に能登国国守・源順が定めたと伝わる。曳山は文明五年（一四七三年）から
+- 文化財指定: 「青柏祭の曳山行事」は国の重要無形民俗文化財
+- 国際認定: 二〇一六年にユネスコ無形文化遺産「山・鉾・屋台行事」に登録','## Overview
+
+The Seihaku Festival (Seihakusai) is the grand annual festival of Otokonushi Shrine, also known as Sanno Shrine, in Nanao City, Ishikawa Prefecture, and is known as the most magnificent festival of the Noto region. Held in May when the young leaves come into bud, its name derives from the ritual of offering shinsen, food offerings to the deities, placed upon leaves of the aogashiwa, the blue oak. Against a backdrop of deep history, it is a major event coloring the spring of Nanao, in which the faith and festival culture that the people of Noto have preserved and handed down are concentrated.
+
+The greatest stars of this festival are the dekayama, the largest festival floats in Japan. These enormous floats, shaped like an inverted fan, stand about twelve meters tall, weigh about twenty tons, and have wheels roughly two meters in diameter. Three of them are pulled through the narrow alleys of central Nanao. Their overwhelming size and the bold turning of the floats at intersections, with the wheels grinding against the ground, astonish all who see them. The Float Event of the Seihaku Festival is designated an Important Intangible Folk Cultural Property of the nation, and in 2016 it was also inscribed as one of the UNESCO Intangible Cultural Heritage entries of Yama, Hoko, Yatai float festivals, making it a float festival that ranks among the very finest in Japan in both name and substance.
+
+## History and Origins
+
+The origins of the Seihaku Festival trace back to the Heian period. According to tradition, it began in the fourth year of the Tengen era, 981, when Minamoto no Shitago, the provincial governor of Noto, established this festival as the festival of Noto Province. This festival, with a history spanning more than a thousand years, conveys to this day the prestige of Otokonushi Shrine, which may be called the guardian shrine of the entire province of Noto, and it has long been revered as the center of local faith.
+
+The name of the festival derives from an ancient ritual of offering shinsen to the deities placed upon leaves of the blue oak. In this act of using fresh green oak leaves as vessels to present offerings to the gods, there are contained prayers for a rich harvest and gratitude toward nature, telling us that the essence of the festival lies in its rites. Behind the splendid float procession, such solemn rituals have been handed down without interruption.
+
+The huge floats called dekayama, the symbols of the festival, are said to have first been pulled in the fifth year of the Bunmei era, 1473. In other words, to the rituals that began in the Heian period, a grand float event was added in the Muromachi period, and the form of the festival close to what it is today was shaped. Ever since, the dekayama have been maintained and rebuilt by the townspeople of Nanao, preserved and handed down through the generations.
+
+Over its long history, the Seihaku Festival has continued to develop as a festival representative of Noto. It has been designated an Important Intangible Folk Cultural Property of the nation as the Float Event of the Seihaku Festival, and in 2016 it was inscribed on the UNESCO Intangible Cultural Heritage list together with the float festivals of Japan, so that its cultural value is highly esteemed both at home and abroad. As one of the UNESCO-listed festivals representing the Hietsuno region, it is a source of pride for Noto.
+
+## Highlights
+
+**The Largest Floats in Japan, the Dekayama**
+The symbol of the Seihaku Festival is the dekayama, the largest festival floats in Japan, reaching about twelve meters in height and about twenty tons in weight. They have a distinctive shape that widens toward the top like an inverted fan, and their wheels alone are about two meters in diameter. The sight of three of these gigantic floats making their way through central Nanao is of unrivaled power, and all who see them for the first time are overwhelmed by their size.
+
+**The Bold Turning of the Floats**
+The tsuji-mawashi, in which the dekayama advancing through narrow alleys change direction at intersections, is the greatest spectacle of this festival. The way the enormous wheels grind and a great number of pullers combine their strength to rotate a twenty-ton float is full of tension and power. The skill and unity required to handle such a colossal body in the narrow streets draw great cheers from the spectators.
+
+**Kabuki Puppet Decorations**
+On the upper tier of each dekayama, puppets depicting famous scenes of kabuki, arranged with fresh ingenuity each year, are displayed. The gorgeous puppet decorations add splendor to the power of the huge floats, fashioning each float into a kind of moving stage. The choice of theme for the puppets is one of the pleasures of the festival.
+
+**The Ritual of the Blue Oak**
+The ritual that gives the festival its name, offering shinsen placed upon leaves of the blue oak, is also a highlight not to be missed. In contrast to the flamboyant float procession, this quiet and solemn ritual conveys to this day that the Seihaku Festival is originally a festival of prayer to the gods. It is a scene where one can touch the faith at the root of the festival.
+
+**The Gathering of Three Dekayama**
+The scene in which the three dekayama gather together, such as in the precincts of Otokonushi Shrine, is one of the highlights of the festival. The grand sight of three of Japan''s largest floats lined up is breathtaking, and many spectators gather to fix that moment in their memory. It is a resplendent scene in which the spirit of the neighborhoods that bear each float comes together in one place.
+
+**A Herald of Spring in Noto**
+In May, when the young leaves bud, Nanao, the central city of the Noto Peninsula, is at its liveliest of the whole year with this festival. The music echoing through the town, the shouts of the pullers, and the heat of the gathered crowds announce the full arrival of spring in Noto. This festival, celebrated by the entire community, has become a symbol of the pride and unity of the people of Nanao.
+
+## Access and Information
+
+- Location: Nanao City, Ishikawa Prefecture
+- Venue: The center of the Nanao urban area (Otokonushi Shrine and others)
+- Dates: A period centered on May 3 to 5 each year
+- Floats: Three dekayama (about twelve meters tall, about twenty tons, wheels about two meters in diameter)
+- Access: Within walking distance from JR Nanao Station on the Nanao Line to the venue
+- Organizer and inquiries: Nanao City (Exchange Promotion Division)
+
+## Around the Area
+
+Otokonushi Shrine (Sanno Shrine), the setting of the festival, is an old shrine representative of the province of Noto, and as the place of origin of the Seihaku Festival one can here reflect upon its history. Even outside the festival period, it is worth visiting this shrine with its history spanning more than a thousand years and, in its quiet precincts, touching the depth of Noto''s faith.
+
+Nanao City is the central city of the Noto Peninsula, and Wakura Onsen, close to the urban area, is known as one of the finest hot springs of the Hokuriku region. Together with festival viewing, relaxing at a hot spring inn overlooking the sea is one of the joys of a journey through Noto. The fresh seafood of Nanao Bay and Nanao butsudan, the traditional Buddhist altars of Noto, also enrich the pleasures of a visit to this land.
+
+Nanao is also the gateway to Noto tourism, and around it spread scenic places unique to the Noto Peninsula, such as Notojima Island and Mitsukejima Rock. Visiting Noto in the season of the Seihaku Festival, one can fully savor the power of a festival with Japan''s largest floats, together with the appeal of a Noto blessed with rich nature and fine food.
+
+## Related Information
+
+- Month: May (spring)
+- Prefecture and region: Nanao City, Ishikawa Prefecture, Noto region
+- Origins: Said to have been established by Minamoto no Shitago, governor of Noto, in the fourth year of the Tengen era, 981; the floats date from the fifth year of the Bunmei era, 1473
+- Cultural property designation: The Float Event of the Seihaku Festival, an Important Intangible Folk Cultural Property of the nation
+- International recognition: Inscribed on the UNESCO Intangible Cultural Heritage list as part of Yama, Hoko, Yatai float festivals in 2016','seihaku-festival','seihaku-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11631901','諏訪湖祭湖上花火大会','Lake Suwa Fireworks Festival','長野県の諏訪湖で行われる花火大会',NULL,'Q1206692','諏訪湖','Lake Suwa','長野県','chubu',36.049167,138.085278,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Suwa-ko%20firework%2020080815%2002.jpg','https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,95,'drafted','## 概要
 
 諏訪湖祭湖上花火大会(すわこまつりこじょうはなびたいかい)は、長野県諏訪市の諏訪湖で毎年8月15日に開催される、約40,000発の花火が打ち上げられる国内最大級の花火大会である。諏訪湖の地形を活かした水中スターマインや、湖面に映る花火の二重映像で知られ、毎年約50万人の観客を集める。
