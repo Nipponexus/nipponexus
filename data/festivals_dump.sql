@@ -15567,15 +15567,125 @@ The venue is Honchō Street in Nishimonai, Ugo Town, Ogachi District, Akita Pref
 Ugo Town is nestled within picturesque satoyama countryside landscapes, with nearby attractions concentrating the tourism resources of southern Akita Prefecture, including Oyasukyō Hot Spring in Yuzawa City, the home village of Inaniwa udon noodles, and the kamakura snow huts of Yokote. August in particular offers an ideal opportunity to combine traditional festivals of the Ogachi region with hot spring tourism in a memorable cultural journey.','nishimonai-no-bon-odori','nishimonai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11670289','高松冬のまつり','Takamatsu Fuyu no Matsuri',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%86%AC%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642072','遠州はまきた飛竜まつり','Hamakita Hiryū festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E3%81%AF%E3%81%BE%E3%81%8D%E3%81%9F%E9%A3%9B%E7%AB%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11633921','豊浜ちょうさ祭','Toyohama Chōsa Festival','香川県観音寺市豊浜町で行われる祭礼',NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Toyohama%20Chosa%20example%20Apr%2001%202021%2004-45PM.jpeg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD',NULL,85,'drafted','豊浜ちょうさ祭（とよはまちょうさまつり）は、香川県観音寺市豊浜町で毎年10月に行われる秋祭りである。「ちょうさ」と呼ばれる豪華絢爛な太鼓台が多数繰り出す、香川県西部を代表する勇壮な祭礼として知られ、瀬戸内沿岸に根づいた太鼓台文化の華やかさを今に伝えている。
+INSERT INTO "festivals" VALUES('Q11633921','豊浜ちょうさ祭','Toyohama Chōsa Festival','香川県観音寺市豊浜町で行われる祭礼',NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Toyohama%20Chosa%20example%20Apr%2001%202021%2004-45PM.jpeg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの主役は、金糸銀糸で刺繍された豪華な飾り幕で装飾された「ちょうさ」である。重さ約2トンにも及ぶこの太鼓台を、揃いの法被をまとった大勢の担ぎ手たちが「ちょーさじゃ、ちょーさじゃ」の威勢のよい掛け声とともに担ぎ上げる。最大の見どころは、複数のちょうさを一斉に高々と差し上げて力を競い合う「かきくらべ」である。豪華な布団締めを天高く突き上げる様は壮観で、観衆を熱狂させる。
+豊浜ちょうさ祭（とよはまちょうさまつり・さぬき豊浜ちょうさ祭）は、香川県観音寺市豊浜町一帯で行われる、西讃（香川県西部）を代表する秋祭りです。毎年十月の第二日曜日を最終日とする三日間にわたって斎行され、五穀豊穣と豊漁を祈願して、年に一度、町が最も熱く盛り上がる祭りとして知られています。主役は「ちょうさ」と呼ばれる巨大な太鼓台で、金糸・銀糸の豪華な刺繍で飾られたきらびやかな姿が、豊浜の秋を彩ります。
 
-豊浜ちょうさ祭では、20台前後ものちょうさが一堂に会することがあり、その規模は四国有数とされる。色鮮やかな太鼓台がずらりと並ぶ光景は圧巻で、瀬戸内の秋空のもと、刺繍幕の美しさと担ぎ手たちの力強さが一体となった祭りは、地域の誇りと共同体の結束を象徴している。収穫の秋に感謝を捧げるこの祭りは、豊浜の人々が一年で最も熱くなる、待ちわびた年中行事である。','The Toyohama Chōsa Festival is an autumn festival held every October in Toyohama, Kan''onji, Kagawa Prefecture. Known as a spirited celebration representative of western Kagawa, in which numerous magnificent and ornate drum-floats called "chōsa" parade, it conveys the splendor of the drum-float culture rooted along the Seto Inland Sea coast.
+この祭りの最大の見どころは、男たちによって担ぎ上げられた巨大な太鼓台が乱舞する勇壮な光景です。高さ約五メートル、重さ数トンにもおよぶちょうさが、太鼓の音とともに町中を練り歩き、最終日には一宮神社に多数のちょうさが集結して「かきくらべ」を繰り広げます。担ぎ手たちの掛け声と熱気に包まれた祭りは、瀬戸内の港町・豊浜の誇りとして、地域の人々の手で大切に受け継がれてきました。
 
-The stars of the festival are the "chōsa," adorned with lavish hanging curtains embroidered in gold and silver thread. Weighing around 2 tons, these drum-floats are hoisted by large numbers of bearers in matching happi coats to the rousing chant of "chōsa ja, chōsa ja." The greatest highlight is the "kakikurabe," in which several chōsa are lifted high aloft simultaneously to compete in strength. The sight of the ornate cushioned tops thrust high into the sky is magnificent, electrifying the crowd.
+## 歴史と由来
 
-At the Toyohama Chōsa Festival, around 20 chōsa may gather together, a scale said to be among the largest in Shikoku. The sight of vividly colored drum-floats lined up in a row is overwhelming, and under the autumn sky of the Seto Inland Sea, the festival—uniting the beauty of the embroidered curtains with the strength of the bearers—symbolizes regional pride and communal solidarity. Held to give thanks in the harvest autumn, this festival is a long-awaited annual observance, the time of year when the people of Toyohama burn most fiercely.','toyohama-chosa-festival','toyohama-chosa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+豊浜ちょうさ祭は、五穀豊穣と豊漁を祈願する秋祭りとして、豊浜の人々に長く受け継がれてきました。瀬戸内海に面した豊浜町は、古くから農業と漁業に支えられてきた土地であり、実りの秋にその恵みへの感謝を込めて祭りが営まれてきました。海と大地の両方の恵みに感謝するというこの祭りの性格は、瀬戸内の温暖な気候のもとで農漁業を営んできた地域の暮らしそのものを映し出しています。
+
+祭りの主役である「ちょうさ」は、香川県をはじめ四国の瀬戸内側で広く見られる太鼓台の一種です。観音寺市内だけでも合計百十八台ものちょうさが伝わっており、十月には市内の各地区で次々とちょうさ祭が開催されます。町ごとに太鼓台を維持し、豪華に飾り立てて競い合う文化は、この地域の祭礼の大きな特色であり、豊浜ちょうさ祭はそのなかでも西讃を代表する規模と華やかさを誇っています。
+
+ちょうさの豪華さは、金糸・銀糸をふんだんに用いた刺繍にあります。太鼓台の幕には龍などの意匠が緻密な刺繍で表され、そのきらびやかな姿は見る者を圧倒します。龍神は水の神でもあり、豊かな水と実りを願う人々の祈りが、この装飾に込められています。ちょうちんに明かりがともった太鼓台があぜ道を練り歩く様子に思わず涙が出るという地元の人の言葉が伝えるように、この祭りは豊浜の人々の心の拠りどころとなってきました。
+
+長い年月をかけて受け継がれてきた豊浜ちょうさ祭は、いまや西讃の秋祭りを代表する一大行事へと発展しています。豪華な太鼓台と勇壮なかきくらべは、香川県内はもとより県外からも多くの見物客を集めるようになりました。町ぐるみで祭りを支える伝統は世代を超えて受け継がれ、豊浜ちょうさ祭は地域の結束と誇りを象徴する祭りとして、今も熱く守り伝えられています。
+
+## 見どころ
+
+**一宮神社のかきくらべ**
+祭りのクライマックスが、最終日に一宮神社へ多数のちょうさが集結して繰り広げられる「かきくらべ」です。数トンもある巨大な太鼓台を担ぎ手たちが力を合わせて高々と差し上げ、その勇壮さを競い合います。境内を埋め尽くすちょうさと、担ぎ手の掛け声、見物客の歓声が一体となる光景は圧巻で、祭りの熱気が最高潮に達します。
+
+**金糸銀糸の豪華な太鼓台**
+ちょうさを彩る金糸・銀糸の緻密な刺繍は、この祭りの美しさの象徴です。太鼓台の幕には龍などの意匠が豪華に表され、きらびやかに輝く姿は昼夜を問わず見る者を魅了します。水の神である龍を配した装飾には、豊かな実りと豊漁を願う人々の祈りが込められており、太鼓台一台一台に町の心意気が凝縮されています。
+
+**巨大な太鼓台の乱舞**
+高さ約五メートル、重さ数トンにもおよぶ巨大なちょうさを、大勢の男たちが担ぎ上げて練り歩く様子は迫力満点です。太鼓の音に合わせて太鼓台が上下に揺れ動き、担ぎ手たちが息を合わせて乱舞するさまは、力強さと躍動感に満ちています。この巨大な太鼓台を人力で操る技と結束力こそ、ちょうさ祭の醍醐味です。
+
+**ちょうちんの灯る夜の太鼓台**
+夜になると、ちょうさにはちょうちんの明かりがともされ、昼とは異なる幻想的な表情を見せます。灯りをまとった太鼓台があぜ道や町中を練り歩く光景は情緒豊かで、地元の人々にとっては涙を誘うほど心に染みるものです。金糸の刺繍がやわらかな灯りに浮かび上がる夜のちょうさは、この祭りならではの美しさです。
+
+**多彩な神事と芸能**
+豊浜ちょうさ祭では、かきくらべのほかにも、豊浜八幡神社での「お入り」や五十鈴神社での「かきじょう」、箕浦獅子舞や船渡御など、多彩な神事と芸能が繰り広げられます。地区ごとに趣向の異なる行事が次々と行われるため、三日間を通じてさまざまな祭りの表情を楽しむことができます。
+
+**町全体を包む祭りの熱気**
+十月の三日間、豊浜の町全体が太鼓の音と熱気に包まれます。あちこちでちょうさが練り歩き、担ぎ手の掛け声が響きわたる町の様子は、年に一度の晴れの舞台にふさわしい活気に満ちています。老若男女が一体となって盛り上がるこの祭りは、豊浜の人々にとって一年で最も特別なひとときとなっています。
+
+## 開催情報・アクセス
+
+- 開催地: 香川県観音寺市豊浜町
+- 会場: 豊浜町一帯（一宮神社・豊浜八幡神社ほか）
+- 開催時期: 毎年十月第二日曜日を最終日とする三日間（第二週の金・土・日）
+- 太鼓台: 巨大な「ちょうさ」（高さ約五メートル・重さ数トン）多数
+- アクセス: JR予讃線「豊浜駅」から会場一帯へ
+- 主催・問い合わせ: さぬき豊浜ちょうさ祭実行委員会・観音寺市
+
+## 周辺の見どころ
+
+祭りが行われる観音寺市は、瀬戸内海に面した香川県西部の中心都市で、市内には合計百十八台ものちょうさが伝わる、太鼓台文化の盛んな地域です。十月には豊浜以外の各地区でもちょうさ祭が開催されるため、時期を合わせて訪れれば、西讃一帯に根づく豪華な太鼓台文化の広がりを味わうことができます。
+
+観音寺市には、砂浜に描かれた巨大な銭形の砂絵「寛永通宝」で知られる琴弾公園があり、瀬戸内海を望む景勝地として親しまれています。祭り見物とあわせて、瀬戸内の穏やかな海と美しい景観、そして新鮮な海の幸を楽しむことができます。
+
+観音寺市を含む香川県西部は、四国八十八箇所の霊場が点在する巡礼の地でもあり、周辺には数多くの寺社が広がっています。豊浜ちょうさ祭の季節に訪れれば、勇壮な太鼓台の祭りとともに、瀬戸内の温暖な風土と讃岐の歴史・文化を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 十月（秋）
+- 都道府県・地域: 香川県観音寺市豊浜町・西讃（香川県西部）
+- 主な会場: 一宮神社（かきくらべ）・豊浜八幡神社ほか
+- 特色: 金糸銀糸の刺繍で飾った巨大な太鼓台「ちょうさ」の乱舞とかきくらべ
+- 目的: 五穀豊穣・豊漁の祈願','## Overview
+
+The Toyohama Chosa Festival (Sanuki Toyohama Chosa Matsuri) is an autumn festival representative of Seisan, the western part of Kagawa Prefecture, held throughout the Toyohama district of Kanonji City, Kagawa Prefecture. Celebrated over three days ending on the second Sunday of October each year, it is a festival that prays for a rich harvest and a good catch, and is known as the time when the town is at its most heated and lively of the whole year. The stars are the huge drum floats called chosa, and their resplendent forms, decorated with gorgeous embroidery of gold and silver thread, color the autumn of Toyohama.
+
+The greatest highlight of this festival is the valiant sight of huge drum floats, lifted up by the men, dancing wildly. The chosa, reaching about five meters in height and several tons in weight, parade through the town to the sound of drums, and on the final day many chosa gather at Ichinomiya Shrine to hold the kakikurabe, a lifting contest. Wrapped in the shouts and heat of the bearers, the festival has been carefully handed down by the hands of local people as the pride of Toyohama, a port town of the Seto Inland Sea.
+
+## History and Origins
+
+The Toyohama Chosa Festival has long been handed down among the people of Toyohama as an autumn festival praying for a rich harvest and a good catch. Facing the Seto Inland Sea, Toyohama has been a land supported since ancient times by both agriculture and fishing, and the festival has been held in the autumn of the harvest with gratitude for its bounty. The character of this festival, giving thanks for the blessings of both the sea and the land, reflects the very life of a region that has practiced farming and fishing under the mild climate of the Seto Inland Sea.
+
+The chosa, the stars of the festival, are a kind of drum float seen widely on the Seto Inland Sea side of Shikoku, including Kagawa Prefecture. In Kanonji City alone, a total of as many as one hundred and eighteen chosa have been handed down, and in October chosa festivals are held one after another in each district of the city. The culture of each town maintaining a drum float, decorating it gorgeously, and competing is a great feature of the festivals of this region, and among them the Toyohama Chosa Festival boasts a scale and splendor representative of Seisan.
+
+The gorgeousness of the chosa lies in embroidery that lavishly uses gold and silver thread. On the hangings of the drum floats, designs such as dragons are rendered in intricate embroidery, and their resplendent forms overwhelm all who see them. The dragon deity is also a god of water, and in this decoration are contained the prayers of people for abundant water and a rich harvest. As the words of a local person, who said tears come unbidden at the sight of a drum float with lit lanterns parading along the ridges between the fields, convey, this festival has been a support for the hearts of the people of Toyohama.
+
+Handed down over many long years, the Toyohama Chosa Festival has now developed into a major event representative of the autumn festivals of Seisan. The gorgeous drum floats and the valiant kakikurabe have come to draw many spectators not only from within Kagawa Prefecture but also from outside it. The tradition of the whole town supporting the festival has been handed down across the generations, and the Toyohama Chosa Festival continues to be heatedly preserved as a festival symbolizing the unity and pride of the region.
+
+## Highlights
+
+**The Kakikurabe at Ichinomiya Shrine**
+The climax of the festival is the kakikurabe, held on the final day when many chosa gather at Ichinomiya Shrine. The bearers combine their strength to lift the huge drum floats, weighing several tons, high aloft and compete in valor. The sight of chosa filling the precincts, the shouts of the bearers, and the cheers of the spectators becoming one is breathtaking, and the heat of the festival reaches its peak.
+
+**The Gorgeous Drum Floats of Gold and Silver Thread**
+The intricate embroidery of gold and silver thread that adorns the chosa is a symbol of the beauty of this festival. On the hangings of the drum floats, designs such as dragons are gorgeously rendered, and their resplendently gleaming forms captivate all who see them, day or night. In the decoration featuring the dragon, a god of water, are contained the prayers of people for a rich harvest and a good catch, and the spirit of each town is concentrated in every single drum float.
+
+**The Wild Dance of Huge Drum Floats**
+The sight of a great number of men lifting up and parading a huge chosa, reaching about five meters in height and several tons in weight, is full of power. The way the drum float sways up and down to the sound of the drums, and the bearers dance wildly in unison, is full of strength and dynamism. The skill and unity required to handle such a huge drum float by human power alone is the very essence of the chosa festival.
+
+**The Drum Floats Lit by Lanterns at Night**
+When night falls, the chosa are lit by the light of lanterns, showing an expression different from the day and full of fantasy. The sight of drum floats clad in light parading along the field ridges and through the town is rich in feeling, and for local people it is moving enough to bring tears. The chosa at night, with the gold-thread embroidery emerging in the soft light, is a beauty unique to this festival.
+
+**Varied Rites and Performing Arts**
+At the Toyohama Chosa Festival, besides the kakikurabe, varied rites and performing arts unfold, such as the oiri at Toyohama Hachiman Shrine, the kakijo at Isuzu Shrine, the Minoura lion dance, and the boat procession. Because events of differing character are held one after another in each district, one can enjoy various expressions of the festival throughout the three days.
+
+**The Festival Heat Wrapping the Whole Town**
+For three days in October, the whole town of Toyohama is wrapped in the sound of drums and heat. The sight of the town, with chosa parading here and there and the shouts of the bearers echoing out, is full of a vitality befitting the special stage of the year. This festival, in which people of all ages become one in celebration, is the most special time of the year for the people of Toyohama.
+
+## Access and Information
+
+- Location: Toyohama district, Kanonji City, Kagawa Prefecture
+- Venue: Throughout the Toyohama district (Ichinomiya Shrine, Toyohama Hachiman Shrine, and others)
+- Dates: Three days ending on the second Sunday of October each year (the Friday, Saturday, and Sunday of the second week)
+- Drum floats: Many huge chosa (about five meters tall, several tons in weight)
+- Access: From JR Toyohama Station on the Yosan Line to the venue area
+- Organizer and inquiries: Sanuki Toyohama Chosa Festival Executive Committee and Kanonji City
+
+## Around the Area
+
+Kanonji City, where the festival is held, is the central city of western Kagawa Prefecture facing the Seto Inland Sea, and it is a region where the drum float culture flourishes, with a total of one hundred and eighteen chosa handed down within the city. Since chosa festivals are also held in districts other than Toyohama in October, visiting at the right time allows one to savor the breadth of the gorgeous drum float culture rooted throughout Seisan.
+
+In Kanonji City there is Kotohiki Park, known for the huge sand picture of an old coin, the Kanei Tsuho, drawn on the beach, and it is cherished as a scenic spot overlooking the Seto Inland Sea. Together with festival viewing, one can enjoy the calm sea and beautiful scenery of the Seto Inland Sea, as well as fresh seafood.
+
+Western Kagawa Prefecture, including Kanonji City, is also a land of pilgrimage where the sacred sites of the eighty-eight temples of Shikoku are scattered, and many temples and shrines spread around the area. Visiting in the season of the Toyohama Chosa Festival, one can fully savor the mild climate of the Seto Inland Sea and the history and culture of Sanuki, together with the valiant festival of drum floats.
+
+## Related Information
+
+- Month: October (autumn)
+- Prefecture and region: Toyohama district, Kanonji City, Kagawa Prefecture, Seisan (western Kagawa)
+- Main venues: Ichinomiya Shrine (kakikurabe) and Toyohama Hachiman Shrine, among others
+- Features: The wild dance and lifting contest of huge drum floats, the chosa, decorated with gold and silver embroidery
+- Purpose: Prayer for a rich harvest and a good catch','toyohama-chosa-festival','toyohama-chosa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11662899','静岡まつり','Shizuoka Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16638525','長岡京ガラシャ祭','Garasha Matsuri',NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11657228','阿佐谷七夕まつり','Asagaya Tanabata Festival','日本の東京都杉並区阿佐ヶ谷駅前で毎年8月に開かれる七夕祭り',NULL,'Q11657226','阿佐谷パールセンター','Asagaya Pearl Center','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asagaya%20Tanabata%202015%2011.JPG','https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','阿佐谷七夕まつり（あさがやたなばたまつり）は、東京都杉並区のJR阿佐ヶ谷駅前にある「阿佐谷パールセンター」商店街を中心に、毎年8月に開催される七夕祭りである。1954年(昭和29年)に始まった歴史ある祭りで、仙台・平塚と並んで「関東三大七夕祭り」の一つにも数えられる、東京を代表する夏の風物詩である。
