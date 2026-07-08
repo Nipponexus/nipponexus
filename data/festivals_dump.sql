@@ -13477,15 +13477,125 @@ Matsumoto City is a castle town centered on the National Treasure Matsumoto Cast
 
 Matsumoto-Bonbon is a festival in which tradition and the modern era are joined, having developed into a modern citizen-participation summer festival while inheriting the name of the "bonbon" Tanabata custom with origins in the Edo period. While boasting the largest scale in Nagano Prefecture, with more than 140 organizations and over 7,000 dancers participating, at its foundation lies an open sense of unity in which anyone can join the circle of dance. Staged in a castle town that holds the National Treasure Matsumoto Castle, this festival, which enlivens the short summer of Shinshu as a whole town, will continue to color the summer of Matsumoto warmly for years to come, while passing the region''s tradition on to the future.','matsumoto-bonbon','matsumoto-bonbon',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11566707','瀬波大祭','Senami Festival','新潟県村上市の祭事',NULL,'Q284503','村上市','Murakami','新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%80%AC%E6%B3%A2%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11568981','熊野速玉祭','Kumano Hayatama Matsuri','和歌山県新宮市にある熊野速玉大社の例大祭',NULL,'Q335618','熊野速玉大社','Kumano Hayatama Taisha','和歌山県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BE%A1%E8%88%B9%E7%A5%AD%20%E6%97%A9%E8%88%B9.JPG','https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E9%80%9F%E7%8E%89%E7%A5%AD',NULL,85,'drafted','熊野速玉祭（くまのはやたままつり）は、和歌山県新宮市にある熊野速玉大社の例大祭で、毎年10月15日・16日に斎行される。世界遺産「紀伊山地の霊場と参詣道」を構成する熊野三山の一社・熊野速玉大社に伝わる、千年以上の歴史を誇る格式高い神事である。
+INSERT INTO "festivals" VALUES('Q11568981','熊野速玉祭','Kumano Hayatama Matsuri','和歌山県新宮市にある熊野速玉大社の例大祭',NULL,'Q335618','熊野速玉大社','Kumano Hayatama Taisha','和歌山県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BE%A1%E8%88%B9%E7%A5%AD%20%E6%97%A9%E8%88%B9.JPG','https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E9%80%9F%E7%8E%89%E7%A5%AD',NULL,85,'drafted','## 概要
 
-この祭りは二日間にわたって執り行われる。15日の「神馬渡御式(しんめとぎょしき)」では、神霊を遷した神馬が氏子区域を巡幸する。そして16日の「御船祭(みふねまつり)」が、本祭りの最大の見どころである。神霊を乗せた神幸船(しんこうせん)を、9艘の早船(はやぶね)が熊野川の御船島(みふねじま)をめぐって競い合う勇壮な船渡御で、川面を疾走する早船と水しぶき、漕ぎ手たちの掛け声が、熊野の聖なる川を熱気で包む。
+熊野速玉祭（くまのはやたままつり）は、和歌山県新宮市に鎮座する熊野速玉大社の例大祭で、毎年十月十五日・十六日の二日間にわたって斎行される、熊野を代表する荘厳な祭礼です。熊野速玉大社は熊野本宮大社・熊野那智大社とともに「熊野三山」を構成する古社であり、ユネスコ世界遺産「紀伊山地の霊場と参詣道」の一部として登録されています。千年以上にわたって篤い信仰を集めてきた熊野の地で、その中心たる熊野速玉大社の一年で最も重要な祭りとして受け継がれてきました。
 
-熊野速玉大社は、古来「熊野詣」で知られる熊野信仰の中心地の一つであり、上皇や貴族から庶民に至るまで、数多の人々が参詣した聖地である。その例大祭である熊野速玉祭は、熊野川という聖なる水の流れと深く結びつき、神々の渡御を船によって表現する点に大きな特色がある。2016年には国の重要無形民俗文化財に指定され、熊野の自然信仰と祭礼文化の精髄を今に伝えている。','The Kumano Hayatama Matsuri is the grand annual festival of Kumano Hayatama Taisha in Shingū, Wakayama Prefecture, held each year on October 15th and 16th. It is a prestigious rite with over a thousand years of history, handed down at Kumano Hayatama Taisha—one of the three Kumano shrines that make up the UNESCO World Heritage "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range."
+この祭りの最大の見どころは、初日の「神馬渡御式（しんめとぎょしき）」と、二日目の「御船祭（みふねまつり）」です。御船祭では、御神霊を乗せた御幸舟が熊野川をさかのぼり、川の河口近くにある御船島を目指す川渡御が行われ、これを先導するように九隻の早船が熊野川を舞台に勇壮な競漕を繰り広げます。悠久の大河と神々の物語が一体となったこの祭りは、平成二十八年（二〇一六年）に国の重要無形民俗文化財に指定され、その文化的価値が高く評価されています。
 
-The festival unfolds over two days. On the 15th, the "Shinme Togyo" rite sees a sacred horse, carrying the divine spirit, parade through the parishioners'' district. The "Mifune Matsuri" boat festival on the 16th is the main highlight. In this dramatic riverborne procession, nine swift boats race around Mifune Island on the Kumano River, escorting the sacred vessel bearing the divine spirit. The swift boats speeding across the water, the spray, and the chants of the rowers fill Kumano''s sacred river with fervor.
+## 歴史と由来
 
-Kumano Hayatama Taisha has long been one of the centers of Kumano faith, famed for the "Kumano pilgrimage," a sacred site visited by countless people from retired emperors and aristocrats to commoners. Its grand festival, the Kumano Hayatama Matsuri, is deeply tied to the sacred flow of the Kumano River, distinguished by its expression of the deities'' procession by boat. Designated an Important Intangible Folk Cultural Property of Japan in 2016, it conveys the essence of Kumano''s nature worship and festival culture to the present day.','kumano-hayatama-matsuri','kumano-hayatama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+熊野速玉大社は、熊野信仰の中心をなす「熊野三山」の一社です。熊野三山とは、熊野本宮大社・熊野速玉大社・熊野那智大社の三社を指し、それぞれ個別の自然崇拝に起源を持ちながら、やがて三社の主祭神を相互に勧請し合い「熊野三所権現」として一体的に信仰されるようになりました。この熊野信仰は千年以上の歴史を持ち、上皇や貴族から庶民にいたるまで、あらゆる階層の人々が「蟻の熊野詣」と称されるほど熊野の地を目指した、日本の信仰史における大きな潮流をなしています。
+
+熊野速玉大社の主祭神は熊野速玉大神で、熊野の地に古くから根づいた自然崇拝を源流としています。熊野三山を結ぶ参詣道「熊野古道」とともに、高野山や吉野・大峯の霊場を含む一帯は、二〇〇四年にユネスコ世界遺産「紀伊山地の霊場と参詣道」として登録されました。熊野速玉祭は、こうした世界に認められた聖地で執り行われる祭礼であり、熊野信仰の伝統を今に伝える貴重な行事です。
+
+祭りの中核をなすのは、御神霊が神馬や船に乗って渡御するという神事です。初日の神馬渡御式では、御神霊が神馬に奉安されて御旅所である「杉のお仮宮」へと渡御し、二日目の御船祭では御神霊が舟に乗って熊野川を渡ります。水と山に育まれた熊野の自然そのものを舞台とするこれらの神事は、自然崇拝に起源を持つ熊野信仰の本質を色濃く映し出しています。
+
+長い年月を経て伝承されてきた熊野速玉祭は、平成二十八年（二〇一六年）に「熊野速玉大祭」として国の重要無形民俗文化財に指定されました。世界遺産の聖地で連綿と受け継がれてきた神事の数々が、民俗文化財としても公的に高く評価されたのです。地域の人々の手によって守られてきたこの祭りは、熊野の歴史と信仰を未来へとつなぐ大切な役割を担い続けています。
+
+## 見どころ
+
+**熊野川を舞台にした御船祭**
+祭り二日目のハイライトが、熊野川を舞台とする御船祭です。御神霊を乗せた御幸舟が大河をさかのぼり、河口近くの御船島を目指して川を渡御する光景は、悠久の自然と神事が融合した壮大なものです。清流と山々に囲まれた熊野川を進む神事の舟の姿は、他の祭りでは見られない神秘的な美しさをたたえています。
+
+**九隻の早船競漕**
+御幸舟の川渡御を先導するように、九隻の早船が熊野川で勇壮な競漕を繰り広げます。漕ぎ手たちが力の限りに櫂を操り、水しぶきを上げて競い合う早船競漕は、御船祭最大の見せ場です。新宮の伝統の担い手として受け継がれてきたこの競漕には、地域の人々の熱意と誇りが込められています。
+
+**神馬渡御式**
+初日に行われる神馬渡御式は、御神霊が神馬に奉安されて御旅所の「杉のお仮宮」へ渡御する厳かな神事です。神馬にのって静かに進む渡御の列は、荘重で神々しい雰囲気に包まれています。御船祭の躍動感とは対照的な、静謐で格式高い神事として、祭りに深い趣を添えています。
+
+**神なぎの舞の奉奏**
+初日の本殿大前ノ儀では、全国からの参拝者が参列するなか、「神なぎの舞」が奉奏されます。神前で舞われるこの神楽は、熊野速玉大社の格式と信仰の深さを感じさせるもので、祭りの厳粛な幕開けを飾ります。神聖な舞にふれることで、熊野の祭りが本来持つ祈りの本質を感じ取ることができます。
+
+**世界遺産の聖地という舞台**
+祭りが行われる熊野速玉大社そのものが、世界遺産「紀伊山地の霊場と参詣道」を構成する聖地です。千年以上にわたり人々の信仰を集めてきた熊野三山の一社という特別な舞台で執り行われる祭礼は、単なる年中行事を超えた重みを持ちます。聖地の空気のなかで神事を体感できることが、この祭りの大きな魅力です。
+
+**熊野信仰の物語にふれる**
+熊野速玉祭は、水と山に育まれた熊野の自然崇拝に起源を持つ神事の数々で構成されています。神馬による渡御、川を渡る御神霊、それを先導する早船競漕という一連の流れには、自然と神々が一体となった熊野信仰の世界観が凝縮されています。祭りを通じて、日本の信仰史を彩ってきた熊野の物語にふれることができます。
+
+## 開催情報・アクセス
+
+- 開催地: 和歌山県新宮市
+- 会場: 熊野速玉大社および熊野川一帯
+- 開催時期: 毎年十月十五日・十六日
+- 主な神事: 神馬渡御式（十五日）・御船祭と早船競漕（十六日）
+- アクセス: JR紀勢本線「新宮駅」から会場まで徒歩圏
+- 主催・問い合わせ: 熊野速玉大社
+
+## 周辺の見どころ
+
+祭りの舞台となる熊野速玉大社は、朱塗りの社殿が美しい熊野三山の一社で、境内には国の天然記念物であるナギの大樹などがあり、熊野信仰の歴史を静かに物語っています。祭りの日以外にも、世界遺産の聖地として全国から参拝者が絶えず、熊野の深い信仰の空気にふれることができます。
+
+熊野速玉大社の摂社である神倉神社は、ゴトビキ岩と呼ばれる巨岩をご神体とし、急峻な石段を上った先に鎮座する熊野信仰の原点ともいえる聖地です。毎年二月に行われる勇壮な火祭り「御燈祭り」でも知られ、熊野速玉大社とあわせて訪れる価値があります。
+
+新宮市を含む熊野地域には、熊野本宮大社・熊野那智大社という熊野三山の他の二社や、熊野古道をはじめとする世界遺産の見どころが数多く広がっています。熊野速玉祭の季節に熊野を訪れれば、川を舞台にした壮大な神事とともに、聖地・熊野の自然と信仰が織りなす奥深い世界を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 十月（秋）
+- 都道府県・地域: 和歌山県新宮市・紀伊半島（熊野地方）
+- 神社: 熊野速玉大社（熊野三山の一社・主祭神は熊野速玉大神）
+- 文化財指定: 「熊野速玉大祭」は二〇一六年に国の重要無形民俗文化財
+- 世界遺産: 熊野速玉大社はユネスコ世界遺産「紀伊山地の霊場と参詣道」の構成資産','## Overview
+
+The Kumano Hayatama Festival (Kumano Hayatama Matsuri) is the grand annual festival of Kumano Hayatama Taisha, enshrined in Shingu City, Wakayama Prefecture, and is a solemn festival representative of the Kumano region, celebrated over two days on October 15 and 16 each year. Kumano Hayatama Taisha is an ancient shrine that, together with Kumano Hongu Taisha and Kumano Nachi Taisha, makes up the Kumano Sanzan, the Three Grand Shrines of Kumano, and it is registered as part of the UNESCO World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range. In the land of Kumano, which has drawn deep faith for more than a thousand years, this festival has been handed down as the most important festival of the year at Kumano Hayatama Taisha, the very heart of that faith.
+
+The greatest highlights of this festival are the Shinme Togyo Shiki, the sacred horse procession, on the first day, and the Mifune Matsuri, the boat festival, on the second day. In the boat festival, the sacred vessel bearing the divine spirit travels up the Kumano River toward Mifunejima, an island near the river mouth, and as if leading it, nine swift boats stage a valiant race upon the Kumano River. This festival, in which the eternal great river and the tales of the gods are united, was designated an Important Intangible Folk Cultural Property of the nation in 2016, and its cultural value is highly esteemed.
+
+## History and Origins
+
+Kumano Hayatama Taisha is one of the shrines of the Kumano Sanzan, which forms the heart of Kumano faith. The Kumano Sanzan refers to the three shrines of Kumano Hongu Taisha, Kumano Hayatama Taisha, and Kumano Nachi Taisha. Each has its origins in a separate form of nature worship, but in time the shrines invoked one another''s principal deities and came to be worshipped together as the Kumano Sanjo Gongen. This Kumano faith has a history of more than a thousand years, and people of every class, from retired emperors and nobles to commoners, sought the land of Kumano in such numbers that it was called the Kumano pilgrimage of the ants, forming a great current in the history of Japanese religion.
+
+The principal deity of Kumano Hayatama Taisha is Kumano Hayatama no Okami, whose source lies in the nature worship long rooted in the land of Kumano. Together with the Kumano Kodo, the pilgrimage routes linking the Kumano Sanzan, the region including the sacred sites of Mount Koya and Yoshino and Omine was inscribed in 2004 as the UNESCO World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range. The Kumano Hayatama Festival is a rite performed in such a world-recognized sacred place, and it is a precious event that conveys the tradition of Kumano faith to this day.
+
+At the core of the festival are the rites in which the divine spirit travels in procession riding a sacred horse or a boat. In the sacred horse procession on the first day, the divine spirit is installed upon a sacred horse and travels to the Sugi no Okarimiya, the resting place of the deity, and in the boat festival on the second day the divine spirit crosses the Kumano River aboard a vessel. These rites, which take as their stage the very nature of Kumano nurtured by water and mountains, vividly reflect the essence of Kumano faith, whose origins lie in nature worship.
+
+Handed down over many long years, the Kumano Hayatama Festival was designated an Important Intangible Folk Cultural Property of the nation as the Kumano Hayatama Grand Festival in 2016. The many rites continuously handed down in a World Heritage sacred site were thus officially and highly esteemed as folk cultural property. Preserved by the hands of local people, this festival continues to bear the important role of connecting the history and faith of Kumano to the future.
+
+## Highlights
+
+**The Boat Festival on the Kumano River**
+The highlight of the second day is the boat festival, which takes the Kumano River as its stage. The sight of the sacred vessel bearing the divine spirit traveling up the great river toward Mifunejima near the mouth is a grand scene in which eternal nature and sacred rite are fused. The figure of the sacred boat advancing along the Kumano River, surrounded by clear waters and mountains, holds a mysterious beauty not seen at other festivals.
+
+**The Race of Nine Swift Boats**
+As if leading the river procession of the sacred vessel, nine swift boats stage a valiant race upon the Kumano River. The swift boat race, in which the rowers ply their oars with all their strength and compete amid flying spray, is the greatest spectacle of the boat festival. Handed down by the bearers of Shingu''s traditions, this race is imbued with the passion and pride of the local people.
+
+**The Sacred Horse Procession**
+The sacred horse procession held on the first day is a solemn rite in which the divine spirit, installed upon a sacred horse, travels to the resting place called the Sugi no Okarimiya. The procession advancing quietly upon the sacred horse is wrapped in a grave and sacred atmosphere. In contrast to the dynamism of the boat festival, it adds deep charm to the festival as a serene and dignified rite.
+
+**The Performance of the Kannagi Dance**
+At the Honden Omae no Gi on the first day, with worshippers gathered from all over the country, the kannagi dance is performed. This kagura, danced before the gods, conveys the prestige of Kumano Hayatama Taisha and the depth of its faith, adorning the solemn opening of the festival. By encountering this sacred dance, one can sense the essence of prayer that the festival of Kumano originally holds.
+
+**The Stage of a World Heritage Sacred Site**
+Kumano Hayatama Taisha itself, where the festival takes place, is a sacred site making up the World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range. A festival performed on the special stage of one of the shrines of the Kumano Sanzan, which has drawn the faith of people for more than a thousand years, carries a weight beyond that of an ordinary annual event. To experience the rites within the air of a sacred place is a great appeal of this festival.
+
+**Encountering the Tale of Kumano Faith**
+The Kumano Hayatama Festival is composed of many rites originating in the nature worship of Kumano, nurtured by water and mountains. In the sequence of the sacred horse procession, the divine spirit crossing the river, and the swift boat race leading it, the worldview of Kumano faith, in which nature and the gods are one, is concentrated. Through the festival, one can touch the tale of Kumano that has colored the history of Japanese religion.
+
+## Access and Information
+
+- Location: Shingu City, Wakayama Prefecture
+- Venue: Kumano Hayatama Taisha and the area along the Kumano River
+- Dates: October 15 and 16 each year
+- Main rites: Sacred horse procession (15th); boat festival and swift boat race (16th)
+- Access: Within walking distance from JR Shingu Station on the Kisei Main Line to the venue
+- Organizer and inquiries: Kumano Hayatama Taisha
+
+## Around the Area
+
+Kumano Hayatama Taisha, the setting of the festival, is one of the shrines of the Kumano Sanzan with beautiful vermilion-lacquered halls, and within its precincts stands a great nagi tree, a natural monument of the nation, quietly telling the history of Kumano faith. Even outside the festival days, as a World Heritage sacred site it receives an unending stream of worshippers from across the country, where one can touch the air of Kumano''s deep faith.
+
+Kamikura Shrine, an auxiliary shrine of Kumano Hayatama Taisha, takes as its object of worship a huge rock called Gotobiki-iwa and is enshrined at the top of a steep stone stairway, a sacred site that may be called the very origin of Kumano faith. It is also known for the valiant fire festival, the Oto Matsuri, held every February, and is well worth visiting together with Kumano Hayatama Taisha.
+
+The Kumano region, including Shingu City, is home to many World Heritage attractions, such as the other two shrines of the Kumano Sanzan, Kumano Hongu Taisha and Kumano Nachi Taisha, and the Kumano Kodo pilgrimage routes. Visiting Kumano in the season of the Kumano Hayatama Festival, one can fully savor the profound world woven by the nature and faith of the sacred land of Kumano, together with the grand rites staged upon the river.
+
+## Related Information
+
+- Month: October (autumn)
+- Prefecture and region: Shingu City, Wakayama Prefecture, Kii Peninsula (Kumano region)
+- Shrine: Kumano Hayatama Taisha (one of the Kumano Sanzan; principal deity Kumano Hayatama no Okami)
+- Cultural property designation: The Kumano Hayatama Grand Festival, designated an Important Intangible Folk Cultural Property of the nation in 2016
+- World Heritage: Kumano Hayatama Taisha is a component of the UNESCO World Heritage Sacred Sites and Pilgrimage Routes in the Kii Mountain Range','kumano-hayatama-matsuri','kumano-hayatama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11566794','灘のけんか祭り','Nada no kenka matsuri',NULL,'festival in Himeji, Japan',NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Nada%20no%20Kenka%20matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,80,'drafted','## 概要
 
 灘のけんか祭りは、兵庫県姫路市の松原八幡神社で毎年10月14日・15日に行われる秋季例大祭である。「灘祭り」とも呼ばれ、3基の神輿を勢いよくぶつけ合わせる神事と、絢爛豪華な7台の屋台（やぐら）の練り合わせで知られる、日本でも有数の勇壮な祭りである。神輿同士を激しく衝突させるその荒々しさから「けんか祭り」の名で全国に知られ、毎年2日間で十数万人の見物客を集める。
