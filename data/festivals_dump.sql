@@ -12135,15 +12135,125 @@ The area around Nezu in Bunkyo Ward, where Nezu Shrine is located, is part of th
 
 The Bunkyo Azalea Festival is a spring festival that originated with azaleas transplanted from Joshu Tatebayashi in the Edo period and has been carried on for more than half a century in the precincts of Nezu Shrine, which holds Important Cultural Properties of the nation. The view woven by the Tsutsuji-en, where some 100 varieties and 3,000 azalea plants bloom, and the vermilion shrine buildings is widely cherished as one of the foremost azalea spots in Tokyo. Because the festival period, the garden''s opening hours, and the peak viewing change from year to year, it is best to confirm the latest information through official announcements from Nezu Shrine before visiting.','bunkyo-tsutsuji-matsuri','bunkyo-tsutsuji-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q30922504','きさわ樹氷まつり','Kisawa Juhyō Matsuri',NULL,'festival','Q11519197','木沢村','Kisawa',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%95%E3%82%8F%E6%A8%B9%E6%B0%B7%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q24896695','姥神大神宮渡御祭','Ubagami Daijingū Togyosai','北海道江差町にある姥神大神宮の例大祭',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A5%9E%E8%BC%BF%E6%B8%A1%E5%BE%A11.jpg','https://ja.wikipedia.org/wiki/%E5%A7%A5%E7%A5%9E%E5%A4%A7%E7%A5%9E%E5%AE%AE%E6%B8%A1%E5%BE%A1%E7%A5%AD',NULL,85,'drafted','姥神大神宮渡御祭（うばがみだいじんぐうとぎょさい）は、北海道檜山郡江差町(えさしちょう)の姥神大神宮の例大祭で、毎年8月に行われる。370年以上の歴史を誇る北海道最古の祭りとされ、絢爛豪華な山車(やま)が日本海に面した港町・江差を練り歩く、北海道を代表する勇壮な祭礼である。
+INSERT INTO "festivals" VALUES('Q24896695','姥神大神宮渡御祭','Ubagami Daijingū Togyosai','北海道江差町にある姥神大神宮の例大祭',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A5%9E%E8%BC%BF%E6%B8%A1%E5%BE%A11.jpg','https://ja.wikipedia.org/wiki/%E5%A7%A5%E7%A5%9E%E5%A4%A7%E7%A5%9E%E5%AE%AE%E6%B8%A1%E5%BE%A1%E7%A5%AD',NULL,85,'drafted','## 概要
 
-江差は江戸時代、ニシン漁と北前船(きたまえぶね)交易で大いに栄えた港町で、「江差の五月は江戸にもない」と謳われるほどの繁栄を極めた。その豊かな経済力を背景に、本州の祭礼文化が伝わり、豪華な山車文化が花開いた。祭りで巡行する13台の山車は、本州由来の精巧な彫刻や人形で飾られ、北の港町に華やかな彩りを添える。
+姥神大神宮渡御祭（うばがみだいじんぐうとぎょさい）は、北海道檜山郡江差町に鎮座する姥神大神宮の例大祭で、毎年八月九日から十一日までの三日間にわたって行われる、北海道を代表する夏祭りです。三百七十年以上の歴史を誇り、蝦夷地（北海道）最古の祭りとして知られています。江差町三大まつりの一つに数えられ、かつてニシン漁で栄えた港町・江差の歴史と誇りを今に伝える、絢爛豪華な祭礼です。
 
-祭りは三日間にわたって行われ、最大の見どころは山車の巡行である。「ソーラン」の掛け声とともに、笛や太鼓の祭囃子を奏でながら、巨大な山車が江差の町を練り歩く。なかには300年近い歴史を持つ人形を載せた山車もあり、その歴史の重みを感じさせる。ニシン漁で栄えた往時の繁栄を今に伝える姥神大神宮渡御祭は、北海道開拓以前から続く歴史と、海とともに生きてきた江差の人々の心意気を伝える、北の大地の貴重な祭礼である。','The Ubagami Daijingū Togyosai is the grand annual festival of Ubagami Daijingū Shrine in Esashi, Hiyama District, Hokkaido, held every August. Regarded as Hokkaido''s oldest festival with over 370 years of history, it is a spirited celebration representative of Hokkaido, in which magnificent and ornate floats (yama) parade through the port town of Esashi facing the Sea of Japan.
+祭りの主役は、町内に伝わる十三台の山車（ヤマ）と三基の神輿です。神輿の渡御に十三台の山車が供奉して町中を練り歩き、豊作・豊漁・無病息災を祈念して巡行します。赤朱と黒の漆で塗り上げられた豪華な山車が、北の港町の夏を熱気で包み込む光景は圧巻です。北海道の指定無形民俗文化財として、地域の人々の手で大切に受け継がれてきました。
 
-In the Edo period, Esashi flourished greatly as a port town through herring fishing and the kitamaebune trade, reaching such prosperity that it was said "Esashi in May has no equal even in Edo." Against the backdrop of its economic prosperity, the festival culture of Honshū was transmitted there, and a lavish float culture flourished. The thirteen floats that process at the festival are adorned with intricate carvings and figures of Honshū origin, adding splendid color to the northern port town.
+## 歴史と由来
 
-The festival is held over three days, and its greatest highlight is the float procession. To chants of "soran" and the festival music of flutes and drums, the gigantic floats parade through the town of Esashi. Among them are floats bearing figures with nearly 300 years of history, conveying the weight of that history. Conveying to this day the prosperity of bygone days when herring fishing flourished, the Ubagami Daijingū Togyosai is a precious festival of the northern land, transmitting a history dating from before the development of Hokkaido and the spirit of the people of Esashi, who have lived together with the sea.','ubagami-daijingu-togyosai','ubagami-daijingu-togyosai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+姥神大神宮渡御祭の起源は、およそ一六四四年にまでさかのぼると伝えられ、三百七十年以上の長い歴史を持っています。これは蝦夷地（北海道）で最も古い祭りとされており、開拓の歴史が比較的浅い北海道にあって、江戸時代前期から連綿と受け継がれてきたこの祭りの古さは際立っています。江差という港町が、いかに早くから本州との交易で栄えていたかを物語る貴重な文化遺産です。
+
+この祭りは、江差の繁栄を支えたニシン漁と深く結びついています。かつて江差はニシン漁で大いに賑わい、「江差の五月は江戸にもない」とうたわれるほどの活況を呈しました。ニシン漁を終えた夏、その豊漁に感謝を込めて始まったのが渡御祭の起源とされています。海の恵みへの感謝と、次の年の豊漁・豊作を願う人々の祈りが、この壮大な祭りを育んできたのです。
+
+祭りの名を冠する姥神大神宮は、地域の総鎮守として古くから信仰を集めてきました。姥神という社名の由来には土地にまつわる史実が伝えられており、この地域が「姥神町」と名付けられた由来ともなっています。神輿の渡御に町内の山車が供奉して巡行するという祭礼のかたちは、こうした地域の信仰と結びつきながら、長い年月をかけて現在の姿へと発展してきました。
+
+北海道最古のこの祭りは、その歴史的・文化的価値の高さから、北海道の指定無形民俗文化財となっています。豪華な山車をはじめとする祭具や、供奉巡行の伝統は、江差の町衆によって代々守り伝えられてきました。ニシン景気に沸いた往時の繁栄と、海とともに生きてきた港町の記憶を今に伝える祭りとして、江差の人々の誇りとなり続けています。
+
+## 見どころ
+
+**十三台の豪華な山車の巡行**
+姥神大神宮渡御祭の象徴が、町内に伝わる十三台の山車（ヤマ）の巡行です。いずれも車台は赤朱と黒の漆で塗り上げられた豪華なもので、江差の繁栄を今に伝えています。十二台は御所車ふうの台車に二層・三層の桟敷を設けた山車で、絢爛な装飾を凝らした姿が港町の夏を彩ります。
+
+**船形の山車「松寳丸」**
+十三台の山車のうち、一台だけが船の形をした「松寳丸（まつほうまる）」であることも大きな見どころです。海とともに生きてきた港町・江差ならではの、船を模した山車は他の山車とは異なる独特の存在感を放ちます。ニシン漁で栄えた江差の歴史を象徴するこの山車は、祭りのなかでもひときわ目を引きます。
+
+**三基の神輿の渡御**
+祭りの中心をなすのは、姥神大神宮から出御する三基の神輿の渡御です。十三台の山車がこの神輿に供奉して町中を練り歩き、豊漁・豊作・無病息災を祈念します。神輿を中心に山車が連なって進む壮大な行列は、三日間にわたって江差の町を祭り一色に染め上げます。
+
+**宿入之儀（やどいれのぎ）**
+祭りのクライマックスが、町内をめぐった神輿が姥神大神宮の拝殿へと続く階段を一気に駆け上がる「宿入之儀」です。担ぎ手たちが力を合わせ、掛け声とともに神輿を階段の上へと運び上げる勇壮な場面は、祭りの熱気が最高潮に達する瞬間です。緊張と歓声に包まれるこの神事は、渡御祭を締めくくる見せ場となっています。
+
+**赤朱と黒の漆塗りの美**
+山車の車台に施された赤朱と黒の漆塗りは、この祭りの美しさを際立たせています。北の港町でこれほど華麗な漆塗りの山車が受け継がれてきたのは、ニシン漁でもたらされた富があったからこそです。豪華な漆の輝きは、往時の江差の繁栄を今に伝える生きた証といえます。
+
+**北の港町の夏の熱気**
+八月の三日間、江差の町全体が祭りの空気に包まれます。山車を曳く人々の掛け声と囃子が響きわたり、町中が熱気に満ちる光景は、北海道最古の祭りにふさわしい迫力です。冷涼な北の地にあって、この時期の江差は一年で最も熱く盛り上がり、地域の結束と誇りが一つになります。
+
+## 開催情報・アクセス
+
+- 開催地: 北海道檜山郡江差町
+- 会場: 江差町中心部（姥神大神宮ほか）
+- 開催時期: 毎年八月九日〜十一日（九日宵宮、十日〜十一日神輿渡御）
+- 山車: 十三台（うち一台は船形の「松寳丸」）・神輿三基
+- アクセス: 函館方面から車またはバスで江差町中心部へ
+- 主催・問い合わせ: 姥神大神宮渡御祭協賛実行委員会・江差町
+
+## 周辺の見どころ
+
+江差町には、この祭りの豪華な山車を年間を通して見学できる江差山車会館があり、祭りの期間以外でも渡御祭の雰囲気にふれることができます。実物の山車の展示や祭りの映像を通じて、北海道最古の祭りの歴史と迫力を間近に知ることができる施設です。
+
+江差はかつてニシン漁で栄えた歴史的な港町で、町内にはその繁栄を伝える古い町並みや歴史的建造物が残されています。「いにしえ街道」と呼ばれる通りには往時の商家などが軒を連ね、江戸時代から明治時代にかけて「江差の五月は江戸にもない」とうたわれた繁栄の面影をしのぶことができます。
+
+江差町は北海道南西部の日本海に面し、周辺には豊かな自然と海の幸が広がっています。かもめ島などの景勝地や、新鮮な魚介を味わえる港町ならではの食文化も魅力です。渡御祭の季節に江差を訪れれば、北海道最古の祭りの熱気とともに、ニシン漁で栄えた港町の歴史と風情を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 八月（夏）
+- 都道府県・地域: 北海道檜山郡江差町
+- 神社: 姥神大神宮（江差の総鎮守）
+- 起源: 約一六四四年から続くとされる蝦夷地（北海道）最古の祭り・ニシン漁の豊漁感謝に由来
+- 文化財指定: 北海道の指定無形民俗文化財','## Overview
+
+The Ubagami Daijingu Togyosai is the grand annual festival of Ubagami Daijingu Shrine, enshrined in Esashi Town, Hiyama District, Hokkaido, and is a summer festival representative of Hokkaido, held over three days from August 9 to 11 each year. Boasting a history of more than 370 years, it is known as the oldest festival in Ezo, that is, Hokkaido. Counted as one of the three great festivals of Esashi Town, it is a gorgeous festival that conveys to this day the history and pride of Esashi, a port town that once flourished through herring fishing.
+
+The stars of the festival are the thirteen floats, called yama, handed down in the town, and the three mikoshi portable shrines. The thirteen floats attend the procession of the mikoshi as they parade through the town, traveling in prayer for a rich harvest, a good catch, and freedom from illness. The sight of the gorgeous floats, coated in vermilion and black lacquer, wrapping the summer of the northern port town in heat is breathtaking. As a designated intangible folk cultural property of Hokkaido, it has been carefully handed down by the hands of local people.
+
+## History and Origins
+
+The origins of the Ubagami Daijingu Togyosai are said to trace back to around 1644, giving it a long history of more than 370 years. It is regarded as the oldest festival in Ezo, Hokkaido, and in a Hokkaido whose history of settlement is relatively recent, the antiquity of this festival, handed down continuously since the early Edo period, stands out. It is a precious cultural heritage that tells how early the port town of Esashi flourished through trade with the main island of Honshu.
+
+This festival is deeply connected with the herring fishing that supported the prosperity of Esashi. In former times, Esashi thrived greatly through herring fishing, so lively that it was said the May of Esashi was not even to be found in Edo. It is said that the origin of the festival lies in gratitude for the good catch, offered in summer when the herring fishing had ended. Gratitude for the bounty of the sea, and the prayers of people for a good catch and rich harvest in the coming year, have nurtured this grand festival.
+
+Ubagami Daijingu Shrine, which lends its name to the festival, has drawn faith from ancient times as the guardian shrine of the region. The origin of the shrine''s name, Ubagami, is connected to a historical event related to the land, and it is also the origin of the name of this district, Ubagami-cho. The form of the festival, in which the floats of the town attend the procession of the mikoshi, has developed into its present shape over many long years while bound to such local faith.
+
+This oldest festival of Hokkaido, for the high value of its history and culture, is a designated intangible folk cultural property of Hokkaido. The festival implements, including the gorgeous floats, and the tradition of the attending procession, have been preserved and handed down through the generations by the townspeople of Esashi. As a festival that conveys to this day the prosperity of the herring boom of old and the memory of a port town that has lived alongside the sea, it continues to be a source of pride for the people of Esashi.
+
+## Highlights
+
+**The Procession of Thirteen Gorgeous Floats**
+The symbol of the Ubagami Daijingu Togyosai is the procession of the thirteen floats, called yama, handed down in the town. Each has a base gorgeously coated in vermilion and black lacquer, conveying the prosperity of Esashi to this day. Twelve are floats with two or three tiers of seating set upon a cart in the style of a court carriage, and their forms adorned with resplendent decoration color the summer of the port town.
+
+**The Boat-Shaped Float Matsuhomaru**
+Among the thirteen floats, the fact that one alone, the Matsuhomaru, takes the form of a boat is a major highlight. A float modeled on a ship, unique to Esashi as a port town that has lived alongside the sea, gives off a distinctive presence different from the other floats. Symbolizing the history of Esashi, which flourished through herring fishing, this float stands out conspicuously even within the festival.
+
+**The Procession of Three Mikoshi**
+At the center of the festival is the procession of three mikoshi issuing forth from Ubagami Daijingu Shrine. The thirteen floats attend these mikoshi as they parade through the town, praying for a good catch, a rich harvest, and freedom from illness. The grand procession, in which the floats follow one after another around the mikoshi, dyes the town of Esashi entirely in the colors of the festival over three days.
+
+**The Yadoire no Gi**
+The climax of the festival is the yadoire no gi, in which the mikoshi that have made their rounds of the town rush all at once up the stairway leading to the worship hall of Ubagami Daijingu Shrine. The valiant scene in which the bearers combine their strength and carry the mikoshi up the steps to shouts is the moment when the heat of the festival reaches its peak. Wrapped in tension and cheers, this rite is the great spectacle that brings the togyosai to a close.
+
+**The Beauty of Vermilion and Black Lacquer**
+The vermilion and black lacquer applied to the bases of the floats heightens the beauty of this festival. That such splendid lacquered floats have been handed down in a northern port town is precisely because of the wealth brought by herring fishing. The gorgeous gleam of the lacquer may be called a living testimony conveying the prosperity of Esashi in former days.
+
+**The Summer Heat of a Northern Port Town**
+For three days in August, the whole town of Esashi is wrapped in the air of the festival. The shouts and music of the people pulling the floats echo out, and the sight of the town filled with heat is a power befitting the oldest festival of Hokkaido. In a cool northern land, Esashi in this season is at its most heated and lively of the whole year, and the unity and pride of the region become one.
+
+## Access and Information
+
+- Location: Esashi Town, Hiyama District, Hokkaido
+- Venue: The center of Esashi Town (Ubagami Daijingu Shrine and others)
+- Dates: August 9 to 11 each year (eve festival on the 9th, mikoshi procession on the 10th and 11th)
+- Floats: Thirteen (one of which is the boat-shaped Matsuhomaru); three mikoshi
+- Access: By car or bus to central Esashi Town from the direction of Hakodate
+- Organizer and inquiries: Ubagami Daijingu Togyosai Support Executive Committee and Esashi Town
+
+## Around the Area
+
+In Esashi Town there is the Esashi Yama Kaikan, a hall where the gorgeous floats of this festival can be viewed throughout the year, so that one can touch the atmosphere of the togyosai even outside the festival period. Through displays of the actual floats and footage of the festival, it is a facility where one can come to know up close the history and power of the oldest festival of Hokkaido.
+
+Esashi is a historic port town that once flourished through herring fishing, and within the town remain old townscapes and historic buildings that convey its prosperity. Along the street called the Inishie Kaido, former merchant houses and the like stand side by side, and one can reflect upon the vestiges of the prosperity that from the Edo period to the Meiji period was celebrated in the saying that the May of Esashi was not even to be found in Edo.
+
+Esashi Town faces the Sea of Japan in the southwest of Hokkaido, and around it spread rich nature and the bounty of the sea. Scenic spots such as Kamome Island and the food culture unique to a port town, where one can taste fresh seafood, are also attractions. Visiting Esashi in the season of the togyosai, one can fully savor the heat of the oldest festival of Hokkaido, together with the history and atmosphere of a port town that flourished through herring fishing.
+
+## Related Information
+
+- Month: August (summer)
+- Prefecture and region: Esashi Town, Hiyama District, Hokkaido
+- Shrine: Ubagami Daijingu Shrine (guardian shrine of Esashi)
+- Origins: The oldest festival in Ezo, Hokkaido, said to have continued since around 1644; derived from gratitude for a good herring catch
+- Cultural property designation: A designated intangible folk cultural property of Hokkaido','ubagami-daijingu-togyosai','ubagami-daijingu-togyosai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24875391','鹿沼今宮神社祭の屋台行事','Kanuma lmamiya Shrine Festival','栃木県鹿沼市で行われる祭り',NULL,'Q110734894','今宮神社','Imamiya Shrine','栃木県','kanto',NULL,NULL,1608,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kanumaimamiyayatai.jpg','https://ja.wikipedia.org/wiki/%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','鹿沼今宮神社祭の屋台行事（かぬまいまみやじんじゃさいのやたいぎょうじ）は、栃木県鹿沼市の今宮神社で毎年10月に行われる祭礼である。1608年(慶長13年)に起源を持つとされる約400年の歴史を誇る祭りで、精巧な彫刻で飾られた豪華な屋台が町を巡行することで知られ、ユネスコの無形文化遺産に登録されている。
 
 この祭りの最大の特徴は、「彫刻屋台」と呼ばれる絢爛豪華な屋台である。鹿沼は江戸時代から木工・彫刻が盛んな町として栄え、その高い技術が屋台に惜しみなく注ぎ込まれた。龍や獅子、花鳥などをかたどった精緻で立体的な彫刻が屋台の全面を覆い尽くし、白木のままのものや極彩色のものなど、それぞれが芸術品のような美しさを誇る。約30台もの彫刻屋台が現存し、祭りには多くが繰り出される。
