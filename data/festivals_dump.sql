@@ -12878,15 +12878,129 @@ INSERT INTO "festivals" VALUES('Q28686932','べっぷ火の海まつり','Beppu 
 INSERT INTO "festivals" VALUES('Q28686621','とよはしまちなかスロータウン映画祭',NULL,NULL,NULL,'Q336431','豊橋市','Toyohashi','愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%88%E3%81%AF%E3%81%97%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24887792','やんさんま祭り','Yansanma Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%95%E3%82%93%E3%81%BE%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28732575',NULL,'Tokyo Gohan Film Festival',NULL,'film festival','Q7473516','東京','Tokyo','東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q24875082','須成祭','Sunari Festival','愛知県海部郡蟹江町で開催される祭礼','festival in Kanie town, Aichi prefecture, Japan','Q60990906','冨吉建速神社・八剱社','Sunari Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%A0%88%E6%88%90%E7%A5%AD%E3%82%8A%E6%9C%9D.jpg','https://ja.wikipedia.org/wiki/%E9%A0%88%E6%88%90%E7%A5%AD',NULL,85,'drafted','須成祭（すなりまつり）は、愛知県海部郡蟹江町(かにえちょう)の冨吉建速神社(とみよしたてはやじんじゃ)・八剱社(はちけんしゃ)で行われる祭礼で、川を舞台に繰り広げられる「天王信仰」の川祭りである。約400年の歴史を誇り、「須成祭の車楽船行事と神葭流し」として、ユネスコの無形文化遺産に登録されている。
+INSERT INTO "festivals" VALUES('Q24875082','須成祭','Sunari Festival','愛知県海部郡蟹江町で開催される祭礼','festival in Kanie town, Aichi prefecture, Japan','Q60990906','冨吉建速神社・八剱社','Sunari Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%A0%88%E6%88%90%E7%A5%AD%E3%82%8A%E6%9C%9D.jpg','https://ja.wikipedia.org/wiki/%E9%A0%88%E6%88%90%E7%A5%AD',NULL,85,'drafted','## 概要
 
-この祭りは、「宵祭(よいまつり)」と「朝祭(あさまつり)」の二日間が中心となる。最大の見どころは、蟹江川を巡行する豪華な「車楽船(だんじりぶね)」である。提灯で美しく飾られた巻藁船(まきわらぶね)が、夏の夜の川面を進む宵祭の光景は幻想的で、無数の灯りが水面に映る様は息をのむ美しさである。翌日の朝祭では、能人形を載せた車楽船が、笛や太鼓の囃子とともに川を下る。
+須成祭（すなりまつり）は、愛知県海部郡蟹江町須成に鎮座する冨吉建速神社（とみよしたけはやじんじゃ）・八剱社（はちけんしゃ）の例祭で、蟹江川を舞台に船を浮かべて行われる川祭りです。疫病退散を祈願する牛頭天王（ごずてんのう）信仰を背景に、約400年の歴史を伝えてきました。最大の見どころは、8月第1土曜日の宵祭に多くの提灯を灯した「巻藁船（まきわらぶね）」が、翌日曜日の朝祭に人形を乗せた「車楽船（だんじりぶね）」が、祭囃子を奏でながら蟹江川をゆっくりと上っていく幻想的・華麗な光景です。
 
-須成祭は、津島神社を総本社とする天王信仰に連なる祭りで、疫病退散と無病息災を祈願する。川を主な舞台とする点が大きな特色で、水郷地帯ならではの祭礼文化を体現している。「神葭流し(みよしながし)」では、人々の穢れを移した葭(よし)を川に流し、清めを行う。長い期間にわたって営まれるこの祭りは、川とともに生きてきた蟹江の人々の信仰と暮らしを今に伝える、貴重な無形文化遺産である。','The Sunari Festival is a festival held at Tomiyoshi Tatehaya Shrine and Hachiken Shrine in Kanie Town, Ama District, Aichi Prefecture—a river festival of "Tennō faith" unfolding on the water. Boasting around 400 years of history, it is registered as UNESCO Intangible Cultural Heritage under the name "the danjiri-boat event and reed-floating of the Sunari Festival."
+祭りは「車楽船行事」と「神葭流し（みよしながし）」という二つの行事を中心に構成され、最初の行事から最後の行事まで約100日を要することから「100日祭り」とも呼ばれています。伝統を守って一連の行事が受け継がれてきたことが高く評価され、2012年に国の重要無形民俗文化財に指定、2016年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録されました。全国的にも知られる尾張の代表的な川祭りとして、多くの見物客を集めています。
 
-The festival centers on two days: the "evening festival" (yoimatsuri) and the "morning festival" (asamatsuri). The greatest highlight is the ornate "danjiri boats" that travel along the Kanie River. The scene of the maki-wara boats, beautifully adorned with lanterns, advancing across the summer night river during the evening festival is dreamlike, and the sight of countless lights reflected on the water is breathtakingly beautiful. On the morning festival the next day, danjiri boats bearing Noh figures travel down the river to the music of flutes and drums.
+## 歴史と由来
 
-The Sunari Festival belongs to the Tennō faith centered on Tsushima Shrine as its head shrine, praying for the dispelling of plague and good health. Its great distinction is its use of the river as its main stage, embodying the festival culture unique to a water-country region. In the "miyoshi nagashi," reeds onto which people''s impurities have been transferred are set adrift on the river to perform purification. Conducted over a long period, this festival is a precious intangible cultural heritage conveying to this day the faith and life of the people of Kanie, who have lived together with the river.','sunari-festival','sunari-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+須成祭が行われる冨吉建速神社・八剱社は、二社から成り「須成神社」とも呼ばれる須成地区の氏神です。社伝によれば天平五年（733年）に行基菩薩により蟹江山常楽寺の鎮守として創建され、寿永元年（1182年）に木曾義仲によって修復、天文十七年（1548年）に織田信長により再建されたと伝えられています。本殿は両社とも室町時代の建築で、昭和28年に本殿と棟札が国の重要文化財に指定されました。冨吉建速神社の祭神は素盞鳴尊、八剱社の祭神は草薙神霊と熱田五神です。
+
+須成祭そのものは、この冨吉建速神社・八剱社の祭礼として400年あまりの歴史があるといわれ、疫病退散と五穀豊穣を祈願して行われてきました。江戸時代にはすでに川に船を浮かべる祭りとして営まれており、牛頭天王を疫神として祀り、その霊力によって災厄を鎮めようとする天王信仰が祭りの根底に流れています。素盞鳴尊を祭神とすることも、この天王信仰と深く結びついています。
+
+祭りの中心をなすのが「車楽船行事」と「神葭流し」です。車楽船行事では8月第1土曜日に宵祭、翌日曜日に朝祭が行われ、飾橋から天王橋まで蟹江川を祭船が上ります。一方の神葭流しは、川に茂るヨシをご神体としてまつり、これに一年の穢れや災厄を封じ込めて流し、人々の豊かな生活を祈願する行事で、疫病退散を願う天王信仰を象徴する神事です。この二つの行事が組み合わさることで、須成祭は華やかさと厳粛さを併せ持つ祭りとなっています。
+
+一連の行事は長い時間をかけて営まれます。朝祭の1週間前には、白装束の若者が手こぎ舟で蟹江川河口へ下り、ご神体をつくるヨシを刈る「葭刈（よしかり）」が行われます。刈ったヨシをご神体にして祀り、朝祭の翌日早朝に災厄を託して流すのが神葭流しです。古くは実際に川へ放流していましたが、現在は川に浮かべたのち「棚上り」で神社の棚に祀り、75日後に「棚下し」で下ろして燃やし、すべての行事が終わります。この長大な祭事の連なりが「100日祭り」の名の由来となっています。
+
+## 見どころ
+
+**提灯を灯した宵祭の巻藁船**  
+須成祭で最も幻想的なのが、8月第1土曜日の宵祭で蟹江川を上る巻藁船です。無数の提灯を半円形に飾り付けた船が、暗い川面を祭囃子とともにゆっくりと進む姿は息をのむ美しさで、水面に映る灯りが夜の蟹江を彩ります。多くの見物客がこの光景を目当てに訪れる、須成祭を象徴する場面です。
+
+**暦を表す提灯の数**  
+巻藁船を飾る提灯の数には意味が込められています。半円に飾られる巻藁提灯は1年の日数を表す365個、中心の「如意竹」に縦に並ぶ提灯は1年の月数の12個（閏年は13個）、船の全面のほおずき提灯は1月の日数の30個が灯されます。ひとつひとつの灯りが暦を象徴しており、船全体が一年の時の流れを映し出す仕掛けになっています。
+
+**人形を乗せた朝祭の車楽船**  
+翌日曜日の朝祭では、宵祭の巻藁船とは趣を変え、男女の神様の人形を乗せた車楽船が登場します。梅花や桜花で飾られた祭船が稚児を乗せ、祭囃子を奏でながら天王橋を目指す様子は、昼の光の中で華やかさが際立ちます。宵と朝で異なる船の表情を味わえるのも、この祭りならではの魅力です。
+
+**災厄を託す神葭流し**  
+車楽船の華やかさと対をなすのが、静かに営まれる神葭流しです。川のヨシをご神体とし、一年の穢れと災厄を封じ込めて流すこの神事には、疫病退散を願う天王信仰の核心が宿っています。棚上り・棚下しといった長い過程を経て行われる点に、須成祭の信仰の深さがよく表れています。
+
+**祭船のためだけに上がる御葭橋**  
+須成祭では、巻藁船や車楽船が通るときだけ橋桁を持ち上げる珍しい「巻上げ橋」の御葭橋が見どころの一つです。祭船が近づくと橋が上がり、船が通り過ぎるとまた下りるこの仕掛けは、祭りのために町のかたちそのものが工夫されてきたことを物語っています。
+
+**約100日にわたる祭事の連なり**  
+須成祭は宵祭・朝祭の二日だけの祭りではありません。7月初旬から10月下旬にかけて約100日にわたり一連の神事が続き、葭刈から神葭流し、棚上り、そして75日後の棚下しへと祭りが受け継がれていきます。この長い時間の流れそのものが須成祭の本質であり、地域が祭りとともに一年を刻んでいることを感じさせます。
+
+## 開催情報・アクセス
+
+- **開催日**：車楽船行事は毎年8月第1土曜日に宵祭、翌日曜日に朝祭（祭事全体は7月初旬〜10月下旬の約100日間）
+- **宵祭**：19時30分頃〜（提灯を灯した巻藁船が蟹江川を上る）
+- **朝祭**：9時頃〜（人形を乗せた車楽船が上る）
+- **場所**：冨吉建速神社・八剱社（須成神社）周辺、蟹江川（愛知県海部郡蟹江町須成門屋敷上1363）
+- **保護団体**：須成文化財保護委員会
+- **問合せ・アクセス**：蟹江町教育委員会等。飾橋から天王橋にかけての蟹江川沿いが観覧の中心
+
+## 周辺の見どころ
+
+須成神社のすぐ近くには、蟹江山常楽寺龍照院があります。本尊の木造十一面観音立像は国の重要文化財で、60年に一度御開帳される秘仏ですが、毎月18日（1・2月を除く）にはガイドボランティアの協力で公開されており、境内には巴御前ゆかりの大日堂や秀吉お手植えと伝わる大銀杏もあります。
+
+蟹江町は木曽川や庄内川の伏流水に恵まれ、江戸時代から明治にかけて酒造りが盛んな土地でした。今も蟹江川沿いには造り酒屋が残り、清酒の蔵元を訪ねれば、水郷の町・蟹江が育んだ酒造文化に触れることができます。祭りの前後にあわせて訪ねたい見どころです。
+
+須成地区には、若き織田信長が清洲攻めの際に通ったと伝わる「信長街道」が残り、道沿いに寺社や酒蔵が点在します。昔ながらの狭い道を歩けば、戦国期の武将たちが駆け抜けた歴史のロマンを感じることができ、祭りとあわせて尾張の古い町の風情を味わえます。
+
+## 関連情報
+
+- **開催月**：8月（宵祭・朝祭。祭事全体は7月初旬〜10月下旬）
+- **地域**：愛知県海部郡蟹江町須成
+- **神社**：冨吉建速神社・八剱社（須成神社／祭神は素盞鳴尊ほか）
+- **起源**：疫病退散を祈願する牛頭天王（天王）信仰に由来する川祭り（約400年の歴史）
+- **別称**：100日祭り（一連の祭事が約100日に及ぶことから）
+- **文化財**：2012年に国の重要無形民俗文化財に指定、2016年にユネスコ無形文化遺産「山・鉾・屋台行事」に登録
+','## Overview
+
+Sunari Matsuri is the annual festival of Tomiyoshi-Takehaya Shrine and Hachiken Shrine in Sunari, Kanie Town, Ama District, Aichi Prefecture, a river festival held by floating boats on the Kanie River. Against the background of belief in Gozu Tenno, prayed to for warding off epidemics, it has conveyed some 400 years of history. Its greatest highlights are the fantastical and gorgeous scenes in which a makiwara-bune boat hung with many lanterns slowly ascends the Kanie River at the evening festival on the first Saturday of August, and a danjiri-bune boat bearing dolls does so at the morning festival the following Sunday, both playing festival music.
+
+The festival is centered on two events, the danjiri-bune boat event and the miyoshi-nagashi reed-floating rite, and because roughly 100 days pass from the first event to the last, it is also called the 100-day festival. The way this series of events has been handed down while preserving tradition was highly valued, and it was designated an important intangible folk cultural property of Japan in 2012 and inscribed on the UNESCO Intangible Cultural Heritage list as one of the Yama, Hoko, Yatai float events in 2016. Known nationwide as a representative river festival of the Owari region, it draws many spectators.
+
+## History and Origins
+
+Tomiyoshi-Takehaya Shrine and Hachiken Shrine, where the Sunari Matsuri is held, form a pair of shrines also called Sunari Shrine and are the tutelary deities of the Sunari district. According to shrine tradition, they were founded in 733 by the monk Gyoki as the guardian shrine of Kaniezan Joraku-ji temple, repaired by Kiso Yoshinaka in 1182, and rebuilt by Oda Nobunaga in 1548. The main halls of both shrines are Muromachi-period architecture, and in 1953 the main halls and their ridge tags were designated important cultural properties of Japan. The deity of Tomiyoshi-Takehaya Shrine is Susanoo-no-Mikoto, and the deities of Hachiken Shrine are the sacred spirit of Kusanagi and the five deities of Atsuta.
+
+The Sunari Matsuri itself is said to have more than 400 years of history as the festival of these shrines, held to pray for warding off epidemics and for a bountiful harvest. Already in the Edo period it was carried out as a festival that floated boats on the river, and the belief in Tenno, which enshrines Gozu Tenno as a deity of pestilence and seeks to quell disaster through its spiritual power, runs at the root of the festival. Enshrining Susanoo-no-Mikoto as the deity is also deeply connected to this belief in Tenno.
+
+At the heart of the festival are the danjiri-bune boat event and the miyoshi-nagashi rite. In the boat event, the evening festival is held on the first Saturday of August and the morning festival the following Sunday, with the festival boats ascending the Kanie River from Kazari Bridge to Tenno Bridge. The miyoshi-nagashi, on the other hand, enshrines the reeds growing in the river as a sacred object, seals into them the impurity and disaster of the year, and floats them away, praying for people''s rich lives, a rite that symbolizes the belief in Tenno that seeks to ward off epidemics. The combination of these two events makes the Sunari Matsuri a festival that holds both splendor and solemnity.
+
+The series of events is carried out over a long stretch of time. One week before the morning festival, young men in white robes row down to the mouth of the Kanie River to cut the reeds that will form the sacred object, in a rite called yoshi-kari. The cut reeds are enshrined as the sacred object, and floated away carrying the disaster early on the morning after the morning festival, which is the miyoshi-nagashi. In the past they were actually released into the river, but today they are floated and then enshrined on a rack at the shrine in the tana-agari, and 75 days later taken down and burned in the tana-oroshi, after which all the events end. This long chain of ritual events is the origin of the name 100-day festival.
+
+## Highlights
+
+**The lantern-lit makiwara-bune of the evening festival**  
+The most fantastical part of the Sunari Matsuri is the makiwara-bune ascending the Kanie River at the evening festival on the first Saturday of August. The boat, hung with countless lanterns in a semicircle, advances slowly over the dark river to festival music in breathtaking beauty, and the lights reflected on the water color the night of Kanie. It is the scene that symbolizes the Sunari Matsuri, and many spectators come to see it.
+
+**The number of lanterns representing the calendar**  
+The number of lanterns adorning the makiwara-bune carries meaning. The makiwara lanterns arranged in a semicircle number 365, representing the days of the year; the lanterns arranged vertically on the central nyoi-dake number 12, the months of the year (13 in a leap year); and the hozuki lanterns across the front of the boat number 30, the days of a month. Each light symbolizes the calendar, and the whole boat is contrived to reflect the flow of a year''s time.
+
+**The doll-bearing danjiri-bune of the morning festival**  
+At the morning festival the following Sunday, the mood changes from the evening''s makiwara-bune, and a danjiri-bune bearing dolls of male and female deities appears. The festival boat, adorned with plum and cherry blossoms and carrying young child attendants, heads for Tenno Bridge playing festival music, its splendor standing out in the light of day. Being able to savor the different expressions of the boats in the evening and the morning is a charm unique to this festival.
+
+**The miyoshi-nagashi that entrusts disaster to the reeds**  
+Paired with the splendor of the boats is the quietly conducted miyoshi-nagashi. This rite, which makes river reeds a sacred object and floats them away sealed with the year''s impurity and disaster, holds the very core of the belief in Tenno that prays for warding off epidemics. The way it is carried out through a long process of tana-agari and tana-oroshi well expresses the depth of faith in the Sunari Matsuri.
+
+**The Miyoshi Bridge that rises only for the festival boats**  
+At the Sunari Matsuri, one highlight is the Miyoshi Bridge, an unusual lift bridge whose deck is raised only when the makiwara-bune and danjiri-bune pass. The mechanism, by which the bridge rises as a boat approaches and lowers again once it passes, shows how the very shape of the town has been contrived for the festival.
+
+**The chain of events over about 100 days**  
+The Sunari Matsuri is not a festival of only the two days of the evening and morning festivals. A series of rites continues over about 100 days from early July to late October, with the festival handed down from the reed-cutting to the miyoshi-nagashi, the tana-agari, and the tana-oroshi 75 days later. This long passage of time is itself the essence of the Sunari Matsuri, giving a sense that the community marks its year together with the festival.
+
+## Event Information and Access
+
+- **Dates**: The boat event holds the evening festival on the first Saturday of August each year and the morning festival the following Sunday (the whole ritual runs about 100 days from early July to late October)
+- **Evening festival**: From around 7:30 p.m. (the lantern-lit makiwara-bune ascends the Kanie River)
+- **Morning festival**: From around 9:00 a.m. (the doll-bearing danjiri-bune ascends)
+- **Location**: Around Tomiyoshi-Takehaya Shrine and Hachiken Shrine (Sunari Shrine) and the Kanie River (1363 Kadoyashiki-kami, Sunari, Kanie Town, Ama District, Aichi Prefecture)
+- **Custodian body**: Sunari Cultural Property Protection Committee
+- **Inquiries and access**: Kanie Town Board of Education, and others. The viewing center is along the Kanie River from Kazari Bridge to Tenno Bridge
+
+## Around the Area
+
+Very close to Sunari Shrine stands Kaniezan Joraku-ji Ryusho-in. Its principal image, a wooden standing statue of the eleven-headed Kannon, is a national important cultural property and a hidden Buddha revealed once every 60 years, but it is shown on the 18th of each month (except January and February) with the help of guide volunteers, and its grounds hold the Dainichi hall associated with Tomoe Gozen and a great ginkgo said to have been planted by Hideyoshi.
+
+Kanie Town is blessed with the subsoil water of the Kiso and Shonai rivers and was a land where sake brewing flourished from the Edo period into the Meiji era. Sake breweries still remain along the Kanie River, and visiting a sake brewery lets you experience the brewing culture nurtured by Kanie, a town of waterways. It is a sight worth visiting before or after the festival.
+
+In the Sunari district remains the Nobunaga Kaido, said to be the road the young Oda Nobunaga took when attacking Kiyosu, with temples, shrines, and sake breweries dotting the roadside. Walking the narrow old road lets you feel the romance of the history through which the warlords of the Warring States period raced, and savor the atmosphere of an old Owari town together with the festival.
+
+## Related Information
+
+- **Month**: August (evening and morning festivals; the whole ritual runs early July to late October)
+- **Region**: Sunari, Kanie Town, Ama District, Aichi Prefecture
+- **Shrines**: Tomiyoshi-Takehaya Shrine and Hachiken Shrine (Sunari Shrine; deities include Susanoo-no-Mikoto)
+- **Origin**: A river festival derived from belief in Gozu Tenno, prayed to for warding off epidemics (about 400 years of history)
+- **Alternative name**: 100-day festival (because the series of rites extends about 100 days)
+- **Cultural property**: Designated an important intangible folk cultural property of Japan in 2012, inscribed on the UNESCO Intangible Cultural Heritage list as one of the Yama, Hoko, Yatai float events in 2016
+','sunari-festival','sunari-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28683601','宇佐八幡宮春季祭礼',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E5%85%AB%E5%B9%A1%E5%AE%AE%E6%98%A5%E5%AD%A3%E7%A5%AD%E7%A4%BC',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28684805','よいやさ祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%84%E3%82%84%E3%81%95%E7%A5%AD%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28684776','安積国造神社秋季例大祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%89%E7%A9%8D%E5%9B%BD%E9%80%A0%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
