@@ -3387,15 +3387,129 @@ The venue is the Naeba Ski Resort in Mikuni-Naeba, Yuzawa Town, Minamiuonuma Dis
 ## Nearby Attractions
 
 The Naeba-Yuzawa area is one of Niigata Prefecture''s premier hot-spring and ski resort regions, making it an ideal destination before or after the festival. Around Echigo-Yuzawa Station, visitors will find Ponshu-kan (a tasting bar featuring all of Niigata''s sake breweries) and the Yukiguni Maitake Hall. A short trip further afield reveals Echigo-Yuzawa Onsen — the setting of Kawabata Yasunari''s Nobel Prize-winning novel "Snow Country" — and the Naeba Dragondola, Japan''s longest gondola at 5,481 meters, offering sweeping mountain panoramas.','fuji-rock-festival','fuji-rock-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q2914758','五山送り火','Gozan no Okuribi','日本の京都府京都市で毎年8月16日の夜に行われるかがり火','Japanese festival',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gozanokuribi%20Daimonji2.jpg','https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B1%B1%E9%80%81%E3%82%8A%E7%81%AB','https://en.wikipedia.org/wiki/Gozan_no_Okuribi',85,'drafted','五山送り火（ござんのおくりび）は、京都府京都市で毎年8月16日の夜に行われる、お盆の送り火の行事である。「大文字焼き」の通称でも広く知られ、京都を囲む五つの山に巨大な火文字が次々と灯される、京都の夏の終わりを告げる壮大な風物詩として全国的に有名である。
+INSERT INTO "festivals" VALUES('Q2914758','五山送り火','Gozan no Okuribi','日本の京都府京都市で毎年8月16日の夜に行われるかがり火','Japanese festival',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gozanokuribi%20Daimonji2.jpg','https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B1%B1%E9%80%81%E3%82%8A%E7%81%AB','https://en.wikipedia.org/wiki/Gozan_no_Okuribi',85,'drafted','## 概要
 
-お盆に現世へ帰ってきた先祖の霊(精霊)を、再びあの世へと送り出す「送り火」の一形態であり、京都ではこれが市内を見渡す山々を舞台にした一大行事へと発展した。8月16日の夜、午後8時頃から、東山如意ヶ嶽の「大文字」を皮切りに、「妙法」「船形」「左大文字」「鳥居形」の順に、五つの火が次々と点火される。それぞれの火床で薪が燃やされ、夜の山肌に巨大な文字や形が赤々と浮かび上がる。
+五山送り火（ござんのおくりび）は、毎年8月16日の夜に京都市を囲む五つの山で炎を焚き、お盆に迎えた死者の霊「お精霊（しょらい）さん」をあの世へ送り届ける、京都の代表的な伝統行事です。東山如意ヶ嶽の「大文字」を皮切りに、「松ケ崎妙法」「船形万灯籠」「左大文字」「嵯峨鳥居本の鳥居形松明」の順に、五分間隔で山肌の巨大な文字や形が浮かび上がります。葵祭・祇園祭・時代祭とともに京都四大行事の一つに数えられ、盆行事の締めくくりとして市民に深く親しまれています。
 
-闇に包まれた京都の街から見上げる五山の送り火は、荘厳かつ幻想的で、見る者の胸を打つ。この火には、祖先への感謝と冥福を祈る人々の思いが込められている。その起源には諸説あり定かではないが、数百年にわたって京都の人々によって守り継がれてきた。祇園祭と並ぶ京都の夏を代表する伝統行事である五山送り火は、古都に息づく信仰と、季節の移ろいを慈しむ日本人の心を象徴する、夏の夜の荘厳な祈りの行事である。','Gozan no Okuribi is a Bon sending-fire event held on the night of August 16th each year in Kyoto City, Kyoto Prefecture. Also widely known by the common name "Daimonji-yaki," it is nationally famous as a grand tradition heralding the end of Kyoto''s summer, in which gigantic fire-characters are lit one after another on five mountains surrounding Kyoto.
+「大文字の送り火」とも呼ばれ、全国的には「大文字焼き」の通称でも知られますが、京都では単に「だいもんじ」と呼ぶのが一般的で、地元には「焼き」を付す呼び方を好まない人も少なくありません。これは京都の送り火が山を焼く行事ではなく、あくまで精霊を送るために火を焚く宗教行事であることに由来します。点火からしばらくは大量の煙が京都市街を覆い、煙が収まると盆地一帯に幻想的な炎の文字が夜空に映える光景は、夏の京都を象徴する風物詩となっています。
 
-It is a form of "okuribi" (sending fire), sending back to the other world the ancestral spirits who returned to this world during Bon, and in Kyoto this developed into a major event staged on the mountains overlooking the city. On the night of August 16th, from around 8 p.m., the five fires are lit one after another, beginning with the "Daimonji" (great character) on Mt. Nyoigatake in Higashiyama, followed by "Myōhō," "Funagata" (boat shape), "Hidari Daimonji," and "Toriigata" (torii shape). Firewood is burned at each fire bed, and gigantic characters and shapes glow red against the night mountainsides.
+## 歴史と由来
 
-The Gozan sending fires, looked up at from the darkness-shrouded city of Kyoto, are solemn and dreamlike, striking the hearts of onlookers. These fires carry the feelings of people praying for gratitude to and the repose of their ancestors. Though there are various theories about its origins and they are uncertain, it has been protected and handed down by the people of Kyoto for centuries. A traditional event representative of Kyoto''s summer alongside the Gion Festival, Gozan no Okuribi is a solemn prayer event of the summer night, symbolizing the faith alive in the ancient capital and the Japanese heart that cherishes the changing of the seasons.','gozan-no-okuribi','gozan-no-okuribi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+五山送り火の起源については平安時代説から江戸時代説まで諸説あり、公式な記録が残っているわけではありません。場所と行為を具体的に特定した史料が現れるのは近世に入ってからで、『雍州府志』では盂蘭盆会や施餓鬼の行事として、『花洛細見図』でも「盂蘭盆会の魂祭」として紹介されています。ここから、江戸時代前期から中期までには盆の精霊送りとしての性格を備え、大文字や妙法、船形に加えて各所の山や原野でも火が点けられていたことがうかがえます。
+
+行事の性格としては、お盆に帰ってきた祖霊をあの世へ送る精霊送り火や、戦国時代に流行した万燈会（まんとうえ）の習俗が発展し、山肌で灯す巨大な送り火へと展開したと考えられています。通説によれば、松明の火を空に投げ上げて虚空を行く霊を見送る風習があり、それが山に点火されて留まったものが京都五山の送り火であるといわれます。京都は過度の森林利用でハゲ山が多かったため送り火の文化が生まれたのではないかという説もあり、地形と信仰が結びついて育まれた行事といえます。
+
+各山にはそれぞれ固有の由緒が伝わります。大文字の「大」の字を誰が書いたかについては、青蓮院門主説・近衛信尹（三藐院）説・弘法大師説・相国寺の僧横川景三説など史料ごとに異なり、発刊時期の近い書物に複数の説が混在しています。松ケ崎の妙法は、徳治二年（1307年）に松ケ崎の村民が日蓮宗に改宗した際、日像上人が西山に「妙」の字を書き、江戸時代に日良上人が東山に「法」の字を書いたと涌泉寺の寺伝に伝わります。船形は、承和十四年（847年）に唐からの帰路で暴風雨に遭った西方寺の開祖・慈覚大師円仁が「南無阿弥陀仏」と名号を唱えて無事帰着した故事にちなむとされています。
+
+点火の時刻も時代とともに整えられてきました。1962年まではまちまちだった点火時間が、1963年に観光業界の要請で大文字を20時ちょうどとし順次点火する形に固定され、2014年には51年ぶりの変更で松ケ崎妙法と船形万灯籠の点火が五分ずつ早まり、現在のように五山が五分おきに点火される形になりました。戦時中の1943年から1945年には灯火管制のため送り火が中止され、代わりに市民や小学生が山に登って白いシャツで「大」の人文字を描く「白い大文字」が行われた年もありました。
+
+## 見どころ
+
+**東山如意ヶ嶽の大文字**  
+最初に点火される大文字は五山の中でも横綱格とされ、如意ヶ嶽（大文字山）の西側斜面に「大」の字が浮かび上がります。火床は75か所で、一画80m・二画160m・三画120mという巨大なスケールを誇ります。点火の直前には金尾と呼ばれる各画の交差点で弘法大師堂の灯明から採った火が移され、保存会長の「点火！」の号令で一斉に火が入る様子は圧巻です。
+
+**松ケ崎妙法の二山二字**  
+二つ目に灯る妙法は、西山に「妙」（火床103か所）、東山に「法」（火床63か所）を描く二山二字ですが、一山一字として扱われます。「法」では家ごとに担当の火床が決まっているのに対し、「妙」では町ごとに順繰りで担当を交替するなど、地域の暮らしと結びついた運営が今も続けられています。
+
+**船形万灯籠の帆かけ舟**  
+三つ目の船形は、北区西賀茂の船山に縦約130m・横約200mの舟形（火床79か所）を描きます。円仁の海難故事に由来するこの形は、精霊を乗せてあの世へ送る舟を思わせ、盆送りの意味合いを視覚的に伝える情趣ある送り火です。
+
+**筆順に沿って点火される左大文字**  
+四つ目の左大文字は、北区大北山の大文字山に「大」の字（火床53か所）を描きます。東山の大文字が一斉点火であるのに対し、左大文字は筆順に沿って点火されるのが特徴です。かつては険しい岩山で固定した火床がなく毎年形が変わっていましたが、現在は栗石とコンクリートで築いた火床が使われています。
+
+**火が走る鳥居形松明**  
+最後に灯る鳥居形は、右京区嵯峨鳥居本の曼荼羅山に鳥居の形（火床108か所）を描きます。松脂を多く含む「ジン」と呼ばれる部分を使うため炎がオレンジに近い色となり、薪を井桁に組まず松明をそのまま点火台に立て、親火床から松明を持って各火床へ走るため「火が走る」とも称されます。他の四山と異なり、保存会が寺の檀家の世襲ではなく有志によって担われている点もこの山ならではです。
+
+**護摩木の奉納**  
+送り火で焚く護摩木に名前や願い事を書いて納めると厄除けになるといわれ、妙法を除く各山で護摩木が販売されます。自らの祈りを込めた木が精霊とともに送られるという参加の形が、見物客にとっても送り火を身近な行事にしています。
+
+## 開催情報・アクセス
+
+- **開催日**：毎年8月16日（雨天決行、荒天時は順延の可能性あり）
+- **点火時刻**：大文字20時00分／松ケ崎妙法20時05分／船形万燈籠20時10分／左大文字20時15分／鳥居形松明20時20分（各山とも約30分燃焼）
+- **場所**：京都市を囲む五山（左京区・北区・右京区に分布）
+- **観覧**：市内各所から無料で鑑賞可能。鴨川堤防や高台などが定番の鑑賞スポット
+- **注意**：点火当日は如意ヶ嶽（大文字山）への登山は13時までに下山が必要で、以降は全登山口で当日登山が禁止される
+- **問合せ**：大文字五山保存会連合会・京都市観光協会
+
+## 周辺の見どころ
+
+大文字を望むなら、東山の麓に広がる銀閣寺（慈照寺）や哲学の道の散策とあわせて訪れるのがおすすめです。銀閣寺の北側は大文字山への主要な登山口でもあり、送り火の日以外は京都盆地を一望できる人気の山として親しまれています。
+
+松ケ崎妙法や船形のある京都市北部を訪れる際は、上賀茂神社や下鴨神社といった世界遺産の古社をあわせて巡ると、京都の信仰の重層を感じられます。鴨川の河原は送り火の鑑賞スポットとしても知られ、夕涼みをしながら炎の文字を待つ時間も夏の京都ならではの過ごし方です。
+
+鳥居形のある嵯峨鳥居本は、愛宕神社の門前町として栃葺きや瓦葺きの町家が残る重要伝統的建造物群保存地区で、渡月橋や竹林の小径で知られる嵐山・嵯峨野観光の拠点でもあります。送り火の前後に古都の風情ある町並みを歩けば、行事の余韻をいっそう深く味わうことができます。
+
+## 関連情報
+
+- **開催月**：8月（お盆の送り火・夏）
+- **地域**：京都府京都市（左京区・北区・右京区）
+- **五山**：大文字（如意ヶ嶽）・松ケ崎妙法・船形万燈籠（船山）・左大文字・鳥居形松明（曼荼羅山）
+- **起源**：盂蘭盆会の精霊送りと万燈会の習俗が発展した盆行事（近世の史料に記載）
+- **位置づけ**：葵祭・祇園祭・時代祭とともに京都四大行事の一つ
+- **別称**：大文字の送り火（全国的通称は「大文字焼き」だが京都では「だいもんじ」と呼ぶのが一般的）
+','## Overview
+
+Gozan no Okuribi is one of Kyoto''s most iconic traditional events, in which fires are lit on the night of August 16 each year on five mountains surrounding the city to send the spirits of the dead, welcomed home during the Bon festival, back to the other world. Beginning with the Daimonji on Nyoigatake in the eastern hills, giant characters and shapes emerge on the mountainsides in five-minute intervals: Matsugasaki Myoho, Funagata Manto-doro, Hidari Daimonji, and finally the Torii-gata torch fire in Saga Toriimoto. Counted among Kyoto''s four great annual events alongside the Aoi, Gion, and Jidai festivals, it is deeply cherished by the citizens as the closing rite of the Bon season.
+
+Also called the Daimonji Okuribi, it is widely known nationwide by the nickname daimonji-yaki, or Daimonji burning, though in Kyoto it is usually called simply daimonji, and many locals dislike adding the word yaki, burning. This is because Kyoto''s okuribi is not an event of burning a mountain but a religious rite of lighting fires to send off the spirits. For a while after ignition, thick smoke covers the city, and when it clears, the fantastical fiery characters gleaming against the night sky across the basin become a symbol of Kyoto in summer.
+
+## History and Origins
+
+The origins of igniting characters traced on the mountains are told in several ways, from the Heian period to the Edo period, but no official record survives. Historical materials that specifically identify the places and the act appear only from the early modern era. The Yoshu-fushi describes it as an event of the Urabon-e and segaki rites, and the Karaku-saiken-zu introduces it as the soul festival of the Urabon-e, showing that by the early to middle Edo period it already had the character of a Bon spirit-sending, with fires lit not only for the Daimonji, Myoho, and Funagata but also on various mountains and open fields.
+
+As a rite, it is thought to have developed from the custom of the spirit-sending fire that sees off ancestral spirits returning during Bon, and from the manto-e memorial lantern customs that flourished during the Warring States period, evolving into the giant send-off fires lit on the mountainsides. According to popular tradition, there was a custom of throwing torch fire into the sky to see off spirits passing through the void, and Kyoto''s five-mountain okuribi is said to be this fire, lit on the mountains and staying there. There is also a theory that the okuribi culture arose because Kyoto had many bare mountains due to excessive forest use, so the event grew from a union of terrain and faith.
+
+Each mountain carries its own tradition. As for who wrote the character dai for the Daimonji, sources differ, naming the head priest of Shorenin, Konoe Nobutada (Sanmyakuin), Kobo Daishi, or the Shokoku-ji monk Yokawa Keizo, with several theories mixed among books published around the same time. For Matsugasaki Myoho, the temple record of Yusen-ji relates that when the villagers of Matsugasaki converted to the Nichiren sect in 1307, the priest Nichizo wrote the character myo on the western mountain, and in the Edo period the priest Nichiryo wrote the character ho on the eastern mountain. The Funagata is said to derive from the legend that in 847, when Ennin, the founder of Saiho-ji, met a storm on his return voyage from Tang China and chanted the name of Amida Buddha, he arrived safely.
+
+The timing of ignition has also been arranged over the ages. Until 1962 the lighting times varied, but in 1963, at the request of the tourism industry, the Daimonji was fixed at exactly 8 p.m. with the others following in order. In 2014, the first change in 51 years moved the ignition of Matsugasaki Myoho and Funagata Manto-doro five minutes earlier, giving the present form in which the five mountains are lit at five-minute intervals. During the war years from 1943 to 1945 the okuribi was suspended due to blackout regulations, and in some years citizens and schoolchildren instead climbed the mountain to form the character dai with their white shirts, in what was called the white Daimonji.
+
+## Highlights
+
+**The Daimonji on Nyoigatake**  
+Lit first, the Daimonji is regarded as the grandest of the five and forms the character dai on the western slope of Nyoigatake, or Mount Daimonji. With 75 fire beds, it boasts a colossal scale, with the first stroke 80 meters, the second 160 meters, and the third 120 meters. Just before ignition, fire taken from the lamp of the Kobo Daishi hall is transferred to the crossing point of the strokes called kanao, and the sight of all the fires lit at once at the head priest''s cry of ignite is truly spectacular.
+
+**The two mountains and two characters of Matsugasaki Myoho**  
+Lit second, the Myoho draws myo on the western mountain (103 fire beds) and ho on the eastern mountain (63 fire beds), forming two mountains and two characters that are treated as a single unit. For the ho, each household has an assigned fire bed, while for the myo the responsibility rotates by neighborhood, reflecting a management still tied to the life of the community.
+
+**The sail-boat of Funagata Manto-doro**  
+Lit third, the Funagata draws a boat shape about 130 meters tall and 200 meters wide (79 fire beds) on Mount Funa in Nishigamo, Kita Ward. Derived from Ennin''s shipwreck legend, this shape evokes a boat carrying the spirits to the other world and conveys the meaning of the Bon send-off in visual form.
+
+**Hidari Daimonji lit in stroke order**  
+Lit fourth, the Hidari Daimonji draws the character dai (53 fire beds) on Mount Daimonji in Okitayama, Kita Ward. Whereas the eastern Daimonji is lit all at once, the Hidari Daimonji is lit following the stroke order. It was once a rugged rocky peak with no fixed beds, so its shape changed every year, but today fire beds built of gravel and concrete are used.
+
+**The running fire of the Torii-gata torches**  
+Lit last, the Torii-gata draws a torii shape (108 fire beds) on Mount Mandara in Saga Toriimoto, Ukyo Ward. Because it uses the resin-rich part of pine called jin, its flames take on a color closer to orange, and rather than stacking firewood in a grid, torches are set upright on the ignition stands; bearers carry torches from a main fire bed to each bed, so it is called the running fire. Unlike the other four, this mountain''s preservation society is run not by hereditary temple parishioners but by volunteers.
+
+**Offering of goma-gi votive wood**  
+It is said that writing one''s name or wish on the goma-gi votive wood burned in the okuribi brings protection from misfortune, and the wood is sold at each mountain except the Myoho. The way one''s prayer-inscribed wood is sent off together with the spirits makes the okuribi a familiar event for spectators as well.
+
+## Event Information and Access
+
+- **Date**: Every August 16 (held rain or shine; may be postponed in severe weather)
+- **Ignition times**: Daimonji 8:00 p.m. / Matsugasaki Myoho 8:05 p.m. / Funagata Manto-doro 8:10 p.m. / Hidari Daimonji 8:15 p.m. / Torii-gata torches 8:20 p.m. (each burns about 30 minutes)
+- **Location**: Five mountains surrounding Kyoto City (spread across Sakyo, Kita, and Ukyo wards)
+- **Viewing**: Free viewing from many points in the city; the Kamo River embankment and elevated spots are popular
+- **Note**: On the day of ignition, climbers of Nyoigatake must descend by 1 p.m., after which same-day climbing is prohibited at all trailheads
+- **Inquiries**: Daimonji Gozan Preservation Society Federation, Kyoto City Tourism Association
+
+## Around the Area
+
+To view the Daimonji, it is recommended to combine it with a walk to Ginkaku-ji, the Silver Pavilion, at the foot of the eastern hills, and along the Philosopher''s Path. The area north of Ginkaku-ji is also the main trailhead up Mount Daimonji, which on days other than the okuribi is a popular mountain offering a sweeping view of the Kyoto basin.
+
+When visiting the northern parts of the city where Matsugasaki Myoho and Funagata are located, combining the trip with the World Heritage shrines of Kamigamo and Shimogamo lets you feel the layered faith of Kyoto. The banks of the Kamo River are also well known as viewing spots, and waiting for the fiery characters while enjoying the evening cool is a way of spending time unique to Kyoto in summer.
+
+Saga Toriimoto, where the Torii-gata is located, is a preservation district of important traditional buildings that survives as the gate town of Atago Shrine, with townhouses roofed in thatch and tile, and it is also a base for sightseeing in Arashiyama and Sagano, famous for the Togetsukyo bridge and the bamboo grove. Strolling through the elegant old streets before or after the okuribi lets you savor the afterglow of the event all the more deeply.
+
+## Related Information
+
+- **Month**: August (the send-off fire of Bon, summer)
+- **Region**: Kyoto City, Kyoto Prefecture (Sakyo, Kita, and Ukyo wards)
+- **The five mountains**: Daimonji (Nyoigatake), Matsugasaki Myoho, Funagata Manto-doro (Mount Funa), Hidari Daimonji, Torii-gata torches (Mount Mandara)
+- **Origin**: A Bon event that developed from the spirit-sending of the Urabon-e and the manto-e lantern customs (recorded in early modern sources)
+- **Standing**: One of Kyoto''s four great annual events, alongside the Aoi, Gion, and Jidai festivals
+- **Alternative name**: Daimonji Okuribi (the nationwide nickname is daimonji-yaki, but in Kyoto it is usually called daimonji)
+','gozan-no-okuribi','gozan-no-okuribi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1139891','東京フィルメックス','Tokyo Filmex','東京で毎年開催される国際映画祭','international film festival held annually in Tokyo, Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9','https://en.wikipedia.org/wiki/Tokyo_Filmex',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2238334','あえのこと','Oku-noto no Aenokoto','石川県奥能登地方で行われる農耕儀礼','agricultural ritual held in Oku-Noto area, Ishikawa, Japan','Q11446096','奥能登','Okunoto','石川県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Oku-noto%20no%20Aenokoto%2C%20offering%20meals%20to%20the%20deities.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%88','https://en.wikipedia.org/wiki/Oku-noto_no_Aenokoto',85,'drafted','あえのこと（奥能登のあえのこと）は、石川県の奥能登(おくのと)地方に伝わる農耕儀礼で、ユネスコの無形文化遺産に登録されている貴重な民俗行事である。「田の神様」を家に招き入れ、丁重にもてなすという、日本でも極めて珍しい一戸ごとに営まれる神事で、稲作とともに生きてきた能登の人々の信仰を今に伝えている。
 
