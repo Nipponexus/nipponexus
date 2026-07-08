@@ -14742,15 +14742,125 @@ INSERT INTO "festivals" VALUES('Q11587641','砺波夜高祭り',NULL,NULL,NULL,N
 INSERT INTO "festivals" VALUES('Q11591238','福井フェニックスまつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11591996','福山ばら祭',NULL,NULL,NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E3%81%B0%E3%82%89%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11594028','福生七夕まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%94%9F%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11584632','知立まつり','Chiryū Festival','愛知県知立市で開催される祭礼','festival in Chiryu city, Aichi prefecture, Japan','Q11584639','知立神社','Chiryū Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Tiryuumatsuri7.JPG','https://ja.wikipedia.org/wiki/%E7%9F%A5%E7%AB%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','知立まつり（ちりゅうまつり）は、愛知県知立市の知立神社で毎年5月に開催される祭礼である。隔年で「本祭(ほんまつり)」と「間祭(あいまつり)」が交互に行われ、本祭の年には壮麗な山車の上で演じられる「山車文楽」と「からくり」で全国的に知られる。
+INSERT INTO "festivals" VALUES('Q11584632','知立まつり','Chiryū Festival','愛知県知立市で開催される祭礼','festival in Chiryu city, Aichi prefecture, Japan','Q11584639','知立神社','Chiryū Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Tiryuumatsuri7.JPG','https://ja.wikipedia.org/wiki/%E7%9F%A5%E7%AB%8B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
 
-本祭の最大の見どころは、5輌の豪華絢爛な山車である。江戸時代に始まったとされるこの祭りでは、山車の舞台で人形浄瑠璃(文楽)を上演する「山車文楽」と、糸操りによって精巧な人形が芝居を演じる「山車からくり」が奉納される。一つの山車の上で文楽とからくりの両方が演じられるのは全国的にも珍しく、その芸術的価値の高さから注目を集めている。
+知立まつり（ちりゅうまつり）は、愛知県知立市の中心に鎮座する知立神社の祭礼で、初夏の東海地方を代表する山車祭りとして知られています。毎年五月二日と三日の二日間にわたって行われ、豪壮な山車の巡行と、その山車の舞台上で演じられる人形浄瑠璃「山車文楽」およびからくり人形の奉納上演を最大の見どころとしています。江戸時代の東海道の宿場町として栄えた知立ならではの町人文化が結晶した祭りで、洗練された芸能を山車という移動舞台の上で披露する点に大きな特色があります。
 
-知立は東海道の宿場町「池鯉鮒宿(ちりゅうしゅく)」として栄えた歴史を持ち、知立神社は「まむし除け」の信仰でも知られる古社である。山車の上で繰り広げられる繊細な人形芸は、江戸時代の町人文化が育んだ芸能の粋を今に伝えるものである。1990年に「知立の山車文楽とからくり」として国の重要無形民俗文化財に指定され、2016年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された、尾張・三河を代表する春の祭礼である。','The Chiryū Festival is a festival held every May at Chiryū Shrine in Chiryū, Aichi Prefecture. In alternating years, the "main festival" (honmatsuri) and the "interval festival" (aimatsuri) are held, and in main festival years it is nationally renowned for the "float bunraku" and "karakuri" performed atop magnificent floats.
+この祭りは一年おきに「本祭り」と「間祭り（あいまつり）」を交互に行うのが習わしで、本祭りの年には山町・中新町・本町・西町・宝町の五つの町がそれぞれ高さ約七メートル、重さ約五トンにおよぶ絢爛豪華な山車を曳き出します。二〇一六年には「知立の山車文楽とからくり」がユネスコ無形文化遺産「山・鉾・屋台行事」の構成要素の一つに登録され、国内外から高い評価を受けるにいたりました。近隣の見物客だけでなく、遠方からの観光客や研究者も数多く訪れ、二日間で街全体が祭り一色に染まります。
 
-The greatest highlight of the main festival is the five splendid and ornate floats. In this festival, said to have begun in the Edo period, "float bunraku"—staging puppet jōruri (bunraku) on the float''s platform—and "float karakuri"—in which intricate puppets perform plays through string manipulation—are dedicated. Performing both bunraku and karakuri atop a single float is rare even nationwide, drawing attention for its high artistic value.
+## 歴史と由来
 
-Chiryū has a history of flourishing as "Chiryū-juku," a post town on the Tōkaidō highway, and Chiryū Shrine is an ancient shrine also known for faith in protection against venomous snakes. The delicate puppet artistry unfolding atop the floats conveys the essence of performing arts nurtured by the townspeople''s culture of the Edo period. Designated an Important Intangible Folk Cultural Property of Japan in 1990 as the "Float Bunraku and Karakuri of Chiryū," and registered in 2016 as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan," it is a spring festival representing the Owari and Mikawa regions.','chiryu-festival','chiryu-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+知立まつりの山車奉納の起源は、承応二年（一六五三年）にさかのぼると伝えられています。これは徳川四代将軍家綱の治世にあたり、以来およそ三百七十年にわたって連綿と受け継がれてきた長い歴史を持つ祭りです。江戸時代の知立は東海道五十三次の宿場「池鯉鮒宿（ちりゅうしゅく）」として大いに賑わい、街道を往来する人と物、そして情報と文化が集まる土地でした。こうした経済的・文化的な豊かさが、山車という高価で手の込んだ祭礼装置を町ごとに維持し、精巧な芸能を育む土壌となったと考えられます。
+
+山車の台上で演じられる山車文楽は、三人遣いの人形浄瑠璃を移動する山車の上で上演するという、全国的にも珍しい形式です。江戸時代中期には、からくり人形の上演とともに山車の舞台芸能として定着していきました。人形浄瑠璃はもともと屋内の舞台で演じられる芸能ですが、これを揺れる山車の上で三人遣いの技法によって成立させるには、人形遣いと囃子方の高度な熟練が不可欠であり、知立の町人たちが長い年月をかけて磨き上げてきた技術の高さを物語っています。
+
+近代以降も、知立の人々はこの伝統芸能を絶やすことなく守り続けてきました。「知立の山車文楽」は平成二年（一九九〇年）に国の重要無形民俗文化財に指定され、その芸術的・歴史的価値が公的に認められました。また山車のからくりについても、一九六七年に愛知県の指定を受け、一九七九年には国の記録作成等の措置を講ずべき無形の民俗文化財に選択されるなど、山車文楽とからくりの双方が段階的に高い評価を積み重ねてきました。
+
+そして二〇一六年十二月、日本各地の「山・鉾・屋台行事」全国三十三件がユネスコ無形文化遺産「人類の無形文化遺産の代表的な一覧表」に一括登録され、そのなかに「知立の山車文楽とからくり」が含まれることになりました。保存活動は知立山車文楽保存会および知立からくり保存会が中心となって担っており、後継者の育成や技術の継承を通じて、この貴重な芸能を次代へと引き継ぐ努力が続けられています。
+
+## 見どころ
+
+**五台の山車の巡行**
+本祭りの年には、山町・中新町・本町・西町・宝町の五町から、高さ約七メートル、重さ約五トンにおよぶ壮大な山車が曳き出されます。神舞（かんまい）と呼ばれる囃子にあわせ、家々の軒先を圧するように街路を進む山車の姿は壮麗そのものです。二階建ての構造を持つ山車は精緻な彫刻や幕で装飾されており、町ごとに趣向を凝らした意匠を競い合う点も見どころとなっています。
+
+**山車文楽の奉納上演**
+最大の見どころは、山車の台上で演じられる人形浄瑠璃「山車文楽」です。三人遣いの人形が繊細な所作で物語を紡ぐさまは、屋内の舞台に劣らぬ完成度を誇ります。揺れる山車の上でこの高度な芸能を成立させるところに、知立の芸能水準の高さが凝縮されており、観客はその技巧に息をのみます。
+
+**からくり人形の妙技**
+山車文楽とともに、精巧なからくり人形の上演も行われます。糸やぜんまいの仕掛けによって人形が舞い、物語を演じるからくりは、江戸期の職人技術の粋を今に伝えるものです。文楽とからくりという二つの人形芸能が一つの祭りで奉納される点は、全国的にも希少で貴重です。
+
+**知立神社への宮入り**
+五台の山車が知立神社に集結し奉納される宮入りは、祭りの最高潮を迎える場面です。多くの参拝者と見物客が神社周辺に詰めかけ、囃子と歓声が境内に響きわたります。街道の宿場町として発展した知立の歴史と信仰が一体となった、荘厳かつ活気あふれる光景が広がります。
+
+**本祭りと間祭りの妙**
+一年おきに本祭りと間祭りを交互に行うのも大きな特色です。本祭りには五台の大型山車が繰り出されるのに対し、間祭りには花車（はなぐるま）が登場し、そこでも山車文楽やからくりが上演されます。年ごとに異なる祭りの表情を楽しめるため、両方を見比べる面白さがあります。
+
+**東海道の宿場町の風情**
+祭りの舞台となる知立の街並みには、かつて東海道の池鯉鮒宿として栄えた面影が随所に残ります。山車が往来する街路や周辺の史跡を歩けば、宿場町の賑わいと祭礼文化が結びついて育まれてきた土地の記憶を感じ取ることができます。
+
+## 開催情報・アクセス
+
+- 開催地: 愛知県知立市
+- 会場: 知立神社（知立市西町神田十二）および市内各地区
+- 開催時期: 毎年五月二日・三日（本祭りと間祭りを一年おきに交互開催）
+- 山車: 本祭りは五台（高さ約七メートル・重さ約五トン）
+- アクセス: 名鉄名古屋本線「知立駅」から徒歩圏。名鉄名古屋駅から特急で約二十分
+- 主催・問い合わせ: 知立市観光協会（知立市役所内）
+
+## 周辺の見どころ
+
+知立神社は、東海道の三大社の一つに数えられた由緒ある古社で、境内には室町時代建立と伝わる多宝塔が残り、国の重要文化財に指定されています。祭りの日以外にも、この古社の落ち着いたたたずまいと歴史的建造物を訪ねる価値があります。花の名所としても知られ、境内の花菖蒲園は初夏に美しい景観を見せ、祭りの季節とも重なります。
+
+知立市はかつて東海道五十三次の宿場町「池鯉鮒宿」として栄えた土地であり、市内には旧東海道の道筋や松並木など、街道の歴史をしのばせる風景が点在しています。祭り見物とあわせて宿場町の名残をたどる散策も楽しめます。
+
+また、知立は名古屋方面や三河地方の各地へのアクセスが良く、周辺には数多くの山車祭りが伝わる地域が広がっています。近隣の刈谷市や岡崎市など三河一帯の祭礼文化とあわせて訪れれば、この地方に根づく豊かな山車文化の全体像をより深く味わうことができます。
+
+## 関連情報
+
+- 開催月: 五月（初夏）
+- 都道府県・地域: 愛知県知立市・東海地方
+- 起源: 承応二年（一六五三年）の山車奉納に始まると伝わる
+- 文化財指定: 「知立の山車文楽」は一九九〇年に国の重要無形民俗文化財
+- 国際認定: 二〇一六年にユネスコ無形文化遺産「山・鉾・屋台行事」に登録','## Overview
+
+The Chiryu Festival (Chiryu Matsuri) is the annual festival of Chiryu Shrine, located at the heart of Chiryu City in Aichi Prefecture. Renowned as one of the leading float festivals of the Tokai region in early summer, it is held over two days on May 2 and 3. Its greatest attractions are the procession of magnificent wheeled floats and, above all, the dedicatory performances of ningyo joruri puppet theater, known as dashi bunraku, together with karakuri mechanical puppets, staged atop the moving floats. As a town that flourished as a post station on the old Tokaido highway, Chiryu developed a refined townspeople culture, and this festival is its crystallization, distinguished by the presentation of sophisticated performing arts on floats that serve as mobile stages.
+
+By custom, the festival alternates each year between the grand festival, called honmatsuri, and the intermediate festival, called aimatsuri. In the years of the grand festival, five neighborhoods, namely Yamacho, Nakashinmachi, Honmachi, Nishimachi, and Takaramachi, each bring out a lavishly decorated float roughly seven meters tall and weighing about five tons. In 2016, the Dashi Bunraku and Karakuri of Chiryu was inscribed as one of the constituent elements of the UNESCO Intangible Cultural Heritage entry Yama, Hoko, Yatai float festivals, earning high acclaim both in Japan and abroad. Not only local spectators but also visitors from afar and researchers gather in large numbers, and over the two days the whole town is swept up in festive spirit.
+
+## History and Origins
+
+The origin of the float dedication at the Chiryu Festival is said to date back to the second year of the Joo era, 1653. This corresponds to the reign of Tokugawa Ietsuna, the fourth shogun, and the festival has thus been handed down continuously for some 370 years. In the Edo period, Chiryu prospered as Chiryu-shuku, a post station on the Tokaido, the highway of fifty-three stages, bustling with the traffic of people and goods, as well as information and culture. Such economic and cultural richness is thought to have provided the foundation that allowed each neighborhood to maintain the costly and elaborate apparatus of the floats and to nurture intricate performing arts.
+
+The dashi bunraku performed atop the floats is a form in which three-man ningyo joruri puppet theater is staged upon a moving float, a style that is rare even nationwide. By the mid-Edo period, it had taken root as a stage art of the floats, together with karakuri puppet performances. Ningyo joruri was originally a performing art staged indoors, and to realize it on a swaying float using the three-man technique requires great skill from both the puppeteers and the musical accompanists. This speaks to the high level of technique that the townspeople of Chiryu refined over many long years.
+
+Even in modern times, the people of Chiryu have continued to preserve this traditional art without letting it lapse. The Dashi Bunraku of Chiryu was designated an Important Intangible Folk Cultural Property of the nation in 1990, and its artistic and historical value was thereby officially recognized. The karakuri of the floats likewise received prefectural designation from Aichi in 1967 and was selected in 1979 as an intangible folk cultural property for which the nation should take measures such as documentation. Thus both the puppet theater and the karakuri accumulated high esteem in stages.
+
+Then, in December 2016, a group of thirty-three float festivals from across Japan was jointly inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity under the heading Yama, Hoko, Yatai float festivals, and the Dashi Bunraku and Karakuri of Chiryu was included among them. Preservation activities are led chiefly by the Chiryu Dashi Bunraku Preservation Society and the Chiryu Karakuri Preservation Society, which continue their efforts to pass this precious art to future generations through the training of successors and the transmission of technique.
+
+## Highlights
+
+**The Procession of Five Floats**
+In the years of the grand festival, five neighborhoods, Yamacho, Nakashinmachi, Honmachi, Nishimachi, and Takaramachi, each bring out a grand float about seven meters tall and weighing roughly five tons. Accompanied by musical playing called kanmai, the floats advance through the streets as if pressing against the eaves of the houses, a truly magnificent sight. The two-story floats are adorned with fine carvings and hangings, and the way each neighborhood competes with its own distinctive design is itself a point of interest.
+
+**The Dedication of Dashi Bunraku**
+The greatest highlight is the ningyo joruri puppet theater, dashi bunraku, performed on the platform of the floats. The three-man puppets weave their stories through delicate movements with a level of accomplishment rivaling that of an indoor stage. That such a demanding art can be realized on a swaying float concentrates in itself the high standard of Chiryu performing arts, and spectators hold their breath at the skill on display.
+
+**The Artistry of Karakuri Puppets**
+Alongside the dashi bunraku, performances of intricate karakuri mechanical puppets are also given. Moved by strings and springs, the karakuri puppets dance and enact their tales, conveying to this day the finest craftsmanship of Edo-period artisans. The fact that two forms of puppet art, bunraku and karakuri, are dedicated at a single festival is rare and precious even nationwide.
+
+**The Miyairi at Chiryu Shrine**
+The miyairi, in which the five floats gather at Chiryu Shrine and are dedicated, marks the climax of the festival. Many worshippers and spectators crowd the vicinity of the shrine, and the music and cheers resound through the precincts. A solemn yet lively scene unfolds, uniting the history and faith of Chiryu, which developed as a post town of the highway.
+
+**The Charm of Grand and Intermediate Festivals**
+A major feature is the alternation each year between the grand festival and the intermediate festival. Whereas the grand festival brings out five large floats, the intermediate festival features flower floats called hanaguruma, on which dashi bunraku and karakuri are likewise performed. Because the festival shows a different face each year, there is delight in comparing the two.
+
+**The Atmosphere of a Tokaido Post Town**
+Traces of the days when Chiryu flourished as the Tokaido post station of Chiryu-shuku remain throughout the townscape that serves as the stage for the festival. Walking the streets where the floats pass and the nearby historic sites, one can sense the memory of a land where the bustle of a post town and the culture of festivals were nurtured together.
+
+## Access and Information
+
+- Location: Chiryu City, Aichi Prefecture
+- Venue: Chiryu Shrine (12 Nishimachi Kanda, Chiryu City) and various districts of the city
+- Dates: May 2 and 3 each year (grand and intermediate festivals held in alternate years)
+- Floats: Five floats in the grand festival (about seven meters tall, roughly five tons)
+- Access: Within walking distance of Chiryu Station on the Meitetsu Nagoya Main Line; about twenty minutes by limited express from Meitetsu Nagoya Station
+- Organizer and inquiries: Chiryu City Tourism Association (within Chiryu City Hall)
+
+## Around the Area
+
+Chiryu Shrine is a venerable old shrine once counted among the three great shrines of the Tokaido. Within its precincts stands a tahoto pagoda said to have been built in the Muromachi period, designated an Important Cultural Property of the nation. Even on days other than the festival, the quiet dignity of this ancient shrine and its historic architecture are well worth visiting. It is also known as a place of flowers, and its iris garden displays beautiful scenery in early summer, coinciding with the season of the festival.
+
+Chiryu City is a place that once prospered as Chiryu-shuku, a post town on the Tokaido of fifty-three stages, and within the city there remain landscapes that evoke the history of the highway, such as the route of the old Tokaido and rows of pine trees. Together with festival viewing, a stroll tracing the vestiges of the post town can be enjoyed.
+
+Chiryu also enjoys good access to the Nagoya area and to various parts of the Mikawa region, and a region rich in float festivals extends around it. By visiting together with the festival cultures of the wider Mikawa area, such as nearby Kariya and Okazaki, one can more deeply savor the full picture of the abundant float culture rooted in this region.
+
+## Related Information
+
+- Month: May (early summer)
+- Prefecture and region: Chiryu City, Aichi Prefecture, Tokai region
+- Origins: Said to have begun with float dedications in the second year of the Joo era, 1653
+- Cultural property designation: The Dashi Bunraku of Chiryu designated an Important Intangible Folk Cultural Property of the nation in 1990
+- International recognition: Inscribed on the UNESCO Intangible Cultural Heritage list as part of Yama, Hoko, Yatai float festivals in 2016','chiryu-festival','chiryu-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11602875','筑波山梅まつり',NULL,NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11603787','篠田の花火',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%8A%B1%E7%81%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11604063','米子がいな祭',NULL,NULL,NULL,NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%AD%90%E3%81%8C%E3%81%84%E3%81%AA%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
