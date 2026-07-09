@@ -17443,15 +17443,119 @@ INSERT INTO "festivals" VALUES('Q11652390','長崎ランタンフェスティバ
 INSERT INTO "festivals" VALUES('Q11679207','龍勢祭り','Ryusei Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11675240','鳳だんじり祭り',NULL,NULL,NULL,'Q1042499','西区','Nishi-ku',NULL,NULL,NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Danjiri%20Festival%20at%20Otori%20Shrine%20007.jpg','https://ja.wikipedia.org/wiki/%E9%B3%B3%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11669460','高岡といで菜の花フェスティバル','Takaoka Tode Nanohana Festival',NULL,'flower festival in Japan',NULL,NULL,NULL,'富山県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E3%81%A8%E3%81%84%E3%81%A7%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri','京都府京都市左京区鞍馬にある由岐神社例祭の一つ','Festival in Japan','Q11577577','由岐神社','Yuki Shrine','京都府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','https://ja.wikipedia.org/wiki/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD',NULL,85,'drafted','鞍馬の火祭（くらまのひまつり）は、京都府京都市左京区鞍馬の由岐神社(ゆきじんじゃ)の例祭で、毎年10月22日の夜に行われる勇壮な火祭りである。京都三大奇祭の一つに数えられ、山あいの里・鞍馬を無数の松明の炎が埋め尽くす、京都の秋を代表する祭礼として全国的に知られている。
+INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri','京都府京都市左京区鞍馬にある由岐神社例祭の一つ','Festival in Japan','Q11577577','由岐神社','Yuki Shrine','京都府','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','https://ja.wikipedia.org/wiki/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD',NULL,85,'drafted','## 概要
 
-この祭りの起源は、平安時代中期の940年(天慶3年)に遡る。世情不安が続いたため、当時御所にあった由岐明神を鞍馬の地に遷座した際、里人が松明を掲げて道々にかがり火を焚いて神霊を迎えたことが始まりとされる。祭りはその時の行列を再現したものである。
+鞍馬の火祭（くらまのひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りである。京都三大奇祭のひとつに数えられ、大小あわせて約300本の松明が鞍馬の里を練り歩き、燃え盛る炎と「サイレイ、サイリョウ」の掛け声、男たちの熱気が夜の山里を包む。狭い鞍馬街道沿いの集落全域を舞台とし、火の粉が舞うなかで神輿が急な石段を下る様は、京都の数ある祭りのなかでも随一の迫力と神秘性を誇る。
 
-祭りの夜、「神事にまいらっしゃれ」の合図とともに、各家の前に並べられたかがり火に火が灯される。子どもから大人まで、大小さまざまな松明を担いだ里人たちが「サイレヤ、サイリョウ」の掛け声とともに集落の坂道を練り歩く。最大のものは長さ数メートル、重さ100キロを超える大松明で、若者たちが力強く担ぎ上げる。夜が更けると、燃えさかる松明が由岐神社の石段下に集結し、炎と熱気が頂点に達する。その後、2基の神輿が担ぎ出され、祭りはクライマックスを迎える。山里に燃え上がる炎の光景は、千年を超えて受け継がれてきた信仰の力強さを今に伝えている。','The Kurama Himatsuri is a spirited fire festival held on the night of October 22nd each year as the annual festival of Yuki Shrine in Kurama, Sakyō Ward, Kyoto City, Kyoto Prefecture. Counted among Kyoto''s three strange festivals, it is nationally known as a celebration representative of Kyoto''s autumn, in which countless torch flames fill the mountain village of Kurama.
+祭りの起源は平安時代にさかのぼる。天慶3年（940年）に平安京の内裏で祀られていた由岐明神を鞍馬へ遷座した際、里人たちが松明を灯して夜道を照らしながら神霊を迎えた松明行列が、この火祭の原型とされる。10月22日は京都市街で行われる時代祭と同日にあたるが、両者が同日となったのは偶然である。鞍馬の火祭は地域住民が主体となって守り伝えてきた祭りであり、松明づくりから当日の運営まで、すべてが鞍馬の里人たちの手によって担われている。
 
-The festival''s origins date to 940, in the mid-Heian period. Amid continuing social unrest, when the Yuki deity then at the imperial palace was transferred to Kurama, villagers are said to have welcomed the divine spirit by raising torches and lighting bonfires along the roads—and this is held to be its beginning. The festival reenacts that procession.
+## 歴史と由来
 
-On the festival night, at the signal "come forth for the rite," the bonfires lined up before each house are lit. Villagers from children to adults, shouldering torches large and small, parade up the village slopes to the chant of "saireya, sairyō." The largest are great torches several meters long and weighing over 100 kilograms, hoisted powerfully by young men. As the night deepens, the blazing torches gather at the foot of Yuki Shrine''s stone steps, and the flames and fervor reach their peak. Afterward, two portable shrines are carried out, and the festival reaches its climax. The sight of flames blazing in the mountain village conveys to this day the power of a faith handed down across more than a thousand years.','kurama-himatsuri','kurama-himatsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+鞍馬の火祭の由来は、由岐神社の創建にまつわる伝承に基づく。由岐神社は、もともと平安京の内裏に祀られていた由岐明神（靫明神）を、都の北方の守護として鞍馬に遷し、天慶3年（940年）に鞍馬寺の鎮守社として創建されたと伝えられる。遷座は940年9月9日の夜に行われ、里人たちが手に手に松明を灯し、夜道を照らしながら資材を運び込んだという。この燃え盛る炎の列こそが、鞍馬の火祭の原型とされている。
+
+もっとも、現在のような大規模な火祭の形が整ったのは案外新しいとみられている。江戸時代から「鞍馬祭」が行われていたことは記録に残るが、「火祭」と称される祭礼となったのは江戸末期以降のことである。深夜に神輿が急坂を上り下りするには灯りが必要であり、そのための松明が次第に大きく派手になって今の火祭へと発展したと考えられている。信仰と実用が結びついて、独特の炎の祭礼が形づくられていった。
+
+由岐神社は明治の神仏分離までは鞍馬寺の一部であり、鞍馬の火祭もかつては鞍馬寺の祭礼として行われていた。祭りの日付も時代とともに変わっている。もとは旧暦9月9日（由岐明神遷座の日）に行われていたが、明治6年（1873年）ごろから新暦10月22日に行われるようになった。旧暦9月9日が新暦では10月22日前後にあたるためとみられ、時代祭が始まる22年も前のことである。時代祭と同じ日になったのは、双方が別々の事情で10月22日に落ち着いた結果の偶然にすぎない。
+
+戦後は、氏子の生業が山林業から会社員へと移り変わったことなどに伴い、昭和34年（1959年）に祭りは一時中断された。しかし祭礼の一部を縮小するかたちで昭和38年（1963年）に復活し、以後も継続して開催されている。復活にあたっては、翌朝まで続いていた祭礼を深夜に終えるようにするなど、担い手の負担を軽減する変更が加えられた。時代の変化とともに形態は変わってきたが、その根底にある信仰心と地域への愛着は変わることなく受け継がれている。
+
+## 見どころ
+
+**男たちが担ぐ巨大な松明**　火祭最大の見どころは、里人たちが担ぐ松明である。小さな子どもが運ぶ「トックリ松明」に始まり、小学生・中学生が担ぐ大きな松明へと進み、最後には若者たちが数人がかりで担ぎ上げる巨大な「甲斐性松明（かいしょうたいまつ）」が登場する。甲斐性松明は最大で100kgを超えるといわれ、かつて山林作業を生業としていた頃は一人で担いだと伝わる。松明は住民たちの手作りで、近隣の山から刈った柴を藤のつるや根で束ねてつくられる。
+
+**「サイレイ、サイリョウ」の掛け声**　18時頃、狩衣姿の触れ歩き役が「神事にまいらっしゃーれ」と叫んで里を巡る「神事触れ」を合図に、各家の篝（かがり火）に火が入り、火祭が本格的に始まる。以後、「サイレイ、サイリョウ」という独特の掛け声とともに、点火された松明や剣鉾を持った若者たちが由岐神社の御旅所へと集まってくる。この掛け声は「祭礼、祭礼」あるいは「祭礼、最良」を意味するといわれ、夜の山里に響き渡る。
+
+**剣鉾の巡行**　鞍馬の火祭では松明だけでなく、7本の剣鉾も巡行する。京都の他の祭礼と同様に、本来の主役は松明ではなく剣鉾であったと考えられている。この剣鉾がさらに発展したものが、祇園祭の山鉾であるとされる。置いたまま揺らして鳴らす剣鉾の澄んだ音は魔を祓うとされ、炎の祭りのなかに古式の神事の面影を伝えている。
+
+**鞍馬寺山門前の大松明とハイライト**　21時頃、大小あわせて約300本の松明が鞍馬寺の山門前に集結する。全ての大松明が揃うと山門前の石段に立てられ、多数の松明が並ぶ火祭最大のハイライトを迎える。山門前は熱気と火の粉に覆われ、「サイレイ、サイリョウ」の大合唱が響き渡る。役目を終えた大松明は山門前に投げ入れられ、大きな炎を上げて燃え尽きていく。
+
+**急坂を下る神輿と「チョッペンの儀」**　注連縄切りの儀を経て、由岐明神と八所明神を祀る二基の神輿が急な参道の石段を下ってくる。神輿には鎧武者が乗り、後方の綱を女性たちが引いて転落を防ぐ。この綱を引くと安産の御利益があるとされ、女性の参加が多いのも火祭の特徴である。このとき神輿の担い棒の先端に2名の若者が逆さ大の字でつかまる「チョッペンの儀」が行われる。これは鞍馬に伝わる成人儀礼のひとつである。
+
+**里を巡る神輿と神楽松明**　急坂を下りた神輿は鞍馬の里を巡行する。かつては山門前から御旅所へ直行していたが、1963年の復活時に氏子地域の巡行が加えられた。神輿はくらま温泉方面まで巡り、そこで茶筅のような特殊な形の「神楽松明」が加わって、南へと進み御旅所へ宮入りする。神楽松明が燃え尽きる頃、最後の儀礼をもって神幸祭は終了する。
+
+## 開催情報・アクセス
+
+- **開催地**：京都府京都市左京区鞍馬（鞍馬街道沿いの鞍馬の里一帯）
+- **会場**：由岐神社・鞍馬寺山門前・御旅所ほか
+- **開催日**：毎年10月22日（神幸祭。翌日に還幸祭）
+- **主な時間帯**：18時頃 神事触れ・点火／20時30分頃 御旅所集結／21時頃 山門前ハイライト／22時前後 神輿渡御・チョッペンの儀
+- **アクセス**：叡山電鉄鞍馬線「鞍馬」駅下車。当日は大混雑し自家用車の進入も制限されるため公共交通機関の利用が必須
+- **観覧**：無料。ただし狭い山間部のため場所取りは基本的にできず、警備員・関係者の誘導に従う必要がある。終電時刻に注意
+
+## 周辺の見どころ
+
+鞍馬は京都市街の北方、比叡山の西に位置する山里で、古くから信仰の地として知られる。祭りの舞台となる鞍馬寺は、鞍馬弘教の総本山であり、天狗伝説の地としても名高い。仁王門から金堂へと続く急な参道の中ほどに由岐神社が鎮座し、火祭の起点となる。参道沿いには杉木立が続き、山岳信仰の霊気に満ちた雰囲気を味わえる。
+
+鞍馬の里には「くらま温泉」があり、火祭の際には神輿の巡行路にも組み込まれる。山あいの温泉で、日頃は静かな鞍馬観光の拠点となる。鞍馬から山を越えれば貴船へと至り、貴船神社や川床料理で知られる貴船の里も近い。鞍馬・貴船は京都の奥座敷として、四季を通じて多くの参拝者・観光客が訪れる。
+
+叡山電鉄の鞍馬線は、沿線の紅葉トンネルや観光列車「きらら」で知られ、鞍馬・貴船への足として親しまれている。秋の火祭の時期は紅葉のシーズンとも重なり、鞍馬の山里は一年でもっとも華やぐ季節を迎える。火祭とあわせて鞍馬・貴船の自然と社寺をめぐる旅程も組みやすい。
+
+## 関連情報
+
+- **開催月**：10月（22日）
+- **所在地**：京都府京都市左京区・近畿地方
+- **起源**：天慶3年（940年）の由岐明神遷座の際の松明行列が原型。現在の火祭の形は江戸末期以降に発展
+- **規模**：大小あわせて約300本の松明（最大100kg超の甲斐性松明を含む）と7本の剣鉾が巡行
+- **主な神事**：神事触れ、注連縄切りの儀、神輿渡御、成人儀礼「チョッペンの儀」
+- **位置づけ**：京都三大奇祭のひとつ。由岐神社の例祭。昭和34年（1959年）中断、昭和38年（1963年）復活
+- **主催・保護団体**：由岐神社／鞍馬の里の氏子（七仲間ほか）
+','## Overview
+
+The Kurama Fire Festival (Kurama no Hi-matsuri) is the annual rite of Yuki Shrine, which stands in Kurama in the Sakyo Ward of Kyoto City, held on the night of October 22 each year. Counted among the three great eccentric festivals of Kyoto, it sees some 300 torches, large and small, carried in procession through the village of Kurama, and the blazing flames, the distinctive cry of "Sairei, Sairyo," and the fervor of the men fill the mountain village by night. Staged throughout the settlement along the narrow Kurama road, the sight of the portable shrines descending the steep stone steps amid showering sparks boasts a power and mystery unrivaled among Kyoto''s many festivals.
+
+The festival''s origins go back to the Heian period. When Yuki Myojin, enshrined in the imperial palace of Heian-kyo, was transferred to Kurama in 940 (Tengyo 3), the villagers are said to have lit torches to illuminate the night road as they welcomed the deity, and this torchlight procession is regarded as the prototype of the fire festival. October 22 falls on the same day as the Jidai Festival held in central Kyoto, but that the two coincide is mere chance. The Kurama Fire Festival is a festival that the local residents themselves have preserved and handed down, with everything from the making of the torches to the running of the day borne by the hands of the villagers of Kurama.
+
+## History and Origins
+
+The origins of the Kurama Fire Festival rest on a tradition connected with the founding of Yuki Shrine. Yuki Shrine is said to have been established in 940 (Tengyo 3) as the guardian shrine of Kurama-dera, when Yuki Myojin, originally enshrined in the imperial palace of Heian-kyo, was transferred to Kurama as a protector of the north of the capital. The transfer took place on the night of the ninth day of the ninth lunar month of 940, when the villagers lit torches one after another and carried in the materials while illuminating the night road. This procession of blazing flames is regarded as the prototype of the Kurama Fire Festival.
+
+That said, the large-scale form of the fire festival as it exists today is thought to be surprisingly recent. Records show that a "Kurama Festival" was held from the Edo period, but it became a rite called a "fire festival" only from the late Edo period onward. Because light was needed for the portable shrines to ascend and descend the steep slope in the dead of night, the torches for this purpose are thought to have gradually grown larger and more spectacular, developing into today''s fire festival. Faith and practicality combined to shape this distinctive festival of flame.
+
+Until the separation of Shinto and Buddhism in the Meiji era, Yuki Shrine was part of Kurama-dera, and the Kurama Fire Festival was once held as a rite of Kurama-dera. The date of the festival has also changed over time. It was originally held on the ninth day of the ninth lunar month (the day of Yuki Myojin''s transfer), but from around 1873 (Meiji 6) it came to be held on October 22 by the new calendar, apparently because the ninth day of the ninth lunar month falls around October 22 in the new calendar. This was fully twenty-two years before the Jidai Festival began. That it falls on the same day as the Jidai Festival is nothing more than a coincidence resulting from each settling on October 22 for its own separate reasons.
+
+After the war, along with the shift of the parishioners'' livelihoods from forestry to salaried work and other changes, the festival was suspended once in 1959 (Showa 34). It was revived in 1963 (Showa 38) in a somewhat reduced form and has continued to be held since. Upon its revival, changes were made to ease the burden on those who carry it out, such as ending by late night a rite that had once continued until the following morning. Though its form has changed with the times, the faith and attachment to the region at its root have been handed down unchanged.
+
+## Highlights
+
+**The Enormous Torches Carried by the Men**　The greatest highlight of the fire festival is the torches carried by the villagers. They begin with the "tokkuri torches" carried by small children, progress to the large torches shouldered by elementary and junior high school students, and finally the enormous "kaisho torches" that young men lift together in groups of several appear. The kaisho torches are said to weigh more than 100 kilograms at most, and it is told that in the days when forestry was the livelihood, a single person carried them. The torches are handmade by the residents, made by bundling brushwood cut from the nearby mountains with wisteria vines and roots.
+
+**The Cry of "Sairei, Sairyo"**　Around 6 p.m., a herald in hunting-robe attire makes the rounds of the village crying "Come to the rite," and at this signal, called the "shinji-bure," the beacon fires at each house are lit and the fire festival begins in earnest. Thereafter, with the distinctive cry of "Sairei, Sairyo," young men bearing lit torches and ceremonial halberds gather toward the resting place (otabisho) of Yuki Shrine. This cry is said to mean "rite, rite" or "rite, the best," and it echoes through the mountain village by night.
+
+**The Procession of the Ceremonial Halberds**　In the Kurama Fire Festival, not only torches but seven ceremonial halberds (kenboko) are carried in procession. As in other Kyoto festivals, it is thought that the true protagonists were originally not the torches but the ceremonial halberds. It is said that these halberds, developed further, became the yamahoko floats of the Gion Festival. The clear sound of the halberds, swayed and rung while set in place, is believed to ward off evil, conveying the vestige of an ancient rite within the festival of flame.
+
+**The Great Torches Before the Kurama-dera Gate and the Climax**　Around 9 p.m., some 300 torches, large and small, gather before the gate of Kurama-dera. When all the great torches are assembled, they are stood on the stone steps before the gate, reaching the greatest climax of the fire festival, with numerous torches standing in rows. The area before the gate is covered in heat and sparks, and the great chorus of "Sairei, Sairyo" resounds. The great torches that have finished their role are thrown down before the gate and burn out in great flames.
+
+**The Portable Shrines Descending the Steep Slope and the "Choppen" Rite**　After the rite of cutting the sacred rope (shimenawa), two portable shrines enshrining Yuki Myojin and Hassho Myojin descend the steep stone steps of the approach. Armored warriors ride on the shrines, and women pull ropes attached at the rear to prevent them from falling. Pulling these ropes is said to bring the blessing of safe childbirth, and the large participation of women is another feature of the fire festival. At this moment two young men cling in an inverted spread-eagle position to the tip of the shrine''s carrying poles, in the "Choppen" rite. This is one of the coming-of-age rites handed down in Kurama.
+
+**The Shrines Touring the Village and the Kagura Torch**　The shrines that have descended the steep slope tour the village of Kurama. They once went directly from before the gate to the resting place, but a tour of the parish district was added upon the 1963 revival. The shrines tour as far as the direction of Kurama Onsen, where a specially shaped "kagura torch" resembling a tea whisk joins in, and they proceed south to enter the resting place. Around the time the kagura torch burns out, the shinko-sai (procession rite) concludes with the final ceremony.
+
+## Access and Practical Information
+
+- **Location**: Kurama, Sakyo Ward, Kyoto City, Kyoto Prefecture (throughout the village of Kurama along the Kurama road)
+- **Venue**: Yuki Shrine, the front of the Kurama-dera gate, the resting place (otabisho), and elsewhere
+- **Date**: October 22 each year (the shinko-sai; the return rite is held the following day)
+- **Main Times**: Around 6 p.m. the herald and lighting; around 8:30 p.m. gathering at the resting place; around 9 p.m. the climax before the gate; around 10 p.m. the shrine procession and the Choppen rite
+- **Access**: Alight at "Kurama" Station on the Eizan Railway Kurama Line. Public transport is essential, as the day is extremely crowded and private cars are restricted from entering
+- **Viewing**: Free, but as it takes place in a narrow mountain area, staking out a spot is basically impossible, and one must follow the guidance of guards and officials. Note the time of the last train
+
+## Nearby Attractions
+
+Kurama is a mountain village to the north of central Kyoto, west of Mount Hiei, long known as a place of faith. Kurama-dera, the stage of the festival, is the head temple of Kurama-kokyo and is also famous as a land of tengu legend. Yuki Shrine sits midway along the steep approach leading from the Nio Gate to the main hall and serves as the starting point of the fire festival. Cedar groves line the approach, and one can savor an atmosphere filled with the spiritual air of mountain worship.
+
+The village of Kurama has "Kurama Onsen," which is incorporated into the shrine procession route during the fire festival. A hot spring in the mountains, it serves as a base for the usually quiet Kurama sightseeing. Crossing the mountain from Kurama, one reaches Kibune, and the village of Kibune, known for Kifune Shrine and its riverside dining platforms, is also close by. Kurama and Kibune, as the inner retreat of Kyoto, draw many worshippers and tourists throughout the four seasons.
+
+The Kurama Line of the Eizan Railway is known for the "maple tunnel" along its route and the sightseeing train "Kirara," and it is beloved as the means of access to Kurama and Kibune. The season of the autumn fire festival coincides with the season of autumn foliage, and the mountain village of Kurama enters its most brilliant season of the year. Together with the festival, an itinerary touring the nature and shrines and temples of Kurama and Kibune is easy to arrange.
+
+## Related Information
+
+- **Month**: October (the 22nd)
+- **Location**: Sakyo Ward, Kyoto City, Kyoto Prefecture, Kinki region
+- **Origins**: The torchlight procession at the transfer of Yuki Myojin in 940 (Tengyo 3) is the prototype; the present form of the fire festival developed from the late Edo period onward
+- **Scale**: Some 300 torches large and small (including kaisho torches weighing more than 100 kilograms) and seven ceremonial halberds are carried in procession
+- **Main Rites**: The herald (shinji-bure), the rite of cutting the sacred rope, the shrine procession, and the coming-of-age "Choppen" rite
+- **Status**: One of the three great eccentric festivals of Kyoto; the annual rite of Yuki Shrine. Suspended in 1959 (Showa 34), revived in 1963 (Showa 38)
+- **Organizer / Preservation Body**: Yuki Shrine / the parishioners of the village of Kurama (the seven groups, and others)
+','kurama-himatsuri','kurama-himatsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17210171','山王まつり','Sannō Matsuri','富山県富山市にある日枝神社の例大祭','festival in Toyama, Japan','Q11509530','日枝神社','Hie Shrine','富山県','chubu',NULL,NULL,1690,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%AF%8C%E5%B1%B1%E5%B8%82)',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11643131','郡山うねめまつり','Kōriyama Uneme Festival',NULL,'festival in Kōriyama, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E3%81%86%E3%81%AD%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11632182','謙信公祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
