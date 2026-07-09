@@ -5101,19 +5101,127 @@ In recent years, in addition to the traditional Ohara Bushi, new elements have b
 
 Set in the castle town of subtropical Kagoshima with views of Sakurajima volcano, the Ohara Festival unites citizens in joyful celebration. It is a warm-hearted festival that distills the cheerfulness and local pride of the people of Satsuma.','ohara-matsuri','ohara-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11257721','あつぎ鮎まつり',NULL,NULL,NULL,'Q389711','厚木市','Atsugi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A4%E3%81%8E%E9%AE%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11265601','くらやみ祭','Kurayami Matsuri','東京都府中市の大國魂神社で行われる例大祭',NULL,'Q611678','大國魂神社','Ōkunitama Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Okunitama-jinja-24.jpg','https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%89%E3%82%84%E3%81%BF%E7%A5%AD',NULL,85,'drafted','くらやみ祭は、東京都府中市の大國魂神社（おおくにたまじんじゃ）で行われる例大祭で、毎年4月30日から5月6日にかけて催される、武蔵国を代表する伝統祭礼です。東京都の無形民俗文化財に指定され、関東三大奇祭の一つにも数えられる、千年以上の歴史を誇る格式高い祭りです。
+INSERT INTO "festivals" VALUES('Q11265601','くらやみ祭','Kurayami Matsuri','東京都府中市の大國魂神社で行われる例大祭',NULL,'Q611678','大國魂神社','Ōkunitama Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Okunitama-jinja-24.jpg','https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%89%E3%82%84%E3%81%BF%E7%A5%AD',NULL,85,'drafted','## 概要
 
-「くらやみ祭」という名は、かつて祭りのクライマックスである神輿渡御（みこしとぎょ）が、深夜の暗闇の中で行われたことに由来します。神の威光に人が触れることを畏れ、明かりを消した漆黒の闇の中で神輿が渡御されたことから、この名で呼ばれるようになりました。現在は夕方から夜にかけて行われますが、その荘厳な雰囲気は今も受け継がれています。
+くらやみ祭は、東京都府中市の大國魂神社で毎年4月30日から5月6日にかけて行われる例大祭で、武蔵国の総社としての長い伝統と格式を誇る関東屈指の大祭です。祭りのクライマックスでは、日本最大級の六張の大太鼓と八基の神輿が府中の中心部を練り歩き、期間中には約70万人もの人出で賑わいます。江戸時代には街の明かりを消した深夜の暗闇の中で神輿渡御が行われたことから「くらやみ祭」の名で親しまれるようになりました。
 
-祭りは一週間にわたり、競馬式（こまくらべ）、萬燈大会、山車の巡行、太鼓の競演など、多彩な神事と行事が次々と繰り広げられます。なかでも5月5日の夜に行われる神輿渡御は最大の見どころで、八基の大神輿が大太鼓を先頭に、約2千人もの担ぎ手によって威勢よく担ぎ出される様は、まさに圧巻です。境内に響き渡る大太鼓の轟音と、担ぎ手たちの掛け声が、祭りを最高潮へと導きます。
+祭りの起源は、古く武蔵国の国府で行われた「国府祭」にさかのぼり、千年を超える歴史を今に伝えています。競馬式や萬燈大会、山車の巡行、大太鼓の響宴、そして最大の見どころである神輿渡御「おいで」まで、一週間にわたって数多くの神事と行事が繰り広げられます。2010年（平成22年）には「武蔵府中のくらやみ祭」として東京都指定無形民俗文化財に指定され、古式に則った祭礼として厳粛に受け継がれています。
 
-期間中は約70万人もの参拝者・観光客が訪れ、府中の街全体が祭り一色に染まります。古代武蔵国の総社としての歴史的重みと、勇壮な神輿渡御の迫力をあわせ持つくらやみ祭は、東京近郊で本格的な伝統祭礼を体感できる貴重な機会です。','The Kurayami Matsuri ("Festival of Darkness") is the grand annual festival of Okunitama Shrine in Fuchu, Tokyo, held each year from April 30th to May 6th. As a leading traditional festival of the historic Musashi Province, it is designated an Intangible Folk Cultural Property of Tokyo and counted among the three great "eccentric festivals" of the Kanto region, boasting a history of over a thousand years.
+## 歴史と由来
 
-The name "Kurayami Matsuri" derives from the fact that the festival''s climax—the procession of the portable shrines (mikoshi togyo)—was once carried out in the darkness of the dead of night. Out of awe that ordinary people should not gaze upon the divine presence, all lights were extinguished and the mikoshi were borne through pitch-black darkness, giving the festival its name. Although the procession is now held from evening into night, its solemn atmosphere has been faithfully preserved.
+くらやみ祭は、古代に武蔵国の国府で行われた国府祭を由来とする例大祭です。大國魂神社は武蔵国の総社として、国内の主要な神々を合祀し、国司が国内巡拝の代わりに参拝する社として重んじられてきました。室町時代の文書には「五月会」と記録され、すでに古い時代から大規模な祭礼として営まれていたことがうかがえます。大國魂神社は徳川家康の江戸開府後に建立・移築された都心の多くの神社仏閣よりもはるかに古い歴史と格式を持ち、その例大祭は時代の変革とともに姿を変えながらも、古式にのっとった行事を今に伝えています。
 
-Over the course of a week, a rich variety of rituals and events unfold in succession, including the komakurabe (horse parade), a great lantern gathering, float processions, and competitive taiko drumming. The greatest highlight is the mikoshi procession on the night of May 5th, when eight great portable shrines are borne aloft—led by enormous drums—by some 2,000 bearers in a magnificent display of vigor. The thunderous roar of the great drums echoing through the shrine grounds, together with the bearers'' rhythmic chanting, drives the festival to its climax.
+祭りが暗闇のなかで行われてきたのには、深い理由があります。貴いものを直接見ることは許されないという古来の儀礼に基づき、神聖な御霊が神社から神輿に移り御旅所へ渡御する神事は、人目に触れることのない暗闇でなければならないとされてきました。この神事の伝統がそのまま現代まで引き継がれ、「くらやみ祭」という名の由来となっています。
 
-During the festival period, roughly 700,000 worshippers and tourists visit, and the entire town of Fuchu is swept up in festive spirit. Combining the historical gravity of the principal shrine of ancient Musashi Province with the stirring power of its valiant mikoshi procession, the Kurayami Matsuri offers a rare opportunity to experience an authentic traditional festival in the outskirts of Tokyo.','kurayami-matsuri','kurayami-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+江戸時代には多くの見物人が訪れる名高い祭りとなり、江戸近郊の観光案内である「江戸名所図会」にも盛大な古い祭りとして紹介され、「五月五日六所宮祭礼之図」が掲載されました。幕末に来日したスイスの外交官アンベールも、くらやみ祭の詳細な記録とイラストを書き残しており、当時の祭りの様子を今に伝える貴重な資料となっています。
+
+神輿渡御の時刻は時代とともに変化してきました。江戸時代には午後11時ごろに渡御が始まり翌日未明に戻る深夜の祭りでしたが、昭和34年（1959年）に午後4時渡御開始・翌日午前4時還御開始へ改められ、さらに平成15年（2003年）には午後6時渡御開始へと変更されました。こうした柔軟な変化を重ねながらも、暗闇のなかで神輿を渡御させるという祭りの本質は今も守られています。2010年（平成22年）、くらやみ祭は「武蔵府中のくらやみ祭」として東京都の無形民俗文化財（風俗慣習）に指定されました。
+
+## 見どころ
+
+**約千年続く競馬式（こまくらべ）**
+5月3日の夜に旧甲州街道で行われる競馬式は、約千年以上続くとされる古式です。かつて武蔵国府の周辺には多くの牧があり良馬が産出されたため、国司が朝廷に献上する駿馬を府中に集めて走らせ検閲した歴史に由来します。烏帽子・直垂姿の騎手が乗った馬が旧甲州街道を三往復しますが、これは速さを競うものではなく、あくまで検閲を再現する神事です。
+
+**萬燈大会と華麗な花萬燈**
+5月4日の萬燈大会では、市内各町の青年会が毎年制作する花萬燈が拝殿前に集い、その出来映えと操る者の技を競い合います。色鮮やかな花萬燈を高々と掲げて回す姿は華やかで、地域の若者たちの心意気が存分に発揮される場面です。
+
+**府中囃子を競演する山車行列**
+5月4日の夜には、市内各町から山車が旧甲州街道とけやき並木を中心に巡行します。山車の上では目黒流・船橋流の府中囃子が奏でられ、提灯の灯りに照らされた多数の山車が幻想的な世界をつくり出します。府中囃子は府中の郷土芸能として大切に受け継がれています。
+
+**日本最大級の大太鼓の響宴**
+くらやみ祭を象徴するのが、日本最大級の大太鼓です。御先払御太鼓は歌口径が2メートルにも及ぶ巨大なもので、六張の大太鼓が神社に送り込まれ、随神門内や拝殿前で力いっぱいに打ち鳴らされます。腹の底に響く重低音が府中の空にとどろき、祭りの高揚を一気に引き上げます。
+
+**祭り最大の見せ場・神輿渡御「おいで」**
+5月5日の午後6時、花火の合図とともに六張の大太鼓が打ち鳴らされ、祭り最大の見どころである神輿渡御「おいで」が始まります。白丁を身にまとった威勢のよい担ぎ手が担ぐ八基の神輿が、大太鼓に導かれて御旅所まで渡御する光景は、まさにくらやみ祭のクライマックスです。
+
+**早朝の神輿還御「おかえり」**
+5月6日の早朝午前4時、各神輿が御旅所を出発し、大太鼓に導かれて町内を巡行したのち神社へと還ります。午前7時半から8時頃には八基すべての神輿が境内に揃い、静かな朝の空気のなかで七日間の大祭が締めくくられていきます。
+
+## 開催情報・アクセス
+
+- 開催地：東京都府中市宮町 大國魂神社およびその周辺（旧甲州街道・けやき並木）
+- 開催時期：毎年4月30日〜5月6日（神輿渡御「おいで」は5月5日夕刻）
+- 文化財：東京都指定無形民俗文化財「武蔵府中のくらやみ祭」（平成22年＝2010年指定）
+- 人出：期間中約70万人
+- アクセス：京王線府中駅から徒歩約5分、JR南武線・武蔵野線府中本町駅から徒歩約5分
+- 見どころの時刻：競馬式=5月3日夜、萬燈大会・山車行列=5月4日、大太鼓の響宴・神輿渡御=5月5日、神輿還御=5月6日早朝
+
+## 周辺の見どころ
+
+大國魂神社は、武蔵国の総社として一之宮の小野神社から六之宮の杉山神社まで武蔵国六社の神々を合祀した由緒ある古社です。境内には樹齢を重ねたご神木や、参道に続く馬場大門のけやき並木があり、国の天然記念物に指定されたけやき並木は源頼義・義家父子が奉納したと伝えられる歴史的景観として知られています。
+
+府中は古代武蔵国の国府が置かれた地であり、周辺には国府跡である武蔵国府跡や、発掘資料を展示するふるさと府中歴史館などがあり、祭りの起源となった国府祭の歴史的背景を学ぶことができます。祭りを訪れる際には、こうした史跡をあわせて巡ることで、くらやみ祭の千年の歴史をより深く感じられます。
+
+大國魂神社の周辺には府中の市街地が広がり、京王線府中駅からのアクセスもよく、飲食店や商業施設も充実しています。祭り以外の時期にも、七五三やくり祭（秋季祭）など四季折々の神事が営まれており、武蔵国の総社として地域の信仰を集め続けています。
+
+## 関連情報
+
+- 開催月：4月末〜5月（ゴールデンウィーク）
+- 都道府県・地域：東京都（関東地方）
+- 起源：武蔵国の国府で行われた国府祭（千年以上の歴史）
+- 主催神社：大國魂神社（武蔵国総社）
+- 規模：六張の大太鼓・八基の神輿・市内各町の山車・約70万人
+- 文化財指定：東京都指定無形民俗文化財「武蔵府中のくらやみ祭」（2010年）','## Overview
+
+Kurayami Matsuri, the Festival of Darkness, is the annual grand festival of Okunitama Shrine in Fuchu City, Tokyo, held each year from April 30 to May 6. As the festival of the shrine that served as the general shrine of Musashi Province, it boasts a long tradition and formality and ranks among the greatest festivals of the Kanto region. At the climax of the festival, six of the largest drums in Japan and eight portable shrines parade through the center of Fuchu, and during the festival period the crowds swell to about 700,000 people. Because the procession of the portable shrines was carried out in the darkness of deep night with the lights of the town extinguished during the Edo period, it came to be affectionately known as Kurayami Matsuri, the Festival of Darkness.
+
+The origin of the festival goes back to the Kokufu festival held long ago at the provincial capital of Musashi, and it conveys to the present a history spanning more than a thousand years. Over the course of a week, numerous rituals and events unfold, from the horse-racing rite and the lantern contest to the procession of the floats, the resounding of the great drums, and the greatest highlight, the portable-shrine procession known as oide. In 2010 it was designated an Intangible Folk Cultural Property of Tokyo under the name Kurayami Matsuri of Musashi Fuchu, and it has been solemnly handed down as a festival that follows the old forms.
+
+## History and Origins
+
+Kurayami Matsuri is an annual festival derived from the Kokufu festival held in ancient times at the provincial capital of Musashi. As the general shrine of Musashi Province, Okunitama Shrine enshrined together the principal deities of the province, and it was revered as a shrine where the provincial governor worshipped in place of touring all the shrines of the province. In a document of the Muromachi period it is recorded as the Gogatsu-e, or May gathering, which suggests that it was already conducted as a large-scale festival from ancient times. Okunitama Shrine possesses a far older history and formality than many of the shrines and temples in central Tokyo, most of which were built or relocated after Tokugawa Ieyasu established the shogunate in Edo, and its grand festival conveys to the present the events performed according to old forms, even as it has changed with the transformations of the ages.
+
+There is a deep reason why the festival has been carried out in darkness. Based on an ancient rite in which it is not permitted to look directly upon what is sacred, the ritual in which the holy spirit moves from the shrine into the portable shrine and proceeds to the resting place was held to require darkness, away from human eyes. This tradition of the ritual has been carried down to the present just as it was, and it is the origin of the name Kurayami Matsuri, the Festival of Darkness.
+
+In the Edo period it became a famous festival visited by many spectators, and it was introduced in the Edo Meisho Zue, a guide to famous places around Edo, as a grand old festival, in which the illustration of the festival of the Rokusho Shrine on the fifth day of the fifth month was included. Aimé Humbert, a Swiss diplomat who came to Japan at the end of the Edo period, also left a detailed record and illustrations of Kurayami Matsuri, which serve as precious materials conveying the appearance of the festival at that time.
+
+The timing of the portable-shrine procession has changed with the ages. In the Edo period the procession began around 11 p.m. and returned in the early hours of the following day, a festival of deep night, but in 1959 it was changed to a departure at 4 p.m. and a return beginning at 4 a.m., and further, in 2003, the departure was changed to 6 p.m. While repeating such flexible changes, the essence of the festival, in which the portable shrines proceed through the darkness, is still preserved today. In 2010, Kurayami Matsuri was designated an Intangible Folk Cultural Property of Tokyo under the name Kurayami Matsuri of Musashi Fuchu.
+
+## Highlights
+
+**The Horse-Racing Rite of About a Thousand Years (Komakurabe)**
+The horse-racing rite held on the old Koshu Kaido road on the night of May 3 is an old form said to have continued for more than a thousand years. It derives from the history whereby, because there were many pastures around the provincial capital of Musashi that produced fine horses, the governor gathered swift horses in Fuchu, had them run, and inspected them to select those for presentation to the imperial court. Horses ridden by riders in eboshi caps and hitatare garments make three round trips along the old Koshu Kaido, but this is not a contest of speed; it is a ritual that reenacts the inspection.
+
+**The Lantern Contest and Splendid Flower Lanterns**
+At the lantern contest on May 4, the flower lanterns made each year by the youth associations of the districts of the city gather before the worship hall, and they compete in their workmanship and in the skill of those who handle them. The sight of lifting the vividly colored flower lanterns high and spinning them is gorgeous, and it is a scene in which the spirit of the young people of the community is fully displayed.
+
+**The Float Procession with Fuchu Bayashi Music**
+On the night of May 4, floats from the districts of the city parade mainly along the old Koshu Kaido and the zelkova avenue. Atop the floats, the Fuchu bayashi music of the Meguro and Funabashi schools is played, and the many floats lit by the light of lanterns create a fantastical world. Fuchu bayashi is carefully handed down as a local performing art of Fuchu.
+
+**The Resounding of the Largest Drums in Japan**
+What symbolizes Kurayami Matsuri is its great drums, among the largest in Japan. The lead purification drum has a striking diameter reaching as much as two meters, and six great drums are brought into the shrine and struck with all one''s strength within the divine gate and before the worship hall. The heavy low tones that resound in the pit of the stomach roar into the sky over Fuchu and lift the exhilaration of the festival all at once.
+
+**The Greatest Highlight, the Portable-Shrine Procession Oide**
+At 6 p.m. on May 5, with the signal of fireworks, the six great drums are struck, and the portable-shrine procession called oide, the greatest highlight of the festival, begins. The sight of eight portable shrines, borne by spirited bearers clad in white hakuchoku garments and led by the great drums, proceeding to the resting place is truly the climax of Kurayami Matsuri.
+
+**The Early-Morning Return of the Portable Shrines, Okaeri**
+At 4 a.m. on May 6, each portable shrine departs from the resting place and, led by the great drums, parades through the districts before returning to the shrine. Between around 7:30 and 8 a.m., all eight portable shrines gather within the precincts, and the seven-day grand festival is brought to a close in the quiet air of morning.
+
+## Event Information and Access
+
+- Location: Okunitama Shrine and its surroundings in Miyamachi, Fuchu City, Tokyo (the old Koshu Kaido and the zelkova avenue)
+- Dates: April 30 to May 6 every year (the portable-shrine procession oide is on the evening of May 5)
+- Cultural property: Tokyo-designated Intangible Folk Cultural Property, Kurayami Matsuri of Musashi Fuchu (designated 2010)
+- Attendance: About 700,000 people during the festival period
+- Access: About 5 minutes on foot from Fuchu Station on the Keio Line, or about 5 minutes on foot from Fuchuhommachi Station on the JR Nambu and Musashino Lines
+- Timing of highlights: Horse-racing rite on the night of May 3; lantern contest and float procession on May 4; drum performance and portable-shrine procession on May 5; return of the portable shrines early on May 6
+
+## Around the Area
+
+Okunitama Shrine is a venerable old shrine that, as the general shrine of Musashi Province, enshrines together the deities of the six shrines of Musashi, from Ono Shrine of the first rank to Sugiyama Shrine of the sixth rank. Within its precincts are aged sacred trees and, along the approach, the zelkova avenue of Baba Daimon, and the zelkova avenue, designated a Natural Monument of Japan, is known as a historic landscape said to have been dedicated by Minamoto no Yoriyoshi and his son Yoshiie.
+
+Fuchu is the place where the provincial capital of ancient Musashi was located, and nearby are the site of the provincial capital of Musashi and the Furusato Fuchu History Museum, which displays excavated materials, where one can learn the historical background of the Kokufu festival that was the origin of the festival. When visiting the festival, touring such historic sites together allows one to feel more deeply the thousand-year history of Kurayami Matsuri.
+
+Around Okunitama Shrine spreads the city center of Fuchu, with good access from Fuchu Station on the Keio Line and ample restaurants and commercial facilities. Even outside the festival season, rituals of the four seasons such as Shichi-Go-San and the autumn Kuri festival are conducted, and as the general shrine of Musashi Province it continues to gather the faith of the region.
+
+## Related Information
+
+- Months: Late April to May (Golden Week)
+- Prefecture and region: Tokyo (Kanto region)
+- Origin: The Kokufu festival held at the provincial capital of Musashi (a history of more than a thousand years)
+- Host shrine: Okunitama Shrine (general shrine of Musashi Province)
+- Scale: Six great drums, eight portable shrines, floats from the districts of the city, about 700,000 people
+- Cultural property designation: Tokyo-designated Intangible Folk Cultural Property, Kurayami Matsuri of Musashi Fuchu (2010)','kurayami-matsuri','kurayami-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11273205','とっておきの音楽祭',NULL,NULL,NULL,'Q46747','仙台市','Sendai','宮城県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%AE%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11274443','なにわ淀川花火大会','Naniwa Yodogawa Fireworks Festival','大阪府大阪市で行われる花火大会','fireworks show in Japan','Q35765','大阪市','Osaka','大阪府','kinki',34.709939,135.478978,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%AB%E3%82%8F%E6%B7%80%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,75,'drafted','## 概要
 
