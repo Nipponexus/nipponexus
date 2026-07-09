@@ -11634,15 +11634,123 @@ INSERT INTO "festivals" VALUES('Q135195111','五泉八幡宮（合祀）','Co-En
 INSERT INTO "festivals" VALUES('Q135206826','幣久良神社 旧社地','Mitekurano Shrine former site',NULL,'The former shrine site of Mitekurano Shrine',NULL,NULL,NULL,'京都府','kinki',34.841295,135.55893,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135194764','（参考）神明宮（市ノ瀬神社に合祀）','Co-Enshrinement of Ketamikono Shrine',NULL,'A candidate shrine for Ketamikono shrine',NULL,NULL,NULL,'岐阜県','chubu',36.294888,136.363491,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135195244','（合祀）大虫神社','Omushi Shrine',NULL,'A candidate shrine for Achieno Shrine',NULL,NULL,NULL,'京都府','kinki',35.493501,135.117324,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q136847459','塩屋湾のウンガミ','Ungami of Shioya Bay','重要無形民俗文化財',NULL,'Q49391902','塩屋湾','Shioya Bay','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Dragon%20boat%20race%20held%20during%20Ungami%20of%20Shioya%20Bay%20202509%2005.jpg','https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B1%8B%E6%B9%BE%E3%81%AE%E3%82%A6%E3%83%B3%E3%82%AC%E3%83%9F',NULL,85,'drafted','塩屋湾のウンガミ（しおやわんのウンガミ）は、沖縄県国頭郡大宜味村(おおぎみそん)の塩屋湾一帯で行われる伝統的な海神祭(うみがみ祭)で、国の重要無形民俗文化財に指定されている。旧暦7月の盆明けに営まれ、海の彼方の理想郷「ニライカナイ」から来訪する神を迎え、豊穣と豊漁、そして地域の繁栄を祈願する、沖縄の信仰文化を色濃く伝える貴重な祭祀である。
+INSERT INTO "festivals" VALUES('Q136847459','塩屋湾のウンガミ','Ungami of Shioya Bay','重要無形民俗文化財',NULL,'Q49391902','塩屋湾','Shioya Bay','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Dragon%20boat%20race%20held%20during%20Ungami%20of%20Shioya%20Bay%20202509%2005.jpg','https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%B1%8B%E6%B9%BE%E3%81%AE%E3%82%A6%E3%83%B3%E3%82%AC%E3%83%9F',NULL,85,'drafted','## 概要
 
-「ウンガミ」は「海神」を意味し、この祭りでは女性の祭祀者である「ノロ」を中心に、古来の神事が厳かに執り行われる。集落の女性たちが神歌を歌い、海の神を迎える儀式は、沖縄に独特の女性祭司による信仰のかたちを今に伝えるものである。豊作・豊漁への感謝と祈りが、歌と踊り、そして祈りの所作によって表現される。
+塩屋湾のウンガミ（海神祭）は、沖縄県国頭郡大宜味村の塩屋湾一帯で、毎年旧盆明けの初亥（はつい）の日に行われる豊年・豊漁を祈願する伝統行事です。沖縄本島北部に古くから伝わる海神祭の一つで、四百年から五百年もの歴史を持つといわれ、海と山の恵みに感謝し、村の繁栄を願う祭祀として今日まで大切に受け継がれてきました。神人（ハミンチュ）と呼ばれる祭祀の担い手たちを中心に、集落を挙げて執り行われる点に、この行事の共同体的な性格がよく表れています。
 
-この祭りの大きな見どころの一つが、塩屋湾で繰り広げられる「ハーリー(舟漕ぎ競漕)」である。集落ごとに分かれた漕ぎ手たちが、伝統的な舟を漕いで速さを競い合い、湾内は熱気に包まれる。海とともに生きてきた村人たちの一体感が、競漕を通じて表現される。ニライカナイ信仰という沖縄独自の世界観に根ざした塩屋湾のウンガミは、琉球の人々の自然への畏敬と祈りを今に伝える、かけがえのない民俗文化である。','The Ungami of Shioya Bay is a traditional sea-god festival held throughout the Shioya Bay area of Ōgimi Village, Kunigami District, Okinawa Prefecture, and is designated an Important Intangible Folk Cultural Property of Japan. Held after the Bon period in the seventh lunar month, it welcomes deities visiting from "Nirai Kanai"—the ideal land beyond the sea—and prays for abundance, bountiful catches, and the prosperity of the community, conveying vividly the faith culture of Okinawa.
+ウンガミは沖縄本島北部の各地で行われてきましたが、時代とともにその姿を変え、影が薄れつつあるなかで、塩屋湾では比較的古い形をとどめて盛大に営まれてきました。海に囲まれ、そこから生活の糧を得てきた土地の暮らしが、海の幸・山の幸を祈る数々の神事を生み、村人たちの深い信仰と団結心がこの祭りを育ててきたと考えられています。祭りの最大の見どころである爬竜船（はりゅうせん）の競漕「御願バーリー」は、多くの見物客を集める全国的にも貴重な民俗行事となっています。
 
-"Ungami" means "sea god," and at this festival ancient Shinto rites are conducted solemnly, centered on the female ritual officiants called "noro." The ceremony in which the women of the settlement sing sacred songs to welcome the sea deity conveys to this day Okinawa''s distinctive form of faith led by female priests. Gratitude and prayers for good harvests and bountiful catches are expressed through song, dance, and ritual gesture.
+## 歴史と由来
 
-One of the festival''s major highlights is the "hari" (boat-rowing race) held in Shioya Bay. Rowers divided by settlement compete in speed rowing traditional boats, and the bay is enveloped in fervor. The unity of villagers who have lived together with the sea is expressed through the race. Rooted in the uniquely Okinawan worldview of Nirai Kanai faith, the Ungami of Shioya Bay is an irreplaceable folk culture conveying to this day the reverence for nature and the prayers of the people of Ryūkyū.','ungami-of-shioya-bay','ungami-of-shioya-bay',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+塩屋湾のウンガミがいつ始まったのかを記した確かな記録は残されていませんが、塩屋の旧家の家系が十八代と伝えられることから、およそ四百年から五百年前、集落が形づくられ始めた頃に起こったものと推定されています。海神祭そのものは古い時代に沖縄本島北部の村々で発生し、各地で継承されてきた祭祀であり、塩屋湾のウンガミもその大きな流れのなかに位置づけられます。
+
+この行事が旧盆明けの初亥の日に定められている理由は明らかではありませんが、一連の内容から豊作・豊漁を祈る祭りであることがうかがえます。海と山に囲まれた塩屋の地では、そこから生活の糧を得ていたことから、海の幸と山の幸の双方を祈願する各種の行事が自然に生まれました。生業と一体となったこの祈りが、世代を超えて祭りを支える精神的な柱となってきたのです。
+
+祭祀は田港（たみなと）・屋古（やふ）・塩屋・白浜の「四カ字（シカ）」と呼ばれる集落が参加して行われます。現在では大保・押川江州も含めて「シカ」と呼ぶようになっており、複数の集落が連携して一つの大きな祭りを担う体制が受け継がれています。各門中（もんちゅう＝父系の血縁集団）出身の神人を中心に営まれるため血族意識が強く、祖先が残した祭礼を誇りとする団結心が、この行事を今日まで存続させてきた原動力となっています。
+
+ウンガミは、その民俗的価値の高さから平成九年（1997年）十二月十五日に国の重要無形民俗文化財（第349号）に指定されました。保護団体は田港区・屋古区・塩屋区・白浜区の四区が担っています。一方で、確かな記録がないためウムイ（祈願の唱え言葉）や儀式の形式が簡素化・省略化されつつあることや、神人の後継者が少ないことが課題として挙げられており、伝統をいかに次代へつないでいくかが問われています。
+
+## 見どころ
+
+**御願バーリー（爬竜船の競漕）**
+ウンガミ最大の見どころが、爬竜船による勇壮な競漕「御願バーリー」です。屋古のフルガンサから、比較的若い漕ぎ手が乗るフギバンに続いて、ベテランが乗るウフバーリーが出発し、船には神人が二〜三人乗り込んでクバ扇を打ち振ります。しぶきを上げて疾走するさまは、龍が水をかき分けて突き進むようだと形容され、見る者を圧倒します。
+
+**浜で迎える女性たちの太鼓**
+対岸の塩屋では、各集落の女性たちが藁鉢巻姿で腰まで海水につかり、手拭い（ティサジ）を打ち振り太鼓を鳴らして船を迎えます。船が対岸に着くと乗組員は櫂を持って海に飛び込み、櫂と櫂を打ち合わせて勝利を誇り、祭りは最高潮に達します。海と浜が一体となって沸き立つこの光景が、ウンガミの活気を象徴しています。
+
+**ヌルの行列と敬虔な静寂**
+最高潮のなかを、陸路をヌル（ノロ）の行列が通ると、それまで賑わっていた女性たちや漕ぎ手が一斉に鉢巻を取り、櫂を横にして手を合わせて拝みます。沿道の人々もひざまずいて拝み、一瞬にして水を打ったように静まり返ります。喧騒と静寂が鮮やかに切り替わるこの瞬間に、祭りの信仰の深さが凝縮されています。
+
+**屋古アサギのヨンコイの神舞**
+田港アサギから約千五百メートルの道のりを経て到着する屋古アサギでは、藁で編んだ日よけクムーの下で神事が営まれます。アシビガミがハーブイという冠をかぶり、弓を持ってヨンコイヨンコイと唱えながら中央の太柱を回る神舞は、豊かな世（ユガフ）を祈るものと考えられ、素朴でありながら神秘的な情景を作り出します。
+
+**御願年と踊り年の交替**
+ウンガミには隔年で交替する「ウグワンマール（御願年）」と「ウルイマール（踊り年）」があります。御願年はヌルや神人たちの祈願や供え物が多くなり、踊り年は神事が簡略化される代わりに、翌日に塩屋では踊りが、田港・屋古では村を挙げてサーサーが行われます。年ごとに表情を変えるこの仕組みが、祭りに豊かな変化をもたらしています。
+
+## 開催情報・アクセス
+
+- 開催地: 沖縄県国頭郡大宜味村 塩屋湾一帯
+- 会場: 田港・屋古・塩屋の各アサギ、塩屋湾（御願バーリーの舞台）
+- 開催日: 毎年旧盆明けの初亥の日（新暦では例年8月から9月頃）
+- 主な神事: ウンケー（前夜の御迎え）、田港アサギ・屋古アサギの神事、御願バーリー、ナガリ・パーシの祈願
+- 文化財指定: 国指定重要無形民俗文化財（第349号・1997年12月15日指定）
+- アクセス: 沖縄本島北部・大宜味村塩屋。那覇から車で北上、名護方面を経由
+
+## 周辺の見どころ
+
+大宜味村は「やんばる」と呼ばれる沖縄本島北部の自然豊かな地域に位置し、亜熱帯の森が広がるやんばる国立公園の一角を成しています。塩屋湾は複雑な地形を持つ静かな内湾で、ウンガミの舞台としてだけでなく、豊かな自然景観そのものが訪れる人を魅了します。海と山が間近に迫る地形が、海の幸・山の幸の双方を祈るウンガミの信仰を育んだ背景をそのまま感じ取ることができます。
+
+大宜味村には、国の重要文化財に指定された大宜味村役場旧庁舎も残されています。大正十四年（1925年）に竣工した県内初の本格的な鉄筋コンクリート造建築で、台風の風圧を軽減するために八角の平面形状を取り入れるなど、沖縄の気候風土に配慮した優れた設計で知られています。ウンガミの見学とあわせて、村の近代建築遺産にも足を運ぶ価値があります。
+
+やんばる一帯は、独自の生態系を持つ貴重な自然の宝庫としても知られ、固有の動植物が数多く生息しています。伝統的な祭祀と手つかずの自然が共存するこの地域は、沖縄の深い精神文化と自然の両方を体感できる稀有な土地であり、ウンガミはその文化の核心に触れられる機会となっています。
+
+## 関連情報
+
+- 開催時期: 旧盆明けの初亥の日（新暦では8月〜9月頃）
+- 所在地: 沖縄県国頭郡大宜味村（沖縄地方）
+- 会場: 塩屋湾および田港・屋古・塩屋の各アサギ
+- 種別: 海神祭・豊年豊漁祈願の民俗行事
+- 文化財: 国指定重要無形民俗文化財（第349号・1997年指定）
+- 特色: 約400〜500年の歴史・神人を中心とした祭祀・爬竜船の競漕「御願バーリー」
+','## Overview
+
+The Ungami of Shioya Bay, also known as the Sea God Festival, is a traditional rite held every year on the first day of the Boar following the end of the old Bon period, across the area of Shioya Bay in Ogimi Village, Kunigami District, Okinawa Prefecture. One of the sea god festivals long transmitted in the northern part of Okinawa''s main island, it is said to have a history of four to five hundred years, and has been carefully handed down to the present day as a rite of gratitude for the bounty of sea and mountain and of prayer for the prosperity of the villages. The communal character of the event is clearly expressed in the way it is conducted by the entire settlement, centered on the ritual practitioners known as haminchu.
+
+Ungami has been performed in various places across northern Okinawa, but as the ages passed its form changed and its presence faded, while at Shioya Bay it has been kept in a relatively old form and carried out on a grand scale. The life of a land surrounded by the sea, which drew its livelihood from those waters, gave rise to numerous rites praying for the gifts of both sea and mountain, and it is thought that the deep faith and solidarity of the villagers nurtured this festival. The competitive boat race of the dragon boats, the Ugwan Barii, which is the greatest highlight of the festival, has become a nationally valuable folk event that draws many spectators.
+
+## History and Origins
+
+No reliable record survives of when the Ungami of Shioya Bay began, but because the lineage of an old family of Shioya is said to span eighteen generations, it is estimated to have arisen roughly four to five hundred years ago, around the time the settlement first took shape. The sea god festival itself arose in the villages of northern Okinawa in ancient times and was transmitted in various places, and the Ungami of Shioya Bay is positioned within this larger current.
+
+The reason this event is fixed on the first day of the Boar after the old Bon is not clear, but its series of contents make it evident that it is a festival praying for a good harvest and a good catch. In the land of Shioya, surrounded by sea and mountain, various rites praying for the gifts of both naturally arose because the people drew their livelihood from them. This prayer, fused with the work of daily life, has served as the spiritual pillar sustaining the festival across generations.
+
+The rites are conducted with the participation of the settlements known as the Four Ka, called Shika: Taminato, Yafu, Shioya, and Shirahama. Today Oho and Oshikawaesu are also included in what is called Shika, and a system in which several settlements cooperate to bear one great festival has been handed down. Because it is conducted centered on the haminchu drawn from each monchu, the patrilineal kin groups, kin consciousness is strong, and the solidarity of taking pride in the rites left by the ancestors has been the driving force that has kept this event alive to this day.
+
+Owing to the high value of its folk customs, Ungami was designated a national Important Intangible Folk Cultural Property, number 349, on December 15 in the ninth year of Heisei, 1997. The protecting bodies are the four districts of Taminato, Yafu, Shioya, and Shirahama. At the same time, because there is no reliable record, the umui, the words of prayer, and the forms of ritual are becoming simplified and abbreviated, and the small number of successors among the haminchu has been raised as a concern, so how to pass the tradition on to the next generation is a pressing question.
+
+## Highlights
+
+**Ugwan Barii, the Race of the Dragon Boats**
+The greatest highlight of Ungami is the spirited race of the dragon boats, the Ugwan Barii. Setting out from Furuganza in Yafu, the Fugiban carrying the relatively young rowers is followed by the Ufu Barii carrying the veterans, and two or three haminchu ride in each boat, waving fans of kuba palm. The way the boats race at full speed sending up spray is likened to a dragon plowing through the water as it surges forward, overwhelming those who watch.
+
+**Women Welcoming the Boats with Drums on the Shore**
+On the opposite shore at Shioya, the women of each settlement, wearing straw headbands and immersed in the seawater up to their waists, wave their hand towels, called tisaji, and beat drums to welcome the boats. When a boat reaches the far shore, the crew leap into the sea holding their oars and clash oar against oar to celebrate their victory, and the festival reaches its climax. This scene, in which sea and shore surge as one, symbolizes the vitality of Ungami.
+
+**The Procession of the Nuru and the Reverent Silence**
+When the procession of the nuru passes by land amid the climax, the women and rowers who had been so lively until then all remove their headbands at once, lay their oars sideways, and put their hands together in prayer. The people lining the road also kneel and pray, and in an instant it falls as silent as if water had been cast over it. In this moment, where clamor and silence switch so vividly, the depth of the faith of the festival is concentrated.
+
+**The Yonkoi Sacred Dance at the Yafu Asagi**
+At the Yafu Asagi, reached after a path of about fifteen hundred meters from the Taminato Asagi, the rites are held beneath a straw sunshade called a kumu. The sacred dance in which the ashibigami, wearing a crown called a habui, holds a bow and circles the central pillar while chanting yonkoi yonkoi, is thought to pray for a bountiful world, and creates a scene that is at once simple and mysterious.
+
+**The Alternation of Prayer Year and Dance Year**
+Ungami has a Prayer Year, called Ugwan Maaru, and a Dance Year, called Urui Maaru, which alternate every other year. In the Prayer Year the prayers and offerings of the nuru and haminchu increase, while in the Dance Year the rites are simplified, and instead, the next day dances are held at Shioya and the whole village performs the saasaa at Taminato and Yafu. This system, which changes the festival''s face year by year, brings a rich variation to the event.
+
+## Event Information and Access
+
+- Location: Around Shioya Bay, Ogimi Village, Kunigami District, Okinawa Prefecture
+- Venues: The asagi of Taminato, Yafu, and Shioya, and Shioya Bay, the stage of the Ugwan Barii
+- Date: The first day of the Boar after the end of the old Bon each year (usually around August to September in the modern calendar)
+- Main rites: Unkee, the welcoming on the eve; the rites at the Taminato and Yafu Asagi; the Ugwan Barii; and the prayers of Nagari and Paashi
+- Cultural property designation: National Important Intangible Folk Cultural Property, number 349, designated December 15, 1997
+- Access: Shioya in Ogimi Village, northern Okinawa''s main island; drive north from Naha via the Nago area
+
+## Nearby Attractions
+
+Ogimi Village lies in the nature-rich region of northern Okinawa''s main island known as Yanbaru, forming part of Yanbaru National Park, where subtropical forest spreads. Shioya Bay is a quiet inner bay with a complex terrain, and beyond serving as the stage of Ungami, its rich natural scenery in itself captivates visitors. In the terrain, where sea and mountain press close, one can directly sense the background that nurtured the faith of Ungami, which prays for the gifts of both sea and mountain.
+
+Ogimi Village also preserves the former office building of Ogimi Village, designated a national Important Cultural Property. Completed in the fourteenth year of Taisho, 1925, it is the prefecture''s first full-scale reinforced concrete building, known for its excellent design that took the climate of Okinawa into account, such as adopting an octagonal plan to reduce the wind pressure of typhoons. Alongside viewing Ungami, it is worth visiting the village''s modern architectural heritage.
+
+The Yanbaru region is also known as a precious treasure house of nature with a unique ecosystem, home to many endemic animals and plants. This region, where traditional rites and untouched nature coexist, is a rare land where one can experience both the deep spiritual culture of Okinawa and its nature, and Ungami offers a chance to touch the very core of that culture.
+
+## Related Information
+
+- Season: The first day of the Boar after the old Bon (around August to September in the modern calendar)
+- Location: Ogimi Village, Kunigami District, Okinawa Prefecture (Okinawa region)
+- Venue: Shioya Bay and the asagi of Taminato, Yafu, and Shioya
+- Type: Sea god festival, a folk rite praying for a good harvest and catch
+- Cultural property: National Important Intangible Folk Cultural Property, number 349, designated 1997
+- Features: A history of some four to five hundred years; rites centered on the haminchu; the dragon boat race Ugwan Barii
+','ungami-of-shioya-bay','ungami-of-shioya-bay',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135195293','（合祀）溝谷神社','Co-Enshrinement of Nakuno Shrine',NULL,'A candidate shrine for Nakuno shrine',NULL,NULL,NULL,'京都府','kinki',35.655239,135.111312,NULL,NULL,NULL,NULL,NULL,NULL,55,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q139800634','MARINES FOOD FESTIVAL 2026','MARINES FOOD FESTIVAL 2026','千葉ロッテマリーンズが2026年4月28日から5月17日まで千葉マリンスタジアム(ZOZOマリンスタジアム)で開催するフードフェス',NULL,'Q486192','千葉マリンスタジアム','ZOZO Marine Stadium',NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q139695547','鶴見の田祭り','Tsurumi no Tamatsuri','神奈川県横浜市鶴見区の鶴見神社で行われる民俗芸能','folk performing art held at Tsurumi Shrine in Yokohama, Japan','Q11676163','鶴見神社','Tsurumi Shrine','神奈川県','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Tsurumi%20no%20Tamatsuri%20Kamezo%20Otsuru%202026.jpg','https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E3%81%AE%E7%94%B0%E7%A5%AD%E3%82%8A',NULL,85,'drafted','鶴見の田祭り（つるみのたまつり）は、神奈川県横浜市鶴見区の鶴見神社で行われる民俗芸能で、稲作の一年の流れを模擬的に演じて豊作を祈願する「田遊び(たあそび)」の一種である。中世から伝わる古い農耕儀礼を今に伝える貴重な芸能として知られ、横浜市の無形民俗文化財に指定されている。
