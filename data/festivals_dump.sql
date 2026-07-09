@@ -14714,15 +14714,117 @@ Karatsu City is a historic town facing the Genkai Sea, dotted with attractions s
 - Nearby: Niji-no-Matsubara (one of Japan''s three great pine groves), Karatsu Castle
 ','hamasaki-gion-yamakasa','hamasaki-gion-yamakasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11543279','横浜開港祭','Yokohama Port Festival',NULL,NULL,NULL,NULL,NULL,'神奈川県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%96%8B%E6%B8%AF%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11571216','犬山祭','Inuyama Festival','愛知県犬山市で行われる針綱神社の祭礼',NULL,'Q11648178','針綱神社','Haritsuna Shrine','愛知県','chubu',NULL,NULL,1635,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Inuyamajo2.JPG','https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','犬山祭（いぬやままつり）は、愛知県犬山市で毎年4月に行われる針綱神社(はりつなじんじゃ)の祭礼で、1635年(寛永12年)に始まったとされる、約400年の歴史を誇る春の祭典である。国宝・犬山城を背景に、絢爛豪華な車山(やま)が城下町を練り歩く、東海地方屈指の山車祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q11571216','犬山祭','Inuyama Festival','愛知県犬山市で行われる針綱神社の祭礼',NULL,'Q11648178','針綱神社','Haritsuna Shrine','愛知県','chubu',NULL,NULL,1635,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Inuyamajo2.JPG','https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','## 概要
 
-祭りの主役は、「車山」と呼ばれる三層構造の壮麗な山車13輌である。最上層にはからくり人形が据えられ、各町が技を競って奉納する精巧なからくり芸が披露される。糸や仕掛けによって人形が舞い、文字を書き、変化する様は見る者を驚嘆させ、江戸時代から続く職人技の粋を今に伝えている。夜になると、各車山に365個もの提灯が灯され、闇に浮かぶ「夜車山(よやま)」の幻想的な光景が祭りのクライマックスを飾る。
+犬山祭（いぬやままつり）は、愛知県犬山市の針綱神社の祭礼として、毎年4月第1土曜・日曜に行われる春祭りである。国宝犬山城の城下町を舞台に、高さ約8メートルの三層構造の車山（やま）13輌が曳き出され、笛や太鼓の囃子に合わせてからくり人形を奉納する。愛知県尾張地方を代表する山車祭りのひとつで、絢爛豪華な車山と精巧なからくり人形が最大の見どころである。
 
-犬山祭は、城下町・犬山の町衆の心意気と財力を背景に発展してきた。桜が咲き誇る城下を、提灯を揺らしながら進む車山の列は、まさに春の絵巻物である。2006年に国の重要無形民俗文化財に指定され、2016年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された。木曽川のほとり、国宝天守を仰ぐ城下町で繰り広げられるこの祭りは、尾張の春を代表する華やかな祭礼である。','The Inuyama Festival is a festival of Haritsuna Shrine held every April in Inuyama, Aichi Prefecture. Said to have begun in 1635, it is a spring celebration boasting around 400 years of history. Against the backdrop of Inuyama Castle, a National Treasure, splendid and ornate floats parade through the castle town, making it one of the foremost float festivals of the Tōkai region.
+犬山祭は寛永12年（1635年）に始まったと伝わり、13輌の車山すべてが演目を異にした精巧なからくり人形を載せる点は全国でも類を見ないとされる。昼は満開の桜のなかを巡行する華やかさ、夜は各車山に365個の提灯を灯して練り歩く「夜車山（よやま）」の幻想美という、二つの表情を一日のうちに楽しめる。13輌の車山は昭和39年（1964年）に愛知県有形民俗文化財に、犬山祭の車山行事は平成18年（2006年）に国の重要無形民俗文化財に指定され、平成28年（2016年）にはユネスコ無形文化遺産「山・鉾・屋台行事」に登録された。
 
-The stars of the festival are the thirteen magnificent three-tiered floats known as "yama." Atop each is mounted a mechanical puppet, and the neighborhoods compete in dedicating their intricate puppet performances. The sight of the puppets dancing, writing characters, and transforming through threads and mechanisms astonishes onlookers, conveying the height of craftsmanship continued since the Edo period. At night, each float is lit with as many as 365 lanterns, and the dreamlike scene of the "night floats" (yoyama) emerging from the darkness crowns the festival''s climax.
+## 歴史と由来
 
-The Inuyama Festival developed against the backdrop of the spirit and wealth of the townspeople of the castle town of Inuyama. The procession of floats advancing beneath cherry blossoms in full bloom, lanterns swaying, is truly a picture-scroll of spring. It was designated an Important Intangible Folk Cultural Property of Japan in 2006, and in 2016 registered as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan." Unfolding in a castle town on the banks of the Kiso River beneath a National Treasure keep, this festival is a brilliant celebration representing spring in the Owari region.','inuyama-festival','inuyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+犬山祭の起源は寛永12年（1635年）にさかのぼる。針綱神社がかつて名栗町にあった当時、下本町と魚屋町が練り物を出したのが始まりと伝えられる。練り物とは、当時の流行や趣向をこらした作り物や仮装の行列であり、祭礼の当初はこうした練り物が主役であった。犬山祭は造形物ではなく、人々のパフォーマンスによって賑わう祭りとして出発したのである。
+
+祭りが大きく発展する契機となったのは、慶安3年（1650年）頃である。尾張徳川家の附家老で犬山城主であった成瀬隼人正正虎の奨励により、多くの氏子町が行粧の車山や練り物を出すようになり、江戸中期までには現在の犬山祭の原型がほぼ整ったとされる。城主の後押しという背景が、祭りを城下町全体を挙げた大規模な祭礼へと押し上げた。この時期に、練り物主体の祭りから造形物である車山主体の祭りへと重心が移っていった。
+
+犬山では山車を「車山」と表記して「やま」と呼ぶ。曳山の類は全国各地にあり、土地ごとに「山」「鉾」「屋台」「山車」「車楽」などと呼び名が異なるが、犬山独自の「車山」という呼称と形態は、この地の祭りの個性を象徴している。尾張地方では、江戸時代に名古屋城下で行われた祭礼の影響を受けながら、各地で山車が独自に発達した。尾張の北端に位置する犬山でも、その流れのなかで犬山型と呼ばれる独特の車山が磨き上げられていった。
+
+祭礼日は時代とともに変遷してきた。もともとは最初の針綱神社遷座日である旧暦8月28日を本楽（本番の日）としていたが、明治24年（1891年）の濃尾大震災で城下が壊滅的な被害を受けたため、全町内が再び車山を揃えて出せるようになった明治30年（1897年）に、祭礼日を新暦4月へと変更した。その後も幾度かの変更を経て、現在の4月第1土曜・日曜に落ち着いている。昭和20年には戦時下のため一度中止されたが、戦後、城下町の町衆組織によって受け継がれ、今日に至っている。
+
+## 見どころ
+
+**三層構造の車山（やま）**　犬山祭の主役は13輌の車山である。船型である1輌を除く12輌は犬山で発達した「犬山型」と呼ばれる形態で、上から上山・中山・下山の三層に分かれる。上山はからくり人形の舞台、中山はその操り手の場所、下山では若衆や子どもたちが囃子を演奏する。唐破風の屋根や高欄、葡萄柱などの日本建築技術と、激しい方向転換にも耐える構造を両立させた、機能美と装飾美を兼ね備えた造形である。
+
+**全13輌のからくり人形奉納**　13輌の車山すべてが演目を異にした精巧なからくり人形を載せていることは、犬山祭の大きな特色である。これほど多数の車山がそろってからくりを奉納するのは全国でも類がないといわれる。からくり人形は古くは江戸時代から受け継がれ、修復や復元を経て各町内で代々伝承されてきた。本楽祭の日には、各車山が針綱神社前で順番にからくりを神前奉納する。
+
+**「どんでん」と「車切」**　重さおよそ3トンを超える車山を、てこ連（てこ方）が豪快に持ち上げて方向転換させる「どんでん」は、犬山祭随一の迫力ある場面である。狭い城下町の辻で巨大な車山を回転させる技と力の見せ場であり、観客を沸かせる。同じく方向転換の技である「車切（しゃぎり）」とともに、車山が単なる展示物ではなく、担ぎ手たちの技によって動く生きた祭具であることを実感させる。
+
+**夜車山（よやま）**　日が暮れると、各車山に365個の提灯が灯される。この提灯を灯した車山が満開の桜並木のなかを巡行する「夜車山」は、犬山祭のクライマックスである。夜空に浮かぶ白帝城（犬山城の別名）を背景に、提灯の灯りに映える車山の練行は、当代随一の景観と称えられる。昼の彫刻の華やかさとはまったく異なる、幻想的で絢爛な情景が城下町を包む。
+
+**創始を伝える3つの練り物**　今でこそ車山が中心の祭りだが、当初の犬山祭を賑わせた練り物の伝統は、現在も3町内によって大切に引き継がれている。車山13町内と練り物3町内を合わせた計16町内が祭りに参加しており、造形物の車山と人のパフォーマンスである練り物が共存する点に、犬山祭の重層的な歴史がうかがえる。
+
+**車山の装飾美**　車山の装飾は、水引幕や金襴幕、錺金具、螺鈿、漆、彫り物など、各車山でそれぞれ異なる。各町内が独自の発展を遂げて磨き上げてきた装飾は、それ自体が地域の職人技の粋であり、間近で見ればその細部の精緻さに圧倒される。お囃子方の子ども連が着用する金襦袢も、祭りに華を添える。
+
+## 開催情報・アクセス
+
+- **開催地**：愛知県犬山市（国宝犬山城の城下町・針綱神社周辺）
+- **会場**：針綱神社前（犬山城前広場）ほか城下町一帯
+- **開催時期**：毎年4月第1土曜（試楽祭）・日曜（本楽祭）の2日間
+- **アクセス**：名鉄「犬山」駅西口からメイン会場の犬山城前広場まで徒歩約20分
+- **観覧**：城下町での車山巡行・からくり奉納は無料。からくり奉納は本楽祭に針綱神社前で披露される。当日は交通規制があり公共交通機関の利用が推奨される
+- **問合せ**：犬山祭保存会／犬山観光協会
+
+## 周辺の見どころ
+
+犬山祭の舞台となる犬山は、国宝犬山城を中心とした城下町である。犬山城は現存天守のひとつで、別名「白帝城」とも呼ばれ、木曽川のほとりにそびえる姿は美しい。祭りの車山が集結する犬山城前広場からは天守を仰ぎ見ることができ、桜と車山と天守がひとつの画に収まる祭礼期は特に格別である。
+
+城下町には古い町並みが残り、犬山祭以外の時期にも散策が楽しめる。町家を活かした店舗や food が並び、城下町の風情を味わいながら歩くことができる。針綱神社は城下町の中心に鎮座し、犬山の産土神として古くから信仰を集めてきた。
+
+犬山市には犬山城のほかにも見どころが多い。木曽川の鵜飼や、明治期の建築を移築保存した博物館明治村、日本庭園の有楽苑（国宝茶室如庵を含む）などが点在し、歴史と文化を主題とした観光地として知られる。祭りの時期に合わせて訪れれば、犬山祭と城下町・名所めぐりを組み合わせた充実した旅程を組むことができる。
+
+## 関連情報
+
+- **開催月**：4月（第1土曜・日曜）
+- **所在地**：愛知県犬山市・中部地方（尾張地方北端）
+- **起源**：寛永12年（1635年）に下本町・魚屋町が練り物を出したのが始まり。慶安3年（1650年）頃、犬山城主・成瀬正虎の奨励で拡大し江戸中期に原型が成立
+- **規模**：13町内から三層構造の車山13輌、3町内から練り物、計16町内が参加。車山は高さ約8メートル・重さ約3トン超
+- **文化財指定**：昭和39年（1964年）車山が愛知県有形民俗文化財、平成18年（2006年）車山行事が国指定重要無形民俗文化財、平成28年（2016年）ユネスコ無形文化遺産「山・鉾・屋台行事」登録
+- **主催・保護団体**：針綱神社／犬山祭保存会
+','## Overview
+
+The Inuyama Festival (Inuyama Matsuri) is a spring festival held on the first Saturday and Sunday of April each year as the rite of Haritsuna Shrine in Inuyama City, Aichi Prefecture. Set in the castle town below the National Treasure Inuyama Castle, thirteen three-tiered floats known as yama, each about eight meters tall, are drawn through the streets, and mechanical puppets are dedicated to the accompaniment of flutes and drums. It is one of the representative float festivals of the Owari region of Aichi, and its greatest highlights are the gorgeous floats and the intricate mechanical puppets.
+
+The Inuyama Festival is said to have begun in 1635 (Kan''ei 12), and the fact that all thirteen floats carry finely crafted mechanical puppets, each performing a different program, is regarded as unparalleled anywhere in Japan. By day the floats parade in dazzling splendor among the cherry blossoms in full bloom, while by night each float is lit with 365 lanterns for the "Yoyama" (night floats), offering two utterly different faces within a single day. The thirteen floats were designated a Tangible Folk Cultural Property of Aichi Prefecture in 1964 (Showa 39), the float event was designated a nationally Important Intangible Folk Cultural Property in 2006 (Heisei 18), and in 2016 (Heisei 28) it was inscribed on the UNESCO Intangible Cultural Heritage list of "Yama, Hoko, Yatai float festivals in Japan."
+
+## History and Origins
+
+The origins of the Inuyama Festival date to 1635 (Kan''ei 12). When Haritsuna Shrine still stood in Naguri-cho, the towns of Shimohon-machi and Uoya-machi are said to have presented parade displays (nerimono), which marked the beginning of the festival. Nerimono were processions of ingeniously fashioned figures and costumed performers reflecting the fashions and tastes of the time, and at first these displays were the main attraction. The Inuyama Festival began not as a festival of crafted objects, but as one enlivened by the performances of its people.
+
+The occasion for the festival''s major development came around 1650 (Keian 3). Through the encouragement of Naruse Hayato-no-sho Masatora, the attendant chief retainer of the Owari Tokugawa house and lord of Inuyama Castle, many parish towns came to present decorated floats and parade displays, and by the mid-Edo period the basic form of today''s festival had largely taken shape. The backing of the castle lord elevated the festival into a large-scale rite embracing the entire castle town. During this period the emphasis shifted from a nerimono-centered festival to one centered on the crafted floats.
+
+In Inuyama, the floats are written with the characters for "car mountain" and read "yama." Drawn floats of this kind are found throughout Japan, called variously yama, hoko, yatai, dashi, or danjiri depending on the region, and Inuyama''s distinctive term "yama" and its float form symbolize the individuality of this town''s festival. In the Owari region, floats developed independently in each locality under the influence of the festivals held in the castle town of Nagoya during the Edo period. In Inuyama, at the northern edge of Owari, the distinctive float form known as the "Inuyama type" was refined amid this current.
+
+The festival date has changed over time. Originally the main day (hongaku) fell on the 28th day of the eighth lunar month, the day of the first enshrinement of Haritsuna Shrine, but after the Nobi Great Earthquake of 1891 (Meiji 24) devastated the castle town, the date was changed to April by the new calendar in 1897 (Meiji 30), once all the towns could again turn out their floats together. After several further changes it settled on the present first Saturday and Sunday of April. The festival was suspended once in 1945 (Showa 20) due to wartime conditions, but after the war it was carried on by the townspeople''s organizations of the castle town and continues to this day.
+
+## Highlights
+
+**The Three-Tiered Floats (Yama)**　The stars of the Inuyama Festival are the thirteen floats. All but one boat-shaped float are of the "Inuyama type" developed here, divided into three tiers called, from top to bottom, uwayama, nakayama, and shitayama. The uwayama is the stage for the mechanical puppets, the nakayama is where the puppeteers work, and the shitayama is where young men and children play the festival music. Combining Japanese architectural techniques such as karahafu gabled roofs, balustrades, and grape-motif pillars with a structure sturdy enough to withstand violent turns, the floats possess both functional and decorative beauty.
+
+**Puppet Dedication by All Thirteen Floats**　That all thirteen floats carry finely crafted mechanical puppets, each performing a different program, is a great distinction of the Inuyama Festival. It is said that nowhere else in Japan do so many floats together dedicate puppet performances. The puppets have been handed down since the Edo period, and through repair and restoration have been passed down in each town for generations. On the day of the main festival (hongaku), each float dedicates its puppet performance in turn before Haritsuna Shrine.
+
+**"Donden" and "Shagiri"**　The "donden," in which the teko crew boldly lift a float weighing more than about three tons to change its direction, is the most thrilling scene of the Inuyama Festival. It is a display of skill and strength as the enormous floats are turned at the narrow crossroads of the castle town, and it never fails to excite the crowd. Together with the "shagiri," another turning technique, it makes one keenly feel that the floats are not mere exhibits but living festival implements moved by the skill of their bearers.
+
+**Yoyama (Night Floats)**　When evening falls, 365 lanterns are lit on each float. The "Yoyama," in which these lantern-lit floats parade among rows of cherry trees in full bloom, is the climax of the Inuyama Festival. Against the backdrop of Hakuteijo (another name for Inuyama Castle) floating in the night sky, the procession of floats glowing in the lantern light is praised as a scene of unrivaled beauty in its age. A fantastical, resplendent sight, quite unlike the daytime splendor of the carvings, envelops the castle town.
+
+**Three Nerimono That Convey the Origins**　Although the festival now centers on the floats, the tradition of the nerimono that enlivened the early Inuyama Festival is still carefully carried on by three towns. Thirteen float towns and three nerimono towns, sixteen towns in all, take part in the festival, and in the coexistence of the crafted floats and the human performances of the nerimono one can see the layered history of the Inuyama Festival.
+
+**The Decorative Beauty of the Floats**　The decoration of the floats differs from one to another, with water-drapery curtains, gold-brocade curtains, ornamental metal fittings, mother-of-pearl inlay, lacquer, and carvings. The ornamentation, refined by each town through its own independent development, is itself the finest of local craftsmanship, and seen up close its detail is overwhelming. The gold jackets (kinjuban) worn by the children''s music troupe also add color to the festival.
+
+## Access and Practical Information
+
+- **Location**: Inuyama City, Aichi Prefecture (the castle town below the National Treasure Inuyama Castle, around Haritsuna Shrine)
+- **Venue**: In front of Haritsuna Shrine (Inuyama Castle Plaza) and throughout the castle town
+- **Timing**: Two days each year, the first Saturday (trial festival, shingaku) and Sunday (main festival, hongaku) of April
+- **Access**: About a 20-minute walk from the west exit of Meitetsu Inuyama Station to the main venue at Inuyama Castle Plaza
+- **Viewing**: The float procession and puppet dedication in the castle town are free of charge. The puppet dedications are performed before Haritsuna Shrine on the main festival day. Traffic is restricted on the day, and use of public transport is recommended
+- **Inquiries**: Inuyama Festival Preservation Association / Inuyama Tourism Association
+
+## Nearby Attractions
+
+The stage of the Inuyama Festival is Inuyama, a castle town centered on the National Treasure Inuyama Castle. Inuyama Castle is one of Japan''s surviving original keeps, also called "Hakuteijo," and its figure rising on the bank of the Kiso River is beautiful. From the Inuyama Castle Plaza where the floats gather, one can look up at the keep, and the festival season, when cherry blossoms, floats, and keep are captured in a single view, is especially exceptional.
+
+Old townscapes remain in the castle town, and strolling can be enjoyed at times other than the festival as well. Shops and food stalls making use of the old machiya townhouses line the streets, and one can walk while savoring the atmosphere of the castle town. Haritsuna Shrine sits at the center of the castle town and has long drawn faith as the guardian deity of Inuyama.
+
+Inuyama City has many other attractions besides the castle. The cormorant fishing on the Kiso River, the Museum Meiji-mura, which preserves relocated Meiji-era buildings, and the Japanese garden Urakuen (including the National Treasure teahouse Joan) are scattered about, and the city is known as a sightseeing destination themed on history and culture. By timing a visit to the festival, one can plan a full itinerary combining the Inuyama Festival with the castle town and its famous sites.
+
+## Related Information
+
+- **Month**: April (first Saturday and Sunday)
+- **Location**: Inuyama City, Aichi Prefecture, Chubu region (northern edge of the Owari area)
+- **Origins**: Began in 1635 (Kan''ei 12) when Shimohon-machi and Uoya-machi presented nerimono; expanded around 1650 (Keian 3) through the encouragement of Inuyama castle lord Naruse Masatora, with the basic form established in the mid-Edo period
+- **Scale**: Thirteen three-tiered floats from thirteen towns, plus nerimono from three towns, sixteen towns in all. Floats are about eight meters tall and weigh more than three tons
+- **Cultural Property Designation**: Floats designated a Tangible Folk Cultural Property of Aichi Prefecture (1964, Showa 39); float event designated a nationally Important Intangible Folk Cultural Property (2006, Heisei 18); inscribed on the UNESCO Intangible Cultural Heritage list of "Yama, Hoko, Yatai float festivals in Japan" (2016, Heisei 28)
+- **Organizer / Preservation Body**: Haritsuna Shrine / Inuyama Festival Preservation Association
+','inuyama-festival','inuyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11571727','狭山入間川七夕まつり',NULL,NULL,NULL,NULL,NULL,NULL,'埼玉県','kanto',35.85810833,139.40801111,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%85%A5%E9%96%93%E5%B7%9D%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11548378','水口曳山祭','Minakuchi Hikiyama Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11549310','水郷おみがわ花火大会',NULL,'千葉県香取市で開かれる花火大会',NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E3%81%8A%E3%81%BF%E3%81%8C%E3%82%8F%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
