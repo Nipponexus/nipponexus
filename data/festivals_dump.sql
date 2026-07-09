@@ -870,15 +870,123 @@ Access to the festival route is convenient. The Kyoto Imperial Palace can be rea
 The Okazaki cultural district surrounding Heian Jingu offers further attractions, including the National Museum of Modern Art Kyoto, the Kyoto City KYOCERA Museum of Art, and the Kyoto Municipal Zoo, allowing visitors to combine festival viewing with a full day of cultural exploration. For travelers wishing to experience all three of Kyoto''s great festivals in a single year, Jidai Matsuri completes the cycle that begins with Aoi Matsuri in May and Gion Matsuri throughout July.','jidai-matsuri','jidai-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11566547','瀬戸内国際芸術祭','Setouchi Triennale',NULL,'art festival in Seto Inland Sea','Q11520216','本島','Honjima',NULL,NULL,NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%9B%BD%E9%9A%9B%E8%8A%B8%E8%A1%93%E7%A5%AD','https://en.wikipedia.org/wiki/Setouchi_Triennale',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11465151','尾島ねぷた','Ojima Neputa Festival',NULL,'festival in Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F','https://en.wikipedia.org/wiki/Ojima_Neputa_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11510099','日立風流物','Hitachi Fūryūmono','茨城県日立市に伝わる民俗文化財','Japanese festival with puppets','Q28683513','神峰神社','Kamine Shrine','茨城県','kanto',NULL,NULL,1695,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Furyumonoomoteyama.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E9%A2%A8%E6%B5%81%E7%89%A9','https://en.wikipedia.org/wiki/Hitachi_Furyumono',85,'drafted','日立風流物（ひたちふうりゅうもの）は、茨城県日立市に伝わる民俗芸能で、巨大なからくり仕掛けの山車を用いた、世界に類を見ない豪壮華麗な祭礼である。神峰神社(かみねじんじゃ)の大祭礼の際に奉納され、現在は「日立さくらまつり」とともに毎年4月に披露される。1695年(元禄8年)に起源を持つとされる、300年以上の歴史を誇る伝統行事である。
+INSERT INTO "festivals" VALUES('Q11510099','日立風流物','Hitachi Fūryūmono','茨城県日立市に伝わる民俗文化財','Japanese festival with puppets','Q28683513','神峰神社','Kamine Shrine','茨城県','kanto',NULL,NULL,1695,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Furyumonoomoteyama.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E9%A2%A8%E6%B5%81%E7%89%A9','https://en.wikipedia.org/wiki/Hitachi_Furyumono',85,'drafted','## 概要
 
-この祭りの最大の特徴は、「風流物」と呼ばれる巨大なからくり山車である。高さ約15メートル、重さ約5トンにも及ぶ山車の正面が観音開きに開くと、五層の舞台が現れ、そこで多数の操り人形が物語を演じる。人形は綱の操作によって動き、「源平盛衰記」や「太閤記」といった歴史物語の名場面を演じ分ける。前面の「表山(おもてやま)」での芝居が終わると山車が回転し、背面の「裏山」で別の演目が始まる仕掛けは見る者を驚嘆させる。
+日立風流物（ひたちふうりゅうもの）は、茨城県日立市宮田町の神峰（かみね）神社の祭礼で奉納される、巨大な山車を用いたからくり人形芝居です。高さ約十五メートルにもおよぶ五層の山車の上で、操り糸によって精巧なからくり人形が歴史物語を演じるという、全国でも類を見ない壮大な行事として知られています。その規模の大きさと仕掛けの巧みさから、日本を代表する民俗文化財の一つに数えられ、ユネスコ無形文化遺産にも登録されています。
 
-このからくり人形芝居は、操り手たちの熟練の技と、緻密に作り込まれた山車の構造が一体となって生み出される総合芸術である。日立風流物は1977年に国の重要無形民俗文化財に指定され、2009年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された。桜咲く春の日立を舞台に、巨大山車が織りなす物語絵巻は、日本の祭礼文化の奥深さを象徴する貴重な遺産である。','The Hitachi Fūryūmono is a folk performing art handed down in Hitachi, Ibaraki Prefecture—a magnificent and ornate festival using gigantic mechanical floats unmatched anywhere in the world. Dedicated during the grand festival of Kamine Shrine, it is now performed each April alongside the "Hitachi Cherry Blossom Festival." With origins said to date to 1695 (Genroku 8), it is a tradition boasting over 300 years of history.
+この行事の最大の特徴は、山車がただ曳かれるだけでなく、上部の五層の屋形が中央から両側へと開き、それぞれが舞台となってからくり人形芝居を繰り広げる点にあります。人形の早がえりなど精巧な仕掛けが観客を驚かせ、村人たちが農作業のかたわら磨き上げてきた技術の粋が凝縮されています。約三百年にわたって地域の人々の手で守り伝えられてきた、祈りと娯楽が一体となった稀有な祭礼です。
 
-The festival''s defining feature is the enormous mechanical float known as the fūryūmono. Roughly 15 meters tall and weighing about 5 tons, the float''s front opens like a pair of doors to reveal a five-tiered stage, where numerous puppets perform stories. The puppets, manipulated by ropes, enact famous scenes from historical tales such as the "Genpei Seisuiki" and the "Taikōki." When the play on the front stage (omoteyama) concludes, the float rotates and a different program begins on the rear stage (urayama)—a mechanism that astonishes onlookers.
+## 歴史と由来
 
-This mechanical puppet theater is a comprehensive art form born from the union of the puppeteers'' masterful skill and the float''s intricately crafted structure. The Hitachi Fūryūmono was designated an Important Intangible Folk Cultural Property of Japan in 1977, and in 2009 it was registered as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan." Set against a Hitachi in spring bloom with cherry blossoms, the unfolding picture-scroll of stories woven by these giant floats is a precious heritage symbolizing the depth of Japan''s festival culture.','hitachi-furyumono','hitachi-furyumono',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+日立風流物の起源は、元禄八年（1695年）に遡ります。水戸藩二代藩主・徳川光圀の命により、神峰神社が宮田・助川・会瀬の三村の鎮守となった際、宮田村の氏子たちが無病息災・五穀豊穣など日々の豊かな暮らしを祈願して山車を造り、祭礼に奉納したのが始まりとされています。地域の守り神を迎えるにあたっての素朴な祈りが、この壮大な行事の出発点となりました。
+
+山車に人形芝居を組み合わせるようになったのは、享保年間（1716〜36年）からといわれています。風流物が起こった江戸中期は人形浄瑠璃が一世を風靡した時代であり、その影響を受けた村人たちが農作業のかたわら工夫を重ね、人形作りの技術を自分たちのものにしていったと考えられています。都市の芸能文化が農村の祭礼に取り込まれ、独自に発展していった過程がここに見て取れます。
+
+日立風流物は、日立市宮田町の四つの地区（東町・北町・本町・西町）に、それぞれ一台ずつ計四台が継承され、村人たちの大きな娯楽ともなりました。この四町が出来栄えを競い合い、明治中期から大正初期にかけて改良を重ねた結果、現在見られる五層構造へと進化し大型化しました。町同士の競い合いという原動力が、この行事を全国屈指の規模へと押し上げたのです。
+
+昭和に入ると、太平洋戦争へと向かう世相を受けて昭和十一年（1936年）以降公開が中断し、昭和二十年（1945年）七月には米軍の焼夷弾攻撃により山車四台のうち二台が焼失、一台が半焼、人形の首も約七割を焼失するという大きな被害を受けました。しかし昭和二十九年（1954年）に保存会が結成されて復興の機運が高まり、昭和三十三年（1958年）に一台が復元されて二十一年ぶりに公開されます。昭和三十四年（1959年）には山車類として全国で初めて国の重要有形民俗文化財に指定され、昭和五十二年（1977年）には四台揃って国の重要無形民俗文化財に指定されました。さらに平成二十一年（2009年）にユネスコ無形文化遺産に登録され、平成二十八年（2016年）には「山・鉾・屋台行事」として拡張登録されています。
+
+## 見どころ
+
+**五層の屋形が開くからくり山車**
+最大の見どころは、高さ約十五メートルの山車の上部にある五層の唐破風造りの屋形が、中央から両側へと開いて舞台となる構造です。閉じた状態からせり出すように展開し、各層で場面の異なる人形芝居が同時に演じられるさまは圧巻で、他の山車行事には見られない独創的な仕掛けとなっています。
+
+**操り糸によるからくり人形芝居**
+各層の舞台では「源平盛衰記」「忠臣蔵」などのからくり人形芝居が演じられます。操り糸の操作によって人形が動き、なかでも人形が一瞬で別の姿へと変わる「早がえり」は観客を大いに驚かせます。人形浄瑠璃の影響を受けた精緻な操りの技が、山車の巨大さと相まって強い印象を残します。
+
+**全国有数の大型山車**
+現在の日立風流物は、高さ十五メートル、幅三〜八メートル、奥行七メートル、重量五トンにおよぶ全国有数の大型山車です。この巨体を氏子たちが人力で運行し、組立てから製作、屋形の展開操作、人形の製作操作、鳴物演奏まですべてを地域の人々の手で行う点に、民俗文化財としての価値があります。
+
+**七年に一度の四台総出**
+通常は毎年四月上旬の「日立さくらまつり」に四町の廻り番で一台が公開されますが、七年に一度、神峰神社大祭礼に併せて四町の山車すべてが一堂に公開されます。四台の巨大な風流物が揃い踏みする光景は滅多に見られない特別なもので、地域の人々にとっても大きな節目となっています。
+
+**地域の手で受け継がれる技**
+山車や屋形の組立て・製作、からくり人形の製作と操作、山車の運行、鳴物演奏に至るまで、すべてが神峰神社の氏子（現在は日立郷土芸能保存会の会員）たちの手で担われています。専門の職人にゆだねるのではなく、地域の人々が技を継承し続けている点に、この行事の民俗文化としての奥行きが表れています。
+
+## 開催情報・アクセス
+
+- 開催地: 茨城県日立市宮田町
+- 会場: 神峰神社および日立市中心部（日立さくらまつり会場）
+- 開催日: 毎年4月上旬の日立さくらまつりで4町廻り番により1台公開、7年に1度は神峰神社大祭礼で4台全公開
+- 演目: 「源平盛衰記」「忠臣蔵」などのからくり人形芝居
+- 文化財指定: 国指定重要有形民俗文化財（1959年）・国指定重要無形民俗文化財（1977年）・ユネスコ無形文化遺産（2009年登録、2016年拡張登録）
+- アクセス: JR常磐線日立駅周辺。日立さくらまつりの会場一帯
+
+## 周辺の見どころ
+
+日立風流物が公開される日立さくらまつりの会場となる平和通りは、日本さくら名所百選にも選ばれた桜の名所として知られています。約一キロメートルにわたって桜並木が続き、満開の桜のもとで巨大な風流物が公開される春の光景は、この地ならではの華やぎに満ちています。祭りと桜が一体となった景観が、多くの花見客と祭り見物客を集めています。
+
+日立市は太平洋に面した工業都市として発展した歴史を持ち、海岸沿いには美しい景観が広がります。市内には海を望む展望スポットや、地域の産業の歴史を伝える施設が点在し、風流物の見学とあわせて日立のまちの成り立ちに触れることができます。神峰神社は市街地を見下ろす高台に鎮座し、この地域の信仰の中心となってきました。
+
+茨城県北部の日立市周辺は、海と山の自然に恵まれた地域でもあります。海岸線の景勝地や近郊の山々など見どころが多く、風流物という壮大な民俗行事を核に、県北の自然と文化をあわせて巡ることで、この地域の魅力を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 4月上旬（日立さくらまつり）・7年に1度の神峰神社大祭礼
+- 所在地: 茨城県日立市（関東地方）
+- 会場: 神峰神社および日立市中心部
+- 種別: 山車行事・からくり人形芝居
+- 文化財: 国指定重要有形民俗文化財・国指定重要無形民俗文化財・ユネスコ無形文化遺産「山・鉾・屋台行事」
+- 特色: 起源は元禄8年（1695年）・徳川光圀の命による・高さ約15mの5層山車・操り糸のからくり人形芝居
+','## Overview
+
+Hitachi Furyumono is a mechanical puppet play using a giant float, offered at the festival of Kamine Shrine in Miyata, Hitachi City, Ibaraki Prefecture. It is known as a grand event unrivaled anywhere in the country, in which intricate mechanical puppets perform historical tales by means of manipulating strings atop a five-tiered float reaching about fifteen meters in height. Because of its great scale and the ingenuity of its mechanisms, it is counted among the folk cultural properties representative of Japan and has been registered as a UNESCO Intangible Cultural Heritage.
+
+The greatest characteristic of this event is that the float is not merely pulled but the five-tiered structure at its top opens from the center to both sides, each becoming a stage on which the mechanical puppet play unfolds. Intricate mechanisms such as the quick transformation of the puppets astonish the audience, concentrating the finest of the techniques that villagers refined alongside their farm work. It is a rare festival in which prayer and entertainment become one, guarded and handed down by the hands of local people over some three hundred years.
+
+## History and Origins
+
+The origins of Hitachi Furyumono go back to the eighth year of Genroku, 1695. By the order of Tokugawa Mitsukuni, the second lord of the Mito domain, when Kamine Shrine became the guardian shrine of the three villages of Miyata, Sukegawa, and Ose, the parishioners of Miyata village built a float and offered it at the festival, praying for daily prosperity such as freedom from illness and abundant harvests. The simple prayer offered in welcoming the guardian deity of the region became the starting point of this grand event.
+
+It is said that the combining of the float with puppet plays began in the Kyoho era, from 1716 to 1736. The mid-Edo period when Furyumono arose was an age in which puppet joruri swept the country, and it is thought that villagers influenced by it repeatedly devised improvements alongside their farm work and made the technique of puppet-making their own. Here one can see the process by which the performing arts culture of the city was taken into the festival of a farming village and developed in its own way.
+
+Hitachi Furyumono has been handed down in the four districts of Miyata in Hitachi City, namely Higashimachi, Kitamachi, Honmachi, and Nishimachi, with one float each for a total of four, and became a great source of entertainment for the villagers. As these four towns competed over the quality of their work and repeatedly made improvements from the mid-Meiji to the early Taisho era, the floats evolved into the five-tiered structure seen today and grew larger. The driving force of rivalry among the towns pushed this event to a scale among the largest in the country.
+
+Entering the Showa era, public displays were suspended after the eleventh year of Showa, 1936, amid the mood turning toward the Pacific War, and in July of the twentieth year of Showa, 1945, an incendiary attack by the US military burned two of the four floats, half-burned one, and destroyed about seventy percent of the puppet heads. However, in the twenty-ninth year of Showa, 1954, a preservation society was formed and momentum for revival rose, and in the thirty-third year of Showa, 1958, one float was restored and displayed for the first time in twenty-one years. In the thirty-fourth year of Showa, 1959, it became the first float of its kind in the country to be designated a national Important Tangible Folk Cultural Property, and in the fifty-second year of Showa, 1977, all four floats were designated a national Important Intangible Folk Cultural Property. Furthermore, it was registered as a UNESCO Intangible Cultural Heritage in 2009 and given an expanded registration as a Yama, Hoko, and Yatai float event in 2016.
+
+## Highlights
+
+**The Mechanical Float Whose Five Tiers Open**
+The greatest highlight is the structure in which the five-tiered kara-hafu style roofed frame atop the float, about fifteen meters tall, opens from the center to both sides to become stages. The way it unfolds as if thrusting outward from a closed state, with puppet plays of different scenes performed simultaneously on each tier, is overwhelming, and forms an original mechanism not seen in other float events.
+
+**Mechanical Puppet Plays Manipulated by Strings**
+On the stage of each tier, mechanical puppet plays such as the Genpei Seisuiki and the Chushingura are performed. The puppets move by the manipulation of strings, and above all the quick transformation, in which a puppet changes into another form in an instant, greatly astonishes the audience. The refined string-manipulation technique influenced by puppet joruri, combined with the enormity of the float, leaves a powerful impression.
+
+**A Large Float Among the Foremost in the Country**
+The present Hitachi Furyumono is a large float among the foremost in the country, reaching a height of fifteen meters, a width of three to eight meters, a depth of seven meters, and a weight of five tons. The parishioners move this giant body by human power, and its value as a folk cultural property lies in the fact that everything, from assembly and manufacture to the opening operation of the frame, the making and operation of the puppets, and the musical accompaniment, is carried out by the hands of local people.
+
+**All Four Floats Together Once in Seven Years**
+Normally one float is displayed each year in the early April Hitachi Sakura Festival by rotation among the four towns, but once in seven years all four town floats are displayed together in accordance with the grand festival of Kamine Shrine. The sight of four giant Furyumono lined up together is a special one rarely seen, and marks a great milestone for the local people as well.
+
+**Techniques Handed Down by Local Hands**
+Everything, from the assembly and manufacture of the floats and frames to the making and operation of the mechanical puppets, the movement of the floats, and the musical accompaniment, is borne by the hands of the parishioners of Kamine Shrine, now members of the Hitachi Folk Performing Arts Preservation Society. The depth of this event as folk culture is shown in the way local people continue to inherit the techniques rather than entrusting them to specialized craftsmen.
+
+## Event Information and Access
+
+- Location: Miyata, Hitachi City, Ibaraki Prefecture
+- Venue: Kamine Shrine and central Hitachi City (the site of the Hitachi Sakura Festival)
+- Dates: One float is displayed by rotation among the four towns at the early April Hitachi Sakura Festival, and once in seven years all four floats are displayed at the grand festival of Kamine Shrine
+- Repertoire: Mechanical puppet plays such as the Genpei Seisuiki and the Chushingura
+- Cultural property designation: National Important Tangible Folk Cultural Property (1959), national Important Intangible Folk Cultural Property (1977), and UNESCO Intangible Cultural Heritage (registered 2009, expanded registration 2016)
+- Access: Around JR Joban Line Hitachi Station; the area of the Hitachi Sakura Festival
+
+## Nearby Attractions
+
+Heiwa-dori, the site of the Hitachi Sakura Festival where Hitachi Furyumono is displayed, is known as a famous cherry blossom spot selected among the hundred best cherry blossom sites in Japan. Rows of cherry trees continue for about one kilometer, and the spring scene in which the giant Furyumono is displayed beneath cherry blossoms in full bloom is filled with a gaiety unique to this place. The scenery in which festival and cherry blossoms become one draws many blossom viewers and festival spectators.
+
+Hitachi City has a history of developing as an industrial city facing the Pacific Ocean, and beautiful scenery spreads along its coast. The city is dotted with viewing spots overlooking the sea and facilities conveying the history of the region''s industry, and alongside viewing Furyumono one can touch the origins of the town of Hitachi. Kamine Shrine sits on a height overlooking the city and has been the center of faith for this region.
+
+The area around Hitachi City in northern Ibaraki Prefecture is also a region blessed with the nature of sea and mountain. With many sights such as scenic coastal spots and nearby mountains, one can, with the grand folk event of Furyumono at its core, tour the nature and culture of northern Ibaraki as well, and fully savor the appeal of this region.
+
+## Related Information
+
+- Month: Early April (Hitachi Sakura Festival) and the grand festival of Kamine Shrine once in seven years
+- Location: Hitachi City, Ibaraki Prefecture (Kanto region)
+- Venue: Kamine Shrine and central Hitachi City
+- Type: A float event and mechanical puppet play
+- Cultural property: National Important Tangible Folk Cultural Property, national Important Intangible Folk Cultural Property, and UNESCO Intangible Cultural Heritage Yama, Hoko, and Yatai float events
+- Features: Origins in the eighth year of Genroku, 1695; by the order of Tokugawa Mitsukuni; a five-tiered float about fifteen meters tall; a mechanical puppet play manipulated by strings
+','hitachi-furyumono','hitachi-furyumono',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11487216','弘前城菊と紅葉まつり','Hirosaki Castle Chrysanthemum and Autumn Foliage Festival',NULL,'annual autumn festival in Hirosaki, Japan','Q11288816','弘前公園','Hirosaki Park','青森県','tohoku',40.6039,140.4649,1962,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Hirosaki%20Castle%20chrysanthemum%20and%20autumn%20leaves%20festival%2003.jpg','https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E5%9F%8E%E8%8F%8A%E3%81%A8%E7%B4%85%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hirosaki_Castle_Chrysanthemum_and_Autumn_Leaves_Festival',90,'drafted','弘前城菊と紅葉まつりは、青森県弘前市の弘前公園で毎年10月中旬から11月上旬にかけて開催される秋の祭典である。日本三大桜名所として知られる弘前公園が、春の桜まつりに続いて秋にも見せる華やかな顔として、菊人形や菊花壇と、城跡を彩る紅葉の競演が楽しめる。1962年（昭和37年）の第1回開催以来、約60年の歴史を持つ津軽地方を代表する秋祭りである。
 
 最大の見どころは、植物園内に展示される大規模な菊花展示である。1,000鉢を超える菊花が、大菊・小菊・盆栽菊などの形式別に整然と並べられ、それぞれの花の美しさを競う。特に注目されるのが、その年の話題やストーリーを題材にした巨大な菊人形展示で、職人が一鉢一鉢丁寧に育てた菊の花を組み合わせて人物像を作り上げる。NHK大河ドラマの登場人物や歴史上の偉人がテーマとなることが多く、伝統的な菊細工の技と現代的なストーリー性が融合した独自の表現が来場者を魅了する。
