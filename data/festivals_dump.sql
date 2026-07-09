@@ -3340,15 +3340,121 @@ The area gathers some of Tokyo''s foremost attractions, including Sensoji Temple
 - Venue: Two sites along the Sumida River (Asakusa / Mukojima area)
 - Fireworks: Approx. 20,000
 - Former name: Ryogoku River-Opening Grand Fireworks / First held under current name: 1978','sumidagawa-fireworks-festival','sumidagawa-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q2071242','おわら風の盆','Kaze no bon','富山県富山市八尾地区で、毎年9月1日から3日にかけて行われている盆踊り','annual Japanese festival','Q204266','富山市','Toyama','富山県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kazenobon01.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86','https://en.wikipedia.org/wiki/Kaze_no_bon',85,'drafted','おわら風の盆（おわらかぜのぼん）は、富山県富山市八尾(やつお)地区で、毎年9月1日から3日にかけて行われる盆踊りである。哀切な胡弓(こきゅう)の音色と、編笠を目深にかぶった踊り手たちの優雅で幻想的な舞で知られ、越中富山の秋の訪れを告げる風物詩として全国的に高い人気を誇る。
+INSERT INTO "festivals" VALUES('Q2071242','おわら風の盆','Kaze no bon','富山県富山市八尾地区で、毎年9月1日から3日にかけて行われている盆踊り','annual Japanese festival','Q204266','富山市','Toyama','富山県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kazenobon01.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86','https://en.wikipedia.org/wiki/Kaze_no_bon',85,'drafted','## 概要
 
-「風の盆」の名は、台風が来襲する二百十日(にひゃくとおか)の頃に、風を鎮め豊作を祈願したことに由来するとされる。約300年の歴史を持つこの行事は、一般的な盆踊りの賑やかさとは一線を画し、しっとりとした情緒と気品にあふれている。三味線・太鼓に加え、おわら独特の胡弓が奏でる物悲しくも美しい旋律「越中おわら節」が、踊りの世界を一層深いものにしている。
+おわら風の盆（おわらかぜのぼん）は、富山県富山市八尾（やつお）町で毎年9月1日から3日にかけて行われる、越中を代表する伝統行事です。町中のぼんぼりに淡い灯がともるなか、揃いの法被や浴衣姿に編笠をつけた踊り手が、三味線・胡弓・唄の地方（じかた）に合わせて町を流し歩きます。哀切な胡弓の音色と、顔を隠すように編笠を目深に被って踊る優美な所作が、他に類を見ない幻想的な情緒を生み出し、全国から二十万人を超える見物客が訪れる名高い祭りとなっています。
 
-最大の魅力は、坂の町・八尾の風情ある町並みを舞台に繰り広げられる踊りである。夜になると、家々の軒先にぼんぼりの灯りがともり、編笠で顔を隠した男女が、無言のまま洗練された所作で優雅に舞い流す。男踊りは勇壮に、女踊りはしなやかに、それぞれの美しさを競う。胡弓の音色と踊り手のシルエットが闇に浮かぶ幻想的な光景は、訪れる人々の心を強く捉える。越中八尾に受け継がれてきたおわら風の盆は、日本の盆踊りのなかでも特別な美しさを湛えた、秋の夜の芸術である。','Owara Kaze no Bon is a Bon dance held from September 1st to 3rd each year in the Yatsuo district of Toyama City, Toyama Prefecture. Known for the plaintive tones of the kokyū (a bowed string instrument) and the elegant, dreamlike dancing of performers wearing braided hats pulled low over their faces, it boasts high nationwide popularity as a tradition heralding the arrival of autumn in Etchū Toyama.
+この行事の最大の特徴は、華やかさよりも静けさと哀愁を湛えた踊りにあります。喧騒とは無縁の、抑制のきいた美しさが夜の坂の町を包み込み、訪れる人々を深い情趣へと誘います。約三百年の歴史を持ち、風の災害を鎮め豊作を祈る素朴な祈りを根底に、八尾の坂の町の風情と一体となって受け継がれてきた点に、この祭りの奥深さがあります。
 
-The name "Kaze no Bon" (Bon of the wind) is said to derive from prayers to calm the wind and ensure an abundant harvest around the "210th day," when typhoons strike. With around 300 years of history, this event stands apart from the liveliness of typical Bon dances, overflowing with quiet sentiment and refinement. In addition to shamisen and drums, the mournful yet beautiful melody of "Etchū Owara-bushi," played on the kokyū distinctive to Owara, deepens the world of the dance still further.
+## 歴史と由来
 
-The greatest appeal is the dancing unfolding against the atmospheric streetscape of the hillside town of Yatsuo. At night, paper lanterns are lit at the eaves of the houses, and men and women hiding their faces with braided hats dance gracefully in silence with refined movements. The men''s dance is spirited and the women''s supple, each competing in its own beauty. The dreamlike scene of the kokyū''s tones and the dancers'' silhouettes emerging from the darkness powerfully captures the hearts of visitors. Handed down in Etchū Yatsuo, Owara Kaze no Bon is an art of the autumn night, imbued with a beauty special even among Japan''s Bon dances.','owara-kaze-no-bon','owara-kaze-no-bon',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+おわら風の盆が行われる八尾町は、浄土真宗本願寺派の寺院・聞名寺（もんみょうじ）の門前町として生まれ、江戸時代の町づくりのなかで発展した歴史を持つ土地です。この門前町の暮らしと信仰のなかから、おわらの唄と踊りが育まれ、約三百年にわたって受け継がれてきたと伝えられています。坂の多い町並みそのものが、この行事の情緒を形づくる大切な舞台となっています。
+
+「風の盆」という呼び名には、この地に根づいた切実な祈りが込められています。おわら風の盆が始まる9月1日は、立春から数えて二百十日目にあたり、古来より台風到来のシーズンと重なる「風の災厄日」とされてきました。この時期に風の災害が起こらないことを願い、あわせて豊作を祈る行事として営まれてきたことが、「風の盆」の名の由来とされています。自然の脅威と向き合いながら暮らしてきた人々の願いが、祭りの根底を支えているのです。
+
+踊り手が男女ともに編笠を目深に被って踊るのも、この祭りを特徴づける様式です。これは、踊り手が照れや恥ずかしさから人目を忍び、手ぬぐいで顔を隠して踊っていたことに由来するとされます。顔をあらわにしないことで、かえって所作の美しさと全体の統一感が際立ち、幻想的な雰囲気が生まれます。素朴な由来から生まれた様式が、結果としてこの祭り独自の美意識を作り上げてきました。
+
+おわらの継承を担うのが、八尾の各町から成るおわら保存会の十一の支部です。それぞれの支部が異なる唄・踊り・衣装を受け継いでおり、「町ごとの美」に出会えることが、この行事の大きな魅力となっています。たとえば最も高台に位置する支部では、少女たちが愛らしい早乙女衣装をまとって踊るなど、町ごとの個性が色濃く表れます。複数の町が互いの伝統を守りながら一つの祭りを織りなす構造が、おわらの豊かさを支えています。
+
+## 見どころ
+
+**町流し**
+おわら風の盆最大の見どころが、踊り手が列をなして町を流し歩く「町流し」です。三味線・胡弓・唄の地方が奏でる越中おわら節に合わせ、揃いの衣装の踊り手が坂の町をゆるやかに進みます。決められた舞台での演目とは異なり、町並みそのものを舞台とする流麗な情景は、この祭りならではの醍醐味となっています。
+
+**胡弓の音色**
+おわらの情緒を決定づけているのが、哀切な胡弓の音色です。胡弓は擦弦楽器で、その細く物悲しい響きが三味線や唄と溶け合い、夜の町に独特の哀愁を漂わせます。この胡弓の音があってこそ、おわらは他の盆踊りとは一線を画す幻想的な世界を作り出しており、多くの見物客の心をとらえてきました。
+
+**ぼんぼりの灯る坂の町**
+祭りの三日間、町中のぼんぼりに淡い灯がともり、八尾の坂の町並みが幽玄な光に包まれます。日中の華やかさとは対照的に、夕暮れから夜にかけての薄明かりのなかで踊られるおわらは格別で、灯りと踊りと音色が一体となった風景が、訪れる人々を非日常の情趣へと誘います。
+
+**編笠に顔を隠す優美な所作**
+男女の踊り手が編笠を目深に被り、顔を隠すようにして踊る所作は、おわらの象徴です。表情が見えないことで、指先や身のこなしの一つひとつに視線が集まり、抑制のきいた優美な美しさが際立ちます。この統一された所作が生む静謐な緊張感が、おわらの品格を形づくっています。
+
+**十一支部それぞれの個性**
+おわら保存会の十一支部は、それぞれ固有の唄・踊り・衣装を受け継いでいます。少女が早乙女衣装で踊る支部があるなど、町ごとに異なる表情を見せるため、複数の町を巡ることで多彩なおわらに出会えます。町ごとの伝統の違いを味わうことも、この祭りを深く楽しむ鍵となっています。
+
+## 開催情報・アクセス
+
+- 開催地: 富山県富山市八尾町
+- 会場: 八尾の坂の町一帯（各支部の町並み）
+- 開催日: 毎年9月1日・2日・3日（夕刻から夜にかけて踊りが行われる）
+- 主な内容: 町流し、各支部の踊り、越中おわら節の演奏
+- 由来: 立春から二百十日目にあたる風の災厄日の風鎮め・豊作祈願
+- アクセス: JR高山本線越中八尾駅から八尾の町へ。富山市中心部から鉄道・車で南西方向
+
+## 周辺の見どころ
+
+八尾町は、井田川沿いの河岸段丘上に広がる坂の多い町並みが特徴で、格子戸の町家や石垣の坂道など、江戸期の門前町・在郷町としての面影を色濃く残しています。おわら風の盆の舞台となるこの町並みは、祭りの期間以外でも散策する価値があり、坂を上り下りしながら歴史ある家並みを味わうことができます。町そのものが祭りの情緒と分かちがたく結びついています。
+
+八尾のある富山市は、立山連峰を望む富山平野に位置し、豊かな水と山の恵みに支えられた地域です。市内には富山城址や売薬の歴史を伝える施設など見どころが点在し、おわらの見学とあわせて越中の歴史と文化に触れることができます。北陸新幹線で富山駅までアクセスしやすく、県外からの来訪にも便利な立地です。
+
+また富山県は、立山黒部アルペンルートや世界遺産の合掌造り集落など、全国的に知られる観光資源を数多く抱える地域でもあります。おわら風の盆をきっかけに富山を訪れ、雄大な自然や独自の文化圏をあわせて巡ることで、越中の魅力を存分に味わうことができます。
+
+## 関連情報
+
+- 開催月: 9月（毎年9月1日から3日）
+- 所在地: 富山県富山市八尾町（中部・北陸地方）
+- 会場: 八尾の坂の町一帯
+- 種別: 風鎮め・豊作祈願の盆行事
+- 特色: 約300年の歴史・胡弓を伴う越中おわら節・編笠で顔を隠す優美な町流し・おわら保存会11支部
+','## Overview
+
+Owara Kaze no Bon is a traditional event representative of the Etchu region, held every year from September 1 to 3 in Yatsuo, Toyama City, Toyama Prefecture. Beneath the soft glow of paper lanterns lit throughout the town, dancers in matching happi coats and yukata, wearing braided straw hats, move through the streets in a flowing procession to the accompaniment of the jikata, the players of shamisen, kokyu, and song. The plaintive tone of the kokyu and the graceful movements of the dancers, who pull their braided hats low as if to hide their faces, create an atmosphere of unparalleled fantasy, and it has become a renowned festival drawing more than two hundred thousand spectators from across the country.
+
+The greatest characteristic of this event lies in a dance imbued with stillness and melancholy rather than gaiety. A restrained beauty, remote from clamor, envelops the sloping town at night and draws visitors into a deep sense of feeling. With a history of some three hundred years, its depth lies in the way it has been handed down as one with the atmosphere of the sloping town of Yatsuo, rooted in the simple prayer to calm the disasters of wind and to pray for a good harvest.
+
+## History and Origins
+
+Yatsuo, where Owara Kaze no Bon is held, was born as a temple town before Monmyoji, a temple of the Honganji branch of Jodo Shinshu Buddhism, and is a land with a history of developing through the town planning of the Edo period. It is said that the song and dance of Owara were nurtured within the life and faith of this temple town and have been handed down for some three hundred years. The townscape itself, with its many slopes, serves as an important stage that shapes the atmosphere of this event.
+
+The name Kaze no Bon, meaning the Bon of the Wind, carries an earnest prayer rooted in this land. September 1, when Owara Kaze no Bon begins, is the two hundred and tenth day counting from the start of spring, and has since ancient times been regarded as a day of wind disaster coinciding with the typhoon season. That it was carried out as an event praying that no wind disaster would occur during this period, together with a prayer for a good harvest, is said to be the origin of the name Kaze no Bon. The wishes of people who lived facing the threats of nature support the very foundation of the festival.
+
+The style in which both male and female dancers pull their braided hats low as they dance is another feature that characterizes this festival. This is said to derive from dancers who, out of shyness and embarrassment, hid their faces with hand towels as they danced while avoiding others'' eyes. By not revealing their faces, the beauty of their movements and the overall sense of unity are all the more striking, giving rise to a fantastical atmosphere. A style born of a simple origin has, as a result, created the aesthetic unique to this festival.
+
+Carrying on Owara are the eleven branches of the Owara Preservation Society, made up of the various towns of Yatsuo. Each branch has inherited its own song, dance, and costume, and encountering the beauty particular to each town is a great appeal of this event. For example, at the branch located on the highest ground, girls dance wearing charming saotome costumes, so the individuality of each town is vividly expressed. The structure in which several towns weave a single festival while preserving their respective traditions sustains the richness of Owara.
+
+## Highlights
+
+**The Machinagashi Street Procession**
+The greatest highlight of Owara Kaze no Bon is the machinagashi, in which dancers form a line and flow through the town. To the Etchu Owara-bushi played by the jikata of shamisen, kokyu, and song, dancers in matching costumes advance slowly through the sloping town. Unlike performances on a fixed stage, this flowing scene, which uses the townscape itself as its stage, is the true delight found only in this festival.
+
+**The Tone of the Kokyu**
+What defines the atmosphere of Owara is the plaintive tone of the kokyu. The kokyu is a bowed string instrument, and its thin, sorrowful resonance blends with the shamisen and the song, spreading a distinctive melancholy through the night town. It is precisely because of this sound of the kokyu that Owara creates a fantastical world set apart from other Bon dances, capturing the hearts of many spectators.
+
+**The Sloping Town Lit by Paper Lanterns**
+Throughout the three days of the festival, paper lanterns are lit across the town, and the sloping townscape of Yatsuo is wrapped in a mysterious light. In contrast to the gaiety of daytime, the Owara danced in the faint light from dusk into night is exceptional, and the scene in which light, dance, and tone become one draws visitors into an extraordinary mood.
+
+**Graceful Movements with Faces Hidden by Braided Hats**
+The movement in which male and female dancers pull their braided hats low and dance as if to hide their faces is the symbol of Owara. Because their expressions cannot be seen, the gaze gathers on each motion of the fingertips and the bearing of the body, and a restrained, graceful beauty stands out. The quiet tension created by these unified movements shapes the dignity of Owara.
+
+**The Individuality of Each of the Eleven Branches**
+The eleven branches of the Owara Preservation Society each inherit their own song, dance, and costume. Because each town shows a different face, such as a branch where girls dance in saotome costumes, one can encounter a variety of Owara by touring several towns. Savoring the differences in the traditions of each town is also a key to enjoying this festival deeply.
+
+## Event Information and Access
+
+- Location: Yatsuo, Toyama City, Toyama Prefecture
+- Venue: The sloping town of Yatsuo (the townscapes of each branch)
+- Dates: September 1, 2, and 3 every year (the dancing is held from dusk into the night)
+- Main contents: The machinagashi street procession, the dances of each branch, and the performance of Etchu Owara-bushi
+- Origins: The calming of wind and prayer for a good harvest on the day of wind disaster falling on the two hundred and tenth day from the start of spring
+- Access: From JR Etchu-Yatsuo Station on the Takayama Main Line to the town of Yatsuo; southwest of central Toyama City by rail or car
+
+## Nearby Attractions
+
+Yatsuo is characterized by a sloping townscape spreading over the river terrace along the Ida River, and strongly retains the appearance of an Edo-period temple town and rural town, with lattice-doored townhouses and stone-walled slopes. The townscape that serves as the stage of Owara Kaze no Bon is worth strolling through even outside the festival period, and one can savor the historic rows of houses while going up and down the slopes. The town itself is inseparably bound to the atmosphere of the festival.
+
+Toyama City, where Yatsuo lies, is located on the Toyama Plain overlooking the Tateyama mountain range, and is a region supported by the rich bounty of water and mountains. The city is dotted with sights such as the ruins of Toyama Castle and facilities conveying the history of the medicine trade, and alongside viewing Owara one can touch the history and culture of Etchu. It is easily accessible by Hokuriku Shinkansen to Toyama Station, making it a convenient location for visitors from outside the prefecture.
+
+Toyama Prefecture is also a region with many nationally known tourism resources, such as the Tateyama Kurobe Alpine Route and the World Heritage gassho-style villages. By visiting Toyama with Owara Kaze no Bon as the occasion and touring its majestic nature and unique cultural sphere as well, one can fully savor the appeal of Etchu.
+
+## Related Information
+
+- Month: September (September 1 to 3 every year)
+- Location: Yatsuo, Toyama City, Toyama Prefecture (Chubu and Hokuriku region)
+- Venue: The sloping town of Yatsuo
+- Type: A Bon event for calming the wind and praying for a good harvest
+- Features: A history of some three hundred years; Etchu Owara-bushi accompanied by the kokyu; a graceful street procession with faces hidden by braided hats; the eleven branches of the Owara Preservation Society
+','owara-kaze-no-bon','owara-kaze-no-bon',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q2069076','ガタケット','Niigata Comic Market','新潟県新潟市で開催される同人誌即売会','comic convention in Niigata, Japan',NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,1983,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%BF%E3%82%B1%E3%83%83%E3%83%88','https://en.wikipedia.org/wiki/Niigata_Comic_Market',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1151186','フジロックフェスティバル','Fuji Rock Festival','毎年夏季に日本で行われるロックフェスティバル','music festival','Q3268287','苗場スキー場','Naeba Ski Resort','新潟県','chubu',36.799,138.78359167,1997,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/FujiGreenStage.jpg','https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%AD%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Fuji_Rock_Festival',95,'drafted','## 概要
 
