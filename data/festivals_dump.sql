@@ -4871,21 +4871,127 @@ INSERT INTO "festivals" VALUES('Q6404141','吉祥寺音楽祭','Kichijōji Music
 INSERT INTO "festivals" VALUES('Q11197438','EARTH VISION 地球環境映像祭','EARTH VISION Global Environment Video Festival','地球環境をテーマとする国際映像祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/EARTH_VISION_%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E6%98%A0%E5%83%8F%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3959472','神宮式年遷宮','Jingū Shikinen Sengū','伊勢神宮において行われる式年遷宮',NULL,'Q687168','伊勢神宮','Ise Jingū','三重県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%AE%AE%E5%BC%8F%E5%B9%B4%E9%81%B7%E5%AE%AE',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11193741','COUNTDOWN JAPAN','Countdown Japan','日本のロック・フェスティバル (2003-)','music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2003,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11255132','よさこい祭り','Yosakoi Matsuri','高知県高知市の祭り','festival in Kōchi, Japan',NULL,NULL,NULL,'高知県','shikoku',NULL,NULL,1954,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Yosakoi%20Performers%20at%20Kochi%20Yosakoi%20Matsuri%202005%2065.jpg','https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%95%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A',NULL,85,'drafted','よさこい祭りは、高知県高知市で毎年8月に開催される、戦後日本を代表する現代型の祭りです。1954年（昭和29年）、戦後の不況を吹き飛ばし市民を元気づけることを目的として、高知商工会議所を中心に始められました。隣県・徳島の阿波おどりに対抗する意味合いもあったといわれ、第1回には21チーム・約750人が参加しました。
+INSERT INTO "festivals" VALUES('Q11255132','よさこい祭り','Yosakoi Matsuri','高知県高知市の祭り','festival in Kōchi, Japan',NULL,NULL,NULL,'高知県','shikoku',NULL,NULL,1954,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Yosakoi%20Performers%20at%20Kochi%20Yosakoi%20Matsuri%202005%2065.jpg','https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%95%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-「よさこい」の名は、高知の民謡「よさこい節」に由来します。最大の特徴は、踊り子が手に持つ「鳴子（なるこ）」です。本来は田畑で鳥を追い払う農具であった鳴子を、作曲家・武政英策がリズム楽器として取り入れ、これが祭りの象徴となりました。「鳴子を持って前進する」というルールと、「よさこい節のフレーズを曲に入れる」という二つの約束さえ守れば、楽曲も振付も衣装も自由という懐の深さが、よさこい祭りの爆発的な発展を支えました。
+よさこい祭りは、高知県高知市で毎年8月に開催される四国屈指の夏祭りで、両手に鳴子を持った踊り子たちが「よさこい鳴子踊り」の軽快なリズムに乗って市内の街路を踊り歩く、熱気と躍動感にあふれた祭典です。音楽と照明を積んだ地方車が先導し、その後ろに揃いの衣装をまとった大人数のチームが続いて踊り進む光景は圧巻で、現在では約190から200のチーム、延べ約1万8千人もの踊り子が参加する大規模な祭りへと成長しています。
 
-ロックやサンバ、民謡などあらゆる音楽を取り込み、各チームが趣向を凝らした地方車（じかたしゃ）を先頭に、市内各所の競演場・演舞場を踊り歩きます。色とりどりの衣装をまとった踊り子が、鳴子を打ち鳴らしながら繰り広げる迫力ある群舞は、見る者を熱狂させます。
+戦後の高知で市民を元気づけようと始まったこの祭りは、鳴子を鳴らしながら前進して踊るという独自のスタイルを生み出し、今や全国各地に広がった「よさこい系」の祭りのルーツとなりました。曲の一節さえ守れば編曲も振り付けも自由という懐の深さが多彩な演舞を生み、伝統的な踊りから現代的でエネルギッシュな演舞まで、チームごとの個性が競い合われるのが大きな魅力です。
 
-今日では参加チーム約200・踊り子は約2万人にのぼり、四国三大祭りの一つに数えられます。そして札幌のYOSAKOIソーラン祭りをはじめ、全国・世界へと広がった「よさこい系」祭りの原点として、その存在感は揺るぎないものとなっています。','The Yosakoi Matsuri, held every August in Kochi City, Kochi Prefecture, is one of postwar Japan''s most iconic modern festivals. It began in 1954, organized chiefly by the Kochi Chamber of Commerce and Industry, with the aim of dispelling the gloom of the postwar economic slump and lifting the spirits of the city''s residents. It is said to have been conceived partly in friendly rivalry with the famous Awa Odori of neighboring Tokushima. The first festival drew 21 teams and around 750 dancers.
+## 歴史と由来
 
-The name "Yosakoi" derives from "Yosakoi Bushi," a traditional folk song of Kochi. The festival''s defining feature is the naruko, a wooden clapper held in each dancer''s hands. Originally an agricultural tool used to scare birds away from rice fields, the naruko was reimagined as a rhythm instrument by composer Eisaku Takemasa, becoming the festival''s enduring symbol.
+よさこい祭りは、1954年（昭和29年）に始まりました。戦後の不景気風を吹き飛ばし、市民を元気づけようという願いから、高知商工会議所が中心となって開催したのがその始まりです。同じ四国の徳島県で盛んな阿波踊りに刺激を受けたともいわれ、高知ならではの新しい夏祭りを創り出そうとする熱意が、この祭りを生み出す原動力となりました。
 
-What fueled Yosakoi''s explosive growth is its remarkable openness: as long as dancers hold naruko and move forward, and as long as a phrase of "Yosakoi Bushi" is woven into the music, every team is free to choose its own music, choreography, and costumes. This flexibility allowed teams to incorporate rock, samba, folk, and countless other styles.
+第1回の祭りは8月10日に開幕し、打ち上げ花火とサイレンが開幕を告げるなか、21団体750人の踊り子が「よさこい鳴子踊り」を披露しました。当初は比較的小規模な催しでしたが、年を追うごとに参加チームと踊り子の数を増やし、現在では国内外から多数のチームが集う一大イベントへと発展しました。第1回のわずか750人から、今日では約1万8千人が踊る規模にまで拡大しています。
 
-Each team performs led by a jikatasha—an elaborately decorated sound truck—dancing through competition stages and performance venues scattered across the city. The powerful group choreography, performed by dancers in vividly colored costumes clapping their naruko in unison, electrifies spectators.
+祭りの核となる「よさこい鳴子踊り」は、作曲家・武政英策の手によって生み出されました。武政は農作業で鳥を追い払うために使われた鳴子を踊りの道具として用いることを考案し、両手に鳴子を持って打ち鳴らしながら前進して踊るという独自のスタイルを確立しました。この鳴子こそが、よさこい祭りを他の踊りと決定的に区別する象徴となっています。
 
-Today the festival features around 200 teams and some 20,000 dancers, ranking among the three great festivals of Shikoku. As the original source of the "Yosakoi-style" festivals that have since spread across Japan and around the world—most notably the YOSAKOI Soran Festival in Sapporo—its influence remains profound and undiminished.','yosakoi-matsuri','yosakoi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+よさこい祭りは高知の枠を超えて全国へと広がりました。北海道の札幌で1992年に始まったYOSAKOIソーラン祭りをはじめ、各地で「よさこい」を冠した祭りが次々と誕生し、日本を代表する市民参加型の踊りの祭典として定着しました。本家である高知のよさこい祭りは、こうした全国の祭りのルーツとして、今も夏の高知に欠かせない行事であり続けています。
+
+## 見どころ
+
+**鳴子を鳴らして進む踊り**
+よさこい祭り最大の特徴は、踊り子が両手に鳴子を持ち、打ち鳴らしながら前進して踊ることです。無数の鳴子が一斉に響くカチャカチャという軽快な音は、よさこいならではのもので、視覚だけでなく聴覚でも祭りの高揚を体感できます。この鳴子を持つことがよさこいの踊りの基本ルールとなっています。
+
+**街を彩る地方車**
+各チームの先頭を進むのが、音楽と照明機材を積んで華やかに装飾した地方車です。地方車から大音量で流れる楽曲に合わせてチームが踊り進むため、地方車はいわば動く舞台装置ともいえます。趣向を凝らしたデザインの地方車そのものも、見どころのひとつとなっています。
+
+**自由なメドレーと振り付け**
+よさこいの楽曲は、「よさこい鳴子踊り」のフレーズを一部に入れることさえ守れば、あとは編曲も振り付けも自由とされています。この懐の深いルールのおかげで、正調のよさこい鳴子踊りからロックやサンバ調まで、実に多彩なメドレーと演舞が生まれ、チームごとの個性がぶつかり合います。
+
+**大人数の揃い踊り**
+1チームの踊り子は最大150人まで認められており、揃いの衣装をまとった大人数が一糸乱れず踊る迫力は圧倒的です。隊列を組み替えながら繰り広げられるダイナミックな群舞は、規模の大きさとチームの練習の成果が存分に発揮される場面です。
+
+**市内各所の競演場・演舞場**
+祭りは高知市内の複数の競演場・演舞場で同時に繰り広げられます。日曜市で知られる追手筋の本部競演場をはじめ、商店街や公園など街のあちこちが踊りの舞台となり、観客は市内を巡りながらお目当てのチームの演舞を楽しむことができます。
+
+**全国大会と後夜祭**
+祭りの最終日には、全国から選ばれたチームが集う全国大会が開かれ、各地のよさこいの粋を一堂に見ることができます。本場高知のチームと全国のチームが競演する様子は、よさこいが全国に広がった今ならではの見どころとなっています。
+
+## 開催情報・アクセス
+
+- 開催地：高知県高知市（追手筋本部競演場ほか市内各所の競演場・演舞場）
+- 開催時期：毎年8月9日〜12日（9日前夜祭・花火、10日11日本祭、12日全国大会・後夜祭）
+- 起源：1954年（昭和29年）、高知商工会議所が中心となり創始
+- 規模：約190〜200チーム・延べ約1万8千人の踊り子が参加
+- 楽曲：武政英策作曲「よさこい鳴子踊り」を基本とする
+- アクセス：JR高知駅から中心街まで徒歩またはとさでん交通の路面電車で数分
+
+## 周辺の見どころ
+
+祭りの中心となる追手筋は、日曜ごとに約300もの露店が並ぶ「日曜市」で知られる通りで、よさこい祭りの時期以外にも高知ならではの賑わいを見せます。通りの先にそびえる高知城は、天守と本丸御殿がともに現存する全国でも数少ない城として国の重要文化財に指定され、追手筋からの眺めは高知市を象徴する景観となっています。
+
+高知市は幕末維新の志士・坂本龍馬をはじめ多くの偉人を輩出した土地で、桂浜には太平洋を望む雄大な景色とともに坂本龍馬像が立ちます。高知県立坂本龍馬記念館や高知城歴史博物館などで土佐の歴史に触れることができ、祭りとあわせて歴史散策を楽しむこともできます。
+
+高知は「食」の豊かさでも知られ、カツオのたたきをはじめとする土佐の郷土料理を味わえる店が中心街に数多くあります。多彩な地元の料理と地酒が並ぶひろめ市場は観光客にも人気で、よさこいの熱気にあてられたあと、土佐の味覚で夏の高知を満喫することができます。
+
+## 関連情報
+
+- 開催月：8月
+- 都道府県・地域：高知県（四国地方）
+- 起源：1954年（昭和29年）、戦後復興と市民激励を目的に創始
+- 楽曲・道具：武政英策作曲「よさこい鳴子踊り」、両手に持つ鳴子
+- 規模：約190〜200チーム・延べ約1万8千人
+- 波及：全国の「よさこい系」祭り（YOSAKOIソーラン祭り等）のルーツ','## Overview
+
+Yosakoi Matsuri is one of the leading summer festivals of Shikoku, held every August in Kochi City, Kochi Prefecture. It is a festival brimming with heat and dynamic energy, in which dancers holding naruko clappers in both hands dance along the streets of the city to the brisk rhythm of the Yosakoi Naruko Odori. Led by a jikatasha float loaded with music and lighting, teams of large numbers of dancers in matching costumes follow behind and dance forward, in an overwhelming sight, and today it has grown into a large-scale festival in which about 190 to 200 teams, totaling some 18,000 dancers, take part.
+
+This festival, which began in postwar Kochi in an effort to cheer up the citizens, gave rise to the distinctive style of dancing forward while sounding the naruko, and it has now become the root of the Yosakoi-style festivals that have spread throughout the country. The generosity of its rule, whereby the arrangement and choreography are free so long as a single phrase of the song is kept, gives rise to a wide variety of performances, and it is a great attraction that the individuality of each team is set in competition, from traditional dances to modern and energetic performances.
+
+## History and Origins
+
+Yosakoi Matsuri began in 1954. It started when the Kochi Chamber of Commerce and Industry took the lead in holding it, out of a wish to blow away the winds of the postwar recession and cheer up the citizens. It is said to have been inspired in part by the Awa Odori that flourishes in neighboring Tokushima Prefecture in the same Shikoku, and the enthusiasm to create a new summer festival unique to Kochi was the driving force that gave birth to this festival.
+
+The first festival opened on August 10, and as fireworks and a siren announced the opening, 750 dancers in 21 groups performed the Yosakoi Naruko Odori. At first it was a relatively small-scale event, but with each passing year the number of participating teams and dancers increased, and today it has developed into a major event that gathers many teams from within Japan and abroad. From a mere 750 people at the first festival, it has expanded to a scale at which some 18,000 people dance today.
+
+The Yosakoi Naruko Odori, the core of the festival, was created by the composer Eisaku Takemasa. Takemasa devised the use, as a tool for the dance, of the naruko clappers that had been used to drive away birds in farm work, and he established the distinctive style of dancing forward while holding a naruko in each hand and clapping them. It is this naruko that has become the symbol decisively distinguishing Yosakoi Matsuri from other dances.
+
+Yosakoi Matsuri spread beyond Kochi throughout the country. Beginning with the YOSAKOI Soran Festival that started in Sapporo, Hokkaido, in 1992, festivals bearing the name Yosakoi were born one after another in various places, and it has taken root as a citizen-participation dance festival representative of Japan. The original Yosakoi Matsuri of Kochi continues to be an indispensable event of summer in Kochi, as the root of such festivals across the nation.
+
+## Highlights
+
+**Dancing Forward While Sounding the Naruko**
+The greatest feature of Yosakoi Matsuri is that the dancers hold naruko clappers in both hands and dance forward while sounding them. The brisk clattering sound of countless naruko ringing all at once is unique to Yosakoi, and one can feel the exhilaration of the festival not only through sight but through hearing as well. Holding these naruko is the basic rule of the Yosakoi dance.
+
+**The Jikatasha Floats That Color the Streets**
+Leading each team is the jikatasha, a float gorgeously decorated and loaded with music and lighting equipment. Because the teams dance forward to the music that flows at high volume from the jikatasha, the float is, so to speak, a moving stage device. The elaborately designed jikatasha itself is also one of the highlights.
+
+**Free Medleys and Choreography**
+The music of Yosakoi is free in both arrangement and choreography, so long as a phrase of the Yosakoi Naruko Odori is included in part. Thanks to this generous rule, a truly wide variety of medleys and performances are born, from the orthodox Yosakoi Naruko Odori to rock and samba styles, and the individuality of each team collides.
+
+**Coordinated Dances of Large Numbers**
+Each team is permitted up to a maximum of 150 dancers, and the force of large numbers in matching costumes dancing without a single misstep is overwhelming. The dynamic group dance, unfolding while the formations are rearranged, is a scene in which the greatness of the scale and the results of the teams'' practice are fully displayed.
+
+**Competition and Performance Venues throughout the City**
+The festival unfolds simultaneously at several competition and performance venues within Kochi City. Beginning with the headquarters competition venue on Otesuji, known for its Sunday market, and extending to shopping streets and parks, various places around the town become stages for the dance, and spectators can enjoy the performances of their favorite teams while touring the city.
+
+**The National Competition and the After-Festival**
+On the final day of the festival, a national competition is held in which teams selected from across the country gather, and one can see the essence of Yosakoi from various places all in one place. The sight of the teams of the home ground of Kochi competing with teams from across the nation is a highlight unique to the present, now that Yosakoi has spread throughout the country.
+
+## Event Information and Access
+
+- Location: Kochi City, Kochi Prefecture (the Otesuji headquarters competition venue and competition and performance venues throughout the city)
+- Dates: August 9 to 12 every year (eve festival and fireworks on the 9th, main festival on the 10th and 11th, national competition and after-festival on the 12th)
+- Origin: Founded in 1954, led by the Kochi Chamber of Commerce and Industry
+- Scale: About 190 to 200 teams, totaling some 18,000 dancers
+- Music: Based on the Yosakoi Naruko Odori composed by Eisaku Takemasa
+- Access: A few minutes on foot or by the Tosaden Kotsu streetcar from JR Kochi Station to the city center
+
+## Around the Area
+
+Otesuji, the center of the festival, is a street known for its Sunday market, where about 300 stalls line up every Sunday, and it shows a bustle unique to Kochi even outside the season of Yosakoi Matsuri. Kochi Castle, rising at the end of the street, is designated a National Important Cultural Property as one of the few castles in the whole country where both the keep and the main hall survive, and the view from Otesuji is a landscape symbolizing Kochi City.
+
+Kochi City is a land that produced many great figures, including Sakamoto Ryoma, a patriot of the end of the Edo period and the Meiji Restoration, and at Katsurahama a statue of Sakamoto Ryoma stands together with a magnificent view overlooking the Pacific Ocean. One can encounter the history of Tosa at places such as the Kochi Prefectural Sakamoto Ryoma Memorial Museum and the Kochi Castle Museum of History, and one can also enjoy a historical stroll together with the festival.
+
+Kochi is also known for the richness of its food, and there are many shops in the city center where one can savor the local cuisine of Tosa, beginning with seared bonito. Hirome Market, where a variety of local dishes and local sake are lined up, is popular with tourists as well, and after being stirred up by the heat of Yosakoi, one can fully enjoy summer in Kochi with the flavors of Tosa.
+
+## Related Information
+
+- Month: August
+- Prefecture and region: Kochi Prefecture (Shikoku region)
+- Origin: Founded in 1954 for the purposes of postwar recovery and encouraging the citizens
+- Music and tool: The Yosakoi Naruko Odori composed by Eisaku Takemasa, and the naruko held in both hands
+- Scale: About 190 to 200 teams, totaling some 18,000 dancers
+- Influence: The root of the Yosakoi-style festivals across the country (such as the YOSAKOI Soran Festival)','yosakoi-matsuri','yosakoi-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q774193','久喜の提灯祭り・天王様','Lantern Festival of Kuki',NULL,NULL,'Q47535','久喜市','Kuki','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Kuki%20Ch%C5%8Dchin%20Matsuri%2004.jpg','https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98',NULL,80,'drafted','## 概要
 
 久喜の提灯祭り・天王様は、埼玉県久喜市で行われる、旧久喜町の鎮守である八雲神社の祭礼です。約240年の歴史を誇る伝統的な夏祭りで、毎年7月12日と18日の二日間にわたって開催されます。この祭り最大の特色は、昼と夜とで山車の姿ががらりと変わることにあります。昼間は精巧な人形を飾った華やかな人形山車が町を巡行し、夜になると人形を取り外して、一台あたり約500個もの提灯で覆い尽くした提灯山車へと組み替えられます。夜の闇のなかを、無数の提灯を灯した七台の山車が練り歩く光景はまことに幻想的で、関東を代表する提灯祭りの一つとして広く知られています。
@@ -6046,19 +6152,127 @@ The Tsurugi district venue is conveniently reached via Tsurugi Station on the Ho
 ## Around the Area
 
 Tsurugi in Hakusan City is a temple-gate town that prospered as one of the pilgrimage entrances to the sacred Mount Haku, and is a place of faith home to the head shrine of Shirayama Hime Jinja. Visitors can enjoy the nature along the Tedori River, hot springs at the foot of Mount Haku, and local sake and Japanese sweets—history, culture, and nature all tied to the Hakusan faith. Combined with the autumn festival, it is an area where one can savor the distinctive travel mood of the foothills of Mount Haku.','horai-matsuri','horai-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11255141','YOSAKOIソーラン祭り','Yosakoi Soran Festival','6月上旬に北海道札幌市で行われるイベント',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1992,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/YOSAKOI%20Soran%20Festival.jpg','https://ja.wikipedia.org/wiki/YOSAKOI%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,85,'drafted','YOSAKOIソーラン祭りは、北海道札幌市で毎年6月上旬に開催される、北海道最大級の祭りです。1992年（平成4年）、一人の大学生が高知のよさこい祭りに感銘を受け、「北海道でも同じような熱気ある祭りを」という思いから始めたのが起源です。第1回はわずか10チーム・約1,000人の参加でしたが、わずか数年で爆発的に成長し、今日では国内外から約270チーム・約2万7千人の踊り子が参加し、200万人もの観客が訪れる一大イベントへと発展しました。
+INSERT INTO "festivals" VALUES('Q11255141','YOSAKOIソーラン祭り','Yosakoi Soran Festival','6月上旬に北海道札幌市で行われるイベント',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1992,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/YOSAKOI%20Soran%20Festival.jpg','https://ja.wikipedia.org/wiki/YOSAKOI%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、高知の「よさこい」と北海道の伝統民謡「ソーラン節」を融合させた点にあります。よさこい祭り由来の「鳴子を手に持って踊る」という要素に加え、「曲のどこかにソーラン節のフレーズを入れる」というルールが加わりました。ニシン漁の労働歌であった力強いソーラン節のメロディが、現代的なダンスと一体となることで、独特の高揚感を生み出しています。
+YOSAKOIソーラン祭りは、北海道札幌市で毎年6月上旬に開催される、初夏の札幌を彩る大規模な踊りの祭典です。高知県の「よさこい祭り」を参考に、両手に持つ「鳴子」と北海道の代表的な民謡「ソーラン節」を組み合わせて生まれた祭りで、鳴子を鳴らしながらソーラン節のフレーズに乗せて踊るダイナミックな演舞が繰り広げられます。大通公園をはじめとする札幌市内各所の会場で、揃いの衣装をまとった大人数のチームが次々と踊り進む光景は圧巻です。
 
-メイン会場である大通公園のステージや、目抜き通りを使ったパレード会場で、各チームが大旗を振り、地方車を先頭に群舞を披露します。色鮮やかな衣装、揃った振付、ダイナミックな構成は、ストリートダンスの要素も取り込み、年々進化を続けています。
+1992年（平成4年）にわずか10チーム・参加者1,000人で始まったこの祭りは、その後急速に成長し、近年では日本全国はもとより海外からも約270チーム・2万7千人もの踊り手が参加し、観客動員は200万人を超える世界規模の祭典へと発展しました。若者を中心に幅広い世代が参加する市民参加型の祭りとして、札幌の初夏に欠かせない一大イベントとなっています。
 
-初夏の爽やかな札幌の街を舞台に、若者を中心とした熱気あふれる踊りが繰り広げられるYOSAKOIソーラン祭りは、伝統と現代、本州と北海道の文化が融合した、新しい時代の祭りの象徴といえるでしょう。','The YOSAKOI Soran Festival, held every early June in Sapporo, Hokkaido, is one of the largest festivals in all of Hokkaido. It began in 1992 when a single university student, deeply moved by the Yosakoi Festival of Kochi, set out to create a festival of the same vibrant energy in Hokkaido. The first event drew just 10 teams and around 1,000 participants, but it grew explosively within a few years. Today it features roughly 270 teams and some 27,000 dancers from across Japan and abroad, drawing crowds of around two million spectators.
+## 歴史と由来
 
-The festival''s defining characteristic is the fusion of Kochi''s "Yosakoi" with Hokkaido''s traditional folk song "Soran Bushi." In addition to the Yosakoi tradition of dancing while holding naruko clappers, a new rule was added: a phrase of "Soran Bushi" must be woven somewhere into each team''s music. Originally a work song of the herring fishery, the powerful melody of Soran Bushi, fused with contemporary dance, generates a uniquely exhilarating atmosphere.
+YOSAKOIソーラン祭りは、1992年（平成4年）に始まりました。きっかけをつくったのは、当時学生であった長谷川岳です。高知県のよさこい祭りに強く感銘を受けた彼が、その熱気とエネルギーを北海道でも実現しようと考え、仲間とともに新しい祭りを立ち上げたのがその始まりです。高知の祭りの根幹である「鳴子」を受け継ぎつつ、北海道ならではの要素として民謡「ソーラン節」を取り入れたことが、この祭りの独自性を決定づけました。
 
-At the main venue in Odori Park and along parade routes through the city''s main avenues, each team performs group dances led by a sound truck, waving enormous flags. With vividly colored costumes, tightly synchronized choreography, and dynamic staging that incorporates elements of street dance, the performances continue to evolve year after year.
+第1回の祭りは、参加10チーム・参加者1,000人、観客動員数20万人という規模でスタートしました。若さと勢いにあふれた新しい踊りの祭典はまたたく間に人々の心をとらえ、参加チームと観客の数は年を追うごとに飛躍的に増加していきました。北海道内にとどまらず日本全国、さらには海外へと広がり、2017年には約270チーム・2万7千人の参加者と約200万人の観客を集めるまでに成長しています。
 
-Set against the fresh early-summer streets of Sapporo, the YOSAKOI Soran Festival showcases passionate dancing led largely by young people. As a celebration that blends tradition with modernity, and the cultures of Honshu and Hokkaido, it stands as a symbol of the festivals of a new era.','yosakoi-soran-matsuri','yosakoi-soran-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+祭りの根幹をなすのは、高知のよさこい祭りから受け継いだ「鳴子を手に持って踊る」というスタイルと、北海道の民謡「ソーラン節」です。ソーラン節はもともとニシン漁の際に歌われた労働歌で、力強くリズミカルな旋律が踊りとよく合います。この二つの要素を融合させたことで、YOSAKOIソーラン祭りは高知の本家とは一味違う、北海道らしい独自の踊りの祭典となりました。
+
+参加チームに課されるルールは、「手に鳴子を持つこと」と「曲のなかにソーラン節のフレーズを入れること」の二点のみで、それ以外の楽曲の編曲や振り付け、衣装は自由とされています。この自由度の高さが、伝統的なものから現代的なものまで実に多彩な演舞を生み出し、チームごとの創意工夫が存分に発揮される祭りへと成長する原動力となりました。今日ではよさこい系の祭りを代表する存在として、全国に知られています。
+
+## 見どころ
+
+**鳴子とソーラン節の融合**
+YOSAKOIソーラン祭り最大の特徴は、両手に持った鳴子を鳴らしながら、北海道民謡ソーラン節のフレーズに乗せて踊ることです。カチャカチャと響く鳴子の音と、力強いソーラン節の旋律が一体となった演舞は、高知のよさこいとも異なる独特の迫力を生み出しています。
+
+**大通公園の大舞台**
+祭りのメイン会場となるのが、札幌の中心にある大通公園です。広々とした公園に設けられた大舞台で繰り広げられる演舞は規模が大きく、大人数のチームが隊列を組んで踊る様子は圧巻の一言に尽きます。緑豊かな公園を背景にした華やかな踊りは、初夏の札幌を象徴する光景です。
+
+**街を練り歩くパレード演舞**
+大通公園の舞台演舞に加えて、南北のパレード会場では、チームが街路を踊り進むパレード形式の演舞も行われます。地方車を先頭に、通りを埋め尽くして踊り流れるチームの姿は、観客との距離も近く、祭りの熱気を間近に体感できます。
+
+**自由で多彩な演舞**
+鳴子とソーラン節さえ守れば、あとの振り付けや衣装は自由です。そのため各チームは趣向を凝らした衣装と独創的な振り付けで登場し、和のテイストから現代的なダンスまで、実に多彩な演舞が繰り広げられます。チームごとの個性を見比べるのも大きな楽しみです。
+
+**世界規模の参加チーム**
+近年は約270チーム・2万7千人が参加し、北海道内はもちろん日本全国、さらには海外からもチームが集まります。国境を越えて集った踊り手たちが同じ鳴子とソーラン節で踊る光景は、この祭りが世界規模へと成長したことを実感させます。
+
+**大賞を競う審査**
+祭りではチームの演舞が審査され、大賞をはじめとする各賞が競われます。優勝を目指して一年をかけて練習を積んだチームが全力の演舞を披露するため、レベルの高い迫力ある踊りが次々と見られるのも、大会形式ならではの見どころです。
+
+## 開催情報・アクセス
+
+- 開催地：北海道札幌市（大通公園西8丁目会場、大通南北パレード会場ほか市内各所）
+- 開催時期：毎年6月上旬（例年5日間程度）
+- 起源：1992年（平成4年）、長谷川岳らが高知のよさこい祭りを参考に創始
+- 規模：近年は約270チーム・2万7千人が参加、観客動員約200万人
+- ルール：手に鳴子を持つこと、曲にソーラン節のフレーズを入れること
+- アクセス：JR札幌駅から地下鉄で大通駅下車すぐ、大通公園会場へ
+
+## 周辺の見どころ
+
+祭りのメイン会場となる大通公園は、札幌の中心部を東西に貫く細長い公園で、四季折々のイベントの舞台として知られています。公園の東端には札幌のシンボルであるさっぽろテレビ塔が立ち、展望台からは祭りで賑わう大通公園を一望することができます。夏には花壇が彩りを添え、市民や観光客の憩いの場となっています。
+
+札幌の中心街には、明治期の洋風建築である札幌市時計台や、赤れんが庁舎として親しまれる北海道庁旧本庁舎など、開拓時代の歴史を伝える名所が点在しています。祭りの合間にこうした史跡を巡れば、北海道の近代史に触れることができ、札幌観光をいっそう充実させることができます。
+
+札幌はグルメの街としても名高く、味噌ラーメンやスープカレー、新鮮な海産物など北海道ならではの味覚を楽しめる店が数多くあります。祭りの熱気を味わったあとは、二条市場やすすきの周辺で北の幸を堪能でき、初夏の札幌を存分に満喫することができます。
+
+## 関連情報
+
+- 開催月：6月
+- 都道府県・地域：北海道（北海道地方）
+- 起源：1992年（平成4年）、長谷川岳らが高知のよさこい祭りを参考に創始
+- 融合要素：高知由来の「鳴子」と北海道民謡「ソーラン節」
+- 規模：約270チーム・2万7千人・観客約200万人の世界規模
+- ルール：鳴子を手に持つ・曲にソーラン節を入れる（ほかは自由）','## Overview
+
+The YOSAKOI Soran Festival is a large-scale dance festival held in Sapporo City, Hokkaido, every year in early June, coloring the early summer of Sapporo. Modeled on the Yosakoi Matsuri of Kochi Prefecture, it is a festival born from combining the naruko clappers held in both hands with the Soran Bushi, a folk song representative of Hokkaido, and dynamic performances unfold in which dancers sound the naruko and dance to phrases of the Soran Bushi. At venues throughout Sapporo, beginning with Odori Park, the sight of teams of large numbers in matching costumes dancing forward one after another is overwhelming.
+
+Beginning in 1992 with a mere 10 teams and 1,000 participants, this festival grew rapidly thereafter, and in recent years about 270 teams and 27,000 dancers from all over Japan and even from abroad take part, and it has developed into a world-scale festival whose audience exceeds two million people. As a citizen-participation festival in which a wide range of generations centered on young people take part, it has become a major event indispensable to the early summer of Sapporo.
+
+## History and Origins
+
+The YOSAKOI Soran Festival began in 1992. The one who created the opportunity was Gaku Hasegawa, who was a student at the time. Strongly impressed by the Yosakoi Matsuri of Kochi Prefecture, he thought to realize its heat and energy in Hokkaido as well, and together with his companions he launched a new festival. Inheriting the naruko that is the foundation of the Kochi festival, while incorporating the folk song Soran Bushi as an element unique to Hokkaido, decisively determined the originality of this festival.
+
+The first festival started at a scale of 10 participating teams, 1,000 participants, and an audience of 200,000 people. The new dance festival, brimming with youth and momentum, captured people''s hearts in an instant, and the number of participating teams and spectators increased dramatically with each passing year. Spreading not only within Hokkaido but throughout Japan and even abroad, by 2017 it had grown to gather about 270 teams and 27,000 participants and an audience of about two million people.
+
+What forms the foundation of the festival is the style of dancing while holding naruko, inherited from the Yosakoi Matsuri of Kochi, and the Hokkaido folk song Soran Bushi. Soran Bushi was originally a work song sung during herring fishing, and its powerful and rhythmical melody goes well with the dance. By fusing these two elements, the YOSAKOI Soran Festival became a dance festival with an originality unique to Hokkaido, a little different from the original in Kochi.
+
+The rules imposed on participating teams are only two: to hold naruko in the hands, and to include a phrase of the Soran Bushi in the music. Otherwise, the arrangement of the music, the choreography, and the costumes are free. This high degree of freedom gave rise to truly varied performances, from the traditional to the modern, and became the driving force for its growth into a festival in which the creative ingenuity of each team is fully displayed. Today it is known throughout the country as a representative of the Yosakoi-style festivals.
+
+## Highlights
+
+**The Fusion of Naruko and Soran Bushi**
+The greatest feature of the YOSAKOI Soran Festival is that dancers sound the naruko held in both hands while dancing to phrases of the Hokkaido folk song Soran Bushi. The performance, in which the clattering sound of the naruko and the powerful melody of the Soran Bushi become one, produces a distinctive force different from the Yosakoi of Kochi.
+
+**The Grand Stage of Odori Park**
+The main venue of the festival is Odori Park in the center of Sapporo. The performances unfolding on the grand stage set up in the spacious park are large in scale, and the sight of teams of large numbers dancing in formation is nothing short of overwhelming. The gorgeous dance against the backdrop of the verdant park is a scene symbolizing the early summer of Sapporo.
+
+**Parade Performances through the Streets**
+In addition to the stage performances at Odori Park, parade-style performances are also held at the north and south parade venues, in which teams dance forward along the streets. The sight of teams, led by their floats, filling the streets and dancing in flow is close to the spectators, allowing them to experience the heat of the festival up close.
+
+**Free and Varied Performances**
+So long as the naruko and Soran Bushi are observed, the choreography and costumes are otherwise free. For this reason, each team appears with elaborate costumes and original choreography, and truly varied performances unfold, from a Japanese flavor to modern dance. Comparing the individuality of each team is also a great pleasure.
+
+**Teams of a World Scale**
+In recent years about 270 teams and 27,000 people take part, and teams gather not only from within Hokkaido but from all over Japan and even from abroad. The sight of dancers who have gathered across national borders dancing to the same naruko and Soran Bushi makes one truly feel that this festival has grown to a world scale.
+
+**Judging in Competition for the Grand Prize**
+At the festival, the performances of the teams are judged, and various prizes, beginning with the grand prize, are competed for. Because teams that have practiced for a whole year aiming for victory display their full-strength performances, one can see high-level and powerful dances one after another, a highlight unique to the competition format.
+
+## Event Information and Access
+
+- Location: Sapporo City, Hokkaido (the Odori Park West 8-chome venue, the Odori north-south parade venues, and other places throughout the city)
+- Dates: Early June every year (usually about five days)
+- Origin: Founded in 1992 by Gaku Hasegawa and others, modeled on the Yosakoi Matsuri of Kochi
+- Scale: In recent years about 270 teams and 27,000 participants, with an audience of about two million
+- Rules: To hold naruko in the hands, and to include a phrase of the Soran Bushi in the music
+- Access: From JR Sapporo Station, get off at Odori Station by subway, just at the Odori Park venue
+
+## Around the Area
+
+Odori Park, the main venue of the festival, is a long, narrow park that runs east and west through the center of Sapporo, known as the stage for events of every season. At the eastern end of the park stands the Sapporo TV Tower, the symbol of Sapporo, and from its observation deck one can take in the whole of Odori Park bustling with the festival. In summer, flower beds add color, and it serves as a place of relaxation for citizens and tourists.
+
+In the center of Sapporo are scattered famous sights that convey the history of the pioneer era, such as the Sapporo Clock Tower, a Western-style building of the Meiji period, and the former Hokkaido Government Office Building, affectionately known as the red-brick office. Touring such historic sites during breaks in the festival allows one to encounter the modern history of Hokkaido and makes sightseeing in Sapporo all the more fulfilling.
+
+Sapporo is also famous as a city of gourmet food, with many shops where one can enjoy tastes unique to Hokkaido, such as miso ramen, soup curry, and fresh seafood. After savoring the heat of the festival, one can enjoy the bounty of the north around the Nijo Market and Susukino, and fully relish the early summer of Sapporo.
+
+## Related Information
+
+- Month: June
+- Prefecture and region: Hokkaido (Hokkaido region)
+- Origin: Founded in 1992 by Gaku Hasegawa and others, modeled on the Yosakoi Matsuri of Kochi
+- Fused elements: The naruko derived from Kochi and the Hokkaido folk song Soran Bushi
+- Scale: A world scale of about 270 teams, 27,000 people, and an audience of about two million
+- Rules: To hold naruko in the hands and include the Soran Bushi in the music (otherwise free)','yosakoi-soran-matsuri','yosakoi-soran-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11268616','さんピンCAMP',NULL,'日本語ラップのイベント',NULL,'Q11509589','日比谷野外音楽堂','Hibiya Open-Air Concert Hall',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%93%E3%83%94%E3%83%B3CAMP',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11268878','したまちコメディ映画祭in台東','Shitamachi Comedy Film Festival in Taitung','東京都台東区で開催されていた映画祭',NULL,'Q232641','台東区','Taitō-ku','東京都','kanto',NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%9F%E3%81%BE%E3%81%A1%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3%E6%98%A0%E7%94%BB%E7%A5%ADin%E5%8F%B0%E6%9D%B1',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11276657','ひらかた大菊人形','Hirakata Dai Kiku-Ningyō','大阪府枚方市のひらかたパークで行われていた展覧会',NULL,'Q302897','ひらかたパーク','Hirakata Park','大阪府','kinki',NULL,NULL,1910,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Hirakata-kikuningyo3213.JPG','https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%89%E3%81%8B%E3%81%9F%E5%A4%A7%E8%8F%8A%E4%BA%BA%E5%BD%A2',NULL,85,'drafted','## ひらかた大菊人形とは
