@@ -3933,15 +3933,127 @@ Saga Toriimoto, where the Torii-gata is located, is a preservation district of i
 - **Alternative name**: Daimonji Okuribi (the nationwide nickname is daimonji-yaki, but in Kyoto it is usually called daimonji)
 ','gozan-no-okuribi','gozan-no-okuribi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1139891','東京フィルメックス','Tokyo Filmex','東京で毎年開催される国際映画祭','international film festival held annually in Tokyo, Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9','https://en.wikipedia.org/wiki/Tokyo_Filmex',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q2238334','あえのこと','Oku-noto no Aenokoto','石川県奥能登地方で行われる農耕儀礼','agricultural ritual held in Oku-Noto area, Ishikawa, Japan','Q11446096','奥能登','Okunoto','石川県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Oku-noto%20no%20Aenokoto%2C%20offering%20meals%20to%20the%20deities.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%88','https://en.wikipedia.org/wiki/Oku-noto_no_Aenokoto',85,'drafted','あえのこと（奥能登のあえのこと）は、石川県の奥能登(おくのと)地方に伝わる農耕儀礼で、ユネスコの無形文化遺産に登録されている貴重な民俗行事である。「田の神様」を家に招き入れ、丁重にもてなすという、日本でも極めて珍しい一戸ごとに営まれる神事で、稲作とともに生きてきた能登の人々の信仰を今に伝えている。
+INSERT INTO "festivals" VALUES('Q2238334','あえのこと','Oku-noto no Aenokoto','石川県奥能登地方で行われる農耕儀礼','agricultural ritual held in Oku-Noto area, Ishikawa, Japan','Q11446096','奥能登','Okunoto','石川県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Oku-noto%20no%20Aenokoto%2C%20offering%20meals%20to%20the%20deities.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%88','https://en.wikipedia.org/wiki/Oku-noto_no_Aenokoto',85,'drafted','## 概要
 
-「あえのこと」の「あえ」は「饗(もてなし)」、「こと」は「祭り」を意味するとされる。この行事の最も特徴的な点は、目に見えない田の神様を、あたかも実在する客人のように扱うことである。毎年12月5日、収穫を終えた田から家に迎えた田の神様を、主人が見えない神様に語りかけながら風呂に案内し、ごちそうを供えてもてなす「迎え」の儀式が行われる。そして翌年2月9日には、田に帰っていただく「送り」の儀式が営まれる。
+奥能登のあえのことは、石川県の奥能登地域（珠洲市・輪島市・鳳珠郡能登町・穴水町）に古くから伝わる田の神信仰の農耕儀礼です。稲の生育と豊作を約束してくれる田の神を、目に見えない存在でありながらあたかも実在する客人のように家へ迎え入れ、風呂と食事でもてなすという、日本の稲作文化の精神性を色濃く映した行事として知られています。全国に田の神を祀る習俗は数多く伝わりますが、奥能登のあえのことは古式と厳格さをとどめている点できわめて貴重とされ、稲作に従事してきた日本人の基盤的な生活の特色を典型的に示す農耕儀礼として高く評価されています。
 
-田の神様は夫婦神とされ、目が不自由であると伝えられることから、主人は料理の一品一品を丁寧に説明しながら供える。その所作には、収穫への感謝と翌年の豊作への祈りが込められている。家族だけで静かに営まれるこの素朴な儀礼は、自然の恵みに感謝し、神とともに暮らしてきた日本の農耕文化の原型を色濃く残している。奥能登のあえのことは、目に見えぬものへの畏敬の念を体現する、世界に誇る貴重な無形文化遺産である。','Aenokoto (Oku-noto no Aenokoto) is an agricultural ritual handed down in the Oku-noto region of Ishikawa Prefecture, a precious folk event registered as UNESCO Intangible Cultural Heritage. An exceedingly rare Shinto rite in Japan, conducted household by household, in which the "deity of the rice fields" is invited into the home and courteously entertained, it conveys to this day the faith of the people of Noto, who have lived together with rice cultivation.
+「あえのこと」の名は、もてなしを意味する「饗（あえ）」と、祭事を意味する「こと」に由来するといわれます。田の神を迎える12月と、田へ送り出す2月の年2回、農家の主人が中心となって家庭ごとに執り行うのが本来の姿で、神を敬い自然の恵みに感謝する能登の里山里海の暮らしが、この一連の所作の中に凝縮されています。昭和51年（1976年）に国の重要無形民俗文化財に指定され、平成21年（2009年）にはユネスコ無形文化遺産にも登録されました。
 
-In "aenokoto," "ae" is said to mean "hospitality" and "koto" to mean "festival." The most distinctive feature of this event is that the invisible field deity is treated as if a real, present guest. Each year on December 5th, the "welcoming" ceremony is held, in which the master of the house welcomes the field deity from the harvested fields into the home, guides the unseen deity to the bath while speaking to it, and offers a feast in hospitality. Then on February 9th of the following year, the "sending" ceremony is held to see the deity return to the fields.
+## 歴史と由来
 
-The field deities are said to be a married pair and traditionally to be blind, so the master offers each dish while carefully explaining it. These movements carry gratitude for the harvest and prayers for an abundant harvest the following year. This simple ritual, quietly conducted by the family alone, vividly preserves the archetype of Japan''s agricultural culture, which gave thanks for nature''s blessings and lived together with the deities. Oku-noto no Aenokoto is a precious intangible cultural heritage of which the world can be proud, embodying reverence for the unseen.','oku-noto-no-aenokoto','oku-noto-no-aenokoto',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+あえのことがいつ始まったのかを正確に示す記録は残されていませんが、稲作とともに長い年月をかけて能登の農家に根づいてきた田の神信仰の儀礼と考えられています。田の神を家に迎えて手厚くもてなすという発想は、豊かな収穫が田の神の働きによってもたらされるという素朴な信仰から生まれたもので、農耕を生活の基盤としてきた人々の世界観がそのまま形になったものといえます。
+
+この行事で特徴的なのは、田の神が夫婦神とされ、しかも目が不自由であると伝えられている点です。稲刈りの際に稲穂で目を突いたため、あるいは長い間暗い土の中で働いてこられたために目が見えにくいのだ、という言い伝えがあり、そのため主人は神を案内するあいだ「ここに段差がございます」「お風呂の湯加減はいかがでしょうか」といった言葉を一つひとつ丁寧に掛けながら所作を進めます。見えない客人に語りかけ続けるこの独特のふるまいこそが、あえのことを他の田の神行事と一線を画す最大の見どころとなっています。
+
+昭和51年5月4日、あえのことは風俗慣習の分野で国の重要無形民俗文化財に指定されました。娯楽・競技、生産・生業、人生儀礼、社会生活といった民俗知識にまたがる幅広い文化的価値が認められた指定であり、能登の農村生活を総合的に伝える行事として位置づけられています。保護のために奥能登のあえのこと保存会が組織され、失われつつある古式の伝承を守り継ぐ取り組みが続けられています。
+
+そして平成21年（2009年）9月30日、あえのことはユネスコの「人類の無形文化遺産の代表的な一覧表」に記載され、世界的にもその価値が認められました。これは石川県内で最初のユネスコ無形文化遺産登録であり、能登の農耕文化を象徴する行事として国際的な注目を集めることになりました。かつては奥能登の多くの農家で当たり前に行われていた行事ですが、農業を取り巻く環境の変化とともに昔ながらの形で続ける家庭は少なくなっており、保存会や自治体による実演・継承の取り組みが行事の存続を支えています。
+
+## 見どころ
+
+**田の神迎え（12月5日）**
+12月5日は、一年の収穫を終えた田んぼから田の神を家へ迎え入れる「田の神迎え」の日です。主人は裃などの正装を身にまとい、鍬などを手に田へ向かって田の神を招き、丁重に家へと案内します。目の見えない神を導くという設定のもと、玄関の段差や部屋の様子を言葉で伝えながら座敷へと迎える所作は、儀礼でありながらどこか温かな人間味にあふれています。
+
+**風呂でのもてなし**
+家に迎えた田の神には、まず風呂をすすめて長旅と一年の労をねぎらいます。「お湯加減はいかがでしょうか」と声を掛けながら神を案内するこの場面は、神を家族の一員のように扱うあえのことの精神を端的に表しています。目に見えない存在に対して細やかな気遣いを尽くす姿に、能登の人々の信仰の深さがにじみます。
+
+**ごちそうによる饗応**
+風呂のあとは、その年に能登の里山里海で採れた新鮮な食材による心づくしの膳が供されます。二股大根や小豆飯、尾頭付きの魚など、豊作と豊漁への感謝を込めた料理が夫婦神の分だけ二人前並べられ、主人が一品ずつ神に説明しながらもてなします。地域の恵みを神と分かち合うこの饗応は、収穫感謝の儀礼としてのあえのことの核心をなす場面です。
+
+**田の神送り（2月9日）**
+長く厳しい冬を家族とともに過ごした田の神は、耕作の始まる前の翌年2月9日に再び風呂と食事でもてなされたのち、田へと送り出されます。「今年も豊作をお願いいたします」と祈りを込めて神を送るこの所作によって、収穫感謝から翌年の豊作祈願へと季節が一巡し、稲作の循環に寄り添った信仰の姿が完結します。
+
+**目に見えない神への言葉掛け**
+あえのこと全体を貫く最大の特徴が、目が不自由とされる田の神への絶え間ない言葉掛けです。誰の姿も見えない座敷で主人が一人静かに神へ語りかけ続ける光景は、演技でも見世物でもなく純粋な信仰の発露であり、見る者に深い静けさと厳粛さを感じさせます。
+
+**保存会による実演公開**
+家庭内の私的な儀礼であるため本来は一般に公開されるものではありませんが、能登町の柳田植物公園内にある合鹿庵などで、保存会による実演が毎年12月5日と2月9日に行われています。古式の所作を間近に見られる貴重な機会として、多くの見学者が訪れています。
+
+## 開催情報・アクセス
+
+- 開催地：石川県珠洲市・輪島市・鳳珠郡能登町・穴水町（奥能登一帯）
+- 実演会場：柳田植物公園内 合鹿庵（石川県鳳珠郡能登町上町ロ1-1）
+- 開催時期：田の神迎え=毎年12月5日／田の神送り=毎年2月9日
+- 実演時間：午前11時頃から神事
+- アクセス：北陸新幹線で東京から金沢駅まで約2時間30分、金沢駅から奥能登方面へは特急バスや七尾線・のと鉄道を利用
+- 問い合わせ：能登町ふるさと振興課、柳田植物公園ほか
+
+## 周辺の見どころ
+
+奥能登一帯は日本海に突き出した能登半島の先端部にあたり、里山と里海が一体となった独特の景観と文化が息づく地域です。あえのことに象徴される農耕文化とともに、漁業や製塩といった生業が育んだ暮らしの風景が今も残り、世界農業遺産「能登の里山里海」としても知られています。
+
+輪島市には、日本海に面した斜面に無数の小さな田が幾何学的に連なる白米千枚田があり、田の神信仰の舞台となった能登の稲作景観を象徴する名所として多くの観光客を集めています。同じ輪島市では朝市や輪島塗の伝統工芸も名高く、能登の手仕事の文化に触れることができます。
+
+珠洲市は能登半島最先端の地で、日本海の荒波が生んだ海岸景観や揚げ浜式製塩の伝統が残ります。あえのことをはじめとする奥能登の行事を巡る旅は、こうした半島各地の自然と生業の文化をあわせて味わうことで、いっそう深みを増します。
+
+## 関連情報
+
+- 開催月：12月・2月
+- 都道府県・地域：石川県（奥能登・中部地方）
+- 起源：稲作とともに根づいた田の神信仰の農耕儀礼（正確な起源年は不詳）
+- 文化財指定：国指定重要無形民俗文化財（昭和51年＝1976年5月4日指定）
+- 国際認定：ユネスコ無形文化遺産（2009年登録・石川県内初）
+- 保護団体：奥能登のあえのこと保存会','## Overview
+
+Aenokoto of Oku-Noto is an agrarian ritual rooted in the worship of the deity of the rice fields, handed down since ancient times in the Oku-Noto region of Ishikawa Prefecture, comprising the cities of Suzu and Wajima and the towns of Noto and Anamizu in Fugeshi District. In this observance, the deity of the rice fields, who is believed to ensure the healthy growth of the rice and a bountiful harvest, is welcomed into the home as though an actual guest, even though the deity is invisible, and is entertained with a bath and a feast. It is widely known as a ritual that vividly reflects the spiritual world of Japanese rice-growing culture.
+
+Although customs of enshrining a deity of the rice fields are found throughout Japan, the Aenokoto of Oku-Noto is regarded as exceptionally precious because it preserves an old and rigorous form. It is highly valued as an agrarian ritual that typically illustrates the fundamental character of the daily life of the Japanese people, who have long depended on rice cultivation. The name Aenokoto is said to derive from ae, meaning hospitality or feast, and koto, meaning a ritual observance. Carried out twice a year by the head of each farming household, it was designated a National Important Intangible Folk Cultural Property in 1976 and inscribed on the UNESCO Intangible Cultural Heritage list in 2009.
+
+## History and Origins
+
+No record precisely dates the beginning of Aenokoto, but it is thought to be a ritual of rice-field deity worship that took root among the farmers of Noto over a long span of time together with the practice of rice cultivation. The idea of welcoming the deity into the home and entertaining it lavishly arose from the simple belief that an abundant harvest is brought about by the working of the deity of the rice fields, and it is a direct expression of the worldview of people whose livelihood was founded on agriculture.
+
+A striking feature of this observance is that the deity of the rice fields is regarded as a married couple of gods, and moreover is said to be visually impaired. According to tradition, the deity pricked its eyes on the ears of rice at harvest time, or its sight grew dim from long labor in the dark earth. For this reason, the head of the household guides the deity while carefully offering words of explanation at every step, such as pointing out where there is a step in the floor or asking whether the temperature of the bath is comfortable. This distinctive practice of speaking continually to an invisible guest is the greatest highlight that sets Aenokoto apart from other rice-field deity rituals.
+
+On May 4, 1976, Aenokoto was designated a National Important Intangible Folk Cultural Property in the field of manners and customs. The designation recognized a broad range of cultural value spanning folk knowledge in the areas of recreation and competition, production and livelihood, life-cycle rites, and social life, positioning it as a ritual that comprehensively conveys the rural life of Noto. To safeguard it, the Aenokoto of Oku-Noto Preservation Society was formed, and efforts continue to protect and pass on the old forms that are gradually being lost.
+
+Then, on September 30, 2009, Aenokoto was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity, gaining recognition of its value on a global stage. As the first UNESCO intangible cultural heritage inscription within Ishikawa Prefecture, it drew international attention as an observance symbolizing the agrarian culture of Noto. Once carried out as a matter of course in many farming households across Oku-Noto, the number of families that keep to the old form has declined amid changes in the environment surrounding agriculture, and demonstrations and transmission efforts by the preservation society and local governments now support the survival of the ritual.
+
+## Highlights
+
+**Welcoming the Deity (December 5)**
+December 5 is the day of welcoming the deity of the rice fields into the home from the paddy where the year''s harvest has been completed. Dressed in formal attire such as a kamishimo and holding a hoe, the head of the household invites the deity from the field and courteously guides it into the house. Under the premise of leading a deity who cannot see, the sequence of movements, in which he conveys in words the step at the entrance and the layout of the rooms while guiding the deity into the parlor, is a ritual and yet full of a warm humanity.
+
+**Hospitality of the Bath**
+The deity welcomed into the home is first invited to take a bath to relieve the fatigue of the journey and the labor of the year. This scene, in which the deity is guided with words such as an inquiry about the temperature of the water, plainly expresses the spirit of Aenokoto that treats the deity as a member of the family. The meticulous care shown toward an invisible being conveys the depth of the faith of the people of Noto.
+
+**Entertainment with a Feast**
+After the bath, a heartfelt meal is offered, prepared from fresh ingredients gathered that year from the mountains and seas of Noto. Dishes expressing gratitude for a good harvest and a good catch, such as forked radish, red-bean rice, and whole fish, are set out in two portions for the married deities, and the host serves them while explaining each dish to the deity. This act of sharing the region''s bounty with the deity forms the very core of Aenokoto as a ritual of gratitude for the harvest.
+
+**Sending Off the Deity (February 9)**
+Having passed the long and severe winter together with the family, the deity of the rice fields is once again entertained with a bath and a meal before being sent back to the field on February 9 of the following year, before the start of cultivation. Through this act of sending off the deity with a prayer for another bountiful year, the seasons come full circle from gratitude for the harvest to prayer for the coming year''s crop, completing a form of faith that keeps step with the cycle of rice cultivation.
+
+**Speaking to the Invisible Deity**
+The single greatest characteristic that runs through the whole of Aenokoto is the constant offering of words to the visually impaired deity of the rice fields. The sight of the host speaking quietly and alone to the deity in a parlor where no figure can be seen is neither a performance nor a spectacle but a pure expression of faith, and it fills the onlooker with a deep sense of stillness and solemnity.
+
+**Public Demonstrations by the Preservation Society**
+Because it is a private ritual carried out within the home, Aenokoto is not by nature open to the public, but demonstrations by the preservation society are held each year on December 5 and February 9 at places such as the Gorokuan hall in Yanagida Botanical Garden in Noto Town. These offer a valuable opportunity to observe the old forms of the ritual at close range, and many visitors come to see them.
+
+## Event Information and Access
+
+- Location: Suzu City, Wajima City, Noto Town, and Anamizu Town in Fugeshi District, Ishikawa Prefecture (the Oku-Noto area)
+- Demonstration venue: Gorokuan in Yanagida Botanical Garden (Kammachi Ro 1-1, Noto Town, Fugeshi District, Ishikawa)
+- Dates: Welcoming the deity on December 5 and sending off the deity on February 9 each year
+- Time: The ritual begins around 11 a.m.
+- Access: About 2 hours 30 minutes from Tokyo to Kanazawa by Hokuriku Shinkansen, then express bus or the Nanao Line and Noto Railway toward Oku-Noto
+- Inquiries: Noto Town Furusato Promotion Division and Yanagida Botanical Garden
+
+## Around the Area
+
+The Oku-Noto region lies at the tip of the Noto Peninsula, which juts out into the Sea of Japan, and is an area where a distinctive landscape and culture, blending mountain villages and coastal villages, remain alive. Along with the agrarian culture symbolized by Aenokoto, the scenery of daily life nurtured by livelihoods such as fishing and salt-making still survives, and the region is known as the Globally Important Agricultural Heritage System of the Noto Satoyama and Satoumi.
+
+In Wajima City there is the Shiroyone Senmaida, where countless small paddies form a geometric pattern down a slope facing the Sea of Japan, drawing many tourists as a scenic spot symbolizing the rice-growing landscape of Noto that formed the stage for rice-field deity worship. Wajima is also famous for its morning market and the traditional craft of Wajima lacquerware, allowing visitors to experience the culture of Noto''s handiwork.
+
+Suzu City, at the northern tip of the Noto Peninsula, preserves coastal scenery shaped by the rough waves of the Sea of Japan and the tradition of agehama-style salt-making. A journey tracing the observances of Oku-Noto, including Aenokoto, gains all the more depth when savored together with the natural and livelihood culture of these various parts of the peninsula.
+
+## Related Information
+
+- Months: December and February
+- Prefecture and region: Ishikawa Prefecture (Oku-Noto, Chubu region)
+- Origin: An agrarian ritual of rice-field deity worship rooted in rice cultivation (exact year of origin unknown)
+- Cultural property designation: National Important Intangible Folk Cultural Property (designated May 4, 1976)
+- International recognition: UNESCO Intangible Cultural Heritage (inscribed 2009, the first in Ishikawa Prefecture)
+- Protecting body: Aenokoto of Oku-Noto Preservation Society','oku-noto-no-aenokoto','oku-noto-no-aenokoto',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1072387','七五三','Shichi-Go-San','日本の年中行事','rite of passage and festival day in Japan for 3-, 5- or 7-year-old children in mid-November',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shichigosan%20at%20Ikuta%20Jinja%20Shrine.JPG','https://ja.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%B8%89','https://en.wikipedia.org/wiki/Shichi-Go-San',85,'drafted','七五三は、日本全国の神社で毎年11月15日（およびその前後の週末）に行われる、子どもの成長を祝う通過儀礼であり、地域祭礼ではなく全国的に共有される年中行事として千年以上の歴史を持つ。3歳・5歳・7歳の子どもが晴れ着を身にまとい、両親に伴われて氏神を祀る神社を参拝し、これまでの無事を感謝するとともに、これからの健やかな成長を祈願する。日本の家族文化と神道信仰が融合した最も身近な伝統行事の一つである。
 
 七五三の起源は平安時代に遡る。当時の貴族社会では、子どもの成長過程における節目を儀式によって祝う習慣があり、3歳の「髪置きの儀」（剃り上げていた髪を伸ばし始める儀式）、5歳の「袴着の儀」（男児が初めて袴を着ける儀式）、7歳の「帯解きの儀」（女児がそれまでの紐付き着物から大人と同じ帯を結ぶ着物に変える儀式）が、それぞれ独立した儀式として行われていた。これらが江戸時代に庶民の間にも広がり、明治以降に「七五三」として統合された形で全国に定着した。
@@ -18687,11 +18799,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
