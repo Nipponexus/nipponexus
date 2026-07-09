@@ -9523,15 +9523,127 @@ INSERT INTO "festivals" VALUES('Q130354477','ITAMI GREENJAM','ITAMI GREENJAM','�
 INSERT INTO "festivals" VALUES('Q131932035','高浜七年祭','Takahama 7 Years Festival','福井県大飯郡高浜町で開催される祭礼','festival in Takahama, Fukui, Japan','Q1349071','高浜町','Takahama','福井県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E6%B5%9C%E4%B8%83%E5%B9%B4%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q128480280','ものづくり・匠の技の祭典2024','Monozukuri - A Celebration of Japanese Artisanal Techniques 2024','2024年8月3日に東京国際フォーラムで開催された「ものづくり・匠の技の祭典2024」',NULL,'Q1359892','東京国際フォーラム','Tokyo International Forum','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/202408031300%20DSCN1999.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q130219846',NULL,'2014 Hanazono Shrine Grand Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q126866507','因幡の傘踊り','Inaba Umbrella Dance','鳥取県東部を中心に伝わる民俗芸能','traditional performing art of the eastern region of Tottori prefecture',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tottori%2020210102135601%20%2851346034297%29.jpg','https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%B9%A1%E3%81%AE%E5%82%98%E8%B8%8A%E3%82%8A',NULL,85,'drafted','因幡の傘踊り（いなばのかさおどり）は、鳥取県東部(因幡地方)を中心に伝わる民俗芸能で、長い柄の傘を手に勇壮に舞う、躍動感あふれる踊りである。鈴や色紙で華やかに飾られた傘を巧みに振り回しながら踊る姿は、力強さと優雅さを兼ね備え、鳥取の夏の祭りや盆踊りで親しまれている。
+INSERT INTO "festivals" VALUES('Q126866507','因幡の傘踊り','Inaba Umbrella Dance','鳥取県東部を中心に伝わる民俗芸能','traditional performing art of the eastern region of Tottori prefecture',NULL,NULL,NULL,'鳥取県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tottori%2020210102135601%20%2851346034297%29.jpg','https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%B9%A1%E3%81%AE%E5%82%98%E8%B8%8A%E3%82%8A',NULL,85,'drafted','## 概要
 
-この踊りの起源は、江戸時代末期から明治時代にかけて、雨乞いの祈願として奉納されたことにあると伝えられる。日照りに苦しむ農民たちが、雨を願って傘を手に踊ったことが始まりとされ、農耕儀礼と深く結びついた芸能である。やがて、武術の所作を取り入れた勇壮な「武者(むしゃ)踊り」の要素も加わり、現在の力強い舞へと発展していった。
+因幡の傘踊りは、鳥取県鳥取市の横枕や国府町一帯に伝わる民俗芸能で、百個を超える小鈴をつけて美しく彩った長柄の傘を、唄に合わせて回転させながら勇壮に振り回す踊りです。揃いの浴衣に手甲・脚絆、白鉢巻に白たすきという凛々しいいでたちの踊り手が、傘を大きく開いて気合とともに斬り込むように舞う姿は動きが激しく華やかで、全国でも類を見ない独自の伝統芸能として知られています。
 
-傘踊りの最大の魅力は、大きな傘を頭上で回し、左右に振り、地面すれすれまで下ろすといった、ダイナミックで多彩な所作にある。鈴の澄んだ音色と、踊り手たちの息の合った群舞は壮観で、見る者を魅了する。鳥取市国府町の宇倍神社などに伝わる伝統的な傘踊りは、鳥取県の無形民俗文化財に指定されている。雨を願う農民の祈りから生まれ、勇壮な芸能へと昇華したこの踊りは、因幡の風土と人々の暮らしが育んだ貴重な民俗文化である。','The Inaba Umbrella Dance is a folk performing art handed down mainly in the eastern part of Tottori Prefecture (the Inaba region)—a dynamic, spirited dance performed holding long-handled umbrellas. The sight of dancers skillfully whirling umbrellas gorgeously adorned with bells and colored paper combines power and elegance, and is beloved at Tottori''s summer festivals and Bon dances.
+もともとは雨乞いや盆供養のために踊られた素朴な農村の踊りでしたが、明治期に剣舞の型が取り入れられたことで、現在の勇壮活発な長柄傘の踊りへと発展しました。昭和49年（1974年）には鳥取県無形民俗文化財に指定され、いまも保存会によって受け継がれています。夏に鳥取市街を彩る鳥取しゃんしゃん祭の傘踊りも、この因幡の傘踊りを母体として生まれたものです。
 
-The dance''s origins are said to lie in dedications offered as prayers for rain from the late Edo period into the Meiji era. It is held to have begun when farmers suffering from drought danced holding umbrellas in hope of rain, making it a performing art deeply tied to agricultural ritual. In time, elements of a spirited "warrior dance" incorporating martial movements were added, developing into the powerful dance of today.
+## 歴史と由来
 
-The greatest appeal of the umbrella dance lies in its dynamic and varied movements—spinning the large umbrella overhead, swinging it side to side, and lowering it nearly to the ground. The clear tones of the bells and the perfectly coordinated group dancing are magnificent, captivating onlookers. The traditional umbrella dance handed down at Ube Shrine in Kokufu-chō, Tottori City, and elsewhere is designated an Intangible Folk Cultural Property of Tottori Prefecture. Born from farmers'' prayers for rain and sublimated into a spirited performing art, this dance is a precious folk culture nurtured by the land and life of the Inaba region.','inaba-umbrella-dance','inaba-umbrella-dance',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+因幡の傘踊りには大きく二つの系統が伝えられています。ひとつは鳥取市横枕に伝わるもので、天明6年（1786年）の飢饉の際に雨乞い祈願のため神楽歌に合わせて踊り、神に奉納したのが原形とされています。田植えを終えた旧暦8月1日の八朔に神社の境内で踊られた素朴なもので、のちには数人で組んで技を競う農村青年の娯楽へと変化していきました。周辺の集落に伝わる傘踊りの多くは、この横枕から伝授されたものといわれています。
+
+もうひとつは国府町に伝わる系統で、江戸時代末期の大旱魃にまつわる伝説を起源とします。因幡地方が前代未聞の旱魃に見舞われ田畑が干割れたとき、五郎作という老農夫が三日三晩にわたって冠笠を振り回して踊り、雨乞いの祈願を続けました。その願いが天に通じたのか、三日目の夜に大雨が降りそそぎ、大飢饉を免れたと伝えられています。しかし老翁は踊りの過労がもとで数日後に世を去り、村民はその霊を慰めるため、その年の盂蘭盆から老若男女を問わず冠笠を手に踊り続けました。これが国府町における傘踊りの起こりとされています。
+
+素朴な冠笠の踊りが現在の長柄傘の勇壮な踊りへと生まれ変わったのは、明治期の山本徳次郎の功績によります。明治29年頃、日清戦争後に若者たちの間で賭博が流行していたことを憂えた国府町高岡の山本徳次郎は、健全な娯楽を作ろうと思案するうち、神主の持つ雨傘に着想を得ました。それまでの冠笠を長い柄の傘に代え、自らたしなむ剣舞の型を取り入れて振り付けたところ、青年たちが夢中になる勇壮な踊りが完成したのです。この踊りは地区の青年たちに受け継がれて「因幡の傘踊り」と呼ばれるようになり、国府町は「因幡の傘踊り発祥の地」とされています。創始者の山本徳次郎は国府町名誉町民となり、その遺業を伝えるため記念碑が建立されています。
+
+昭和49年10月18日、因幡の傘踊りは鳥取県無形民俗文化財に指定され、横枕傘踊保存会と因幡の傘踊保存会がその継承を担うことになりました。長い歴史のなかで盛衰を重ねながらも、雨乞いと盆供養という素朴な祈りに始まった踊りが、地域の誇る伝統芸能として今日まで守り継がれています。
+
+## 見どころ
+
+**百個の小鈴が響く長柄の傘**
+因幡の傘踊り最大の特徴は、百個以上の小鈴をつけ鮮やかに彩った長柄の傘です。踊り手が傘を勢いよく回転させ振り回すたびに、無数の鈴が一斉に鳴り響き、視覚と聴覚の両方に訴える華やかな舞台をつくり出します。傘そのものが楽器のように鳴るこの演出が、他の民俗芸能にはない独自の魅力となっています。
+
+**剣舞をアレンジした勇壮な型**
+現在の踊りは剣舞をアレンジしたもので、長柄の傘を開いて気合とともに斬り込みながら踊るのが基本の型です。動きが激しく力強いため、若者たちの健全な娯楽として生み出された経緯そのままに、青年の躍動感がみなぎる勇壮な踊りとなっています。
+
+**鶴と亀で表す高低の妙**
+踊り手は6人、8人、10人といった偶数の複数で構成され、鶴と亀の姿態を取り入れて高低差の変化をつけます。鶴は高い姿勢、亀は低い姿勢を表し、群舞のなかで上下のリズムが生まれることで、単調にならない立体的な見応えが生まれます。
+
+**傘で文字を書く群舞の工夫**
+複数の踊り手が傘の振りを統一しリズムを合わせるため、「おどれおどれ、みなおどれ」というひらがなの文を傘で文字を書くように振る工夫が凝らされています。ばらばらに見えて実は緻密に計算された群舞であり、揃った動きの美しさが観客を引き込みます。
+
+**凛々しい揃いの装束**
+揃いの浴衣に手甲・脚絆、白鉢巻に白たすきという踊り手の装束は、勇壮な踊りをいっそう引き立てます。統一された凛々しいいでたちで大勢が舞う姿は、農村青年の踊りとして発展してきた歴史を感じさせる清々しさに満ちています。
+
+**保存会による地域での公開**
+横枕では毎年8月14日に、国府町では各地区の納涼祭で傘踊りが公開されます。盆の時期に地域で受け継がれる踊りとして、住民に親しまれながら次の世代へと伝えられており、地元で本来の姿に触れられる貴重な機会となっています。
+
+## 開催情報・アクセス
+
+- 開催地：鳥取県鳥取市（横枕、国府町高岡・美歎・麻生ほか）
+- 開催時期：横枕=8月14日／国府町=各地区の納涼祭
+- 文化財：鳥取県無形民俗文化財（昭和49年＝1974年10月18日指定）
+- 保護団体：横枕傘踊保存会、因幡の傘踊保存会
+- アクセス（横枕）：JR鳥取駅から日ノ丸バス神戸・横枕線で約20分、横枕下車
+- アクセス（国府町）：JR鳥取駅から日ノ丸バス中河原線で約30〜35分、麻生または高岡下車
+
+## 周辺の見どころ
+
+鳥取市国府町は因幡国の中心として栄えた歴史ある地で、周辺には万葉集ゆかりの史跡が点在しています。因幡万葉歴史館では、奈良時代に因幡国司を務めた大伴家持と因幡地方のかかわりや、因幡の傘踊りに関する資料も紹介されており、傘踊りの歴史をより深く知ることができます。
+
+鳥取市街に足を延ばせば、日本最大級の砂丘である鳥取砂丘が広がり、日本海に面した雄大な景観を楽しめます。砂丘に隣接する砂の美術館では砂像の企画展示が行われ、鳥取観光の目玉として多くの人を集めています。
+
+夏に鳥取市街で開かれる鳥取しゃんしゃん祭では、因幡の傘踊りを母体に生まれた「しゃんしゃん傘踊り」を数千人が一斉に踊り、傘に鈴を鳴らす華やかな光景が繰り広げられます。因幡の傘踊りの伝統がどのように現代の大規模な祭りへと受け継がれたのかを実感できる催しです。
+
+## 関連情報
+
+- 開催月：8月
+- 都道府県・地域：鳥取県（中国地方）
+- 起源：天明6年（1786年）の雨乞い奉納、および江戸末期の大旱魃の雨乞い伝説
+- 現行の型の創始：明治期に山本徳次郎が剣舞を取り入れて確立（国府町＝発祥の地）
+- 文化財指定：鳥取県無形民俗文化財（昭和49年＝1974年10月18日指定）
+- 関連行事：鳥取しゃんしゃん祭のしゃんしゃん傘踊りの母体','## Overview
+
+Inaba no Kasa Odori, the Umbrella Dance of Inaba, is a folk performing art handed down in the Yokomakura district and the Kokufu area of Tottori City in Tottori Prefecture. In it, dancers whirl and brandish long-handled umbrellas adorned with more than a hundred small bells and decorated in vivid colors, moving in a vigorous dance in time with song. Dressed in matching yukata with hand and leg guards, white headbands, and white sashes, the dancers open their umbrellas wide and dance as if cutting in with a shout, in a spirited and dynamic style that is known as a unique traditional art without parallel anywhere else in Japan.
+
+Originally it was a simple rural dance performed to pray for rain or to honor the spirits of the dead at the Bon festival, but when the forms of sword dance were incorporated in the Meiji era, it developed into the vigorous long-handled umbrella dance seen today. In 1974 it was designated an Intangible Folk Cultural Property of Tottori Prefecture, and it continues to be passed down by preservation societies. The umbrella dance of the Tottori Shan-Shan Festival, which colors the streets of Tottori City in summer, was also born from this Inaba no Kasa Odori.
+
+## History and Origins
+
+Two main lineages of Inaba no Kasa Odori have been handed down. One is transmitted in the Yokomakura district of Tottori City, where it is said to have originated when, during the famine of 1786, people danced in time with kagura song as a prayer for rain and dedicated the dance to the gods. It was a simple dance performed in the precincts of a shrine on the first day of the eighth month of the old calendar, after the rice planting was finished, and later it changed into an amusement for rural young men who formed groups and competed in skill. Many of the umbrella dances handed down in the surrounding villages are said to have been taught from this Yokomakura tradition.
+
+The other is the lineage transmitted in the Kokufu area, whose origin lies in a legend concerning a great drought at the end of the Edo period. When the Inaba region was struck by an unprecedented drought and the fields cracked dry, an old farmer named Gorosaku danced for three days and three nights, whirling a ceremonial hat, and continued to pray for rain. As if the prayer had reached heaven, heavy rain poured down on the night of the third day, and the region is said to have been spared a great famine. The old man, however, died a few days later from the exhaustion of the dancing, and to console his spirit the villagers, young and old alike, went on dancing with ceremonial hats in hand from that year''s Bon festival. This is regarded as the beginning of the umbrella dance in the Kokufu area.
+
+The transformation of the simple ceremonial-hat dance into the vigorous long-handled umbrella dance of today owes much to Tokujiro Yamamoto in the Meiji era. Around 1896, distressed that gambling had become popular among young men after the Sino-Japanese War, Tokujiro Yamamoto of Takaoka in the Kokufu area sought to create a wholesome amusement, and while turning the matter over in his mind he took a hint from the rain umbrella carried by a Shinto priest. Replacing the earlier ceremonial hat with a long-handled umbrella and incorporating the forms of the sword dance that he himself practiced, he completed a spirited dance that the young men took up with enthusiasm. The dance was handed down among the young people of the district and came to be called Inaba no Kasa Odori, and the Kokufu area is regarded as the birthplace of the Inaba umbrella dance. The founder, Tokujiro Yamamoto, became an honorary citizen of the town, and a monument was erected to hand down his achievement.
+
+On October 18, 1974, Inaba no Kasa Odori was designated an Intangible Folk Cultural Property of Tottori Prefecture, and the Yokomakura Umbrella Dance Preservation Society and the Inaba Umbrella Dance Preservation Society took charge of its transmission. Through a long history of rise and decline, the dance that began with the simple prayers of rain-making and Bon memorial has been preserved to this day as a traditional art of which the region is proud.
+
+## Highlights
+
+**The Long-Handled Umbrella with a Hundred Bells**
+The greatest feature of Inaba no Kasa Odori is the long-handled umbrella, decorated brilliantly and fitted with more than a hundred small bells. Each time a dancer vigorously spins and brandishes the umbrella, the countless bells ring out all at once, creating a gorgeous stage that appeals to both sight and sound. This effect, in which the umbrella itself rings like an instrument, is a distinctive charm not found in other folk performing arts.
+
+**A Spirited Style Adapted from Sword Dance**
+The present dance is an adaptation of the sword dance, and its basic form is to open the long-handled umbrella and dance as if cutting in with a shout. Because the movements are intense and powerful, the dance brims with the vitality of youth, just as it was created as a wholesome amusement for young men.
+
+**The Interplay of High and Low with Crane and Tortoise**
+The dancers are arranged in even numbers such as six, eight, or ten, and incorporate the postures of the crane and the tortoise to create changes in high and low. The crane represents a high posture and the tortoise a low one, and as an up-and-down rhythm arises within the group dance, a three-dimensional appeal is produced that never grows monotonous.
+
+**Writing Characters with the Umbrellas**
+So that multiple dancers may unify the movements of their umbrellas and match their rhythm, an ingenious device is used in which they wave their umbrellas as if writing out the phrase "odore odore, mina odore" in hiragana. What appears scattered is in fact a minutely calculated group dance, and the beauty of the coordinated movement draws the spectators in.
+
+**Dignified Matching Costumes**
+The dancers'' costumes, matching yukata with hand and leg guards, white headbands, and white sashes, set off the vigorous dance all the more. The sight of many dancers moving in unified and dignified attire is filled with a freshness that recalls the history of the dance as it developed as a dance of rural young men.
+
+**Public Performances in the Community by the Preservation Societies**
+In Yokomakura the umbrella dance is performed every year on August 14, and in the Kokufu area it is presented at the summer-evening festivals of each district. As a dance handed down in the community during the Bon season, it is cherished by residents and passed on to the next generation, offering a precious chance to encounter its original form in its home locality.
+
+## Event Information and Access
+
+- Location: Tottori City, Tottori Prefecture (Yokomakura, and Takaoka, Mitani, and Aso in the Kokufu area)
+- Dates: August 14 in Yokomakura; the summer-evening festivals of each district in the Kokufu area
+- Cultural property: Intangible Folk Cultural Property of Tottori Prefecture (designated October 18, 1974)
+- Protecting bodies: Yokomakura Umbrella Dance Preservation Society and Inaba Umbrella Dance Preservation Society
+- Access (Yokomakura): About 20 minutes by Hinomaru bus on the Kando-Yokomakura line from JR Tottori Station, get off at Yokomakura
+- Access (Kokufu area): About 30 to 35 minutes by Hinomaru bus on the Nakagawara line from JR Tottori Station, get off at Aso or Takaoka
+
+## Around the Area
+
+The Kokufu area of Tottori City is a historic place that flourished as the center of the old province of Inaba, and historic sites connected with the Manyoshu anthology are scattered nearby. The Inaba Manyo History Museum introduces the connection between Otomo no Yakamochi, who served as governor of Inaba Province in the Nara period, and the Inaba region, as well as materials relating to Inaba no Kasa Odori, allowing visitors to learn more deeply about the history of the umbrella dance.
+
+A short trip to central Tottori City brings visitors to the Tottori Sand Dunes, one of the largest dune fields in Japan, where they can enjoy a majestic landscape facing the Sea of Japan. The Sand Museum adjoining the dunes holds special exhibitions of sand sculptures and draws many people as a highlight of sightseeing in Tottori.
+
+At the Tottori Shan-Shan Festival held in central Tottori City in summer, several thousand people dance the Shan-Shan umbrella dance, which was born from Inaba no Kasa Odori, in unison, unfolding a gorgeous scene in which bells ring on the umbrellas. It is an event that lets visitors feel how the tradition of Inaba no Kasa Odori has been handed down into a large-scale modern festival.
+
+## Related Information
+
+- Month: August
+- Prefecture and region: Tottori Prefecture (Chugoku region)
+- Origin: A rain-making dedication in the famine of 1786, and a rain-making legend of a great drought at the end of the Edo period
+- Founding of the present style: Established in the Meiji era by Tokujiro Yamamoto, who incorporated the sword dance (the Kokufu area is the birthplace)
+- Cultural property designation: Intangible Folk Cultural Property of Tottori Prefecture (designated October 18, 1974)
+- Related event: The parent dance of the Shan-Shan umbrella dance of the Tottori Shan-Shan Festival','inaba-umbrella-dance','inaba-umbrella-dance',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q129695018','横濱漢祭 2024','Yokohama Otoko Matsuri 2024','2024年8月20日から8月22日まで横浜スタジアムで開催されたイベント',NULL,'Q1148681','横浜スタジアム','Yokohama Stadium','神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/202408221509%20IMG%202358.jpg',NULL,NULL,70,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q132449320','よこすか開国花火大会','Yokosuka Kaikoku Fireworks Festival','神奈川県横須賀市で開催される花火大会','fireworks festival held in Yokosuka, Kanagawa Prefecture, Japan','Q11260718','うみかぜ公園','Umikaze Park','神奈川県','kanto',NULL,NULL,2003,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Yokosuka%20Kaikoku%20Fireworks%20Festival%2002.jpg','https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%93%E3%81%99%E3%81%8B%E9%96%8B%E5%9B%BD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','よこすか開国花火大会（よこすかかいこくはなびたいかい）は、神奈川県横須賀市のうみかぜ公園周辺を会場として開催される花火大会である。2003年(平成15年)に始まった比較的新しい花火大会で、東京湾に面した横須賀の海を舞台に、迫力ある花火が夜空を彩る、三浦半島の夏を代表するイベントとして親しまれている。
 
