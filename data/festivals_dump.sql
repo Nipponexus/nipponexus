@@ -16803,15 +16803,123 @@ The shrine is accessible by car or taxi in approximately 10 minutes from either 
 ## Surrounding Attractions
 
 The Katsuragi region was the stronghold of the ancient Katsuragi clan, and the area is dotted with prestigious ancient shrines and temples including Hitokotonushi Shrine, Takakamo Shrine, and Kuhonji Temple. Nearby, the Katsuragi-yama Ropeway provides access to hiking and seasonal nature tourism opportunities, making the area an excellent destination for combining ancient history with natural scenery.','katsuraki-ni-imasu-honoikaduchi-jinja','katsuraki-ni-imasu-honoikaduchi-jinja',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11615686','花輪ばやし','Hanawa Bayashi','秋田県鹿角市花輪の祭り',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hanawabayashi%202012.JPG','https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E3%81%B0%E3%82%84%E3%81%97',NULL,85,'drafted','花輪ばやし（はなわばやし）は、秋田県鹿角市花輪地区で毎年8月19日・20日に行われる、幸稲荷神社(さきわいいなりじんじゃ)の祭礼囃子である。「日本三大ばやし」の一つに数えられ、絢爛豪華な屋台と、夜を徹して奏でられる勇壮なお囃子で知られる、東北を代表する夏祭りである。
+INSERT INTO "festivals" VALUES('Q11615686','花輪ばやし','Hanawa Bayashi','秋田県鹿角市花輪の祭り',NULL,NULL,NULL,NULL,'秋田県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Hanawabayashi%202012.JPG','https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E3%81%B0%E3%82%84%E3%81%97',NULL,85,'drafted','## 概要
 
-祭りの主役は、金色に輝く豪華絢爛な10台の屋台(やたい)である。漆塗りに金箔をふんだんに使った屋台は「動く豪華絢爛」とも称され、夜になると無数の提灯に照らされて、いっそうの輝きを放つ。これらの屋台の上で、笛・太鼓・三味線・鉦(かね)による情緒豊かなお囃子が、二日間にわたってほぼ絶え間なく演奏される。花輪ばやしのお囃子は十数種類にも及び、その多彩さと洗練された旋律は高い芸術性を誇る。
+花輪ばやし（はなわばやし）は、秋田県鹿角（かづの）市花輪で毎年8月19日・20日の二日間にわたって行われる祭礼で、正式には「花輪祭の屋台行事」と呼ばれます。花輪の産土神（うぶすながみ）である幸稲荷（さいわいいなり）神社の祭礼ばやしとして奉納されるもので、豪華絢爛な十台の屋台が、若者の熱気あふれるお囃子に乗って夜通し町を練り歩きます。鹿角市最大の祭りであり、「日本三大ばやし」の一つに数えられる、東北を代表する屋台行事です。
 
-最大の見どころは、駅前で全屋台が集結する「駅前行事」や、深夜から明け方にかけて町を練り歩く巡行である。提灯の灯りに浮かぶ金色の屋台と、夜気を震わせるお囃子が織りなす光景は幻想的で、訪れる人々を魅了する。花輪ばやしは2014年に国の重要無形民俗文化財に指定され、2016年には「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された。鉱山の町として栄えた鹿角・花輪の誇りと心意気を今に伝える、貴重な祭礼文化である。','Hanawa Bayashi is the festival music of Sakiwai Inari Shrine, held every August 19th and 20th in the Hanawa district of Kazuno, Akita Prefecture. Counted among Japan''s "three great festival musics" (hayashi), it is a representative summer festival of the Tōhoku region, known for its magnificent and ornate floats and the spirited music played through the night.
+この行事の最大の特徴は、きらびやかな屋台と、それを彩る勇壮で賑やかな祭囃子にあります。夜を徹して繰り広げられる囃子と屋台の巡行は、参加する若者たちの熱気そのものであり、見る者を圧倒します。起源は平安末期にまで遡るとされる長い歴史を持ち、その文化的価値の高さから国指定重要無形民俗文化財に指定され、ユネスコ無形文化遺産にも登録された、日本を代表する屋台行事の一つとなっています。
 
-The stars of the festival are ten gorgeously ornate floats (yatai) gleaming in gold. Lavishly finished in lacquer and gold leaf, the floats are called "moving splendor," and at night, illuminated by countless lanterns, they shine all the more brilliantly. Atop these floats, emotionally rich festival music played on flute, drum, shamisen, and gong is performed almost continuously over the two days. The musical pieces of Hanawa Bayashi number more than a dozen, and their variety and refined melodies boast high artistry.
+## 歴史と由来
 
-The greatest highlights are the "station-front event," in which all floats assemble before the station, and the procession through the town from late night into dawn. The scene woven by the golden floats emerging in lantern light and the music trembling the night air is dreamlike, captivating all who visit. Hanawa Bayashi was designated an Important Intangible Folk Cultural Property of Japan in 2014, and in 2016 registered as part of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai float festivals in Japan." It is a precious festival culture conveying the pride and spirit of Kazuno-Hanawa, which flourished as a mining town.','hanawa-bayashi','hanawa-bayashi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+花輪ばやしの起源は、平安末期にまで遡るといわれています。花輪の地を守る産土神として崇敬されてきた幸稲荷神社に、祭礼ばやしとして奉納されてきたのが、この行事の始まりとされています。土地の守り神への信仰を核として、長い年月をかけて祭囃子と屋台の巡行が結びつき、現在の壮麗な屋台行事へと発展してきました。地域の人々の信仰と誇りが、この祭りを今日まで支えてきたのです。
+
+祭りの中心にあるのは、幸稲荷神社への奉納という信仰的な意味です。産土神への祭礼として営まれるこの行事は、単なる娯楽ではなく、地域の安寧や繁栄を願う祈りと分かちがたく結びついています。花輪の人々にとって、この祭りは土地とのつながりを確かめ、世代を超えて受け継いでいく大切な機会となってきました。信仰と芸能が一体となった点に、この行事の奥深さがあります。
+
+花輪ばやしは「日本三大ばやし」の一つに数えられており、その祭囃子の質の高さは全国的にも広く知られています。豪華絢爛な十台の屋台がそれぞれ町内ごとに受け継がれ、若者たちを中心に囃子の技が磨き上げられてきました。町内同士が競い合いながら伝統を守り育ててきたことが、この祭りの活気と高い完成度を生み出す原動力となっています。
+
+こうして受け継がれてきた花輪ばやしは、平成二十六年（2014年）に「花輪祭の屋台行事」として国の重要無形民俗文化財に指定されました。さらに平成二十八年（2016年）には、「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録され、日本を代表する屋台行事として国際的にもその価値が認められています。地域に根ざした信仰と芸能が、世界の宝として位置づけられたのです。
+
+## 見どころ
+
+**駅前行事**
+花輪ばやし最大の見どころが、全町内の屋台が鹿角花輪駅前広場に集結して祭囃子の競演を行う「駅前行事」です。十台の屋台が一堂に会し、それぞれの町内が磨き上げた囃子を競い合うさまは、祭り全体の盛り上がりが最高潮を迎える瞬間です。きらびやかな屋台と賑やかなお囃子が織りなす熱気は、この祭りの神髄を体感できる場面となっています。
+
+**夜通し町を練り歩く十台の屋台**
+豪華絢爛な十台の屋台が、若者たちの熱気あふれるお囃子に乗って夜通し町を練り歩きます。灯りに照らされた屋台が夜の花輪の町を巡行する光景は幻想的で、昼とは異なる祭りの表情を見せます。夜を徹して続く巡行は、参加者の並々ならぬ情熱に支えられており、祭りの熱気を存分に味わえます。
+
+**若者が担う勇壮な祭囃子**
+花輪ばやしの囃子は、若者たちを中心に受け継がれ、その勇壮で賑やかな響きが「日本三大ばやし」の名にふさわしい迫力を生み出します。笛や太鼓などが一体となって奏でる囃子は、屋台の巡行を力強く盛り上げ、祭り全体を貫く生命線となっています。次代を担う若者の熱意が、この囃子に込められています。
+
+**町内ごとに個性のある屋台**
+十台の屋台はそれぞれ町内ごとに受け継がれており、装飾や意匠に町ごとの個性が表れています。きらびやかに飾られた屋台を見比べながら巡行を追うことも、この祭りを深く楽しむ鍵となります。各町内が誇りをもって守り育ててきた屋台の競演は、地域の結束と伝統の厚みを物語っています。
+
+**産土神への奉納という祈り**
+花輪ばやしは、花輪の産土神である幸稲荷神社への奉納として営まれます。華やかな屋台と囃子の背後には、土地の守り神への深い信仰があり、地域の安寧と繁栄を願う祈りが込められています。娯楽性と信仰性が一体となったこの構造こそが、花輪ばやしを単なる賑わいを超えた、意味深い伝統行事たらしめています。
+
+## 開催情報・アクセス
+
+- 開催地: 秋田県鹿角市花輪
+- 会場: 大町・新町商店街、鹿角花輪駅前広場など
+- 開催日: 毎年8月19日・20日の2日間
+- 主な内容: 屋台の巡行、駅前行事（屋台集結と囃子の競演）、幸稲荷神社への奉納
+- 文化財指定: 国指定重要無形民俗文化財（2014年）・ユネスコ無形文化遺産「山・鉾・屋台行事」（2016年）
+- アクセス: JR花輪線鹿角花輪駅周辺。祭りにあわせて臨時列車も運行
+
+## 周辺の見どころ
+
+花輪ばやしの舞台となる鹿角市は、秋田県北東部に位置し、豊かな自然と歴史文化に恵まれた地域です。祭りの中心となる幸稲荷神社は花輪の産土神として地域の信仰を集めており、祭りの見学とあわせて参拝すれば、この行事の信仰的な背景をより深く感じ取ることができます。大町・新町商店街を中心とした町並みは、屋台行事の舞台として祭りの情緒と一体になっています。
+
+鹿角市は、国の特別史跡である大湯環状列石（大湯ストーンサークル）など、古代からの歴史遺産を有する地域としても知られています。縄文時代の遺跡や豊かな温泉、雄大な自然景観など見どころが多く、花輪ばやしの訪問を機に鹿角の歴史と文化を幅広く巡ることができます。伝統行事と歴史遺産が共存する土地ならではの魅力があります。
+
+秋田県北部一帯は、山々に囲まれた自然豊かな地域で、温泉地や渓谷などの景勝地が点在します。花輪ばやしという壮麗な屋台行事を核に、近隣の観光資源をあわせて巡ることで、東北北部の奥深い自然と文化を存分に味わうことができます。夏の花輪ばやしは、この地域を訪れる大きなきっかけとなる行事です。
+
+## 関連情報
+
+- 開催月: 8月（19日・20日の2日間）
+- 所在地: 秋田県鹿角市花輪（東北地方）
+- 会場: 幸稲荷神社および大町・新町商店街、鹿角花輪駅前広場
+- 種別: 幸稲荷神社の祭礼・屋台行事
+- 文化財: 国指定重要無形民俗文化財・ユネスコ無形文化遺産「山・鉾・屋台行事」
+- 特色: 起源は平安末期・日本三大ばやしの一つ・豪華絢爛な10台の屋台・駅前行事での囃子の競演
+','## Overview
+
+Hanawa Bayashi is a festival held over two days on August 19 and 20 every year in Hanawa, Kazuno City, Akita Prefecture, formally called the float event of the Hanawa Festival. Offered as the festival music of Saiwai Inari Shrine, the tutelary deity of Hanawa, it is an event in which ten gorgeous, magnificent floats parade through the town all night long, riding on festival music full of the fervor of young people. It is the largest festival of Kazuno City and a float event representative of the Tohoku region, counted among the Three Great Bayashi of Japan.
+
+The greatest characteristic of this event lies in its glittering floats and the spirited, lively festival music that colors them. The music and float procession, unfolding through the night, are the very fervor of the young people who take part, and overwhelm those who watch. With a long history said to go back to the late Heian period, it has been designated a national Important Intangible Folk Cultural Property because of its high cultural value and registered as a UNESCO Intangible Cultural Heritage, making it one of the float events representative of Japan.
+
+## History and Origins
+
+The origins of Hanawa Bayashi are said to go back to the late Heian period. It is said that this event began as festival music offered to Saiwai Inari Shrine, revered as the tutelary deity guarding the land of Hanawa. With faith in the guardian deity of the land at its core, the festival music and the float procession became joined over long years, developing into the splendid float event of today. The faith and pride of the local people have supported this festival to the present day.
+
+At the center of the festival is the religious meaning of the offering to Saiwai Inari Shrine. Carried out as a festival for the tutelary deity, this event is not mere entertainment but is inseparably bound to the prayer wishing for the peace and prosperity of the region. For the people of Hanawa, this festival has been an important occasion to confirm their connection to the land and to hand it down across generations. The depth of this event lies in the way faith and performing art become one.
+
+Hanawa Bayashi is counted among the Three Great Bayashi of Japan, and the high quality of its festival music is widely known nationwide. Ten gorgeous, magnificent floats are each handed down by neighborhood, and the technique of the music has been refined mainly by the young people. That the neighborhoods have guarded and nurtured the tradition while competing with one another has been the driving force that gives rise to the vitality and high level of completion of this festival.
+
+Hanawa Bayashi, handed down in this way, was designated a national Important Intangible Folk Cultural Property in 2014 as the float event of the Hanawa Festival. Furthermore, in 2016 it was registered as a UNESCO Intangible Cultural Heritage as one of the Yama, Hoko, and Yatai float events, and its value is recognized internationally as a float event representative of Japan. The faith and performing art rooted in the region have been positioned as a treasure of the world.
+
+## Highlights
+
+**The Station Front Event**
+The greatest highlight of Hanawa Bayashi is the station front event, in which the floats of all the neighborhoods gather at the plaza in front of Kazuno-Hanawa Station and compete in festival music. The way ten floats assemble in one place, and each neighborhood competes with the music it has refined, is the moment when the excitement of the entire festival reaches its climax. The fervor woven by the glittering floats and the lively music is a scene in which one can experience the very essence of this festival.
+
+**Ten Floats Parading Through the Town All Night**
+Ten gorgeous, magnificent floats parade through the town all night long, riding on the festival music full of the fervor of young people. The sight of the floats, lit by lanterns, making their way through the night town of Hanawa is fantastical, showing a face of the festival different from daytime. The procession that continues through the night is supported by the extraordinary passion of the participants, and lets one fully savor the fervor of the festival.
+
+**The Spirited Festival Music Borne by Young People**
+The music of Hanawa Bayashi has been handed down mainly by young people, and its spirited, lively resonance gives rise to a power worthy of the name of the Three Great Bayashi of Japan. The music played by flutes, drums, and other instruments as one powerfully enlivens the float procession and is the lifeline running through the entire festival. The enthusiasm of the young people who will bear the next generation is put into this music.
+
+**Floats with Individuality by Neighborhood**
+The ten floats are each handed down by neighborhood, and the individuality of each town appears in the decoration and design. Following the procession while comparing the gorgeously decorated floats is also a key to enjoying this festival deeply. The competition of the floats, which each neighborhood has guarded and nurtured with pride, tells of the unity of the region and the depth of the tradition.
+
+**The Prayer of Offering to the Tutelary Deity**
+Hanawa Bayashi is carried out as an offering to Saiwai Inari Shrine, the tutelary deity of Hanawa. Behind the gorgeous floats and music lies a deep faith in the guardian deity of the land, and a prayer wishing for the peace and prosperity of the region is put into it. It is precisely this structure, in which entertainment and faith become one, that makes Hanawa Bayashi a meaningful traditional event beyond mere merrymaking.
+
+## Event Information and Access
+
+- Location: Hanawa, Kazuno City, Akita Prefecture
+- Venue: The Omachi and Shinmachi shopping streets, the plaza in front of Kazuno-Hanawa Station, and others
+- Dates: Two days, August 19 and 20, every year
+- Main contents: The float procession, the station front event (the gathering of floats and the competition of music), and the offering to Saiwai Inari Shrine
+- Cultural property designation: National Important Intangible Folk Cultural Property (2014) and UNESCO Intangible Cultural Heritage Yama, Hoko, and Yatai float events (2016)
+- Access: Around JR Hanawa Line Kazuno-Hanawa Station; special trains also run in accordance with the festival
+
+## Nearby Attractions
+
+Kazuno City, which serves as the stage of Hanawa Bayashi, is located in the northeastern part of Akita Prefecture and is a region blessed with rich nature and historical culture. Saiwai Inari Shrine, the center of the festival, draws the faith of the region as the tutelary deity of Hanawa, and worshipping there alongside viewing the festival lets one more deeply sense the religious background of this event. The townscape centered on the Omachi and Shinmachi shopping streets becomes one with the atmosphere of the festival as the stage of the float event.
+
+Kazuno City is also known as a region with historical heritage from ancient times, such as the Oyu Stone Circles, a nationally designated Special Historic Site. With many sights such as Jomon-period ruins, rich hot springs, and majestic natural scenery, one can, taking the visit to Hanawa Bayashi as an occasion, broadly tour the history and culture of Kazuno. It has an appeal unique to a land where a traditional event and historical heritage coexist.
+
+The whole of northern Akita Prefecture is a nature-rich region surrounded by mountains, dotted with scenic spots such as hot spring areas and valleys. With the splendid float event of Hanawa Bayashi at its core, by touring the nearby tourism resources as well, one can fully savor the deep nature and culture of northern Tohoku. Hanawa Bayashi in summer is an event that becomes a great occasion to visit this region.
+
+## Related Information
+
+- Month: August (two days, the 19th and 20th)
+- Location: Hanawa, Kazuno City, Akita Prefecture (Tohoku region)
+- Venue: Saiwai Inari Shrine and the Omachi and Shinmachi shopping streets, the plaza in front of Kazuno-Hanawa Station
+- Type: A festival of Saiwai Inari Shrine, a float event
+- Cultural property: National Important Intangible Folk Cultural Property and UNESCO Intangible Cultural Heritage Yama, Hoko, and Yatai float events
+- Features: Origins in the late Heian period; one of the Three Great Bayashi of Japan; ten gorgeous, magnificent floats; the competition of music at the station front event
+','hanawa-bayashi','hanawa-bayashi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11597870','立川まつり国営昭和記念公園花火大会','Showa Kinen Park Fireworks',NULL,NULL,'Q3915473','国営昭和記念公園','Shōwa Memorial Park',NULL,NULL,NULL,NULL,1954,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A%E5%9B%BD%E5%96%B6%E6%98%AD%E5%92%8C%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596130','秩父川瀬祭','Chichibu Kawase Matsuri','毎年7月に開催される埼玉県秩父市の祭り',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chichibu%20Kawase%20Matsuri.jpg','https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B7%9D%E7%80%AC%E7%A5%AD',NULL,85,'drafted','秩父川瀬祭（ちちぶかわせまつり）は、埼玉県秩父市番場町の秩父神社で毎年7月19日・20日に行われる夏の例大祭である。秩父では「お祇園」とも呼ばれ、笠鉾4基・屋台4基の計8基の山車が秩父屋台囃子を響かせながら街なかを曳き廻される。冬に行われる日本三大曳山祭の一つ「秩父夜祭」と対をなす祭りとされ、夜祭に対しては昼の祭り、冬に対しては夏、大人の祭りに対しては子どもの祭りと位置づけられている。笠鉾・屋台の囃子手や、花笠を付けた拍子木を子どもたちが務める姿が見られる、子どもが主役の祭りである。
 
@@ -18579,11 +18687,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
