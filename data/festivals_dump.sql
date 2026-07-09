@@ -17780,15 +17780,123 @@ INSERT INTO "festivals" VALUES('Q11647764','金砂神社磯出大祭礼',NULL,NU
 INSERT INTO "festivals" VALUES('Q11652555','長崎帆船まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E5%B8%86%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11665956','飛鳥光の回廊',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%B3%A5%E5%85%89%E3%81%AE%E5%9B%9E%E5%BB%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11670487','高松秋のまつり・仏生山大名行列',NULL,NULL,NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%A7%8B%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%8A%E3%83%BB%E4%BB%8F%E7%94%9F%E5%B1%B1%E5%A4%A7%E5%90%8D%E8%A1%8C%E5%88%97',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11666571','飯田町燈籠山祭り','Iida-machi Toroyama Festival','石川県珠洲市で行われる山車祭り',NULL,'Q112874501','春日神社','Kasuga Shrine','石川県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%A3%AF%E7%94%B0%E7%94%BA%E7%87%88%E7%B1%A0%E5%B1%B1%E7%A5%AD%E3%82%8A%EF%BC%88%E3%81%84%E3%81%84%E3%81%A0%E3%81%BE%E3%81%A1%E3%81%A8%E3%82%8D%E3%82%84%E3%81%BE%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89.jpg','https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E7%94%BA%E7%87%88%E7%B1%A0%E5%B1%B1%E7%A5%AD%E3%82%8A',NULL,85,'drafted','飯田町燈籠山祭り（いいだまちとろやままつり）は、石川県珠洲市(すずし)飯田町の春日神社の祭礼で、毎年7月20日・21日に行われる山車祭りである。能登半島の先端に位置する珠洲市の夏を彩る伝統行事で、「燈籠山(とろやま)」と呼ばれる巨大な人形を載せた山車が町を巡行する、勇壮かつ華やかな祭りとして知られる。
+INSERT INTO "festivals" VALUES('Q11666571','飯田町燈籠山祭り','Iida-machi Toroyama Festival','石川県珠洲市で行われる山車祭り',NULL,'Q112874501','春日神社','Kasuga Shrine','石川県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%A3%AF%E7%94%B0%E7%94%BA%E7%87%88%E7%B1%A0%E5%B1%B1%E7%A5%AD%E3%82%8A%EF%BC%88%E3%81%84%E3%81%84%E3%81%A0%E3%81%BE%E3%81%A1%E3%81%A8%E3%82%8D%E3%82%84%E3%81%BE%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89.jpg','https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E7%94%BA%E7%87%88%E7%B1%A0%E5%B1%B1%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、その名の通り「燈籠山」と呼ばれる高さ16メートルにも及ぶ巨大な山車である。山車の最上部には、その年の話題や故事にちなんだ大きな人形が据えられ、町を見下ろすようにそびえ立つ。かつては高さ20メートルを超えるものもあったと伝えられ、能登に数多く伝わる「キリコ祭り」の流れをくみながらも、独特の発展を遂げた珠洲ならではの山車文化を体現している。
+飯田町燈籠山祭り（いいだまちとろやままつり）は、石川県珠洲市飯田町に鎮座する春日神社の例大祭で、毎年7月20日・21日を中心に行われる能登半島を代表する夏祭りです。能登半島の最先端に位置する飯田町に約四百年にわたって受け継がれてきた祭礼で、神事としては「おすずみ祭り」と呼ばれています。祭りの華は「燈籠山（とろやま）」と呼ばれる巨大な山車で、その圧倒的な高さと絢爛さが、能登の夏の到来を告げる風物詩として広く知られています。
 
-祭りでは、燈籠山とともに「キリコ」と呼ばれる奉燈(ほうとう)が担ぎ出され、笛や太鼓のお囃子に合わせて町を練り歩く。夜になると山車や奉燈に灯りがともり、闇に浮かび上がる巨大な人形と無数の明かりが幻想的な光景をつくり出す。約350年の歴史を誇るこの祭りは、能登の最先端の地・珠洲に根づいた人々の祈りと心意気を、今に力強く伝えている。','The Iida-machi Tōrōyama Festival is a float festival held every July 20th and 21st as the festival of Kasuga Shrine in Iida-machi, Suzu, Ishikawa Prefecture. A traditional event coloring summer in Suzu, located at the tip of the Noto Peninsula, it is known as a spirited and splendid festival in which floats bearing enormous figures called "tōrōyama" process through the town.
+この祭りの最大の特徴は、高さ約十六メートルにもおよぶ燈籠山の頂に、約六メートルの巨大な人形を掲げて町なかを曳き回す点にあります。人形は毎回作り替えられ、時代を映した題材が選ばれてきました。神様を夕涼みにお出まし願うという素朴な信仰から始まり、時代とともに豪華絢爛な山車行事へと発展した歴史を持ち、珠洲市指定無形民俗文化財として大切に守り伝えられています。
 
-The festival''s greatest distinction is, as its name suggests, the gigantic floats called "tōrōyama," reaching as much as 16 meters in height. Atop each float is placed a large figure based on the year''s topics or historical tales, towering as if looking down over the town. Some are said to have once exceeded 20 meters in height. While descended from the "kiriko festivals" widely handed down in Noto, they embody the float culture unique to Suzu, which achieved its own distinctive development.
+## 歴史と由来
 
-At the festival, "kiriko" votive lanterns are carried out alongside the tōrōyama, parading through the town to the festival music of flutes and drums. At night, lights are lit on the floats and votive lanterns, and the gigantic figures emerging from the darkness together with countless lights create a dreamlike scene. Boasting around 350 years of history, this festival powerfully conveys to this day the prayers and spirit of the people rooted in Suzu, the land at the very tip of Noto.','iida-machi-toroyama-festival','iida-machi-toroyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+飯田町燈籠山祭りの起源は、江戸時代の寛永年間初期、およそ1625年頃に遡ると伝えられています。土用入りの暑さがはなはだしい頃に、春日神社の御祭神である天児屋根命（あめのこやねのみこと）をはじめとする七柱の神々に、夕涼みにお出まし願ったのが祭りの始まりとされています。この「神様の夕涼み」という発想が、神事名「おすずみ祭り」の由来そのものとなっています。
+
+祭りの草創期には、氏子の人々が高張提灯やデンガク燈籠に灯りをともし、大勢で賑やかに供奉して神社への送迎を行ったと伝えられています。この燈籠を掲げた行列が、時代とともに豪華絢爛に発展し、やがて「燈籠山」と呼ばれる巨大な山車へと姿を変えていきました。祭りの名の由来である燈籠が、そのまま山車の起源につながっている点に、この行事の歴史の一貫性が見て取れます。
+
+明治初期の頃、飯田町は七町内から成り（現在は八町内）、すべての町内が燈籠山を出していました。時代の世相を反映した人形題材が多く選ばれ、兵隊など軍事色の濃い人形も作られたといいます。各町内が競い合うように制作したため、からくりで動作する人形や、人形の出来栄えを競う評議審査まで行われていたと伝えられ、町を挙げた祭りへの熱意がうかがえます。
+
+大正時代に入ると、町内への電線架設に伴って山車が電線にかかるようになり、人形を掲げたままの運行が難しくなりました。人形は次第に作られなくなり、代わりに山車の前に舞台を組んで踊りが興じられ、子供踊りが盛んになっていきました。しかし昭和五十八年（1983年）に飯田町燈籠山祭り保存会と飯田町祭礼委員会が発足し、燈籠山が正式に復活します。近年は電線の地中化も一部進み、また能登半島の震災や豪雨といった困難を乗り越えて祭りを継承しようとする地域の強い思いが、この伝統を今日へとつないでいます。
+
+## 見どころ
+
+**高さ約十六メートルの燈籠山**
+祭り最大の見どころは、頂に約六メートルの巨大人形を掲げた高さ約十六メートルの燈籠山です。町なかを練り歩くその姿は圧巻で、能登半島の祭礼のなかでも屈指の巨大さを誇ります。二年に一度、飯田わくわく広場で人形が制作され、時代を映す題材が選ばれるため、訪れるたびに異なる人形に出会えるのも魅力です。
+
+**榊神輿による神様の渡御**
+この祭りでは、一般的な神輿ではなく「榊神輿」と呼ばれる白木造りの台車に六尺ほどの榊を立て、それを神籬（ひもろぎ）として神様がお出ましになります。海岸近くに設けた御仮屋を御旅所とし、夕刻に渡御が行われる独特の形式は、他の華やかな山車行事とは異なる厳かな信仰の側面を伝えています。
+
+**大祓詞を奏上する禊・祓の神事**
+御旅所での神事では必ず大祓詞（おおはらえのことば）が奏上されます。海辺へのお出ましと大祓詞の奏上は、まさに神様と氏子の禊・祓を表しており、これが「おすずみ祭り」の特徴を最もよく示しています。夕涼みという素朴な側面の根底に、罪や穢れを祓う信仰が深く根づいている点に、この祭りの精神的な奥行きがあります。
+
+**二日間にわたる巡行**
+祭りは7月19日の前夜祭に始まり、20日には本祭として榊神輿渡御と燈籠山・山車の巡行が行われ、21日には氏子全域への燈籠山巡行が斎行されます。二日間かけて町を巡る燈籠山の姿は、飯田町の夏そのものであり、地域の人々の一年の高揚が凝縮された時間となっています。
+
+**復活と継承にかける町の熱意**
+大正期に一度は姿を消した人形が、昭和後期の保存会発足によって復活を遂げた歴史は、この祭りへの町の強い愛着を物語ります。近年の震災や豪雨を乗り越えてなお巡行を続けようとする地域の姿勢は、伝統行事が単なる観光資源ではなく、人々の暮らしと誇りの核であることを示しています。
+
+## 開催情報・アクセス
+
+- 開催地: 石川県珠洲市飯田町
+- 会場: 春日神社および飯田町内、海岸近くの御旅所
+- 開催日: 毎年曜日に関係なく7月19日（前夜祭）・20日（本祭）・21日（氏子全域巡行）
+- 主な神事: 榊神輿渡御、燈籠山・山車巡行、御旅所での大祓詞奏上
+- 文化財指定: 珠洲市指定無形民俗文化財
+- アクセス: 能登半島最先端の珠洲市飯田町。金沢方面から車で能登方面へ北上
+
+## 周辺の見どころ
+
+飯田町のある珠洲市は能登半島の最先端に位置し、三方を海に囲まれた自然豊かな地域です。日本海に面した海岸線が続き、燈籠山祭りの御旅所が設けられる海辺の風景は、この土地の暮らしと信仰が海と深く結びついてきたことを物語ります。夏の珠洲は数多くの祭礼が続く時期でもあり、燈籠山祭りはその幕開けを飾る行事として位置づけられています。
+
+能登半島一帯は、巨大な奉燈「キリコ」を担ぐキリコ祭りで知られる祭礼文化の宝庫であり、日本遺産「灯り舞う半島 能登」の構成要素としても注目されています。飯田町燈籠山祭りもこの能登の祭礼文化の一翼を担っており、地域を巡れば夏の間に多彩な祭りに出会うことができます。灯りと山車をめぐる能登独自の信仰世界を体感できる土地です。
+
+また能登半島は、独特の里山里海の景観と伝統的な暮らしが受け継がれてきた地域として広く知られています。海の幸に恵まれた食文化や、素朴で力強い祭礼が息づく町並みは、訪れる人に日本の原風景を思わせる情趣を伝えます。燈籠山祭りの見学とあわせて、能登の自然と文化をゆっくり味わうことができます。
+
+## 関連情報
+
+- 開催月: 7月（19日前夜祭・20日本祭・21日巡行）
+- 所在地: 石川県珠洲市（中部・北陸地方）
+- 会場: 春日神社
+- 種別: 春日神社例大祭「おすずみ祭り」・山車行事
+- 文化財: 珠洲市指定無形民俗文化財
+- 特色: 起源は寛永年間初期（1625年頃）・高さ約16mの巨大山車「燈籠山」・榊神輿と大祓詞奏上の神事
+','## Overview
+
+The Iidamachi Toroyama Festival is the grand annual festival of Kasuga Shrine, located in Iidamachi, Suzu City, Ishikawa Prefecture, and is a summer festival representative of the Noto Peninsula, held mainly on July 20 and 21 each year. It is a rite handed down for some four hundred years in Iidamachi, which lies at the very tip of the Noto Peninsula, and as a Shinto rite it is called the Osuzumi Festival. The centerpiece of the festival is a giant float called the toroyama, whose overwhelming height and splendor are widely known as a seasonal feature announcing the arrival of summer in Noto.
+
+The greatest characteristic of this festival is that a giant doll about six meters tall is raised atop the toroyama, which reaches a height of about sixteen meters, and is pulled through the town. The doll is remade each time, and subjects reflecting the age have been chosen for it. Beginning from the simple faith of inviting the deities out to enjoy the cool of the evening, it developed over time into a magnificent float event, and it is carefully preserved and handed down as an Intangible Folk Cultural Property designated by Suzu City.
+
+## History and Origins
+
+The origins of the Iidamachi Toroyama Festival are said to go back to the early years of the Kan''ei era in the Edo period, around the year 1625. During the height of the summer heat at the start of the dog days, it is said that the festival began when people invited out the seven deities enshrined at Kasuga Shrine, including Amenokoyane no Mikoto, to enjoy the cool of the evening. This idea of the deities enjoying the cool of the evening is itself the origin of the rite''s name, the Osuzumi Festival, which means the evening cool festival.
+
+In the early days of the festival, the parishioners are said to have lit high paper lanterns and dengaku lanterns and escorted the deities to and from the shrine in a lively procession. This procession bearing lanterns developed into something magnificent over time and eventually changed its form into a giant float called the toroyama. The consistency of the festival''s history can be seen in the way the lantern that gives the festival its name leads directly to the origin of the float.
+
+In the early Meiji era, Iidamachi consisted of seven neighborhoods, now eight, and every neighborhood put out a toroyama. Many subjects reflecting the mood of the times were chosen for the dolls, and it is said that dolls with a strong military color, such as soldiers, were also made. Because the neighborhoods produced them as if in competition, dolls that moved by mechanism and evaluations judging the quality of the dolls are said to have been held, showing the town''s enthusiasm for the festival.
+
+Entering the Taisho era, as electric lines were strung through the neighborhoods, the floats came to catch on the lines, and it became difficult to run them while raising the dolls. The dolls gradually ceased to be made, and instead a stage was built in front of the float where dances were performed, and children''s dances flourished. However, in the fifty-eighth year of Showa, 1983, the Iidamachi Toroyama Festival Preservation Society and the Iidamachi Festival Committee were founded, and the toroyama was formally revived. In recent years the burying of electric lines has partly progressed, and the strong local will to carry on the festival even after overcoming hardships such as earthquakes and heavy rains on the Noto Peninsula has connected this tradition to the present day.
+
+## Highlights
+
+**The Toroyama, About Sixteen Meters Tall**
+The greatest highlight of the festival is the toroyama, about sixteen meters tall, topped with a giant doll about six meters high. Its appearance as it parades through the town is spectacular, boasting a size that ranks among the largest of the festivals on the Noto Peninsula. Once every two years the doll is made at the Iida Wakuwaku Plaza, and because a subject reflecting the times is chosen, one can encounter a different doll each visit, which is part of its appeal.
+
+**The Procession of the Deities by Sakaki Mikoshi**
+In this festival, rather than an ordinary portable shrine, the deities come forth using a sakaki mikoshi, in which a sakaki tree about six shaku tall is set on a white wooden cart and serves as a himorogi, a sacred space for the deities. The distinctive form, in which a temporary shrine set up near the coast serves as the resting place and the procession is held in the evening, conveys a solemn aspect of faith different from other showy float events.
+
+**The Rite of Purification with the Great Purification Words**
+At the rite held at the resting place, the Great Purification Words, the ooharae no kotoba, are always recited. The coming forth to the seashore and the recitation of the Great Purification Words truly express the purification of the deities and the parishioners, and this best shows the character of the Osuzumi Festival. The spiritual depth of this festival lies in the way a faith that purifies sin and defilement is deeply rooted beneath the simple aspect of enjoying the evening cool.
+
+**A Procession over Two Days**
+The festival begins with the eve festival on July 19, and on the 20th the main festival is held with the procession of the sakaki mikoshi and of the toroyama and floats, while on the 21st a procession of the toroyama through the entire parish area is conducted. The sight of the toroyama making its way through the town over two days is summer itself in Iidamachi, and becomes a time in which the year''s excitement of the local people is concentrated.
+
+**The Town''s Passion for Revival and Succession**
+The history in which the dolls, which once vanished in the Taisho era, were revived through the founding of the preservation society in the late Showa era speaks of the town''s strong attachment to this festival. The local attitude of continuing to hold the procession even after overcoming recent earthquakes and heavy rains shows that a traditional event is not merely a tourism resource but the core of the people''s lives and pride.
+
+## Event Information and Access
+
+- Location: Iidamachi, Suzu City, Ishikawa Prefecture
+- Venues: Kasuga Shrine, the neighborhoods of Iidamachi, and the resting place near the coast
+- Dates: Every year regardless of the day of the week, July 19 (eve festival), 20 (main festival), and 21 (procession through the whole parish area)
+- Main rites: The procession of the sakaki mikoshi, the procession of the toroyama and floats, and the recitation of the Great Purification Words at the resting place
+- Cultural property designation: Intangible Folk Cultural Property designated by Suzu City
+- Access: Iidamachi in Suzu City, at the tip of the Noto Peninsula; drive north toward Noto from the Kanazawa area
+
+## Nearby Attractions
+
+Suzu City, where Iidamachi is located, lies at the very tip of the Noto Peninsula and is a nature-rich region surrounded on three sides by the sea. A coastline facing the Sea of Japan stretches on, and the seaside scenery where the resting place of the Toroyama Festival is set up tells how the life and faith of this land have been deeply bound to the sea. Summer in Suzu is also a season in which many festivals follow one after another, and the Toroyama Festival is positioned as the event that opens them.
+
+The whole Noto Peninsula is a treasure house of festival culture known for the Kiriko festivals, in which giant votive lanterns called kiriko are shouldered, and it draws attention as a component of the Japan Heritage titled the Peninsula Where Lights Dance, Noto. The Iidamachi Toroyama Festival also bears a part of this festival culture of Noto, and touring the region allows one to encounter a variety of festivals through the summer. It is a land where one can experience the unique world of faith surrounding lights and floats that is particular to Noto.
+
+The Noto Peninsula is also widely known as a region where a distinctive landscape of satoyama and satoumi and a traditional way of life have been handed down. The food culture blessed with the bounty of the sea and the townscapes where simple, powerful festivals live on convey to visitors a mood recalling the original scenery of Japan. Alongside viewing the Toroyama Festival, one can slowly savor the nature and culture of Noto.
+
+## Related Information
+
+- Month: July (eve festival on the 19th, main festival on the 20th, procession on the 21st)
+- Location: Suzu City, Ishikawa Prefecture (Chubu and Hokuriku region)
+- Venue: Kasuga Shrine
+- Type: The grand festival of Kasuga Shrine, the Osuzumi Festival, a float event
+- Cultural property: Intangible Folk Cultural Property designated by Suzu City
+- Features: Origins in the early Kan''ei era around 1625; a giant float, the toroyama, about sixteen meters tall; rites of the sakaki mikoshi and the recitation of the Great Purification Words
+','iida-machi-toroyama-festival','iida-machi-toroyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11672606','高砂山願念坊祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E7%A0%82%E5%B1%B1%E9%A1%98%E5%BF%B5%E5%9D%8A%E7%A5%AD%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11675706','鵜島の曳山祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%B5%9C%E5%B3%B6%E3%81%AE%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11660875','霧島国際音楽祭','Kirishima International Music Festival','日本の鹿児島県の霧島高原で開催されているクラシック音楽祭','music festival in Kagoshima, Japan','Q858352','霧島市','Kirishima','鹿児島県','kyushu',NULL,NULL,1980,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Miyama%20Conseru.jpg','https://ja.wikipedia.org/wiki/%E9%9C%A7%E5%B3%B6%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,85,'drafted','霧島国際音楽祭（きりしまこくさいおんがくさい）は、鹿児島県の霧島高原を中心に毎年夏に開催されるクラシック音楽の音楽祭である。1980年(昭和55年)に始まり、雄大な霧島連山の自然のなかで、国内外から一流の音楽家を招いて演奏会と音楽講習(マスタークラス)を行う、日本を代表する夏の音楽祭の一つとして知られる。
