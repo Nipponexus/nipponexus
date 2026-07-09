@@ -12596,15 +12596,117 @@ Esashi Town faces the Sea of Japan in the southwest of Hokkaido, and around it s
 - Shrine: Ubagami Daijingu Shrine (guardian shrine of Esashi)
 - Origins: The oldest festival in Ezo, Hokkaido, said to have continued since around 1644; derived from gratitude for a good herring catch
 - Cultural property designation: A designated intangible folk cultural property of Hokkaido','ubagami-daijingu-togyosai','ubagami-daijingu-togyosai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q24875391','鹿沼今宮神社祭の屋台行事','Kanuma lmamiya Shrine Festival','栃木県鹿沼市で行われる祭り',NULL,'Q110734894','今宮神社','Imamiya Shrine','栃木県','kanto',NULL,NULL,1608,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kanumaimamiyayatai.jpg','https://ja.wikipedia.org/wiki/%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','鹿沼今宮神社祭の屋台行事（かぬまいまみやじんじゃさいのやたいぎょうじ）は、栃木県鹿沼市の今宮神社で毎年10月に行われる祭礼である。1608年(慶長13年)に起源を持つとされる約400年の歴史を誇る祭りで、精巧な彫刻で飾られた豪華な屋台が町を巡行することで知られ、ユネスコの無形文化遺産に登録されている。
+INSERT INTO "festivals" VALUES('Q24875391','鹿沼今宮神社祭の屋台行事','Kanuma lmamiya Shrine Festival','栃木県鹿沼市で行われる祭り',NULL,'Q110734894','今宮神社','Imamiya Shrine','栃木県','kanto',NULL,NULL,1608,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kanumaimamiyayatai.jpg','https://ja.wikipedia.org/wiki/%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、「彫刻屋台」と呼ばれる絢爛豪華な屋台である。鹿沼は江戸時代から木工・彫刻が盛んな町として栄え、その高い技術が屋台に惜しみなく注ぎ込まれた。龍や獅子、花鳥などをかたどった精緻で立体的な彫刻が屋台の全面を覆い尽くし、白木のままのものや極彩色のものなど、それぞれが芸術品のような美しさを誇る。約30台もの彫刻屋台が現存し、祭りには多くが繰り出される。
+鹿沼今宮神社祭の屋台行事（かぬまいまみやじんじゃさいのやたいぎょうじ）は、栃木県鹿沼市の今宮神社で毎年10月に行われる例祭で、豪華な彫刻を全面に施した「彫刻屋台」が氏子町から奉納される行事である。地元では「鹿沼秋まつり」「ぶっつけ祭り」の通称で親しまれ、約27の氏子町から約20台の囃子屋台が繰り出す。関東を代表する屋台祭りのひとつで、彫刻屋台の質と数において全国的にも屈指の規模を誇る。
 
-祭りでは、各町内の彫刻屋台が、勇壮な「ぶっつけ」と呼ばれるお囃子の競演を繰り広げながら町を練り歩く。屋台同士が向かい合い、互いの囃子を打ち合わせて競い合う様は、祭りの熱気が最高潮に達する瞬間である。木工の町・鹿沼が誇る職人技の粋が結集したこの祭りは、栃木県の秋を代表する華やかな祭礼として、また日本の屋台彫刻文化の精髄として、世界に認められた貴重な民俗文化である。','The Kanuma Imamiya Shrine Festival float event is a festival held every October at Imamiya Shrine in Kanuma, Tochigi Prefecture. With around 400 years of history and origins said to date to 1608, it is known for the ornate floats adorned with intricate carvings that process through the town, and is registered as UNESCO Intangible Cultural Heritage.
+祭りの最大の見どころは、屋台同士が向かい合って囃子を競い合う「ぶっつけ」である。相手を圧倒しようと激しく囃子をぶつけ合うこの所作こそが鹿沼の秋まつりを象徴する場面であり、通称「ぶっつけ祭り」の由来にもなっている。2003年（平成15年）に国の重要無形民俗文化財に指定され、2016年（平成28年）にはユネスコ無形文化遺産「山・鉾・屋台行事」の構成資産のひとつとして登録された。
 
-The festival''s greatest distinction is the magnificent and ornate floats called "carved floats" (chōkoku yatai). Kanuma has flourished as a town of woodworking and carving since the Edo period, and that high level of skill was lavishly poured into the floats. Intricate, three-dimensional carvings shaped after dragons, lions, flowers, and birds cover the entire surface of the floats—some left as plain wood, others in brilliant colors—each boasting a beauty like a work of art. Around thirty carved floats survive, and many appear at the festival.
+## 歴史と由来
 
-At the festival, the carved floats of the various neighborhoods parade through the town while engaging in spirited musical contests called "buttsuke." The sight of floats facing one another and competing by striking up their music against each other is the moment when the festival''s fervor reaches its peak. Bringing together the essence of the craftsmanship of which the woodworking town of Kanuma is proud, this festival is a precious folk culture recognized worldwide as a splendid celebration representative of autumn in Tochigi Prefecture and as the essence of Japan''s float-carving culture.','kanuma-imamiya-shrine-festival','kanuma-imamiya-shrine-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+鹿沼今宮神社祭の屋台行事の起源は江戸時代にさかのぼる。文献上の最も古い記録は安永9年（1780年）とされ、当時はまだ簡素な踊り屋台が奉納される素朴な祭礼であった。彫刻を施した現在の豪華な屋台へと発展していく契機は、文政年間（1827年頃）および天保年間（1841年頃）の祭礼改革にあったと伝えられる。この時期に鹿沼の木工技術と経済力が結びつき、屋台に精緻な彫刻を施す文化が花開いた。
+
+鹿沼は古くから木工の町として栄え、良質な木材と優れた彫刻師を抱えていた。この地場産業の蓄積が、屋台彫刻の発達を支えた最大の背景である。屋台は単なる山車ではなく、地域の職人技を競い合う「動く彫刻美術館」として磨き上げられ、龍・唐獅子・波・花鳥などの意匠が屋台の各面を埋め尽くすようになった。彫刻屋台の質の高さは、鹿沼が木工の町であったという地理的・産業的条件と不可分に結びついている。
+
+祭礼の基本的な形式は明治15年（1882年）ごろに整えられたとされる。この時期に氏子町の運営方法や屋台巡行の順序といった祭りの骨格が確立し、以後の運営の基盤となった。氏子町は4つの組に分けられ、回り番で祭りの運営を担う仕組みが定着した。例祭の初日には各町内を屋台が巡り、一番町を先頭として神社に入場するという順序も、この頃に整えられた慣行に連なるものである。
+
+その後、第二次世界大戦の混乱期に祭りは一時中断を余儀なくされたが、戦後、地域の氏子たちの手によって復興された。現在まで受け継がれてきた背景には、屋台を維持管理し、囃子を伝承してきた各町の保存会の努力がある。祭りの保護団体である鹿沼いまみや付け祭り保存会が中心となり、彫刻屋台と囃子という二つの無形・有形の文化財を後世に伝えている。
+
+## 見どころ
+
+**ぶっつけ（囃子の競演）**　祭り最大の見どころは、屋台同士が正面から向き合い、互いの囃子をぶつけ合う「ぶっつけ」である。相手の囃子に負けまいと激しく演奏を競うこの場面は、観客を最も沸かせる瞬間であり、鹿沼秋まつりが「ぶっつけ祭り」と呼ばれる所以となっている。囃子は各町が誇りをかけて磨き上げたもので、勝敗の明確なルールはないものの、演者と観客が一体となって熱気に包まれる。
+
+**彫刻屋台の意匠**　約20台繰り出す屋台は、いずれも全面に精緻な彫刻を施した彫刻屋台である。龍や唐獅子、波濤、花鳥といった伝統的な題材が立体的に彫り込まれ、金箔や極彩色で彩られた屋台もある。木工の町・鹿沼の職人技の粋を集めた屋台は、それ自体が動く文化財であり、昼間はその彫刻の細部までじっくり鑑賞できる。
+
+**屋台の巡行と一番町の先導**　例祭の初日には、各氏子町の屋台がそれぞれの町内を巡ったのち、神社へと向かう。神社への入場は一番町が先頭を務める慣わしで、屋台に提灯が灯される頃合いには祭りが最高潮を迎える。提灯を灯した屋台が町内へ戻っていく様子は、昼の彫刻鑑賞とはまた異なる幻想的な情景を生み出す。
+
+**囃子の伝承と町ごとの個性**　鹿沼の屋台囃子は各町がそれぞれに伝承してきたもので、町ごとに囃子の調子や演奏の癖に個性がある。ぶっつけの場面では、この町ごとの違いが際立ち、聞き比べる楽しみがある。囃子は子どもから大人まで幅広い世代が担い、祭りを通じて地域の伝統が世代を超えて受け継がれていく。
+
+**夜の提灯屋台**　日が暮れると屋台には多数の提灯が灯され、彫刻が灯りに浮かび上がる。昼間の彫刻の荘厳さと、夜の提灯の華やぎという二つの表情を一日のうちに楽しめるのも、この祭りの魅力である。夜のぶっつけは提灯の灯りと囃子の音が交錯し、祭りの興奮を一層かき立てる。
+
+**約27町の氏子による総力**　この祭りは約27の氏子町が支えている。氏子町は4組に分けられ、回り番で運営を担うことで、特定の町に負担が偏らない仕組みが保たれている。多数の町がそれぞれ屋台と囃子を維持している点に、鹿沼という地域全体の祭りへの情熱がうかがえる。
+
+## 開催情報・アクセス
+
+- **開催地**：栃木県鹿沼市（今宮神社ほか市街地一帯）
+- **会場**：今宮神社および氏子町の市街地
+- **開催時期**：毎年10月第2土曜・日曜（例年2日間）
+- **アクセス**：JR日光線・鹿沼駅前、または東武日光線・新鹿沼駅前からバス「久保町」下車すぐ
+- **観覧**：市街地での巡行・ぶっつけは無料で観覧可能。開催日程は事前に鹿沼市や観光協会で確認することが望ましい
+- **保護団体・問合せ**：鹿沼いまみや付け祭り保存会／鹿沼市観光協会
+
+## 周辺の見どころ
+
+鹿沼市は日光へと続く例幣使街道の宿場町として栄えた歴史を持ち、市街地には古い町並みや商家が残る。祭りの拠点となる今宮神社は市の中心部に位置し、周辺を散策しながら屋台の巡行を追うことができる。
+
+鹿沼は「鹿沼組子」に代表される木工・建具の産地として全国に知られ、屋台彫刻の背景にある職人文化を今に伝えている。市内では木工にまつわる産業や工芸に触れる機会もあり、彫刻屋台の魅力をより深く理解する手がかりとなる。
+
+また鹿沼市は日光市に隣接し、世界遺産・日光の社寺へのアクセスも良い。祭りの時期に合わせて訪れれば、鹿沼の秋まつりと日光観光を組み合わせた旅程を組むこともできる。周辺には自然豊かな行楽地も点在し、秋の行楽シーズンにふさわしい環境が整っている。
+
+## 関連情報
+
+- **開催月**：10月（第2土曜・日曜）
+- **所在地**：栃木県鹿沼市・関東地方
+- **起源**：安永9年（1780年）が文献上の最古記録、文政・天保年間に彫刻屋台へ発展、明治15年頃に現在の形式が確立
+- **規模**：約27の氏子町から約20台の彫刻屋台が奉納
+- **文化財指定**：2003年（平成15年）国指定重要無形民俗文化財、2016年（平成28年）ユネスコ無形文化遺産「山・鉾・屋台行事」登録
+- **保護団体**：鹿沼いまみや付け祭り保存会
+','## Overview
+
+The Yatai (Float) Festival of Kanuma Imamiya Shrine (Kanuma Imamiya Jinja Sai no Yatai Gyoji) is an annual autumn festival held each October at Imamiya Shrine in Kanuma City, Tochigi Prefecture. Its defining feature is the presentation of lavishly carved wooden floats, known as "carved floats" (chokoku yatai), offered to the shrine by the parish towns. Locally the festival is affectionately called the "Kanuma Autumn Festival" or the "Buttsuke Festival," and it draws around twenty musical floats from roughly twenty-seven parish towns. It ranks among the foremost float festivals of the Kanto region, and in both the quality and number of its carved floats it stands among the finest in all of Japan.
+
+The greatest highlight of the festival is the "Buttsuke," in which floats face one another and compete through their festival music. Each town tries to overwhelm its rival with the power of its playing, and this spirited musical contest is the very scene that symbolizes the Kanuma autumn festival, giving rise to its nickname the "Buttsuke Festival." In 2003 (Heisei 15) the festival was designated a nationally Important Intangible Folk Cultural Property, and in 2016 (Heisei 28) it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage as one of the component elements of the "Yama, Hoko, Yatai float festivals in Japan."
+
+## History and Origins
+
+The origins of the Kanuma Imamiya Shrine float festival trace back to the Edo period. The oldest documentary record dates to 1780 (An''ei 9), when the festival was still a modest rite in which simple dance floats were offered. The turning point toward the ornate carved floats seen today came with the festival reforms of the Bunsei era (around 1827) and the Tenpo era (around 1841). During this period the woodworking skill and economic strength of Kanuma came together, and a culture of adorning floats with intricate carvings blossomed.
+
+Kanuma had long flourished as a town of woodworking, endowed with fine timber and skilled carvers. This accumulated local industry was the greatest factor supporting the development of float carving. The floats became more than mere carts; they were refined into "moving museums of sculpture" in which the towns competed to display the finest local craftsmanship. Motifs such as dragons, lion-dogs, waves, and flowers and birds came to cover every surface of the floats. The exceptional quality of the carved floats is inseparable from the geographic and industrial condition that Kanuma was a woodworking town.
+
+The basic form of the festival is said to have been established around 1882 (Meiji 15). It was during this time that the manner in which the parish towns operated the festival and the order of the float procession took shape, forming the framework of the event thereafter. The parish towns were divided into four groups, and a rotating system in which each group took a turn managing the festival became established. On the first day of the festival, the floats parade through each town and then enter the shrine, led by the first town (ichibancho) at the head of the procession, a custom that likewise dates back to the practices settled in this era.
+
+The festival was later forced to pause during the turmoil of the Second World War, but it was revived after the war through the efforts of the local parishioners. Behind its continued transmission lies the labor of the preservation associations of each town, who maintain the floats and hand down the festival music. Led by the Kanuma Imamiya Tsukematsuri Preservation Association, the festival passes on to future generations two cultural treasures at once: the carved floats and the festival music.
+
+## Highlights
+
+**The Buttsuke (Musical Contest)**　The festival''s foremost highlight is the "Buttsuke," in which floats face each other head-on and pit their festival music against one another. Determined not to lose to a rival''s music, each town plays with fierce intensity, and this scene is the moment that most excites the spectators. It is the reason the Kanuma autumn festival is called the "Buttsuke Festival." Although there are no clear rules of victory or defeat, the music is honed by each town as a matter of pride, and performers and audience alike are swept up in the heat of the moment.
+
+**The Design of the Carved Floats**　Each of the roughly twenty floats that appear is a carved float adorned across its entire surface with intricate sculpture. Traditional themes such as dragons, lion-dogs, crashing waves, and flowers and birds are carved in three dimensions, and some floats are further decorated with gold leaf and vivid colors. Gathering the finest craftsmanship of Kanuma, the town of woodworking, the floats are themselves moving cultural properties, and by day one can closely admire the fine detail of their carving.
+
+**The Procession and the Lead of the First Town**　On the first day of the festival, the floats of each parish town first make their way through their own districts before heading toward the shrine. By custom the first town (ichibancho) leads the entry into the shrine, and as lanterns are lit on the floats the festival reaches its peak. The sight of lantern-lit floats returning to their towns creates a fantastical scene quite different from the daytime appreciation of the carvings.
+
+**Transmission of the Music and Each Town''s Character**　The float music of Kanuma has been handed down independently by each town, and every town has its own character in the tune and playing style of its music. During the Buttsuke, these differences between towns stand out, offering the pleasure of comparing them by ear. The music is performed by a wide range of generations, from children to adults, and through the festival the local tradition is passed down across the ages.
+
+**The Lantern Floats at Night**　When evening falls, numerous lanterns are lit on the floats, and the carvings emerge from the glow of the light. Being able to enjoy in a single day the two faces of the festival, the solemn grandeur of the daytime carvings and the gaiety of the nighttime lanterns, is another of its charms. The nighttime Buttsuke, with the light of the lanterns and the sound of the music intertwining, stirs the excitement of the festival all the more.
+
+**The Combined Strength of Some Twenty-Seven Towns**　This festival is supported by around twenty-seven parish towns. The towns are divided into four groups and take turns running the festival, so that the burden does not fall unevenly on any single town. That so many towns each maintain their own float and music speaks to the passion for the festival held by the community of Kanuma as a whole.
+
+## Access and Practical Information
+
+- **Location**: Kanuma City, Tochigi Prefecture (Imamiya Shrine and the surrounding town center)
+- **Venue**: Imamiya Shrine and the streets of the parish towns
+- **Timing**: The second Saturday and Sunday of October each year (usually two days)
+- **Access**: A short walk from the "Kubocho" bus stop, reached by bus from in front of JR Kanuma Station (Nikko Line) or Shin-Kanuma Station (Tobu Nikko Line)
+- **Viewing**: The procession and Buttsuke in the town center can be viewed free of charge. It is advisable to confirm the schedule in advance with Kanuma City or the tourism association
+- **Preservation Body / Inquiries**: Kanuma Imamiya Tsukematsuri Preservation Association / Kanuma City Tourism Association
+
+## Nearby Attractions
+
+Kanuma City has a history as a post town on the Reiheishi Road leading to Nikko, and old townscapes and merchant houses remain in the town center. Imamiya Shrine, which serves as the base of the festival, is located in the heart of the city, and visitors can follow the float procession while strolling the surrounding area.
+
+Kanuma is known throughout Japan as a center of woodworking and joinery, represented by "Kanuma kumiko" latticework, and it continues to convey the craft culture that underlies the float carvings. Within the city there are opportunities to encounter the industries and crafts related to woodworking, offering a clue to a deeper appreciation of the carved floats.
+
+Kanuma City also adjoins Nikko City, with good access to the World Heritage shrines and temples of Nikko. By timing a visit to the festival, one can plan an itinerary combining the Kanuma autumn festival with sightseeing in Nikko. Nature-rich recreation areas are also scattered nearby, providing an environment well suited to the autumn travel season.
+
+## Related Information
+
+- **Month**: October (second Saturday and Sunday)
+- **Location**: Kanuma City, Tochigi Prefecture, Kanto region
+- **Origins**: Earliest documentary record in 1780 (An''ei 9); developed into carved floats during the Bunsei and Tenpo eras; present form established around 1882 (Meiji 15)
+- **Scale**: About twenty carved floats offered by roughly twenty-seven parish towns
+- **Cultural Property Designation**: Nationally Important Intangible Folk Cultural Property (2003, Heisei 15); inscribed on the UNESCO Intangible Cultural Heritage list of "Yama, Hoko, Yatai float festivals in Japan" (2016, Heisei 28)
+- **Preservation Body**: Kanuma Imamiya Tsukematsuri Preservation Association
+','kanuma-imamiya-shrine-festival','kanuma-imamiya-shrine-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21654535','古川まつり','Furukawa Matsuri','宮城県大崎市で開催される夏祭り',NULL,NULL,NULL,NULL,'宮城県','tohoku',38.57514167,140.95970556,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E3%81%BE%E3%81%A4%E3%82%8A',NULL,75,'drafted','## 概要
 
 古川まつり（ふるかわまつり）は、宮城県大崎市古川で毎年夏に開催される、古川地域最大の夏祭りである。正式には「おおさき古川まつり」と呼ばれ、昭和22年（1947年）から続く歴史を持つ。色とりどりの美しい七夕飾りが大通りを彩り、勇壮な神輿（みこし）行列、地域に伝わる古川おどり、力強い古川まつり太鼓、そして花火大会など、多彩な行事が三日間にわたって繰り広げられる。市民や商店街が一体となって作り上げる祭りで、まちじゅうが祭り一色に染まり、大崎地域の内外から多くの人出でにぎわう。なお、岐阜県飛騨市で4月に行われる「古川祭（起し太鼓・屋台行事）」とは名称が似ているが、まったく別の祭りである。
@@ -17425,11 +17527,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
