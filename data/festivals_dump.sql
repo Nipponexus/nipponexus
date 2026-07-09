@@ -17714,15 +17714,117 @@ INSERT INTO "festivals" VALUES('Q11638353','迎え火','mukaebi','客人や神�
 Mukaebi carries the meaning of lighting a fire as a marker so that the returning ancestral spirits do not lose their way. The traditional practice is to burn "ogara"—dried stalks of hemp—atop a "hōroku," an unglazed earthenware plate. Relying on the rising smoke and flame, ancestral spirits are believed to use this fire as a guide to return to their cherished home.
 
 Mukaebi is a custom symbolizing the Japanese spirit of revering ancestors and the affection of warmly welcoming the departed. Practices vary by region and household: the custom of carrying lanterns to greet the spirits at the grave, and that of hanging Bon lanterns at the entrance, are also widely seen. During the Bon period, ancestral spirits spend time with the family, and at the end of Bon they are sent off again to the other world by the "okuribi" (sending fire). Mukaebi and okuribi, forming a pair of observances, convey the Japanese view of life and death and the bonds of family to this day.','mukaebi','mukaebi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11635899','赤穂義士祭','Akō Gishi Festival','兵庫県赤穂市で毎年赤穂義士たちが討ち入りを果たした12月14日に行われる祭り',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,1903,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Ako%20Gishisai%20De09%2013.jpg','https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD',NULL,85,'drafted','赤穂義士祭（あこうぎしさい）は、兵庫県赤穂市で毎年12月14日に行われる祭りで、「忠臣蔵」で知られる赤穂浪士47人の討ち入りの日を記念して催される。主君の仇討ちを成し遂げた赤穂義士たちの忠義を偲び、その遺徳を称える祭りとして、1903年(明治36年)から続く赤穂市最大の年中行事である。
+INSERT INTO "festivals" VALUES('Q11635899','赤穂義士祭','Akō Gishi Festival','兵庫県赤穂市で毎年赤穂義士たちが討ち入りを果たした12月14日に行われる祭り',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,1903,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Ako%20Gishisai%20De09%2013.jpg','https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD',NULL,85,'drafted','## 概要
 
-物語の舞台となった赤穂は、播磨灘に面した塩づくりで栄えた城下町である。元禄14年(1701年)、赤穂藩主・浅野内匠頭が江戸城内で吉良上野介に刃傷に及び切腹、お家断絶となった。翌年12月14日、家老・大石内蔵助に率いられた47人の旧家臣が吉良邸に討ち入り、主君の無念を晴らした。この史実に基づく「忠臣蔵」は、日本人に最も愛される物語の一つとして語り継がれている。
+赤穂義士祭（あこうぎしさい）は、兵庫県赤穂市で毎年12月14日に行われる、赤穂市最大の年中行事である。元禄15年（1702年）のこの日、赤穂浪士四十七士が主君の仇を討つべく江戸の吉良邸へ討ち入りを果たした「忠臣蔵」の史実にちなみ、義士たちの偉業を称えて開催される。会場は赤穂城跡やお城通り、いきつぎ広場周辺で、元禄絵巻さながらの華やかなパレードが繰り広げられる。
 
-祭りの最大の見どころは「義士行列」である。大石内蔵助をはじめとする四十七士に扮した武者たちが、当時の装束をまとって赤穂の城下町を練り歩く。陣太鼓の音とともに進む討ち入り装束の行列は壮観で、沿道は多くの観客で埋め尽くされる。物産市やステージイベントも催され、師走の赤穂は一年で最も賑わう。主君への忠義という日本古来の精神を今に伝えるこの祭りは、赤穂の人々の誇りと歴史を象徴する冬の風物詩である。','The Akō Gishi Festival is held every December 14th in Akō, Hyōgo Prefecture, commemorating the day of the raid by the 47 Akō rōnin, famed from the tale of "Chūshingura." Honoring the loyalty of the Akō retainers who avenged their lord and celebrating their virtue, it is Akō''s largest annual event, held continuously since 1903.
+祭りの最大の見どころは、義士行列や大名行列などからなる「忠臣蔵パレード」である。討ち入り装束に身を固めた四十七義士に扮した行列が街を練り歩き、大石内蔵助役には毎年著名な俳優が起用されて祭りに華を添える。2025年（令和7年）には第122回を数え、一世紀を超えて受け継がれてきた歴史を持つ。義士を祀る大石神社での義士追慕大祭や、義士の墓所の菩提寺である花岳寺での義士追慕法要も営まれ、娯楽としての祭りと義士を偲ぶ祭礼とが一体となっている。
 
-Akō, the setting of the story, is a castle town facing the Harima Sea that flourished through salt production. In 1701, the lord of the Akō domain, Asano Takumi-no-Kami, drew his sword against Kira Kōzuke-no-Suke within Edo Castle, was ordered to commit seppuku, and his house was abolished. On December 14th of the following year, 47 former retainers led by chief retainer Ōishi Kuranosuke raided the Kira residence and avenged their lord''s bitter end. Based on this historical event, "Chūshingura" has been handed down as one of the most beloved stories among the Japanese.
+## 歴史と由来
 
-The festival''s greatest highlight is the "Gishi procession." Warriors costumed as the 47 samurai, including Ōishi Kuranosuke, parade through Akō''s castle town clad in period attire. The procession in raid garb advancing to the sound of war drums is magnificent, and the roadsides fill with crowds of spectators. With product markets and stage events also held, Akō in December bustles more than at any other time of year. Conveying the ancient Japanese spirit of loyalty to one''s lord, this festival is a winter tradition symbolizing the pride and history of the people of Akō.','ako-gishi-festival','ako-gishi-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+赤穂義士祭の背景には、日本人に最も広く知られた物語のひとつ「忠臣蔵」がある。元禄14年（1701年）、赤穂藩主・浅野内匠頭長矩が江戸城中で吉良上野介に刃傷に及び、即日切腹・赤穂藩改易という処分を受けた。翌元禄15年（1702年）12月14日、家老・大石内蔵助良雄を筆頭とする四十七士が吉良邸に討ち入り、主君の仇を討った。この事件は後に人形浄瑠璃や歌舞伎の「仮名手本忠臣蔵」として脚色され、忠義の物語として広く愛され続けてきた。
+
+赤穂は、この義士たちの故郷である。義士祭は、赤穂の人々が同郷の英雄である四十七士の忠義と偉業を後世に伝え、称えるために営んできた行事であり、討ち入りの日である12月14日に合わせて毎年開催される。義士祭は各地で行われているが、義士の故郷・赤穂の義士祭は、その規模と歴史において特別な位置を占めている。
+
+祭りの中心となる赤穂大石神社は、明治天皇の宣旨を契機として明治33年（1900年）に神社創立が公許され、大正元年（1912年）11月に四十七義士命を祀る神社として鎮座した。ご祭神は大石内蔵助良雄以下四十七義士命と、討ち入り前に自刃した中折の烈士・萱野三平命である。神社は赤穂城内（上仮屋）に位置し、義士信仰の中心地として全国から参拝者を集めてきた。
+
+祭り自体も長い歴史を重ねてきた。パレードの華である大名行列は昭和24年（1949年）頃から義士祭に出演しており、以後、義士行列や山車とともに祭りの名物として定着した。回を重ねるなかで、忠臣蔵ゆかりの市町や近隣市町の特産品が集まる物産市など、地域交流の要素も加わり、赤穂の街全体を挙げた一大イベントへと発展してきた。近年はコロナ禍でパレードが中止された年もあったが、その後復活し、今日まで受け継がれている。
+
+## 見どころ
+
+**忠臣蔵パレード（義士行列）**　祭りの最大のハイライトは、討ち入り装束に身を固めた四十七義士に扮した「義士行列」である。芝高輪の泉岳寺（義士の墓所）へ向かう義士たちの姿を再現し、街を練り歩く。元禄絵巻さながらの装束と隊列は見応えがあり、沿道は多くの観客で埋め尽くされる。義士行列は赤穂義士祭を象徴する場面である。
+
+**大石内蔵助役の特別出演**　義士行列の先頭に立つ大石内蔵助役には、毎年著名な俳優が起用される。近年は内藤剛志らが陣太鼓を打ち鳴らしながら大石内蔵助を演じ、その登場は観客の大きな歓声を呼ぶ。祭りに映画やドラマのような華やかさを添える名物演出であり、遠方からの来場者を惹きつける目玉となっている。
+
+**大名行列**　昭和24年頃から続く大名行列は、毛槍、片箱、御籠に分かれて技芸を披露する伝統ある出し物である。毛槍を投げ渡す所作などの技芸は熟練を要し、元禄時代の格式ある行列を今に伝える。義士行列とともに忠臣蔵パレードを構成し、祭りの格調を高めている。
+
+**大石神社と義士史料館**　祭りの中心である大石神社では、義士追慕大祭が営まれる。境内の義士史料館には、大石内蔵助が討ち入りに使ったと伝わる「呼子鳥笛」など義士の遺品や、赤穂藩主浅野家・森家の宝物が納められている。また著名な彫刻家がひとり一体ずつ彫った四十七義士の木像を安置する義士木像奉安殿もあり、忠臣蔵の歴史に深く触れることができる。
+
+**花岳寺での義士追慕法要**　義士祭の日には、赤穂浅野家の菩提寺である花岳寺で義士追慕法要が営まれる。四十七義士の位牌を祀る寺で、講談や浪曲なども奉納され、義士を偲ぶ厳粛な祈りの場となる。華やかなパレードと対をなす、祭りのもうひとつの核である。
+
+**忠臣蔵交流物産市**　パレードと並行して、忠臣蔵ゆかりの市町や近隣市町の特産品が一堂に会する物産市が開催される。赤穂の名産である塩をはじめ、各地の物産が並び、祭り見物とあわせて買い物や食を楽しめる。義士を縁とした地域間交流の場ともなっている。
+
+## 開催情報・アクセス
+
+- **開催地**：兵庫県赤穂市（赤穂城跡・お城通り・いきつぎ広場周辺）
+- **中心となる社寺**：赤穂大石神社（赤穂城内 上仮屋）、花岳寺
+- **開催日**：毎年12月14日（赤穂浪士討ち入りの日）
+- **主なプログラム**：忠臣蔵パレード（義士行列・大名行列・山車）10時頃から15時頃、大石神社義士追慕大祭、花岳寺義士追慕法要、忠臣蔵交流物産市
+- **アクセス**：JR赤穂線「播州赤穂」駅から徒歩圏。大石神社には無料駐車場（70台）あり
+- **観覧**：パレードの沿道観覧は無料。いきつぎ広場に有料観覧席が設けられる年もある
+
+## 周辺の見どころ
+
+祭りの舞台となる赤穂城跡は、赤穂藩浅野家の居城であった城の跡で、国の史跡・名勝に指定されている。本丸や庭園が復元整備され、城内には大石神社や大石内蔵助の屋敷跡（大石邸長屋門）が残る。義士祭の日以外にも、忠臣蔵の史跡をたどりながら散策を楽しめる。
+
+赤穂は古くから塩づくりの町として知られ、「赤穂の塩」は全国的な名産である。市内には塩の歴史や製法を学べる施設もあり、忠臣蔵とともに赤穂のもうひとつの顔である塩の文化に触れることができる。祭りの物産市でも赤穂の塩は人気の品となっている。
+
+また赤穂は瀬戸内海に面し、赤穂御崎などの景勝地や温泉もある。播磨灘を望む海辺の景観と、忠臣蔵の史跡、塩の文化が組み合わさった観光地として、年間を通じて多くの人が訪れる。義士祭の時期に合わせて訪れれば、祭りと史跡めぐり、海の幸を組み合わせた旅程を組むことができる。
+
+## 関連情報
+
+- **開催月**：12月（14日）
+- **所在地**：兵庫県赤穂市・近畿地方
+- **由来**：元禄15年（1702年）12月14日の赤穂浪士四十七士の吉良邸討ち入り（忠臣蔵）にちなむ
+- **規模**：赤穂市最大の行事。2025年（令和7年）で第122回。忠臣蔵パレード・物産市など
+- **中心の神社**：赤穂大石神社（ご祭神＝大石内蔵助良雄以下四十七義士命・萱野三平命）。明治33年創立公許、大正元年鎮座
+- **主催・保護団体**：赤穂義士祭奉賛会／赤穂市
+','## Overview
+
+The Ako Gishi Festival (Ako Gishi-sai) is the largest annual event of Ako City, Hyogo Prefecture, held on December 14 each year. It is held in honor of the great deed of the forty-seven ronin of Ako, based on the historical events of the "Chushingura," in which on this day in 1702 (Genroku 15) the forty-seven loyal retainers of Ako raided the Kira residence in Edo to avenge their lord. The venue spans the ruins of Ako Castle, Oshiro-dori street, and the area around Ikitsugi Plaza, where dazzling parades unfold as if in a picture scroll of the Genroku era.
+
+The greatest highlight of the festival is the "Chushingura Parade," made up of the samurai procession and the daimyo procession. A procession costumed as the forty-seven loyal retainers in raiding attire marches through the streets, and a famous actor is cast each year in the role of Oishi Kuranosuke, adding color to the festival. In 2025 (Reiwa 7) it reached its 122nd occasion, with a history handed down for over a century. A memorial grand rite for the retainers is held at Oishi Shrine, which enshrines the retainers, and a memorial service is held at Kagakuji, the family temple where the retainers'' graves lie, so that the festival as entertainment and the rite of remembering the retainers form a single whole.
+
+## History and Origins
+
+Behind the Ako Gishi Festival lies one of the most widely known stories among the Japanese people, the "Chushingura." In 1701 (Genroku 14), the lord of the Ako domain, Asano Takumi-no-kami Naganori, drew his sword against Kira Kozuke-no-suke within Edo Castle, and was made to commit ritual suicide the same day, with the Ako domain abolished. On December 14 of the following year, 1702 (Genroku 15), the forty-seven retainers led by the chief retainer Oishi Kuranosuke Yoshio raided the Kira residence and avenged their lord. This incident was later dramatized as the puppet play and kabuki work "Kanadehon Chushingura," and has continued to be widely loved as a tale of loyalty.
+
+Ako is the hometown of these loyal retainers. The Gishi Festival is an event the people of Ako have held to convey and honor for later generations the loyalty and great deed of the forty-seven retainers, their fellow townsmen and heroes, and it is held each year in accord with December 14, the day of the raid. Gishi festivals are held in various places, but the Gishi Festival of Ako, the retainers'' hometown, occupies a special position in both its scale and its history.
+
+Ako Oishi Shrine, the center of the festival, was permitted to be founded in 1900 (Meiji 33) at the instigation of an imperial decree of Emperor Meiji, and was enshrined in November 1912 (Taisho 1) as a shrine dedicated to the forty-seven loyal retainers. Its enshrined deities are the forty-seven retainers headed by Oishi Kuranosuke Yoshio, together with Kayano Sanpei, the loyal man who took his own life before the raid. The shrine is located within Ako Castle (Kamikariya) and has drawn worshippers from across the country as the center of devotion to the loyal retainers.
+
+The festival itself has built up a long history. The daimyo procession, the flower of the parade, has appeared in the Gishi Festival since around 1949 (Showa 24), and has since become established as a highlight of the festival alongside the samurai procession and the floats. Over the years, elements of regional exchange were added, such as a product market where the specialties of towns connected to the Chushingura and neighboring municipalities gather, and it has developed into a grand event embracing the whole city of Ako. In recent years the parade was canceled in some years due to the pandemic, but it was later revived and continues to this day.
+
+## Highlights
+
+**The Chushingura Parade (Samurai Procession)**　The greatest highlight of the festival is the "samurai procession," costumed as the forty-seven loyal retainers in raiding attire. It recreates the figures of the retainers heading for Sengakuji at Takanawa in Shiba (the retainers'' burial site) and marches through the streets. The costumes and formation, like a picture scroll of the Genroku era, are worth seeing, and the roadside is filled with many spectators. The samurai procession is the scene that symbolizes the Ako Gishi Festival.
+
+**The Special Appearance in the Role of Oishi Kuranosuke**　A famous actor is cast each year in the role of Oishi Kuranosuke, who stands at the head of the samurai procession. In recent years figures such as Naito Takashi have played Oishi Kuranosuke while beating the war drum, and their appearance draws great cheers from the crowd. It is a signature production that adds the glamour of film and drama to the festival, and it is a centerpiece attracting visitors from afar.
+
+**The Daimyo Procession**　The daimyo procession, which has continued since around 1949, is a traditional attraction in which participants divide into groups bearing feather-decorated spears, side boxes, and palanquins to display their skills. Feats such as tossing the feathered spears from hand to hand require mastery and convey to the present day the dignified processions of the Genroku era. Together with the samurai procession, it makes up the Chushingura Parade and heightens the festival''s dignity.
+
+**Oishi Shrine and the Gishi Museum**　At Oishi Shrine, the center of the festival, a memorial grand rite for the retainers is held. The Gishi Museum in the precincts houses relics of the retainers, such as the "Yobuko-doribue" (a bird-call whistle) said to have been used by Oishi Kuranosuke in the raid, as well as treasures of the Asano and Mori houses, the lords of the Ako domain. There is also a hall enshrining the wooden statues of the forty-seven retainers, each carved one by one by a distinguished sculptor, where one can deeply engage with the history of the Chushingura.
+
+**The Memorial Service at Kagakuji**　On the day of the Gishi Festival, a memorial service for the retainers is held at Kagakuji, the family temple of the Ako Asano house. It is the temple enshrining the mortuary tablets of the forty-seven retainers, and storytelling (kodan) and narrative singing (rokyoku) are also offered, making it a solemn place of prayer to remember the retainers. It is another core of the festival, forming a pair with the dazzling parade.
+
+**The Chushingura Exchange Product Market**　In parallel with the parade, a product market is held where the specialties of towns connected to the Chushingura and neighboring municipalities gather in one place. Alongside Ako''s famous salt, products from various areas are lined up, and one can enjoy shopping and food together with watching the festival. It also serves as a place of regional exchange rooted in the bond of the loyal retainers.
+
+## Access and Practical Information
+
+- **Location**: Ako City, Hyogo Prefecture (ruins of Ako Castle, Oshiro-dori, and around Ikitsugi Plaza)
+- **Central Shrine and Temple**: Ako Oishi Shrine (within Ako Castle, Kamikariya) and Kagakuji
+- **Date**: December 14 each year (the day of the Ako ronin''s raid)
+- **Main Programs**: The Chushingura Parade (samurai procession, daimyo procession, floats) from around 10 a.m. to around 3 p.m., the Oishi Shrine memorial grand rite, the Kagakuji memorial service, and the Chushingura Exchange Product Market
+- **Access**: Within walking distance of "Banshu-Ako" Station on the JR Ako Line. Oishi Shrine has free parking (70 cars)
+- **Viewing**: Roadside viewing of the parade is free. In some years, paid viewing seats are set up at Ikitsugi Plaza
+
+## Nearby Attractions
+
+The ruins of Ako Castle, the stage of the festival, are the remains of the castle that was the residence of the Asano house of the Ako domain, designated a National Historic Site and Place of Scenic Beauty. The main enclosure and gardens have been restored and maintained, and within the castle remain Oishi Shrine and the site of Oishi Kuranosuke''s residence (the Oishi Residence Nagaya Gate). Even on days other than the Gishi Festival, one can enjoy strolling while tracing the historic sites of the Chushingura.
+
+Ako has long been known as a town of salt production, and "Ako salt" is a nationally famous specialty. The city has facilities where one can learn the history and methods of salt, and one can engage with the culture of salt, Ako''s other face, alongside the Chushingura. Ako salt is also a popular item at the festival''s product market.
+
+Ako also faces the Seto Inland Sea and has scenic spots and hot springs such as Ako Misaki. As a sightseeing destination combining the seaside scenery overlooking the Harima Sea, the historic sites of the Chushingura, and the culture of salt, it draws many people throughout the year. By timing a visit to the Gishi Festival, one can plan an itinerary combining the festival, historic-site touring, and the bounty of the sea.
+
+## Related Information
+
+- **Month**: December (the 14th)
+- **Location**: Ako City, Hyogo Prefecture, Kinki region
+- **Origins**: Based on the raid on the Kira residence by the forty-seven ronin of Ako on December 14, 1702 (Genroku 15) (the Chushingura)
+- **Scale**: The largest event of Ako City; the 122nd occasion in 2025 (Reiwa 7); includes the Chushingura Parade and product market
+- **Central Shrine**: Ako Oishi Shrine (enshrined deities: the forty-seven retainers headed by Oishi Kuranosuke Yoshio, and Kayano Sanpei); founding permitted in 1900 (Meiji 33), enshrined in 1912 (Taisho 1)
+- **Organizer / Preservation Body**: Ako Gishi Festival Support Association / Ako City
+','ako-gishi-festival','ako-gishi-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 CREATE TABLE fetch_history (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             fetched_at TEXT NOT NULL,
