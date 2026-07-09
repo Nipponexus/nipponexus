@@ -5296,19 +5296,127 @@ Kurobe City and Unazuki Onsen lie within 30 minutes by car, making circuits comb
 - Character: Folk event, fire festival, prayer for fishing safety
 - Related: Suwa Shrine rituals
 ','guzuyaki-festival','guzuyaki-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11271139','たてもん祭り','Uozu Tatemon Festival','富山県魚津市の諏訪神社の夏季祭礼',NULL,'Q11631937','諏訪神社','Suwa Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Uozu-tatemon.jpg','https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%A6%E3%82%82%E3%82%93%E7%A5%AD%E3%82%8A',NULL,85,'drafted','たてもん祭りは、富山県魚津市の諏訪神社で毎年8月第1金曜・土曜に行われる夏季祭礼で、海上の安全と豊漁を祈願する、漁師町・魚津ならではの勇壮な祭りです。300年以上の歴史を持つとされ、2016年には「魚津のタテモン行事」として、ユネスコ無形文化遺産「山・鉾・屋台行事」の一つに登録されました。国の重要無形民俗文化財にも指定されている、貴重な伝統行事です。
+INSERT INTO "festivals" VALUES('Q11271139','たてもん祭り','Uozu Tatemon Festival','富山県魚津市の諏訪神社の夏季祭礼',NULL,'Q11631937','諏訪神社','Suwa Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Uozu-tatemon.jpg','https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%A6%E3%82%82%E3%82%93%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-祭りの主役である「たてもん」は、高さ約16メートルの大柱に、約90個もの提灯を吊り下げた、巨大な万灯（まんとう）です。その姿は帆船の帆柱を思わせ、まさに海の街にふさわしい意匠といえます。総重量約5トンにもなるこのたてもんを、ソリ状の車輪のない台に載せ、大勢の若衆が威勢のよい掛け声とともに諏訪神社の境内へと曳き入れます。
+たてもん祭り（魚津のタテモン行事）は、富山県魚津市の諏訪神社の例祭として行われる勇壮な火祭りで、高さ約16メートルの大柱に九十余りの提灯を三角形につるし下げた「たてもん」を、若衆が威勢よく曳きまわす夏の夜の風物詩です。漁師町・魚津の氏子たちが、大漁と航海・操業の安全を祈願して奉納する行事で、車輪のないそり台に立てられた巨大な万燈が、無数の提灯の灯りを揺らしながら夜の街を進む光景は、豪快さと華麗さをあわせ持っています。
 
-最大の見どころは、提灯に灯がともされたたてもんを、若衆が境内で勢いよく回転させる「回転奉納」です。闇夜に浮かび上がる90個の提灯が、ぐるぐると円を描いて回る光景は、幻想的でありながら迫力に満ち、見る者を魅了します。海の男たちの力強さと、灯りの美しさが一体となった、まさにこの祭りのクライマックスです。
+たてもんは、船型の台に立てた大柱に提灯を吊るした総重量約5トンにも及ぶ作り物で、約80人もの人手によって曳き動かされます。祭りのクライマックスでは、諏訪神社の境内でこの巨大なたてもんを激しく旋回させ、担ぎ手の力のほとばしりと海上に響く掛け声が、見る者の手に汗を握らせます。約300年の歴史をもつこの行事は、国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産にも登録されています。
 
-富山湾に面し、古くから漁業で栄えてきた魚津。海と共に生きてきた人々が、神への感謝と祈りを込めて受け継いできたたてもん祭りは、地域の信仰と暮らしが結晶した、北陸を代表する夏の伝統行事です。','The Tatemon Festival is a summer ritual held each year on the first Friday and Saturday of August at Suwa Shrine in Uozu City, Toyama Prefecture. A valiant festival distinctive to the fishing town of Uozu, it prays for safety at sea and bountiful catches. Said to have a history of more than 300 years, it was inscribed in 2016 as the "Uozu no Tatemon Gyoji" on UNESCO''s Representative List of the Intangible Cultural Heritage of Humanity, as part of the "Yama, Hoko, Yatai float festivals in Japan." It is also designated an Important Intangible Folk Cultural Property of Japan—a precious traditional event.
+## 歴史と由来
 
-The festival''s centerpiece, the "tatemon," is a giant illuminated structure consisting of a great pole about 16 meters tall from which some 90 lanterns are suspended. Its form recalls the mast of a sailing ship—a fitting design for a seaside town. Weighing about five tons in total, the tatemon is mounted on a sled-like base without wheels and hauled into the grounds of Suwa Shrine by throngs of young men shouting spirited chants.
+たてもん祭りの由来をたどると、およそ300年前から、大漁と海上の無事安全を祈る氏子たちの気持ちが、このような形をとるようになったと伝えられています。日本海に面した漁師町である魚津にとって、豊かな漁と船の安全は暮らしを支える切実な願いであり、その祈りが諏訪神社への奉納行事として結実したものが、たてもん祭りの原点です。
 
-The greatest highlight is the "rotating dedication," in which the young men vigorously spin the lantern-lit tatemon within the shrine grounds. The sight of 90 lanterns glowing in the dark night, tracing circle after circle as they whirl, is at once dreamlike and powerful, captivating all who watch. Uniting the strength of the men of the sea with the beauty of the lights, it is truly the climax of the festival.
+「たてもん」という名の由来には諸説あります。三方に贄者を山と積んで神前に供える形をかたどったものとも、全体が帆を上げた漁船をかたどったものともいわれ、また神前に供え捧げたてまつるという言葉がなまって「たてもん」と呼ばれるようになったとも伝えられています。いずれの説も、この行事が神への奉納と漁業への祈りに深く根ざしていることを物語っています。
 
-Facing Toyama Bay and long prosperous through fishing, Uozu is home to people who have lived alongside the sea. The Tatemon Festival, handed down with gratitude and prayers to the gods, is a crystallization of the region''s faith and way of life—and a leading summer tradition of the Hokuriku region.','uozu-tatemon-matsuri','uozu-tatemon-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+たてもんの形は、時代とともに大きく変化してきました。もともとは各町内がいくつかの提灯を台上に吊るして町内をかつぎまわったものでしたが、次第に提灯の数を増やし、明治の頃には25張、大正の始めには50張と数を重ね、今日のような九十余りの提灯を吊るす壮大な姿へと発展しました。また、下部がそり台になっているのは、昭和30年代初期まで諏訪神社の目の前が砂浜で海が続いており、その砂浜の上をたてもんが曳かれていた名残であるといわれています。
+
+文化財としての評価も段階的に高まってきました。昭和47年（1972年）10月には7基の「たてもん」が富山県の有形民俗文化財に指定され、昭和56年（1981年）には「魚津浦のタテモン行事」が記録作成等の措置を講ずべき無形の民俗文化財に選択されました。そして平成9年（1997年）12月15日、「魚津のタテモン行事」は国の重要無形民俗文化財に指定され、さらに平成28年（2016年）12月1日には、全国33件の「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録され、世界的にその価値が認められました。
+
+## 見どころ
+
+**高さ16メートルの巨大な万燈**
+たてもんの最大の特徴は、そり台に立てられた高さ約16メートルの大柱です。この大柱に九十余りの提灯を三角形につるし下げ、その下に絵額をつけた姿は、長さ10メートル・総重量約5トンにも及ぶ壮大なもので、夜空に浮かび上がる無数の灯りが漁船をかたどった万燈を美しく照らし出します。
+
+**境内での豪快な旋回**
+祭りの最大の見どころは、諏訪神社の境内で車輪のないたてもんを若い衆が威勢よく豪快に旋回させる場面です。重さ5トンの巨大な作り物を人の力だけで回すさまは、天地も躍動するような迫力に満ち、担ぎ手の力のほとばしりが観客を圧倒します。
+
+**七基のたてもんの競演**
+祭りの一日目・二日目の夜、諏訪町の氏子の町内から7台のたてもんが繰り出されます。はっぴ姿の威勢のよい若者たちによって曳きまわされる複数のたてもんが、それぞれの灯りを競い合うように街を進む光景は、漁師町ならではの活気にあふれています。
+
+**灯りと掛け声が織りなす夜の情景**
+何百という美しい提灯のあかりが夜空を彩り、若者たちの掛け声が海上に響きわたります。大太鼓や笛の音色も加わり、視覚と聴覚の両方で祭りの高揚を体感でき、豪快さと優美さが同居する夏の夜の情景が広がります。
+
+**向きの異なる諏訪五区のたてもん**
+諏訪5区（旧町内名・出村）のたてもんは、他の6基とは向きが違います。芯棒に付いている「諏訪神社」の額を海側に向け、飾りのない芯棒の背中側を宮に向けて奉納するという独特の作法を守っており、細部に地域の伝承が息づいています。
+
+**担い手として参加できる祭り**
+たてもん祭りは見るだけでなく、組み立てから山あげ、曳き手・担ぎ手、解体作業まで参加できるのも魅力です。参加者だけがまとえる町内ごとに柄の異なる法被は担ぎ手の士気を高め、地域内外の人々が力を合わせて祭りを支えています。
+
+## 開催情報・アクセス
+
+- 開催地：富山県魚津市諏訪町1-16 諏訪神社周辺
+- 開催時期：「じゃんとこい魚津まつり」の1日目・2日目の夜（2026年は8月7日・8日 20:30〜）
+- 文化財：国指定重要無形民俗文化財（平成9年＝1997年12月15日）／ユネスコ無形文化遺産「山・鉾・屋台行事」（2016年）／県指定有形民俗文化財（たてもん・昭和47年）
+- 運営主体：魚津たてもん保存会
+- アクセス：あいの風とやま鉄道魚津駅からタクシーで約10分、富山地方鉄道電鉄魚津駅から徒歩約20分、魚津ICから車で約15分
+- その他：夕方より会場周辺は車両通行止め。海上花火大会・キャンドルロード・UO!JAZZなど周辺で同時開催イベント多数
+
+## 周辺の見どころ
+
+魚津市は富山湾に面した漁業の町で、豊かな海の恵みと自然現象で知られています。春から初夏にかけて富山湾で見られる蜃気楼は魚津の代名詞ともいえる現象で、海岸線に沿って幻想的な光景が浮かび上がることがあります。埋没林博物館では、特別天然記念物に指定された魚津埋没林とあわせて蜃気楼についても学ぶことができます。
+
+祭りの会場となる諏訪神社の周辺には、たてもんの縮小版を常設展示するありそドームや新川文化ホールがあり、祭りの時期以外でもたてもんの姿を間近に見ることができます。巨大な万燈の構造をじっくり観察したい人には格好の場所です。
+
+たてもん祭りの二日目には、諏訪神社から歩いて10分ほどの距離で魚津まつり海上花火大会やUO!JAZZが開催されます。花火やジャズを楽しんでからたてもん祭りに移動すれば、魚津の夏の夜を存分に味わうことができ、複数のイベントが一度に楽しめるのも大きな魅力です。
+
+## 関連情報
+
+- 開催月：8月
+- 都道府県・地域：富山県（中部地方）
+- 起源：約300年前、大漁と海上安全を祈る氏子の奉納行事
+- たてもんの規模：高さ約16メートル・総重量約5トン・提灯90余り・7基
+- 文化財指定：国指定重要無形民俗文化財（1997年12月15日）
+- 国際認定：ユネスコ無形文化遺産「山・鉾・屋台行事」（2016年・全国33件の一つ）','## Overview
+
+The Tatemon Festival, known formally as the Tatemon event of Uozu, is a spirited fire festival held as the annual festival of Suwa Shrine in Uozu City, Toyama Prefecture. It is a signature scene of a summer night in which young men vigorously haul about the tatemon, a great pillar about 16 meters tall from which more than ninety lanterns are hung in a triangular shape. It is an observance in which the parishioners of the fishing town of Uozu dedicate the tatemon in prayer for a great catch and for safety in navigation and operation at sea, and the sight of the huge lantern structures, set upon runner-shaped bases without wheels, advancing through the night streets while their countless lantern lights sway, combines boldness and splendor.
+
+A tatemon is a fabricated object weighing about 5 tons in total, with lanterns hung on a great pillar set upon a boat-shaped base, and it is hauled and moved by as many as about 80 people. At the climax of the festival, this enormous tatemon is spun violently within the precincts of Suwa Shrine, and the outpouring of the bearers'' strength and the shouts echoing over the sea make the onlookers grip their hands in suspense. This observance, with a history of about 300 years, has been designated a National Important Intangible Folk Cultural Property and inscribed on the UNESCO Intangible Cultural Heritage list.
+
+## History and Origins
+
+Tracing the origin of the Tatemon Festival, it is said that from about 300 years ago the feelings of the parishioners praying for a great catch and for safety at sea gradually took this form. For Uozu, a fishing town facing the Sea of Japan, an abundant catch and the safety of the boats were an earnest wish that supported daily life, and the form in which that prayer came to fruition as an observance of dedication to Suwa Shrine is the starting point of the Tatemon Festival.
+
+There are several theories about the origin of the name tatemon. It is said to imitate the form of offerings heaped up in mountains on three sides and presented before the deity, or to imitate a whole fishing boat with its sail raised, and it is also said that the word for presenting and dedicating offerings before the deity became corrupted into the name tatemon. Every theory tells of how deeply this observance is rooted in dedication to the deity and in prayer for the fishing industry.
+
+The form of the tatemon has changed greatly with the passage of time. Originally each district hung several lanterns on a base and carried it about the district, but the number of lanterns gradually increased, reaching 25 in the Meiji era and 50 at the beginning of the Taisho era, developing into the grand form of today with more than ninety lanterns hung. It is also said that the reason the lower part is a runner-shaped base is a vestige of the days until the early Showa 30s, when a sandy beach spread out and the sea continued right in front of Suwa Shrine, and the tatemon was hauled over that sand.
+
+The evaluation of it as a cultural property has also risen in stages. In October 1972 the seven tatemon were designated a Tangible Folk Cultural Property of Toyama Prefecture, and in 1981 the Tatemon event of Uozu Bay was selected as an intangible folk cultural property for which measures such as the making of records should be taken. Then, on December 15, 1997, the Tatemon event of Uozu was designated a National Important Intangible Folk Cultural Property, and furthermore, on December 1, 2016, it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the 33 float festivals of Japan under the title of Yama, Hoko, Yatai float festivals, and its value was recognized worldwide.
+
+## Highlights
+
+**A Giant Lantern Structure 16 Meters Tall**
+The greatest feature of the tatemon is the great pillar about 16 meters tall set upon the runner-shaped base. The figure, with more than ninety lanterns hung in a triangular shape from this great pillar and a painted panel attached below, is a grand thing reaching 10 meters in length and about 5 tons in total weight, and the countless lights floating up into the night sky beautifully illuminate the lantern structure shaped like a fishing boat.
+
+**Bold Spinning within the Precincts**
+The greatest highlight of the festival is the scene in which young men vigorously and boldly spin the wheelless tatemon within the precincts of Suwa Shrine. The sight of turning a huge fabricated object weighing 5 tons by human strength alone is full of a force that seems to make heaven and earth pulsate, and the outpouring of the bearers'' strength overwhelms the spectators.
+
+**A Contest of Seven Tatemon**
+On the nights of the first and second days of the festival, seven tatemon are brought out from the parishioner districts of Suwa Town. The sight of multiple tatemon, hauled about by spirited young people in happi coats, advancing through the streets as if competing with one another''s lights, brims with a vitality that is unique to a fishing town.
+
+**A Night Scene Woven of Lights and Shouts**
+The lights of hundreds of beautiful lanterns color the night sky, and the shouts of the young people echo out over the sea. The tones of great drums and flutes join in as well, so that one can feel the exhilaration of the festival with both sight and hearing, and a scene of a summer night unfolds in which boldness and grace coexist.
+
+**The Differently Oriented Tatemon of Suwa District Five**
+The tatemon of Suwa District Five, whose old district name is Demura, faces a different direction from the other six. It preserves a distinctive practice of dedicating it with the Suwa Shrine plaque attached to the core pillar facing the sea and the undecorated back side of the core pillar facing the shrine, and the traditions of the locality live on in such details.
+
+**A Festival You Can Join as a Bearer**
+Part of the appeal of the Tatemon Festival is that you can take part not only as a spectator but from assembly, raising the pillar, hauling and bearing, to the dismantling work. The happi coats, which only participants may wear and which differ in pattern by district, raise the morale of the bearers, and people from within and beyond the region join their strength to support the festival.
+
+## Event Information and Access
+
+- Location: Around Suwa Shrine, Suwa-cho 1-16, Uozu City, Toyama Prefecture
+- Dates: The nights of the first and second days of the Jantokoi Uozu Festival (August 7 and 8 in 2026, from 20:30)
+- Cultural property: National Important Intangible Folk Cultural Property (December 15, 1997); UNESCO Intangible Cultural Heritage as a Yama, Hoko, Yatai float festival (2016); Tangible Folk Cultural Property of Toyama Prefecture (the tatemon, 1972)
+- Operating body: Uozu Tatemon Preservation Society
+- Access: About 10 minutes by taxi from Uozu Station on the Ainokaze Toyama Railway, about 20 minutes on foot from Dentetsu-Uozu Station of the Toyama Chiho Railway, about 15 minutes by car from the Uozu Interchange
+- Note: The area around the venue is closed to vehicles from the evening. Many events are held nearby at the same time, including a maritime fireworks display, the Candle Road, and UO!JAZZ
+
+## Around the Area
+
+Uozu City is a fishing town facing Toyama Bay, known for the rich bounty of the sea and for its natural phenomena. The mirage seen over Toyama Bay from spring into early summer is a phenomenon that could be called a symbol of Uozu, and a fantastical scene sometimes appears along the coastline. At the Buried Forest Museum, visitors can learn about the mirage together with the Uozu buried forest, which is designated a Special Natural Monument.
+
+Around Suwa Shrine, the site of the festival, there are the Ariso Dome and the Niikawa Culture Hall, which permanently display scaled-down versions of the tatemon, so that one can see the tatemon up close even outside the festival season. They are an ideal place for those who wish to observe the structure of the giant lantern object at leisure.
+
+On the second day of the Tatemon Festival, the Uozu Festival maritime fireworks display and UO!JAZZ are held about a ten-minute walk from Suwa Shrine. If one enjoys the fireworks and jazz before moving on to the Tatemon Festival, one can savor the summer night of Uozu to the full, and it is a great attraction that several events can be enjoyed at once.
+
+## Related Information
+
+- Month: August
+- Prefecture and region: Toyama Prefecture (Chubu region)
+- Origin: An observance of dedication by parishioners praying for a great catch and safety at sea about 300 years ago
+- Scale of the tatemon: About 16 meters tall, about 5 tons in total weight, more than 90 lanterns, 7 structures
+- Cultural property designation: National Important Intangible Folk Cultural Property (December 15, 1997)
+- International recognition: UNESCO Intangible Cultural Heritage as a Yama, Hoko, Yatai float festival (2016, one of 33 in Japan)','uozu-tatemon-matsuri','uozu-tatemon-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11268196','さぬき映画祭','Sanuki Film Festival','香川県内で毎年度開催されている映画祭',NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11261786','おぢや風船一揆','Ojiya balloon festival','新潟県小千谷市で行われる熱気球と花火によるイベント',NULL,'Q819174','小千谷市','Ojiya','新潟県','chubu',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/2006%20Ojiya%20balloon%20festival%20006.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%A2%E3%82%84%E9%A2%A8%E8%88%B9%E4%B8%80%E6%8F%86',NULL,85,'drafted','おぢや風船一揆（おぢやふうせんいっき）は、新潟県小千谷市で毎年2月下旬に開催される、熱気球と花火を組み合わせた冬の祭典です。雪深い越後の地で、純白の雪原を舞台に色とりどりの熱気球が空へと舞い上がる光景は、他では味わえない幻想的な美しさを誇ります。「一揆」というユニークな名称は、かつてこの地で起きた百姓一揆の歴史にちなみ、市民が一丸となって冬の祭りを盛り上げようという心意気を込めて名付けられました。
 
