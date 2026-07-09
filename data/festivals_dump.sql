@@ -12966,15 +12966,121 @@ A little farther afield, one can enjoy sites related to the summer Owari Tsushim
 - Related festival: Distinct from the summer Owari Tsushima Tenno Festival (a float-boat rite and UNESCO Intangible Cultural Heritage); the autumn festival features land-borne floats and stone-gathering carts as its main attraction','owari-tsushima-autumn-festival','owari-tsushima-autumn-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21654718','まほろば夏まつり',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.44202778,140.88121389,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24872241','笠間の陶炎祭',NULL,'茨城県笠間市で行われる陶器市',NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AC%A0%E9%96%93%E3%81%AE%E9%99%B6%E7%82%8E%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q22123263','十二日まち','Jūninichi-machi','さいたま市浦和区で開かれる大歳の市','festival in Urawa-ku, Saitama',NULL,NULL,NULL,'埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A15.JPG','https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A1',NULL,85,'drafted','十二日まち（じゅうにちまち）は、埼玉県さいたま市浦和区の調神社(つきじんじゃ)で、毎年12月12日に開かれる年末の市(いち)である。「大歳の市(おおとしのいち)」とも呼ばれ、一年の締めくくりに、新年の幸福を願う縁起物の熊手などを買い求める人々で大いに賑わう、浦和の冬の風物詩である。
+INSERT INTO "festivals" VALUES('Q22123263','十二日まち','Jūninichi-machi','さいたま市浦和区で開かれる大歳の市','festival in Urawa-ku, Saitama',NULL,NULL,NULL,'埼玉県','kanto',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A15.JPG','https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A1',NULL,85,'drafted','## 概要
 
-この市の主役は、福を「かきこむ」とされる縁起物の熊手である。色鮮やかに飾られた大小さまざまな熊手が露店に所狭しと並び、商売繁盛や開運招福を願う人々が、その年の商いの成果に応じて、前年より少し大きな熊手を買い求めるのが習わしとされる。熊手を買い求める際の、店主と客との威勢のよい値段交渉と、商談成立を祝う手締めの音も、年の市ならではの活気ある光景である。
+十二日まち（じゅうにんちまち）は、埼玉県さいたま市浦和区岸町に鎮座する調神社（つきじんじゃ）を中心に、毎年12月12日に開催される歳末の大歳の市です。正月を迎える準備の縁起物を求める人々でにぎわい、浦和のまちに一年の締めくくりを告げる年中行事として広く親しまれています。境内から調公園、さらに旧中山道沿いへと約600店もの露店が連なり、さいたま市域でも屈指の規模を誇る年末の風物詩となっています。
 
-調神社は、「つきのみや」とも呼ばれ、狛犬の代わりにうさぎが鎮座することで知られる珍しい古社である。十二日まちには、この調神社の参道から周辺の通りにかけて、熊手のほかにも数百もの露店が立ち並び、夜遅くまで多くの参拝客で埋め尽くされる。一年の感謝を捧げ、来る年の幸運を願うこの市は、師走のさいたまに古くから受け継がれてきた、年の瀬を告げる大切な年中行事である。','Jūninichi-machi is a year-end market held every December 12th at Tsuki Shrine in Urawa Ward, Saitama City, Saitama Prefecture. Also called the "Ōtoshi no Ichi" (great year-end market), it is a winter tradition of Urawa that bustles greatly with people seeking auspicious rakes and other lucky charms to wish for happiness in the new year at the close of the year.
+この市の最大の特徴は、調神社で授与される「かっこめ」と呼ばれるミニ竹熊手にあります。福をかき込むという縁起にちなんだ授与品で、これを求めて訪れる参拝者が絶えません。単なる露店市ではなく、神社の授与行事と門前市が一体となって受け継がれてきた点に、この行事の信仰的な奥行きがあります。明治時代から続くとされる歴史を持ち、地域の人々の暮らしの節目として今なお強く根づいています。
 
-The stars of this market are the auspicious rakes said to "rake in" good fortune. Vividly decorated rakes of all sizes line the stalls densely, and it is customary for people wishing for prosperous business and good luck to buy a rake slightly larger than the previous year''s, in keeping with that year''s commercial success. The spirited price negotiations between shopkeeper and customer when purchasing a rake, and the sound of the rhythmic hand-clapping celebrating a closed deal, are also lively scenes unique to a year-end market.
+## 歴史と由来
 
-Tsuki Shrine, also called "Tsuki no Miya," is an unusual ancient shrine known for having rabbits seated in place of the usual guardian lion-dogs. At Jūninichi-machi, several hundred stalls in addition to rake vendors line the shrine''s approach and the surrounding streets, packed with crowds of worshippers until late at night. Offering thanks for the year and praying for good fortune in the coming one, this market is an important annual observance long handed down in December in Saitama, heralding the year''s end.','juninichi-machi','juninichi-machi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+十二日まちは、調神社の年末の祭事に付随して発展した大歳の市を起源とします。大歳の市とは、年の瀬に正月用の品々を売り買いするために立った市のことで、全国各地の社寺の門前で古くから開かれてきました。調神社の十二日まちも、その一つとして参拝と買い物を兼ねた人々の往来のなかから自然に形づくられていったと考えられています。
+
+明治時代にはすでに市として賑わいをみせていたと伝えられ、当時は旧中山道という主要街道に面した立地の良さも、多くの人と物が集まる大きな要因となりました。浦和は中山道の宿場町として交通の要衝であったため、街道を行き交う人々が年末の縁起物を買い求める場として、この市は着実に規模を広げていったのです。街道と門前市という二つの人の流れが重なったことが、十二日まちを大規模な歳末市へと育てた背景にあります。
+
+開催日が12月12日に定まっていることも、この行事の名の由来そのものとなっています。師走の半ばというまさに年越し準備の最盛期にあたり、熊手や神棚、だるま、縁起物といった正月用品を一度にそろえられる貴重な機会として、地域の人々の暮らしに深く組み込まれていきました。日付を動かさず毎年同じ日に開くことで、人々の生活リズムのなかに確固たる年中行事としての位置を占めてきたといえます。
+
+調神社そのものの特異な性格も、この市に独特の色合いを与えています。調神社は鳥居を持たないことで知られ、狛犬の代わりに兎の像が置かれるという全国でも珍しい神社です。この兎は社名の「つき」が「月」に通じることに由来するとされ、月と兎の結びつきが信仰の核となっています。こうした個性的な神社を舞台とすることで、十二日まちは単なる歳末市を超えた、土地固有の信仰と物語をまとった行事として今日まで伝わってきました。
+
+## 見どころ
+
+**かっこめ（ミニ竹熊手）の授与**
+十二日まち最大の名物が、調神社の授与所で授けられる「かっこめ」です。福や運をかき込むという願いを込めた小ぶりの竹熊手で、初穂料を納めて受けます。授与は当日おおむね朝から夜遅くまで行われ、一年の幸運を願う人々が次々と授与所を訪れます。この縁起物を毎年新しく受けることで年ごとの福を呼び込むという習わしが、この行事の信仰の中心を担っています。
+
+**約600店に及ぶ露店の連なり**
+境内から調公園、旧中山道沿いにかけて、約600ものの露店が軒を連ねます。熊手や神棚、だるま、招き猫といった正月の縁起物から、食べ物の屋台まで多彩な店が並び、歩くだけでも年の瀬の高揚感を存分に味わえます。これほどの露店が集中する市はさいたま市域でも数少なく、規模そのものが大きな見どころとなっています。
+
+**古い熊手・神札の納め所**
+新しい縁起物を求めるだけでなく、前年に受けた古い熊手や神札を神社に納める場も設けられます。境内前の参道南側などに納め所が置かれ、一年間見守ってくれた縁起物への感謝を込めて手放し、また新たな福を迎えるという循環がここで完結します。授与と返納が一体となっている点が、この行事の信仰的な完成度を示しています。
+
+**雨天決行の歳末行事**
+十二日まちは雨天でも開催される行事として知られています。12月12日という日付を厳守して毎年欠かさず開くことで、地域の人々にとって年末の確実な予定として定着してきました。天候に左右されず必ず立つという安心感が、世代を超えて受け継がれる年中行事としての強さを支えています。
+
+**兎の神社という舞台**
+市の中心となる調神社は、鳥居がなく兎の像が参拝者を迎える全国的にも珍しい神社です。境内のあちこちに配された兎の意匠を探しながら参拝するのも、この行事ならではの楽しみです。個性豊かな社の空気が、年末の市に華やぎと物語性を添えています。
+
+## 開催情報・アクセス
+
+- 開催地: 埼玉県さいたま市浦和区岸町 調神社および周辺
+- 会場: 調神社境内・調公園・旧中山道沿い
+- 開催日: 毎年12月12日（雨天決行）
+- 授与時間: かっこめ授与は授与所にて当日朝から夜遅くまで（おおむね10時から22時頃）
+- 露店: 境内周辺は日中から夜まで、道路部は昼過ぎから夜にかけて営業
+- アクセス: JR浦和駅西口から徒歩約10分
+
+## 周辺の見どころ
+
+調神社の周辺には、浦和のまちの歴史と文化を感じられるスポットが点在しています。調神社に隣接する調公園は市民の憩いの場で、十二日まちの当日には露店の一部がここまで広がり、賑わいの舞台の一つとなります。ふだんは静かな公園も、この日ばかりは年の瀬の活気に包まれます。
+
+浦和は中山道の宿場町として発展した歴史を持つ土地で、旧中山道沿いには往時の街道の面影を伝える町並みや商店が残ります。十二日まちの露店もこの旧街道に沿って連なるため、市を歩きながら宿場町としての浦和の歴史を体感できます。かつて街道を行き交った人々の営みに思いを馳せながら散策するのも一興です。
+
+また、浦和はサッカーのまちとしても全国に知られ、駅周辺には飲食店や商業施設が充実しています。十二日まちで縁起物を求めた後、まちなかで浦和ならではの食や買い物を楽しむこともでき、年末のひとときを一日かけて満喫できる立地の良さも魅力の一つです。
+
+## 関連情報
+
+- 開催月: 12月（毎年12月12日）
+- 所在地: 埼玉県さいたま市浦和区（関東地方）
+- 会場: 調神社
+- 種別: 大歳の市・歳末の縁起物市
+- 特色: 鳥居がなく兎を祀る調神社の門前市・約600店の露店・ミニ竹熊手「かっこめ」の授与
+','## Overview
+
+Juninichi-machi is a year-end market held every December 12 centered on Tsuki Shrine (Tsuki Jinja) in Kishimachi, Urawa Ward, Saitama City, Saitama Prefecture. Crowds gather to buy lucky charms in preparation for the New Year, and the event has long been cherished as an annual tradition that signals the close of the year for the town of Urawa. Roughly six hundred stalls line the route from the shrine precincts through Tsuki Park and along the old Nakasendo road, making it one of the largest year-end fairs in the Saitama City area.
+
+The most distinctive feature of this market is the small bamboo rake known as kakkome, granted at Tsuki Shrine. Named for the wish to rake in good fortune, this charm draws a constant stream of worshippers throughout the day. Rather than being merely a stall market, the event carries a deeper religious dimension because the shrine''s charm-granting ritual and the market before its gates have been handed down together as a single unified tradition. With a history said to date back to the Meiji era, the market remains firmly rooted as a seasonal milestone in the lives of local people.
+
+## History and Origins
+
+Juninichi-machi traces its origins to the year-end market that developed alongside the winter rites of Tsuki Shrine. A year-end market, or ooseki no ichi, refers to a fair held at the turn of the year for buying and selling New Year goods, a custom long practiced before shrines and temples across Japan. The market at Tsuki Shrine likewise took shape naturally out of the flow of people who came both to worship and to shop, gradually crystallizing into the event known today.
+
+By the Meiji era the market was already flourishing, and the advantage of facing the old Nakasendo, one of the country''s major highways, was a great factor in drawing people and goods together. Because Urawa prospered as a post town on the Nakasendo and served as a hub of traffic, travelers passing along the road sought their year-end charms here, and the market steadily grew in scale. The overlap of two streams of people, the highway traffic and the crowds before the shrine gates, lay behind the growth of Juninichi-machi into a large year-end fair.
+
+The fact that the market is fixed on December 12 is itself the origin of its name, which literally means the twelfth-day market. Falling in the middle of the twelfth month, at the very height of preparations for the New Year, it became deeply woven into the lives of local people as a precious chance to gather rakes, household altars, daruma dolls, and other New Year goods all at once. By opening on the same date every year without moving it, the market secured a firm place as an annual tradition within the rhythm of daily life.
+
+The unusual character of Tsuki Shrine itself lends the market a distinctive color. Tsuki Shrine is known for having no torii gate, and in place of the usual guardian dogs it is watched over by statues of rabbits, a rarity among shrines nationwide. These rabbits are said to derive from the reading of the shrine''s name, tsuki, which also means moon, and the link between moon and rabbit lies at the heart of its faith. Set against such an individual shrine, Juninichi-machi has been passed down to the present day as an event clothed in the local faith and lore that make it more than a simple year-end market.
+
+## Highlights
+
+**Granting of the Kakkome Bamboo Rake**
+The greatest attraction of Juninichi-machi is the kakkome granted at the charm office of Tsuki Shrine. This small bamboo rake embodies the wish to rake in fortune and luck, and is received in exchange for an offering. The granting continues on the day from roughly morning until late at night, as people come one after another to pray for a year of good fortune. The custom of receiving this charm anew each year to call in fresh blessings forms the religious core of the event.
+
+**Some Six Hundred Stalls in a Long Line**
+From the shrine precincts through Tsuki Park and along the old Nakasendo, roughly six hundred stalls stand side by side. Ranging from New Year charms such as rakes, altars, daruma dolls, and beckoning cats to food stalls of every kind, they let visitors savor the excitement of the year''s end simply by walking among them. Few markets in the Saitama City area gather such a concentration of stalls, and the sheer scale itself is a major highlight.
+
+**Place to Return Old Rakes and Talismans**
+Beyond seeking new charms, the market also provides a place to return old rakes and talismans received the previous year. A returning point is set up on the south side of the front approach to the shrine, where visitors let go of the charms that watched over them for a year with gratitude, completing a cycle of welcoming new fortune. The integration of granting and returning shows the religious completeness of this tradition.
+
+**A Year-End Event Held Rain or Shine**
+Juninichi-machi is known as an event that goes ahead even in the rain. By strictly keeping to the date of December 12 and never failing to open each year, it has become a fixed and reliable point in the calendar for local people. The reassurance that it will always take place regardless of the weather underpins its strength as a tradition passed down across generations.
+
+**The Shrine of the Rabbit**
+Tsuki Shrine, the heart of the market, is a nationally rare shrine with no torii gate, where statues of rabbits greet worshippers. Searching out the rabbit motifs placed throughout the precincts as one prays is a pleasure unique to this event. The distinctive atmosphere of the shrine adds brightness and a sense of story to the year-end market.
+
+## Event Information and Access
+
+- Location: Tsuki Shrine and surroundings, Kishimachi, Urawa Ward, Saitama City, Saitama Prefecture
+- Venues: Tsuki Shrine precincts, Tsuki Park, along the old Nakasendo
+- Date: December 12 every year (held rain or shine)
+- Granting hours: Kakkome is granted at the charm office from morning until late at night on the day (roughly 10:00 to 22:00)
+- Stalls: The shrine area operates from daytime into the night, and the road section from early afternoon into the evening
+- Access: About a 10-minute walk from the West Exit of JR Urawa Station
+
+## Nearby Attractions
+
+The area around Tsuki Shrine is dotted with spots where one can feel the history and culture of the town of Urawa. Tsuki Park, adjacent to the shrine, is a place of rest for local residents, and on the day of Juninichi-machi some of the stalls extend as far as here, making it one of the stages of the festivities. Even the normally quiet park is wrapped in the vigor of the year''s end on this single day.
+
+Urawa is a place that grew as a post town on the Nakasendo, and along the old Nakasendo remain townscapes and shops that convey the appearance of the highway in former times. Because the stalls of Juninichi-machi also line this old road, one can experience Urawa''s history as a post town while walking through the market. Strolling with thoughts of the lives of the people who once passed along the highway is a pleasure in itself.
+
+Urawa is also known nationwide as a town of soccer, and the area around the station is well supplied with restaurants and commercial facilities. After seeking lucky charms at Juninichi-machi, visitors can enjoy food and shopping unique to Urawa in the town center, and the convenient location that lets one savor the year-end hours over a full day is another of its charms.
+
+## Related Information
+
+- Month: December (every year on December 12)
+- Location: Urawa Ward, Saitama City, Saitama Prefecture (Kanto region)
+- Venue: Tsuki Shrine
+- Type: Year-end market and fair of lucky charms
+- Features: A market before the gates of Tsuki Shrine, which has no torii and enshrines rabbits; roughly six hundred stalls; the granting of the kakkome bamboo rake
+','juninichi-machi','juninichi-machi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21655120','YOSAKOI&ねぷたinとよさと',NULL,NULL,NULL,NULL,NULL,NULL,'青森県','tohoku',38.58228333,141.24588889,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/YOSAKOI%26%E3%81%AD%E3%81%B7%E3%81%9Fin%E3%81%A8%E3%82%88%E3%81%95%E3%81%A8',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28686932','べっぷ火の海まつり','Beppu Hinoumi Matsuri',NULL,'festival','Q273880','別府市','Beppu','大分県','kyushu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%B9%E3%81%A3%E3%81%B7%E7%81%AB%E3%81%AE%E6%B5%B7%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28686621','とよはしまちなかスロータウン映画祭',NULL,NULL,NULL,'Q336431','豊橋市','Toyohashi','愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%88%E3%81%AF%E3%81%97%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
