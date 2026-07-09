@@ -1597,15 +1597,123 @@ Beyond the festival itself, Koenji is one of Tokyo''s most distinctive neighborh
 
 Access to the festival from central Tokyo is straightforward. Koenji is approximately seven minutes from Shinjuku Station on the Chuo Line rapid service, making it possible to attend the festival as a side excursion during a broader Tokyo itinerary. Visitors should expect dense crowds, particularly during the peak evening hours, and may find it helpful to arrive in the late afternoon to secure a comfortable viewing position. Light summer clothing, a fan, and a water bottle are advisable, as late August in Tokyo brings high temperatures and humidity that persist well into the night.','koenji-awa-odori','koenji-awa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11255045','神嘗祭','Kanname-no-Matsuri','宮中および伊勢神宮で行われる祭祀','Japanese festival','Q687168','伊勢神宮','Ise Jingū','三重県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%98%97%E7%A5%AD','https://en.wikipedia.org/wiki/Kannamesai_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q289513','チャグチャグ馬コ','Chagu Chagu Umakko','岩手県滝沢市から盛岡市で実施される、農耕馬への感謝の祭り','horse festival in Morioka, Japon',NULL,NULL,NULL,'岩手県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chagu-chagu%20Umakko%20parade%20near%20the%20Nakanohashi%20Bridge%202023b.jpg','https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B0%E3%83%81%E3%83%A3%E3%82%B0%E9%A6%AC%E3%82%B3','https://en.wikipedia.org/wiki/Chagu_Chagu_Umakko',85,'drafted','チャグチャグ馬コ（チャグチャグうまコ）は、岩手県滝沢市から盛岡市にかけて、毎年6月の第2土曜日に行われる、農耕馬への感謝を捧げる祭りである。色鮮やかな装束で着飾った約100頭もの馬が、鈴の音を響かせながら行進する、心温まる初夏の風物詩として知られ、国の無形民俗文化財に指定されている。
+INSERT INTO "festivals" VALUES('Q289513','チャグチャグ馬コ','Chagu Chagu Umakko','岩手県滝沢市から盛岡市で実施される、農耕馬への感謝の祭り','horse festival in Morioka, Japon',NULL,NULL,NULL,'岩手県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chagu-chagu%20Umakko%20parade%20near%20the%20Nakanohashi%20Bridge%202023b.jpg','https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B0%E3%83%81%E3%83%A3%E3%82%B0%E9%A6%AC%E3%82%B3','https://en.wikipedia.org/wiki/Chagu_Chagu_Umakko',85,'drafted','## 概要
 
-「チャグチャグ」という愛らしい名は、馬の体に取り付けられた多数の鈴が、馬の歩みに合わせて「チャグチャグ」と涼やかな音を奏でることに由来する。かつて農耕や運搬に欠かせない大切な働き手であった馬を労い、その健康と安全を願う行事として、古くから受け継がれてきた。岩手は古来「南部駒(なんぶこま)」の産地として知られる馬の名産地であり、人と馬が深く結びついた地域文化を背景に持つ。
+チャグチャグ馬コ（ちゃぐちゃぐうまこ）は、岩手県の滝沢市から盛岡市にかけて、毎年6月の第二土曜日に行われる伝統行事です。色鮮やかな装束と馬具で美しく飾った農用馬が、滝沢市の鬼越蒼前（おにこしそうぜん）神社から盛岡市の盛岡八幡宮までの約十四キロメートルの道のりを、約四時間かけて行進します。「チャグチャグ」と涼やかに鳴り響く鈴の音が名の由来であり、この音は環境省の「残したい日本の音風景百選」にも選ばれています。
 
-祭りの当日、色とりどりの華やかな装束「華鞍(はなぐら)」をまとった馬たちが、滝沢市の鬼越蒼前神社(おにこしそうぜんじんじゃ)を出発し、盛岡市の盛岡八幡宮までの約13キロメートルの道のりを行進する。子どもを乗せた馬の列が、初夏の岩手路をのんびりと進む光景は牧歌的で、沿道の人々を和ませる。鈴の音とともに進む馬コの行列は、人と馬が共生してきた東北の歴史と、動物への感謝の心を今に伝える、岩手の誇る貴重な民俗行事である。','Chagu Chagu Umakko is a festival offering thanks to farm horses, held from Takizawa to Morioka in Iwate Prefecture on the second Saturday of June each year. Known as a heartwarming early-summer tradition in which around 100 horses dressed in vividly colored attire march while their bells ring out, it is designated an Important Intangible Folk Cultural Property of Japan.
+この行事の最大の特徴は、馬産地・岩手ならではの、人と馬との深い結びつきを今に伝える点にあります。華やかに着飾った馬コが子どもを乗せて南部盛岡の街なかをゆっくりと練り歩く光景は、のどかで心和むものであり、多くの見物客を魅了してきました。農民が愛馬を大切に思う気持ちから生まれた素朴な祭りが、地域の人々の手で守り継がれ、全国に知られる岩手の初夏の風物詩となっています。
 
-The endearing name "Chagu Chagu" derives from the cool sound—"chagu chagu"—made by the many bells attached to the horses'' bodies as they move in step with the horses'' gait. It has long been handed down as an event to console horses, once indispensable workers for cultivation and transport, and to pray for their health and safety. Iwate has been known since ancient times as a famous horse-producing region for the "Nanbu koma," with a regional culture in which people and horses are deeply connected as its backdrop.
+## 歴史と由来
 
-On the day of the festival, horses clad in colorful and gorgeous "hana-gura" attire depart from Onikoshi Sōzen Shrine in Takizawa and march the roughly 13-kilometer route to Morioka Hachimangū in Morioka. The sight of the procession of horses carrying children, advancing leisurely along the early-summer roads of Iwate, is pastoral and soothes the people along the route. The procession of horses advancing to the sound of bells is a precious folk event of which Iwate is proud, conveying to this day the history of the Tōhoku region where people and horses have coexisted, and the spirit of gratitude toward animals.','chagu-chagu-umakko','chagu-chagu-umakko',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+チャグチャグ馬コが生まれた岩手県は、古くから馬産地として全国に知られ、人々は馬と寄り添う暮らしを営んできました。旧暦の端午の節句にあたるこの時期は、田植えの準備で馬が疲れ果てる頃でもあります。その馬を癒やし、無病息災を祈るために鬼越蒼前神社へ参詣したことが、チャグチャグ馬コのルーツとされています。農民が労を共にした愛馬を大切に思う気持ちから、この祭りは自然に生まれたのです。
+
+祭りの信仰の中心にあるのが「蒼前様（そうぜんさま）」への崇敬です。蒼前神は馬の守護神として東北一帯で広く信仰されてきた存在で、農耕や運搬に欠かせない馬の無事と健康を願う人々の祈りが、蒼前神社への参詣という形で結実しました。生業と信仰が分かちがたく結びついたこの祭りには、馬とともに生きてきた岩手の人々の暮らしの記憶が刻まれています。
+
+馬を色鮮やかに着飾る文化が花開いたのは、江戸中期のことといわれています。蒼前神社へのお詣りが盛んになるなかで、愛馬を美しく飾り立てる風習が流行し、装束の作り方は家々で異なる独自のものとして代々受け継がれてきました。一頭の馬につけられる鈴の数は約七百個にもおよび、この無数の鈴が生み出す音こそが「チャグチャグ」の名の由来です。装束製作の技術は今日でも、農作業が落ち着く冬場に講習会を開いて継承されています。
+
+こうして受け継がれてきたチャグチャグ馬コは、その文化的価値の高さから、昭和五十三年（1978年）に文化庁から「記録作成等の措置を講ずべき無形の民俗文化財」に選択されました。さらに鈴の音は「残したい日本の音風景百選」にも選ばれ、視覚だけでなく聴覚の面からもこの行事の価値が広く認められています。参加する人々で構成される同好会が、農用馬を飼い続け、引き馬や装束製作の技術を守る活動を通じて、この祭りを未来へとつないでいます。
+
+## 見どころ
+
+**約十四キロを行進する着飾った馬コ**
+最大の見どころは、色鮮やかな装束と馬具で美しく飾られた農用馬が、鬼越蒼前神社から盛岡八幡宮までの約十四キロメートルを行進する光景です。近年は数十頭の馬コが連なり、約四時間をかけてゆっくりと進みます。田園風景から市街地へと移りゆく道のりを、着飾った馬たちが練り歩く姿は、初夏の岩手ならではの情趣に満ちています。
+
+**チャグチャグと響く鈴の音**
+一頭あたり約七百個ともいわれる鈴が、馬の歩みに合わせて「チャグチャグ」と涼やかに鳴り響きます。この無数の鈴の音が幾重にも重なって街なかに広がるさまは、目だけでなく耳で楽しむ祭りの醍醐味です。環境省の「残したい日本の音風景百選」に選ばれたこの音色は、チャグチャグ馬コを象徴する存在となっています。
+
+**家ごとに異なる華やかな装束**
+馬コを飾る装束は、家々によって作り方が異なり、代々受け継がれてきた独自のものです。色鮮やかな布や房、飾り金具などで丹念に飾られた馬の姿は一頭ごとに個性があり、見比べる楽しみがあります。冬場の講習会で技術が継承されている点にも、この祭りを支える人々の熱意が表れています。
+
+**子どもを乗せた馬コの行進**
+着飾った馬コには子どもが乗せられ、街なかを行進します。馬と子どもが一体となったほほえましい光景は、馬とともに生きてきた地域の暮らしと、次代への継承への願いを映し出しています。愛らしい姿は見物客の心を和ませ、この祭りののどかな魅力を象徴しています。
+
+**蒼前神社から盛岡八幡宮への参詣**
+祭りは滝沢市の鬼越蒼前神社での参拝に始まり、盛岡市の盛岡八幡宮を目指して進みます。馬の守護神・蒼前様への祈りを起点とし、盛岡の総鎮守である八幡宮へと至るこの行程そのものが、祭りの信仰的な意味を体現しています。二つの神社を結ぶ道のりに、人と馬の無事を願う祈りが込められています。
+
+## 開催情報・アクセス
+
+- 開催地: 岩手県滝沢市・盛岡市
+- 会場: 鬼越蒼前神社（出発）から盛岡八幡宮（到着）までの約14km
+- 開催日: 毎年6月の第2土曜日
+- 所要: 約4時間かけて行進
+- 文化財等: 記録作成等の措置を講ずべき無形の民俗文化財（1978年選択）・鈴の音は「残したい日本の音風景100選」選定
+- アクセス: 出発地の鬼越蒼前神社は滝沢市。行進は盛岡市中心部・盛岡駅前などを経て盛岡八幡宮へ
+
+## 周辺の見どころ
+
+チャグチャグ馬コの終着点である盛岡八幡宮は、盛岡の総鎮守として広く信仰を集める神社で、荘厳な社殿を構えています。祭りの行程の締めくくりとして参詣される場であり、盛岡の街の歴史と信仰の中心を担ってきました。祭りの見学とあわせて参拝すれば、この行事の信仰的な背景をより深く感じ取ることができます。
+
+盛岡市は、豊かな自然と歴史文化が調和した城下町として知られています。市内を流れる川や岩手山を望む景観、歴史ある町並みなど見どころが多く、詩人・宮沢賢治や石川啄木ゆかりの地としても親しまれています。チャグチャグ馬コの訪問を機に、盛岡の街をめぐり、南部藩の城下町としての歴史や東北の文化に触れることができます。
+
+出発地である滝沢市は、雄大な岩手山の裾野に広がる自然豊かな地域です。かつて馬産が盛んだったこの一帯には、人と馬が共に生きてきた暮らしの面影が今も残ります。チャグチャグ馬コの原点となった鬼越蒼前神社を訪れ、馬とともに歩んできた岩手の歴史に思いを馳せるのも、この祭りならではの味わい方です。
+
+## 関連情報
+
+- 開催月: 6月（第2土曜日）
+- 所在地: 岩手県滝沢市・盛岡市（東北地方）
+- 会場: 鬼越蒼前神社から盛岡八幡宮まで
+- 種別: 馬の無病息災を祈る民俗行事・行進行事
+- 文化財等: 記録作成等の措置を講ずべき無形の民俗文化財・残したい日本の音風景100選
+- 特色: 馬産地岩手の人馬の絆・約14kmの行進・1頭約700個の鈴が生む「チャグチャグ」の音・蒼前信仰
+','## Overview
+
+Chagu Chagu Umako is a traditional event held every year on the second Saturday of June, from Takizawa City to Morioka City in Iwate Prefecture. Farm horses beautifully adorned with colorful costumes and harnesses march the roughly fourteen-kilometer route from Onikoshi Sozen Shrine in Takizawa City to Morioka Hachimangu Shrine in Morioka City, taking about four hours. The cool ringing sound of the bells, chagu chagu, is the origin of the name, and this sound has been selected among the Hundred Soundscapes of Japan to Be Preserved by the Ministry of the Environment.
+
+The greatest characteristic of this event lies in the way it conveys to the present day the deep bond between people and horses, unique to Iwate as a horse-breeding region. The scene of gaily adorned horses carrying children, slowly making their way through the streets of Nanbu Morioka, is peaceful and heartwarming, and has captivated many spectators. A simple festival born of the farmers'' affection for their beloved horses has been guarded and handed down by the hands of local people, becoming a nationally known feature of early summer in Iwate.
+
+## History and Origins
+
+Iwate Prefecture, where Chagu Chagu Umako was born, has long been known nationwide as a horse-breeding region, and its people have led lives close to horses. This time of year, corresponding to the Boys'' Festival of the old calendar, is also the season when horses are worn out from the preparations for rice planting. That people made a pilgrimage to Onikoshi Sozen Shrine to soothe those horses and pray for freedom from illness is said to be the root of Chagu Chagu Umako. This festival arose naturally from the farmers'' affection for the beloved horses that shared their labor.
+
+At the center of the festival''s faith is the reverence for Sozen-sama. The Sozen deity has long been widely revered throughout the Tohoku region as the guardian deity of horses, and the prayers of people wishing for the safety and health of the horses essential to farming and transport were realized in the form of pilgrimage to Sozen Shrine. In this festival, where livelihood and faith are inseparably bound, are inscribed the memories of the lives of the people of Iwate, who have lived together with horses.
+
+The culture of adorning horses in vivid colors is said to have blossomed in the mid-Edo period. As the pilgrimage to Sozen Shrine grew popular, the custom of beautifully decorating beloved horses became fashionable, and the ways of making the costumes were handed down over generations as unique to each household. The number of bells attached to a single horse reaches about seven hundred, and it is precisely the sound produced by these countless bells that gives rise to the name chagu chagu. The technique of making the costumes is still handed down today through workshops held in winter when the farm work has settled.
+
+Chagu Chagu Umako, handed down in this way, was selected by the Agency for Cultural Affairs in the fifty-third year of Showa, 1978, as an intangible folk cultural property for which measures such as record-making should be taken, because of its high cultural value. Furthermore, the sound of the bells has been chosen among the Hundred Soundscapes of Japan to Be Preserved, and the value of this event is widely recognized not only visually but also aurally. An association made up of the participating people connects this festival to the future through activities such as continuing to keep farm horses and preserving the techniques of leading the horses and of making the costumes.
+
+## Highlights
+
+**Adorned Horses Marching Some Fourteen Kilometers**
+The greatest highlight is the sight of farm horses, beautifully adorned with colorful costumes and harnesses, marching the roughly fourteen kilometers from Onikoshi Sozen Shrine to Morioka Hachimangu Shrine. In recent years dozens of horses line up and advance slowly over about four hours. The figures of the adorned horses making their way along a route that shifts from rural scenery to the city center are filled with a mood unique to early summer in Iwate.
+
+**The Bells Ringing Chagu Chagu**
+The bells, said to number about seven hundred per horse, ring coolly, chagu chagu, in time with the horses'' steps. The way this sound of countless bells overlaps layer upon layer and spreads through the streets is the true delight of a festival enjoyed not only with the eyes but with the ears. This tone, selected among the Hundred Soundscapes of Japan to Be Preserved by the Ministry of the Environment, has become a symbol of Chagu Chagu Umako.
+
+**Gorgeous Costumes Differing by Household**
+The costumes that adorn the horses differ in their making by household, and are unique things handed down over generations. The figure of each horse, painstakingly decorated with colorful cloth, tassels, and ornamental metal fittings, has its own individuality, offering the pleasure of comparing one with another. The enthusiasm of the people who support this festival is also expressed in the way the techniques are inherited at winter workshops.
+
+**The March of Horses Carrying Children**
+Children are placed on the adorned horses, which march through the streets. The heartwarming scene of horse and child as one reflects the life of a region that has lived together with horses, and the wish for succession to the next generation. The endearing figures soothe the hearts of spectators and symbolize the peaceful appeal of this festival.
+
+**Pilgrimage from Sozen Shrine to Morioka Hachimangu**
+The festival begins with worship at Onikoshi Sozen Shrine in Takizawa City and proceeds toward Morioka Hachimangu Shrine in Morioka City. Starting from prayer to Sozen-sama, the guardian deity of horses, and reaching Hachimangu, the general guardian shrine of Morioka, this very route embodies the religious meaning of the festival. Along the path connecting the two shrines is placed the prayer wishing for the safety of people and horses.
+
+## Event Information and Access
+
+- Location: Takizawa City and Morioka City, Iwate Prefecture
+- Route: About 14 km from Onikoshi Sozen Shrine (departure) to Morioka Hachimangu Shrine (arrival)
+- Date: The second Saturday of June every year
+- Duration: The march takes about four hours
+- Cultural property, etc.: Selected in 1978 as an intangible folk cultural property for which measures such as record-making should be taken; the sound of the bells is selected among the Hundred Soundscapes of Japan to Be Preserved
+- Access: The departure point of Onikoshi Sozen Shrine is in Takizawa City; the march passes through central Morioka City and the area in front of Morioka Station on the way to Morioka Hachimangu
+
+## Nearby Attractions
+
+Morioka Hachimangu, the end point of Chagu Chagu Umako, is a shrine that draws wide faith as the general guardian shrine of Morioka and boasts a solemn hall. As the place worshipped at the conclusion of the festival''s route, it has borne the center of the history and faith of the town of Morioka. Worshipping there alongside viewing the festival lets one more deeply sense the religious background of this event.
+
+Morioka City is known as a castle town where rich nature and historical culture harmonize. With many sights such as the rivers flowing through the city, the scenery overlooking Mount Iwate, and the historic townscape, it is also loved as a place associated with the poets Miyazawa Kenji and Ishikawa Takuboku. Taking the visit to Chagu Chagu Umako as an occasion, one can tour the town of Morioka and touch its history as the castle town of the Nanbu domain and the culture of Tohoku.
+
+Takizawa City, the departure point, is a nature-rich region spreading over the foot of majestic Mount Iwate. In this area, where horse breeding once flourished, the vestiges of a life in which people and horses lived together still remain. Visiting Onikoshi Sozen Shrine, the origin of Chagu Chagu Umako, and reflecting on the history of Iwate that has walked together with horses, is also a way of savoring unique to this festival.
+
+## Related Information
+
+- Month: June (the second Saturday)
+- Location: Takizawa City and Morioka City, Iwate Prefecture (Tohoku region)
+- Route: From Onikoshi Sozen Shrine to Morioka Hachimangu Shrine
+- Type: A folk event praying for the freedom from illness of horses, a marching event
+- Cultural property, etc.: An intangible folk cultural property for which measures such as record-making should be taken; one of the Hundred Soundscapes of Japan to Be Preserved
+- Features: The bond of people and horses in horse-breeding Iwate; a march of about 14 km; the chagu chagu sound made by about seven hundred bells per horse; the Sozen faith
+','chagu-chagu-umakko','chagu-chagu-umakko',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1043431','東京国際映画祭','Tokyo International Film Festival','東京で毎年開催される映画祭','international film festival held annually in Tokyo, Japan','Q1490','東京都','Tokyo','東京都','kanto',35.6894,139.6917,1985,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Day%20bfefore%20Tokyo%20International%20Film%20festival%2C%20at%20EX%20Theater%20Roppongi.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Tokyo_International_Film_Festival',95,'drafted','## 概要
 
 東京国際映画祭(Tokyo International Film Festival、略称TIFF)は、毎年10月下旬から11月上旬にかけて東京都心部で開催される、日本最大級の国際映画祭です。国際映画製作者連盟(FIAPF)公認のコンペティション部門を有する世界15の競争型映画祭の一つに位置づけられ、アジアを代表する映画文化の祭典として国際的に高い知名度を誇ります。
