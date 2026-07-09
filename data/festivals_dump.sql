@@ -1987,23 +1987,123 @@ INSERT INTO "festivals" VALUES('Q9359311','ASIAN KUNG-FU GENERATION presents NAN
 INSERT INTO "festivals" VALUES('Q1032381','初詣','Hatsumōde','年が明けてから初めて神社や寺院などに参拝する行事',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'winter',NULL,'https://ja.wikipedia.org/wiki/%E5%88%9D%E8%A9%A3','https://en.wikipedia.org/wiki/Hatsum%C5%8Dde',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q1045869','ヨコハマ映画祭','Yokohama Film Festival','日本の映画賞','Japanese film awards ceremony','Q38283','横浜市','Yokohama','神奈川県','kanto',NULL,NULL,1980,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yokohama_Film_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q722072','オズフェスト','Ozzfest',NULL,'former music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,1996,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Anselmo.jpg','https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88','https://en.wikipedia.org/wiki/Ozzfest',80,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11019445','川越氷川祭','Kawagoe Hikawa Festival','埼玉県川越市の川越氷川神社の祭礼','Japanese traditional dance','Q11549607','氷川神社','Hikawa Shrine','埼玉県','kanto',NULL,NULL,1648,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kawagoe%20Festival4.jpg','https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E6%B0%B7%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Kawagoe_Hikawa_Festival',85,'drafted','川越氷川祭（かわごえひかわまつり）は、埼玉県川越市の川越氷川神社の例大祭として行われる祭礼で、「川越まつり」の通称で広く親しまれています。その起源は1648年（慶安元年）、当時の川越藩主・松平信綱が氷川神社に神輿や獅子頭を寄進し、祭礼を奨励したことに遡るとされます。江戸の「天下祭」と呼ばれた神田祭・山王祭の様式を強く受け継いでおり、絢爛豪華な山車が城下町を巡行する姿は「小江戸・川越」を象徴する光景として知られています。
+INSERT INTO "festivals" VALUES('Q11019445','川越氷川祭','Kawagoe Hikawa Festival','埼玉県川越市の川越氷川神社の祭礼','Japanese traditional dance','Q11549607','氷川神社','Hikawa Shrine','埼玉県','kanto',NULL,NULL,1648,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kawagoe%20Festival4.jpg','https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E6%B0%B7%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Kawagoe_Hikawa_Festival',85,'drafted','## 概要
 
-2016年には「川越氷川祭の山車行事」がユネスコ無形文化遺産「山・鉾・屋台行事」の一つとして登録され、国際的にもその価値が認められました。祭りの最大の見どころは、精緻な彫刻と人形を載せた高さ数メートルの山車が、蔵造りの町並みを背景に練り歩く姿です。
+川越氷川祭（かわごえひかわさい）は、埼玉県川越市の氷川神社の例大祭に伴って行われる山車行事で、一般に「川越まつり」の名で親しまれています。毎年10月の第三日曜日とその前日に開催され、精巧な人形を乗せた絢爛豪華な山車が、小江戸川越の象徴である蔵造りの町並みを中心に曳行されます。江戸の「天下祭」の様式や風流を今に伝える貴重な都市型祭礼として約三百七十年にわたって守り継がれ、国指定重要無形民俗文化財およびユネスコ無形文化遺産に登録された、関東を代表する祭りです。
 
-なかでも夜に行われる「曳っかわせ（ひっかわせ）」は圧巻で、複数の山車が交差点で出会うと、互いに正面を向け合い、囃子（はやし）の競演を繰り広げます。提灯を一斉に掲げ、囃子方が技を競い合うその熱気は、見る者を圧倒します。例年10月の第3土曜・日曜に開催され、二日間で延べ80万人を超える観客が訪れる、関東を代表する秋祭りです。
+この祭りの最大の特徴は、複数の山車が辻で向かい合って囃子を競演する「曳っかわせ（ひっかわせ）」にあります。何台もの山車が相対しすれ違うさまは、そのスケールの大きさで見物客を圧倒します。城下町として栄えた川越の経済力を背景に、町衆が誇りをもって育て上げてきた都市祭礼の極みであり、蔵造りの町並みと一体となった華やかな情景が、毎年多くの人々を魅了しています。
 
-川越の蔵造りの町並み、菓子屋横丁、時の鐘といった歴史的な街歩きとあわせて楽しめるのも、この祭りの大きな魅力です。','The Kawagoe Hikawa Festival (Kawagoe Matsuri) is the grand annual festival of Kawagoe Hikawa Shrine in Kawagoe, Saitama Prefecture. Popularly known simply as the "Kawagoe Festival," it is one of the most magnificent float festivals in the Kanto region and a defining symbol of Kawagoe, a city affectionately called "Little Edo" (Koedo).
+## 歴史と由来
 
-The festival''s origins date back to 1648, when Matsudaira Nobutsuna, the lord of the Kawagoe Domain, donated a portable shrine (mikoshi) and lion-head masks to Hikawa Shrine and encouraged the holding of festivities. The festival inherited the style of the great "Tenka Matsuri" of Edo—the Kanda Festival and the Sanno Festival—which were celebrated under the patronage of the Tokugawa shogunate. As a result, the grandeur of its towering floats parading through the old castle town evokes the splendor of old Edo itself.
+川越氷川祭の起源は、慶安元年（1648年）に遡ります。当時の川越藩主・松平伊豆守信綱が氷川神社に神輿・獅子頭・太鼓などを寄進し、祭礼を奨励したことが始まりとされています。慶安四年（1651年）からは華麗な神輿行列が氏子域の町々を巡行し、町衆も随行するようになりました。この神幸祭を核とする祭祀・祭礼が、「川越まつり」の起源となっています。
 
-In 2016, the "Float Ceremony of the Kawagoe Hikawa Festival" was inscribed on UNESCO''s Representative List of the Intangible Cultural Heritage of Humanity as part of the "Yama, Hoko, Yatai float festivals in Japan," gaining international recognition for its cultural value.
+当初の神幸祭は、氷川神社の神輿行列が氏子の町々を渡御し、氏子域の十ヶ町が仮装行列などの練りもので供奉する形でした。元禄十一年（1698年）には、十ヶ町の一つである高沢町が江戸の祭礼に習って初めて踊り屋台を披露します。踊り屋台は当時の江戸祭礼の花形であり、江戸文化の影響がこの祭りに取り込まれていく画期となりました。川越が江戸の流行を敏感に取り入れながら祭礼を発展させてきた歴史がここに表れています。
 
-The festival''s greatest highlight is the procession of dashi—elaborate wheeled floats several meters tall, adorned with intricate carvings and crowned with large figures of historical and mythological characters. These floats wind their way through Kawagoe''s famous streets of kurazukuri (traditional clay-walled warehouses), creating a striking blend of festival pageantry and historic townscape.
+川越は、新河岸川の舟運によってリアルタイムに江戸の風流や風俗を取り入れることができる立地にありました。この舟運を通じて江戸の祭礼文化が絶えず流れ込み、現代の祭礼儀式やしきたりの多くも、文化・文政時代の申し合わせがルーツとされています。江戸の祭礼で山車が主役となったのを機に、天保十五年（1844年）には十ヶ町の山車がすべて一本柱型式に統一され、勾欄の上に人形を乗せる現在の形へと整えられました。
 
-The most thrilling moment comes at night with the hikkawase. When two or more floats meet at an intersection, they turn to face one another and engage in a spirited musical duel. Lanterns are raised in unison and the hayashi musicians compete in a dazzling display of skill and energy that overwhelms the senses.
+こうして連綿と受け継がれてきた川越まつりは、江戸「天下祭」の様式や風流を伝える貴重な都市型祭礼として高く評価され、平成十七年（2005年）二月に「川越氷川祭の山車行事」として国指定重要無形民俗文化財となりました。さらに平成二十八年（2016年）には、同種の三十三件の行事とともに「山・鉾・屋台行事」としてユネスコ無形文化遺産に登録されました。城下町の繁栄を担った川越の人々が、その経済力を背景に誇りをもって守り、川越独特の特色を加えながら発展させてきた祭りといえます。
 
-Held annually on the third Saturday and Sunday of October, the festival draws over 800,000 visitors across its two days. Combined with a stroll through Kawagoe''s warehouse district, the Kashiya Yokocho (Penny Candy Lane), and the iconic Toki no Kane (Bell of Time), the Kawagoe Hikawa Festival offers an unforgettable autumn experience.','kawagoe-hikawa-matsuri','kawagoe-hikawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## 見どころ
+
+**曳っかわせ**
+川越まつり最大の見どころが「曳っかわせ（ひっかわせ）」です。向かい合う数台の山車が、笛・太鼓・鉦・踊りの囃子で競演し、まつり人たちは提灯を高々と振り上げて歓声を上げます。とくに夜の曳っかわせは祭り全体の最高潮を見せ、山車と囃子と提灯が織りなす熱気は、この祭りの神髄を体感できる瞬間となっています。
+
+**蔵造りの町並みを曳行する山車**
+精巧な人形を乗せた絢爛豪華な山車が、小江戸川越の象徴である蔵造りの町並みを曳行します。歴史ある重厚な家並みを背景に華やかな山車が進む光景は、まさに都市型祭礼ならではの美しさです。何台もの山車が辻で相対しすれ違うさまは、そのスケールの大きさで見物客を圧倒します。
+
+**一本柱型式の山車と人形**
+川越の山車は、天保十五年（1844年）にすべてが一本柱型式に統一され、勾欄の上に人形を乗せる形へと整えられました。せり上がる一本柱の上に据えられた人形が、蔵造りの町並みや辻を見下ろすように進む姿は、江戸の山車文化を受け継ぐ川越独特の様式です。各町がそれぞれ趣向を凝らした人形を掲げる点も見どころです。
+
+**江戸の天下祭を伝える都市祭礼**
+川越まつりは、神田明神や赤坂日枝神社の祭礼の総称である江戸の「天下祭」の影響を強く受けて発展しました。天下祭の様式や風流を今に伝える貴重な都市型祭礼として約三百七十年の歴史を刻んでおり、失われた江戸の祭礼文化の面影を今に見られる稀有な機会となっています。
+
+**例大祭から続く祭礼の構成**
+川越まつりは、10月14日に氷川神社が執行する「例大祭」を根源とし、直後に行われる「神幸祭」、そして山車行事から成り立っています。神社の厳かな神事から、神輿の渡御、華やかな山車の競演へと展開する重層的な構成が、この祭りに信仰と娯楽の両面の奥行きを与えています。
+
+## 開催情報・アクセス
+
+- 開催地: 埼玉県川越市
+- 会場: 氷川神社および蔵造りの町並み一帯
+- 開催日: 毎年10月の第3日曜日とその前日
+- 主な内容: 例大祭、神幸祭、山車行事、曳っかわせ
+- 文化財指定: 国指定重要無形民俗文化財（2005年）・ユネスコ無形文化遺産「山・鉾・屋台行事」（2016年）
+- アクセス: 西武新宿線本川越駅、東武東上線川越駅・川越市駅などから蔵造りの町並みへ
+
+## 周辺の見どころ
+
+川越は「小江戸」と称される歴史都市で、蔵造りの町並みは国の重要伝統的建造物群保存地区にも通じる貴重な景観として知られています。川越まつりの舞台となるこの町並みは、祭りの期間以外でも多くの観光客が訪れる関東有数の観光地であり、重厚な蔵の連なりを散策するだけでも江戸情緒を存分に味わえます。祭りと町並みが分かちがたく結びついている点に、この都市祭礼の特色があります。
+
+町のシンボルである時の鐘は、江戸時代から時を告げてきた川越のランドマークで、蔵造りの町並みとともに小江戸の風景を代表する存在です。菓子屋横丁など懐かしい風情を残す一角も点在し、川越まつりの見学とあわせて散策すれば、歴史都市としての川越の魅力を余すところなく体感できます。
+
+祭りの根源である氷川神社は、縁結びの神社としても広く知られ、多くの参拝者を集めています。境内には数多くの神事が受け継がれ、川越の人々の信仰の中心となってきました。川越はまた、都心から鉄道でアクセスしやすい立地にあり、日帰りでも歴史と祭礼の両方を楽しめる恵まれた観光地です。
+
+## 関連情報
+
+- 開催月: 10月（第3日曜日とその前日）
+- 所在地: 埼玉県川越市（関東地方）
+- 会場: 氷川神社および蔵造りの町並み一帯
+- 種別: 氷川神社例大祭の山車行事・都市型祭礼
+- 文化財: 国指定重要無形民俗文化財・ユネスコ無形文化遺産「山・鉾・屋台行事」
+- 特色: 起源は慶安元年（1648年）・約370年の歴史・江戸天下祭の様式・山車の競演「曳っかわせ」
+','## Overview
+
+The Kawagoe Hikawa Festival is a float event held in connection with the grand festival of Hikawa Shrine in Kawagoe City, Saitama Prefecture, and is generally known and loved by the name Kawagoe Matsuri. Held every year on the third Sunday of October and the day before, it features gorgeous, magnificent floats bearing intricate dolls, drawn mainly through the warehouse-style townscape that is the symbol of Koedo Kawagoe. As a precious urban festival that conveys to the present day the style and elegance of the Edo Tenka Matsuri, it has been guarded and handed down for some three hundred and seventy years, and, designated a national Important Intangible Folk Cultural Property and registered as a UNESCO Intangible Cultural Heritage, it is a festival representative of the Kanto region.
+
+The greatest characteristic of this festival is the Hikkawase, in which several floats face one another at intersections and compete in their musical accompaniment. The sight of many floats confronting and passing one another overwhelms spectators with its great scale. It is the pinnacle of urban festivals, raised with pride by the townspeople against the background of the economic power of Kawagoe, which flourished as a castle town, and the gorgeous scene, united with the warehouse-style townscape, captivates many people each year.
+
+## History and Origins
+
+The origins of the Kawagoe Hikawa Festival go back to the first year of Keian, 1648. It is said to have begun when Matsudaira Izu no Kami Nobutsuna, the lord of the Kawagoe domain at the time, donated a portable shrine, lion heads, drums, and the like to Hikawa Shrine and encouraged the festival. From the fourth year of Keian, 1651, a splendid portable shrine procession paraded through the towns of the parish, and the townspeople came to accompany it. This rite and festival, centered on the shinkosai procession, is the origin of Kawagoe Matsuri.
+
+The original shinkosai took the form of a procession of the portable shrine of Hikawa Shrine passing through the towns of the parish, with the ten towns of the parish area attending with performances such as costume parades. In the eleventh year of Genroku, 1698, Takasawamachi, one of the ten towns, presented a dance float for the first time, following the model of the Edo festivals. The dance float was the star of the Edo festivals of the time, and this became a turning point in which the influence of Edo culture was taken into this festival. The history in which Kawagoe developed its festival while sensitively adopting the fashions of Edo is expressed here.
+
+Kawagoe was located so that it could adopt the elegance and customs of Edo in real time through the boat transport of the Shingashi River. Through this boat transport the festival culture of Edo flowed in constantly, and it is said that many of the modern festival rites and customs are rooted in the agreements of the Bunka and Bunsei eras. When floats became the stars of the Edo festivals, in the fifteenth year of Tenpo, 1844, all the floats of the ten towns were unified into the single-pillar style, and were arranged into the present form in which a doll is placed atop the railing.
+
+The Kawagoe Matsuri, handed down in this way without interruption, was highly valued as a precious urban festival conveying the style and elegance of the Edo Tenka Matsuri, and in February of the seventeenth year of Heisei, 2005, the float event of the Kawagoe Hikawa Festival became a national Important Intangible Folk Cultural Property. Furthermore, in 2016 it was registered as a UNESCO Intangible Cultural Heritage as a Yama, Hoko, and Yatai float event, together with thirty-three events of the same kind. It can be called a festival that the people of Kawagoe, who bore the prosperity of the castle town, guarded with pride against the background of their economic power and developed while adding the distinctive features of Kawagoe.
+
+## Highlights
+
+**The Hikkawase**
+The greatest highlight of Kawagoe Matsuri is the Hikkawase. Several floats facing one another compete in the musical accompaniment of flute, drum, gong, and dance, and the festival participants raise their lanterns high and cry out. Especially the Hikkawase at night shows the climax of the entire festival, and the fervor woven by the floats, the music, and the lanterns is a moment in which one can experience the very essence of this festival.
+
+**Floats Drawn Through the Warehouse-Style Townscape**
+Gorgeous, magnificent floats bearing intricate dolls are drawn through the warehouse-style townscape that is the symbol of Koedo Kawagoe. The scene of splendid floats advancing against the backdrop of the historic, dignified rows of houses is a beauty unique to an urban festival. The way many floats confront and pass one another at intersections overwhelms spectators with its great scale.
+
+**Single-Pillar Style Floats and Dolls**
+The floats of Kawagoe were all unified into the single-pillar style in the fifteenth year of Tenpo, 1844, and arranged into the form in which a doll is placed atop the railing. The figure of a doll set atop a rising single pillar, advancing as if to look down on the warehouse-style townscape and the intersections, is a style unique to Kawagoe that inherits the float culture of Edo. It is also a highlight that each town raises a doll of its own devising.
+
+**An Urban Festival Conveying the Edo Tenka Matsuri**
+Kawagoe Matsuri developed under the strong influence of the Edo Tenka Matsuri, the collective name for the festivals of Kanda Myojin and Akasaka Hie Shrine. It has marked some three hundred and seventy years of history as a precious urban festival conveying the style and elegance of the Tenka Matsuri, and offers a rare chance to see today the vestiges of the lost festival culture of Edo.
+
+**The Structure of the Festival Continuing from the Grand Festival**
+Kawagoe Matsuri is rooted in the grand festival performed by Hikawa Shrine on October 14, and consists of the shinkosai procession held immediately after and the float event. The multilayered structure, unfolding from the solemn rites of the shrine to the procession of the portable shrine and the gorgeous competition of the floats, gives this festival a depth in both faith and entertainment.
+
+## Event Information and Access
+
+- Location: Kawagoe City, Saitama Prefecture
+- Venue: Hikawa Shrine and the area of the warehouse-style townscape
+- Dates: The third Sunday of October and the day before every year
+- Main contents: The grand festival, the shinkosai procession, the float event, and the Hikkawase
+- Cultural property designation: National Important Intangible Folk Cultural Property (2005) and UNESCO Intangible Cultural Heritage Yama, Hoko, and Yatai float events (2016)
+- Access: To the warehouse-style townscape from Hon-Kawagoe Station on the Seibu Shinjuku Line, and Kawagoe Station and Kawagoeshi Station on the Tobu Tojo Line
+
+## Nearby Attractions
+
+Kawagoe is a historic city called Koedo, the Little Edo, and its warehouse-style townscape is known as a precious landscape connected to a nationally designated Important Preservation District for Groups of Traditional Buildings. The townscape that serves as the stage of Kawagoe Matsuri is one of the foremost tourist destinations in the Kanto region, visited by many tourists even outside the festival period, and simply strolling among the rows of dignified warehouses lets one fully savor the atmosphere of Edo. The distinctive feature of this urban festival lies in the way festival and townscape are inseparably bound.
+
+The Bell of Time, the symbol of the town, is a landmark of Kawagoe that has announced the hours since the Edo period, and along with the warehouse-style townscape it is a presence representative of the scenery of Koedo. Corners retaining a nostalgic atmosphere, such as Candy Alley, are also dotted about, and strolling through them alongside viewing Kawagoe Matsuri lets one fully experience the appeal of Kawagoe as a historic city.
+
+Hikawa Shrine, the root of the festival, is also widely known as a shrine of matchmaking and draws many worshippers. Many rites are handed down within its precincts, and it has been the center of faith for the people of Kawagoe. Kawagoe is also located so as to be easily accessible by rail from the city center, making it a blessed tourist destination where one can enjoy both history and festival even on a day trip.
+
+## Related Information
+
+- Month: October (the third Sunday and the day before)
+- Location: Kawagoe City, Saitama Prefecture (Kanto region)
+- Venue: Hikawa Shrine and the area of the warehouse-style townscape
+- Type: A float event of the grand festival of Hikawa Shrine, an urban festival
+- Cultural property: National Important Intangible Folk Cultural Property and UNESCO Intangible Cultural Heritage Yama, Hoko, and Yatai float events
+- Features: Origins in the first year of Keian, 1648; some three hundred and seventy years of history; the style of the Edo Tenka Matsuri; the float competition Hikkawase
+','kawagoe-hikawa-matsuri','kawagoe-hikawa-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q9302453','お水取り','Omizutori','毎年3月に日本の東大寺で行われる行事のひとつ','festival in Japan','Q3341341','東大寺二月堂','Nigatsu-dō','奈良県','kinki',NULL,NULL,760,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Omizutori.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A','https://en.wikipedia.org/wiki/Omizutori',85,'drafted','## 概要
 
 お水取り（おみずとり）は、奈良市の東大寺二月堂で行われる仏教行事「修二会（しゅにえ）」の通称です。正式には「十一面悔過（じゅういちめんけか）」といい、本尊の十一面観音菩薩に、人々に代わって罪過を懺悔し、国家の安泰や五穀豊穣、人々の幸福を祈る法会です。例年3月に行われ、「お水取りが終われば春が来る」と言われるように、奈良に春の訪れを告げる風物詩として広く親しまれています。
