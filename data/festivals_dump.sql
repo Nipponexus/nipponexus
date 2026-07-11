@@ -18078,15 +18078,131 @@ Western Kagawa Prefecture, including Kanonji City, is also a land of pilgrimage 
 - Purpose: Prayer for a rich harvest and a good catch','toyohama-chosa-festival','toyohama-chosa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11662899','静岡まつり','Shizuoka Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q16638525','長岡京ガラシャ祭','Garasha Matsuri',NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11657228','阿佐谷七夕まつり','Asagaya Tanabata Festival','日本の東京都杉並区阿佐ヶ谷駅前で毎年8月に開かれる七夕祭り',NULL,'Q11657226','阿佐谷パールセンター','Asagaya Pearl Center','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asagaya%20Tanabata%202015%2011.JPG','https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','阿佐谷七夕まつり（あさがやたなばたまつり）は、東京都杉並区のJR阿佐ヶ谷駅前にある「阿佐谷パールセンター」商店街を中心に、毎年8月に開催される七夕祭りである。1954年(昭和29年)に始まった歴史ある祭りで、仙台・平塚と並んで「関東三大七夕祭り」の一つにも数えられる、東京を代表する夏の風物詩である。
+INSERT INTO "festivals" VALUES('Q11657228','阿佐谷七夕まつり','Asagaya Tanabata Festival','日本の東京都杉並区阿佐ヶ谷駅前で毎年8月に開かれる七夕祭り',NULL,'Q11657226','阿佐谷パールセンター','Asagaya Pearl Center','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Asagaya%20Tanabata%202015%2011.JPG','https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
 
-この祭りの最大の特徴は、商店街のアーケードを埋め尽くす、手作りの巨大な「張りぼて」装飾である。各店舗や有志が趣向を凝らして制作する、人気アニメのキャラクターや話題の人物、時事ネタをモチーフにした大きな飾り物が、約700メートルにわたる商店街の天井から所狭しと吊るされる。その精巧でユーモラスな出来栄えは、毎年訪れる人々を楽しませ、SNSでも話題を呼んでいる。
+阿佐谷七夕まつりは、東京都杉並区の阿佐ヶ谷駅周辺で毎年8月上旬に開かれる、東京を代表する夏の風物詩のひとつです。会場となるのは阿佐ヶ谷駅南口から青梅街道へと延びる阿佐谷パールセンター商店街で、全長およそ700メートルのアーケードいっぱいに、色とりどりの七夕飾りと大型の「はりぼて」がびっしりと吊り下げられます。この光景こそがこの祭りの最大の見どころであり、他の七夕まつりとは一線を画す独自性となっています。
 
-色とりどりの吹き流しや短冊と、ユニークな張りぼてが頭上にあふれるアーケードを歩けば、まるで非日常の世界に迷い込んだような高揚感を味わえる。期間中は数十万人もの来場者で賑わい、商店街の各店も活気づく。下町情緒あふれる阿佐谷の商店街が、住民と商店主たちの創意工夫によって彩られるこの祭りは、地域に根づいた手作りの夏祭りの魅力を今に伝えている。','The Asagaya Tanabata Festival is a Star Festival held every August, centered on the "Asagaya Pearl Center" shopping arcade in front of JR Asagaya Station in Suginami Ward, Tokyo. A historic festival begun in 1954, it is counted, alongside Sendai and Hiratsuka, as one of the "three great Tanabata festivals of the Kantō region" and a representative summer tradition of Tokyo.
+仙台七夕まつり、神奈川の湘南ひらつか七夕まつりと並んで「日本三大七夕」に数えられることもあります（数え方には諸説あります）。5日間の会期中には毎年数十万人規模の来場者が全国から訪れ、下町情緒あふれる商店街が祭り一色に染まります。屋台グルメの食べ歩きと、頭上を埋め尽くすはりぼてを見上げながらの散策が、来場者の定番の楽しみ方となっています。
 
-The festival''s greatest distinction is the enormous handmade papier-mâché decorations that fill the shopping arcade. Large ornaments crafted with great ingenuity by shops and volunteers—featuring popular anime characters, topical figures, and current events as motifs—are hung densely from the ceiling of the roughly 700-meter shopping street. Their intricate and humorous craftsmanship delights visitors each year and generates buzz on social media.
+## 歴史と由来
 
-Walking through the arcade overflowing overhead with colorful streamers, paper strips, and unique papier-mâché figures, one feels an exhilaration as if wandering into an extraordinary world. During the period, the festival bustles with crowds of hundreds of thousands, and the shops of the arcade come alive. Colored by the creativity and ingenuity of residents and shopkeepers, this festival in the downtown-flavored shopping street of Asagaya conveys to this day the charm of a handmade summer festival rooted in the local community.','asagaya-tanabata-festival','asagaya-tanabata-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+阿佐谷七夕まつりが始まったのは1954年（昭和29年）のことです。当時はまだ家庭用エアコンが普及しておらず、暑さの盛りである8月は人々が外出を控え、商店街の人通りがめっきり少なくなる時期でした。売上が落ち込むこの時季に、いかにして客足を呼び戻すか——阿佐谷の商店主たちが知恵を絞って生み出したのが、この七夕まつりでした。つまりこの祭りは信仰や神事から生まれたものではなく、商店街の活性化という切実な経済的動機から出発した、きわめて都市型の祭りなのです。
+
+第1回から現在まで、この祭りを支え続けているのが商店主たち自身の手づくりによる飾りです。既製品を買ってくるのではなく、各店が創意工夫を凝らして自ら飾りを制作するという伝統が、開始当初から一貫して守られてきました。この「手づくり」の精神が、他の商業的な七夕イベントにはない温かみと毎年の新鮮さを生み出しています。
+
+戦後復興期に始まったこの祭りは、その後の高度経済成長、バブル、そして現代へと、日本社会の移り変わりとともに歩んできました。開催は途切れることなく続き、2026年には第70回という大きな節目を迎えます。約70年にわたって毎年開催され続けてきたという事実は、この祭りが単なる商業イベントを超えて、阿佐ヶ谷の地域文化そのものとして根づいてきたことを物語っています。
+
+その長い歴史を振り返る企画として、主催者は「はりぼて100選」を実施しました。これは第1回（昭和29年）から第59回（平成24年）までの記録に残るはりぼての中から代表作100点を選出したもので、この祭りが積み重ねてきた創作の歴史の厚みを示す取り組みとなっています。
+
+## 見どころ
+
+**商店主手づくりの巨大はりぼて**
+この祭り最大の名物が、商店街の各店が手づくりする立体的な「はりぼて」飾りです。針金や紙、布などを使って組み上げられた大型のオブジェは、アーケードの天井から吊り下げられ、来場者を頭上から迎えます。第1回から続くこの手づくりの伝統こそが、阿佐谷七夕まつりのアイデンティティです。
+
+**その年の流行を映すテーマ性**
+はりぼての題材には、その年に人気を集めたアニメやゲームのキャラクター、話題の人物、世相を反映したモチーフなどが選ばれます。つまり毎年内容が入れ替わり、同じ年は二度とない一期一会の飾りが並びます。「今年はどんなはりぼてが登場するか」を楽しみに、リピーターが足を運ぶ理由がここにあります。
+
+**約700メートルのアーケードを埋める飾りの密度**
+会場の阿佐谷パールセンター商店街は全長約700メートルに及び、そのアーケード全体が飾りで埋め尽くされます。この圧倒的な物量と密度が、歩いても歩いても飾りが途切れないという没入感を生み出し、来場者を非日常の空間へ誘います。
+
+**アーケード開催ならではの快適さ**
+屋根付きのアーケード商店街が舞台であるため、真夏の直射日光や急な雨を避けながら祭りを楽しめるのも大きな魅力です。天候に左右されにくいこの構造は、家庭用エアコンのなかった時代に夏の集客策として始まったという起源とも符合しています。
+
+**下町情緒と屋台グルメの食べ歩き**
+会期中は商店街の各店や露店が趣向を凝らした食べ物を提供し、食べ歩きが来場者の定番の楽しみとなります。飾りを見上げながら食べ歩くという、視覚と味覚の両方で夏を満喫できる体験が下町ならではの活気とともに広がります。
+
+**プチハリボテなど一般参加の広がり**
+近年は来場者や一般参加者が小型の「プチハリボテ」を出展する企画も設けられ、見る祭りから参加する祭りへと広がりを見せています。商店主だけでなく地域全体が飾りの担い手となることで、手づくりの伝統が次世代へと受け継がれています。
+
+## 開催情報・アクセス
+
+- 開催地: 東京都杉並区・阿佐谷パールセンター商店街（阿佐ヶ谷駅南口〜青梅街道）
+- 会場: 全長約700メートルのアーケード商店街
+- 開催時期: 毎年8月上旬（2026年の第70回は8月7日〜11日を予定）
+- 起源: 1954年（昭和29年）開始
+- 最寄り駅: JR中央線・総武線「阿佐ケ谷駅」南口すぐ／東京メトロ丸ノ内線「南阿佐ケ谷駅」も利用可
+- 料金: 見物無料（飲食・物販は各店により有料）
+- 主催: 阿佐谷パールセンター商店街
+
+## 周辺の見どころ
+
+阿佐ヶ谷は中央線沿線の中でもとりわけ文化的な香りの強い街として知られています。かつて多くの文士が暮らし「阿佐ヶ谷文士村」と呼ばれた歴史を持ち、今も個性的な書店や喫茶店、ジャズ喫茶などが点在しています。祭りの合間に街を歩けば、下町的な商店街と落ち着いた住宅街が同居する独特の雰囲気を味わえます。
+
+会場の阿佐谷パールセンター商店街そのものが、七夕まつりの時期以外も活気ある地元密着型の商店街として親しまれています。青梅街道方面へ抜けると、行政の中心である南阿佐ヶ谷エリアにもアクセスでき、区役所周辺の落ち着いた街並みへと続きます。
+
+また、隣接する高円寺エリアへは中央線で一駅の近さです。高円寺は8月下旬に「東京高円寺阿波おどり」が開かれることでも知られ、夏の中央線沿線は祭りが連続する時期を迎えます。阿佐ヶ谷の七夕とあわせて、沿線の夏祭りを巡る楽しみ方もできます。
+
+## 関連情報
+
+- 開催月: 8月（夏）
+- 都道府県・地域: 東京都杉並区・関東地方
+- 起源年: 1954年（昭和29年）
+- 会場形態: アーケード商店街（全長約700メートル）
+- 特色: 商店主による第1回から続く手づくりはりぼて飾り
+- 規模: 例年数十万人規模の来場者／2026年で第70回
+','## Overview
+
+The Asagaya Tanabata Festival is one of Tokyo''s most beloved summer traditions, held every year in early August around Asagaya Station in Suginami Ward. The stage for the festival is the Asagaya Pearl Center shopping street, a covered arcade running roughly 700 meters from the south exit of Asagaya Station toward Ome Kaido avenue. During the festival, this entire arcade is filled from end to end with colorful Tanabata decorations and, most distinctively, large papier-mache figures known as haribote. This spectacle is the festival''s greatest attraction and sets it apart from other Tanabata celebrations across Japan.
+
+Alongside the Sendai Tanabata Festival and the Shonan Hiratsuka Tanabata Festival in Kanagawa, it is sometimes counted among the "Three Great Tanabata Festivals of Japan," though there are various ways of ranking them. Over the five-day event, hundreds of thousands of visitors arrive from across the country, and the nostalgic downtown shopping street is transformed entirely by the festive atmosphere. Strolling beneath the overhead haribote while sampling street food from the stalls is the classic way visitors enjoy the occasion.
+
+## History and Origins
+
+The Asagaya Tanabata Festival began in 1954, during the Showa era. At that time, household air conditioning was not yet widespread, and August, the height of summer, was a season when people avoided going out and foot traffic through the shopping district dropped sharply. Facing declining sales during this sweltering period, the merchants of Asagaya put their heads together and devised the Tanabata festival as a way to draw customers back. In other words, this festival did not grow out of religious ritual, but from the very practical economic motive of revitalizing a shopping street. It is, in this sense, a thoroughly urban festival.
+
+From the very first edition to the present day, what has sustained the festival is the handmade decorations created by the merchants themselves. Rather than buying ready-made ornaments, each shop crafts its own displays with ingenuity and care, a tradition maintained consistently since the beginning. This spirit of handmade craft gives the festival a warmth and a yearly freshness that purely commercial Tanabata events cannot replicate.
+
+Having begun in the postwar recovery period, the festival has walked alongside the transformations of Japanese society, through the era of rapid economic growth, the bubble years, and into the present. It has been held without interruption, and in 2026 it will reach the major milestone of its 70th edition. The fact that it has been staged every year for nearly seventy years speaks to how deeply this festival has taken root, becoming not merely a commercial event but a part of Asagaya''s local culture itself.
+
+As a way of looking back on this long history, the organizers carried out a "Best 100 Haribote" selection, choosing 100 representative papier-mache works from the records spanning the first edition in 1954 to the 59th edition in 2012. This project illustrates the depth of the creative history the festival has accumulated.
+
+## Highlights
+
+**Giant handmade haribote by the merchants**
+The festival''s signature feature is the three-dimensional papier-mache haribote handcrafted by each shop along the street. Assembled from wire, paper, and cloth, these large figures are suspended from the arcade ceiling to greet visitors from overhead. This handmade tradition, unbroken since the first edition, is the very identity of the Asagaya Tanabata Festival.
+
+**Themes reflecting each year''s trends**
+The subjects of the haribote are drawn from the anime and game characters, notable figures, and social trends that captured attention that particular year. This means the content changes annually, and the displays are a once-in-a-lifetime sight never repeated in the same form. The anticipation of "what haribote will appear this year" is exactly why repeat visitors keep coming back.
+
+**Decorations filling a 700-meter arcade**
+The Asagaya Pearl Center shopping street stretches about 700 meters, and its entire arcade is filled with decorations. This overwhelming volume and density creates an immersive feeling in which the displays never seem to end no matter how far one walks, drawing visitors into an extraordinary space.
+
+**The comfort of an arcade venue**
+Because the setting is a roofed arcade shopping street, visitors can enjoy the festival while sheltered from the harsh summer sun and sudden rain. This weather-resistant structure aligns neatly with the festival''s origins as a summer marketing effort born in an age before home air conditioning.
+
+**Downtown atmosphere and street-food strolling**
+Throughout the event, shops and stalls along the street offer an array of inventive foods, and eating while walking becomes a standard pleasure for visitors. The experience of savoring both the sights overhead and the flavors at hand spreads together with the lively energy characteristic of a downtown district.
+
+**Growing public participation such as petit-haribote**
+In recent years, the festival has introduced programs allowing visitors and general participants to exhibit small "petit-haribote," expanding it from a festival to watch into a festival to join. As not only merchants but the wider community become creators of decorations, the handmade tradition is passed on to the next generation.
+
+## Event Information and Access
+
+- Location: Asagaya Pearl Center shopping street, Suginami Ward, Tokyo (from the south exit of Asagaya Station to Ome Kaido)
+- Venue: covered arcade shopping street about 700 meters long
+- Dates: early August each year (the 70th edition in 2026 is scheduled for August 7-11)
+- Origin: began in 1954 (Showa 29)
+- Nearest stations: JR Chuo and Sobu Lines "Asagaya Station" south exit; Tokyo Metro Marunouchi Line "Minami-Asagaya Station" also accessible
+- Admission: free to view (food and goods are paid at each shop)
+- Organizer: Asagaya Pearl Center shopping street
+
+## Nearby Attractions
+
+Asagaya is known as one of the most culturally flavored towns along the Chuo Line. It carries a history as the "Asagaya Bunshi-mura," a village where many writers once lived, and even today it is dotted with distinctive bookshops, coffee houses, and jazz cafes. A walk through the town between festival visits reveals a unique atmosphere in which a downtown-style shopping district coexists with quiet residential streets.
+
+The Asagaya Pearl Center shopping street itself is cherished as a lively, locally rooted shopping arcade throughout the year, not only during the Tanabata festival. Heading toward Ome Kaido leads to the Minami-Asagaya area, the administrative center, and on to the calm streetscape around the ward office.
+
+The neighboring district of Koenji is just one stop away by the Chuo Line. Koenji is famous for the "Tokyo Koenji Awa Odori" held in late August, so the summer along the Chuo Line becomes a season of consecutive festivals. Combined with the Asagaya Tanabata, visitors can enjoy touring the summer festivals along the rail line.
+
+## Related Information
+
+- Month held: August (summer)
+- Prefecture and region: Suginami Ward, Tokyo; Kanto region
+- Year of origin: 1954 (Showa 29)
+- Venue type: covered arcade shopping street (about 700 meters)
+- Distinctive feature: handmade haribote decorations by merchants, unbroken since the first edition
+- Scale: hundreds of thousands of visitors annually; 70th edition in 2026
+','asagaya-tanabata-festival','asagaya-tanabata-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11634237','豊見城ハーリー','Tomigusuku Hārī',NULL,NULL,'Q371446','豊見城市','Tomigusuku','沖縄県','okinawa',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tomishiro%20ha-ri.jpg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%A6%8B%E5%9F%8E%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,80,'drafted','## 概要
 豊見城ハーリーは、沖縄県豊見城市で受け継がれる、爬龍船（はりゅうせん）と呼ばれる龍をかたどった船による競漕（きょうそう）の行事である。沖縄の伝統行事「ハーリー」は、航海の安全や豊漁を祈願して沖縄各地で営まれてきたもので、鉦（かね）の音と漕ぎ手の威勢のよい掛け声が響くなか、海面を切り裂くように進む船の姿が、初夏から夏の沖縄を熱く彩る。豊見城は、那覇と並んで沖縄ハーリー発祥の地とされる由緒ある土地であり、その名は琉球の史書にも刻まれている。
 
@@ -19449,11 +19565,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
