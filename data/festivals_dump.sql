@@ -14115,15 +14115,129 @@ INSERT INTO "festivals" VALUES('Q22130964','こうのす花火大会',NULL,NULL,
 INSERT INTO "festivals" VALUES('Q22131441','世界キャラクターさみっとin羽生',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%95%E3%81%BF%E3%81%A3%E3%81%A8in%E7%BE%BD%E7%94%9F',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q22131442','富山まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24866077','因島水軍まつり','Innoshima Suigun Matsuri','広島県尾道市で行われる歳事','festival','Q11420237','因島','Innoshima','広島県','chugoku',NULL,NULL,1991,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%B3%B6%E6%B0%B4%E8%BB%8D%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q28688423','義士祭','Gishi-sai','東京都港区にある泉岳寺で執り行われる供養行事',NULL,'Q3176144','泉岳寺','Sengaku-ji Temple','東京都','kanto',NULL,NULL,1950,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Sengakuji%20Gishisai%20191214e.jpg','https://ja.wikipedia.org/wiki/%E7%BE%A9%E5%A3%AB%E7%A5%AD_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA)',NULL,85,'drafted','義士祭（ぎしさい）は、東京都港区の泉岳寺(せんがくじ)で毎年12月14日に執り行われる供養行事である。「忠臣蔵」で知られる赤穂義士四十七士の墓所がある泉岳寺で、討ち入りの日にちなんで義士たちの遺徳を偲び、その霊を供養する法要が営まれる、東京の冬の風物詩である。
+INSERT INTO "festivals" VALUES('Q28688423','義士祭','Gishi-sai','東京都港区にある泉岳寺で執り行われる供養行事',NULL,'Q3176144','泉岳寺','Sengaku-ji Temple','東京都','kanto',NULL,NULL,1950,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Sengakuji%20Gishisai%20191214e.jpg','https://ja.wikipedia.org/wiki/%E7%BE%A9%E5%A3%AB%E7%A5%AD_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA)',NULL,85,'drafted','## 概要
 
-泉岳寺は、主君・浅野内匠頭と、仇討ちを果たした大石内蔵助をはじめとする四十七士が眠る寺院である。元禄15年(1702年)12月14日(旧暦)の討ち入りの後、義士たちは主君の墓前にその報告をし、後に切腹してこの地に葬られた。以来、泉岳寺は忠臣蔵ゆかりの聖地として、多くの参拝者を集めてきた。兵庫県赤穂市の「赤穂義士祭」が地元での盛大な顕彰祭であるのに対し、泉岳寺の義士祭は、義士たちが実際に眠る墓前での厳かな供養という性格を持つ。
+義士祭（ぎしさい）は、正式には赤穂義士祭（あこうぎしさい）と呼ばれ、東京都港区高輪の泉岳寺で毎年12月に営まれる祭りである。泉岳寺は曹洞宗の寺院で萬松山と号し、江戸三ヶ寺の一つに数えられる。元禄15年（1702年）12月14日、大石内蔵助率いる赤穂四十七士が主君の仇を討った討ち入りの偉業を称え、その義士たちの墓所がある泉岳寺で行われる、忠臣蔵ゆかりの祭りである。
 
-義士祭の当日は、四十七士に扮した「義士行列」が周辺を練り歩くほか、墓前には線香の煙が絶えることなく立ち込め、全国から訪れた多くの参拝者が義士たちの墓に手を合わせる。露店も立ち並び、一年で最も賑わいを見せる。主君への忠義を貫いた義士たちへの敬慕の念は、300年以上を経た今も人々の心に深く刻まれており、義士祭はその思いを今に伝える、師走の東京を彩る大切な行事である。','The Gishi-sai is a memorial event held every December 14th at Sengaku-ji Temple in Minato Ward, Tokyo. At Sengaku-ji, which holds the graves of the 47 Akō rōnin famed from "Chūshingura," a memorial service is conducted in connection with the day of the raid to honor the virtue of the loyal retainers and console their spirits—a winter tradition of Tokyo.
+祭りは討ち入りの日である12月14日を中心に営まれ、令和7年（2025年）は12月12日から14日までの3日間開催された。年末になるとテレビや映画で「忠臣蔵」が放映されるなじみ深い物語の舞台であり、今も全国から大勢の参拝客が四十七士の墓所を訪れる。四十七士に扮した人々が泉岳寺を目指して練り歩く「義士行列」も見どころの一つである。
 
-Sengaku-ji is the temple where lord Asano Takumi-no-Kami and the 47 samurai, including Ōishi Kuranosuke who carried out the revenge, are laid to rest. After the raid on December 14th, 1702 (lunar calendar), the retainers reported it before their lord''s grave and were later ordered to commit seppuku and buried at this site. Since then, Sengaku-ji has drawn many worshippers as a sacred site associated with Chūshingura. Whereas the "Akō Gishi Festival" in Akō, Hyōgo Prefecture, is a grand commemorative festival in the rōnin''s home region, Sengaku-ji''s Gishi-sai has the character of a solemn memorial before the graves where the retainers actually rest.
+## 歴史・由来
 
-On the day of the Gishi-sai, a "Gishi procession" of people costumed as the 47 samurai parades the surrounding area, while the smoke of incense rises ceaselessly before the graves, and many worshippers visiting from across the country join their hands before the rōnin''s graves. With stalls also lining the area, it sees its greatest bustle of the year. The reverence for the retainers who upheld loyalty to their lord remains deeply engraved in people''s hearts even more than 300 years later, and the Gishi-sai is an important event coloring December in Tokyo, conveying that sentiment to the present.','sengakuji-gishi-sai','sengakuji-gishi-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+義士祭の由来は、江戸時代中期に起きた赤穂事件にさかのぼる。播州赤穂藩主の浅野長矩が、江戸城中で吉良上野介に刃傷に及んだことで切腹を命じられ、赤穂藩は取り潰しとなった。主君を失った家臣たちのうち、大石内蔵助良雄を中心とする赤穂浪士47名は、主君の無念を晴らすべく仇討ちを決意する。
+
+討ち入りは元禄15年（1702年）12月14日の未明に決行された。約1年10か月にわたる周到な準備の末、四十七士は吉良邸に討ち入り、主君に代わって吉良上野介を討ち取った。本懐を遂げた義士たちは、亡き主君浅野長矩が眠る泉岳寺へと向かい、その墓前に仇の首を捧げたと伝えられている。この一連の出来事が、後に「忠臣蔵」として語り継がれ、日本人に広く愛される物語となった。
+
+泉岳寺には、大石内蔵助をはじめとする四十七士の墓所が今も残されている。討ち入りを果たした義士たちはその後切腹を命じられ、主君と同じ泉岳寺に葬られた。境内には、本人は討ち入りを熱望しながら周囲の反対に遭い討ち入り前に切腹した萱野三平の供養墓もあり、これは明和4年（1767年）9月に建立されたものである。義士たちの忠義を偲ぶ人々の参拝は、事件から300年以上を経た現在まで途切れることなく続いている。
+
+義士祭は、こうした義士たちの偉業と忠義を後世に伝えるために営まれてきた。討ち入りの日である12月14日に合わせて行われるほか、春にも義士祭が催されており、泉岳寺では年に2回、義士をしのぶ祭りが行われている。年末の風物詩として、また忠臣蔵の物語の舞台として、義士祭は多くの人々を引きつけ続けている。
+
+## 見どころ
+
+**四十七士の墓所参拝** 義士祭最大の目的は、泉岳寺にある赤穂四十七士の墓所への参拝である。大石内蔵助、大石主税をはじめとする義士たちの墓が整然と並び、祭りの期間中は全国から訪れた参拝客が線香を手向ける。忠義に生きた義士たちに思いを馳せる、義士祭の中心となる場である。
+
+**義士行列** 祭りの見どころの一つが、四十七士に扮した人々が泉岳寺を目指して練り歩く「義士行列」である。中央区方面から泉岳寺までの道のりを、討ち入り装束の一行が進む姿は壮観で、沿道は多くの見物客で賑わう。歴史絵巻を再現するかのような行列は、忠臣蔵の物語を今に伝える。
+
+**忠臣蔵ゆかりの寺宝** 泉岳寺には、大石内蔵助が介錯に用いたと伝わる刀をはじめ、赤穂義士ゆかりの品々が伝えられている。義士祭の期間には寺宝の特別展示が行われることもあり、忠臣蔵の史実に触れることができる貴重な機会となっている。
+
+**義士記念館** 泉岳寺の義士記念館では、赤穂義士に関する資料や遺品が展示されている。討ち入りに至る経緯や義士一人ひとりの人物像を知ることができ、物語としての忠臣蔵だけでなく、史実としての赤穂事件への理解を深められる。義士祭の折には多くの来館者で賑わう。
+
+**線香の煙に包まれる墓所** 義士祭の期間中、四十七士の墓所は絶えず参拝客が手向ける線香の煙に包まれる。墓前で手を合わせる人々の列が続く光景は、300年以上を経てなお義士たちが敬愛されていることを物語る。忠義の物語が今も生きていることを実感させる、義士祭ならではの情景である。
+
+**年末の風物詩としての賑わい** 12月14日の討ち入りの日を中心に、泉岳寺一帯は年末ならではの賑わいをみせる。参拝客に加え、屋台や露店も並び、討ち入りの偉業を偲ぶ人々でにぎわう。年の瀬に忠臣蔵の舞台を訪れることは、多くの人にとって年末の恒例となっている。
+
+## 開催情報・アクセス
+
+**名称** 赤穂義士祭（あこうぎしさい）、通称・義士祭。
+
+**開催地** 泉岳寺（曹洞宗萬松山泉岳寺／東京都港区高輪）。
+
+**開催時期** 討ち入りの日である12月14日を中心に開催（令和7年は12月12日から14日の3日間）。春にも義士祭あり。
+
+**アクセス（電車）** 都営浅草線・泉岳寺駅下車すぐ（A2出口）。
+
+**義士記念館** 拝観時間・料金は開催年により異なるため、公式情報を要確認。
+
+**料金** 境内参拝は無料（義士記念館の拝観、墓所参拝の線香志納は別途）。
+
+## 周辺
+
+泉岳寺が位置する港区高輪は、都心にありながら歴史と緑の残る一帯である。泉岳寺駅を中心に交通の便がよく、都営浅草線を利用すれば都心各所からのアクセスも容易である。忠臣蔵の舞台として知られる泉岳寺を核に、周辺には落ち着いた街並みが広がる。
+
+泉岳寺は赤穂義士の墓所だけでなく、曹洞宗の学問所としての歴史も持つ由緒ある寺院である。江戸三ヶ寺の一つに数えられ、境内には義士ゆかりの史跡が数多く残されている。義士祭の時期以外でも、忠臣蔵の史実を訪ねる参拝客が全国から訪れる。
+
+なお、赤穂義士討ち入りの舞台となった播州赤穂（兵庫県赤穂市）でも、同じ12月14日に赤穂義士祭が盛大に催されている。赤穂市の義士祭は市最大のイベントとして100回を超える歴史を重ねており、東京の泉岳寺と播州赤穂の双方で、義士たちの偉業が今も語り継がれている。
+
+## 関連情報
+
+- 正式名称は赤穂義士祭、忠臣蔵ゆかりの祭りとして知られる。
+- 元禄15年（1702年）12月14日の赤穂四十七士の討ち入りに由来する。
+- 泉岳寺（曹洞宗萬松山・東京都港区高輪・江戸三ヶ寺の一つ）で開催。
+- 大石内蔵助率いる四十七士の墓所が泉岳寺にある。
+- 討ち入り前に切腹した萱野三平の供養墓（明和4年建立）も境内にある。
+- 四十七士に扮した人々が練り歩く義士行列が見どころ。
+- 兵庫県赤穂市でも同じ12月14日に赤穂義士祭が催される。
+','## Overview
+
+The Gishi-sai, formally called the Ako Gishi-sai (Ako Loyal Retainers Festival), is a festival held every December at Sengakuji Temple in Takanawa, Minato Ward, Tokyo. Sengakuji is a temple of the Soto Zen sect, bearing the mountain name Banshozan, and is counted as one of the Three Temples of Edo. It is a festival connected to the story of Chushingura, held at Sengakuji where the graves of the loyal retainers lie, honoring the great deed of the forty-seven ronin of Ako, led by Oishi Kuranosuke, who avenged their lord on December 14 in 1702, the fifteenth year of the Genroku era.
+
+The festival is held around December 14, the day of the raid, and in 2025 it ran for three days from December 12 to 14. It is the setting of the familiar tale of Chushingura, broadcast on television and in films at the end of every year, and even now large numbers of worshippers from all over the country visit the graves of the forty-seven retainers. A procession of people dressed as the forty-seven retainers marching toward Sengakuji, known as the Gishi Gyoretsu, is one of the highlights.
+
+## History and Origins
+
+The origin of the Gishi-sai goes back to the Ako Incident that occurred in the middle of the Edo period. Asano Naganori, lord of the Ako domain in Banshu, drew his sword against Kira Kozukenosuke within Edo Castle, and for this he was ordered to commit ritual suicide, and the Ako domain was abolished. Among the retainers who had lost their lord, forty-seven ronin of Ako, centered on Oishi Kuranosuke Yoshio, resolved to carry out a vendetta to clear the bitter regret of their lord.
+
+The raid was carried out in the early hours of December 14 in 1702, the fifteenth year of Genroku. After careful preparation lasting about one year and ten months, the forty-seven retainers raided the Kira residence and, in place of their lord, struck down Kira Kozukenosuke. Having achieved their long-cherished aim, the loyal retainers headed for Sengakuji, where their late lord Asano Naganori rested, and it is said that they offered the head of their enemy before his grave. This chain of events was later handed down as Chushingura and became a tale widely loved by the Japanese people.
+
+At Sengakuji, the graves of the forty-seven retainers, including Oishi Kuranosuke, still remain. The retainers who accomplished the raid were afterward ordered to commit ritual suicide and were buried at the same Sengakuji as their lord. Within the grounds there is also a memorial grave for Kayano Sanpei, who himself longed to join the raid but met with opposition from those around him and took his own life before it took place; this was erected in the ninth month of 1767, the fourth year of the Meiwa era. The worship of people remembering the loyalty of the retainers has continued without interruption to this day, more than 300 years after the incident.
+
+The Gishi-sai has been held in order to pass down the great deed and loyalty of these retainers to later generations. In addition to being held to coincide with December 14, the day of the raid, a Gishi-sai is also held in spring, so at Sengakuji a festival remembering the loyal retainers is held twice a year. As a seasonal feature of the year''s end and as the stage of the tale of Chushingura, the Gishi-sai continues to draw many people.
+
+## Highlights
+
+**Worship at the graves of the forty-seven retainers** The greatest purpose of the Gishi-sai is worship at the graves of the forty-seven retainers of Ako at Sengakuji. The graves of the retainers, including Oishi Kuranosuke and Oishi Chikara, stand in orderly rows, and during the festival worshippers from all over the country offer incense. It is the central place of the Gishi-sai, where people reflect on the retainers who lived by loyalty.
+
+**The Gishi procession** One of the highlights of the festival is the Gishi Gyoretsu, in which people dressed as the forty-seven retainers march toward Sengakuji. The sight of a party in raid attire advancing along the route from the direction of Chuo Ward to Sengakuji is spectacular, and the roadside bustles with many spectators. The procession, as if reenacting a historical picture scroll, conveys the tale of Chushingura to the present day.
+
+**Temple treasures connected to Chushingura** Sengakuji preserves items connected to the loyal retainers of Ako, including a sword said to have been used by Oishi Kuranosuke as a second in ritual suicide. During the Gishi-sai, special exhibitions of temple treasures are sometimes held, making it a precious opportunity to come into contact with the historical facts of Chushingura.
+
+**The Gishi Memorial Hall** At the Gishi Memorial Hall of Sengakuji, materials and relics related to the loyal retainers of Ako are exhibited. Visitors can learn about the circumstances leading up to the raid and the character of each individual retainer, deepening their understanding not only of Chushingura as a tale but also of the Ako Incident as historical fact. During the Gishi-sai it bustles with many visitors.
+
+**Graves wrapped in the smoke of incense** During the Gishi-sai, the graves of the forty-seven retainers are constantly wrapped in the smoke of incense offered by worshippers. The sight of continuous lines of people joining their hands before the graves shows that the retainers are still revered even after more than 300 years. It is a scene unique to the Gishi-sai that makes one feel the tale of loyalty is still alive.
+
+**The bustle of a year-end tradition** Centered on December 14, the day of the raid, the area around Sengakuji shows a bustle characteristic of the year''s end. In addition to worshippers, food stalls and vendors line up, and it is crowded with people remembering the great deed of the raid. Visiting the stage of Chushingura at the close of the year has become a year-end custom for many people.
+
+## Festival Information and Access
+
+**Name** Ako Gishi-sai (Ako Loyal Retainers Festival), popularly known as the Gishi-sai.
+
+**Location** Sengakuji (Soto Zen sect, Banshozan Sengakuji / Takanawa, Minato Ward, Tokyo).
+
+**Dates** Held around December 14, the day of the raid (in 2025, three days from December 12 to 14). A Gishi-sai is also held in spring.
+
+**Access by train** Get off right at Sengakuji Station on the Toei Asakusa Line (Exit A2).
+
+**Gishi Memorial Hall** Viewing hours and fees vary by year, so please check official information.
+
+**Admission** Worship in the grounds is free (viewing the Gishi Memorial Hall and the incense offering for grave visits are separate).
+
+## Surroundings
+
+Takanawa in Minato Ward, where Sengakuji is located, is an area that retains history and greenery while being in the heart of the city. Transport is convenient, centered on Sengakuji Station, and using the Toei Asakusa Line makes access from all parts of central Tokyo easy. Centered on Sengakuji, known as the stage of Chushingura, a calm townscape spreads out in the surrounding area.
+
+Sengakuji is a venerable temple that has a history not only as the burial place of the loyal retainers of Ako but also as a place of learning for the Soto Zen sect. Counted as one of the Three Temples of Edo, its grounds preserve many historical sites connected to the retainers. Even outside the time of the Gishi-sai, worshippers seeking the historical facts of Chushingura visit from all over the country.
+
+Incidentally, in Banshu Ako (Ako City, Hyogo Prefecture), which was the setting of the raid by the loyal retainers of Ako, the Ako Gishi-sai is also held grandly on the same December 14. The Gishi-sai of Ako City is the largest event in the city, having accumulated a history of more than 100 stagings, and at both Sengakuji in Tokyo and Banshu Ako, the great deed of the retainers is still handed down.
+
+## Related Information
+
+- The formal name is Ako Gishi-sai, known as a festival connected to Chushingura.
+- It originates from the raid of the forty-seven retainers of Ako on December 14 in 1702 (Genroku 15).
+- Held at Sengakuji (Soto Zen sect Banshozan, Takanawa, Minato Ward, Tokyo, one of the Three Temples of Edo).
+- The graves of the forty-seven retainers led by Oishi Kuranosuke are at Sengakuji.
+- A memorial grave for Kayano Sanpei, who took his own life before the raid, is also in the grounds (erected 1767).
+- A highlight is the Gishi procession of people dressed as the forty-seven retainers.
+- The Ako Gishi-sai is also held in Ako City, Hyogo Prefecture on the same December 14.
+','sengakuji-gishi-sai','sengakuji-gishi-sai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24866217','山形大花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24874240','土浦キララまつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B5%A6%E3%82%AD%E3%83%A9%E3%83%A9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24875250','大洗春祭り 海楽フェスタ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B4%97%E6%98%A5%E7%A5%AD%E3%82%8A_%E6%B5%B7%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -17479,15 +17593,127 @@ Morioka is also a major station on the Tohoku Shinkansen, and around it spread a
 - Origins: Derived from the Legend of the Three Rocks at Mitsuishi Shrine in the domain era
 - Start of the current festival: Fully established in parade form in 1978
 - Records: Guinness World Record for simultaneous drum players in 2007, world title reclaimed in 2014','morioka-sansa-odori','morioka-sansa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11611763','胡子講','Ebisukō','広島市中区の胡子神社で開かれる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Ebisu%20street.jpg','https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B',NULL,85,'drafted','胡子講（えびすこう）は、広島県広島市中区の胡子神社で毎年11月に行われる祭りで、商売繁盛を祈願する広島最大の祭りの一つとして知られる。「えべっさん」の愛称で親しまれ、毎年11月18日から20日までの3日間にわたって開催され、市内中心部の商店街は多くの参拝客と買い物客で大いに賑わう。
+INSERT INTO "festivals" VALUES('Q11611763','胡子講','Ebisukō','広島市中区の胡子神社で開かれる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Ebisu%20street.jpg','https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B',NULL,85,'drafted','## 概要
 
-胡子神社に祀られる胡子大神(えびすおおかみ)は、七福神の一柱「えびす様」として知られ、商売繁盛・福徳円満を授ける神として広く信仰を集めている。胡子講の期間中、参拝者は福を「かきこむ」とされる縁起物の熊手「こまざらえ」を買い求める。色とりどりの装飾が施された熊手を手に、新たな一年の商売繁盛を願う人々の姿は、晩秋の広島の風物詩となっている。
+胡子講（えびすこう）は、広島県広島市中区胡町の胡子神社で毎年11月に開かれる祭りで、正式名称を胡子大祭（えびすたいさい）という。地元では親しみを込めて「えべっさん」と呼ばれ、商売繁盛の守り神をまつる祭りとして広島の商人たちに古くから信仰されてきた。圓隆寺のとうかさん、住吉神社の住吉祭とともに「広島三大寺社祭り」の一つに数えられる、広島の街に冬の訪れを告げる恒例行事である。
 
-この祭りにあわせて、地元の商店街では「えびす講大売出し」と呼ばれる大規模なセールが催され、神事と商業が一体となって街全体が活気づく。胡子講は、商人の町として発展してきた広島の歴史と、人々の商売繁盛への祈りを今に伝える伝統行事である。福をかき集める熊手と威勢のよい商店街の賑わいは、広島の人々にとって、一年の締めくくりと新年への希望を象徴する大切な年中行事となっている。','Ebisukō is a festival held every November at Ebisu Shrine in Naka Ward, Hiroshima City, Hiroshima Prefecture, known as one of Hiroshima''s largest festivals, praying for prosperous business. Affectionately called "Ebessan," it is held over three days from November 18th to 20th each year, and the shopping districts in the city center bustle greatly with worshippers and shoppers.
+祭りは11月17日から4日間にわたって行われ、期間中はえびす通り商店街をはじめ周辺の商店やデパートが一斉に大売り出しを実施する。中央通りが歩行者天国となり、福屋・三越・天満屋といった百貨店もバーゲンで足並みをそろえるため、期間中の人出は10万人以上に達する。神社への参拝と商店街の商業イベントが一体となっている点が、この祭りの大きな特徴である。
 
-Ebisu-no-Ōkami, enshrined at Ebisu Shrine, is known as Ebisu, one of the Seven Lucky Gods, and is widely revered as a deity who grants prosperous business and abundant fortune. During Ebisukō, worshippers seek out the auspicious rake "komazarae," said to "rake in" good fortune. The sight of people holding rakes adorned with colorful decorations, praying for prosperous business in the coming year, is a late-autumn tradition of Hiroshima.
+## 歴史・由来
 
-In conjunction with this festival, local shopping districts hold large-scale sales known as the "Ebisukō grand sale," and the entire town comes alive as Shinto rite and commerce unite. Ebisukō is a traditional event conveying the history of Hiroshima, which developed as a merchant town, and the people''s prayers for prosperous business. The fortune-gathering rakes and the spirited bustle of the shopping districts make it an important annual observance for the people of Hiroshima, symbolizing the close of the year and hope for the new one.','ebisuko','ebisuko',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+胡子神社の起源は、現在の胡町の繁栄を願った地元の年寄役たちが、商売の神である蛭子（ひるこ）神を勧請したことにあると伝えられている。商人の町として発展しつつあった一帯の守り神として、蛭子神すなわちえびす様が選ばれたのである。えびす信仰はもともと商売繁盛・家内安全・五穀豊穣を願う民間信仰で、室町時代以降に農民・漁師・商人の間に広まった。胡子講はその広島における中心的な担い手となった。
+
+胡子大祭そのものは、1603年（慶長8年）の胡子神社建立より続いている。江戸時代の初期にあたるこの年から数えて、祭りはすでに400年以上の歴史を刻んでいる。長い年月のあいだ、胡子神社は広島の商業の中心である胡町・八丁堀一帯の信仰を集め続け、街の発展とともに祭りも規模を拡大してきた。
+
+祭りを象徴する縁起物の熊手「こまざらえ」が売り出されるようになったのは、1901年（明治34年）の鎮座300年祭からである。熊手は福をかき集める縁起物とされ、商売繁盛を願う人々が毎年買い求める習わしが定着した。神社建立から300年を機に始まったこの授与が、現在まで続く胡子講の名物となっている。
+
+胡子大祭が広島の人々にとって特別なのは、戦争や災害による中断が一度もないことである。1945年（昭和20年）8月6日の原爆によって広島の街が壊滅的な被害を受けた際も、わずか3か月後の11月20日には仮設のバラック社殿で祭典が営まれた。焦土のなかでも祭りを絶やさなかったこの事実は、胡子講が広島の商人と市民にとっていかに欠かせない拠り所であったかを物語っている。
+
+## 見どころ
+
+**縁起物の熊手「こまざらえ」** 胡子講最大の名物が、福をかき集めるとされる縁起物の熊手「こまざらえ」である。商売繁盛の縁起物が色鮮やかに飾られた熊手を、商店主や参拝者が毎年買い求める。1901年の鎮座300年祭以来続く伝統で、新しい熊手を手にすることが一年の商売繁盛を願う象徴的な行為となっている。
+
+**中央通りの歩行者天国** 祭りの期間中、広島の目抜き通りである中央通りが歩行者天国となる。普段は車が行き交う大通りが人で埋め尽くされる光景は圧巻で、10万人以上ともいわれる人出がこの通りに集中する。街全体が祭り一色に染まる、胡子講ならではの風景である。
+
+**商店街とデパートの大売り出し** 神社の祭礼と連動して、えびす通り商店街や福屋・三越・天満屋などの百貨店が一斉に大売り出しやバーゲンを行う。かつては誓文払い（せいもんばらい）と呼ばれる安売りの習慣もあり、信仰と商業が分かちがたく結びついているのが胡子講の本質である。買い物客と参拝客が入り混じり、街全体が賑わう。
+
+**胡子神社への参拝** 祭りの中心はあくまで商売繁盛の守り神である胡子神社への参拝である。4日間の期間中、商人をはじめ多くの人々が神社に足を運び、一年の商売繁盛と家内安全を祈願する。広島の商業を支えてきた信仰の場として、祭りのあいだは特別な賑わいをみせる。
+
+**広島三大寺社祭りの一角** 胡子講は、6月のとうかさん（圓隆寺）、住吉神社の住吉祭とともに「広島三大寺社祭り」に数えられる。いずれも中央通り一帯が歩行者天国となる点で共通し、広島の年中行事を代表する祭りとして市民に親しまれている。冬の訪れを告げる胡子講は、その締めくくりの位置にある。
+
+**福をかき集める街の賑わい** 熊手を手にした参拝者、大売り出しに集まる買い物客、屋台や露店が並ぶ通り。これらが一体となって生み出す賑わいそのものが、胡子講の最大の見どころといえる。商売の神をまつる祭りらしく、街全体に活気と福が満ちる数日間である。
+
+## 開催情報・アクセス
+
+**名称** 胡子大祭（えびすたいさい）、通称・胡子講（えびすこう）、えべっさん。
+
+**開催地** 胡子神社（広島県広島市中区胡町5-12）および中央通り・えびす通り商店街一帯。
+
+**開催時期** 毎年11月17日から4日間（商店街の大売り出しは概ね11月18日から20日）。
+
+**アクセス（電車）** 広島電鉄で胡町電停下車すぐ、または八丁堀電停下車すぐ。
+
+**アクセス（広島駅から）** 広島駅から広島電鉄で八丁堀方面へ向かい、下車後すぐ。
+
+**料金** 参拝無料（熊手・縁起物は有料）。
+
+## 周辺
+
+胡子神社が位置する胡町・八丁堀一帯は、広島市の中心商業地である。福屋八丁堀本店、広島三越、天満屋といった百貨店が集まり、えびす通り商店街をはじめとするアーケード街が広がる。祭りの期間以外でも広島随一の繁華街として賑わい、買い物や食事に事欠かない立地である。
+
+祭りの舞台となる中央通りは、広島の目抜き通りとして市内交通の要でもある。広島電鉄の路面電車が縦横に走り、紙屋町・八丁堀といった主要停留場が近接するため、市内各所からのアクセスが良い。祭りの際に歩行者天国となる区間を歩けば、広島の街の中心を体感できる。
+
+同じ中央通り一帯を舞台とする広島三大寺社祭りのうち、6月のとうかさん（圓隆寺）は胡子講と並ぶ賑わいをみせる。季節を変えて広島の中心街を訪れれば、街と祭りの結びつきの深さをより深く味わうことができる。原爆からの復興を遂げた広島の商業の中心で、その歴史とともに祭りを楽しみたい。
+
+## 関連情報
+
+- 正式名称は胡子大祭（えびすたいさい）、通称は胡子講・えべっさん。
+- 広島三大寺社祭りの一つ（他はとうかさん・住吉祭）。
+- 1603年（慶長8年）の胡子神社建立より続く歴史ある祭り。
+- 縁起物の熊手「こまざらえ」は1901年（明治34年）の鎮座300年祭より発売。
+- 1945年の原爆被災の3か月後にも仮設社殿で祭典を実施し、中断なく継続。
+- 期間中は中央通りが歩行者天国となり10万人以上の人出で賑わう。
+','## Overview
+
+Ebisuko, formally called the Ebisu Taisai (Ebisu Grand Festival), is an annual festival held every November at Ebisu Shrine in Ebisu-cho, Naka Ward, Hiroshima City, Hiroshima Prefecture. Locally it is affectionately known as Ebessan, and it has long been revered by the merchants of Hiroshima as a festival dedicated to the guardian deity of business prosperity. Together with the Tokasan festival of Enryuji Temple and the Sumiyoshi festival of Sumiyoshi Shrine, it is counted as one of the Three Great Temple and Shrine Festivals of Hiroshima, and it is a seasonal event that announces the arrival of winter to the city.
+
+The festival is held over four days beginning on November 17. During this period, the Ebisu-dori shopping street and the surrounding shops and department stores all hold major sales at the same time. Chuo-dori, the main avenue, becomes a pedestrian paradise, and department stores such as Fukuya, Mitsukoshi, and Tenmaya join in with bargain sales, so the crowds during the period reach more than 100,000 people. A major feature of this festival is the way that worship at the shrine and the commercial events of the shopping district are unified into a single occasion.
+
+## History and Origins
+
+The origin of Ebisu Shrine is said to lie in the enshrinement of the deity Hiruko, the god of business, by the local elders who wished for the prosperity of what is now Ebisu-cho. As the guardian deity of an area that was developing as a merchant town, Hiruko, that is to say Ebisu, was chosen. Ebisu worship was originally a folk faith praying for business prosperity, household safety, and abundant harvests, and it spread among farmers, fishermen, and merchants from the Muromachi period onward. Ebisuko became a central bearer of that faith in Hiroshima.
+
+The Ebisu Grand Festival itself has continued since the founding of Ebisu Shrine in 1603, the eighth year of the Keicho era. Counting from that year, which corresponds to the early Edo period, the festival has already accumulated more than 400 years of history. Over these long years, Ebisu Shrine has continued to gather the faith of the Ebisu-cho and Hatchobori district at the commercial heart of Hiroshima, and the festival has expanded in scale together with the growth of the city.
+
+The lucky rake known as komazarae, an auspicious item that symbolizes the festival, began to be sold from the 300th anniversary enshrinement festival in 1901, the 34th year of the Meiji era. The rake is considered a lucky charm that rakes in good fortune, and the custom of people praying for business prosperity buying one every year became established. This distribution, which began on the occasion of 300 years since the shrine was founded, has become the signature feature of Ebisuko that continues to this day.
+
+What makes the Ebisu Grand Festival special for the people of Hiroshima is that it has never once been interrupted by war or disaster. Even when the city of Hiroshima suffered catastrophic damage from the atomic bomb on August 6, 1945, the festival was held in a temporary barrack shrine building only three months later, on November 20. The fact that the festival was not allowed to lapse even amid the scorched ruins speaks to how indispensable Ebisuko was as a source of support for the merchants and citizens of Hiroshima.
+
+## Highlights
+
+**The lucky rake komazarae** The greatest signature of Ebisuko is the lucky rake called komazarae, said to rake in good fortune. Shopkeepers and worshippers buy these rakes, brightly decorated with auspicious business items, every year. It is a tradition that has continued since the 300th anniversary festival of 1901, and holding a new rake has become a symbolic act of praying for a year of business prosperity.
+
+**The pedestrian paradise of Chuo-dori** During the festival, Chuo-dori, the main avenue of Hiroshima, becomes a pedestrian paradise. The sight of a normally car-filled boulevard packed with people is spectacular, and the crowd said to number more than 100,000 concentrates on this street. It is a scene unique to Ebisuko, when the entire city is dyed in the colors of the festival.
+
+**Major sales at shops and department stores** In coordination with the shrine rites, the Ebisu-dori shopping street and department stores such as Fukuya, Mitsukoshi, and Tenmaya all hold major sales and bargains at once. There was once a custom of discount sales called seimon-barai, and the essence of Ebisuko is that faith and commerce are inseparably linked. Shoppers and worshippers mingle, and the whole town bustles.
+
+**Worship at Ebisu Shrine** The center of the festival remains worship at Ebisu Shrine, the guardian deity of business prosperity. During the four-day period, many people, above all merchants, visit the shrine to pray for a year of business prosperity and household safety. As a place of faith that has supported the commerce of Hiroshima, the shrine shows a special liveliness during the festival.
+
+**One corner of the Three Great Festivals** Ebisuko is counted, together with Tokasan of Enryuji Temple in June and the Sumiyoshi festival of Sumiyoshi Shrine, among the Three Great Temple and Shrine Festivals of Hiroshima. All share the feature that the Chuo-dori area becomes a pedestrian paradise, and they are beloved by citizens as festivals that represent the annual events of Hiroshima. Ebisuko, which announces the arrival of winter, occupies the position of concluding this cycle.
+
+**The bustle of a town raking in fortune** Worshippers holding rakes, shoppers gathering for the major sales, and streets lined with food stalls and vendors, the bustle itself that these create in unison can be called the greatest highlight of Ebisuko. Fitting for a festival that enshrines the god of business, it is a span of several days when the entire town is filled with energy and good fortune.
+
+## Festival Information and Access
+
+**Name** Ebisu Taisai (Ebisu Grand Festival), popularly known as Ebisuko or Ebessan.
+
+**Location** Ebisu Shrine (5-12 Ebisu-cho, Naka Ward, Hiroshima City, Hiroshima Prefecture) and the area around Chuo-dori and the Ebisu-dori shopping street.
+
+**Dates** Four days beginning on November 17 every year (the shopping district sales run roughly from November 18 to 20).
+
+**Access by train** Get off right at Ebisu-cho tram stop on the Hiroshima Electric Railway, or right at Hatchobori tram stop.
+
+**Access from Hiroshima Station** Take the Hiroshima Electric Railway from Hiroshima Station toward Hatchobori and it is right there after getting off.
+
+**Admission** Free to worship (rakes and lucky items are sold at a charge).
+
+## Surroundings
+
+The Ebisu-cho and Hatchobori district where Ebisu Shrine is located is the central commercial area of Hiroshima City. Department stores such as Fukuya Hatchobori main store, Hiroshima Mitsukoshi, and Tenmaya are gathered here, and arcade streets including the Ebisu-dori shopping street spread out. Even outside the festival period, it bustles as the foremost entertainment district of Hiroshima, a location where there is no shortage of shopping and dining.
+
+Chuo-dori, the stage of the festival, is also a hub of city traffic as the main avenue of Hiroshima. The streetcars of the Hiroshima Electric Railway run in every direction, and major stops such as Kamiyacho and Hatchobori are close by, so access from all parts of the city is good. Walking the section that becomes a pedestrian paradise during the festival lets you experience the very heart of the city of Hiroshima.
+
+Among the Three Great Temple and Shrine Festivals of Hiroshima that take the same Chuo-dori area as their stage, Tokasan of Enryuji Temple in June shows a bustle comparable to Ebisuko. By visiting the center of Hiroshima in a different season, you can savor even more deeply the strong bond between the town and its festivals. At the commercial heart of Hiroshima, which achieved recovery from the atomic bomb, one wishes to enjoy the festival together with its history.
+
+## Related Information
+
+- The formal name is Ebisu Taisai (Ebisu Grand Festival); the popular names are Ebisuko and Ebessan.
+- One of the Three Great Temple and Shrine Festivals of Hiroshima (the others being Tokasan and the Sumiyoshi festival).
+- A historic festival that has continued since the founding of Ebisu Shrine in 1603 (Keicho 8).
+- The lucky rake komazarae has been sold since the 300th anniversary enshrinement festival in 1901 (Meiji 34).
+- The festival was held in a temporary shrine building only three months after the atomic bombing of 1945, continuing without interruption.
+- During the period, Chuo-dori becomes a pedestrian paradise bustling with crowds of more than 100,000 people.
+','ebisuko','ebisuko',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11617035','茂原七夕まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%8C%82%E5%8E%9F%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11622475','薬師祭植木市',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E7%A5%AD%E6%A4%8D%E6%9C%A8%E5%B8%82',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11580506','白鬚神社の田楽',NULL,'佐賀県佐賀市に伝わる民俗芸能',NULL,'Q11580503','白鬚神社','Shirahige Shrine','福岡県','kyushu',33.332142,130.325536,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%B0%E6%A5%BD',NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
