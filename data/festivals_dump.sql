@@ -17743,15 +17743,119 @@ Access to the festival is convenient. JR Aioi Station, served by both the Sanyo 
 INSERT INTO "festivals" VALUES('Q11621265','蒲原まつり','Kanbara Matsuri','新潟市の祭事',NULL,'Q63148107','蒲原神社','Kanbara Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596149','秩父神社御田植祭','Chichibu Shrine Otauesai','埼玉県秩父市の秩父神社で催される御田植祭',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,1659,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E7%A5%9E%E7%A4%BE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11620393','萩夏まつり','Hagi Summer Festival',NULL,NULL,NULL,NULL,NULL,'山口県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%90%A9%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11628376','西日本大濠花火大会','Nishinippon Ohori Fireworks Festival','福岡市で1949年から2018年まで開催されていた花火大会',NULL,'Q846710','大濠公園','Ōhori Park','福岡県','kyushu',NULL,NULL,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishi-Nippon%20Ohori%20Fireworks%20Festival%202009.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E5%A4%A7%E6%BF%A0%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','西日本大濠花火大会（にしにっぽんおおほりはなびたいかい）は、福岡県福岡市の大濠公園(おおほりこうえん)を会場として、1949年(昭和24年)から2018年(平成30年)まで開催されていた花火大会である。福岡市中心部に位置する大濠公園の広大な池を舞台に繰り広げられる花火は、福岡の夏を象徴する一大イベントとして、長年にわたり市民に親しまれてきた。
+INSERT INTO "festivals" VALUES('Q11628376','西日本大濠花火大会','Nishinippon Ohori Fireworks Festival','福岡市で1949年から2018年まで開催されていた花火大会',NULL,'Q846710','大濠公園','Ōhori Park','福岡県','kyushu',NULL,NULL,1949,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishi-Nippon%20Ohori%20Fireworks%20Festival%202009.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E5%A4%A7%E6%BF%A0%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','## 概要
 
-この花火大会の特徴は、都心の公園にある大きな池の水面に、打ち上げられた花火が映り込む美しさにあった。水面に揺らめく光と夜空に咲く大輪の花火が一体となり、二重の輝きを楽しめる点が、多くの観客を魅了した。福岡市の中心部という抜群のアクセスの良さもあり、最盛期には毎年数十万人もの観客が会場周辺に詰めかけ、夏の風物詩として定着していた。
+西日本大濠花火大会（にしにっぽんおおほりはなびたいかい）は、福岡県福岡市中央区の大濠公園を会場として、1949年から2018年まで開催されていた花火大会です。毎年8月1日の夜に催され、市内でも最大級の規模を誇り、福岡の夏の風物詩として長く市民に親しまれてきました。例年およそ6,000発の花火が夜空を彩り、大濠公園の広大な池の水面に映る光とともに、多くの来場者を魅了しました。
 
-しかし、観客数の増加に伴う安全確保の困難さなどを理由に、2018年の開催を最後に約70年の歴史に幕を下ろした。長きにわたり福岡の夏を彩り続けたこの花火大会は、多くの市民の記憶のなかに大切な夏の思い出として刻まれている。大濠公園という都市のオアシスを舞台にした水面の花火は、福岡の戦後復興と発展の歩みとともにあった、時代を象徴するイベントであった。','The Nishinippon Ōhori Fireworks Festival was a fireworks display held at Ōhori Park in Fukuoka City, Fukuoka Prefecture, from 1949 to 2018. Staged on the vast pond of Ōhori Park, located in central Fukuoka City, the fireworks were long beloved by citizens as a major event symbolizing summer in Fukuoka.
+観客数は毎年45万人前後にのぼり、2018年には約43万人が真夏の大濠公園に集いました。会場となる大濠公園は、福岡城の外堀の跡を整備して1929年に開園した水景公園で、周囲約2キロメートルの池を中心とした景観のなかで花火が打ち上げられる点が、この大会ならではの魅力でした。なお、この花火大会は2018年夏の開催をもって終了し、現在は行われていません。
 
-A distinctive feature of this fireworks display was the beauty of the launched fireworks reflected on the surface of the large pond in the urban park. The shimmering light on the water and the great blossoms of fireworks blooming in the night sky merged into one, offering a double brilliance that captivated many spectators. With outstanding accessibility in the heart of Fukuoka City, at its peak hundreds of thousands of spectators thronged the area around the venue each year, establishing it as a summer tradition.
+## 歴史・由来
 
-However, citing difficulties in ensuring safety amid the growing number of spectators, it brought its roughly 70-year history to a close after the 2018 staging. This fireworks display, which colored Fukuoka''s summer for so long, is engraved as a cherished summer memory in the minds of many citizens. The fireworks over the water, staged at the urban oasis of Ōhori Park, were an event symbolic of their era—one that accompanied Fukuoka''s path of postwar recovery and development.','nishinippon-ohori-fireworks-festival','nishinippon-ohori-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+西日本大濠花火大会は、太平洋戦争の戦没者の鎮魂と戦後復興を目的として、1949年に第1回が開催されました。焼け跡からの復興を願う人々の思いが込められた催しとして始まった点が、この花火大会の原点です。
+
+その後、1967年から1978年までの期間は開催が途絶え、中断の時期を経ることになりました。復活したのは1979年で、この年は福岡市制90年、そして会場である大濠公園の開園50年という節目にあたり、記念すべき年に大会が再び戻ってきました。
+
+復活以降は、1988年に大濠公園の改修工事が行われた年を除いて、毎年欠かさず開催が続けられました。西日本新聞社を中心に地元企業が協賛して大会が運営され、地域社会全体で支える夏の恒例行事として根づいていきました。半世紀以上にわたって夏の福岡を彩り続けたこの大会は、毎年45万人前後の人々を集め、地域の記憶に深く刻まれる行事となりました。
+
+2018年9月14日、主催者である西日本新聞社は同日付の朝刊紙面で、この花火大会を同年夏限りで終了することを発表しました。来場者が年々増加したことにより、会場周辺のひまわり畑が荒らされる事態が生じ、安全確保の観点から大会の継続が難しくなったことが、終了の主な理由とされています。1949年に始まり2018年に幕を閉じたこの大会は、69年にわたる歴史を持つ花火大会でした。
+
+## 見どころ
+
+**約6,000発の大輪の花火**　この大会の中心は、例年およそ6,000発が打ち上げられる花火そのものでした。福岡市内で最大級の規模を誇り、真夏の夜空を彩る大輪の花火は、多くの来場者の目を楽しませました。
+
+**水面に映る光の演出**　会場の大濠公園は広大な池を中心とした公園であり、打ち上げられた花火が水面に映り込む光景が大きな魅力でした。空と水の両方で光が広がる二重の眺めは、水景公園を舞台とするこの大会ならではのものでした。
+
+**協賛によるメッセージ花火**　地元企業の協賛によって運営され、仕掛け花火に協賛者のメッセージが込められることもありました。2007年にはプロ野球福岡ソフトバンクホークスの松中信彦選手が個人で協賛し、「鷹ファン日本一」のメッセージを花火で贈ったことが知られています。
+
+**特別観覧席とテレビ中継**　来場者が快適に花火を鑑賞できるよう特別観覧席が設けられ、約千人がすぐ間近で迫力ある花火を堪能しました。またNHK福岡放送局は1992年に大濠公園の近くへ移転して以降、総合テレビで特別中継番組を放送し、会場に足を運べない人々も家庭で花火を楽しむことができました。放送は年によって編成の都合で教育テレビに振り替えられることもあり、地域の夏の大きな話題として定着していました。
+
+## 開催情報・アクセス
+
+**開催期間**　毎年8月1日の夜に開催されていました（1949年〜2018年）。現在は終了しており、開催されていません。
+
+**会場**　福岡県福岡市中央区の大濠公園。
+
+**打ち上げ数**　例年およそ6,000発。
+
+**来場者数**　毎年45万人前後（2018年は約43万人）。
+
+**主催**　西日本新聞社。
+
+**最寄り駅**　福岡市地下鉄空港線の大濠公園駅が会場の最寄り駅でした。方面によっては唐人町駅や赤坂駅、また福岡市地下鉄七隈線の六本松駅も利用されました。混雑時には各駅への分散誘導が行われていました。
+
+## 周辺情報
+
+会場の大濠公園は、福岡市の中心部に位置する約40万平方メートルの広大な公園で、そのほとんどを楕円形の大きな池が占めています。もともとは福岡城の外堀にあたる博多湾の入り江の一部を整備したもので、1929年に開園しました。池の周囲にはおよそ2キロメートルの周遊路が整えられ、園内には野鳥の森も設けられています。四季折々の花や景色を楽しめる福岡有数の水景公園として知られ、花火大会の時期以外にも散策やボート遊びを楽しむ市民や観光客でにぎわう、福岡を代表する憩いの場となっています。
+
+大濠公園のすぐ東側には、史跡福岡城跡を整備した舞鶴公園が広がっています。福岡城は筑前福岡藩初代藩主・黒田長政によって築かれた城で、大濠公園の池はその外堀の名残です。城跡や石垣が残り、桜の名所としても親しまれています。
+
+このように会場周辺は、花火大会の時期以外にも豊かな自然と歴史を感じられる散策の場となっており、福岡を訪れる際に立ち寄る価値のあるエリアです。
+
+## 関連情報
+
+- 名称：西日本大濠花火大会（にしにっぽんおおほりはなびたいかい）
+- 開催地：福岡県福岡市中央区・大濠公園
+- 開催期間：毎年8月1日（1949年〜2018年・終了）
+- 打ち上げ数：約6,000発
+- 来場者数：約45万人（2018年は約43万人）
+- 主催：西日本新聞社
+- 会場の特徴：福岡城外堀跡を整備した水景公園（1929年開園）','## Overview
+
+The Nishinippon Ohori Fireworks Festival (Nishinippon Ohori Hanabi Taikai) was a fireworks festival held at Ohori Park in Chuo Ward, Fukuoka City, Fukuoka Prefecture, from 1949 until 2018. Held on the evening of August 1 each year, it was one of the largest fireworks displays in the city and was long cherished by residents as a signature feature of summer in Fukuoka. Around 6,000 fireworks lit up the night sky each year, and the light reflected on the surface of Ohori Park large pond captivated countless spectators.
+
+Attendance reached roughly 450,000 people each year, and in 2018 about 430,000 people gathered at Ohori Park in the height of summer. The venue, Ohori Park, is a water-landscape park that opened in 1929 on the site of the outer moat of Fukuoka Castle. The way the fireworks were launched within a landscape centered on a pond roughly two kilometers in circumference was a charm unique to this festival. It should be noted that this fireworks festival ended after the summer of 2018 and is no longer held.
+
+## History and Origins
+
+The Nishinippon Ohori Fireworks Festival held its first edition in 1949, with the aim of mourning those who died in the Pacific War and celebrating postwar reconstruction. Its origin lies in this event, which embodied the hopes of people who wished for recovery from the ruins of war.
+
+The festival was then suspended for a period from 1967 to 1978, passing through an interval of interruption. It was revived in 1979, a year that marked the 90th anniversary of Fukuoka City municipal system and the 50th anniversary of the opening of Ohori Park, its venue. The festival returned in this memorable year.
+
+After its revival, the festival continued every year without fail, except for 1988, when renovation work was carried out at Ohori Park. Having colored the summers of Fukuoka for more than half a century, the festival became an event deeply engraved in the memory of the region.
+
+On September 14, 2018, the organizer, the Nishinippon Shimbun newspaper company, announced in its morning edition that day that the festival would end after that summer. As the number of visitors increased year by year, sunflower fields around the venue were damaged, and it became difficult to continue the event from the standpoint of ensuring safety. This is regarded as the main reason for its conclusion. Beginning in 1949 and closing its curtain in 2018, the festival had a history spanning 69 years.
+
+## Highlights
+
+**About 6,000 grand fireworks**　The heart of this festival was the fireworks themselves, of which roughly 6,000 were launched each year. Boasting one of the largest scales in Fukuoka City, the grand fireworks that colored the midsummer night sky delighted the eyes of many visitors.
+
+**Light reflected on the water surface**　The venue, Ohori Park, is a park centered on a vast pond, and the sight of the launched fireworks reflected on the water surface was a great attraction. The double spectacle of light spreading across both sky and water was something unique to this festival, staged at a water-landscape park.
+
+**Sponsored message fireworks**　The festival was operated with the cooperation of local companies, and messages from sponsors were sometimes conveyed through set-piece fireworks. In 2007, Nobuhiko Matsunaka, a player for the professional baseball team Fukuoka SoftBank Hawks, sponsored the event personally and sent the message Hawks fans, number one in Japan through the fireworks.
+
+**Special viewing seats and television broadcast**　Special viewing seats were provided so that visitors could enjoy the fireworks comfortably, and many people savored the powerful display. Special broadcasts by the NHK Fukuoka station also allowed those unable to visit the venue to enjoy the fireworks at home.
+
+## Event Information and Access
+
+**Period**　Held on the evening of August 1 each year (1949 to 2018). The festival has now ended and is no longer held.
+
+**Venue**　Ohori Park, Chuo Ward, Fukuoka City, Fukuoka Prefecture.
+
+**Number of fireworks**　Approximately 6,000 each year.
+
+**Attendance**　Around 450,000 people each year (about 430,000 in 2018).
+
+**Organizer**　The Nishinippon Shimbun newspaper company.
+
+**Nearest station**　Ohori-koen Station on the Fukuoka City Subway Kuko Line was the closest station to the venue. Depending on the direction of travel, Tojinmachi Station and Akasaka Station, as well as Ropponmatsu Station on the Nanakuma Line, were also used. During congestion, visitors were guided to disperse among the various stations.
+
+## Surrounding Area
+
+The venue, Ohori Park, is a vast park of about 400,000 square meters located in the center of Fukuoka City, most of which is occupied by a large oval-shaped pond. It was originally created by developing the inlet of Hakata Bay that served as the outer moat of Fukuoka Castle, and it opened in 1929. The park has a walking path that encircles the pond and a wild bird forest, and it is known as one of the leading water-landscape parks in Fukuoka, where the flowers and scenery of the four seasons can be enjoyed.
+
+Immediately to the east of Ohori Park lies Maizuru Park, which was developed on the site of the Fukuoka Castle ruins, a designated historic site. Fukuoka Castle was built by Kuroda Nagamasa, the first lord of the Chikuzen Fukuoka domain, and the pond of Ohori Park is a remnant of its outer moat. The castle ruins and stone walls remain, and the area is also cherished as a spot famous for cherry blossoms.
+
+In this way, the area around the venue is a place for strolling where one can feel rich nature and history even outside the time of the fireworks festival, making it an area worth visiting when traveling to Fukuoka.
+
+## Related Information
+
+- Name: Nishinippon Ohori Fireworks Festival
+- Location: Ohori Park, Chuo Ward, Fukuoka City, Fukuoka Prefecture
+- Period: August 1 each year (1949 to 2018, ended)
+- Number of fireworks: approximately 6,000
+- Attendance: about 450,000 (about 430,000 in 2018)
+- Organizer: the Nishinippon Shimbun newspaper company
+- Venue feature: a water-landscape park developed on the site of the Fukuoka Castle outer moat (opened 1929)','nishinippon-ohori-fireworks-festival','nishinippon-ohori-fireworks-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11611892','能代役七夕','Noshiro Yakutanabata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11613284','臼杵祇園まつり','Usuki Gion Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%87%BC%E6%9D%B5%E7%A5%87%E5%9C%92%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11620954','葛木坐火雷神社','Katsuraki ni Imasu Honoikaduchi Shrine','奈良県葛城市笛吹にある神社','Shinto shrine in Nara Prefecture, Japan',NULL,NULL,NULL,'奈良県','kinki',34.47164,135.710049,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Katsuragi-imasuhonoikaduchi-jinja%20haiden1.jpg','https://ja.wikipedia.org/wiki/%E8%91%9B%E6%9C%A8%E5%9D%90%E7%81%AB%E9%9B%B7%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
@@ -19791,11 +19895,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
