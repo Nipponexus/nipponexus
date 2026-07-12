@@ -849,25 +849,119 @@ The venue is Hanahaku Memorial Park Tsurumi-ryokuchi (2-163 Ryokuchi Kōen, Tsur
 ## Surrounding Attractions
 
 In addition to Tsurumi-ryokuchi Park, central Osaka offers diverse tourism resources including Osaka Castle and Osaka Castle Park, the Namba, Shinsaibashi, and Dōtonbori commercial districts, Shinsekai and Tsutenkaku, Kaiyūkan Aquarium, and Universal Studios Japan. The suburbs feature Expo ''70 Commemorative Park (the site of the 1970 Osaka World Expo with the iconic Tower of the Sun), and combined tours with the ancient capitals of Kyoto and Nara are possible. The 2025 Osaka-Kansai Expo will be held on Yumeshima, continuing Osaka''s lineage as a "city of expositions" leading to the GREEN×EXPO 2027 in Yokohama.','expo-90-osaka-flower','expo-90-osaka-flower',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q912124','時代祭','Jidai Matsuri','平安神宮の例大祭に附属する年中行事','traditional Japanese festival in Kyoto','Q34600','京都市','Kyoto','京都府','kinki',35.011635,135.76804,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/JidaiMatsuri%20Gohouren.jpg','https://ja.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E7%A5%AD','https://en.wikipedia.org/wiki/Jidai_Matsuri',95,'drafted','時代祭は、京都市左京区の平安神宮で毎年10月22日に執り行われる例大祭であり、葵祭・祇園祭と並ぶ京都三大祭の一つに数えられる。平安遷都1100年を記念して1895年（明治28年）に創建された平安神宮の創建と同時に始まった比較的新しい祭礼でありながら、京都の千年を超える歴史絵巻を再現する壮大な時代行列で知られている。
+INSERT INTO "festivals" VALUES('Q912124','時代祭','Jidai Matsuri','平安神宮の例大祭に附属する年中行事','traditional Japanese festival in Kyoto','Q34600','京都市','Kyoto','京都府','kinki',35.011635,135.76804,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/JidaiMatsuri%20Gohouren.jpg','https://ja.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E7%A5%AD','https://en.wikipedia.org/wiki/Jidai_Matsuri',95,'drafted','## 概要
 
-祭の中心となる時代行列は、京都御所の建礼門前を午前中に出発し、平安神宮までの約4.5キロメートルを約3時間かけて練り歩く。行列は明治維新時代から始まり平安遷都の延暦時代まで時代を遡る構成で、約2,000名の市民が当時の装束を身にまとって参加する。徳川城使上洛列、織田公上洛列、楠公上洛列、藤原公卿参朝列、延暦武官行進列など、各時代を代表する人物や軍勢が登場し、和宮、徳川和子、淀君、静御前、小野小町、紫式部、清少納言、巴御前、横笛など歴史上の女性たちも色とりどりの衣装で参列する。
+時代祭（じだいまつり）は、京都市の平安神宮の大祭として、毎年10月22日に行われる祭りです（雨天の場合は順延）。5月の葵祭、7月の祇園祭とともに京都三大祭の一つに数えられ、秋の京都を代表する行事として広く知られています。
 
-行列で用いられる衣裳・祭具・調度品はいずれも厳密な時代考証に基づいて再現されたもので、京都の伝統工芸技術の粋を集めて製作されている。京都市の各学区から選ばれた市民が出演者となるため、地域共同体の祭として現在まで継承されてきた。雨天の場合は翌23日に順延される。
+最大の見どころは「時代風俗行列」です。明治維新の時代から、平安京が造営された延暦時代までの約1000年間を、時代を遡る形でたどっていく行列で、約2000人の市民が、それぞれの時代の装束や祭具を正確に再現した姿で京都のまちを練り歩きます。歴史の教科書に登場するような人物や、各時代を彩った庶民の姿が次々と現れる様子は「動く歴史風俗絵巻」とも称され、京都が長い歳月をかけて培ってきた伝統工芸の粋を今に伝えています。開催日の10月22日は、桓武天皇が平安京へ都を移した日にちなんでいます。葵祭が平安時代の王朝の雅を、祇園祭が町衆の活気を伝えるのに対し、時代祭は京都が歩んできた各時代の風俗を一度に見渡せる点に特色があり、比較的新しい明治期に始まった祭りでありながら、京都の長い歴史そのものを主題とする点で独自の存在感を放っています。
 
-平安神宮は岡崎公園に隣接し、国の名勝に指定されている広大な神苑も併せて拝観できる。周辺には京都国立近代美術館や京都市美術館、京都市動物園が集まる文化ゾーンが広がり、地下鉄東山駅や京阪神宮丸太町駅から徒歩圏内とアクセスも良好である。10月の京都は気候も穏やかで、嵐山や東山の紅葉が色づき始める時期と重なるため、時代祭観覧と合わせて京都観光を計画する旅行者も多い。','Jidai Matsuri, the Festival of the Ages, is one of Kyoto''s three great festivals alongside the Aoi Matsuri and Gion Matsuri, held annually on October 22 at Heian Jingu Shrine in the city''s Sakyo Ward. Although it is the youngest of the three—established in 1895 to commemorate the 1,100th anniversary of the founding of Heian-kyo, as Kyoto was originally called—it has become one of the most visually spectacular pageants in Japan, presenting more than a thousand years of Japanese history in a single afternoon procession.
+## 歴史・由来
 
-The festival was conceived as a way for Kyoto''s citizens to reaffirm their pride in their city after the imperial capital was relocated to Tokyo in 1869, an event that had left Kyoto economically and culturally diminished. By recreating the city''s storied past in elaborate detail, the people of Kyoto reasserted their identity as the cultural heart of Japan. The procession travels from the Kyoto Imperial Palace to Heian Jingu Shrine, a distance of roughly 4.5 kilometers covered over three hours, and is watched by tens of thousands of spectators lining the streets.
+時代祭は、平安遷都1100年を記念して明治28（1895）年に始まりました。平安京への遷都は延暦13（794）年のことで、そこから1100年の節目にあたる明治28年に、桓武天皇を祀る平安神宮が創建されました。
 
-What makes Jidai Matsuri remarkable is its meticulous historical accuracy. The procession moves backward through time, beginning with the Meiji Restoration of the late nineteenth century and progressing through the Edo, Azuchi-Momoyama, Muromachi, Yoshino, Kamakura, Fujiwara, and finally Enryaku periods, ending with the era when Heian-kyo was founded in 794. Approximately 2,000 participants drawn from Kyoto''s various neighborhood associations dress in costumes that have been researched and reproduced according to strict scholarly standards. Every garment, weapon, accessory, and piece of equipment is crafted using traditional Kyoto techniques, drawing on the city''s deep heritage of textile dyeing, weaving, metalwork, and lacquerware.
+この年、事実上の東京遷都によって活気を失いかけていた京都に再びにぎわいをもたらそうと、岡崎一帯を会場として第4回内国勧業博覧会が開催されました。博覧会は大成功を収め、同年秋には平安遷都1100年の紀念祭と式典が催されました。その最終日に行われた時代風俗行列が、現在の時代祭の始まりです。
 
-The procession features columns representing famous figures from each era. The Tokugawa shogunate''s envoy column recreates the formal entry of the shogun''s representatives into Kyoto, while the Oda Nobunaga column depicts the warlord''s ascent to the capital in the sixteenth century. Earlier periods bring forward figures from Japan''s classical age, including aristocratic courtiers in Heian robes, Buddhist priests, and warrior bands. Particularly beloved are the columns of historical women, which include such legendary and historical figures as Princess Kazunomiya, Tokugawa Kazuko, Yodo-gimi, Shizuka Gozen, Ono no Komachi, Murasaki Shikibu, Sei Shonagon, Tomoe Gozen, and Yokobue. Their twelve-layered junihitoe robes and ornate hair ornaments offer a vivid display of classical Japanese aesthetics.
+平安神宮の創建と、その大祭としての時代祭は、都としての誇りを取り戻そうとする当時の京都の人々の思いから生まれたものでした。以来、時代祭は市民の手によって支えられ、京都の秋を彩る恒例行事として受け継がれてきました。行列に用いられる装束や祭具は、精緻な時代考証に基づいて復元されており、単なる仮装ではなく、各時代の風俗を正確に伝える文化的な意義を持っています。
 
-Heian Jingu Shrine itself is worth visiting in its own right. Built as a partial replica of the original Heian-period imperial palace, its vermilion buildings and vast white gravel courtyard evoke the architectural style of the ninth century. Behind the main hall lies a celebrated stroll garden designated a national Place of Scenic Beauty, where weeping cherry trees, water lilies, and irises bloom in succession through the seasons. In late October, when Jidai Matsuri takes place, the surrounding Higashiyama and Arashiyama districts begin to show their first hints of autumn color, making the period especially attractive for visitors planning a broader Kyoto itinerary.
+## 見どころ
 
-Access to the festival route is convenient. The Kyoto Imperial Palace can be reached via the Karasuma subway line at Marutamachi or Imadegawa stations, while Heian Jingu Shrine is a short walk from Higashiyama Station on the Tozai subway line or Jingu-Marutamachi Station on the Keihan line. The procession passes through Marutamachi and Karasuma streets before turning eastward toward the shrine, and viewing stands with reserved seating are set up along the route for those who wish to watch in comfort. In the event of rain, the festival is postponed to the following day, October 23.
+**時代を遡る行列の構成**　時代風俗行列は、最も新しい明治維新時代から始まり、江戸、安土桃山、室町、吉野、鎌倉、藤原、そして平安京造営の延暦時代へと、時代を遡る形で構成されています。鳴り物入りで登場する維新勤王隊を先頭に、約1000年の歴史を約2時間かけて振り返ることができます。
 
-The Okazaki cultural district surrounding Heian Jingu offers further attractions, including the National Museum of Modern Art Kyoto, the Kyoto City KYOCERA Museum of Art, and the Kyoto Municipal Zoo, allowing visitors to combine festival viewing with a full day of cultural exploration. For travelers wishing to experience all three of Kyoto''s great festivals in a single year, Jidai Matsuri completes the cycle that begins with Aoi Matsuri in May and Gion Matsuri throughout July.','jidai-matsuri','jidai-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**歴史上の人物たち**　行列には、桂小五郎や西郷隆盛、織田信長といった歴史の教科書に登場する人物に扮した人々が、馬や牛車に乗って次々と通っていきます。観覧者は目の前で歴史上の人物と出会うような感覚を味わえます。
+
+**精緻な時代考証**　衣裳や髪型、祭具は、時代による変化が正確に復元されています。たとえば同じ平安時代の女性でも、清少納言は十二単をまとい、紫式部は小袿を着るなど、細やかな違いが表現されています。ファッションの移り変わりに注目して見るのも楽しみの一つです。
+
+**庶民や女性たちの列**　有名人だけでなく、京の町衆の風流踊りを再現した「室町洛中風俗列」や、行商に携わった「白川女」「大原女」といった、各時代を支えた庶民の姿も登場します。歴史の表舞台に立った人物だけでなく、市井の人々もよみがえります。
+
+**本列と2基の御鳳輦**　行列の中心となるのが神幸列です。延暦時代列に続いて、神饌を奉じる神饌講社列、雅楽の伶人などからなる前列、そして神幸列が進みます。神幸列には2基の御鳳輦があり、平安神宮の御祭神である桓武天皇と孝明天皇の御神霊が乗られています。これまでの行列は、すべてこの神幸列にお供をするためのものなのです。
+
+## 開催情報・アクセス
+
+**開催日**　毎年10月22日（雨天の場合は当日早朝の判断で順延）。
+
+**会場・ルート**　行列は正午に京都御所（京都御苑）の建礼門前を出発し、烏丸御池や河原町三条などを経て、平安神宮へと向かいます。行列をすべて見終えるにはおよそ2時間かかります。
+
+**参加人数**　約2000人の市民が行列に参加します。
+
+**主催・関係社寺**　平安神宮の大祭として行われます。
+
+**観覧**　沿道での観覧のほか、京都御苑や御池通、平安神宮道などには有料観覧席が設けられ、座ってゆっくりと行列を楽しむことができます。
+
+**アクセス**　出発地の京都御所へは地下鉄烏丸線の丸太町駅・今出川駅が便利です。到着地の平安神宮へは市バスの岡崎公園・美術館・平安神宮前などが最寄りとなります。
+
+## 周辺情報
+
+時代祭の舞台となる平安神宮は、京都市左京区の岡崎地区に鎮座しています。平安京の正庁であった朝堂院を、およそ8分の5の規模で再現した社殿が特徴で、朱塗りの応天門や大極殿が鮮やかにそびえます。境内の神苑は広大な池泉回遊式庭園で、四季折々の花が楽しめる名所としても知られています。
+
+岡崎一帯は、時代祭発祥のきっかけとなった第4回内国勧業博覧会の会場となった場所でもあり、現在は京都市京セラ美術館や京都国立近代美術館、京都市動物園などの文化施設が集まる文化ゾーンとなっています。時代祭の観覧とあわせて、これらの施設を巡る散策もおすすめです。
+
+また、行列の出発地である京都御苑は、かつて公家の邸宅が立ち並んだ広大な緑地で、京都御所を中心とした市民の憩いの場となっています。時代祭の日には、出発を待つ行列の姿を間近に見ることができます。
+
+## 関連情報
+
+- 名称：時代祭（じだいまつり）
+- 開催地：京都府京都市・平安神宮（行列は京都御所から平安神宮へ）
+- 開催日：毎年10月22日（雨天順延）
+- 始まり：明治28（1895）年・平安遷都1100年記念
+- 御祭神：桓武天皇・孝明天皇
+- 参加人数：約2000人
+- 位置づけ：京都三大祭の一つ（葵祭・祇園祭・時代祭）','## Overview
+
+Jidai Matsuri (the Festival of the Ages) is a festival held as the grand festival of Heian Shrine in Kyoto City on October 22 each year (postponed in case of rain). Together with the Aoi Matsuri in May and the Gion Matsuri in July, it is counted as one of the Three Great Festivals of Kyoto and is widely known as an event representing autumn in Kyoto.
+
+The greatest highlight is the Procession of the Ages. This procession traces about 1,000 years, going back in time from the Meiji Restoration era to the Enryaku era when the Heian capital was built. About 2,000 citizens walk through the streets of Kyoto dressed in costumes and carrying ritual implements that accurately reproduce each era. The way in which figures who appear in history textbooks and common people who colored each age appear one after another has been called a moving picture scroll of historical customs, conveying to the present day the finest traditional crafts that Kyoto has cultivated over long years. The festival date of October 22 commemorates the day on which Emperor Kanmu moved the capital to Heian-kyo.
+
+## History and Origins
+
+Jidai Matsuri began in 1895 (Meiji 28) to commemorate the 1,100th anniversary of the transfer of the capital to Heian-kyo. The relocation of the capital to Heian-kyo took place in 794 (Enryaku 13), and 1,100 years later, in 1895, Heian Shrine was founded to enshrine Emperor Kanmu.
+
+In that year, in order to bring liveliness back to a Kyoto that had begun to lose its vitality following the de facto transfer of the capital to Tokyo, the Fourth National Industrial Exhibition was held with the Okazaki area as its venue. The exhibition was a great success, and that autumn a commemorative festival and ceremony marking the 1,100th anniversary of the Heian capital were held. The procession of historical customs performed on its final day was the beginning of the present Jidai Matsuri.
+
+The founding of Heian Shrine and Jidai Matsuri as its grand festival were born from the feelings of the people of Kyoto at that time, who sought to recover their pride as a capital. Since then, Jidai Matsuri has been supported by the hands of citizens and handed down as a regular event coloring the autumn of Kyoto. The costumes and ritual implements used in the procession are reconstructed based on precise historical research, and they carry the cultural significance of accurately conveying the customs of each era, rather than being mere fancy dress.
+
+## Highlights
+
+**A procession going back through the ages**　The Procession of the Ages begins with the most recent Meiji Restoration era and is arranged to go back in time through the Edo, Azuchi-Momoyama, Muromachi, Yoshino, Kamakura, Fujiwara, and finally the Enryaku era when the Heian capital was built. Led by the Ishin Kinno-tai loyalist corps that appears with musical fanfare, visitors can look back on about 1,000 years of history over roughly two hours.
+
+**Historical figures**　In the procession, people dressed as figures who appear in history textbooks, such as Kido Takayoshi, Saigo Takamori, and Oda Nobunaga, pass by one after another on horseback or in ox-drawn carriages. Spectators can experience the sensation of encountering historical figures right before their eyes.
+
+**Precise historical research**　The costumes, hairstyles, and ritual implements accurately reproduce changes across the eras. For example, even among women of the same Heian period, Sei Shonagon is dressed in the twelve-layered junihitoe, while Murasaki Shikibu wears a kouchigi, expressing subtle differences. Paying attention to the shifts in fashion is one of the pleasures of watching.
+
+**Rows of commoners and women**　Not only famous figures appear. There are also the Muromachi Rakuchu Fuzoku row, which reproduces the elegant dances of the townspeople of Kyoto, and rows of common people who supported each era, such as the Shirakawa-me and Ohara-me women who engaged in peddling. Not only those who stood on the main stage of history but also ordinary people of the streets are brought back to life.
+
+**The main procession and two portable shrines**　At the center of the procession is the Shinko row. Following the Enryaku era row come the Shinsen-kosha row offering sacred food, the Zenretsu row of gagaku court musicians, and then the Shinko row. The Shinko row includes two go-horen portable shrines, on which ride the divine spirits of Emperor Kanmu and Emperor Komei, the enshrined deities of Heian Shrine. All the preceding rows are in fact meant to accompany this Shinko row.
+
+## Event Information and Access
+
+**Date**　October 22 each year (postponed by a decision made early on the day in case of rain).
+
+**Venue and route**　The procession departs at noon from in front of the Kenrei-mon gate of the Kyoto Imperial Palace (Kyoto Gyoen), and heads toward Heian Shrine by way of Karasuma Oike, Kawaramachi Sanjo, and other points. It takes about two hours to see the entire procession.
+
+**Number of participants**　About 2,000 citizens take part in the procession.
+
+**Organizer and related shrine**　It is held as the grand festival of Heian Shrine.
+
+**Viewing**　In addition to watching from along the route, paid viewing seats are set up in places such as Kyoto Gyoen, Oike-dori, and the approach to Heian Shrine, allowing visitors to sit and enjoy the procession at their leisure.
+
+**Access**　For the departure point at the Kyoto Imperial Palace, Marutamachi Station and Imadegawa Station on the subway Karasuma Line are convenient. For the arrival point at Heian Shrine, the city bus stops at Okazaki Park, Museum, and Heian Jingu-mae are the nearest.
+
+## Surrounding Area
+
+Heian Shrine, the setting of Jidai Matsuri, is located in the Okazaki district of Sakyo Ward, Kyoto City. Its shrine buildings are notable for reproducing, at roughly five-eighths scale, the Chodo-in, the main administrative compound of the Heian capital, with the vermilion-lacquered Oten-mon gate and Daigoku-den hall rising vividly. The shrine garden within the precincts is a vast pond-strolling garden, also known as a scenic spot where flowers of the four seasons can be enjoyed.
+
+The Okazaki area is also the place that served as the venue for the Fourth National Industrial Exhibition, which became the catalyst for the birth of Jidai Matsuri. Today it is a cultural zone gathering facilities such as the Kyoto City Kyocera Museum of Art, the National Museum of Modern Art Kyoto, and the Kyoto City Zoo. A stroll visiting these facilities together with watching Jidai Matsuri is recommended.
+
+In addition, the Kyoto Gyoen, the departure point of the procession, is a vast green space where the residences of court nobles once stood in rows, and it is a place of relaxation for citizens centered on the Kyoto Imperial Palace. On the day of Jidai Matsuri, one can see the procession waiting to depart up close.
+
+## Related Information
+
+- Name: Jidai Matsuri (Festival of the Ages)
+- Location: Heian Shrine, Kyoto City, Kyoto Prefecture (the procession goes from the Kyoto Imperial Palace to Heian Shrine)
+- Date: October 22 each year (postponed in case of rain)
+- Beginning: 1895 (Meiji 28), commemorating the 1,100th anniversary of the Heian capital
+- Enshrined deities: Emperor Kanmu and Emperor Komei
+- Number of participants: about 2,000
+- Status: one of the Three Great Festivals of Kyoto (Aoi, Gion, and Jidai)','jidai-matsuri','jidai-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11566547','瀬戸内国際芸術祭','Setouchi Triennale',NULL,'art festival in Seto Inland Sea','Q11520216','本島','Honjima',NULL,NULL,NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%9B%BD%E9%9A%9B%E8%8A%B8%E8%A1%93%E7%A5%AD','https://en.wikipedia.org/wiki/Setouchi_Triennale',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11465151','尾島ねぷた','Ojima Neputa Festival',NULL,'festival in Japan',NULL,NULL,NULL,'青森県','tohoku',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F','https://en.wikipedia.org/wiki/Ojima_Neputa_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11510099','日立風流物','Hitachi Fūryūmono','茨城県日立市に伝わる民俗文化財','Japanese festival with puppets','Q28683513','神峰神社','Kamine Shrine','茨城県','kanto',NULL,NULL,1695,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Furyumonoomoteyama.jpg','https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E9%A2%A8%E6%B5%81%E7%89%A9','https://en.wikipedia.org/wiki/Hitachi_Furyumono',85,'drafted','## 概要
