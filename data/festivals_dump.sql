@@ -18344,41 +18344,113 @@ Enshu Yokosuka is also close to the Enshu Sea and is a land blessed with the bou
 INSERT INTO "festivals" VALUES('Q12624253','日韓交流おまつり',NULL,NULL,NULL,'Q8684','ソウル特別市','Seoul',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9F%93%E4%BA%A4%E6%B5%81%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11630000','西馬音内の盆踊','Nishimonai no Bon-odori','秋田県羽後町に伝わる盆踊り',NULL,NULL,NULL,NULL,'秋田県','tohoku',39.199556,140.403222,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Nishimonai%20Bon%20Odori.jpg','https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%A6%AC%E9%9F%B3%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
 
-西馬音内の盆踊(にしもないのぼんおどり)は、秋田県雄勝郡羽後町西馬音内で毎年8月16日から18日にかけて行われる伝統盆踊りで、岐阜県の郡上踊り、徳島県の阿波踊りと並んで「日本三大盆踊り」の一つに数えられる。約700年の歴史を持つとされ、1981年(昭和56年)に国の重要無形民俗文化財に指定された。
+西馬音内の盆踊（にしもないのぼんおどり）は、秋田県雄勝郡羽後町の西馬音内地区に伝わる盆踊りで、毎年8月16日から18日までの3日間にわたって行われます。徳島県の阿波踊り、岐阜県の郡上おどりと並んで日本三大盆踊りの一つに数えられ、東北を代表する夏の行事として知られています。
 
-## 歴史
+最大の特徴は、編み笠や彦三頭巾で顔を隠した踊り手たちが、あでやかな衣装をまとって篝火のもとで舞う幻想的な光景です。にぎやかで陽気な盆踊りが多いなかで、西馬音内の盆踊は物憂げで優雅な所作と、顔を隠した踊り手の姿が独特の情緒をたたえており、その芸術性の高さが広く評価されています。祖霊を送る盆の行事としての性格を持ち、篝火に浮かび上がる踊りの列は、見る者を静かな感動へと誘います。
 
-西馬音内の盆踊の起源は鎌倉時代末期の正応年間(1288〜1293年)に修行僧・源親(げんしん)が蔵王権現の堂前で豊年祈願として行ったのが始まりとされる。その後、慶長6年(1601年)に西馬音内城主・小野寺氏が滅亡し、亡霊を弔う踊りと習合して現在の盆踊りの形になったと伝わる。「彦三頭巾(ひこさずきん)」と呼ばれる黒い覆面、「端縫い(はぬい)」と呼ばれる継ぎ接ぎ衣装と編み笠で踊り手が顔を隠す独特の様式が特徴で、亡霊の踊りとも称される神秘的な雰囲気を醸し出す。
+## 歴史・由来
+
+西馬音内の盆踊の起源を記録した確かな資料は残されていませんが、言い伝えによれば、その最も古い起源は鎌倉時代までさかのぼるとされ、およそ700年の歴史を持つと伝えられています。もともとは地域の住民が祖霊を供養し、送り出すための盆の行事として受け継がれてきました。
+
+長く地元の人々によって守られてきたこの盆踊りは、昭和10（1935）年に東京で初めて公演されたことをきっかけに、踊りの形式が整えられていきました。それ以前の明治40（1907）年には、この地を訪れていた俳人の河東碧梧桐が盆踊りの姿を書き留めており、地元の外からもその情緒が早くから注目されていたことがうかがえます。東京公演によって西馬音内の盆踊は広く世に知られるようになり、その独特の美しさが全国的な注目を集めるようになりました。
+
+そして昭和56（1981）年1月21日、高い芸術性を有する文化として、盆踊りとしては全国で初めて国の重要無形民俗文化財に指定されました。これは西馬音内の盆踊が単なる地域の行事にとどまらず、日本の民俗文化を代表する存在として認められたことを意味します。
+
+さらに2022年11月には、各地の盆踊りや念仏踊りなどをまとめた「風流踊」の一つとして、ユネスコ無形文化遺産に登録されました。地域の人々の手によって世代を超えて受け継がれてきた伝統が、今や世界的にも価値を認められる文化となっています。
 
 ## 見どころ
 
-囃子(はやし)の音色と「がんけ」「音頭」の2種類の踊りが繰り返され、3日間延べ約10万人の観客が訪れる。編み笠と彦三頭巾で顔を覆った踊り手たちが、ゆるやかなのに艶めかしく、しなやかでありながら張りのある所作で篝火の周りを静かに巡る姿は、観る者に時代を超えた感動を与える。
+**顔を隠した踊り手の姿**　踊り手は編み笠を目深にかぶるか、あるいは「彦三頭巾（ひこさずきん）」と呼ばれる黒い頭巾で顔を覆って踊ります。彦三頭巾は目元に穴の開いた袋状の覆面で、農作業用の日除け・虫除けの黒布から生まれたとも、歌舞伎の黒子から着想を得たともいわれています。顔を隠すことで生まれる匿名性と神秘性が、この盆踊り独特の情緒を生み出しています。
+
+**あでやかな端縫い衣装**　衣装には二つの種類があります。一つは「端縫い（はぬい）衣装」で、さまざまな絹布をつづり合わせて作られた華やかな衣装です。もう一つは「藍染め浴衣」で、こちらは彦三頭巾と組み合わせて着られます。編み笠をかぶるのは主に端縫い衣装の踊り手で、衣装と頭巾の組み合わせにも約束事があります。
+
+**篝火に浮かぶ幻想的な光景**　夜、通りに焚かれた篝火の灯りのなかを、優雅に舞う踊り手の列が進みます。あでやかな衣装と顔を隠した姿が炎に照らし出される光景は、ほかの盆踊りにはない幻想的な美しさを持ち、この祭りの最大の魅力となっています。にぎやかに騒ぐのではなく、静かに、そして流れるように舞う所作には、祖霊を送るという盆本来の祈りの心が息づいており、見る者は華やかさのなかにどこか物悲しい情緒を感じ取ります。
+
+**独特のお囃子**　踊りを支えるお囃子には、「寄せ太鼓」「音頭」「がんけ」などがあり、太鼓や笛、三味線などの音色が踊りに彩りを添えます。物憂げな旋律が、優雅な踊りとあいまって独特の世界をつくり出します。
 
 ## 開催情報・アクセス
 
-会場は秋田県雄勝郡羽後町西馬音内本町通り。JR奥羽本線湯沢駅から羽後交通バスで約30分。観覧は無料。
+**開催期間**　毎年8月16日から18日までの3日間。
 
-## 周辺観光
+**会場**　秋田県雄勝郡羽後町の西馬音内地区（本町通りなど）。
 
-羽後町は美しい里山風景に囲まれ、近隣には湯沢市の小安峡温泉、稲庭うどんの里、横手のかまくらなど秋田県南部の観光資源が集中する。8月は雄勝の伝統行事と温泉を組み合わせた旅行が定番。','## Overview
+**位置づけ**　日本三大盆踊りの一つ（阿波踊り・郡上おどり・西馬音内盆踊り）。国の重要無形民俗文化財（1981年指定）、ユネスコ無形文化遺産「風流踊」（2022年登録）。
 
-Nishimonai no Bon-odori (Nishimonai Bon Dance) is a traditional Bon dance held annually from August 16 to 18 in Nishimonai, Ugo Town, Ogachi District, Akita Prefecture. It ranks alongside Gujō Odori in Gifu Prefecture and Awa Odori in Tokushima Prefecture as one of the "Three Great Bon Dances of Japan." With a history reportedly spanning approximately 700 years, it was designated as a National Important Intangible Folk Cultural Property in 1981 (Shōwa 56).
+**保護団体**　西馬音内盆踊保存会。
 
-## History
+**アクセス**　会場の羽後町へは、秋田県南部の湯沢市方面からのアクセスが便利です。開催期間中は多くの来訪者でにぎわうため、公共交通機関や臨時の交通案内を利用するとよいでしょう。
 
-The origins of the Nishimonai Bon-odori are traced to the Shōō era (1288–1293) at the end of the Kamakura period, when the ascetic monk Genshin is said to have performed dances in front of the Zaō Gongen hall as prayers for bountiful harvests. Subsequently, following the destruction of the Onodera clan, lords of Nishimonai Castle, in 1601 (Keichō 6), the dance is believed to have merged with mourning rituals for the spirits of the deceased, taking on its present form as a Bon dance. The distinctive style features dancers concealing their faces with black hoods called "Hikosa-zukin" and patchwork garments called "Hanui" combined with woven straw hats. This face-concealing tradition has earned the dance the nickname "the dance of spirits," lending it a mysterious atmosphere unmatched in Japanese folk performing arts.
+## 周辺情報
+
+西馬音内の盆踊が行われる羽後町は、秋田県の南部、雄勝郡に位置する町で、周囲を山々に囲まれ、豊かな自然と田園の農村風景が広がる地域です。西馬音内地区は古くからの町並みが残り、盆踊りの舞台となる通りには、祭りの季節になると独特の情緒が漂います。
+
+町内には、西馬音内の盆踊の歴史や衣装、道具などを紹介する施設もあり、祭りの時期以外でもその文化に触れることができます。あでやかな端縫い衣装や彦三頭巾の実物を間近に見ることで、盆踊りの奥深さをより深く知ることができるでしょう。
+
+また、羽後町を含む秋田県南部一帯は、湯沢や横手といった歴史ある町が点在する地域でもあります。西馬音内の盆踊を訪れる際には、周辺の温泉や史跡、郷土料理などとあわせて、秋田の豊かな風土を味わう旅を楽しむことができます。
+
+## 関連情報
+
+- 名称：西馬音内の盆踊（にしもないのぼんおどり）
+- 開催地：秋田県雄勝郡羽後町・西馬音内地区
+- 開催期間：毎年8月16日〜18日
+- 起源：言い伝えでは鎌倉時代（約700年前）
+- 文化財：国の重要無形民俗文化財（1981年・盆踊りとして全国初）
+- 世界遺産：ユネスコ無形文化遺産「風流踊」（2022年登録）
+- 位置づけ：日本三大盆踊りの一つ（阿波踊り・郡上おどり・西馬音内盆踊り）','## Overview
+
+Nishimonai no Bon Odori (the Nishimonai Bon Dance) is a Bon dance handed down in the Nishimonai district of Ugo Town, Ogachi District, Akita Prefecture, held over three days from August 16 to 18 each year. Together with the Awa Odori of Tokushima Prefecture and the Gujo Odori of Gifu Prefecture, it is counted as one of the Three Great Bon Dances of Japan and is known as a summer event representing the Tohoku region.
+
+Its greatest characteristic is the fantastical sight of dancers who conceal their faces with woven straw hats or hoods, dancing in gorgeous costumes by the light of bonfires. While many Bon dances are lively and cheerful, the Nishimonai Bon Dance possesses a unique atmosphere in its wistful and graceful movements and in the figures of the dancers who hide their faces, and its high artistic quality has been widely praised. Holding the character of a Bon event that sees off ancestral spirits, the rows of dancers emerging in the light of the bonfires draw viewers into a quiet emotion.
+
+## History and Origins
+
+No reliable records documenting the origins of the Nishimonai Bon Dance remain, but according to legend, its oldest origins are said to go back to the Kamakura period, and it is said to have a history of roughly 700 years. Originally it was handed down as a Bon event in which local residents honored and sent off ancestral spirits.
+
+Long protected by local people, this Bon dance had its form refined after it was first performed in Tokyo in 1935 (Showa 10). Through this performance, the Nishimonai Bon Dance became widely known, and its distinctive beauty began to attract attention.
+
+Then, on January 21, 1981 (Showa 56), as a culture possessing high artistic quality, it became the first Bon dance in the nation to be designated an Important Intangible Folk Cultural Property of Japan. This meant that the Nishimonai Bon Dance was recognized not merely as a local event but as a representative of Japanese folk culture.
+
+Furthermore, in November 2022, it was inscribed on the UNESCO Intangible Cultural Heritage list as one of the Furyu-odori, a grouping of Bon dances and nembutsu dances from various regions. The tradition, handed down across generations by the hands of local people, has now become a culture whose value is recognized worldwide.
 
 ## Highlights
 
-To the accompaniment of traditional festival music (hayashi), two types of dance—"Ganke" and "Ondo"—are performed in alternation, drawing approximately 100,000 spectators over the three-day event. Dancers concealing their faces behind woven hats and Hikosa-zukin hoods move slowly yet sensually, gracefully yet firmly around the central bonfires, creating a hauntingly beautiful spectacle that conveys to viewers a deep emotional resonance transcending the centuries.
+**Dancers with concealed faces**　The dancers either wear woven straw hats pulled down low, or cover their faces with a black hood called a hikosa-zukin. The hikosa-zukin is a bag-shaped mask with holes opened at the eyes, said to have originated either from black cloth used in farm work to shade from sun and repel insects, or to have taken its inspiration from the kuroko stagehands of kabuki. The anonymity and mystery created by concealing the face give rise to the atmosphere unique to this Bon dance.
 
-## Event Details and Access
+**Gorgeous hanui costumes**　There are two types of costume. One is the hanui costume, a splendid garment made by sewing together various pieces of silk cloth. The other is the indigo-dyed yukata, worn in combination with the hikosa-zukin. The woven straw hats are worn mainly by dancers in hanui costumes, and there are conventions governing the combination of costume and hood.
 
-The venue is Honchō Street in Nishimonai, Ugo Town, Ogachi District, Akita Prefecture. Access is approximately 30 minutes by Ugo Kōtsū bus from Yuzawa Station on the JR Ōu Main Line. Viewing the dance is free of charge.
+**A fantastical scene by bonfire light**　At night, rows of dancers move gracefully through the light of bonfires lit along the street. The sight of the gorgeous costumes and concealed figures illuminated by the flames possesses a fantastical beauty found in no other Bon dance, and it is the greatest charm of this festival.
 
-## Surrounding Attractions
+**Distinctive musical accompaniment**　The musical accompaniment that supports the dance includes yose-daiko, ondo, and ganke, and the tones of drums, flutes, and shamisen add color to the dancing. The wistful melodies, together with the graceful dance, create a distinctive world.
 
-Ugo Town is nestled within picturesque satoyama countryside landscapes, with nearby attractions concentrating the tourism resources of southern Akita Prefecture, including Oyasukyō Hot Spring in Yuzawa City, the home village of Inaniwa udon noodles, and the kamakura snow huts of Yokote. August in particular offers an ideal opportunity to combine traditional festivals of the Ogachi region with hot spring tourism in a memorable cultural journey.','nishimonai-no-bon-odori','nishimonai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+**Period**　Three days from August 16 to 18 each year.
+
+**Venue**　The Nishimonai district of Ugo Town, Ogachi District, Akita Prefecture (along Honmachi-dori and other streets).
+
+**Status**　One of the Three Great Bon Dances of Japan (Awa Odori, Gujo Odori, and Nishimonai Bon Odori). An Important Intangible Folk Cultural Property of Japan (designated 1981), and part of the UNESCO Intangible Cultural Heritage Furyu-odori (inscribed 2022).
+
+**Preservation body**　The Nishimonai Bon Odori Preservation Society.
+
+**Access**　Ugo Town, the venue, is conveniently reached from the direction of Yuzawa City in the southern part of Akita Prefecture. Since the venue is crowded with many visitors during the festival period, it is advisable to use public transportation and temporary traffic guidance.
+
+## Surrounding Area
+
+Ugo Town, where the Nishimonai Bon Dance is held, is a town located in the southern part of Akita Prefecture, an area of rich nature and rural scenery. The Nishimonai district retains an old townscape, and when the festival season arrives, a distinctive atmosphere drifts through the streets that serve as the stage for the Bon dance.
+
+Within the town there are also facilities that introduce the history, costumes, and implements of the Nishimonai Bon Dance, allowing visitors to experience its culture even outside the festival season. By seeing the actual gorgeous hanui costumes and hikosa-zukin hoods up close, one can come to know the depth of the Bon dance more deeply.
+
+In addition, the area encompassing Ugo Town and the southern part of Akita Prefecture is a region dotted with historic towns such as Yuzawa and Yokote. When visiting the Nishimonai Bon Dance, one can enjoy a journey savoring the rich natural setting of Akita together with the surrounding hot springs, historic sites, and local cuisine.
+
+## Related Information
+
+- Name: Nishimonai no Bon Odori (Nishimonai Bon Dance)
+- Location: Nishimonai district, Ugo Town, Ogachi District, Akita Prefecture
+- Period: August 16 to 18 each year
+- Origin: according to legend, the Kamakura period (about 700 years ago)
+- Cultural property: Important Intangible Folk Cultural Property of Japan (1981; the first Bon dance in the nation to be designated)
+- World heritage: UNESCO Intangible Cultural Heritage Furyu-odori (inscribed 2022)
+- Status: one of the Three Great Bon Dances of Japan (Awa Odori, Gujo Odori, and Nishimonai Bon Odori)','nishimonai-no-bon-odori','nishimonai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11670289','高松冬のまつり','Takamatsu Fuyu no Matsuri',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%86%AC%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642072','遠州はまきた飛竜まつり','Hamakita Hiryū festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E3%81%AF%E3%81%BE%E3%81%8D%E3%81%9F%E9%A3%9B%E7%AB%9C%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11633921','豊浜ちょうさ祭','Toyohama Chōsa Festival','香川県観音寺市豊浜町で行われる祭礼',NULL,NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Toyohama%20Chosa%20example%20Apr%2001%202021%2004-45PM.jpeg','https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD',NULL,85,'drafted','## 概要
