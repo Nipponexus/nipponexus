@@ -2997,69 +2997,123 @@ INSERT INTO "festivals" VALUES('Q5288609','土居太鼓祭り','Doi taikomatsuri
 INSERT INTO "festivals" VALUES('Q11276889','ぴあフィルムフェスティバル','Pia Film Festival',NULL,'film festival in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1977,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%B4%E3%81%82%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/Pia_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5371810','天神祭','Tenjin Matsuri','大阪天満宮を中心として大阪市で行われる祭り','Annual festival in Japan','Q385793','大阪天満宮','Ōsaka Tenmangū','大阪府','kinki',NULL,NULL,951,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/120725%20Osaka%20Tenjinmatsuri%20Japan08bs.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E7%A5%AD','https://en.wikipedia.org/wiki/Tenjin_Matsuri',85,'drafted','## 概要
 
-天神祭（てんじんまつり）は、大阪市北区の大阪天満宮を中心に行われる祭礼で、京都の祇園祭・東京の神田祭とともに「日本三大祭」のひとつに数えられる。同時に、住吉祭・愛染祭と並ぶ「大阪三大夏祭り」の一角でもある。祭神である菅原道真公をまつる天満宮の祭礼として、毎年6月下旬の吉日から7月25日まで、約1か月にわたって一連の神事と行事が連なる。なかでも最大の見せ場は7月24日の宵宮（よいみや）と25日の本宮（ほんみや）で、陸渡御・船渡御と奉納花火が重なる25日には、大川（旧淀川）の水面と夜空を舞台にした壮大な祭礼絵巻が繰り広げられる。千年以上の歴史を背景に、町人文化が育てた都市祭礼として、今日も国内外から多くの見物客を集めている。
+天神祭（てんじんまつり）は、大阪市の大阪天満宮の祭礼で、京都の祇園祭・東京の神田祭とともに日本三大祭のひとつに数えられる、千年以上の伝統を誇る祭りです。学問の神として知られる菅原道真公を祀る大阪天満宮の夏祭りで、疫病を封じ、無病息災と市中の平安を祈るために営まれてきました。大阪の夏を代表する行事として、期間中には100万人を超える人々が訪れるといわれています。
+
+祭りの期間はおよそ1か月に及びますが、最大の見どころは7月24日の宵宮（よいみや）と25日の本宮（ほんみや）です。本宮の夜には、大川（旧淀川）を多くの船が行き交う「船渡御（ふなとぎょ）」が行われ、川面には篝火や提灯の灯りがゆらめき、そこへ奉納花火が打ち上がります。水面に映る炎と光、そして花火が織りなす華麗な光景から、天神祭は「火と水の祭典」とも呼ばれています。
 
 ## 歴史・由来
 
-天神祭の起源は、天暦5年（951年）6月1日に大阪天満宮の前を流れる川で行われた「鉾流神事（ほこながししんじ）」にさかのぼるとされる。神鉾を川に流し、流れ着いた場所に御旅所を設けて神霊を迎えたのが祭りの始まりと伝えられ、これが現在まで続く船渡御の原型となった。菅原道真公を学問・文化の神としてまつる天満宮の祭礼は、当初は神事を中心とした素朴なものであったと考えられる。
+天神祭の起源は、平安時代中頃の天暦5年（951年）にさかのぼります。大阪天満宮が御鎮座した翌々年のこの年、社頭の浜から神鉾（かみほこ）を流し、その鉾が流れ着いた浜に斎場を設けて「禊祓い（みそぎはらい）」を行いました。このとき、神領の民が船を仕立てて神を迎えたのが天神祭の始まりと伝えられています。すなわち、現在も伝わる「鉾流神事（ほこながししんじ）」こそが、この祭りの原点にあたります。
 
-中世から近世にかけて、大阪が「天下の台所」と称される商都へと発展するなかで、天神祭も町人文化を背景に規模を拡大した。江戸時代には「大祭」と称されるほどの賑わいを見せ、川面を彩る船の数や奉納行事が年々充実していった。船渡御に繰り出す講（こう）や町々が競うように趣向を凝らし、都市の経済力と祭礼が結びついて発展した点に、天神祭の特色がある。
+祭りが川と船を舞台とするのは、この鉾流神事に由来します。神鉾が流れ着いた地に神を迎えるという発想が、やがて神霊を船に乗せて氏子の地域を巡る「船渡御」へと発展していきました。船で神を奉迎するという古い信仰の形が、大阪という水の都の地勢と結びつき、独自の祭礼へと育っていったのです。
 
-一方で、その長い歴史のなかでは中断も少なくない。戦乱や社会情勢の影響で休止した時期があり、近代以降も第二次世界大戦の戦中・戦後の混乱、昭和49年（1974年)のオイルショックによる自粛、そして2020年から2022年にかけての新型コロナウイルス感染症の流行などにより、船渡御や花火が見送られた年がある。とりわけ近年のコロナ禍では行事の多くが縮小・中止を余儀なくされたが、2023年には船渡御・奉納花火がそろって復活し、本来の祭礼の姿が取り戻された。中断を経るたびに祭りを立て直してきた歴史そのものが、地域に根づいた信仰と熱意のあらわれといえる。
+その後、船の数も増え、豊臣秀吉が大坂城を築いた頃には船渡御の形が整ってきたとされます。「天下の台所」と呼ばれた元禄時代（17世紀後半）以降、天神祭は浪速（なにわ）の繁栄を象徴する祭りとして隆盛をきわめ、享保年間（18世紀前半）には祭りを支える「講（こう）」という組織が生まれ、豪華なお迎え人形も登場して、その華やかさは全国に名を馳せました。
+
+幕末の政変や二度の世界大戦によって中断した時期もありましたが、そのたびに大阪の人々の心意気によって復興されてきました。第二次世界大戦後の昭和24年（1949年）に船渡御が復活し、地盤沈下で橋の下をくぐれなくなったため、川を遡（さかのぼ）る現在の形になったのは昭和28年（1953年）からのことです。幾多の危機を乗り越えて守られてきたことが、この祭りの歴史の重みを物語っています。
 
 ## 見どころ
 
-### 宵宮（7月24日）と鉾流神事
+**祭りの幕開け「鉾流神事」**　7月24日の朝、神童（しんどう）が神鉾を捧げ持つ約200人の行列が大阪天満宮を出発します。堂島川に漕ぎ出した斎船から神童が神鉾を流し、氏子市民の無病息災と市中の平穏を祈願します。千年前の起源をそのままに伝えるこの神事は、天神祭の厳かな幕開けを告げます。
 
-本宮前日の宵宮には、祭りの幕開けを告げる鉾流神事が営まれる。神童が神鉾を川に流し、一年の無事を祈るこの神事は、天神祭の起源を今に伝える象徴的な儀式である。あわせて催太鼓（からだいこ）の勇壮な打ち手たちが姿を見せ、祭りの気分が一気に高まっていく。
+**勇壮な大行列「陸渡御」**　25日の夕刻、約3000人が参加する陸渡御が大阪天満宮を出発します。催太鼓（もよおしだいこ）を先頭に、鳳凰を頂いた御鳳輦（ごほうれん）や祭り装束の人々が街を練り歩きます。菅原道真公の御霊に、年に一度、地域の平安をご覧いただくという意味が込められた行列です。
 
-### 陸渡御
+**水上の絵巻「船渡御」**　陸渡御に続いて夕方から船渡御が始まります。神輿を乗せた奉安船や催太鼓船など多くの船が大川を行き交い、舞踊や能を披露する舞台船も加わって水上を彩ります。川を舞台に神を奉迎するこの行事こそ、天神祭の核心であり、他に類を見ない見どころです。
 
-7月25日の午後、大阪天満宮を出発する陸渡御は、御神霊を乗せた鳳輦（ほうれん)を中心に、催太鼓・獅子舞・御神輿など多彩な行列が市中を練り歩く神事である。総勢約3,000人ともいわれる供奉者が、それぞれの役を表す装束をまとって御旅所へと向かう様は、平安以来の祭礼の格式を今に伝える。
+**フィナーレの奉納花火**　船渡御が最高潮を迎える頃、祭りの締めくくりとして奉納花火が夜空を彩ります。川面に浮かぶ篝火や提灯の灯りと、夜空の花火が重なり合う光景は幻想的で、「火と水の祭典」の名にふさわしいクライマックスとなります。
 
-### 船渡御
-
-陸渡御の列が大川沿いに到着すると、御神霊は船に乗り移り、夕刻から船渡御が始まる。100隻前後ともいわれる大小の船が川面を行き交い、御神霊を乗せた奉安船、囃子を奏でる船、催太鼓を積んだ船などが連なって遡上・下航する。船上の篝火と提灯の灯りが水面に揺れる光景は、天神祭を象徴する一場面である。
-
-### 奉納花火
-
-船渡御と並行して打ち上げられる奉納花火は、本宮の夜を締めくくる最大の見どころのひとつである。川面を進む船列と夜空の花火が同時に視界に入る構図は他に類を見ず、毎年多くの見物客が川沿いに集まる。
+**大阪の夏を告げる催太鼓とギャルみこし**　地車囃子（だんじりばやし）や催太鼓の勇壮な響き、本宮に先立って行われる女性中心の「ギャルみこし」など、多彩な行事が祭りを盛り上げ、大阪の夏の到来を告げます。
 
 ## 開催情報・アクセス
 
-天神祭は例年6月下旬の神事から始まり、7月7日前後の行事、中旬の諸式を経て、7月24日が宵宮、7月25日が本宮にあたる。神事や行事はこの期間に段階的に行われるため、訪れる日によって見られる内容が異なる点に留意したい。本宮の陸渡御・船渡御・奉納花火を目当てに訪れるなら、25日の日程を中心に計画するとよい。
+**開催期間**　毎年6月下旬の吉日から7月25日までの約1か月間。中心となるのは7月24日の宵宮と25日の本宮です。
 
-会場の中心となる大阪天満宮へは、JR東西線「大阪天満宮駅」、または大阪メトロ谷町線・堺筋線「南森町駅」が最寄りで、いずれも駅から徒歩圏内である。本宮当日は周辺の交通規制や混雑が大きいため、公共交通機関の利用が推奨される。最新の日程・進行・観覧情報は大阪天満宮および天神祭の公式情報で確認するのが確実である。
+**主な神事・行事**　鉾流神事・宵宮祭（24日）、陸渡御・船渡御・奉納花火（25日）など。本宮に先立ちギャルみこしなども行われます。
 
-## 周辺の見どころ
+**会場**　大阪市北区の大阪天満宮境内とその周辺、および大川（旧淀川）の天神橋から飛翔橋の間。
 
-大阪天満宮の界隈は、日本一長い商店街として知られる天神橋筋商店街が南北に延び、参拝とあわせて食べ歩きや買い物を楽しめる。少し足を延ばせば、大川沿いの遊歩道や水都・大阪の象徴である中之島エリア、大阪の都心部の名所へもアクセスしやすい。祭り期間以外でも、菅原道真公をまつる学問の神社として受験生をはじめ多くの参拝者が訪れる地域である。
+**規模**　陸渡御は約3000人が参加。本宮の夜には奉納花火が打ち上げられ、2日間で100万人を超える人出でにぎわいます。
+
+**文化的位置づけ**　日本三大祭の一つ。生國魂神社の生玉夏祭・住吉大社の住吉祭とともに大阪三大夏祭りの一つ。
+
+**アクセス**　大阪天満宮へは大阪メトロ谷町線・堺筋線の南森町駅、JR東西線の大阪天満宮駅が便利です。祭りの期間は周辺が大変混雑するため、公共交通機関の利用がすすめられます。暑い時期のため、こまめな水分補給など熱中症対策も欠かせません。
+
+## 周辺情報
+
+天神祭が行われる大阪市は、古くから「水の都」と呼ばれ、大川（旧淀川）をはじめとする川や堀が縦横に走る町として発展してきました。船渡御という水上の祭礼が生まれた背景には、この水の都ならではの地勢があります。祭りの中心となる大阪天満宮は、市北区の天神橋筋商店街の一角に鎮座し、学問の神・菅原道真公を祀る神社として、受験生をはじめ多くの参拝者を集めています。
+
+大阪天満宮の南に延びる天神橋筋商店街は、日本有数の長さを誇るアーケード商店街として知られ、祭りの時期はもちろん、ふだんも活気にあふれています。参拝とあわせて、大阪ならではの食文化や下町の風情を楽しむことができます。
+
+大川沿いには中之島公園など水辺の憩いの場が広がり、船渡御の舞台ともなります。祭りの見物とあわせて、水都・大阪の川辺の景観や街の賑わいを巡れば、この町に息づく信仰と商いの文化をより深く味わうことができます。
 
 ## 関連情報
 
-天神祭は近年、伝統を守りながらも新たな取り組みを進めている。2020年以降はインターネットでの動画配信が行われ、現地に足を運べない人々にも祭りの様子が届けられるようになった。また、女性たちが担ぐ「ギャルみこし」や地域の催しなど、関連行事も祭りを多面的に彩っている。日本三大祭の名にふさわしい歴史と規模を備えつつ、時代に応じて姿を変え続けている点が、天神祭の大きな特徴といえる。','## Overview
+- 名称：天神祭
+- 開催地：大阪府大阪市（大阪天満宮および大川一帯）
+- 開催期間：毎年6月下旬〜7月25日（中心は7月24日宵宮・25日本宮）
+- 起源：天暦5年（951年）の鉾流神事
+- 御祭神：菅原道真公（大阪天満宮）
+- 性格：日本三大祭の一つ・大阪三大夏祭りの一つ・「火と水の祭典」
+- 主な見どころ：鉾流神事・陸渡御（約3000人）・船渡御・奉納花火
+','## Overview
 
-Tenjin Matsuri is a festival centered on Osaka Tenmangu Shrine in Osaka City, counted as one of Japan''s "three great festivals" alongside the Gion Matsuri of Kyoto and the Kanda Matsuri of Tokyo. It is also one of the "three great summer festivals of Osaka," together with the Ikutama Matsuri and the Sumiyoshi Matsuri. Held in honor of the enshrined deity Sugawara no Michizane, its many rites unfold over roughly a month from late June to July 25. The climax comes on the night of the main day, July 25, when a flotilla of boats moves along the Okawa River in the "funa-togyo" boat procession and votive fireworks light the sky. The interplay of bonfires, lanterns, and fireworks reflected on the water has earned it the name "festival of fire and water."
+The Tenjin Matsuri is the festival of Osaka Tenmangu Shrine in Osaka City, counted as one of the Three Great Festivals of Japan together with the Gion Matsuri of Kyoto and the Kanda Matsuri of Tokyo, boasting a tradition of more than a thousand years. It is the summer festival of Osaka Tenmangu, which enshrines Sugawara no Michizane, known as the deity of learning, and has been held to ward off epidemic and to pray for good health and peace in the city. As an event representing the summer of Osaka, it is said to draw more than one million visitors during its period.
+
+The festival period extends over about a month, but its greatest highlights are the yoimiya (eve festival) on July 24 and the honmiya (main festival) on July 25. On the night of the honmiya, the funatogyo boat procession is held, in which many boats travel back and forth along the Okawa River (the old Yodo River). Bonfires and lantern lights flicker on the surface of the river, and dedicatory fireworks rise above them. From the splendid scene woven by flames, light, and fireworks reflected on the water, the Tenjin Matsuri is also called the festival of fire and water.
 
 ## History and Origins
 
-Tenjin Matsuri is said to have begun on the first day of the sixth month of 951 (Tenryaku 5), two years after Osaka Tenmangu was established. At that time a sacred halberd was floated down the Okawa, and a rite of purification was performed where it came ashore. This became the basis of the present "hoko-nagashi" (halberd-floating) rite, and the practice of welcoming the site by boat became the origin of the boat procession. It came to be called one of the three great festivals during the Edo period. Toyotomi Hideyoshi bestowed a ceremonial drum in the Azuchi-Momoyama era, and by the Genroku period two-meter "welcoming dolls" were mounted on boats and devotional associations known as "ko" were formed, its grandeur even appearing in Edo-period literature. It also weathered repeated interruptions, including a cancellation in 1865 and suspensions of the boat procession due to cholera and land subsidence in the modern era, before being revived each time.
+The origins of the Tenjin Matsuri go back to the year 951 (Tenryaku 5), in the middle of the Heian period. In this year, two years after the enshrinement of Osaka Tenmangu, a sacred pike was set adrift from the beach in front of the shrine, and a ritual ground was established on the shore where it drifted ashore to perform the misogi-harai purification. At this time, the people of the shrine''s domain fitted out boats to welcome the deity, and this is said to be the beginning of the Tenjin Matsuri. In other words, the hoko-nagashi shinji rite, still handed down today, lies at the very origin of this festival.
+
+The reason the festival is staged on the river and by boat derives from this hoko-nagashi rite. The idea of welcoming the deity to the place where the sacred pike drifted ashore gradually developed into the funatogyo, in which the spirit of the deity is placed on a boat and travels around the districts of the parishioners. This ancient form of faith, welcoming the deity by boat, combined with the geography of Osaka, a city of water, and grew into a distinctive festival.
+
+Thereafter, the number of boats increased, and by the time Toyotomi Hideyoshi built Osaka Castle, the form of the boat procession had taken shape. From the Genroku era (late 17th century), when Osaka was called the kitchen of the nation, the Tenjin Matsuri flourished as a festival symbolizing the prosperity of Naniwa, and in the Kyoho era (early 18th century), organizations called ko that supported the festival were born, and splendid welcoming dolls appeared, so that its magnificence became famous throughout the country.
+
+There were periods of interruption due to the political upheavals at the end of the Edo period and the two World Wars, but each time the festival was revived through the spirit of the people of Osaka. After the Second World War, the boat procession was revived in 1949 (Showa 24), and because land subsidence made it impossible to pass under the bridges, the present form of traveling up the river began in 1953 (Showa 28). That it has been protected through so many crises speaks to the weight of this festival''s history.
 
 ## Highlights
 
-The highlights of the main day are the "riku-togyo" land procession beginning in the late afternoon and the "funa-togyo" boat procession that follows. In the land procession, some 3,000 people march about four kilometers, led by the ceremonial drum and including Sarutahiko, court-lady figures, flower parasols, floats bearing dolls, and the sacred palanquin carrying the deity''s spirit. In the boat procession, vessels of many kinds—boats bearing the deity, accompanying boats playing festival music, and welcoming boats adorned with elegant dolls—move along the Okawa, exchanging the rhythmic "Osaka-jime" hand-clapping as they pass. Votive fireworks rise around this time, bringing the festival to its peak. Other attractions include the halberd-floating rite, the entry of the ceremonial drum, and the "gal mikoshi" portable shrine carried by women.
+**The Hoko-nagashi Rite That Opens the Festival**　On the morning of July 24, a procession of about 200 people, with a sacred child carrying the sacred pike, sets out from Osaka Tenmangu. From a ritual boat rowed out onto the Dojima River, the child sets the pike adrift, praying for the good health of the parishioners and the peace of the city. This rite, conveying its thousand-year-old origin just as it was, announces the solemn opening of the Tenjin Matsuri.
+
+**The Spirited Rikutogyo Land Procession**　On the evening of the 25th, the rikutogyo, with about 3,000 participants, sets out from Osaka Tenmangu. Led by the moyoshi-daiko drums, the gohoren palanquin crowned with a phoenix and people in festival costume parade through the town. It is a procession carrying the meaning of letting the spirit of Sugawara no Michizane look upon the peace of the region once a year.
+
+**The Funatogyo Water Scroll**　Following the land procession, the boat procession begins in the evening. Many boats, such as the boat bearing the portable shrine and the drum boats, travel back and forth along the Okawa, joined by stage boats performing dance and Noh, coloring the water. This event of welcoming the deity with the river as its stage is the very heart of the Tenjin Matsuri and a highlight without parallel.
+
+**The Finale of Dedicatory Fireworks**　As the boat procession reaches its climax, dedicatory fireworks color the night sky to close the festival. The scene in which the bonfires and lantern lights on the river overlap with the fireworks in the night sky is dreamlike, forming a climax worthy of the name festival of fire and water.
+
+**The Moyoshi-daiko and Gal Mikoshi Heralding the Osaka Summer**　The spirited sound of danjiri-bayashi music and the moyoshi-daiko drums, and the woman-centered gal mikoshi held ahead of the honmiya, are among the varied events that enliven the festival and herald the arrival of the Osaka summer.
 
 ## Event Information and Access
 
-The rites begin with the late-June "shozoku-tabari-shiki" that opens the festival season, reaching their peak at the eve festival on July 24 and the main day on July 25. Osaka Tenmangu, the central venue, is a short walk from Osaka-Tenmangu Station on the JR Tozai Line or Minamimorimachi Station on the Osaka Metro Tanimachi Line. The boat procession and fireworks take place along the Okawa, and the area is extremely crowded on the night of the main day. Visitors may take part by applying for public viewing boats or purchasing tickets for corporate boats. A local television station traditionally broadcasts the main night live.
+**Period**　About one month each year, from an auspicious day in late June to July 25. The center is the yoimiya on July 24 and the honmiya on July 25.
 
-## Around the Site
+**Main Rites and Events**　The hoko-nagashi rite and yoimiya-sai (24th), and the rikutogyo, funatogyo, and dedicatory fireworks (25th). The gal mikoshi and other events are also held ahead of the honmiya.
 
-East of Osaka Tenmangu runs the Tenjinbashisuji shopping street, known as one of the longest covered arcades in Japan, whose entrance is adorned with four "welcoming dolls" depicting figures such as Toyotomi Hideyoshi. The surrounding district preserves much of Osaka''s history and popular culture, and is rich in attractions such as the cherry-blossom passage of the Mint Bureau in spring and the cluster of modern architecture in the Nakanoshima area. The riverside promenades along the Okawa are also pleasant for strolling.
+**Venue**　The precincts of Osaka Tenmangu in Kita Ward, Osaka City, and its surroundings, and the stretch of the Okawa River (old Yodo River) between Tenjin Bridge and Hisho Bridge.
 
-## Additional Information
+**Scale**　The land procession has about 3,000 participants. Dedicatory fireworks are launched on the night of the honmiya, and the festival draws crowds of more than one million over the two days.
 
-Tenjin Matsuri is a rite of the parishioners of Osaka Tenmangu with more than a thousand years of history, and participation in its rites generally requires belonging to a "ko" association. The conditions are not strict, however, and new associations are recognized, with opportunities to take part as a volunteer as well. The COVID-19 pandemic forced the full cancellation of the festive events in 2020 and 2021, leaving only the religious rites, but the boat procession and fireworks were fully revived in 2023. Having even been held overseas in recent years, it is widely known at home and abroad as a defining feature of Osaka''s summer.','tenjin-matsuri','tenjin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Cultural Standing**　One of the Three Great Festivals of Japan. Together with the Ikutama Summer Festival of Ikukunitama Shrine and the Sumiyoshi Festival of Sumiyoshi Taisha, it is one of the Three Great Summer Festivals of Osaka.
+
+**Access**　Osaka Tenmangu is conveniently reached from Minamimorimachi Station on the Osaka Metro Tanimachi and Sakaisuji lines, and Osaka-Tenmangu Station on the JR Tozai Line. Because the surroundings are very crowded during the festival, use of public transportation is recommended. As it is a hot season, measures against heatstroke, such as frequent hydration, are essential.
+
+## Surrounding Area
+
+Osaka City, where the Tenjin Matsuri takes place, has long been called the city of water and developed as a town crisscrossed by rivers and canals, including the Okawa (old Yodo River). Behind the birth of the funatogyo, a festival on the water, lies the geography unique to this city of water. Osaka Tenmangu, the center of the festival, sits in a corner of the Tenjinbashi-suji shopping street in Kita Ward and enshrines Sugawara no Michizane, the deity of learning, drawing many worshippers, including students preparing for exams.
+
+The Tenjinbashi-suji shopping street, extending south of Osaka Tenmangu, is known as one of Japan''s longest arcade shopping streets and is full of life not only during the festival but at all times. Combined with a visit to the shrine, one can enjoy the food culture unique to Osaka and the atmosphere of its old downtown.
+
+Along the Okawa spread waterside places of rest such as Nakanoshima Park, which also serves as the stage for the boat procession. Combining a visit to the festival with a tour of the riverside scenery and the bustle of the water city of Osaka allows one to savor more deeply the culture of faith and commerce that lives on in this town.
+
+## Related Information
+
+- Name: Tenjin Matsuri
+- Location: Osaka City, Osaka Prefecture (Osaka Tenmangu and the Okawa River area)
+- Period: Late June to July 25 each year (centered on the yoimiya on July 24 and the honmiya on July 25)
+- Origin: The hoko-nagashi rite of 951 (Tenryaku 5)
+- Enshrined Deity: Sugawara no Michizane (Osaka Tenmangu)
+- Character: One of the Three Great Festivals of Japan; one of the Three Great Summer Festivals of Osaka; the festival of fire and water
+- Main Highlights: The hoko-nagashi rite, the rikutogyo land procession (about 3,000 people), the funatogyo boat procession, and dedicatory fireworks
+','tenjin-matsuri','tenjin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5332426','大地の芸術祭 越後妻有アートトリエンナーレ','Echigo-Tsumari Art Triennial','新潟県十日町市、津南町で開催される国際芸術祭','international modern art festival held once every three years in the Niigata prefecture, Japan',NULL,NULL,NULL,'新潟県','chubu',37.016666666,138.6,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%88%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC','https://en.wikipedia.org/wiki/Echigo-Tsumari_Art_Triennial',75,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3698846','御柱祭','Onbashira',NULL,'festival held every six years in the Lake Suwa area of Nagano, Japan','Q11631849','諏訪地域','Suwa area','長野県','chubu',36.075277777,138.091388888,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/ONBASHIRA%20festival%20%28tree%20drop%29%20Nagano%2CJAPAN.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%9F%B1%E7%A5%AD','https://en.wikipedia.org/wiki/Onbashira',90,'drafted','## 概要
 
