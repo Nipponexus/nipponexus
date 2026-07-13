@@ -3019,25 +3019,125 @@ East of Osaka Tenmangu runs the Tenjinbashisuji shopping street, known as one of
 
 Tenjin Matsuri is a rite of the parishioners of Osaka Tenmangu with more than a thousand years of history, and participation in its rites generally requires belonging to a "ko" association. The conditions are not strict, however, and new associations are recognized, with opportunities to take part as a volunteer as well. The COVID-19 pandemic forced the full cancellation of the festive events in 2020 and 2021, leaving only the religious rites, but the boat procession and fireworks were fully revived in 2023. Having even been held overseas in recent years, it is widely known at home and abroad as a defining feature of Osaka''s summer.','tenjin-matsuri','tenjin-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5332426','大地の芸術祭 越後妻有アートトリエンナーレ','Echigo-Tsumari Art Triennial','新潟県十日町市、津南町で開催される国際芸術祭','international modern art festival held once every three years in the Niigata prefecture, Japan',NULL,NULL,NULL,'新潟県','chubu',37.016666666,138.6,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%88%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AC','https://en.wikipedia.org/wiki/Echigo-Tsumari_Art_Triennial',75,'skipped_offtopic',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3698846','御柱祭','Onbashira',NULL,'festival held every six years in the Lake Suwa area of Nagano, Japan','Q11631849','諏訪地域','Suwa area','長野県','chubu',36.075277777,138.091388888,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/ONBASHIRA%20festival%20%28tree%20drop%29%20Nagano%2CJAPAN.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%9F%B1%E7%A5%AD','https://en.wikipedia.org/wiki/Onbashira',90,'drafted','御柱祭は、長野県諏訪地域の諏訪大社で寅年と申年の7年に一度（数え年の7年・実際は満6年間隔）開催される神事であり、日本三大奇祭の一つに数えられる天下の大祭である。山中から切り出した樅の大木16本を、氏子たちの手と組織された曳行隊によって諏訪大社の上社本宮・上社前宮・下社春宮・下社秋宮の四社の社殿四隅に建て替える壮大な行事で、約1,200年以上の歴史を持つ諏訪信仰の中核をなす。次回開催は2028年（令和10年・申年）の春から夏にかけて予定されている。
+INSERT INTO "festivals" VALUES('Q3698846','御柱祭','Onbashira',NULL,'festival held every six years in the Lake Suwa area of Nagano, Japan','Q11631849','諏訪地域','Suwa area','長野県','chubu',36.075277777,138.091388888,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/ONBASHIRA%20festival%20%28tree%20drop%29%20Nagano%2CJAPAN.jpg','https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%9F%B1%E7%A5%AD','https://en.wikipedia.org/wiki/Onbashira',90,'drafted','## 概要
 
-御柱祭の起源は古く、平安時代初期の804年（延暦23年）の桓武天皇の時代には既に行われていたとの記録が残る。樹齢150年を超える樅の大木を山から切り出し、これを神の依り代として社殿の四隅に建てることで、社殿の御神威を更新するという信仰に基づく。柱は長さ約17メートル、直径約1メートル、重さ約12トンに達する巨木で、これを人力のみで山から里へ、そして社殿まで運搬する過程そのものが祭礼の中心となる。
+御柱祭（おんばしらさい）は、長野県諏訪地方で行われる諏訪大社最大の神事で、正式には「式年造営御柱大祭（しきねんぞうえいみはしらたいさい）」といいます。数えで7年に一度、寅（とら）と申（さる）の年に行われる式年祭で、長野県指定無形民俗文化財に指定されています。山中から樅（もみ）の巨木を16本切り出し、氏子の人力だけで各宮まで曳き、社殿の四隅に建てて神木とする勇壮な祭りです。
 
-最大の見どころは「木落とし」と「川越し」である。上社の木落としは茅野市の木落とし坂で、下社は下諏訪町の木落とし坂で行われ、約30度の急斜面を巨木に氏子たちが乗ったまま一気に滑り落とす。命がけの神事として知られ、過去には死傷者も出ているが、それでも地元の若者にとって御柱に乗ることは生涯の名誉とされる。上社の川越しは宮川を渡って柱を運ぶ神事で、冷たい川水に浸かりながら大勢で柱を曳き渡す光景は壮観である。
+急斜面を御柱もろとも一気に曳き落とす「木落し」や、冷たい川を渡る「川越し」の荒々しさから、日本三大奇祭のひとつに数えられ、「天下の大祭」とも呼ばれます。諏訪大社の上社本宮・前宮、下社春宮・秋宮の4つの宮それぞれに4本ずつ、計16本の御柱が建てられます。祭りの期間には諏訪地方全体が沸き立ち、地元企業のなかには開催に合わせて休日を設ける会社もあるほど、この地に深く根づいた一大行事です。
 
-里曳きの段階では、各地区の氏子が法被姿で「ヨイサー、ヨイサー」の掛け声とともに柱を曳き、ラッパ隊の音色や木遣り歌が街道に響く。沿道では家々が屋台を出し、地元の郷土料理や酒を振る舞う。一般観光客も限定的に曳行に参加できる区間があり、地元の氏子と一体となって日本最大級の神事を体験できる貴重な機会となる。
+## 歴史・由来
 
-会場は諏訪市・茅野市・岡谷市・下諏訪町・諏訪郡富士見町の5市町にまたがる広範囲で、上社木落とし会場へは中央自動車道諏訪南インターから、下社木落とし会場へはJR下諏訪駅から徒歩約25分。御柱祭年以外でも諏訪大社四社めぐり、諏訪湖、霧ヶ峰高原、八ヶ岳など信州中央部の観光地が充実しており、2028年の次回開催を待つ間も訪れる価値が高い地域である。','The Onbashira Festival, held in the Suwa region of Nagano Prefecture, is one of the most spectacular and dangerous traditional festivals in Japan and is widely counted among the country''s three great unconventional festivals. Conducted once every seven years by the traditional Japanese counting system—meaning an actual interval of six years—it takes place during the Year of the Tiger and the Year of the Monkey of the East Asian zodiac. The festival centers on the cutting, transportation, and ceremonial erection of sixteen massive fir trees at the four shrines of the Suwa Taisha complex, an act believed to renew the spiritual power of the shrines. The next iteration is scheduled for spring through summer of 2028, the upcoming Year of the Monkey.
+御柱祭がいつ始まったのかを明確に記した資料は乏しく、正確な起源ははっきりしていません。室町時代に成立した『諏方大明神画詞（すわだいみょうじんえことば）』（1356年）には、「寅・申の干支に当社造営あり、（中略）桓武の御宇に始まれり」と記されており、平安初期の桓武天皇（在位781〜806年）の時代にはすでに諏訪社の造営が行われていたことがうかがえます。ここから、御柱祭の歴史は今から1200年以上前にさかのぼるといわれています。
 
-The festival''s origins reach back more than 1,200 years. Documents indicate that the practice was already established by 804 CE during the reign of Emperor Kanmu in the early Heian period, and many scholars believe its roots extend further into prehistoric mountain worship traditions that long predated the formalization of Shinto. The four shrines of Suwa Taisha—Kamisha Honmiya, Kamisha Maemiya, Shimosha Harumiya, and Shimosha Akimiya—are among the oldest in Japan, with Suwa Taisha itself considered the head shrine of the more than ten thousand Suwa shrines scattered across the nation. The Suwa deity is associated with martial valor, agriculture, and the protection of travelers, and the Onbashira ritual serves to refresh the deity''s presence at each shrine.
+なぜ7年ごとに行われるのかについても諸説あります。易学の考え方では、寅は陰暦の1月、申は7月にあたり、それぞれ春と秋の初めにあたること、また寅と申には「動く」「うごめく」といった意味があり、草木の芽吹きや作物の実りに通じて縁起がよいことから、暦を重んじた古代に7年ごととされたという説が伝えられています。なお正確には満6年間隔ですが、慣例として数え年で7年目ごとという意味で「7年に一度」と表現されます。
 
-Each onbashira pillar is a single fir tree, selected from sacred mountain forests, measuring approximately seventeen meters in length, one meter in diameter, and weighing around twelve tons. Following ceremonial felling using traditional axes, the logs are transported entirely by human effort across distances of more than ten kilometers from the mountains to the shrine grounds. The transport is carried out by thousands of community members organized into parishes corresponding to specific neighborhoods, each responsible for designated pillars and segments of the journey.
+御柱を建てる行為そのものが何を表すのかについても、古くから20種類以上の説があるとされます。広大な社殿を造営する古い風習の名残として四本の柱だけを建て替えているという説、神域の結界を示すという説、神霊の依代（よりしろ）であるとする説などがあり、いまだ定まった答えはありません。
 
-The festival''s most dramatic events are the kiotoshi, or log drop, and the kawagoshi, or river crossing. The kiotoshi takes place at designated steep slopes—one for the upper shrines in Chino City and one for the lower shrines in Shimosuwa Town. Each slope descends at approximately thirty degrees, and the logs are sent careening down these gradients with parishioners riding atop the massive trees. The participants cling to ropes attached to the logs, attempting to maintain their positions as the tons of wood plunge downward at increasing speed. The ride is genuinely life-threatening; fatalities and serious injuries have occurred in past festivals, and the choice to ride an onbashira pillar is considered a defining honor in the life of a Suwa region man. The kawagoshi, conducted for the upper shrine pillars, requires the parishioners to drag their logs across the cold waters of the Miyagawa River, an arduous group effort that creates one of the festival''s most photographed scenes.
+鎌倉時代には諏訪社が信濃国の政治・軍事の中心となり、式年造営への奉仕が広く信濃国全体に及んだ記録が残っています。江戸時代には諏訪藩の支配のもとで領民による曳行という現在に近い形が整い、明治期に諏訪郡が発足すると担当地区の枠組みが定められて、今日へと受け継がれてきました。
 
-After the dramatic transportation phase comes the satobiki, or town pulling, during which the logs are drawn through populated areas to the shrines themselves. Parishioners in matching happi coats pull the logs with cries of "Yoisa, yoisa!" while specialized brass bands play marching tunes and traditional kiyari folk songs ring out along the route. Households along the path set up small stalls offering local foods, sake, and refreshments to the workers and spectators, transforming the towns into spontaneous festival spaces. Tourists may participate in certain designated segments of the pulling, providing visitors with the rare opportunity to take part directly in one of Japan''s largest religious observances.
+## 見どころ
 
-The festival is staged across a wide area encompassing the cities of Suwa, Chino, Okaya, and the towns of Shimosuwa and Fujimi in the Suwa region. The upper shrine log drop site can be reached from the Suwaminami interchange of the Chuo Expressway, while the lower shrine site is approximately twenty-five minutes on foot from JR Shimosuwa Station. Visitors during non-festival years can still appreciate the four shrines through a traditional pilgrimage circuit, and the broader Suwa region offers extensive attractions including Lake Suwa, the alpine plateaus of Kirigamine, and the dramatic peaks of the Yatsugatake mountains, making the area a worthwhile destination throughout the seven-year cycle between festivals.','onbashira-matsuri','onbashira-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**巨木を建てる16本の御柱**　御柱に使われる樅の木は樹齢およそ200年、長さ約19メートル、直径約1メートル、重さは約7.5トンにも及びます。この巨木を上社・下社の4つの宮に4本ずつ、計16本建てるのが御柱祭の骨格です。
+
+**山出し最大の難所「木落し」**　4月に行われる「山出し」の最大の見せ場が木落しです。とりわけ下社の木落し坂は傾斜およそ35度、長さ約100メートルの急斜面で、御柱にまたがった氏子もろとも一気に坂を下る様は圧巻です。「男見るなら七年に一度、諏訪の木落し坂落とし」とうたわれるほど勇壮な場面です。
+
+**川を渡る「川越し」**　上社の山出しでは、御柱を冷たい川の水で清めながら対岸へと曳き渡す「川越し」が行われます。冷水に飛び込む氏子たちの熱気と水しぶきが、早春の諏訪路を彩ります。
+
+**華やかな「里曳き」と建御柱**　5月の「里曳き」は、騎馬行列や長持ち、笠踊りなどの華やかな行列とともに御柱を各宮へと曳き付ける祭りです。宮に到着した御柱は、先端を三角錐に削る「冠落し（かんむりおとし）」を経て、氏子が乗ったまま社殿の四隅に垂直に建てられます。この「建御柱（たておんばしら）」が祭りのクライマックスです。
+
+**木遣りとラッパの響き**　御柱の曳行は、独特の節回しの「木遣り唄」とラッパの音頭に合わせて進みます。1本の御柱を1,000人から3,000人もの氏子が力を合わせて曳く光景は、地域の結束そのものを映し出しています。
+
+## 開催情報・アクセス
+
+**開催時期**　数えで7年に一度、寅と申の年の4月（山出し）と5月（里曳き）。下社は上社のおよそ1週間後に行われます。次回は令和10（2028）年に予定されています。
+
+**会場**　諏訪大社上社本宮・前宮（長野県諏訪市・茅野市）および下社春宮・秋宮（下諏訪町）と、山出し・里曳きの各曳行路。
+
+**主な神事**　山出し（木落し・川越し）、里曳き（建御柱）、宝殿遷座祭。
+
+**御柱の規模**　長さ約19メートル・直径約1メートル・重さ約7.5トンの樅の巨木を計16本。
+
+**曳き手**　1本あたり1,000〜3,000人の氏子。氏子は上社側で約11万人、下社側で約8万6000人にのぼります。
+
+**アクセス**　諏訪大社へはJR中央本線の上諏訪駅・下諏訪駅・茅野駅が拠点となります。祭りの期間は曳行路周辺で交通規制が行われるため、公共交通機関の利用と現地の案内に従った観覧がすすめられます。
+
+## 周辺情報
+
+御柱祭が行われる諏訪地方は、長野県のほぼ中央、日本最大級の断層湖である諏訪湖を囲む盆地に広がる地域です。諏訪市・岡谷市・茅野市・下諏訪町・富士見町・原村からなり、古くから諏訪大社の門前として、また甲州街道と中山道が交わる交通の要衝として栄えてきました。
+
+諏訪大社は全国に約1万社あるとされる諏訪神社の総本社で、諏訪湖を挟んで上社と下社が向かい合うように鎮座しています。御柱祭の年でなくても、四方に立つ御柱を実際に間近で見ることができ、諏訪信仰の歴史にふれることができます。
+
+周辺には諏訪湖畔の温泉や間欠泉、湖を一望できる立石公園など見どころが多く、下諏訪は中山道随一の温泉宿場町としても知られています。祭りの見物とあわせて、諏訪の自然や温泉、酒蔵などを巡れば、この地に息づく信仰と暮らしの文化をより深く味わうことができます。
+
+## 関連情報
+
+- 名称：御柱祭（式年造営御柱大祭）
+- 開催地：長野県諏訪地方（諏訪大社 上社本宮・前宮／下社春宮・秋宮）
+- 開催時期：数えで7年に一度（寅・申の年）の4月（山出し）・5月（里曳き）。次回は2028年
+- 起源：平安時代以前とされる（1200年以上の歴史・記録は『諏方大明神画詞』1356年）
+- 性格：諏訪大社最大の神事・長野県指定無形民俗文化財・日本三大奇祭の一つ
+- 御柱：樅の巨木16本（長さ約19m・直径約1m・重さ約7.5t）
+- 主な神事：木落し・川越し・建御柱・宝殿遷座祭
+','## Overview
+
+The Onbashira Festival (御柱祭, Onbashira-sai), formally known as the Shikinen Zoei Mihashira Taisai, is the largest sacred rite of Suwa Taisha (Suwa Grand Shrine) in the Suwa region of Nagano Prefecture. Held once every seven years by the traditional count, in the years of the Tiger and the Monkey, it is designated an Intangible Folk Cultural Property by Nagano Prefecture. During the festival, sixteen giant fir (momi) trees are cut from the mountains and hauled by hand by the shrine parishioners to the four shrine precincts, where they are raised at the four corners of each shrine building to serve as sacred pillars.
+
+The festival is famous for its wild and dangerous highlights: the kiotoshi (log-dropping), in which pillars are sent sliding down a steep slope with men riding on them, and the kawagoshi (river-crossing), in which the logs are hauled across a cold river. Because of this ferocity, Onbashira is counted among the Three Great Eccentric Festivals of Japan and is also known as the great festival held only once in seven years. Four pillars each are raised at the four shrines of Suwa Taisha, the Kamisha Honmiya and Maemiya (Upper Shrine) and the Shimosha Harumiya and Akimiya (Lower Shrine), for a total of sixteen pillars. During the festival period the entire Suwa region comes alive, and some local companies even set special holidays to coincide with it, a sign of how deeply the event is rooted in this land.
+
+## History and Origins
+
+There are few documents that clearly record when the Onbashira Festival began, and its exact origin remains uncertain. The Suwa Daimyojin Ekotoba, compiled in the Muromachi period in 1356, states that construction of the shrine took place in the years of the Tiger and the Monkey and that this began in the reign of Emperor Kanmu. This suggests that the building of Suwa Shrine was already being carried out in the time of Emperor Kanmu (reigned 781 to 806) in the early Heian period. From this, the history of the festival is said to reach back more than 1,200 years.
+
+There are various theories about why the festival is held every seven years. According to the thinking of divination studies, the Tiger corresponds to the first month and the Monkey to the seventh month of the lunar calendar, marking the beginnings of spring and autumn. Furthermore, the characters for Tiger and Monkey carry meanings of movement and stirring, associated with the sprouting of plants and the ripening of crops, and it is said that ancient people who valued the calendar therefore set the festival at seven-year intervals. To be precise, the interval is a full six years, but by custom it is expressed as once every seven years, counting the seventh year in the traditional Japanese manner.
+
+There are also said to be more than twenty theories about what the act of raising the pillars represents. These include the idea that the four pillars are raised in place of rebuilding a grand shrine hall, following an ancient custom; the idea that the pillars mark the boundary of the sacred precinct; and the idea that they serve as a yorishiro, a vessel into which the deity descends. No single explanation has ever been settled upon.
+
+In the Kamakura period, Suwa Shrine became the political and military center of Shinano Province, and records show that service toward the periodic reconstruction extended across the whole of Shinano. In the Edo period, under the rule of the Suwa domain, the form close to the present day was established, in which the pillars were hauled by the domain residents themselves. When Suwa District was formed in the Meiji era, the framework of the districts responsible for each pillar was set, and it has been handed down to the present.
+
+## Highlights
+
+**Sixteen Giant Pillars**　The fir trees used for the pillars are about 200 years old, roughly 19 meters long, about 1 meter in diameter, and weigh around 7.5 tons. Raising these giants, four each at the four shrines of the Upper and Lower Shrine, for a total of sixteen, forms the backbone of the festival.
+
+**The Kiotoshi Log-Drop**　The greatest spectacle of the yamadashi (mountain-hauling) in April is the kiotoshi. The log-drop slope of the Lower Shrine in particular has an incline of about 35 degrees and a length of around 100 meters, and the sight of parishioners riding the pillar as it plunges down the slope in one go is overwhelming. It is celebrated in an old saying: if you would see men, go to the Suwa log-drop, once every seven years.
+
+**The Kawagoshi River-Crossing**　In the Upper Shrine yamadashi, the kawagoshi is performed, in which the pillar is purified with cold river water as it is hauled to the far bank. The fervor of the parishioners plunging into the cold water and the flying spray color the early spring of the Suwa road.
+
+**The Colorful Satobiki and Raising of the Pillars**　The satobiki (village-hauling) in May brings the pillars to each shrine accompanied by splendid processions of horsemen, nagamochi chests, and kasa-odori hat dancing. Upon reaching the shrine, the pillar undergoes the kanmuri-otoshi, in which its tip is cut into a triangular cone, and is then raised vertically at a corner of the shrine building with parishioners still riding upon it. This tateonbashira, the raising of the pillar, is the climax of the festival.
+
+**The Sound of Kiyari and Bugles**　The hauling of the pillars proceeds to the distinctive melody of the kiyari work songs and the rhythm of bugles. The sight of 1,000 to 3,000 parishioners hauling a single pillar together reflects the very unity of the community.
+
+## Event Information and Access
+
+**Timing**　Once every seven years by the traditional count, in the years of the Tiger and Monkey, in April (yamadashi) and May (satobiki). The Lower Shrine events take place about one week after the Upper Shrine. The next festival is scheduled for the year 2028.
+
+**Venue**　The Upper Shrine Honmiya and Maemiya (Suwa City and Chino City, Nagano) and the Lower Shrine Harumiya and Akimiya (Shimosuwa Town), together with the hauling routes of the yamadashi and satobiki.
+
+**Main Rites**　Yamadashi (kiotoshi and kawagoshi), satobiki (tateonbashira, the raising of the pillars), and the hoden senza-sai enshrinement rite.
+
+**Scale of the Pillars**　Sixteen giant fir trees, each about 19 meters long, 1 meter in diameter, and 7.5 tons in weight.
+
+**Haulers**　Between 1,000 and 3,000 parishioners per pillar. The parishioners number about 110,000 on the Upper Shrine side and about 86,000 on the Lower Shrine side.
+
+**Access**　Suwa Taisha is reached from Kamisuwa, Shimosuwa, and Chino stations on the JR Chuo Main Line. During the festival, traffic is restricted around the hauling routes, so visitors are advised to use public transportation and follow local guidance when viewing.
+
+## Surrounding Area
+
+The Suwa region, where the Onbashira Festival takes place, spreads across a basin surrounding Lake Suwa, one of Japan''s largest fault lakes, in roughly the center of Nagano Prefecture. It consists of Suwa City, Okaya City, Chino City, Shimosuwa Town, Fujimi Town, and Hara Village, and has long prospered as the shrine town of Suwa Taisha and as a key junction where the Koshu Kaido and Nakasendo highways met.
+
+Suwa Taisha is the head shrine of the roughly 10,000 Suwa shrines found throughout Japan, with its Upper Shrine and Lower Shrine facing each other across Lake Suwa. Even outside the festival year, visitors can see the pillars standing at the four corners up close and can experience the history of Suwa worship.
+
+The surrounding area offers many attractions, including hot springs and a geyser along Lake Suwa and Tateishi Park overlooking the lake, while Shimosuwa is also known as the finest hot-spring post town on the Nakasendo. Combining a visit to the festival with the nature, hot springs, and sake breweries of Suwa allows one to savor more deeply the culture of faith and daily life that lives on in this land.
+
+## Related Information
+
+- Name: Onbashira Festival (Shikinen Zoei Mihashira Taisai)
+- Location: Suwa region, Nagano Prefecture (Suwa Taisha Upper Shrine Honmiya and Maemiya / Lower Shrine Harumiya and Akimiya)
+- Timing: Once every seven years by the traditional count (years of the Tiger and Monkey), in April (yamadashi) and May (satobiki). Next held in 2028
+- Origin: Said to predate the Heian period (over 1,200 years of history; earliest record in the Suwa Daimyojin Ekotoba of 1356)
+- Character: The largest rite of Suwa Taisha; Nagano Prefecture Intangible Folk Cultural Property; one of the Three Great Eccentric Festivals of Japan
+- Pillars: Sixteen giant fir trees (about 19m long, 1m in diameter, 7.5 tons)
+- Main Rites: Kiotoshi, kawagoshi, tateonbashira, and the hoden enshrinement rite
+','onbashira-matsuri','onbashira-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q3307937','壬生の花田植','Mibu no Hana Taue','広島県北広島町で行われる伝統行事','Rice transplanting ritual in Hiroshima, Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mibu-hanadaue01.JPG','https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D','https://en.wikipedia.org/wiki/Mibu_no_Hana_Taue',85,'drafted','## 概要
 
 壬生の花田植（みぶのはなだうえ）は、広島県山県郡北広島町壬生で、毎年6月の第1日曜日に豊作を願って行われる伝統的な田植え行事である。1976年（昭和51年）に国の重要無形民俗文化財に指定され、2011年（平成23年）にはユネスコ無形文化遺産保護条約の「人類の無形文化遺産の代表的な一覧表」に記載された。現在西日本に残る花田植としては最大の規模を誇る。
