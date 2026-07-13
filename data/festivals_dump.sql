@@ -14615,41 +14615,99 @@ INSERT INTO "festivals" VALUES('Q22127131','ひょうげ祭り','Hyōge Matsuri'
 INSERT INTO "festivals" VALUES('Q28691802','丸岡古城まつり','Maruoka Kojō Matsuri','福井県坂井市で開催される祭り',NULL,'Q1143892','丸岡城','Maruoka Castle','福井県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%8F%A4%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q24887619','入谷朝顔まつり','Iriya Asagao festival','入谷鬼子母神とその界隈で開催される朝顔祭り',NULL,'Q11583299','真源寺','Shingen-ji Temple','東京都','kanto',35.71988889,139.78268889,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Iriyaasagaomatsuri-tag-july8-2016.jpg','https://ja.wikipedia.org/wiki/%E5%85%A5%E8%B0%B7%E6%9C%9D%E9%A1%94%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
-入谷朝顔まつり（いりやあさがおまつり）は、東京都台東区下谷の入谷鬼子母神（真源寺）境内およびその周辺の言問通り沿いで、毎年7月6日から8日にかけて開催される朝顔の市である。江戸の風物詩として明治期に始まり、東京都内最大の朝顔市として広く親しまれ、約60万人の来場者を集める下町の夏の風物詩である。
+入谷朝顔まつり（いりやあさがおまつり）は、東京都台東区の入谷鬼子母神（真源寺）とその周辺で毎年7月6日から8日までの3日間にわたって開催される、朝顔市を中心とした夏の祭りである。江戸時代から続く下町の夏の風物詩として知られ、色とりどりの朝顔の鉢が言問通りに立ち並ぶ光景は、東京に本格的な夏の訪れを告げる。
 
-## 歴史
+会期中は約30軒の朝顔業者と約100軒近い露店が軒を連ね、毎年およそ10万人もの人出でにぎわう。早朝から多くの来場者が訪れ、家族連れや外国人観光客が思い思いに朝顔の鉢を吟味する姿が見られる。花の美しさと下町らしい縁日の活気が一体となった、東京を代表する初夏の年中行事である。
 
-入谷の朝顔は江戸末期から明治期にかけて、入谷一帯の植木屋が栽培した変化朝顔（へんかあさがお）で全国的に名を馳せた。当時の入谷は江戸郊外の田園地帯で、ヘチマ・ヒョウタン・朝顔などの園芸植物の生産地として栄えていた。明治13年（1880年）頃から入谷鬼子母神を中心に朝顔市が立つようになり、変化朝顔の珍品奇種を求める愛好家で賑わった。第二次世界大戦中の一時中断を経て、1948年（昭和23年）に地元商店街・植木組合の尽力で復活、以降毎年7月6-8日の3日間に定着し、台東区の指定無形文化財に登録されている。
+## 歴史・由来
+
+入谷朝顔まつりの中心となる入谷鬼子母神は、正式には仏立山・真源寺という日蓮宗の寺院である。満治二年（1659年）、静岡県沼津の大本山光長寺の第二十世・日融上人が、本山に勧請されていた一寸八分の鬼子母神の御木像を持って江戸に出て、現在の地に真源寺を建立したのが始まりとされる。
+
+本尊の鬼子母神は、俗に「恐れ入谷の鬼子母神」と呼ばれ親しまれてきた。この呼び名には由来があり、腫れ物に苦しんだ大名家の奥女中が21日間の願かけの末に全快したという霊験の話を、江戸中期の狂歌師・太田蜀山人が聞きつけ、その御利益に「恐れ入った」と洒落て言ったのが江戸っ子の間で流行したものだとされる。入谷の鬼子母神は、中山・雑司ヶ谷と並ぶ江戸三大鬼子母神のひとつに数えられ、母と子を守る神として古くから篤い信仰を集めてきた。
+
+朝顔市そのものの起源は、江戸時代後期にこの地で盛んに行われた朝顔栽培のお披露目にあるとされる。当時、下谷坂本村の入谷界隈には朝顔を売る植木屋が軒を連ねていた。入谷の朝顔が広く名を知られるようになったのは明治に入ってからのことで、十数軒の植木屋がそれぞれ数百坪もの広大な土地で朝顔を栽培したことが、名物としての地位を確立する契機となった。
+
+入谷で朝顔が名物となった背景には、江戸から続く庶民の豊かな園芸文化があった。限られた土地でも鉢植えで花を育て、変化朝顔と呼ばれる珍しい咲き方の品種を競い合う園芸は、武士から町人まで幅広い層に親しまれていた。入谷の朝顔市は、こうした人々が朝顔の美しさを愛で、季節の移ろいを暮らしのなかで楽しんできた江戸庶民の感性を、今に伝える行事でもある。
+
+その後、都市化の進展などによって朝顔栽培は一時途絶えた時期もあったが、地元の人々の尽力によって朝顔市は復興を遂げ、現在まで受け継がれている。江戸から明治、そして現代へと形を変えながらも、下町の夏を彩る行事として絶えることなく続いてきた点に、この祭りの息の長い魅力がある。
 
 ## 見どころ
 
-期間中は約120軒の朝顔業者と100軒の露店が言問通り沿いに軒を連ね、朝早朝5時頃から夜23時頃まで賑わう。並ぶ朝顔は伝統的な大輪朝顔、団十郎（赤茶色）、団十郎黒、変化朝顔の貴重種など多彩で、1鉢2,000円前後から購入可能。入谷鬼子母神では参拝者で行列ができ、朝顔をモチーフにした団扇・絵馬・お守りも頒布される。地元商店街の屋台料理、伝統工芸品の露店も人気。
+**色とりどりの朝顔** 会場の主役は、言問通りに数百メートルにわたって並ぶ朝顔の鉢である。青や紫、紅、白のほか、一鉢で複数の色が咲く珍しい品種も並び、朝の光の中で咲き誇る花々は圧巻の美しさである。開花のピークに合わせて早朝から訪れる人が多く、涼やかな夏の風情を存分に味わえる。
+
+**朝顔業者との対話** 約30軒の朝顔業者が並ぶ市では、栽培のプロである植木屋が丁寧に品種や育て方を教えてくれる。買い手は業者と言葉を交わしながら、自分好みの一鉢をじっくり選ぶことができる。花を売り買いするだけでなく、人と人とのやりとりが生まれる点も、昔ながらの朝顔市ならではの魅力である。
+
+**約100軒の露店** 朝顔市に沿って約100軒近い露店（縁日）が立ち並び、下町らしいにぎわいを生み出す。定番の屋台グルメや縁日の遊びが楽しめ、花を求める人だけでなく祭りの雰囲気を味わいに訪れる人々でも大いに混雑する。花の市と縁日が渾然一体となった空間が、夏祭りらしい高揚感を演出する。
+
+**入谷鬼子母神への参拝** 祭りのメイン会場である真源寺では、朝顔市の期間中に限定の御朱印やお守りが授与されることもあり、参拝を目的に訪れる人も多い。「恐れ入谷の鬼子母神」として名高い本尊に手を合わせ、母子の健やかな暮らしを祈願する姿は、この祭りが単なる花市ではなく信仰と結びついた行事であることを物語っている。
 
 ## 開催情報・アクセス
 
-会場は入谷鬼子母神（真源寺・東京都台東区下谷1-12-16）および周辺言問通り沿い。地下鉄日比谷線入谷駅から徒歩約1分、JR山手線鶯谷駅から徒歩約7分。観覧・入場は無料。開催時間は7月6-8日の3日間、早朝5時頃から夜23時頃まで。
+入谷朝顔まつりは毎年7月6日から8日までの3日間開催される。早朝から花を求める人でにぎわうのが特徴で、朝顔の鉢は連日、開店から間もなく売り切れる店も多い。開催日は毎年固定されているため、七夕の時期の風物詩として親しまれている。
 
-## 周辺観光
+会場は東京都台東区の入谷鬼子母神（真源寺）およびその前を通る言問通り一帯である。アクセスは非常に良く、東京メトロ日比谷線の入谷駅からは徒歩約1分、JR山手線の鶯谷駅からは徒歩約5分と、いずれの駅からもすぐの立地にある。会期中の周辺は大変混雑するため、公共交通機関の利用が推奨される。
 
-下町情緒の濃い台東区一帯は浅草寺・浅草神社・仲見世通り・浅草演芸ホール、上野公園・東京国立博物館・上野動物園、谷中銀座商店街・谷中霊園など、東京の伝統と歴史を堪能できる観光資源が集中する。7月初旬の朝顔まつりに続き、7月9-10日には浅草寺の「ほおずき市」も開催されるため、下町の夏祭りを連続で楽しむ周遊コースが人気。','## Overview
+## 周辺情報
 
-The Iriya Asagao Festival (Iriya Morning Glory Market) is a traditional morning glory market held annually from July 6 to 8 at Iriya Kishimojin (Shingen-ji Temple) and along the surrounding Kototoi-dōri Avenue in Shitaya, Taitō Ward, Tokyo. Originating as an Edo-era tradition that flourished during the Meiji period, it is widely cherished as Tokyo''s largest morning glory market, drawing approximately 600,000 visitors and standing as a defining summer tradition of Tokyo''s old downtown district.
+入谷は上野や浅草にほど近い下町エリアに位置し、朝顔まつりと合わせて周辺の下町散策を楽しむことができる。徒歩圏内には上野公園や上野動物園、東京国立博物館などの文化施設が集まる上野エリアが広がり、朝顔市を訪れたあとに足をのばす来訪者も多い。
 
-## History
+また、少し歩けば東京を代表する観光地である浅草にもアクセスでき、雷門や仲見世通り、浅草寺といった名所を巡ることもできる。下町ならではの老舗の飲食店や和菓子店も点在しており、朝顔市の風情を味わったあとに、江戸情緒あふれる街歩きとともに東京の夏を満喫できる立地である。
 
-The morning glories of Iriya gained nationwide fame during the late Edo and Meiji periods through "henka asagao" (variant morning glories) cultivated by gardeners throughout the Iriya area. At that time, Iriya was a rural area on the outskirts of Edo that flourished as a production center for garden plants including loofah, gourd, and morning glory. From around 1880 (Meiji 13), morning glory markets began to be held around Iriya Kishimojin, attracting enthusiasts seeking rare and unusual variant morning glories. Following a temporary suspension during World War II, the festival was revived in 1948 (Shōwa 23) through the efforts of the local merchant association and gardening union, and has continued annually on the three days of July 6-8 ever since. The festival is registered as a Designated Intangible Cultural Property of Taitō Ward.
+## 関連情報
+
+- 開催地: 東京都台東区 入谷鬼子母神（真源寺）および言問通り一帯
+- 開催時期: 毎年7月6日〜8日の3日間
+- 中心となる寺院: 仏立山・真源寺（満治二年＝1659年創建、江戸三大鬼子母神のひとつ）
+- 規模: 約30軒の朝顔業者と約100軒近い露店、来場者は毎年約10万人
+- 起源: 江戸後期の朝顔栽培のお披露目、明治期に植木屋の栽培で名物化
+- アクセス: 東京メトロ入谷駅から徒歩約1分、JR鶯谷駅から徒歩約5分
+','## Overview
+
+The Iriya Asagao Matsuri (Iriya Morning Glory Festival) is a summer festival centered on a morning glory market, held over three days from July 6 to 8 each year at Iriya Kishimojin (Shingenji Temple) and its surroundings in Taito Ward, Tokyo. Known as a summer tradition of the shitamachi (old downtown) district that has continued since the Edo period, the sight of pots of colorful morning glories lining Kototoi-dori Avenue announces the true arrival of summer in Tokyo.
+
+During the festival, about 30 morning glory vendors and nearly 100 street stalls line the streets, drawing crowds of roughly 100,000 people each year. Many visitors come from early morning, and families and foreign tourists can be seen carefully examining the pots of morning glories. Combining the beauty of the flowers with the lively atmosphere of a shitamachi fair, it is one of Tokyo''s most representative annual events of early summer.
+
+## History and Origin
+
+Iriya Kishimojin, the center of the Iriya Asagao Matsuri, is formally a Nichiren Buddhist temple called Butsuryuzan Shingenji. It is said to have begun in 1659, when Nichiyu Shonin, the 20th head of the head temple Kochoji in Numazu, Shizuoka Prefecture, came to Edo carrying a small wooden image of Kishimojin that had been enshrined at the head temple, and built Shingenji at its present location.
+
+The temple''s principal image of Kishimojin has been affectionately known by the phrase "Osore Iriya no Kishimojin." This name has an origin: a story of divine benefit in which a lady-in-waiting of a daimyo family, suffering from a tumor, was completely cured after 21 days of prayer. The Edo-period kyoka poet Ota Shokusanjin heard of this and, in a play on words, said he was "awed" (osore-itta) by its efficacy, and the pun became popular among the people of Edo. Iriya''s Kishimojin is counted, along with those of Nakayama and Zoshigaya, as one of the Three Great Kishimojin of Edo, and has long attracted deep faith as a deity who protects mothers and children.
+
+The origin of the morning glory market itself is said to lie in the display of morning glories cultivated actively in this area in the late Edo period. At that time, gardeners selling morning glories lined the streets of the Iriya area in Shitaya-Sakamoto Village. The morning glories of Iriya became widely known only after entering the Meiji era, when a dozen or so gardeners cultivated morning glories on vast plots of several hundred tsubo each, which established the flower''s status as a local specialty.
+
+Afterward, there was a period when morning glory cultivation was temporarily discontinued due to urbanization and other factors, but through the efforts of local people the morning glory market was revived and has been carried on to the present day. The enduring appeal of this festival lies in the fact that, while changing its form from Edo to Meiji and into the modern age, it has continued without interruption as an event that colors the shitamachi summer.
 
 ## Highlights
 
-During the festival period, approximately 120 morning glory vendors and 100 food and craft stalls line the Kototoi-dōri Avenue, bustling from early morning around 5 a.m. until late at night around 11 p.m. The morning glories on display include traditional large-blossom varieties, the distinctive reddish-brown "Danjūrō," the prized "Danjūrō Black," and rare specimens of variant morning glories, with potted plants available from around 2,000 yen each. Iriya Kishimojin attracts queues of worshippers, and morning glory-motif uchiwa fans, prayer plaques, and amulets are distributed. The local merchant association''s food stalls and traditional craft vendors also enjoy great popularity.
+**Colorful Morning Glories** The stars of the venue are the pots of morning glories lined up for several hundred meters along Kototoi-dori Avenue. In addition to blue, purple, crimson, and white, rare varieties in which several colors bloom on a single pot are also on display, and the flowers in full bloom in the morning light are stunningly beautiful. Many people visit from early morning to match the peak of blooming, allowing visitors to fully savor the cool charm of summer.
 
-## Event Details and Access
+**Conversations with the Morning Glory Vendors** At the market, where about 30 morning glory vendors are lined up, the gardeners, who are cultivation professionals, kindly explain the varieties and how to grow them. Buyers can exchange words with the vendors and take their time choosing a pot to their liking. Beyond simply buying and selling flowers, the exchange between people is another charm unique to the old-fashioned morning glory market.
 
-The venue is Iriya Kishimojin (Shingen-ji Temple, 1-12-16 Shitaya, Taitō Ward, Tokyo) and the surrounding Kototoi-dōri Avenue. Access is approximately 1 minute on foot from Iriya Station on the Tokyo Metro Hibiya Line, or 7 minutes from Uguisudani Station on the JR Yamanote Line. Admission is free. The festival runs from July 6 to 8, from early morning around 5 a.m. until late at night around 11 p.m.
+**About 100 Street Stalls** Along the morning glory market, nearly 100 street stalls line up, creating a lively shitamachi atmosphere. Visitors can enjoy classic stall food and fair games, and the area becomes crowded not only with those seeking flowers but also with people who come to soak up the festive mood. The space, where the flower market and the fair blend into one, produces the exhilaration characteristic of a summer festival.
 
-## Surrounding Attractions
+**Worship at Iriya Kishimojin** At Shingenji, the main venue of the festival, limited-edition goshuin seals and amulets are sometimes granted during the morning glory market, and many people visit for the purpose of worship. The sight of people joining their hands before the principal image renowned as "Osore Iriya no Kishimojin" and praying for the healthy lives of mother and child shows that this festival is not merely a flower market but an event connected with faith.
 
-The Taitō Ward area, rich in the atmosphere of old Tokyo, offers a concentration of tourism resources for experiencing the city''s traditions and history, including Sensōji Temple, Asakusa Shrine, Nakamise-dōri shopping street, the Asakusa Engei Hall, Ueno Park, the Tokyo National Museum, Ueno Zoo, the Yanaka Ginza shopping street, and Yanaka Cemetery. Following the Asagao Festival in early July, the "Hōzuki-ichi" (Chinese Lantern Plant Market) is held at Sensōji Temple on July 9-10, making a consecutive tour of the downtown summer festivals particularly popular among visitors.','iriya-asagao-matsuri','iriya-asagao-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+The Iriya Asagao Matsuri is held over three days from July 6 to 8 each year. It is characterized by the bustle of people seeking flowers from early morning, and many shops sell out of morning glory pots soon after opening on each day. Because the dates are fixed each year, it is cherished as a summer tradition around the time of the Tanabata Star Festival.
+
+The venue is Iriya Kishimojin (Shingenji Temple) in Taito Ward, Tokyo, and the area along Kototoi-dori Avenue that runs in front of it. Access is very convenient: it is about a one-minute walk from Iriya Station on the Tokyo Metro Hibiya Line, and about a five-minute walk from Uguisudani Station on the JR Yamanote Line, close to either station. Because the surrounding area becomes very crowded during the festival, use of public transportation is recommended.
+
+## Surrounding Information
+
+Iriya is located in the shitamachi area close to Ueno and Asakusa, and visitors can enjoy strolling around the old downtown together with the morning glory festival. Within walking distance lies the Ueno area, where cultural facilities such as Ueno Park, Ueno Zoo, and the Tokyo National Museum are concentrated, and many visitors extend their trip there after visiting the morning glory market.
+
+A little further on foot, one can also reach Asakusa, one of Tokyo''s leading tourist destinations, and visit famous sights such as the Kaminarimon gate, Nakamise shopping street, and Sensoji Temple. Long-established restaurants and traditional Japanese confectionery shops unique to the shitamachi are also scattered throughout the area, making it a location where, after savoring the atmosphere of the morning glory market, one can fully enjoy a Tokyo summer along with a walk through streets rich in the atmosphere of old Edo.
+
+## Related Information
+
+- Location: Iriya Kishimojin (Shingenji Temple) and the Kototoi-dori Avenue area, Taito Ward, Tokyo
+- Period: Three days, July 6-8 each year
+- Central temple: Butsuryuzan Shingenji (founded in 1659; one of the Three Great Kishimojin of Edo)
+- Scale: About 30 morning glory vendors and nearly 100 street stalls, with about 100,000 visitors each year
+- Origin: Display of morning glory cultivation in the late Edo period; became a specialty through gardeners'' cultivation in the Meiji era
+- Access: About 1 minute on foot from Iriya Station (Tokyo Metro), about 5 minutes from Uguisudani Station (JR)
+','iriya-asagao-matsuri','iriya-asagao-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q28691419','六ツ美悠紀斎田お田植えまつり','Mutsumi Yukisaiden Otaue Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%AD%E3%83%84%E7%BE%8E%E6%82%A0%E7%B4%80%E6%96%8E%E7%94%B0%E3%81%8A%E7%94%B0%E6%A4%8D%E3%81%88%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q22130088','水戸まちなかフェスティバル',NULL,NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q22130298','本庄まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
