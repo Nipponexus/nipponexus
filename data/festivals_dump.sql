@@ -4737,6 +4737,8 @@ INSERT INTO "festivals" VALUES('Q6663968','足立の花火','Adachi Fireworks','
 
 会場は東京都足立区の荒川河川敷で、西新井橋から東京メトロ千代田線の鉄橋にかけての区間が中心となり、花火は千住側から打ち上げられる。観覧は荒川の北岸または南岸が主で、無料で入場できるほか有料指定席も設けられる。アクセスはJR・東武・東京メトロ・つくばエクスプレスが乗り入れる北千住駅から徒歩約15分など複数の駅が利用でき、当日は会場周辺で交通規制が実施される。
 
+なお、本大会は近年、熱中症・天候対策などにより開催時期の変更や中止となった年もあるため、最新の開催日程・実施可否は必ず主催者の公式サイトで確認してほしい。
+
 ## 周辺情報
 
 会場の最寄りとなる北千住は、複数の路線が交わる交通の要衝であると同時に、下町情緒あふれる商店街や飲食店が集まる活気ある街である。花火の前後には、宿場町として栄えた歴史を持つ千住宿の名残をとどめる街並みを散策したり、地元で親しまれる店で食事を楽しんだりすることができる。
@@ -4782,6 +4784,8 @@ The turning point came in the 1970s. Many voices from ward residents calling for
 Adachi no Hanabi was for many years customarily held in late July, but in recent years the timing has been reviewed as a countermeasure against heatstroke and weather. The 48th festival in 2026 opened at 7:20 p.m. on Saturday, May 30, with about 13,000 shells launched, and was set to be cancelled without postponement in the event of bad weather. It has long been known as the display that leads the way among the large-scale fireworks held in the Tokyo summer.
 
 The venue is the banks of the Arakawa River in Adachi Ward, Tokyo, centered on the section from the Nishiarai Bridge to the railway bridge of the Tokyo Metro Chiyoda Line, with fireworks launched from the Senju side. Viewing is mainly from the north or south bank of the Arakawa, with free admission as well as paid reserved seats. It can be accessed from several stations, including a roughly 15-minute walk from Kita-Senju Station, served by JR, Tobu, Tokyo Metro, and Tsukuba Express lines, and traffic restrictions are in place around the venue on the day.
+
+Please note that in recent years the schedule of this festival has changed and there have been years when it was cancelled, so always check the official website for the latest dates and whether the event will be held.
 
 ## Surrounding Information
 
@@ -20623,11 +20627,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
