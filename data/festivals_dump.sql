@@ -2038,59 +2038,109 @@ Tokyo from late October to early November enjoys mild weather just before the au
 - International Accreditation: FIAPF-accredited competitive film festival
 ','tokyo-international-film-festival','tokyo-international-film-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11249715','TOKYO IDOL FESTIVAL','Tokyo Idol Festival','2010年より開催されている日本の音楽イベント','annual music event in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL','https://en.wikipedia.org/wiki/Tokyo_Idol_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q446474','酒まつり','Sake Matsuri','毎年10月第2土・日曜の2日間にわたって広島県東広島市西条町の西条中央公園と西条酒蔵通りを中心にして行われる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D%20Sake%20Matsuri%202017.jpg','https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saij%C5%8D_Sake_Matsuri',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q446474','酒まつり','Sake Matsuri','毎年10月第2土・日曜の2日間にわたって広島県東広島市西条町の西条中央公園と西条酒蔵通りを中心にして行われる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1979,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D%20Sake%20Matsuri%202017.jpg','https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saij%C5%8D_Sake_Matsuri',85,'drafted','## 概要
 
-酒まつり（さけまつり）は、広島県東広島市西条地区の西条中央公園と西条酒蔵通りを中心に、毎年10月の第2土・日曜の2日間にわたって行われる祭りである。西条は灘・伏見と並ぶ日本三大銘醸地のひとつとして知られる酒どころで、両日合わせて毎年20万人が来場する、酒都西条を代表する一大イベントである。
+酒まつりは、広島県東広島市西条町で毎年10月に開催される、日本酒をシンボルにした祭りです。伏見（京都）、灘（兵庫）と並んで「日本三大酒どころ」の一つに数えられる酒都・西条を舞台に、全国から集まった数百銘柄の日本酒を味わえる催しとして知られ、二日間で数十万人が訪れる中国地方有数の秋のイベントです。JR西条駅周辺の酒蔵通り一帯を会場とし、入場は無料です。
 
-## 歴史と由来
+祭りは複数の会場で構成されます。全国から約800銘柄の日本酒が集う「酒ひろば」、西条名物の郷土料理を味わう「美酒鍋（びしゅなべ）会場」、実際の酒蔵を巡る「酒蔵会場」などがあり、酒とともに音楽ステージや飲食の出店もにぎわいます。酒造りの街ならではの風景と味覚を一度に楽しめる点が、この祭り最大の魅力です。
 
-酒まつりの前身は、1974年（昭和49年）に誕生した「みんなの祭り」である。これを1990年（平成2年）に、当時の商工会議所のメンバーが中心となって「酒」をシンボルに据えて発展させたのが現在の酒まつりである。以来、酒好きはもちろん、酒が飲めない人や家族連れなど幅広い年齢層が楽しめる祭りとして定着した。西条は古くから酒造業で栄えた町で、酒蔵通りには白壁となまこ壁の酒蔵が建ち並び、赤瓦と煙突の景観が酒都らしい風情を醸している。
+## 歴史・由来
+
+酒まつりは、1979年（昭和54年）に始まった「みんなのまつり」と、西条酒造協会が1972年ごろから行っていた「西条酒まつり」が統合されて生まれた祭りです。市民の融和とコミュニティ意識の啓発に加え、お酒をシンボルにした楽しい祭りを全国に発信し、観光振興に貢献することを目的として発展してきました。比較的新しい祭りですが、その背景には西条が長い年月をかけて築いてきた酒造りの歴史があります。
+
+西条が酒都と呼ばれるようになった礎を築いたのは、東広島市安芸津町出身の酒造家・三浦仙三郎です。三浦は1898年（明治31年）に「軟水醸造法」を確立しました。ミネラルの少ない軟水は発酵が進みにくく、かつては酒造りに不向きとされていましたが、三浦は醸造法を改良して軟水でも上質な酒を醸すことを可能にしました。この技術革新が、水に恵まれた西条を一大銘醸地へと押し上げる決定的な転機となったのです。
+
+こうして西条は、京都の伏見、兵庫の灘と並ぶ日本三大酒どころへと成長しました。「酒都」という呼び名は、俳人の河東碧梧桐（かわひがしへきごとう）が名づけたと伝えられています。良質な地下水と、瀬戸内の温暖な気候の中でも冷え込む盆地特有の気候条件が、酒造りに適した土地柄を生み出したと考えられています。
+
+西条駅前には、赤レンガの煙突となまこ壁を持つ酒蔵が建ち並ぶ「酒蔵通り」が広がっています。歴史ある酒蔵の景観は、酒都西条を象徴する町並みとして親しまれており、酒まつりはこの酒造りの伝統と町の歴史を、市民と全国の来訪者が共有する場として毎年開かれています。
 
 ## 見どころ
 
-メイン会場の西条中央公園には、全国の銘柄の酒を飲み比べできる「酒ひろば」（有料）が設けられ、ここが祭りの象徴的なコーナーとなっている。同じく中央公園の「5千人の居酒屋ひろば」ではステージで神楽や市民パフォーマンスが披露される。歩行者天国となる西条酒蔵通りでは、沿道の各酒造会社が酒蔵見学・試飲・販売を行い、西条名物の「美酒鍋（びしゅなべ）」やうどんが振る舞われ、酒蔵コンサートも催される。賀茂鶴の蔵を会場とするKIZUNA会場では神楽やジャズコンサートが行われる。子供が楽しめるヒーローショーやゲームコーナー、地元プロスポーツチームのブースもあり、酒を飲まない来場者にも配慮された構成となっている。
+**全国の日本酒が集う「酒ひろば」**　最大の目玉は、全国から約800銘柄もの日本酒が一堂に会する「酒ひろば」です。専用のチケットで各地の銘酒を飲み比べることができ、普段は出会えない全国の蔵元の酒を一度に味わえる貴重な機会となっています。日本酒好きにとっては、これだけの銘柄を飲み比べられる場は全国的にも珍しく、祭りの象徴的な催しです。
+
+**西条名物「美酒鍋」**　美酒鍋（びしゅなべ）は、酒蔵のまかない料理が発祥とされる西条ならではの郷土料理です。日本酒をふんだんに使って鶏肉や野菜を煮込むもので、酒の街ならではの深い味わいが特徴です。祭りの会場では専用の美酒鍋会場が設けられ、酒とともにこの名物料理を楽しむことができ、飲むだけでなく食でも酒都を体感できます。
+
+**酒蔵通りと酒蔵会場**　会場の中心となる酒蔵通りには、赤レンガの煙突となまこ壁の酒蔵が建ち並び、酒都西条ならではの風情ある景観が広がります。祭りの期間中は実際の酒蔵が会場として開放され、蔵元の酒を味わいながら酒造りの現場の雰囲気にふれられます。歴史的な町並みそのものが祭りの舞台となっている点が、他の酒イベントにはない魅力です。
+
+**音楽ステージと多彩な催し**　メイン会場では音楽ステージや歌謡ステージなどのイベントが行われ、飲食の出店も数多く並びます。酒を味わうだけでなく、家族連れでも楽しめる催しが用意されており、市民の祭りとして始まった性格を色濃く残しています。酒都の熱気に包まれた二日間は、街全体が祝祭の空気に包まれます。
+
+**中秋の名月と「あかりの散歩道」**　酒まつりは中秋の名月の時期に合わせて開かれることが多く、酒蔵通りでは夜に灯りをともす「あかりの散歩道」といった催しが行われることもあります。昼のにぎわいとは異なる、灯りに照らされた酒蔵の町並みは幻想的で、酒都西条の別の表情を楽しめます。
 
 ## 開催情報・アクセス
 
-開催は毎年10月の第2土・日曜の2日間（年により変動あり）。会場は東広島市西条地区で、最寄りはJR山陽本線西条駅。メイン会場の中央公園までは徒歩約5分、酒蔵通りは駅手前にある。祭り期間中は広島〜西条間で臨時列車が運行され、会場周辺は歩行者天国となる。駐車スペースが限られるため広島大学周辺に臨時駐車場が設けられ、シャトルバスも運行される。
+酒まつりは毎年10月に、JR西条駅周辺の酒蔵通り一帯を会場として二日間にわたり開催されます。2026年は10月10日（土）・11日（日）の開催が予定されています。入場は無料ですが、「酒ひろば」など一部の催しは専用チケットが必要です。主催は公益社団法人東広島市観光協会、主管は酒まつり実行委員会です。
 
-## 周辺の見どころ
+開催日程や会場構成、チケット販売の詳細は年によって変わるため、来場前には酒まつり公式サイトや東広島市観光協会の最新の発表を必ず確認してください。アクセスはJR山陽本線の西条駅からすぐで、駅前に酒蔵通りが広がっています。祭り期間中は周辺で交通規制が行われるため、公共交通機関の利用が推奨されます。
 
-西条酒蔵通りは、白壁の酒蔵やレンガ煙突が連なる歴史的な町並みで、祭りの時期以外でも酒蔵見学や試飲を楽しめる人気の散策路である。賀茂鶴・白牡丹・亀齢など名だたる酒蔵が集まり、日本酒文化に触れられる。東広島市は広島大学を擁する学術都市でもあり、広島市街からも近く、広島観光と合わせて訪れやすい。
+## 周辺情報
+
+会場となる西条の酒蔵通りは、祭りの時期以外でも散策が楽しめる観光スポットです。賀茂鶴、亀齢、白牡丹、福美人など複数の造り酒屋が集まり、赤レンガの煙突となまこ壁が続く町並みは、酒都西条を代表する景観として親しまれています。多くの酒蔵では見学や試飲、酒の販売を行っており、一年を通じて日本酒文化にふれることができます。
+
+東広島市は広島大学のキャンパスが置かれた学園都市でもあり、若い活気と歴史ある酒造りの伝統が共存する街です。広島市中心部からはJR山陽本線で30分ほどとアクセスがよく、広島観光と組み合わせて訪れる人も多くいます。瀬戸内の温暖な気候に育まれた地域で、酒とともに地元の食材も楽しめます。
+
+酒造りの名物「美酒鍋」のほか、東広島には地元の食文化が根づいています。西条の日本酒を土産に選ぶ人も多く、祭りの時期には限定酒が販売されることもあります。酒都ならではの土産と味覚は、訪れる楽しみの一つです。
 
 ## 関連情報
 
-- 開催月: 10月第2土・日曜（秋）
-- 都道府県: 広島県（中国）
-- 会場: 西条中央公園・西条酒蔵通り（東広島市）
-- 前身: 「みんなの祭り」（1974年）→ 1990年に「酒」をシンボルに発展
-- 来場者数: 両日で約20万人','## Overview
+- 正式名称：酒まつり
+- 開催地：広島県東広島市西条町（JR西条駅周辺・酒蔵通り一帯）
+- 開催時期：毎年10月の二日間（入場無料／一部催しは有料）
+- 位置づけ：日本三大酒どころ・西条を舞台にした日本酒の祭り
+- 由来：1979年「みんなのまつり」と「西条酒まつり」の統合
+- 酒都の礎：三浦仙三郎が1898年に軟水醸造法を確立
+- 主な会場：酒ひろば（約800銘柄）・美酒鍋会場・酒蔵会場ほか
+','## Overview
 
-The Saijo Sake Matsuri is held over two days on the second Saturday and Sunday of October each year, centered on Saijo Central Park and the Saijo Sakagura-dori in the Saijo district of Higashihiroshima City, Hiroshima Prefecture. Saijo is a renowned sake-producing town known as one of Japan''s three great brewing regions alongside Nada and Fushimi, and the festival draws 200,000 visitors over the two days as a leading event representing the "sake capital" of Saijo.
+The Sake Matsuri is a festival celebrating sake, held every October in Saijo-cho, Higashihiroshima City, Hiroshima Prefecture. Set in Saijo, a sake capital counted alongside Fushimi in Kyoto and Nada in Hyogo as one of the Three Great Sake Regions of Japan, it is known as an event where visitors can taste hundreds of brands of sake gathered from across the country, and it is one of the leading autumn events of the Chugoku region, drawing several hundred thousand visitors over two days. The venue is the sake brewery district around JR Saijo Station, and admission is free.
+
+The festival is made up of several venues. There is the Sake Hiroba, where about 800 brands of sake from across Japan gather, a Bishunabe venue where visitors can enjoy Saijo''s famous local hot pot, and a Sake Brewery venue where visitors tour the actual breweries. Alongside the sake there are music stages and many food stalls. Being able to enjoy at once the scenery and the flavors unique to a sake-brewing town is the greatest charm of this festival.
 
 ## History and Origins
 
-The predecessor of the Sake Matsuri is the "Everyone''s Festival" born in 1974. In 1990, members of the chamber of commerce of the time took the lead in developing it into today''s Sake Matsuri, placing "sake" at its symbolic center. Since then it has become established as a festival enjoyable by a wide range of ages, including sake lovers as well as those who cannot drink and families. Saijo has long prospered through the sake-brewing industry, and the Sakagura-dori is lined with breweries of white plaster and namako walls, with red tiles and chimneys creating an atmosphere befitting the sake capital.
+The Sake Matsuri was born from the merger of the Minna no Matsuri, which began in 1979 (Showa 54), and the Saijo Sake Matsuri that the Saijo Sake Brewers Association had held since around 1972. It has developed with the aims of promoting harmony and community awareness among citizens, of sending out to the whole country a joyful festival with sake as its symbol, and of contributing to tourism. Although a relatively new festival, behind it lies the long history of sake brewing that Saijo has built over many years.
+
+The foundation for Saijo becoming known as a sake capital was laid by Miura Senzaburo, a brewer born in Akitsu-cho in Higashihiroshima. In 1898 (Meiji 31), Miura established the soft-water brewing method. Soft water, which is low in minerals, ferments only slowly and was once considered unsuited to sake brewing, but Miura refined the brewing process to make it possible to produce fine sake even with soft water. This technical breakthrough became the decisive turning point that raised water-blessed Saijo into a great sake-brewing region.
+
+Thus Saijo grew into one of the Three Great Sake Regions of Japan, alongside Fushimi in Kyoto and Nada in Hyogo. The name shuto, or sake capital, is said to have been coined by the haiku poet Kawahigashi Hekigoto. It is thought that fine groundwater, together with the climatic conditions peculiar to a basin that grows cold even within the mild Setouchi region, produced land well suited to sake brewing.
+
+In front of Saijo Station spreads the Sake Brewery Street, where breweries with red-brick chimneys and namako-kabe plaster walls stand in a row. This scenery of historic breweries is cherished as a townscape symbolizing the sake capital of Saijo, and the Sake Matsuri is held every year as a place where citizens and visitors from across the country share this tradition of sake brewing and the history of the town.
 
 ## Highlights
 
-The main venue, Saijo Central Park, has the "Sake Hiroba" (paid), where one can compare and taste renowned sake from across Japan, a symbolic corner of the festival. Also in the park, the "Izakaya Plaza for 5,000 People" features kagura and citizen performances on stage. On the Saijo Sakagura-dori, which becomes a pedestrian zone, each brewery along the road offers brewery tours, tastings, and sales, serves the Saijo specialty "bishu-nabe" hotpot and udon, and holds brewery concerts. The KIZUNA venue at the Kamotsuru brewery hosts kagura and jazz concerts. There are also hero shows and game corners for children and booths of local professional sports teams, making the program considerate of visitors who do not drink.
+**The Sake Hiroba, where sake from across Japan gathers**　The greatest attraction is the Sake Hiroba, where some 800 brands of sake from across the country come together in one place. With a dedicated ticket, visitors can compare and taste fine sake from various regions, making it a precious opportunity to sample at once the products of brewers one would not normally encounter. For sake lovers, a place to compare so many brands is rare even nationwide, and it is the festival''s emblematic event.
 
-## Event Information & Access
+**Saijo''s famous Bishunabe**　Bishunabe is a local dish unique to Saijo, said to have originated as a meal cooked for brewery workers. Chicken and vegetables are simmered using an abundance of sake, giving it a deep flavor characteristic of a sake town. A dedicated Bishunabe venue is set up at the festival, where visitors can enjoy this famous dish along with sake, experiencing the sake capital not only by drinking but also through food.
 
-It is held over two days on the second Saturday and Sunday of October each year (subject to variation). The venue is the Saijo district of Higashihiroshima City; the nearest station is Saijo on the JR Sanyo Main Line. The main venue, Central Park, is about a 5-minute walk away, and the Sakagura-dori is just before the station. During the festival, special trains run between Hiroshima and Saijo, and the area around the venue becomes a pedestrian zone. As parking is limited, temporary parking is set up around Hiroshima University, with shuttle buses operating.
+**The Sake Brewery Street and brewery venues**　Along the Sake Brewery Street at the heart of the venue, breweries with red-brick chimneys and namako-kabe walls stand in rows, creating scenery full of the charm unique to the sake capital of Saijo. During the festival the actual breweries are opened as venues, where visitors can taste the brewers'' sake while sensing the atmosphere of the brewing sites. That the historic townscape itself serves as the stage of the festival is a charm not found in other sake events.
 
-## Around the Venue
+**Music stages and varied events**　At the main venue, events such as music stages and singing stages are held, and many food stalls line up. Beyond tasting sake, there are attractions that families can enjoy, retaining strongly the character of a festival that began as a citizens'' event. The two days, enveloped in the excitement of the sake capital, fill the whole town with a festive air.
 
-The Saijo Sakagura-dori is a historic townscape of white-plaster breweries and brick chimneys, a popular walking route where one can enjoy brewery tours and tastings even outside the festival period. Famous breweries such as Kamotsuru, Hakubotan, and Kirei gather here, offering a chance to experience sake culture. Higashihiroshima City is also an academic city home to Hiroshima University, and being close to central Hiroshima, it is easy to combine with Hiroshima sightseeing.
+**The harvest moon and the Path of Lights**　The Sake Matsuri is often held around the time of the harvest moon, and events such as the Path of Lights, in which lights are lit along the Sake Brewery Street at night, are sometimes held. The townscape of breweries illuminated by lights, different from the daytime bustle, is enchanting and lets visitors enjoy another face of the sake capital of Saijo.
+
+## Event Information and Access
+
+The Sake Matsuri is held every October over two days, with the sake brewery district around JR Saijo Station as its venue. In 2026 it is scheduled for October 10 (Saturday) and 11 (Sunday). Admission is free, but some events such as the Sake Hiroba require a dedicated ticket. It is organized by the Higashihiroshima City Tourism Association, with the Sake Matsuri Executive Committee as the managing body.
+
+Because the dates, venue layout, and ticket sale details vary from year to year, please be sure to check the latest announcements of the official Sake Matsuri website and the Higashihiroshima City Tourism Association before visiting. Access is immediate from Saijo Station on the JR Sanyo Main Line, with the Sake Brewery Street spreading out in front of the station. As traffic is restricted in the area during the festival, use of public transportation is recommended.
+
+## Around the Area
+
+The Sake Brewery Street that serves as the venue is a sightseeing spot to enjoy strolling even outside the festival season. Several breweries such as Kamotsuru, Kirei, Hakubotan, and Fukubijin gather here, and the townscape of continuous red-brick chimneys and namako-kabe walls is cherished as scenery representative of the sake capital of Saijo. Many breweries offer tours, tastings, and sales, allowing visitors to experience sake culture throughout the year.
+
+Higashihiroshima is also an academic city that hosts a campus of Hiroshima University, a town where youthful energy and the historic tradition of sake brewing coexist. With good access of about thirty minutes by JR Sanyo Main Line from central Hiroshima, many people visit it in combination with sightseeing in Hiroshima. In a region nurtured by the mild Setouchi climate, local ingredients can be enjoyed along with sake.
+
+Besides the famous Bishunabe, Higashihiroshima has a deeply rooted local food culture. Many people choose Saijo sake as a souvenir, and limited-edition sake is sometimes sold during the festival season. Souvenirs and flavors unique to a sake capital are one of the pleasures of a visit.
 
 ## Related Information
 
-- Month: Second Saturday-Sunday of October (autumn)
-- Prefecture: Hiroshima (Chugoku)
-- Venue: Saijo Central Park and Saijo Sakagura-dori (Higashihiroshima City)
-- Predecessor: "Everyone''s Festival" (1974), developed around "sake" from 1990
-- Attendance: About 200,000 over the two days','saijo-sake-matsuri','saijo-sake-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- Official name: Sake Matsuri
+- Location: Saijo-cho, Higashihiroshima City, Hiroshima Prefecture (around JR Saijo Station / Sake Brewery Street)
+- Timing: two days every October (free admission / some events paid)
+- Status: a sake festival set in Saijo, one of the Three Great Sake Regions of Japan
+- Origin: the 1979 merger of the Minna no Matsuri and the Saijo Sake Matsuri
+- Foundation of the sake capital: Miura Senzaburo established the soft-water brewing method in 1898
+- Main venues: Sake Hiroba (about 800 brands), Bishunabe venue, Sake Brewery venue, and others
+','saijo-sake-matsuri','saijo-sake-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q493695','唐津くんち','Karatsu Kunchi','佐賀県唐津市にある唐津神社の秋季例大祭','festival in Japan','Q11418639','唐津神社','Karatsu Shrine','佐賀県','kyushu',33.445171292,129.967403864,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Hikiyama.jpg','https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Karatsu_Kunchi',95,'drafted','## 概要
 唐津くんち（からつくんち）は、佐賀県唐津市の唐津神社の秋季例大祭であり、毎年11月2日から4日にかけて行われる、唐津を代表する秋の祭礼である。漆と金箔で彩られた14台の巨大な「曳山（ひきやま）」が、笛・太鼓・鉦の囃子に乗って旧城下町を勇壮に巡行する姿で全国的に知られ、約400年の歴史を誇る。国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」を構成する祭礼の一つでもある。
 
