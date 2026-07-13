@@ -733,83 +733,125 @@ The venue is Hinokuma Jingū and Kunikakasu Jingū (365 Akizuki, Wakayama City, 
 Wakayama City features a concentration of historical attractions including Wakayama Castle (the residence of the Kii Tokugawa family, one of the three Tokugawa branch families), Kimiidera Temple (the 2nd temple on the Saigoku Pilgrimage), Wakanoura and Tamatsushima Shrine, Saikazaki, and Kishū Tōshō-gū. Within Wakayama Prefecture, abundant tourism resources allow visitors to experience the faith, nature, and hot spring culture of the Kii Peninsula, including Mount Kōya (a UNESCO World Heritage Site and sacred place of Shingon Buddhism), the Kumano Kodō pilgrimage routes (a World Heritage Site), Nachi Falls and Kumano Nachi Taisha, Shirahama Hot Spring, and Kushimoto Coast. Hinokuma Jingū and Kunikakasu Jingū have historically been important pilgrimage stops both before and after the Kumano pilgrimage.','hinokuma-kunikakasu-jingu','hinokuma-kunikakasu-jingu',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q979873','祇園祭','Gion Matsuri','京都市の祭り','festival in Kyoto city, Japan','Q692714','八坂神社','Yasaka Shrine','京都府','kinki',NULL,NULL,869,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Matsuri%202017-5.jpg','https://ja.wikipedia.org/wiki/%E7%A5%87%E5%9C%92%E7%A5%AD','https://en.wikipedia.org/wiki/Gion_Matsuri',85,'drafted','## 概要
 
-祇園祭（ぎおんまつり）は、京都市東山区の八坂神社の祭礼で、京都の夏を代表する祭りとして、また日本三大祭りのひとつとして広く知られています。葵祭・時代祭とともに「京都三大祭り」にも数えられ、その歴史と規模は群を抜いています。
+祇園祭（ぎおんまつり）は、京都市の八坂神社の祭礼で、日本三大祭のひとつに数えられる、千百年以上の伝統を有する祭りです。7月1日の「吉符入（きっぷいり）」に始まり、31日の「疫神社夏越祭（えきじんじゃなごしさい）」で幕を閉じるまで、およそ1か月にわたって各種の神事・行事がくり広げられます。
 
-祭りは7月の1か月間にわたって、さまざまな神事・行事が連日繰り広げられる長大な祭礼です。なかでも最大の見どころが、絢爛豪華な山鉾（やまほこ）が京都の市街を巡行する「山鉾巡行」です。「動く美術館」とも称される山鉾は、緻密な工芸と豪華な懸装品で飾られ、その巡行は壮観のひとことに尽きます。2009年には「京都祇園祭の山鉾行事」がユネスコ無形文化遺産に登録され、世界的にもその価値が認められています。
+祭りのハイライトは、豪華絢爛な山鉾（やまほこ）が京の街を練り歩く「山鉾巡行」です。前祭（さきまつり）の7月17日と後祭（あとまつり）の7月24日の2回に分けて行われ、精緻な染織品や美術工芸品で飾られた山鉾は「動く美術館」とも称えられます。「京都祇園祭の山鉾行事」はユネスコの無形文化遺産に登録されており、その歴史と文化的価値は世界的に認められています。大阪の天神祭・東京の神田祭とともに日本三大祭に数えられるとともに、京都では葵祭・時代祭と並ぶ京都三大祭の一つとして、京の夏を代表する祭りとして親しまれています。
 
 ## 歴史・由来
 
-祇園祭の起源は、平安時代前期の貞観11年（869年）に行われた「祇園御霊会（ぎおんごりょうえ）」にさかのぼると伝えられています。当時、各地で疫病が流行したため、その原因とされた怨霊や疫神を鎮め、災厄を退散させることを願って営まれた御霊会が、祭りの始まりとされます。当初は当時の国の数にちなんで66本の鉾を立て、神泉苑に神輿を送って災厄の除去を祈ったといわれています。
+祇園祭の起源は、平安時代初期の貞観11年（869年）にさかのぼります。この年、京の都をはじめ日本各地に疫病が流行したとき、勅を奉じて当時の国の数にちなんで66本の矛を立て、祇園社（現在の八坂神社）から神泉苑（しんせんえん）へ神輿を送って災厄の除去を祈ったのが始まりと伝えられています。これを「祇園御霊会（ぎおんごりょうえ）」といい、疫神や怨霊を鎮めるための祭礼でした。
 
-その後、疫病の流行に応じて随時行われていた御霊会は、やがて毎年の恒例行事として定着し、応仁の乱による中断などを経ながらも、町衆（まちしゅう）の力によって復興・継承されてきました。とくに山鉾は、室町時代以降、京都の商工業者たちが財力と技術を結集して豪華に飾り立て、自らの町の誇りとして発展させてきたものです。海外渡来の染織品なども懸装品として用いられ、山鉾は国際色豊かな工芸の粋を集めた存在となりました。なお、起源年代や個々の山鉾の由来には諸説・伝承による部分もあり、ここでは主要な伝えと研究の状況に基づいて概観しています。
+平安時代の中頃からは規模も大きくなり、田楽や猿楽なども加わって盛んなにぎわいを見せるようになりました。室町時代になると、町々が特色ある山鉾を出したことが『祇園社記』に記されています。
+
+応仁の乱（1467年）によって都は焼け野原となり、祇園祭も一時中絶しましたが、明応9年（1500年）に復活しました。このとき、山鉾巡行の順番を決める「鬮取式（くじとりしき）」が始まりました。以後、町衆（まちしゅう）の努力によって山鉾の装飾には贅が尽くされるようになり、近世には度重なる火災で多くの山鉾が失われましたが、そのたびに町衆の心意気によって再興され、今日へと受け継がれてきました。
+
+祭りには「蘇民将来子孫也（そみんしょうらいしそんなり）」の護符にまつわる信仰も息づいています。『備後国風土記』の逸文に残る、素戔嗚尊（すさのおのみこと）をもてなした蘇民将来の説話に由来し、その子孫と称して茅の輪を身につければ疫病を免れるという言い伝えが、祭りの根底に流れています。
 
 ## 見どころ
 
-### 山鉾巡行
-祇園祭最大のハイライトが、前祭（さきまつり）と後祭（あとまつり）の二度にわたって行われる山鉾巡行です。高くそびえる鉾や、趣向を凝らした山が、囃子の音とともに京都の大通りを進みます。交差点で大きな鉾の進行方向を変える「辻回し」は、巨大な車輪を竹と水を使って回す豪快な見せ場で、観客から大きな歓声があがります。
+**山鉾巡行**　祭り最大の見どころが、前祭（7月17日）と後祭（7月24日）に行われる山鉾巡行です。精緻な装飾で飾られた大小の山鉾が京の街を進む様は壮観で、その豪華さから「動く美術館」とも呼ばれます。
 
-### 宵山（よいやま）
-山鉾巡行の前夜にあたる「宵山」も大きな見どころです。日が暮れると山鉾に駒形提灯が灯され、祇園囃子が流れるなか、多くの人でにぎわいます。各山鉾町では、懸装品の展示や、厄除けの粽（ちまき）・授与品の販売が行われ、祭りの情緒を間近に味わうことができます。
+**辻回し**　巡行の途中、交差点で重い山鉾の向きを90度変える「辻回し（つじまわし）」は、山鉾巡行のなかでも屈指の見せ場です。車輪の下に青竹を敷き、水をまいて滑らせながら、掛け声とともに一気に方向を変える技に大きな歓声が上がります。
 
-### 神輿渡御と神事
-華やかな山鉾行事の一方で、祇園祭の中核には八坂神社の神事があります。神輿が氏子地域を巡る神輿渡御をはじめ、1か月を通じて数多くの神事が厳かに営まれ、疫病退散・無病息災を願う祭り本来の姿が受け継がれています。
+**宵山の情緒**　巡行を控えた宵山（よいやま）の期間には、山鉾に駒形提灯の明かりが灯り、祇園囃子が奏でられて街全体が祭り一色に染まります。「コン・チキ・チン」と響く祇園囃子は、鉦（かね）・太鼓・笛で奏でられる京都ならではの音色です。
+
+**厄除けの粽**　宵山の期間には、山鉾の各町内でそれぞれのご利益をもたらす「粽（ちまき）」が授与されます。笹の葉で調製された疫病・災難除けのお守りで、「蘇民将来子孫也」の護符がつけられ、軒先に吊るされます。
+
+**多彩な神事**　7月1日の吉符入に始まり、神輿渡御、そして31日の疫神社夏越祭で締めくくられるまで、1か月を通じて多彩な神事が営まれ、祭りの奥深さを伝えています。
 
 ## 開催情報・アクセス
 
-祇園祭は、例年7月1日の「吉符入（きっぷいり）」から31日の「疫神社夏越祭」まで、約1か月にわたって各種の神事・行事が行われます。前祭の山鉾巡行は7月17日、後祭の山鉾巡行は7月24日に行われるのが通例です。会場は八坂神社および京都市街地一帯です。各行事の日程・経路・観覧方法は年によって細部が異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+**開催期間**　毎年7月1日から31日までの約1か月間。
 
-アクセスは、八坂神社へは京阪本線「祇園四条駅」や阪急京都線「京都河原町駅」が便利で、山鉾巡行の沿道（四条通・河原町通・御池通など）へは市内各所からアクセスできます。期間中、特に宵山・巡行の日は中心部が大変混雑し、大規模な交通規制が敷かれるため、公共交通機関の利用が前提となります。最新の日程・交通情報は八坂神社や京都市など公式の発表でご確認ください。
+**山鉾巡行**　前祭：7月17日／後祭：7月24日。
 
-## 周辺の見どころ
+**会場**　京都市の八坂神社および各山鉾町、山鉾巡行の巡行路。
 
-祇園祭の中心地・八坂神社の周辺は、京都随一の観光エリアです。祇園の花街、八坂の塔で知られる法観寺、清水寺、高台寺などの名所が徒歩圏内に集まり、祭りとあわせて京都らしい風情を満喫できます。
+**主な神事**　吉符入（7月1日）、宵山、山鉾巡行、神輿渡御、疫神社夏越祭（7月31日）など。
 
-少し足を延ばせば、鴨川沿いの納涼床（川床）で京料理を楽しんだり、四条河原町・先斗町でのショッピングや食事も楽しめます。夏の京都ならではの蒸し暑さのなかにも、祭りの活気と古都の趣が同居する独特の魅力を味わうことができます。
+**文化的位置づけ**　日本三大祭の一つ。「京都祇園祭の山鉾行事」はユネスコ無形文化遺産。
+
+**アクセス**　八坂神社へは京阪本線の祇園四条駅、阪急京都線の京都河原町駅が便利です。宵山や巡行の期間は中心市街地で大規模な交通規制や歩行者天国が実施されるため、公共交通機関の利用がすすめられます。
+
+## 周辺情報
+
+祇園祭が行われる京都市は、平安遷都以来千年以上にわたって日本の都であった歴史都市で、数多くの神社仏閣や伝統文化が今に息づいています。祭りの中心となる八坂神社は、京都・東山のふもと、祇園の街の東端に鎮座し、古くから疫病除けの神として篤い信仰を集めてきました。
+
+八坂神社の門前には、石畳の道や町家が残る祇園の街並みが広がり、京都らしい風情を味わうことができます。祭りの季節でなくても、八坂神社への参拝とあわせて、周辺の清水寺や八坂の塔、花見小路といった名所を巡ることができます。
+
+京都には葵祭（5月）・時代祭（10月）とともに京都三大祭が伝わり、祇園祭はその夏を代表する祭りです。祭りの見物とあわせて、京の食文化や町家のたたずまいを楽しめば、千年の都に息づく信仰と暮らしの文化をより深く味わうことができます。
 
 ## 関連情報
 
-祇園祭は、2009年に「京都祇園祭の山鉾行事」としてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。大阪の天神祭、東京の神田祭とともに日本三大祭りのひとつに、また京都三大祭りのひとつにも数えられる、日本を代表する祭礼です。
+- 名称：祇園祭（祇園御霊会）
+- 開催地：京都府京都市（八坂神社および各山鉾町）
+- 開催期間：毎年7月1日〜31日
+- 山鉾巡行：前祭7月17日・後祭7月24日
+- 起源：貞観11年（869年）の祇園御霊会（疫病退散の祈願）
+- 性格：日本三大祭の一つ・八坂神社の祭礼
+- 文化財：「京都祇園祭の山鉾行事」はユネスコ無形文化遺産
+- 主な見どころ：山鉾巡行・辻回し・宵山・祇園囃子・粽
+','## Overview
 
-なお、起源年代や個々の山鉾の由来、各行事の細部には諸説・変動があります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+The Gion Matsuri is the festival of Yasaka Shrine in Kyoto City, one of the Three Great Festivals of Japan, with a tradition spanning more than 1,100 years. Beginning with the kippuiri on July 1 and continuing until it closes with the Ekijinja Nagoshi-sai on July 31, various sacred rites and events unfold over the course of about a month.
 
-The Gion Matsuri (Gion Festival) is the festival of Yasaka Shrine in Higashiyama Ward, Kyoto City, and is widely known as a representative festival of Kyoto''s summer and as one of the Three Great Festivals of Japan. Together with the Aoi Festival and the Jidai Festival, it is also counted among the "Three Great Festivals of Kyoto," and its history and scale are without equal.
-
-The festival is a vast observance in which various rites and events unfold day after day over the entire month of July. Its greatest highlight is the "Yamaboko Junko," the procession of gorgeously ornate floats (yamaboko) through the streets of Kyoto. Called a "moving museum," the floats are adorned with intricate craftsmanship and lavish hanging decorations, and their procession can only be described as spectacular. In 2009, the "Yamaboko float events of the Kyoto Gion Festival" were inscribed on the UNESCO Intangible Cultural Heritage list, and their value is recognized worldwide.
+The highlight of the festival is the yamahoko procession, in which gorgeous floats parade through the streets of Kyoto. It is held in two parts, the saki-matsuri on July 17 and the ato-matsuri on July 24, and the yamahoko, adorned with intricate textiles and works of art, are praised as moving museums. The Yamahoko Float Ceremony of the Kyoto Gion Festival is registered as a UNESCO Intangible Cultural Heritage, and its history and cultural value are recognized worldwide.
 
 ## History and Origins
 
-The origins of the Gion Matsuri are said to date back to the "Gion Goryō-e," held in 869 (Jōgan 11) in the early Heian period. At the time, because epidemics were spreading in various regions, the goryō-e was conducted in the hope of pacifying the vengeful spirits and plague deities thought to be their cause and driving away calamity, and this is regarded as the beginning of the festival. It is said that 66 halberds—corresponding to the number of provinces of the country at the time—were initially erected, and portable shrines were sent to Shinsen-en garden to pray for the removal of disaster.
+The origins of the Gion Matsuri go back to the year 869 (Jogan 11) in the early Heian period. In this year, when an epidemic spread throughout the capital of Kyoto and other parts of Japan, an imperial command led to the raising of 66 pikes, corresponding to the number of provinces of the country at the time, and a portable shrine was sent from Gion Sha (present-day Yasaka Shrine) to the Shinsen-en garden to pray for the removal of calamity. This is said to be the beginning of the festival. It was called the Gion Goryo-e, a rite to appease plague deities and vengeful spirits.
 
-Thereafter, the goryō-e, which had been held as needed in response to outbreaks of epidemics, eventually became established as an annual event, and despite interruptions such as during the Ōnin War, it was revived and carried on through the power of the townspeople (machishū). The floats in particular were lavishly decorated from the Muromachi period onward by Kyoto''s merchants and craftsmen, who pooled their wealth and skill, and developed them as the pride of their own districts. Textiles imported from overseas were also used as hanging decorations, making the floats a gathering of the finest, internationally flavored craftsmanship. Note that there are also accounts and traditions regarding the dating of the origins and the derivations of individual floats, and this provides an overview based on the principal traditions and state of research.
+From the middle of the Heian period, the scale grew larger, and dengaku and sarugaku performances were added, showing a lively prosperity. In the Muromachi period, the Gion Sha Ki records that the various towns produced their own distinctive yamahoko floats.
+
+The capital was reduced to ashes by the Onin War (1467), and the Gion Matsuri was suspended for a time, but it was revived in 1500 (Meio 9). At this time, the kuji-tori-shiki, the ceremony to decide the order of the yamahoko procession, began. Thereafter, through the efforts of the townspeople, the decoration of the yamahoko came to be lavished with great luxury. In early modern times, many yamahoko were lost to repeated fires, but each time they were restored through the spirit of the townspeople and have been handed down to the present.
+
+Living within the festival is also the faith surrounding the amulet inscribed Descendant of Somin Shorai. It derives from the tale, preserved in a fragment of the Bingo no Kuni Fudoki, of Somin Shorai, who welcomed the deity Susanoo-no-Mikoto. The legend that one who calls himself a descendant of Somin Shorai and wears a chi-no-wa reed ring will be spared from epidemic flows at the root of the festival.
 
 ## Highlights
 
-### The Yamaboko Junko Procession
-The greatest highlight of the Gion Matsuri is the float procession, held twice—at the Saki Matsuri (first festival) and the Ato Matsuri (latter festival). Towering halberds (hoko) and elaborately devised mountain floats (yama) advance down Kyoto''s main streets to the sound of festival music. The "tsujimawashi," in which the direction of a large float is changed at an intersection by turning its huge wheels using bamboo and water, is a dynamic spectacle that draws great cheers from the crowds.
+**The Yamahoko Procession**　The greatest highlight of the festival is the yamahoko procession held in the saki-matsuri (July 17) and the ato-matsuri (July 24). The sight of large and small yamahoko, adorned with intricate decoration, advancing through the streets of Kyoto is magnificent, and their splendor earns them the name of moving museums.
 
-### Yoiyama (The Eve)
-The "Yoiyama," the night before the float procession, is also a major highlight. After dark, lantern lights are lit on the floats, and amid the flowing Gion music it bustles with many people. In each float district, hanging decorations are displayed and protective chimaki (rice-dumpling charms) and offerings are sold, allowing visitors to savor the festival''s atmosphere up close.
+**The Tsujimawashi**　During the procession, the tsujimawashi, in which the heavy yamahoko is turned 90 degrees at an intersection, is one of the foremost spectacles of the parade. Green bamboo is laid under the wheels and water is sprinkled to help them slide, and the technique of turning the direction in one motion to shouted calls draws great cheers.
 
-### Mikoshi Procession and Rites
-Alongside the splendid float events, the core of the Gion Matsuri lies in the rites of Yasaka Shrine. Beginning with the mikoshi procession, in which portable shrines tour the parishioner districts, numerous rites are solemnly conducted throughout the month, carrying on the festival''s original purpose of praying for the dispelling of epidemics and for good health.
+**The Atmosphere of Yoiyama**　During the yoiyama period before the procession, the yamahoko are lit with koma-gata lanterns and Gion-bayashi music is played, dyeing the whole town in festival color. The Gion-bayashi, ringing out with kon-chiki-chin, is a sound unique to Kyoto, played on kane gongs, taiko drums, and flutes.
+
+**Protective Chimaki**　During the yoiyama period, each town of the yamahoko bestows chimaki, which bring their own blessings. These are amulets against epidemic and misfortune, prepared from bamboo leaves, bearing the Descendant of Somin Shorai charm, and hung under the eaves.
+
+**Varied Sacred Rites**　From the kippuiri on July 1, through the portable shrine procession, to the closing Ekijinja Nagoshi-sai on July 31, varied sacred rites are conducted throughout the month, conveying the depth of the festival.
 
 ## Event Information and Access
 
-The Gion Matsuri is held over about a month, with various rites and events from the "Kippu-iri" on July 1 to the "Ekijinja Nagoshi-sai" on the 31st each year. The float procession of the Saki Matsuri is customarily held on July 17, and that of the Ato Matsuri on July 24. The venue is Yasaka Shrine and the area of central Kyoto City. Because the details of each event''s schedule, route, and viewing methods may vary from year to year, it is advisable to check official information in advance when planning to attend.
+**Period**　About one month each year, from July 1 to July 31.
 
-For access, to Yasaka Shrine, "Gion-Shijō Station" on the Keihan Main Line and "Kyoto-Kawaramachi Station" on the Hankyu Kyoto Line are convenient, and the procession routes (Shijō-dōri, Kawaramachi-dōri, Oike-dōri, and others) can be reached from various points in the city. During the period, especially on the days of the Yoiyama and procession, the city center becomes extremely crowded and large-scale traffic restrictions are imposed, so use of public transportation is assumed. Please confirm the latest schedule and transportation information through official announcements from Yasaka Shrine and Kyoto City.
+**Yamahoko Procession**　Saki-matsuri: July 17 / Ato-matsuri: July 24.
 
-## Nearby Attractions
+**Venue**　Yasaka Shrine in Kyoto City and the various yamahoko towns, along with the procession route.
 
-The area around Yasaka Shrine, the center of the Gion Matsuri, is one of Kyoto''s foremost sightseeing districts. Famous spots such as the Gion entertainment district, Hōkan-ji Temple known for the Yasaka Pagoda, Kiyomizu-dera Temple, and Kōdai-ji Temple are gathered within walking distance, allowing visitors to fully enjoy the atmosphere unique to Kyoto along with the festival.
+**Main Rites**　Kippuiri (July 1), yoiyama, the yamahoko procession, the portable shrine procession, and the Ekijinja Nagoshi-sai (July 31), among others.
 
-A short trip away, one can enjoy Kyoto cuisine on the riverside dining platforms (kawayuka) along the Kamo River, as well as shopping and dining in Shijō-Kawaramachi and Pontochō. Even amid the humid heat unique to Kyoto in summer, visitors can experience the distinctive charm in which the festival''s energy and the atmosphere of the ancient capital coexist.
+**Cultural Standing**　One of the Three Great Festivals of Japan. The Yamahoko Float Ceremony of the Kyoto Gion Festival is a UNESCO Intangible Cultural Heritage.
+
+**Access**　Yasaka Shrine is conveniently reached from Gion-Shijo Station on the Keihan Main Line and Kyoto-Kawaramachi Station on the Hankyu Kyoto Line. During the yoiyama and procession periods, large-scale traffic restrictions and pedestrian zones are set up in the central city, so use of public transportation is recommended.
+
+## Surrounding Area
+
+Kyoto City, where the Gion Matsuri takes place, is a historic city that was the capital of Japan for more than a thousand years since the relocation of the capital in the Heian period, and countless shrines, temples, and traditional cultures live on there today. Yasaka Shrine, the center of the festival, sits at the foot of Higashiyama in Kyoto, at the eastern edge of the Gion district, and has long attracted deep faith as a deity that wards off epidemic.
+
+Before the gate of Yasaka Shrine spreads the townscape of Gion, with its stone-paved streets and machiya townhouses preserved, where one can savor the atmosphere characteristic of Kyoto. Even outside the festival season, a visit to Yasaka Shrine can be combined with a tour of nearby famous sites such as Kiyomizu-dera, the Yasaka Pagoda, and Hanamikoji.
+
+Kyoto is home to the Three Great Festivals of Kyoto, together with the Aoi Matsuri (May) and the Jidai Matsuri (October), and the Gion Matsuri is the festival that represents its summer. Combining a visit to the festival with the food culture and machiya scenery of Kyoto allows one to savor more deeply the culture of faith and daily life that lives on in the thousand-year-old capital.
 
 ## Related Information
 
-The Gion Matsuri was inscribed on the UNESCO Intangible Cultural Heritage list in 2009 as the "Yamaboko float events of the Kyoto Gion Festival," and it is also designated an Important Intangible Folk Cultural Property of Japan. Together with Osaka''s Tenjin Festival and Tokyo''s Kanda Festival, it is counted as one of the Three Great Festivals of Japan, and as one of the Three Great Festivals of Kyoto—a festival representative of Japan.
-
-Please note that the dating of the origins, the derivations of individual floats, and the details of each event are subject to differing accounts and changes. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before attending.','gion-matsuri','gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- Name: Gion Matsuri (Gion Goryo-e)
+- Location: Kyoto City, Kyoto Prefecture (Yasaka Shrine and the various yamahoko towns)
+- Period: July 1 to July 31 each year
+- Yamahoko Procession: Saki-matsuri July 17 and Ato-matsuri July 24
+- Origin: The Gion Goryo-e of 869 (Jogan 11), a prayer for driving away epidemic
+- Character: One of the Three Great Festivals of Japan; the festival of Yasaka Shrine
+- Cultural Property: The Yamahoko Float Ceremony of the Kyoto Gion Festival is a UNESCO Intangible Cultural Heritage
+- Main Highlights: The yamahoko procession, tsujimawashi, yoiyama, Gion-bayashi, and chimaki
+','gion-matsuri','gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q911345','CON-CANムービーフェスティバル','CON-CAN Movie Festival',NULL,'film festival',NULL,NULL,NULL,'千葉県','kanto',35.67659,139.70793,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/CON-CAN%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/CON-CAN_Movie_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q901495','ゆうばり国際ファンタスティック映画祭','Yubari International Fantastic Film Festival','日本の北海道夕張市で開かれている映画祭','film festival','Q637145','夕張市','Yūbari-shi','北海道','hokkaido',NULL,NULL,1990,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%86%E3%81%B0%E3%82%8A%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yubari_International_Fantastic_Film_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q903645','国際花と緑の博覧会','Expo ''90','1990年に大阪府の鶴見緑地で行われた国際博覧会','international gardening exposition held in Tsurumi Ryokuchi, Osaka','Q11615139','花博記念公園鶴見緑地','Tsurumiryokuchi Expo ''90 Commemorative Park','大阪府','kinki',34.71216667,135.57416667,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/EXPO%201990.JPG','https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%8A%B1%E3%81%A8%E7%B7%91%E3%81%AE%E5%8D%9A%E8%A6%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Expo_%2790',95,'drafted','## 概要
