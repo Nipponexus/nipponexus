@@ -7114,85 +7114,125 @@ The Tobata Gion Ōyamagasa was inscribed on the UNESCO Intangible Cultural Herit
 
 Please note that the dating of the origins and the details of its derivation partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','tobata-gion-yamagasa','tobata-gion-yamagasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7814002','〈東京の夏〉音楽祭','Tokyo Summer Festival','アリオン音楽財団が開催する音楽祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%80%88%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A4%8F%E3%80%89%E9%9F%B3%E6%A5%BD%E7%A5%AD','https://en.wikipedia.org/wiki/Tokyo_Summer_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7903785','和霊大祭','Uwajima Ushi-oni Festival','愛媛県宇和島市で行われる夏祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ushioni%20mask.jpg','https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Uwajima_Ushi-oni_Festival',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q7903785','和霊大祭','Uwajima Ushi-oni Festival','愛媛県宇和島市で行われる夏祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,1653,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ushioni%20mask.jpg','https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Uwajima_Ushi-oni_Festival',85,'drafted','## 概要
 
-和霊大祭（われいたいさい）は、愛媛県宇和島市にある和霊神社の例大祭で、毎年7月に行われる宇和島の夏を代表する祭りです。地元では「うわじま牛鬼まつり」とともに親しまれ、四国有数の夏祭りのひとつに数えられます。最大の特徴は、「牛鬼（うしおに）」と呼ばれる巨大な作り物が町なかを練り歩くことで、長い首と恐ろしげな顔、シュロや赤布で覆われた胴体を持つ牛鬼の迫力は、訪れる人を圧倒します。
+和霊大祭（われいたいさい）は、愛媛県宇和島市の和霊神社で毎年七月に執り行われる大祭であり、四国有数の規模を誇る夏祭りとして広く知られている。宇和島藩の礎を築きながら非業の死を遂げた家老・山家清兵衛公頼をしのぶ神事を中心とし、その霊を慰めるとともに、漁業をはじめとする諸産業の繁栄と人々の安寧を祈願する。中四国一帯で信仰を集める「和霊信仰」の総本社にあたる和霊神社の例祭であることから、地元の氏子だけでなく遠方からも多くの参拝者が訪れる。
 
-宇和島藩の家老・山家清兵衛（やんべ せいべえ）を祭神とする和霊神社の神事を中核としながら、牛鬼の巡行、ガイヤカーニバル（踊り）、海上での神事、そして花火など、多彩な行事が繰り広げられる、信仰と賑わいが一体となった祭礼です。
+現在は市民参加型の「うわじま牛鬼まつり」と一体的に催され、毎年七月二十二日から二十四日までの三日間、宇和島市の中心部が祭り一色に染まる。とりわけ最終日の夜に行われる神事「走り込み」は本祭最大の見どころであり、たいまつに照らし出された須賀川の川面で繰り広げられる勇壮かつ幻想的な光景は、この祭りを象徴する場面として長く語り継がれてきた。牛鬼の巡行や海上花火、宇和島おどりなども加わり、伝統的な神事と現代的な市民行事が渾然一体となった祭りとして発展している。
 
 ## 歴史・由来
 
-和霊神社は、宇和島藩初代藩主・伊達秀宗（だて ひでむね）に仕えた家老・山家清兵衛を祭神として祀る神社です。山家清兵衛は藩政に尽力した人物でしたが、非業の最期を遂げたと伝えられ、その後、清兵衛の霊を慰め祀るために神社が建立されました。和霊神社の例大祭である和霊大祭は、この祭神への信仰を中核とする神事として、古くから受け継がれてきました。
+和霊大祭の由来は、宇和島藩十万石の初代藩主・伊達秀宗に仕えた家老職総奉行、山家清兵衛公頼の悲劇に深く結びついている。清兵衛は米沢の生まれで、藩政の草創期にあって疲弊した藩財政の立て直しと民政の安定に手腕を発揮し、領民からも敬慕された人物であったと伝えられる。有能な補佐役であったことが、かえって藩内の対立を招く一因となったとされ、その運命は宇和島藩の初期の政情と分かちがたく結びついている。
 
-承応2年（1653年）に山頼和霊社が建立されたことにちなむと伝えられ、長い歴史を持つ祭りです。明治以降は、太陽暦の7月下旬が例大祭日として定着しました。神事としての厳かな側面とともに、地域を挙げての夏祭りとして発展し、現在では牛鬼の巡行やガイヤカーニバルなど、多くの人が参加・観覧できる賑やかな行事へと広がっています。なお、祭神の事績や祭りの沿革の細部には諸説・伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+元和六年（一六二〇）六月三十日の夜、清兵衛の邸宅は襲撃を受け、清兵衛自身のみならず子や縁者までもが殺害されるという凄惨な事件が起きた。この事件の真相は史料が極めて乏しく詳細は明らかでないが、後世に残された仙台藩主の書状などから、清兵衛の殺害が藩主秀宗の意を受けたものであったことがうかがえるとされる。功臣が非業の死を遂げたというこの出来事が、後の和霊信仰の出発点となった。
+
+事件の後、これに関与したとされる者たちが海難や落雷などによって相次いで変死したと伝えられ、人々はこれを清兵衛の怨霊のしわざと恐れた。そこで、その霊を鎮めるために城北の地に祠を設けて祀ったことが、和霊神社の始まりであるとされる。非業に倒れた者の霊を手厚く祀ることでその力を守護の神へと転じるという御霊信仰の典型を、この神社の成り立ちに見ることができる。
+
+祭りとしての起こりについては、清兵衛の没後三十三年忌にあたる承応二年（一六五三年）六月に、藩主伊達秀宗が和霊神社を建立して盛大な祭典を営んだことに求められると伝えられている。以来、清兵衛の霊を慰める神事は宇和島の年中行事として受け継がれ、やがて漁業や商工業の守護神への感謝と祈願を込めた大祭へと成長した。時代を経るなかで市民の祭りとしての性格も加わり、今日のうわじま牛鬼まつりと一体をなす夏の一大行事へと展開していった。
 
 ## 見どころ
 
-### 牛鬼（うしおに）の巡行
-和霊大祭・うわじま牛鬼まつり最大の見どころが、巨大な「牛鬼」の巡行です。牛鬼は、長い首の先に恐ろしげな鬼の顔を持ち、シュロや赤い布で覆われた巨大な胴体を多くの担ぎ手が支える、独特の造形物です。町なかを練り歩き、家々や人々の間で首を大きく振る姿は迫力満点で、悪魔祓い・無病息災の意味があるとされます。
+**走り込み神事**　和霊大祭最大の見どころは、最終日の夜に須賀川で行われる神事「走り込み」である。たいまつの炎に照らされた川面を舞台に繰り広げられる情景は勇壮かつ幻想的で、闇と炎と水が織りなす光景がこの祭りの象徴として親しまれてきた。神事の細部には諸説があり一様には語りがたいが、清兵衛の霊を慰め、無病息災や豊漁を願う人々の熱気がひとつに結集する場面である点で一致している。
 
-### 走り込み（神事）
-祭りのクライマックスのひとつが、神輿が須賀川に勢いよく入っていく「走り込み」の神事です。深夜に行われるこの勇壮な神事は、祭りの神聖さと熱気が頂点に達する瞬間で、多くの見物客が見守ります。
+**牛鬼の巡行**　宇和島を中心とする南予地方の祭りに欠かせない練り物が牛鬼である。長さ五、六メートルにもおよぶ竹組みの胴体に、丸木で作られた長い首と鬼の面をすえた異形の姿は見る者を圧倒する。牛鬼は魔除けの役割を担うとされ、長い首を大きく打ち振りながら町を練り歩く姿は、祭りの高揚感を一気に押し上げる名物となっている。
 
-### ガイヤカーニバルと花火
-祭りを彩るのが、「うわじまガイヤカーニバル」と呼ばれる踊りのイベントです。多くの連が音楽に合わせて踊りながら市街を練り歩き、町は熱気に包まれます。また、海上から打ち上げられる花火も祭りの大きな楽しみで、夏の夜空を華やかに彩ります。
+**海上花火大会**　祭り期間中には宇和島湾を舞台とした花火が打ち上げられ、夏の夜空と海面を彩る。港町ならではの海上花火は、山車や練り物といった陸の賑わいとは異なる開放的な情趣をもたらす。神事の厳粛さと花火の華やかさが同居する点に、伝統と市民行事が融合した和霊大祭らしさがよく表れている。
+
+**宇和島おどり**　多くの市民が参加する宇和島おどりの大会も祭りを彩る恒例の催しである。地域の人々が連を組んで踊り歩く姿は、祭りが一部の担い手だけのものではなく、町全体で受け継がれてきた営みであることを物語る。老若男女が入り混じって踊る光景は、和霊信仰が地域に深く根づいてきたことの現れでもある。
+
+**和霊神社と大鳥居**　祭りの舞台となる和霊神社は四国でも指折りの大社といわれ、荘厳なたたずまいを見せる。正面には須賀川を挟んで和霊公園が広がり、空へそびえる石造りの大鳥居が参拝者を迎える。祭りの日以外にも中四国の和霊信仰の総本社として崇敬を集めており、社そのものが祭りの歴史的背景を体現する見どころとなっている。
+
+**神幸橋（太鼓橋）**　和霊神社と和霊公園の間を流れる須賀川には、神幸橋と呼ばれる太鼓橋が架かる。宇和島空襲の際に奇跡的に崩壊を免れたと伝えられ、焼夷弾の跡を今にとどめるこの橋は、平和を願う象徴ともされている。走り込みの舞台となる川に架かるこの橋は、祭りの情景と地域の記憶を静かに結びつけている。
 
 ## 開催情報・アクセス
 
-和霊大祭・うわじま牛鬼まつりは、例年7月下旬（おおむね7月22日〜24日ごろ）の数日間にわたって開催されます。会場は和霊神社および宇和島市の中心市街地一帯です。牛鬼の巡行や走り込み、ガイヤカーニバル、花火などの日程・時間・場所は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+**名称**　和霊大祭（われいたいさい）。市民参加行事と一体で「和霊大祭・うわじま牛鬼まつり」として催される。
 
-アクセスは、JR予讃線の「宇和島駅」が最寄りで、駅から会場周辺へは徒歩圏内です。和霊神社へも市街地から徒歩圏内に位置しています。祭り期間中は中心部で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、宇和島市や観光関係団体など公式の発表でご確認ください。
+**開催地**　愛媛県宇和島市。神事の中心は和霊神社および須賀川一帯で、牛鬼の巡行や各種イベントは市中心部で行われる。
 
-## 周辺の見どころ
+**開催期間**　毎年七月二十二日から二十四日までの三日間を基本とする。和霊大祭の神事は主に二十三日・二十四日に営まれ、最終日夜の走り込みが本祭のクライマックスとなる。
 
-会場のある宇和島市は、リアス式海岸の宇和海に面した城下町で、現存十二天守のひとつ「宇和島城」をはじめとする歴史的な見どころが豊富です。祭りとあわせて、城下町の風情や歴史にふれることができます。
+**走り込み**　令和八年（二〇二六年）の第六十回では、走り込みが七月二十四日（金）の夜、須賀川で行われる予定とされている。開催日時や実施内容は年によって変動しうるため、最新の開催日程・実施可否は宇和島市や公式サイトで確認することが望ましい。
 
-宇和島周辺は、真珠や鯛などの海の幸が豊富で、「鯛めし」をはじめとする郷土料理も魅力です。風光明媚な宇和海の景観や、足を延ばせば四国西南部の自然・観光地へもアクセスでき、和霊大祭とあわせて南予地方の旅を楽しむことができます。
+**主な催し**　走り込み神事のほか、牛鬼の巡行、海上花火大会、宇和島おどり大会などが期間中に行われる。神事とイベントは日程ごとに分かれて進行する。
+
+**アクセス**　JR予讃線の宇和島駅が最寄り駅で、会場となる市中心部や和霊神社へは徒歩圏内でアクセスできる。祭り期間中は交通規制が敷かれることがあるため、来訪の際は公共交通機関の利用と最新の交通情報の確認が推奨される。
+
+## 周辺情報
+
+宇和島市は愛媛県南予地方の中心都市であり、リアス海岸の入り組んだ地形と豊かな漁場に恵まれた港町である。真珠や真鯛の養殖をはじめとする水産業が盛んで、和霊大祭が漁業の守護神への祈願と結びついてきた背景には、こうした海とともに生きてきた土地の暮らしがある。祭りを訪れる際には、港町ならではの海の幸を味わうのも旅の楽しみとなる。
+
+市の象徴である宇和島城は、築城の名手・藤堂高虎が手がけたことで知られ、現存天守を有する城として全国的にも貴重である。城下町として発展した宇和島の歴史は伊達家の統治と深く結びついており、山家清兵衛が生きた時代の政情を今に伝える史跡が市内に点在する。和霊神社への参拝とあわせて城下を巡ることで、祭りの歴史的背景をより立体的に感じ取ることができる。
+
+南予地方一帯には牛鬼をはじめとする独特の祭礼文化が息づいており、宇和島は南予の祭り文化を代表する土地でもある。周辺には闘牛や伝統的な芸能など、この地域ならではの文化にふれられる機会も多い。和霊大祭を軸に周辺の文化や自然を巡ることで、南予の豊かな風土を存分に体感できる。
 
 ## 関連情報
 
-和霊神社は、家老・山家清兵衛を祭神とする神社として知られ、その例大祭である和霊大祭は、宇和島の人々の信仰と結びついた重要な祭礼です。牛鬼の巡行を伴う「うわじま牛鬼まつり」として、四国を代表する夏祭りのひとつに数えられています。
+- 和霊神社（宇和島市） … 和霊大祭の舞台であり、中四国に広がる和霊信仰の総本社とされる神社。
+- 山家清兵衛公頼 … 宇和島藩初代藩主伊達秀宗の家老職総奉行で、和霊神社の祭神。元和六年（一六二〇）に非業の死を遂げた。
+- うわじま牛鬼まつり … 和霊大祭と一体で催される市民参加型の夏祭り。牛鬼の巡行や海上花火などが行われる。
+- 牛鬼 … 宇和島を中心とする南予地方の祭りに登場する魔除けの練り物。長い首と鬼面を持つ異形の姿で知られる。
+- 宇和島城 … 藤堂高虎が築いた現存天守の城で、宇和島の城下町の歴史を今に伝える。
+- 和霊信仰 … 山家清兵衛の霊を祀ることに始まり、漁業を中心とした産業の守護神として中四国で崇敬される信仰。','## Overview
 
-なお、祭神の事績や祭りの起源・沿革の細部には諸説・伝承による部分があり、具体的な開催日程や行事内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+The Warei Taisai is a grand festival held every July at Warei Shrine in Uwajima City, Ehime Prefecture, and it ranks among the largest summer festivals in the Shikoku region. Centered on sacred rites that honor Yamaie Seibei Kinyori, a chief retainer who laid the foundations of the Uwajima domain yet met a tragic death, the festival seeks to console his spirit while praying for the prosperity of fisheries and other local industries and for the well-being of the community. Because Warei Shrine is regarded as the head shrine of the widespread Warei faith honored throughout central and western Japan, the festival draws not only local parishioners but also many visitors from distant regions.
 
-The Warei Taisai (Uwajima Ushi-oni Festival) is the grand annual festival of Warei Shrine in Uwajima City, Ehime Prefecture, held in July each year as a representative summer festival of Uwajima. Locally, it is cherished together with the "Uwajima Ushi-oni Matsuri" and is counted as one of Shikoku''s foremost summer festivals. Its greatest feature is the parade of huge constructions called "ushi-oni" (ox-demons) through the town; with their long necks, fearsome faces, and bodies covered in palm fiber and red cloth, the ushi-oni are powerful enough to overwhelm visitors.
-
-While centered on the rites of Warei Shrine—which enshrines Yanbe Seibei, a chief retainer of the Uwajima domain, as its deity—it is a festival in which faith and festivity are united, with varied events unfolding, including the ushi-oni procession, the Gaiya Carnival (dancing), rites at sea, and fireworks.
+Today the festival is held together with the citizen-oriented Uwajima Ushioni Festival, and for three days from July 22 to 24 each year the center of Uwajima City is transformed by the celebrations. The highlight above all is the sacred rite known as the hashirikomi, performed on the final night, when a stirring and dreamlike scene unfolds on the surface of the Suga River, illuminated by torches. Together with the procession of the ushioni, fireworks over the sea, and the Uwajima dance, the event has grown into a festival in which solemn traditional rites and lively modern civic activities are fused into one.
 
 ## History and Origins
 
-Warei Shrine is a shrine that enshrines as its deity Yanbe Seibei, a chief retainer who served Date Hidemune, the first lord of the Uwajima domain. Yanbe Seibei was a figure who devoted himself to the domain''s administration, but he is said to have met a tragic end, after which the shrine was built to console and enshrine his spirit. The Warei Taisai, the grand annual festival of Warei Shrine, has long been carried on as a rite centered on faith in this enshrined deity.
+The origins of the Warei Taisai are deeply tied to the tragedy of Yamaie Seibei Kinyori, the chief retainer who served Date Hidemune, the first lord of the Uwajima domain. Born in Yonezawa, Seibei is said to have shown great ability in rebuilding the exhausted finances of the young domain and in stabilizing its administration during its founding period, earning the deep respect of the common people. His very competence, however, is thought to have contributed to conflict within the domain, and his fate is inseparable from the turbulent politics of Uwajima in its early years.
 
-It is said to be connected to the construction of the Yamarai Warei Shrine in 1653 (Jōō 2), and it is a festival with a long history. From the Meiji era onward, late July of the solar calendar became established as the date of the grand festival. Along with its solemn aspect as a rite, it developed into a community-wide summer festival, and today it has expanded into a lively event in which many people can participate and watch, such as the ushi-oni procession and the Gaiya Carnival. Note that the deeds of the enshrined deity and the details of the festival''s history partly rely on differing accounts and tradition, and this provides an overview based on the principal traditions.
+On the night of the thirtieth day of the sixth month of the sixth year of the Genna era, corresponding to 1620, Seibei''s residence was attacked, and not only Seibei himself but also his children and relatives were killed in a horrifying incident. The full truth of this affair remains unclear because surviving records are extremely scarce, yet documents such as a later letter by a lord of the Sendai domain suggest that the killing of Seibei was carried out at the will of the lord Hidemune. This event, in which a meritorious retainer met a violent death, became the starting point of the later Warei faith.
+
+After the incident, those said to have been involved are recorded as having died one after another in sudden and unnatural ways, such as shipwrecks and lightning strikes, and people came to fear these deaths as the work of Seibei''s vengeful spirit. To pacify that spirit, a small shrine was built on land to the north of the castle, and this is said to have been the beginning of Warei Shrine. In the making of this shrine one can see a classic example of goryo belief, in which the spirit of a person who died a violent death is enshrined with great care so that its power may be transformed into that of a protective deity.
+
+As for the beginning of the festival itself, it is said to date back to the sixth month of the second year of the Joo era, corresponding to 1653, on the thirty-third anniversary of Seibei''s death, when the lord Date Hidemune built Warei Shrine and held a grand ceremony. From then on, the rites consoling Seibei''s spirit were handed down as an annual observance of Uwajima, and in time they grew into a great festival that also expressed gratitude and prayers to the guardian deity of fisheries, commerce, and industry. Over the centuries the festival also took on the character of a civic celebration, developing into the major summer event that today forms one whole with the Uwajima Ushioni Festival.
 
 ## Highlights
 
-### The Procession of the Ushi-oni
-The greatest highlight of the Warei Taisai / Uwajima Ushi-oni Matsuri is the procession of the huge "ushi-oni." The ushi-oni is a distinctive construction with a fearsome demon''s face at the end of a long neck and a huge body covered in palm fiber and red cloth, supported by many bearers. The sight of it parading through the town and swinging its neck greatly among houses and people is full of power, and it is said to carry the meaning of warding off demons and praying for good health.
+**The Hashirikomi Rite** The greatest highlight of the Warei Taisai is the sacred rite called hashirikomi, held on the final night at the Suga River. The scene that unfolds on the river surface, lit by the flames of torches, is at once stirring and dreamlike, and the interplay of darkness, fire, and water has long been cherished as the very symbol of this festival. The details of the rite are described in various ways and cannot be stated with certainty, but all accounts agree that it is a moment in which the fervent wish of the people to console Seibei''s spirit and to pray for health and a good catch is gathered into one.
 
-### Hashirikomi (Rite)
-One of the festival''s climaxes is the "hashirikomi" rite, in which a portable shrine vigorously enters the Sugagawa River. Conducted late at night, this valiant rite is the moment when the festival''s sacredness and heat reach their peak, watched over by many spectators.
+**The Procession of the Ushioni** The ushioni is an indispensable figure in the festivals of the Nanyo area centered on Uwajima. With a bamboo-framed body reaching five or six meters in length, topped by a long neck of shaped wood and the face of a demon, its strange form overwhelms those who see it. The ushioni is said to serve the role of warding off evil, and the sight of it parading through the town while swinging its long neck greatly heightens the excitement of the festival, making it a celebrated feature of the event.
 
-### The Gaiya Carnival and Fireworks
-What colors the festival is the dance event called the "Uwajima Gaiya Carnival." Many groups parade through the city dancing in time with music, and the town is enveloped in heat and energy. In addition, fireworks launched from the sea are a great pleasure of the festival, splendidly coloring the summer night sky.
+**Fireworks over the Sea** During the festival, fireworks are launched over Uwajima Bay, coloring the summer night sky and the surface of the sea. The fireworks over the water, characteristic of a port town, offer a mood of openness quite different from the bustle of floats and processions on land. The coexistence of the solemnity of the rites and the splendor of the fireworks expresses well the character of the Warei Taisai, in which tradition and civic festivity are joined together.
+
+**The Uwajima Dance** A grand dance event in which many citizens take part also brings color to the festival. The sight of local people forming groups and dancing through the streets shows that the festival is not the possession of a few bearers alone but an undertaking handed down by the whole town. The scene of people of all ages dancing together is itself an expression of how deeply the Warei faith has taken root in the region.
+
+**Warei Shrine and the Great Torii** Warei Shrine, which serves as the stage of the festival, is counted among the leading great shrines of Shikoku and presents a solemn appearance. Before its front, Warei Park spreads out across the Suga River, and a great stone torii rises into the sky to welcome worshippers. Even apart from the festival days, the shrine attracts reverence as the head shrine of the Warei faith of central and western Japan, and the shrine itself stands as a highlight that embodies the historical background of the festival.
+
+**The Miyuki Bridge** Across the Suga River, which flows between Warei Shrine and Warei Park, stands an arched bridge known as the Miyuki Bridge. Said to have miraculously escaped collapse during the air raids on Uwajima, this bridge still bears the marks of incendiary bombs and is regarded as a symbol of the wish for peace. Spanning the very river that becomes the stage of the hashirikomi, the bridge quietly links the scenery of the festival with the memory of the region.
 
 ## Event Information and Access
 
-The Warei Taisai / Uwajima Ushi-oni Matsuri is held over several days in late July (roughly around July 22 to 24) each year. The venue is Warei Shrine and the central district of Uwajima City. Because the schedule, times, and places of the ushi-oni procession, hashirikomi, Gaiya Carnival, fireworks, and the like may vary from year to year, it is advisable to check official information in advance when planning to attend.
+**Name** Warei Taisai, held together with the citizen event as the Warei Taisai and Uwajima Ushioni Festival.
 
-For access, the nearest station is "Uwajima Station" on the JR Yosan Line, within walking distance of the venue area. Warei Shrine is also located within walking distance of the city center. During the festival period, traffic restrictions and congestion are expected in the city center, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Uwajima City and tourism-related organizations.
+**Location** Uwajima City, Ehime Prefecture. The rites center on Warei Shrine and the area around the Suga River, while the ushioni procession and various events take place in the center of the city.
 
-## Nearby Attractions
+**Period** The festival is basically held over three days, from July 22 to 24 each year. The rites of the Warei Taisai are performed mainly on the 23rd and 24th, and the hashirikomi on the final night forms the climax of the festival.
 
-Uwajima City, where the venue is located, is a castle town facing the Uwa Sea of the ria coastline, abundant with historical highlights, beginning with "Uwajima Castle," one of the twelve surviving original castle keeps. Together with the festival, visitors can experience the atmosphere and history of the castle town.
+**Hashirikomi** For the sixtieth event in 2026, the hashirikomi is scheduled to be held on the night of Friday, July 24, at the Suga River. Because the dates, times, and details may vary from year to year, it is advisable to confirm the latest schedule and whether the event will be held with Uwajima City or the official website.
 
-The Uwajima area is rich in seafood such as pearls and sea bream, and local cuisine such as "tai-meshi" (sea bream rice) is appealing. The scenic views of the Uwa Sea, and a short trip away the nature and tourist destinations of southwestern Shikoku, are accessible as well, so visitors can enjoy a journey through the Nan''yo region together with the Warei Taisai.
+**Main Events** In addition to the hashirikomi rite, the procession of the ushioni, fireworks over the sea, and the Uwajima dance are held during the period. The rites and events proceed on separate days.
+
+**Access** The nearest station is Uwajima Station on the JR Yosan Line, and the central area of the city and Warei Shrine can be reached on foot. Because traffic restrictions may be in place during the festival, visitors are encouraged to use public transportation and to check the latest traffic information.
+
+## Around the Area
+
+Uwajima City is the central city of the Nanyo area in the southern part of Ehime Prefecture, a port town blessed with the intricate terrain of a ria coast and rich fishing grounds. Aquaculture of pearls and red sea bream and other fisheries flourish here, and behind the way the Warei Taisai has been linked with prayers to the guardian deity of fisheries lies the life of a land that has lived together with the sea. When visiting the festival, savoring the seafood characteristic of a port town is one of the pleasures of the trip.
+
+Uwajima Castle, the symbol of the city, is known for having been built by Todo Takatora, a master of castle construction, and is a precious example of a castle that retains its original keep even today. The history of Uwajima, which developed as a castle town, is deeply connected with the rule of the Date family, and historic sites that convey the political situation of the age in which Yamaie Seibei lived are scattered throughout the city. By touring the castle town along with a visit to Warei Shrine, one can grasp the historical background of the festival in a more vivid way.
+
+Throughout the Nanyo area, a distinctive culture of festivals centered on the ushioni and other figures lives on, and Uwajima is a place that represents the festival culture of the Nanyo region. In the surrounding area there are also many opportunities to encounter culture unique to this region, such as bullfighting and traditional performing arts. By touring the surrounding culture and nature with the Warei Taisai at the center, one can fully experience the rich local character of the Nanyo area.
 
 ## Related Information
 
-Warei Shrine is known as a shrine enshrining the chief retainer Yanbe Seibei, and its grand annual festival, the Warei Taisai, is an important festival linked to the faith of the people of Uwajima. As the "Uwajima Ushi-oni Matsuri," accompanied by the ushi-oni procession, it is counted as one of Shikoku''s representative summer festivals.
-
-Please note that the deeds of the enshrined deity and the details of the festival''s origins and history partly rely on differing accounts and tradition, and the specific dates and event content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','warei-taisai','warei-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- Warei Shrine (Uwajima City) ... the stage of the Warei Taisai and regarded as the head shrine of the Warei faith that spreads across central and western Japan.
+- Yamaie Seibei Kinyori ... the chief retainer of Date Hidemune, first lord of the Uwajima domain, and the enshrined deity of Warei Shrine, who met a violent death in 1620.
+- Uwajima Ushioni Festival ... the citizen-oriented summer festival held together with the Warei Taisai, featuring the ushioni procession and fireworks over the sea.
+- Ushioni ... a demon-warding festival figure appearing in the festivals of the Nanyo area centered on Uwajima, known for its long neck and demon face.
+- Uwajima Castle ... a castle with an original keep built by Todo Takatora, conveying the history of the castle town of Uwajima.
+- Warei faith ... a belief that began with the enshrinement of Yamaie Seibei''s spirit and is revered throughout central and western Japan as the guardian deity of fisheries and other industries.','warei-taisai','warei-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7849923','土崎神明社祭の曳山行事','Tsuchizaki Shinmei Shrine Festival','秋田県秋田市にある土崎神明社の例祭',NULL,'Q11423430','土崎神明社','Tsuchizaki Shinmeisha','秋田県','tohoku',NULL,NULL,1705,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchi-yama-tsunafuru.jpg','https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B','https://en.wikipedia.org/wiki/Tsuchizaki_Shinmeisha_Shrine_Annual_Celebration_And_The_Float_Festival',85,'drafted','## 概要
 
 土崎神明社祭の曳山行事（つちざきしんめいしゃさいのひきやまぎょうじ）は、秋田県秋田市土崎地区にある土崎神明社の例祭で、毎年7月20日・21日に行われます。地元では「土崎港曳山まつり（つちざきみなとひきやままつり）」とも呼ばれ、勇壮な曳山（ひきやま）が港町を巡行する、秋田の夏を代表する祭りのひとつです。2016年（平成28年）には「土崎神明社祭の曳山行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。
