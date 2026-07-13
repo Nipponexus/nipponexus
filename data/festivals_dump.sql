@@ -9708,41 +9708,109 @@ INSERT INTO "festivals" VALUES('Q123698819','紅葉八幡宮獅子まつり','Mo
 INSERT INTO "festivals" VALUES('Q124751043','土祭','Hijisai','日本の栃木県益子町で行われている町おこしアートフェスティバル','Japanese Tochigi, Mashiko, community building art festival','Q122146730','陶芸メッセ・益子','Ceramic Art Messe Mashiko','栃木県','kanto',NULL,NULL,2009,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q115680256','横手の雪まつり','Yokote’s Winter Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.31395,140.565816666,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kamakura%20at%20Yokote%20Castle%20202402.jpg','https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
-横手の雪まつり（よこてのゆきまつり）は、秋田県横手市で毎年2月15日・16日に開催される、約450年の歴史を持つ小正月の伝統行事である。市内各所に大小100基以上の「かまくら」が築かれ、内部に祀られた水神様に家内安全・五穀豊穣を祈願する、日本を代表する雪の祭典のひとつである。
+横手の雪まつり（よこてのゆきまつり）は、秋田県横手市に古くから伝わる小正月の行事で、なかでも「かまくら」として全国的に知られています。雪深い横手の冬を代表する行事であり、水神様をまつる伝統行事として、約450年の歴史があるといわれています。
 
-## 歴史
+まつりの中心となる「かまくら」は、高さおよそ3メートル、直径3.5メートルほどの雪室で、その中に水神様を祀ります。夜になると市内のあちこちに作られたかまくらに灯りがともり、中に入った子どもたちが「はいってたんせ（かまくらに入ってください）」「おがんでたんせ（水神様を拝んでください）」と通りがかりの人々を招き入れ、甘酒や焼いた餅をふるまいます。雪が音もなく降る夜、路傍に並んだかまくらから灯りがもれ、子どもたちの弾んだ声が聞こえてくる情景は、おとぎの国のような幻想的な美しさをたたえています。
 
-横手のかまくらは室町時代後期から続く伝統行事とされ、武家の左義長（小正月の火祭り）と商人の鎌倉大明神信仰、農民の井戸の神信仰などが融合して成立した。江戸期には町内ごとに大規模なかまくらが築かれ、子どもたちが籠もって甘酒・餅を振る舞う風習が定着した。1936年（昭和11年）にドイツの建築家ブルーノ・タウトが訪れて絶賛したことでも知られ、戦後は観光行事として再興され、現在の規模に発展した。
+## 歴史・由来
+
+横手のかまくらは、約450年の歴史があるといわれていますが、その起源を明確に記した資料は乏しく、正確なことははっきりしていません。さまざまな文献に残る断片をつなぎ合わせると、水神様を祀る信仰の行事として受け継がれてきたと考えられています。
+
+横手地方は、昔から良質の井戸が少なく、飲料水の確保に大変苦労した土地でした。そのため人々は水を大切にし、水に感謝する気持ちから水神様を祀るようになったと伝えられています。横手では水神様のことを「おしず（清水）の神さん」と呼び、生活に欠かせない水への祈りが、この行事の根底に流れています。「かみくら（神座）」が転じて「かまくら」になったという説もあります。
+
+もともとかまくらは、中に祀った水神様に賽銭を供え、家内安全・商売繁盛・五穀豊穣などを祈願する小正月の行事でした。時代の変化とともに観光化が進み、現在のような形に整えられていきました。昭和27（1952）年からは、開催日が新暦の2月15日に定められ、その後、勇壮な「ぼんでん（梵天）」の行事と合わせて「横手の雪まつり」として催されるようになりました。こうした歴史のなかで横手のかまくらは全国に知られるようになり、青森ねぶたや秋田竿燈と並ぶように、東北を代表する冬の行事の一つとして数えられるまでになりました。長らく2月15日・16日の固定日で開催されてきましたが、令和8（2026）年からは、梵天行事の直前の金曜日・土曜日に開催される形へと変更されています。
 
 ## 見どころ
 
-メイン会場の横手公園・羽黒町通りなどに高さ約3メートルの大型かまくらが並び、内部では子どもたちが「はいってたんせ（入ってください）」「おがんでたんせ（お参りしてください）」と訪問客を招き入れ、甘酒や餅をふるまう。蛇の崎川原には数千の小型「ミニかまくら」にろうそくが灯され、雪原に幻想的な光の海が広がる。
+**灯りのともるかまくら**　この行事の最大の見どころは、市内各所に作られた無数のかまくらに灯りがともる夜の光景です。雪の白さと、かまくらから漏れるやわらかな灯りが織りなす情景は幻想的で、みちのくの冬ならではの美しさをたたえています。高さおよそ3メートルの雪室の壁を通してにじむろうそくの光は、昼間の雪景色とはまったく異なるあたたかな色合いを帯び、雪深い夜の静けさのなかにいっそう際立ちます。
+
+**子どもたちとのふれあい**　かまくらの中では、子どもたちが「はいってたんせ」と声をかけて訪れた人を招き入れ、甘酒や餅をふるまってくれます。狭いかまくらの中では、初対面の人同士でも自然と会話が生まれ、雪国ならではのあたたかな人情に触れることができます。
+
+**水神様への祈り**　かまくらの中には水神様が祀られており、訪れた人は賽銭を供えて家内安全や商売繁盛を祈願します。単なる雪の造形物ではなく、水への感謝という信仰が息づいている点が、横手のかまくらの奥深さです。
+
+**ミニかまくらの光景**　メインのかまくらのほかにも、無数の小さな「ミニかまくら」にろうそくが灯される光景も見どころの一つです。斜面や川沿いに並ぶ小さな灯りの群れは、まつりの夜をいっそう幻想的に彩ります。
 
 ## 開催情報・アクセス
 
-会場は秋田県横手市中心部の複数エリア（横手公園・羽黒町通り・蛇の崎川原ほか）。JR奥羽本線横手駅から徒歩圏内で、観覧は無料。2日間で約30万人の来場者を迎える。
+**開催時期**　2月中旬。長年2月15日・16日に開催されてきましたが、令和8（2026）年からは、梵天行事の直前の金曜日・土曜日に開催される形へ変更されました（2029年までは第2金曜日・土曜日）。
 
-## 周辺観光
+**会場**　秋田県横手市の市内各所。
 
-横手市内には増田町の伝統的建造物群保存地区、後三年合戦金沢資料館、横手城址など、平安〜近世の歴史を感じる観光地が多い。冬季はかまくら以外にもボンデン祭り、横手やきそばも名物として人気。','## Overview
+**かまくらの数**　市内に約80基のかまくらが作られます。
 
-The Yokote Snow Festival (Yokote no Yuki Matsuri), also known as the Kamakura Festival, is a traditional Koshōgatsu (Little New Year) celebration with approximately 450 years of history, held annually on February 15 and 16 in Yokote City, Akita Prefecture. More than 100 large and small "kamakura" snow huts are constructed throughout the city, each enshrining the water deity (Suijin) within, before whom visitors pray for family safety and bountiful harvests. It stands as one of Japan''s most iconic snow festivals.
+**あわせて行われる行事**　勇壮な「ぼんでん（梵天）」の奉納行事とあわせて「横手の雪まつり」として催されます。
 
-## History
+**アクセス**　会場の横手市へは、JR奥羽本線・北上線の横手駅が最寄りです。まつりの期間中は市内各所に会場が点在するため、案内に従って巡るとよいでしょう。
 
-The Yokote kamakura tradition is believed to date back to the late Muromachi period, evolving from a fusion of the warrior class Sagichō fire festival of Koshōgatsu, merchant veneration of the Kamakura Daimyōjin deity, and rural worship of well-water gods. During the Edo period, each neighborhood constructed large kamakura where children would gather to serve sweet amazake rice drink and rice cakes to visitors, establishing customs still practiced today. The festival gained international recognition when German architect Bruno Taut visited in 1936 (Shōwa 11) and praised it enthusiastically in his writings. After World War II, the festival was revived as a major tourist event and developed into its current grand scale.
+## 周辺情報
+
+横手の雪まつりが行われる横手市は、秋田県の南東部に位置し、県内でも有数の豪雪地帯として知られています。冬には一面が深い雪に覆われ、その雪を生かした行事や文化が数多く育まれてきました。かまくらもまた、雪国の暮らしのなかから生まれた行事です。
+
+市内には、かまくらを通年で見学できる施設もあり、まつりの季節以外でもその文化に触れることができます。雪のない時期でも、氷点下に保たれた室内で本物のかまくらを体感できるため、横手の冬の風物詩を一年を通じて楽しむことができます。室内は雪や氷が溶けないよう氷点下に保たれており、真夏に訪れても厚手の防寒着を借りて、雪国の冬さながらの空気のなかでかまくらの中に入ることができます。
+
+また、横手はご当地グルメの「横手やきそば」でも知られる町です。まつりの見物とあわせて、地元の味や周辺の温泉、史跡などを巡れば、秋田県南部の豊かな風土をより深く味わうことができます。
+
+## 関連情報
+
+- 名称：横手の雪まつり（かまくら）
+- 開催地：秋田県横手市
+- 開催時期：2月中旬（2026年より梵天行事直前の金曜・土曜へ変更・従来は2月15〜16日）
+- 起源：約450年の歴史があるといわれる（記録資料は乏しい）
+- 性格：水神様をまつる小正月の伝統行事
+- かまくらの数：市内に約80基
+- あわせて行われる行事：ぼんでん（梵天）奉納','## Overview
+
+Yokote no Yuki Matsuri (the Yokote Snow Festival) is a Little New Year event long handed down in Yokote City, Akita Prefecture, and it is known nationwide above all as the kamakura festival. As an event representing the winter of snow-deep Yokote, it is a traditional observance honoring the water deity, and it is said to have a history of about 450 years.
+
+The centerpiece of the festival, the kamakura, is a snow chamber about three meters high and roughly 3.5 meters in diameter, inside of which the water deity is enshrined. At night, lights are lit in the kamakura built here and there throughout the city, and the children inside invite passersby in, calling out haitte tanse (please come into the kamakura) and ogande tanse (please worship the water deity), offering them sweet amazake and grilled rice cakes. On a night when snow falls without a sound, the sight of light leaking from the kamakura lined along the roadside, with the lively voices of children heard from within, holds a fantastical beauty like a fairy-tale land.
+
+## History and Origins
+
+The Yokote kamakura is said to have a history of about 450 years, but there are few materials that clearly record its origins, and the exact facts remain uncertain. Piecing together fragments left in various documents, it is thought to have been handed down as an observance of faith honoring the water deity.
+
+The Yokote region has long had few wells of good quality and struggled greatly to secure drinking water. For this reason, people valued water and, out of gratitude toward it, are said to have come to enshrine the water deity. In Yokote, the water deity is called Oshizu no kami-san (the deity of pure water), and prayer to the water indispensable to daily life flows at the foundation of this event. There is also a theory that kamikura (seat of the gods) shifted to become kamakura.
+
+Originally, the kamakura was a Little New Year event in which people offered coins to the enshrined water deity and prayed for household safety, prosperous business, and abundant harvests. As times changed, tourism developed and it was shaped into its present form. From 1952 (Showa 27), the date was set at February 15 on the new calendar, and later it came to be held as the Yokote Snow Festival together with the spirited bonden event. For a long time it was held on the fixed dates of February 15 and 16, but from 2026 (Reiwa 8) it has been changed to be held on the Friday and Saturday immediately before the bonden event.
 
 ## Highlights
 
-At main venues such as Yokote Park and Haguro-machi Street, large kamakura snow huts approximately three meters tall stand in long rows. Inside each hut, children warmly invite passersby with the dialect calls "Haitte tanse" (Please come in) and "Ogande tanse" (Please pray), offering visitors amazake and grilled mochi. At the Janosaki riverside, thousands of palm-sized "mini-kamakura" are lined up in the snow with candles flickering inside, creating an enchanting sea of warm light across the snowscape that has become an iconic image of Japanese winter.
+**Kamakura aglow with light**　The greatest highlight of this event is the nighttime sight of countless kamakura built throughout the city glowing with light. The scene woven by the whiteness of the snow and the soft light leaking from the kamakura is fantastical, holding a beauty found only in the winter of the Tohoku region.
 
-## Event Details and Access
+**Interaction with children**　Inside the kamakura, children call out haitte tanse to invite visitors in and offer them amazake and rice cakes. Within the narrow kamakura, conversation naturally arises even between people meeting for the first time, and one can touch the warm human feeling unique to snow country.
 
-The festival takes place across multiple areas of central Yokote City, including Yokote Park, Haguro-machi Street, and the Janosaki riverside. All venues are within walking distance of Yokote Station on the JR Ōu Main Line, and admission is free. The two-day event attracts approximately 300,000 visitors annually.
+**Prayer to the water deity**　The water deity is enshrined inside the kamakura, and visitors offer coins and pray for household safety and prosperous business. The depth of the Yokote kamakura lies in the fact that it is not merely a snow sculpture but that the faith of gratitude toward water lives within it.
 
-## Surrounding Attractions
+**The sight of mini kamakura**　Besides the main kamakura, another highlight is the sight of candles lit in countless small mini kamakura. The clusters of tiny lights lined along slopes and riverbanks color the festival night all the more fantastically.
 
-Yokote City offers numerous historical attractions, including the Masuda traditional architecture preservation district featuring magnificent Edo and Meiji-period merchant houses, the Gosannen Battle Kanazawa Museum commemorating the late Heian-period conflict, and the ruins of Yokote Castle. The winter season also features the Bonden Festival and the famous Yokote Yakisoba noodles, making the area a rich destination for both cultural and culinary tourism.','yokote-no-yuki-matsuri','yokote-no-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+**Period**　Mid-February. For many years it was held on February 15 and 16, but from 2026 (Reiwa 8) it has been changed to be held on the Friday and Saturday immediately before the bonden event (through 2029, the second Friday and Saturday).
+
+**Venue**　Various locations throughout Yokote City, Akita Prefecture.
+
+**Number of kamakura**　About 80 kamakura are built throughout the city.
+
+**Accompanying event**　It is held as the Yokote Snow Festival together with the spirited bonden dedication event.
+
+**Access**　For the venue of Yokote City, Yokote Station on the JR Ou Main Line and Kitakami Line is the nearest station. Since venues are scattered throughout the city during the festival period, it is best to tour them according to the guidance provided.
+
+## Surrounding Area
+
+Yokote City, where the Yokote Snow Festival is held, is located in the southeastern part of Akita Prefecture and is known as one of the heaviest snowfall areas in the prefecture. In winter the whole area is covered in deep snow, and many events and cultures making use of that snow have been nurtured. The kamakura, too, is an event born from life in snow country.
+
+Within the city there is also a facility where kamakura can be viewed year-round, allowing visitors to experience the culture even outside the festival season. Because one can experience a real kamakura indoors kept below freezing even in seasons without snow, the winter feature of Yokote can be enjoyed throughout the year.
+
+Yokote is also a town known for its local specialty, Yokote yakisoba. By combining festival sightseeing with local flavors, nearby hot springs, and historic sites, one can more deeply savor the rich natural setting of the southern part of Akita Prefecture.
+
+## Related Information
+
+- Name: Yokote no Yuki Matsuri (Yokote Snow Festival / kamakura)
+- Location: Yokote City, Akita Prefecture
+- Period: mid-February (from 2026, changed to the Friday and Saturday before the bonden event; formerly February 15-16)
+- Origin: said to have a history of about 450 years (records are scarce)
+- Character: a traditional Little New Year observance honoring the water deity
+- Number of kamakura: about 80 throughout the city
+- Accompanying event: bonden dedication','yokote-no-yuki-matsuri','yokote-no-yuki-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q116838033','八代妙見祭','Yatsushiro Myōken Festival','熊本県八代市にある八代神社の秋の例大祭',NULL,'Q11428677','塩屋八幡宮','Shioya Hachimangū','熊本県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q116045081','未体験ゾーンの映画たち','Movies in the Unexperienced Zone','東京テアトル株式会社主催の劇場発信型映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%AA%E4%BD%93%E9%A8%93%E3%82%BE%E3%83%BC%E3%83%B3%E3%81%AE%E6%98%A0%E7%94%BB%E3%81%9F%E3%81%A1',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q123294949','日本セルビア映画祭','Japanese Serbian Film Festival',NULL,NULL,'Q3711','ベオグラード','Belgrade',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
