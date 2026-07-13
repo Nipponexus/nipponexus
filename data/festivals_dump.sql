@@ -9595,51 +9595,113 @@ The central Ninomiya Shrine can be reached from stations such as Mimomi Station 
 Funabashi, facing Tokyo Bay, is a core city of northwestern Chiba Prefecture with good access to central Tokyo. Ninomiya Shrine in the Miyama district is a venerable old shrine enveloped in a lush sacred grove, and the surrounding area is dotted with attractions toward Narashino and Chiba. Relatively close to Tokyo Disney Resort and the Makuhari new urban center, it is an area where, together with sightseeing in northwestern Chiba, one can engage with the history and local culture of a grand festival held only once every six years.','shimousa-miyama-seven-year-festival','shimousa-miyama-seven-year-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353544','七日堂裸まいり','Nanokado Hadaka Mairi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11302749','コリアン・シネマ・ウィーク','Korean Cinema Week','駐日韓国文化院主催の映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11338451','ホーランエンヤ','Hōran-en''ya','島根県松江市で行われる船渡御祭',NULL,NULL,NULL,NULL,'島根県','chugoku',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Horanenya%20higashimatsue.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)',NULL,85,'drafted','## ホーランエンヤ（島根）とは
+INSERT INTO "festivals" VALUES('Q11338451','ホーランエンヤ','Hōran-en''ya','島根県松江市で行われる船渡御祭',NULL,NULL,NULL,NULL,'島根県','chugoku',NULL,NULL,1648,5,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Horanenya%20higashimatsue.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)',NULL,85,'drafted','## 概要
 
-ホーランエンヤは、島根県松江市で行われる船渡御（ふなとぎょ）の祭礼で、正式には松江城山稲荷神社式年神幸祭といいます。10年に一度しか執り行われない大規模な水上祭礼で、日本三大船神事のひとつにも数えられます。豪華絢爛に飾り立てられた大小の船が大橋川を埋め尽くし、勇壮な櫂伝馬（かいでんま）の踊りとともに進む様は、松江の人々が10年に一度のときを待ちわびる、特別な祭りとして知られています。
+ホーランエンヤは、島根県松江市で行われる松江城山稲荷神社の式年神幸祭（しきねんしんこうさい）の通称で、10年に一度だけ執り行われる日本最大級の船神事です。大阪の天神祭、広島の厳島神社の管絃祭とともに「日本三大船神事」の一つに数えられ、約370年の歴史を持ちます。式年神幸祭とは、定められた年数ごとに神霊を御旅所へ迎え移す祭礼のことで、ホーランエンヤは一時期12年ごとに行われていましたが、現在は元の10年ごとの形に戻されています。
 
-## 歴史と由来
+祭りの期間は9日間にわたり、城山稲荷神社の御神霊を船団で御旅所の阿太加夜神社（あだかやじんじゃ）へお運びする「渡御祭（とぎょさい）」、7日間の大祈祷の中日に櫂伝馬踊り（かいでんまおどり）が奉納される「中日祭（ちゅうにちさい）」、再び船団で城山稲荷神社へ御神霊をお送りする「還御祭（かんぎょさい）」の三つの祭礼から成ります。色とりどりに飾られた100艘を超える船が松江の水路を進む光景は、水の都と呼ばれる松江ならではの壮大な水上絵巻として知られています。
 
-松江のホーランエンヤは、江戸時代の寛永年間に、凶作に見舞われた松江藩が城山稲荷神社の御神霊を阿太加夜（あだかや）神社へ迎えて五穀豊穣を祈願したことに始まると伝えられます。以来、10年に一度の式年神幸祭として受け継がれ、城山稲荷神社の御神体を船で阿太加夜神社まで運び、数日後に再び松江へと還す壮大な神事として発展しました。直近では2019年に斎行され、次回は2029年が予定されています。
+## 歴史・由来
+
+ホーランエンヤの起源は、松江松平藩初代藩主・松平直政（まつだいらなおまさ）の時代にさかのぼります。直政が松江に入府して10年目にあたる慶安元年（1648年）、出雲国が大凶作の危機に見舞われました。そこで直政は、城山稲荷神社の御神霊を、神職を兼務していた阿太加夜神社へ船でお運びし、五穀豊穣を祈願する長期の大祈祷を行いました。この船による神幸がホーランエンヤの始まりとされ、以来、豊作と安寧を願う式年の神事として受け継がれてきました。凶作という切実な危機を背景に生まれた祭りであることが、地域の人々の強い信仰心と結びつき、長い伝統を支えてきたと考えられます。
+
+祭りの中核を担うのは、松江市東部の馬潟（まかた）・矢田（やだ）・大井（おおい）・福富（ふくとみ）・大海崎（おおみさき）の五つの地区で、これらは「五大地（ごだいち）」と呼ばれます。五大地は神輿船を曳く櫂伝馬船を繰り出す役割を担い、地区ごとに個性豊かな唄と踊りを継承してきました。この地域共同体による分担と競い合いが、祭りの華やかさと結束を生み出す原動力となっています。
+
+祭りの華である櫂伝馬踊りにも独自の由来があります。文化5年（1808年）に馬潟が神輿船を救助し、無事に阿太加夜神社へ送り届けたことを喜んで櫂踊りをしたのが起源とされ、その後、弘化年間（1844〜47年）に新潟あたりで盛んだった櫂伝馬踊りの伝習を受け、嘉永から安政期（1848〜1859年）にかけて島根町加賀の重蔵という人物から櫂踊りと采振り踊りを習ったと伝えられています。こうして各地区で独自にアレンジが加えられ、現在の多彩な踊りに発展しました。
+
+近年では令和3年（2021年）に文化庁の「記録作成等の措置を講ずべき無形の民俗文化財」に選択され、その文化的価値が国からも認められています。櫂伝馬踊り自体も松江市の無形民俗文化財に指定されており、地域が守り伝えてきた伝統芸能として位置づけられています。
 
 ## 見どころ
 
-最大の見どころは、極彩色に飾られた数百隻もの船が大橋川や意宇川を進む、絢爛豪華な船行列です。とりわけ、地区ごとの櫂伝馬船の上で繰り広げられる勇壮華麗な踊りは圧巻で、剣櫂(けんがい)と采振り(さいふり)と呼ばれる役者が、歌舞伎を思わせる艶やかな衣装で舞い踊ります。水面を埋め尽くす船団と、櫂を漕ぐ漕ぎ手たちの掛け声、岸辺を埋める見物客の熱気が一体となり、10年に一度の祭りにふさわしい壮大な光景が広がります。
+**大船行列の壮観**　最大の見どころは、渡御祭と還御祭で繰り広げられる大船行列です。御神霊を乗せた神輿船をはじめ、船の数は100艘以上にのぼり、1キロメートルに及ぶ大船団が大橋川・中海・意宇川を進みます。絢爛豪華に飾り付けられた船が連なって水面を埋め尽くす光景は、水上のアリーナとも称され、10年に一度しか見られない特別な景観です。
 
-## 開催情報
+**剣櫂の大見得**　櫂伝馬船の舳先（へさき）では、歌舞伎風の華やかな衣装をまとった踊り手が「剣櫂（けんがい）」を披露します。船の先端で大きく見得を切るその姿は勇壮そのもので、揺れる船上でバランスを取りながら演じる技量に観客は魅了されます。歌舞伎の様式を取り入れた所作は、祭りに芸能としての格式と見応えを与えています。
 
-10年に一度、春（5月）に島根県松江市の大橋川・意宇川一帯および城山稲荷神社・阿太加夜神社で執り行われます。式年神幸祭であり、季節は春。直近の開催は2019年で、次回は2029年が予定されています。開催年・日程の詳細は、松江市および主催団体の公式発表で確認してください。
+**采振りの舞**　船の艫（とも、後方）では、女装した踊り手が「采振り（さいふり）」を舞います。身をくねらせながら采を振るその優美な姿は、勇壮な剣櫂と対をなす華やかさを添えます。剣櫂の力強さと采振りの艶やかさが一つの船上で共演することで、櫂伝馬踊りは緩急に富んだ見応えのある演目となっています。
 
-## アクセス
+**櫂伝馬踊りと舟唄**　五大地の櫂伝馬船には総勢50人ほどが乗り込み、ホーランエンヤの舟唄や太鼓に合わせて船上で櫂伝馬踊りを奉納します。「ホーランエンヤ」という名は、櫂かきの掛け合いの音頭に由来するといわれ、音頭取りの「ホーラ」の掛け声に櫂かきが「エンヤ」と声を合わせたことが名の起こりと伝えられています。地区ごとに異なる唄と踊りの競演も見どころです。
 
-松江市の中心部はJR山陰本線「松江駅」が玄関口です。祭りの舞台となる大橋川は松江市街地を流れ、松江城周辺の城山稲荷神社へは松江駅からバスや徒歩でアクセスできます。船渡御の終着地となる阿太加夜神社は市街地の東に位置します。10年に一度の大祭のため、開催年は全国から多くの見物客が訪れます。
+**馬潟の巨大な櫂伝馬船**　櫂伝馬船のうち馬潟のものは最大で、全長15メートル・幅3メートル、片側8丁櫂という堂々たる大きさを誇ります。帆柱の先端には金色の宝珠が飾られ、色とりどりの幟旗（のぼりばた）や吹流しがなびく様は圧巻です。巨大な船が櫂を揃えて進む様子は、五大地の力の結集を象徴しています。
 
-## 周辺観光
+**中日祭の陸船巡行**　中日祭では、五大地の踊り手が車輪の付いた「陸船（りくぶね）」に乗り換えて阿太加夜神社までの陸路を進みます。水上だけでなく陸上でも櫂伝馬踊りが披露されるのがホーランエンヤの特色で、この複合的な形態が全国の船祭の中でも珍しい点として評価されています。間近で踊りを観覧できる貴重な機会でもあります。
 
-松江市は、現存天守を持つ国宝・松江城を中心とする城下町で、堀川めぐりの遊覧船や、小泉八雲(ラフカディオ・ハーン)ゆかりの史跡など、情緒豊かな見どころに満ちています。宍道湖の夕日は日本有数の絶景として名高く、湖畔の温泉や出雲そば、宍道湖七珍の幸も楽しめます。出雲大社や松江城をはじめとする山陰の名所とあわせて、神話の国・出雲の魅力を堪能できるエリアです。','## What Is Hōran-en''ya (Shimane)?
+## 開催情報・アクセス
 
-Hōran-en''ya is a boat-procession festival held in Matsue, Shimane Prefecture, formally known as the Shikinen Shinkōsai of Matsue Jōzan Inari Shrine. A large-scale water rite performed only once every ten years, it is counted among Japan''s three great boat festivals. The sight of resplendently decorated boats of all sizes filling the Ōhashi River and advancing along with spirited *kaidenma* dances is known as a special festival that the people of Matsue eagerly await once a decade.
+ホーランエンヤは10年に一度、5月中下旬の9日間にわたって開催されます。直近では令和元年（2019年）5月18日から26日にかけて行われ、次回は2029年の開催が予定されています。10年に一度という希少性から、開催年には全国から多くの見物客が松江を訪れます。会場は城山稲荷神社（松江市殿町）から御旅所の阿太加夜神社（松江市東出雲町出雲郷）にかけての大橋川・中海・意宇川一帯です。
+
+開催は10年ごとの式年祭であるため、次回開催の詳細な日程やルート、観覧情報については、開催が近づいた際に松江市や主催団体の公式発表を必ず確認してください。城山稲荷神社は国宝・松江城の城内にあり、松江の中心市街に位置します。松江へはJR松江駅が玄関口となり、山陰自動車道の松江中央ランプなども利用できます。祭りの歴史や五大地の伝統については、2012年に開館した「松江ホーランエンヤ伝承館」で映像や展示により通年で知ることができます。
+
+## 周辺情報
+
+松江は宍道湖と中海に挟まれた「水の都」として知られ、市内には堀川がめぐり、城下町の風情が色濃く残っています。ホーランエンヤの舞台となる城山稲荷神社が鎮座する松江城は、現存天守の一つで国宝に指定されており、天守からは城下と宍道湖を一望できます。祭りの時期以外でも、堀川めぐりの遊覧船に乗れば、ホーランエンヤの船が進む水路の一部を水上から楽しむことができます。
+
+御旅所となる阿太加夜神社が位置する東出雲町は、干し柿の産地としても知られ、秋には軒先に柿を吊るす風景が広がります。また松江は小泉八雲（ラフカディオ・ハーン）ゆかりの地でもあり、塩見縄手には武家屋敷や小泉八雲記念館が並びます。宍道湖の夕日は日本有数の美しさとして名高く、祭りとあわせて水の都の情緒を堪能できます。
+
+松江の食では、宍道湖七珍と呼ばれるスズキ・シラウオ・ウナギ・シジミなどの湖の幸が名物です。とりわけ大和しじみの味噌汁は松江を代表する味覚として親しまれています。出雲そばや地元の地酒とあわせて、山陰の食文化を味わうことができます。
+
+## 関連情報
+
+- 正式名称：松江城山稲荷神社式年神幸祭（通称・ホーランエンヤ）
+- 開催地：島根県松江市（城山稲荷神社〜阿太加夜神社／大橋川・中海・意宇川）
+- 開催周期：10年に一度、5月中下旬の9日間
+- 位置づけ：日本三大船神事の一つ（天神祭・厳島神社管絃祭とともに）
+- 起源：慶安元年（1648年）松平直政による御神霊の船渡御と大祈祷
+- 五大地：馬潟・矢田・大井・福富・大海崎の5地区
+- 文化財：2021年 文化庁「記録選択」／櫂伝馬踊りは松江市無形民俗文化財
+','## Overview
+
+Horan-enya is the popular name for the Shikinen Shinkosai, the periodic sacred procession festival of Matsue Jozan Inari Shrine held in Matsue City, Shimane Prefecture. It is one of the largest boat festivals in Japan and is held only once every ten years. Together with the Tenjin Festival of Osaka and the Kangen-sai of Itsukushima Shrine in Hiroshima, it is counted among the Three Great Boat Festivals of Japan, and it carries a history of roughly 370 years. A shikinen shinkosai is a rite in which a deity''s spirit is carried to a temporary resting place at fixed intervals; Horan-enya was at one time held every twelve years but has since returned to its original ten-year cycle.
+
+The festival unfolds over nine days and consists of three principal rites. The Togyo-sai carries the sacred spirit of Jozan Inari Shrine by a fleet of boats to the resting shrine, Adakaya Shrine. The Chunichi-sai, held at the midpoint of a seven-day period of grand prayer, features the dedication of the kaidenma dance. The Kangyo-sai then returns the sacred spirit by boat fleet to Jozan Inari Shrine. The sight of more than one hundred lavishly decorated boats advancing along the waterways of Matsue is celebrated as a grand aquatic pageant fitting for a city known as the City of Water.
 
 ## History and Origins
 
-Matsue''s Hōran-en''ya is said to have begun in the Kan''ei era of the Edo period, when the famine-stricken Matsue domain welcomed the sacred spirit of Jōzan Inari Shrine to Adakaya Shrine to pray for an abundant harvest. Since then it has been handed down as a *shikinen shinkōsai* held once every ten years, developing into a grand rite in which the sacred object of Jōzan Inari Shrine is conveyed by boat to Adakaya Shrine and, several days later, returned to Matsue. It was most recently performed in 2019, with the next staging planned for 2029.
+The origins of Horan-enya trace back to the era of Matsudaira Naomasa, the first lord of the Matsue Matsudaira domain. In the first year of the Keian era (1648), the tenth year after Naomasa entered Matsue, Izumo Province faced the crisis of a severe crop failure. In response, Naomasa had the sacred spirit of Jozan Inari Shrine carried by boat to Adakaya Shrine, where he served concurrently as priest, and held a long period of grand prayer for an abundant harvest. This boat-borne procession is regarded as the beginning of Horan-enya, and it has since been handed down as a periodic sacred rite praying for good harvests and peace. That the festival was born against the backdrop of the pressing crisis of famine bound it deeply to the faith of the local people, sustaining its long tradition.
+
+The heart of the festival is borne by five districts in eastern Matsue: Makata, Yada, Oi, Fukutomi, and Omisaki, collectively known as the Godaichi, or Five Great Districts. The Godaichi take on the role of launching the kaidenma boats that tow the sacred palanquin boat, and each district has preserved its own distinctive songs and dances. This division of roles and friendly rivalry among the community has become the driving force behind the festival''s splendor and unity.
+
+The kaidenma dance, the highlight of the festival, has its own origin story. It is said to have begun in the fifth year of the Bunka era (1808), when Makata rescued the sacred palanquin boat and safely delivered it to Adakaya Shrine, celebrating the feat with a rowing dance. Later, during the Koka era (1844-47), the districts received instruction in the kaidenma dance then popular around Niigata, and from the Kaei to the Ansei eras (1848-1859) they learned rowing and sai-furi dances from a man named Juzo of Kaga in Shimane. Each district then added its own arrangements, developing the varied dances seen today.
+
+In recent years, in 2021, Horan-enya was designated by the Agency for Cultural Affairs as an Intangible Folk Cultural Property for which measures such as documentation should be taken, recognizing its cultural value at the national level. The kaidenma dance itself is designated an Intangible Folk Cultural Property by Matsue City, positioning it as a traditional performing art safeguarded and handed down by the community.
 
 ## Highlights
 
-The greatest attraction is the resplendent boat procession of several hundred lavishly decorated vessels advancing along the Ōhashi and Iu Rivers. Especially spectacular are the spirited, ornate dances performed aboard each district''s *kaidenma* boats, where performers known as *kengai* (oar-bearers) and *saifuri* (baton-twirlers) dance in gorgeous, kabuki-like costumes. The fleet covering the water''s surface, the calls of the rowers, and the fervor of the crowds lining the banks all come together in a grand spectacle befitting a festival held only once in ten years.
+**The grand boat procession**　The greatest highlight is the great boat procession staged during the Togyo-sai and Kangyo-sai. Beginning with the palanquin boat carrying the sacred spirit, the fleet numbers more than one hundred boats, and a great flotilla stretching over one kilometer advances along the Ohashi River, Nakaumi, and Iu River. The sight of gorgeously decorated boats filling the water surface is called an aquatic arena, a special scene that can be witnessed only once every ten years.
 
-## When It Takes Place
+**The bold poses of the kengai**　At the prow of the kaidenma boats, dancers in flamboyant kabuki-style costumes perform the kengai. Striking grand poses at the tip of the boat, their bravery is stirring, and the skill of performing while keeping balance on a rocking vessel captivates spectators. The movements, drawing on the conventions of kabuki, lend the festival the dignity and spectacle of a performing art.
 
-The festival is held once every ten years, in spring (May), in the Ōhashi and Iu River area of Matsue, Shimane Prefecture, and at Jōzan Inari Shrine and Adakaya Shrine. As a *shikinen shinkōsai*, its season is spring. It was most recently held in 2019, with the next staging planned for 2029. Please confirm the staging year and detailed dates through official announcements from Matsue City and the organizing bodies.
+**The dance of the sai-furi**　At the stern of the boat, cross-dressed dancers perform the sai-furi. Twisting their bodies gracefully as they wave the sai wand, their elegant figures add a splendor that pairs with the valiant kengai. By having the strength of the kengai and the grace of the sai-furi share a single boat, the kaidenma dance becomes a richly varied and compelling performance.
 
-## Access
+**The kaidenma dance and boat songs**　About fifty people board each Godaichi kaidenma boat, dedicating the kaidenma dance on board in time with the boat songs and drums of Horan-enya. The name Horan-enya is said to derive from the call-and-response chant of the rowers, with the lead singer''s cry of Hora answered by the rowers'' Enya. The competing songs and dances unique to each district are another highlight.
 
-The gateway to central Matsue is Matsue Station on the JR San''in Main Line. The Ōhashi River, the festival''s stage, flows through central Matsue, and Jōzan Inari Shrine near Matsue Castle can be reached by bus or on foot from Matsue Station. Adakaya Shrine, the terminus of the boat procession, lies to the east of the city center. As this is a grand festival held only once a decade, the staging year draws many spectators from across the country.
+**Makata''s giant kaidenma boat**　Among the kaidenma boats, Makata''s is the largest, measuring an impressive fifteen meters in length and three meters in width, with eight oars on each side. A golden sacred jewel adorns the top of the mast, and the sight of colorful banners and streamers fluttering is magnificent. The great boat advancing with its oars in unison symbolizes the united strength of the Five Great Districts.
+
+**The land-boat procession of the Chunichi-sai**　During the Chunichi-sai, the Godaichi dancers transfer to wheeled land-boats and proceed overland to Adakaya Shrine. That the kaidenma dance is performed not only on water but also on land is a distinctive feature of Horan-enya, and this composite form is valued as rare among boat festivals across Japan. It is also a precious opportunity to view the dances up close.
+
+## Event Information and Access
+
+Horan-enya is held once every ten years over nine days in mid-to-late May. Most recently it was held from May 18 to 26, 2019, and the next is scheduled for 2029. Because of the rarity of a once-in-a-decade occasion, the festival years draw many visitors to Matsue from across the country. The venue extends from Jozan Inari Shrine (Tonomachi, Matsue City) to the resting shrine, Adakaya Shrine (Izumogo, Higashiizumo-cho, Matsue City), along the Ohashi River, Nakaumi, and Iu River.
+
+Because the festival is a periodic rite held every ten years, please be sure to check the official announcements of Matsue City and the organizing bodies for detailed dates, routes, and viewing information as the next occasion approaches. Jozan Inari Shrine stands within the grounds of Matsue Castle, a national treasure, in the central district of Matsue. JR Matsue Station serves as the gateway to the city, and the Matsue-Chuo ramp of the Sanin Expressway is also convenient. The history of the festival and the traditions of the Five Great Districts can be learned year-round through video and exhibits at the Matsue Horan-enya Museum, which opened in 2012.
 
 ## Around the Area
 
-Matsue is a castle town centered on the national treasure Matsue Castle, one of the few with an original keep, and is full of evocative sights such as sightseeing boats on the moat and historic places associated with Lafcadio Hearn (Koizumi Yakumo). The sunset over Lake Shinji is renowned as one of Japan''s finest views, and visitors can enjoy lakeside hot springs, Izumo soba, and the seven delicacies of Lake Shinji. Together with San''in landmarks such as Izumo Taisha and Matsue Castle, it is an area where one can savor the charm of Izumo, the land of myth.','horan-enya-shimane','horan-enya-shimane',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+Matsue is known as the City of Water, nestled between Lake Shinji and Nakaumi, with canals threading through the city and the atmosphere of a castle town remaining strong. Matsue Castle, where Jozan Inari Shrine is enshrined and which forms the stage of Horan-enya, is one of Japan''s surviving original keeps and is designated a national treasure, offering views of the castle town and Lake Shinji from its top. Even outside the festival season, a ride on the Horikawa sightseeing boat lets visitors enjoy from the water part of the waterway along which the Horan-enya boats advance.
+
+Higashiizumo-cho, where the resting shrine Adakaya is located, is also known as a producer of dried persimmons, and in autumn the scene of persimmons hung under the eaves spreads out. Matsue is also a place associated with Lafcadio Hearn (Koizumi Yakumo), and the Shiomi Nawate street is lined with samurai residences and the Lafcadio Hearn Memorial Museum. The sunset over Lake Shinji is renowned as one of the most beautiful in Japan, and together with the festival one can savor the charm of the City of Water.
+
+As for Matsue''s cuisine, the Seven Delicacies of Lake Shinji, including sea bass, whitebait, eel, and freshwater clams, are famous. In particular, miso soup made with yamato-shijimi clams is cherished as a taste representative of Matsue. Along with Izumo soba and local sake, visitors can enjoy the food culture of the Sanin region.
+
+## Related Information
+
+- Official name: Matsue Jozan Inari Shrine Shikinen Shinkosai (popularly, Horan-enya)
+- Location: Matsue City, Shimane Prefecture (Jozan Inari Shrine to Adakaya Shrine / Ohashi River, Nakaumi, Iu River)
+- Cycle: once every ten years, nine days in mid-to-late May
+- Status: one of the Three Great Boat Festivals of Japan (with the Tenjin Festival and the Itsukushima Kangen-sai)
+- Origin: the boat procession and grand prayer by Matsudaira Naomasa in 1648 (Keian 1)
+- Five Great Districts: Makata, Yada, Oi, Fukutomi, Omisaki
+- Cultural property: 2021 Agency for Cultural Affairs record selection / the kaidenma dance is a Matsue City Intangible Folk Cultural Property
+','horan-enya-shimane','horan-enya-shimane',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280528','やまなし映画祭','Yamanashi Film Festival','山梨県で行われていた映画祭',NULL,NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%BE%E3%81%AA%E3%81%97%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11432381','大依羅神社','Ōyosami Shrine','大阪市にある神社','Shinto shrine in Osaka Prefecture, Japan',NULL,NULL,NULL,'大阪府','kinki',34.594833,135.518163,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Oyosami-jinja%2C%20haiden.jpg','https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%BE%9D%E7%BE%85%E7%A5%9E%E7%A4%BE',NULL,95,'drafted','## 概要
 
