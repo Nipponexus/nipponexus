@@ -669,31 +669,107 @@ Venturing a little farther, sights unique to Aomori are scattered about, such as
 - Standing: One of the three great festivals of Tohoku, along with the Akita Kanto Matsuri and the Sendai Tanabata Matsuri
 - Cultural Property: Designated an Important Intangible Folk Cultural Property of the nation
 - Highlights: The roughly 5-meter-tall large nebuta, the haneto leaping to the cry of rassera, and the sea procession and fireworks of the final day','aomori-nebuta','aomori-nebuta',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q929531','さっぽろ雪まつり','Sapporo Snow Festival','北海道札幌市で毎年2月に開催される雪と氷の祭典','festival held annually in Sapporo, Japan','Q37951','札幌市','Sapporo','北海道','hokkaido',43.061047,141.35638,1950,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/SapporoFestival8.JPG','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Sapporo_Snow_Festival',95,'drafted','さっぽろ雪まつりは、北海道札幌市で毎年2月上旬に開催される雪と氷の祭典であり、国内外から200万人を超える来場者を集める日本最大級の冬の祭事である。1950年（昭和25年）に地元の中学生・高校生が大通公園に6基の雪像を制作したことをきっかけに始まり、現在では大通会場・すすきの会場・つどーむ会場の3会場で展開される国際的な観光イベントへと発展した。
+INSERT INTO "festivals" VALUES('Q929531','さっぽろ雪まつり','Sapporo Snow Festival','北海道札幌市で毎年2月に開催される雪と氷の祭典','festival held annually in Sapporo, Japan','Q37951','札幌市','Sapporo','北海道','hokkaido',43.061047,141.35638,1950,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/SapporoFestival8.JPG','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Sapporo_Snow_Festival',95,'drafted','## 概要
 
-中心となる大通会場では、大通公園1丁目から12丁目までの約1.5キロメートルにわたって、大小200基を超える雪像・氷像が並ぶ。陸上自衛隊や市民ボランティアが大型雪像を制作し、世界の有名建築物、人気アニメキャラクター、その年の話題を象徴するモチーフなどが圧倒的なスケールで再現される。高さ15メートルに及ぶ大雪像は、トラック数千台分の雪を使用し、約1ヶ月をかけて削り出される。
+さっぽろ雪まつりは、北海道札幌市で毎年2月上旬に開催される、日本を代表する冬の祭典である。大通公園を中心に、雪と氷で作られた大小さまざまな像が街を彩り、国内外から数百万人規模の来場者を集める。1950年に始まったこの祭りは、単なる地域行事から日本の冬を象徴する国際的なイベントへと成長してきた。
 
-すすきの会場では氷彫刻コンクールが開催され、透明感のある氷の芸術作品が華やかな歓楽街の夜景と調和する。つどーむ会場は家族向けエリアとして、滑り台やスノーラフト、雪上ゲームなど体験型アトラクションが充実している。期間中は夜間ライトアップやプロジェクションマッピングも実施され、昼と夜で異なる魅力を楽しめる。
+会場は「大通会場」「すすきの会場」「つどーむ会場」の三つに分かれ、それぞれ異なる魅力を持つ。大通会場は迫力ある大雪像と市民雪像が立ち並ぶ祭りの中心であり、すすきの会場は繁華街を彩る氷像、つどーむ会場は雪の滑り台などで雪遊びを楽しめる家族向けの空間として親しまれている。三会場が役割を分担することで、幅広い世代が思い思いに楽しめる構成になっている。
 
-国際雪像コンクールも併催され、世界各国のチームが招かれて技を競う。会場周辺には屋台村が設けられ、ジンギスカン、スープカレー、ラーメン、海鮮丼など北海道の冬の味覚が味わえる。
+## 歴史・由来
 
-大通公園は札幌市中心部に位置し、地下鉄南北線・東西線の大通駅から直結、JR札幌駅からも徒歩約15分とアクセス抜群。札幌時計台や赤れんが庁舎、二条市場など市内の主要観光地もすべて徒歩圏内である。2月の札幌は氷点下が続く厳しい寒さとなるため、防寒具と滑りにくい靴の準備が必須となる。新千歳空港からは札幌駅まで快速エアポートで約40分でアクセスでき、小樽・登別温泉・ニセコなど道内各地への観光拠点としても最適である。','The Sapporo Snow Festival, known in Japanese as Sapporo Yuki Matsuri, is one of Japan''s most internationally recognized winter events and the largest snow and ice festival in the country. Held each year in early February in Sapporo, the capital of Hokkaido, it draws more than two million visitors from across Japan and around the world, transforming the city''s central park into an open-air gallery of monumental ice and snow sculptures.
+さっぽろ雪まつりの起源は1950年（昭和25年）にさかのぼる。地元の中学生・高校生が、市民の雪捨て場だった大通7丁目広場に6基の雪像を制作したのがはじまりである。当時の札幌の人口は約31万3千人にすぎなかったが、雪合戦や雪像展、カーニバルなどを併せて開催したところ、5万人あまりの人出を集める予想以上の人気を博した。これをきっかけに、雪まつりは札幌の冬の行事として市民に定着していくことになる。
 
-The festival traces its origins to 1950, when local middle and high school students built six snow sculptures in Odori Park as part of a school project. The initial event proved so popular that it was repeated the following year, gradually expanding in scale and ambition. The turning point came in 1972, when Sapporo hosted the Winter Olympics, bringing global attention to the city''s winter festival traditions. Since then, the Sapporo Snow Festival has grown into an international phenomenon featuring three distinct venues: the main Odori site, the lively Susukino entertainment district, and the family-oriented Tsudome dome.
+祭りが大きく飛躍する契機となったのが自衛隊の参加である。第5回までは中高生や一般市民の手で雪像が作られていたが、1955年（第6回）から大雪像制作に自衛隊が加わり、高さ約10メートルのマリア像「栄光」が大きな注目を集めた。大規模で精巧な雪像づくりが可能になったことで、祭りの規模と話題性は一気に高まった。1959年（第10回）には雪像制作に2500人が動員され、テレビや新聞で全国に紹介されるようになり、翌年からは本州からの観光客も増えて、札幌の雪まつりから日本の雪まつりへと発展していった。
 
-The Odori site is the festival''s centerpiece, stretching approximately 1.5 kilometers along Odori Park from the first to the twelfth city blocks. More than 200 large and small snow and ice sculptures line the park, ranging from massive works towering fifteen meters high to intricate smaller pieces. The most ambitious sculptures are constructed by units of the Japan Ground Self-Defense Force, working alongside teams of civilian volunteers. These crews use snow equivalent to thousands of truckloads, hauled in from the surrounding mountains, and spend roughly a month carving each piece. Themes vary from year to year and typically include famous buildings from around the world, beloved characters from anime and games, and symbols of current global events. Past sculptures have reproduced the Taj Mahal, Stockholm Cathedral, the Forbidden City, and life-size Hollywood film characters with breathtaking detail.
+会場の広がりも祭りの成長を物語っている。1965年（第16回）には真駒内が第二会場として正式に指定され、家族連れが雪に触れて遊ぶ場として賑わった。1972年（第23回）には札幌冬季オリンピックが開催され、雪まつりは「ようこそ札幌へ」のテーマとともに世界に知られる存在となった。1974年（第25回）はオイルショックにより雪を運ぶトラックの燃料が不足し、雪像の芯にドラム缶を詰めて乗り切るという苦難の年となったが、この年から国際雪像コンクールがスタートし、国際色を一層強めていった。
 
-The Susukino site, located in the city''s main entertainment quarter, hosts the International Ice Sculpture Competition. Here, transparent ice sculptures created by professional carvers and competitive teams glow against the neon backdrop of one of Japan''s most famous nightlife districts. Walking through the illuminated street at night, visitors can examine each sculpture up close, with some featuring frozen flowers, fish, or other elements suspended in the ice. The juxtaposition of delicate ice artistry and the vibrant Susukino district creates an atmosphere unique to this venue.
+その後も祭りは進化を続けた。1983年（第34回）にはネオン輝く繁華街を舞台にした「すすきの会場」が氷像主体の第三会場として加わり、料理人たちがノミを手に腕を振るう氷像が評判を呼んだ。1987年（第38回）からは会期を7日間に延長した。2005年をもって40年間続いた真駒内会場が閉鎖され、2006年から2008年はさとらんど会場、2009年からはつどーむ会場が第二会場となり、現在の三会場体制へと受け継がれている。
 
-The Tsudome site, set in a large indoor and outdoor sports complex on the city''s outskirts, caters to families and visitors who wish to experience snow rather than simply observe it. Activities include long snow slides, snow rafting pulled by snowmobiles, miniature snow mazes, and various snow-based games. The indoor area provides a warm refuge with food stalls, performance stages, and seating areas, making it an ideal destination when temperatures drop below freezing as they regularly do during the festival period.
+## 見どころ
 
-Each evening, the major sculptures at the Odori site are illuminated, and several feature elaborate projection mapping shows that bring the snow sculptures to life through coordinated light, color, and music. These nighttime presentations have become signature attractions, drawing crowds that fill the park even when temperatures dip well below zero degrees Celsius.
+**大通会場の大雪像** 祭りの象徴といえるのが、大通公園に並ぶ高さ十数メートルにおよぶ大雪像である。歴史的建造物やその年の話題を題材にした精巧な造形は、間近で見上げると圧倒的な迫力がある。緻密な彫刻は雪の造形とは思えないほどで、多くの来場者が最大の目的として挙げる祭りの目玉となっている。
 
-The festival is also a culinary destination. Pop-up food markets along Odori Park serve regional Hokkaido specialties suited to winter weather, including Genghis Khan grilled lamb, Hokkaido-style miso ramen, soup curry brimming with vegetables, fresh seafood bowls featuring sea urchin and salmon roe, and warming hot drinks such as amazake. Many local restaurants and izakaya in the surrounding blocks also offer special winter menus during the festival period.
+**夜のライトアップ** 日が暮れると、雪像はプロジェクションマッピングや照明で幻想的に照らし出される。白い雪の表面が色とりどりの光を受けて刻々と表情を変え、昼間とはまったく異なる美しさを見せる。冬の澄んだ空気と相まって、夜の会場は雪まつりならではの非日常的な光景を作り出している。
 
-Access to the festival is exceptionally convenient. Odori Park is directly connected to Odori Station on the Sapporo subway system and is approximately a fifteen-minute walk from JR Sapporo Station. Visitors traveling from outside Hokkaido can fly into New Chitose Airport and take the rapid Airport train to Sapporo Station in about forty minutes. The festival also serves as an excellent base for exploring other winter destinations in Hokkaido, including the canal city of Otaru, the hot spring resort of Noboribetsu, and the world-class ski areas of Niseko and Furano.
+**国際雪像コンクール** 1974年に始まった国際雪像コンクールでは、世界各地の国と地域から集まったチームが雪像制作の技を競い合う。国際色豊かな作品が並ぶ会場では、参加者と観客の交流や友好の輪が広がり、この祭りが地域の枠を超えた国際イベントであることを実感させてくれる。
 
-Given the severe cold of Sapporo in February, with daytime temperatures often well below freezing and frequent snowfall, visitors should come prepared with heavy winter clothing, waterproof boots with good traction, gloves, and head coverings. Sidewalks can become icy, and walking pace is necessarily slower than in milder seasons. Despite these challenges, the experience of standing among monumental snow sculptures in a city transformed by winter is unmatched, and the Sapporo Snow Festival remains a defining bucket-list destination for travelers seeking the singular beauty of Japan''s northern winter.','sapporo-snow-festival','sapporo-snow-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**市民雪像** 大雪像の合間には、市民グループが手がけた数多くの小雪像が並ぶ。プロではない人々が思い思いに制作したユーモラスな作品や、その年に流行したキャラクターなどが登場し、来場者の目を楽しませる。祭りが市民参加によって支えられてきた歴史を今に伝える存在である。
+
+**すすきの会場の氷像** 繁華街すすきのを舞台にした会場では、透き通った氷で作られた氷像が通りに立ち並ぶ。ネオンの光を受けてきらめく氷の彫刻は、大通会場の雪像とはまた違った洗練された美しさを持ち、大人の夜の散策にふさわしい雰囲気を醸し出している。
+
+**つどーむ会場の雪遊び** つどーむ会場は、雪の滑り台やチューブそりなど、実際に雪と触れ合って遊べるアトラクションが充実している。子ども連れの家族が体を動かして楽しめる空間として、見て楽しむ他会場とは異なる体験型の魅力を提供している。
+
+## 開催情報・アクセス
+
+さっぽろ雪まつりは毎年2月上旬に開催される。2026年（第76回）は2月4日から2月11日までの8日間の会期で、大通会場・すすきの会場・つどーむ会場の三会場で行われる。次回2027年も2月4日から2月11日までの8日間が予定されている。
+
+大通会場は大通公園（大通西1丁目〜西11丁目）で、札幌の中心部に位置し徒歩で巡ることができる。すすきの会場は札幌駅前通の南4条から南7条付近に広がり、氷像が期間中展示される。つどーむ会場は東区栄町の「つどーむ」で、開催時間は10時から16時が目安となっている。会場間はいずれも公共交通機関で移動でき、大通会場とすすきの会場は地下鉄や徒歩圏内、つどーむ会場は地下鉄東豊線栄町駅からのアクセスが便利である。冬の札幌は路面が凍結するため、滑りにくい靴や十分な防寒対策が欠かせない。
+
+## 周辺情報
+
+大通公園は札幌の都心を東西に貫く公園で、雪まつり以外の季節にもさっぽろホワイトイルミネーションやライラックまつりなど、四季折々のイベントが開催される市民の憩いの場である。雪まつり期間中は近隣にさっぽろテレビ塔がそびえ、その展望台からは大通会場に並ぶ雪像を一望でき、光り輝く会場全体を上から眺める絶好のビュースポットとなっている。
+
+祭りの歴史をより深く知りたい場合は、羊ヶ丘展望台にある「さっぽろ雪まつり資料館」を訪ねるとよい。1950年のわずか6基の雪像から始まった半世紀以上の歩みが、パネルや写真、雪像模型で紹介されている。また、すすきのは北海道有数の繁華街であり、氷像を眺めた後にジンギスカンや味噌ラーメン、新鮮な海鮮など北海道ならではの味覚を楽しめる。
+
+## 関連情報
+
+- 開催地: 北海道札幌市（大通会場・すすきの会場・つどーむ会場）
+- 開催時期: 毎年2月上旬（2026年第76回は2月4日〜11日）
+- 起源: 1950年、地元の中高生が大通公園に6基の雪像を設置
+- 主な見どころ: 大雪像、夜のライトアップ、国際雪像コンクール、氷像、雪遊び
+- 国際雪像コンクール: 1974年開始、世界各地のチームが参加
+- 関連施設: さっぽろ雪まつり資料館（羊ヶ丘展望台）、さっぽろテレビ塔
+','## Overview
+
+The Sapporo Snow Festival is one of Japan''s most iconic winter events, held every February in the city of Sapporo, Hokkaido. Centered on Odori Park, the festival fills the city with snow and ice sculptures of every size, drawing several million visitors from across Japan and around the world. Since its beginnings in 1950, it has grown from a modest local gathering into an international event that has come to symbolize the Japanese winter.
+
+The festival is spread across three distinct venues, each with its own character. The Odori Site is the heart of the festival, lined with powerful large snow sculptures and citizen-made works. The Susukino Site fills the entertainment district with gleaming ice sculptures, while the Tsudome Site offers snow slides and other hands-on attractions as a family-friendly space. By dividing these roles among the three sites, the festival allows visitors of every generation to enjoy it in their own way.
+
+## History and Origin
+
+The origins of the Sapporo Snow Festival date back to 1950. Local middle and high school students created six snow sculptures at the Odori 7-chome plaza, which had been a place where citizens dumped snow cleared from the streets. Although Sapporo''s population at the time was only about 313,000, the event was held together with snowball fights, snow sculpture exhibitions, and a carnival, and it drew a crowd of more than 50,000 people, exceeding all expectations. This success established the snow festival as a seasonal winter event embraced by the city''s residents.
+
+A major turning point came with the participation of the Japan Self-Defense Forces. Until the fifth festival, the sculptures had been built by students and ordinary citizens, but from 1955 the Self-Defense Forces joined in creating large-scale snow sculptures, and a Maria statue about 10 meters tall drew great attention. Because it became possible to build large and intricate sculptures, the scale and appeal of the festival grew dramatically. By the 10th festival in 1959, some 2,500 people were mobilized to build the sculptures, the event was introduced on television and in newspapers for the first time, and from the following year tourists from Honshu began to increase, transforming Sapporo''s snow festival into a festival for all of Japan.
+
+The expansion of venues also tells the story of the festival''s growth. In 1965, Makomanai was formally established as a second venue and became popular as a place where families could touch and play in the snow. In 1972, the Sapporo Winter Olympics were held, and the festival, under the theme "Welcome to Sapporo," became known around the world. The year 1974 was one of hardship, as the oil crisis made it difficult to obtain fuel for the trucks that hauled snow; creative measures such as packing steel drums inside the sculptures were used to see the festival through. That same year, the International Snow Sculpture Contest began, further strengthening the festival''s international character.
+
+The festival continued to evolve in the years that followed. In 1983, the Susukino Site was added as a third venue, and its neon-lit ice sculptures in the entertainment district opened up a new dimension of the festival. From 1987, the festival period was extended to seven days. In 2005, the Makomanai venue, which had continued for 40 years, was closed; the Satoland venue was used from 2006 to 2008, and from 2009 the Tsudome venue became the second site, forming the three-venue structure that continues today.
+
+## Highlights
+
+**The Large Snow Sculptures of the Odori Site** The symbol of the festival is the enormous snow sculptures, some more than ten meters tall, that line Odori Park. Modeled on historic buildings or the year''s topical themes, these intricate creations are overwhelming when viewed up close. Their detailed carving hardly seems possible in snow, and many visitors name them as their primary reason for attending.
+
+**Evening Illuminations** When night falls, the sculptures are bathed in fantastical light through projection mapping and lighting. The white surface of the snow takes on ever-changing expressions as it catches colorful light, revealing a beauty entirely different from the daytime view. Combined with the clear winter air, the evening venue creates the kind of extraordinary scenery found only at the snow festival.
+
+**The International Snow Sculpture Contest** Begun in 1974, the International Snow Sculpture Contest brings together teams from countries and regions around the world to compete in the art of snow sculpting. In a venue filled with internationally diverse works, exchange and friendship spread between participants and spectators, giving visitors a real sense that this festival transcends its local roots.
+
+**Citizen Snow Sculptures** Among the large sculptures stand many smaller works created by citizen groups. Humorous pieces made freely by non-professionals, along with characters popular that year, delight visitors of all ages. They convey to the present day the history of a festival sustained by the participation of ordinary citizens.
+
+**The Ice Sculptures of the Susukino Site** In the venue set in the Susukino entertainment district, ice sculptures made of transparent ice line the streets. Glittering under the neon lights, these ice carvings possess a refined beauty distinct from the snow sculptures of the Odori Site, creating an atmosphere well suited to an evening stroll for adults.
+
+**Snow Play at the Tsudome Site** The Tsudome Site offers a wealth of hands-on attractions such as snow slides and tube sledding, where visitors can actually play in the snow. As a space where families with children can move their bodies and have fun, it provides an experiential appeal different from the other venues that are meant to be viewed.
+
+## Event Information and Access
+
+The Sapporo Snow Festival is held every year in early February. The 76th festival in 2026 runs for eight days, from February 4 to February 11, across the three venues of Odori, Susukino, and Tsudome. The following festival in 2027 is also scheduled for eight days, from February 4 to February 11.
+
+The Odori Site is located in Odori Park (Odori Nishi 1-chome to Nishi 11-chome), in the heart of Sapporo, and can be explored on foot. The Susukino Site spreads along Ekimae-dori from around Minami 4-jo to Minami 7-jo, where ice sculptures are displayed throughout the festival period. The Tsudome Site is at "Tsudome" in Sakaemachi, Higashi-ku, with hours generally from 10:00 to 16:00. All venues can be reached by public transportation: the Odori and Susukino sites are within subway or walking distance, while the Tsudome Site is conveniently accessed from Sakaemachi Station on the Toho Subway Line. Because Sapporo''s winter streets freeze over, non-slip shoes and adequate protection against the cold are essential.
+
+## Surrounding Information
+
+Odori Park is a green space running east to west through central Sapporo, and beyond the snow festival it hosts seasonal events such as the Sapporo White Illumination and the Lilac Festival, serving as a place of relaxation for citizens. During the festival, the nearby Sapporo TV Tower rises over the site, and its observation deck offers a sweeping view of the snow sculptures lining the Odori Site, making it an ideal spot to look down on the glittering venue as a whole.
+
+For those who wish to learn more about the festival''s history, a visit to the "Sapporo Snow Festival Museum" at the Hitsujigaoka Observation Hill is recommended. The more than half a century of history that began with just six snow sculptures in 1950 is introduced through panels, photographs, and sculpture models. In addition, Susukino is one of Hokkaido''s leading entertainment districts, where after viewing the ice sculptures visitors can enjoy Hokkaido specialties such as Genghis Khan grilled mutton, miso ramen, and fresh seafood.
+
+## Related Information
+
+- Location: Sapporo, Hokkaido (Odori Site, Susukino Site, Tsudome Site)
+- Period: Early February each year (76th festival in 2026: February 4-11)
+- Origin: Six snow sculptures set up in Odori Park by local students in 1950
+- Main highlights: Large snow sculptures, evening illuminations, International Snow Sculpture Contest, ice sculptures, snow play
+- International Snow Sculpture Contest: Begun in 1974, with teams from around the world
+- Related facilities: Sapporo Snow Festival Museum (Hitsujigaoka Observation Hill), Sapporo TV Tower
+','sapporo-snow-festival','sapporo-snow-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q888184','日前神宮・國懸神宮','Hinokuma Jingū','和歌山市にある神社','building in Wakayama Prefecture, Japan',NULL,NULL,NULL,'和歌山県','kinki',34.228398,135.201993,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/Hinokuma%20Shrine.JPG','https://ja.wikipedia.org/wiki/%E6%97%A5%E5%89%8D%E7%A5%9E%E5%AE%AE%E3%83%BB%E5%9C%8B%E6%87%B8%E7%A5%9E%E5%AE%AE','https://en.wikipedia.org/wiki/Hinokuma_Shrine',95,'drafted','## 概要
 
 日前神宮・國懸神宮（ひのくまじんぐう・くにかかすじんぐう）は、和歌山県和歌山市秋月（あきづき）に鎮座する紀伊国一宮であり、皇室の祖神に縁深い格式の高い古社である。日前神宮には日前大神（ひのくまのおおかみ・天照大神の御神体である日像鏡を祀る）、國懸神宮には國懸大神（くにかかすのおおかみ・天照大神の御神体である日矛鏡を祀る）を主祭神として祀り、同一境内に二つの神宮が並び立つ独特の形態を持つ。『延喜式神名帳』では名神大社に列せられ、伊勢神宮に次ぐ「準勅祭社」の格式を持つ。
