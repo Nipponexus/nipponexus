@@ -9522,41 +9522,105 @@ INSERT INTO "festivals" VALUES('Q11434756','大岡越前祭','Ōoka Echizen Fest
 INSERT INTO "festivals" VALUES('Q11424684','地蔵盆','Jizobon','地蔵菩薩の縁日',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%94%B5%E7%9B%86',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11413521','吉田の火祭','Yoshida Fire Festival','山梨県富士吉田市で行われる祭り',NULL,'Q11401286','北口本宮冨士浅間神社','Kitaguchi Hongū Fuji Sengen Shrine','山梨県','chubu',35.478194,138.794139,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Torches%20burning%20Yoshida%20Fire%20Festival%20A.JPG','https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E3%81%AE%E7%81%AB%E7%A5%AD',NULL,95,'drafted','## 概要
 
-吉田の火祭（よしだのひまつり）は、山梨県富士吉田市の北口本宮冨士浅間神社および諏訪神社で毎年8月26日・27日に執り行われる、富士山の夏山閉山を告げる神事である。「吉田の火祭」として2012年に国の重要無形民俗文化財に指定され、日本三奇祭のひとつとされている。
+吉田の火祭（よしだのひまつり）は、山梨県富士吉田市で毎年8月26日・27日の2日間にわたって行われる、北口本宮冨士浅間神社とその摂社である諏訪神社の祭である。正式には「鎮火祭（ちんかさい）」と呼ばれ、富士山の噴火を鎮めることを願う祭として知られる。御祭神が猛火の中で無事に御子を安産なされたという故事に基づくとされ、日本三奇祭・日本十大火祭りのひとつに数えられている。
 
-## 歴史
+祭の最大の特徴は、8月26日の夜に御師町（おしまち）の通りで高さ約3メートルの大松明が一斉に焚き上げられる光景である。町全体が炎に包まれるさまはまさに火の海と形容され、幻想的な迫力で多くの見物客を魅了する。7月1日の富士山の山開きに対して、この火祭は夏山登山シーズンの終わり、いわゆる「お山じまい」を告げる祭として位置づけられている。
 
-起源は明確ではないが、富士山信仰と深く結びついた神事として平安時代末期から鎌倉時代にかけて成立したと考えられている。富士山は古来より霊峰として崇められ、夏季の限られた期間のみ登拝が許される神聖な山であった。閉山時期である8月末に大松明を焚き、夏山の終わりと安全な下山を感謝するとともに、火によって罪穢れを浄める意味が込められている。
+## 歴史・由来
+
+吉田の火祭は、現在でこそ北口本宮冨士浅間神社の大祭・特殊祭儀とされているが、もとは摂社である諏訪神社の例祭であったと言われている。地域住民の間には今も「地主神さんはお諏訪様」「火祭りはお諏訪さんのお祭り」という認識が根強く残っており、火祭の本来の担い手が諏訪神社であったことをうかがわせる。
+
+火祭の起源には、諏訪の神にまつわる伝承が伝えられている。神話に描かれるように諏訪の神が追われて逃げていたある夜、この地の住民が手に松明を持って出迎えたところ、追手がその明かりを援軍と見間違えて退却したため、諏訪の神はしばらくこの地に滞在なさったという。人々が手に持った松明を大松明として焚き上げ、諏訪の神を称えたのが火祭の起こりとされているが、諏訪神社の起源とともにその詳細は明らかではない。
+
+やがて富士山への信仰が盛んになるにつれ、浅間神社の境内地が広がり勢力を増していった。その過程で諏訪神社は浅間神社に吸収されて摂社となり、御師町の興隆によって氏神もまた浅間神社であるとされるようになった。こうして火祭は二社の祭として営まれる現在の形へと移り変わっていったのである。
+
+祭が積み重ねてきた歴史は長く、その伝統は450年以上ともいわれる。平成24年（2012年）3月8日には国の重要無形民俗文化財に指定され、富士山信仰と一体となった貴重な民俗行事として、その価値が公的にも認められている。一年以内に身内に不幸があった者は「ブク」といって祭の一切に触れることを避ける風習が今も守られており、祭に忌み事を持ち込まないよう大切に受け継がれてきた。
 
 ## 見どころ
 
-26日の「鎮火祭」では、夕刻に高さ約3メートル、直径約90センチの大松明70本以上が市内本町通りに立て並べられ、一斉に点火される。炎の柱が立ち上り、街全体が赤く染まる光景は圧巻である。各家の前にも井桁状の松明が組まれ、街路全体が火の道となる。27日の「すすき祭り」では、薄の玉串を持った氏子たちが諏訪神社の神輿を担いで還御する。富士山を背景にした火と山岳信仰の融合は、他にない神秘性を放つ。
+**約80本の大松明** 祭を象徴するのが、8月26日夜に焚き上げられる大松明である。高さ約3メートル・直径約90センチの筍（たけのこ）型に結い上げられ、金鳥居のある御師町の表通りを中心に約80本が奉納される。各家の前に置かれた井桁状の松明にも火が灯され、通り一帯が炎に包まれる光景は、思わず息をのむ美しさである。
 
-## 開催情報
+**二基の神輿の対比** 明神型神輿の「お明神さん」には浅間様3柱と諏訪様2柱がお遷しされ、比較的年配の勢子によって大切に渡御される。一方、噴火する荒ぶる富士を表す御影「お山さん」には浅間大神の荒霊が乗るとされ、年若い勢子によって荒々しく担がれる。穏やかさと荒々しさの対比が、祭の性格を鮮やかに浮かび上がらせる。
 
-開催地は山梨県富士吉田市上吉田の北口本宮冨士浅間神社および諏訪神社、本町通り。最寄駅は富士急行線「富士山駅」徒歩約5分。開催日は毎年8月26日（鎮火祭）と27日（すすき祭り）。大松明の点火は26日18時30分頃から。観覧は無料だが、本町通りは夕刻から大変混雑するため早めの到着を推奨する。火を扱う祭りのため、燃えやすい服装は避け、安全な距離を保つこと。
+**お山さんを落とす所作** 重さ約1トンにもなる「お山さん」を、渡御の途中でわざと落とすという神輿には珍しい行為が見られる。これは御祭神の御神威の発揚を促し、荒ぶる富士を鎮めるために行われるとされる。神様が乗ると急に重さが増すといった数々の言い伝えとともに、勢子たちを引きつけてやまない場面である。
 
-## 周辺の見どころ
+**火防と安産の信仰** 26日夜は屋根に火の粉が降りかかることもあるが、これまで一度も火事を起こしたことがないと言われている。そのため火防のまじないとして松明の消し炭（オキ）を拾い、安産・子授けや無病息災の御守として持ち帰る風習がある。荒々しい炎の祭でありながら、人々の暮らしの願いが込められている点が印象深い。
 
-富士吉田市は富士山北麓に位置し、世界文化遺産「富士山」の構成資産である北口本宮冨士浅間神社は祭りの中心舞台である。富士急ハイランドや富士五湖（山中湖・河口湖など）も至近で、夏季の富士山観光と合わせて訪れる旅程が組みやすい。市内の吉田うどんは地元名物として知られ、祭り前後の食事におすすめである。','## Overview
+**すすき祭と高天原** 27日は子供神輿も加わって全ての神輿が町へ担ぎ出され、夕方まで氏子中を練り歩く。夜には神社境内の「高天原（たかまのはら）」を5回または7回まわって祭は最高潮を迎える。このとき「すすきの玉串」を持って安産や無病息災を祈願する風習があり、27日のみを指して「すすき祭」とも呼ばれる。
 
-Yoshida no Himatsuri (吉田の火祭) is a sacred fire festival held annually on August 26 and 27 at Kitaguchi Hongu Fuji Sengen Shrine and Suwa Shrine in Fujiyoshida City, Yamanashi Prefecture. It marks the closing of the summer climbing season on Mount Fuji and was designated an Important Intangible Folk Cultural Property of Japan in 2012. It is considered one of Japan''s three most unusual festivals (Nihon san-kisai).
+**厳かな奉遷** 荒々しい炎と喧騒の一方で、闇夜に浮かぶ提灯が白い絹垣をほのかに照らし、雅楽と警蹕が森にこだまする「奉遷」の様は実に厳かである。前夜の炎の激しさとの対比が、清涼な夜の空気をいっそう際立たせ、祭の奥深さを感じさせてくれる。
 
-## History
+## 開催情報・アクセス
 
-While its precise origins are unclear, the festival is believed to have taken shape between the late Heian and Kamakura periods as a ritual deeply tied to Mount Fuji worship. Mount Fuji has been revered as a sacred mountain since ancient times, with pilgrim ascents permitted only during a brief summer window. Held at the end of August to mark the close of the climbing season, the festival lights enormous torches to express gratitude for safe descents and to purify impurities through the cleansing power of fire.
+吉田の火祭は毎年8月26日・27日の2日間に行われる。26日は午後に北口本宮冨士浅間神社での本殿祭・諏訪神社祭が催行され、夕刻から神輿の渡御と大松明の点火が始まる。27日は子供神輿を含む全ての神輿が町を練り歩き、夜に高天原をまわって祭が最高潮を迎える。2026年も8月26日（水）・27日に開催が予定されている。
+
+会場は山梨県富士吉田市上吉田の北口本宮冨士浅間神社およびその周辺の御師町一帯である。大松明が立ち並ぶのは金鳥居のある表通りを中心とした約2キロにわたる道で、富士山駅（富士急行線）から徒歩圏内に位置する。祭の当日は交通規制が敷かれ大変混雑するため、公共交通機関の利用が推奨される。夜間の見学となるため、火の粉を避けられる服装と足元への注意が欠かせない。
+
+## 周辺情報
+
+北口本宮冨士浅間神社は、富士山信仰の北側の玄関口として知られる由緒ある神社であり、境内には杉の巨木が立ち並ぶ荘厳な参道が続く。富士登山の吉田口の起点にあたり、世界文化遺産「富士山」の構成資産のひとつにも含まれている。火祭の時期以外にも、富士信仰の歴史を今に伝える場として多くの参拝者が訪れる。
+
+祭の舞台となる御師町は、かつて富士講の行者を迎え入れた御師（おし）の家々が並んだ通りで、富士山信仰を支えた歴史的な町並みが残る。周辺には富士山レーダードーム館や富士吉田の名物である吉田のうどんを味わえる店も点在しており、火祭の見物と合わせて富士山麓の文化や食を楽しむことができる。
+
+## 関連情報
+
+- 開催地: 山梨県富士吉田市（北口本宮冨士浅間神社・諏訪神社および御師町一帯）
+- 開催時期: 毎年8月26日・27日
+- 正式名称: 鎮火祭
+- 位置づけ: 日本三奇祭・日本十大火祭りのひとつ、夏山登山の終わり（お山じまい）を告げる祭
+- 主な見どころ: 高さ約3mの大松明約80本、二基の神輿（お明神さん・お山さん）、すすき祭
+- 文化財指定: 平成24年（2012年）3月8日 国の重要無形民俗文化財に指定
+','## Overview
+
+The Yoshida no Himatsuri (Yoshida Fire Festival) is a festival of Kitaguchi Hongu Fuji Sengen Shrine and its auxiliary Suwa Shrine, held over two days on August 26 and 27 each year in Fujiyoshida, Yamanashi Prefecture. Formally known as the "Chinkasai" (fire-quelling festival), it is known as a festival that prays to calm the eruptions of Mount Fuji. It is said to be based on the legend that the enshrined deity safely gave birth to her children amid raging flames, and it is counted among Japan''s Three Great Unusual Festivals and its Ten Great Fire Festivals.
+
+The greatest feature of the festival is the sight of large torches roughly three meters tall being lit all at once along the streets of the Oshi-machi district on the night of August 26. The way the entire town is enveloped in flame is described as a "sea of fire," and its fantastical power draws many spectators. In contrast to the opening of Mount Fuji on July 1, this fire festival marks the end of the summer climbing season, the so-called "closing of the mountain."
+
+## History and Origin
+
+Although the Yoshida Fire Festival is now regarded as a grand and special rite of Kitaguchi Hongu Fuji Sengen Shrine, it is said to have originally been the regular festival of the auxiliary Suwa Shrine. Even today, the local residents hold a strong belief that "the land deity is Osuwa-sama" and "the fire festival is Osuwa''s festival," suggesting that the original custodian of the festival was Suwa Shrine.
+
+A legend concerning the deity of Suwa is handed down as the origin of the fire festival. As depicted in mythology, one night when the Suwa deity was fleeing from pursuers, the residents of this land came out to greet the deity holding torches in their hands. The pursuers mistook the lights for reinforcements and retreated, and so the Suwa deity remained in this place for a while. It is said that the fire festival began when people burned the torches they had held as large torches to honor the Suwa deity, though the details, along with the origins of Suwa Shrine itself, remain unclear.
+
+As faith in Mount Fuji grew, the precincts of Sengen Shrine expanded and its influence increased. In this process, Suwa Shrine was absorbed into Sengen Shrine and became an auxiliary shrine, and with the prosperity of the Oshi-machi district, Sengen Shrine came to be regarded as the tutelary deity as well. In this way, the festival gradually shifted into its present form as a festival of the two shrines.
+
+The history the festival has accumulated is long, with its tradition said to span more than 450 years. On March 8, 2012, it was designated an Important Intangible Folk Cultural Property of Japan, and its value has been publicly recognized as a precious folk event integrated with the faith in Mount Fuji. A custom is still observed whereby anyone who has lost a family member within the past year refrains from all involvement in the festival, known as "buku," carefully preserving the festival free from mourning.
 
 ## Highlights
 
-On August 26, during the Chinka-sai (fire-pacifying festival), over 70 massive torches — each about 3 meters tall and 90 cm in diameter — are erected along Honcho-dori in central Fujiyoshida and lit simultaneously in the evening. Pillars of flame rise into the sky, bathing the entire town in red — a spectacle of remarkable scale. Each household also constructs lattice-shaped torches in front of their homes, transforming the streets into a corridor of fire. On August 27, during the Susuki Matsuri (pampas grass festival), parishioners bearing pampas-grass tamagushi offerings carry the Suwa Shrine portable shrine back to its resting place. The fusion of fire and mountain worship, with Mount Fuji as a backdrop, projects a mystique found nowhere else.
+**About 80 Large Torches** The symbol of the festival is the large torches lit on the night of August 26. Bound into a bamboo-shoot shape about three meters tall and 90 centimeters in diameter, about 80 of them are dedicated mainly along the main street of the Oshi-machi district near the Kane-torii gate. Torches arranged in a well-crib shape in front of each house are also lit, and the sight of the whole street enveloped in flame is breathtakingly beautiful.
 
-## Event Information
+**The Contrast of the Two Portable Shrines** The Myojin-type portable shrine "Omyojin-san" carries three Sengen deities and two Suwa deities, and is borne carefully by relatively older bearers. In contrast, the sacred image "Oyama-san," which represents the raging, erupting Mount Fuji, is said to carry the rough spirit of the great Sengen deity, and is borne wildly by younger bearers. The contrast between calm and wildness vividly brings out the character of the festival.
 
-The venues are Kitaguchi Hongu Fuji Sengen Shrine, Suwa Shrine, and Honcho-dori in Kamiyoshida, Fujiyoshida City, Yamanashi Prefecture. The nearest station is Fujisan Station on the Fujikyu Railway, about a 5-minute walk away. The festival is held annually on August 26 (Chinka-sai) and August 27 (Susuki Matsuri), with the lighting of the great torches beginning around 6:30 PM on August 26. Admission is free, but Honcho-dori becomes extremely crowded from early evening, so arriving early is recommended. As this is a fire festival, avoid flammable clothing and maintain a safe distance from the flames.
+**Dropping the Oyama-san** During the procession, the bearers deliberately drop the "Oyama-san," which weighs about one ton, an act unusual for a portable shrine. This is said to be done to prompt the manifestation of the deity''s divine power and to calm the raging Mount Fuji. Together with numerous legends, such as that the shrine suddenly grows heavier when the deity boards it, this is a scene that endlessly fascinates the bearers.
 
-## Nearby Attractions
+**Faith in Fire Protection and Safe Childbirth** On the night of the 26th, sparks may fall on rooftops, yet it is said that not a single fire has ever broken out. For this reason, there is a custom of picking up the charcoal embers (oki) of the torches as a charm against fire and taking them home as amulets for safe childbirth, fertility, and good health. It is striking that, even amid this festival of wild flames, the everyday wishes of the people are embodied within it.
 
-Fujiyoshida City sits at the northern foot of Mount Fuji, and Kitaguchi Hongu Fuji Sengen Shrine — the central stage of the festival — is a component asset of the UNESCO World Heritage Site "Fujisan." Fuji-Q Highland amusement park and the Fuji Five Lakes (including Lake Yamanaka and Lake Kawaguchi) are also nearby, making it easy to combine the festival with summer sightseeing around Mount Fuji. The local specialty Yoshida udon is a recommended meal before or after the festival.','yoshida-no-himatsuri','yoshida-no-himatsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The Susuki Festival and Takamagahara** On the 27th, children''s portable shrines also join as all the shrines are carried out into the town, parading among the parishioners until evening. At night, the festival reaches its climax as the shrines circle the "Takamagahara" within the shrine precincts five or seven times. At this time there is a custom of holding "susuki (pampas grass) tamagushi" to pray for safe childbirth and good health, and the 27th alone is also called the "Susuki Festival."
+
+**The Solemn Transfer of the Deity** In contrast to the wild flames and clamor, the "hosen" (transfer of the deity), in which lanterns floating in the dark night faintly illuminate the white silk screen while gagaku music and the herald''s cry echo through the forest, is truly solemn. The contrast with the intensity of the previous night''s flames makes the cool, clear night air stand out all the more, conveying the profound depth of the festival.
+
+## Event Information and Access
+
+The Yoshida Fire Festival is held over two days on August 26 and 27 each year. On the 26th, the main hall rite and the Suwa Shrine rite are conducted at Kitaguchi Hongu Fuji Sengen Shrine in the afternoon, and from the evening the procession of the portable shrines and the lighting of the large torches begin. On the 27th, all the portable shrines, including children''s shrines, parade through the town, and the festival reaches its climax at night as they circle the Takamagahara. It is scheduled to be held again on August 26 (Wed) and 27 in 2026.
+
+The venue is Kitaguchi Hongu Fuji Sengen Shrine in Kamiyoshida, Fujiyoshida, Yamanashi Prefecture, and the surrounding Oshi-machi district. The large torches line a road stretching about two kilometers, centered on the main street with the Kane-torii gate, within walking distance of Fujisan Station on the Fujikyuko Line. Traffic restrictions are in place and the area becomes very crowded on the days of the festival, so use of public transportation is recommended. Since viewing takes place at night, clothing that protects against sparks and care with one''s footing are essential.
+
+## Surrounding Information
+
+Kitaguchi Hongu Fuji Sengen Shrine is a venerable shrine known as the northern gateway to the faith in Mount Fuji, with a solemn approach lined with giant cedar trees within its precincts. Located at the starting point of the Yoshida climbing route up Mount Fuji, it is also included as one of the component assets of the World Cultural Heritage "Mount Fuji." Beyond the festival season, it draws many worshippers as a place that conveys the history of Fuji worship to the present day.
+
+The Oshi-machi district, the stage of the festival, is a street where the houses of the oshi (pilgrimage guides) who once welcomed the ascetics of the Fuji-ko faith once stood, and it retains a historic townscape that supported the faith in Mount Fuji. The surrounding area is dotted with sights such as the Mount Fuji Radar Dome Museum and shops serving Yoshida udon, a local specialty of Fujiyoshida, allowing visitors to enjoy the culture and cuisine of the foot of Mount Fuji along with viewing the fire festival.
+
+## Related Information
+
+- Location: Fujiyoshida, Yamanashi Prefecture (Kitaguchi Hongu Fuji Sengen Shrine, Suwa Shrine, and the Oshi-machi district)
+- Period: August 26 and 27 each year
+- Formal name: Chinkasai (fire-quelling festival)
+- Status: One of Japan''s Three Great Unusual Festivals and Ten Great Fire Festivals; a festival marking the end of the summer climbing season
+- Main highlights: About 80 large torches roughly 3 meters tall, two portable shrines (Omyojin-san and Oyama-san), the Susuki Festival
+- Cultural property designation: Designated an Important Intangible Folk Cultural Property of Japan on March 8, 2012
+','yoshida-no-himatsuri','yoshida-no-himatsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11425954','城下町新発田ふるさとまつり',NULL,NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',38.002293,139.37245,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9F%8E%E4%B8%8B%E7%94%BA%E6%96%B0%E7%99%BA%E7%94%B0%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11416021','向田の火祭り','Kōda no Himatsuri','石川県七尾市の伊夜比咩神社の火祭り',NULL,'Q11612025','能登島','Notojima','石川県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%90%91%E7%94%B0%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11412652','吉備津彦神社の御田植祭',NULL,NULL,NULL,'Q500763','吉備津彦神社','Kibitsuhiko Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%90%89%E5%82%99%E6%B4%A5%E5%BD%A6%E7%A5%9E%E7%A4%BE%E3%81%AE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
