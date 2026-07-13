@@ -253,43 +253,109 @@ Kanda Matsuri is counted, together with the Sanno Festival and the Fukagawa Fest
 - Deities: Onamuchi-no-Mikoto, Sukunahikona-no-Mikoto, Taira no Masakado
 - Founding: traditionally 730; a history of about 1,300 years
 - Status: general guardian shrine of Edo; shogunate-sanctioned Tenka Matsuri; one of the three great festivals of Edo','kanda-matsuri','kanda-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q114712','長崎くんち','Nagasaki Kunchi','長崎市のお祭り','festival in Nagasaki, Japan','Q84028','鎮西大社諏訪神社','Suwa Shrine','長崎県','kyushu',32.754125,129.88211111,1634,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Jaodori%20of%20Nagasaki%20Kunchi.jpg','https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Nagasaki_Kunchi',95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q114712','長崎くんち','Nagasaki Kunchi','長崎市のお祭り','festival in Nagasaki, Japan','Q84028','鎮西大社諏訪神社','Suwa Shrine','長崎県','kyushu',32.754125,129.88211111,1634,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Jaodori%20of%20Nagasaki%20Kunchi.jpg','https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1','https://en.wikipedia.org/wiki/Nagasaki_Kunchi',95,'drafted','## 概要
 
-長崎くんち（ながさきくんち）は、長崎県長崎市の鎮西大社諏訪神社で毎年10月7日から9日にかけて執り行われる、諏訪神社の例大祭である。「長崎くんちの奉納踊」として国の重要無形民俗文化財に指定されており、博多おくんち（福岡県）、唐津くんち（佐賀県）と並ぶ「日本三大くんち」のひとつに数えられる。異国情緒あふれる「龍踊（じゃおどり）」「コッコデショ」「川船」など、長崎の国際性を象徴する奉納踊が最大の見どころである。
+長崎くんちは、長崎の氏神である諏訪神社（すわじんじゃ）の秋季大祭で、毎年10月7日から9日までの3日間、長崎の町を挙げて催されます。博多くんち、唐津くんちと並んで「日本三大くんち」の一つに数えられ、約370年の歴史を持つ長崎最大の祭りです。国の重要無形民俗文化財に指定されており、異国情緒あふれる豪華絢爛な奉納踊で全国に知られています。
 
-## 歴史
+祭りの中心となるのは、各踊町（おどりちょう）が諏訪神社の神前に奉納する「奉納踊」です。龍踊（じゃおどり）や鯨の潮吹き、コッコデショといった多彩な演し物（だしもの）が披露され、鎖国下でも海外に開かれていた長崎ならではの中国・オランダ趣味が色濃く反映されています。会場は諏訪神社、中央公園、お旅所、八坂神社などで、期間中は市内が祭り一色に染まります。
 
-起源は1634年（寛永11年）、長崎奉行が諏訪神社の遷宮を機に町衆に奉納踊を命じたことに始まる。当時の長崎は鎖国下にあってオランダ・中国との貿易の窓口であり、外国文化が町人文化に深く浸透していた。その結果、龍踊や蛇踊といった中国由来の演目、オランダ船を模した「オランダ船」などの異国情緒豊かな出し物が生まれ、約400年の歴史を通じて受け継がれてきた。1979年（昭和54年）、奉納踊が国の重要無形民俗文化財に指定された。
+## 歴史・由来
+
+長崎くんちの始まりは、寛永11年（1634年）にさかのぼります。当時の太夫町（後に丸山町と寄合町に分かれる）の二人の遊女、高尾と音羽の両人が、諏訪神社の神前に謡曲「小舞（こまい）」を奉納したことが起源と伝えられています。この1634年は、長崎で人工島「出島」の埋築が着工され、名橋「眼鏡橋」が架けられた年でもあり、長崎の町が国際貿易港として大きく発展していく時期と重なっています。
+
+その後、長崎くんちは長崎奉行の援助もあって年々盛んになっていきました。奉納踊には中国やオランダといった異国趣味のものが多く取り入れられ、江戸時代の頃から豪華絢爛な祭礼として全国に評判が広まったといわれています。鎖国下にあって唯一海外との窓口であった長崎の特性が、他の祭りには見られない国際色豊かな演し物を育んだのです。
+
+「くんち」という名の由来については、旧暦の9月9日を重陽（ちょうよう）の良き日として祝う中国の風習が伝わり、9日（くにち）を「くんち」と読んで祭礼日の意味としたとする説が一般的です。中国文化の影響が祭りの名称そのものにも刻まれている点は、長崎くんちの成り立ちを象徴しています。
+
+現在、奉納踊を出す踊町は長崎市内に全部で58ヵ町あり、これらが7つの組に区分されています。各踊町が奉納踊を出す当番は7年に一度回ってくる仕組みで、7年に一度の晴れ舞台に向けて各町が長い準備を重ねます。この輪番の仕組みが、演し物の技と伝統を絶やすことなく次世代へ受け継ぐ役割を果たしてきました。演し物である龍踊、鯨の潮吹き、コッコデショなどは、国の重要無形民俗文化財に指定されています。
 
 ## 見どころ
 
-最大の見どころは、町ごとに7年に1度の輪番制で奉納される独特の演目群である。中国の影響を受けた「龍踊」（じゃおどり）は、長さ約20メートルの龍が大太鼓と銅鑼の轟音とともに乱舞する壮観な演目。「コッコデショ」（樺島町）は、約1トンの太鼓山を36人の男衆が空高く投げ上げる迫力ある奉納で、観衆から「モッテコーイ」（アンコール）の声がかかる。「川船」「鯨の潮吹き」「阿蘭陀万歳」など長崎ならではの演目が次々と披露される。会場は諏訪神社境内、八坂神社、お旅所、公会堂前広場など複数。
+**勇壮華麗な龍踊（じゃおどり）**　長崎くんちを代表する演し物が龍踊です。中国から伝わった龍踊りをもとにしたもので、長い胴体を持つ龍を大勢の担ぎ手が操り、玉を追って渦を巻くように舞います。銅鑼（どら）や太鼓の激しい囃子に合わせて龍がうねる様子は迫力満点で、長崎の中国文化との深いつながりを体現する演目です。
 
-## 開催情報
+**多彩な演し物の競演**　龍踊のほかにも、鯨が豪快に潮を吹く仕掛けを見せる「鯨の潮吹き」、大勢で担いだ山車を勢いよく放り上げる「コッコデショ」、船を模した曳き物の「川船」など、各踊町が趣向を凝らした演し物を奉納します。オランダ船や唐人船を思わせる曳き物もあり、異国情緒あふれる多彩さが長崎くんちならではの魅力です。
 
-開催地は長崎県長崎市上西山町の鎮西大社諏訪神社ほか市内複数会場。最寄駅は長崎電気軌道「諏訪神社駅」徒歩約3分。開催期間は毎年10月7日（前日）・8日（中日）・9日（後日）の3日間。諏訪神社境内の桟敷席は事前抽選制で有料、お旅所・八坂神社の観覧スペースは一部無料。海外からの観光客も多く、3日間で延べ約60万人が来訪する。
+**「モッテコーイ」の掛け声**　奉納踊が終わると、観客から「モッテコーイ、モッテコイ」というアンコールの掛け声がかかります。これに応えて演者が再び演し物を披露するのが長崎くんちの名物で、観客と演者が一体となって祭りを盛り上げます。独特の掛け声を覚えて参加すれば、祭りの熱気をより深く味わえます。
 
-## 周辺の見どころ
+**無料で楽しめる「庭先回り」**　奉納踊を出す踊町は、諏訪神社などでの奉納のほか、市内の官公庁や商店、事業所などを回って演し物を披露する「庭先回り」を行います。これは無料で観覧でき、町なかの思わぬ場所で龍踊や曳き物に出会える楽しみがあります。祭りの熱気が市内全体に広がる長崎くんちならではの光景です。
 
-長崎市は世界遺産「長崎と天草地方の潜伏キリシタン関連遺産」の中核地として知られ、大浦天主堂・グラバー園・出島など歴史観光地が市内に集積している。原爆資料館・平和公園では戦争と平和について学べる。長崎中華街では本場の中国料理、稲佐山展望台からは世界新三大夜景に選ばれた市街地夜景が一望できる。祭礼期間中はホテルが早期満室になるため数ヶ月前からの予約が推奨される。','## Overview
+**前夜の「庭見せ」**　本番に先立ち、踊町では曳き物や衣装、飾りなどを一般に披露する「庭見せ」が行われます。夕方から町なかに飾り付けられた豪華な衣装や道具を間近に見ることができ、翌日からの奉納踊への期待が高まります。祭りの舞台裏の華やかさにふれられる貴重な機会です。
 
-Nagasaki Kunchi (長崎くんち) is the grand annual festival of Chinzei Taisha Suwa Shrine, held every year from October 7 to 9 in Nagasaki City, Nagasaki Prefecture. Designated as an Important Intangible Folk Cultural Property of Japan, it ranks alongside Hakata Okunchi (Fukuoka) and Karatsu Kunchi (Saga) as one of Japan''s three great Kunchi festivals. The festival is celebrated for its strikingly cosmopolitan dedicatory performances — including the Dragon Dance (Ja-odori), Kokkodesho, and Kawafune (river boat) — that reflect Nagasaki''s unique heritage as Japan''s historical gateway to the world.
+## 開催情報・アクセス
 
-## History
+長崎くんちは毎年10月7日・8日・9日の3日間、同じ日程で開催されます。主な会場は諏訪神社、中央公園、お旅所、八坂神社で、奉納踊の披露時刻や踊場ごとの観覧方法は年によって異なります。中央公園などの踊場では観覧券が必要ですが、庭先回りは無料で楽しむことができます。
 
-The festival''s origins trace back to 1634 (Kan''ei 11), when the Nagasaki magistrate commanded the city''s townspeople to perform dedicatory dances at the relocation ceremony of Suwa Shrine. At that time, Nagasaki was Japan''s sole window onto the outside world during the period of national seclusion, with trade conducted only with the Dutch and Chinese, and foreign culture permeated the city''s townspeople culture deeply. This produced uniquely international performances — the Dragon Dance derived from Chinese traditions, the "Dutch Ship" floats modeled after Dutch trading vessels, and many others — which have been passed down through approximately 400 years of history. In 1979, the dedicatory performances were designated as an Important Intangible Folk Cultural Property of Japan.
+奉納踊の披露時刻や観覧券の販売、庭先回りのスケジュールなどの詳細は年によって変わるため、来場前には長崎伝統芸能振興会や長崎くんちの公式発表を必ず確認してください。会場の諏訪神社へは、長崎電気軌道（路面電車）の諏訪神社停留場が最寄りで、JR長崎駅からも路面電車でアクセスできます。祭り期間中は大変な混雑となるため、公共交通機関の利用が推奨されます。
+
+## 周辺情報
+
+会場の諏訪神社は「鎮西大社（ちんぜいたいしゃ）」とも呼ばれる長崎の総氏神で、長い石段の参道と高台からの眺めで知られています。長崎の市街地は坂の町として名高く、諏訪神社の周辺にも歴史ある寺社や風情ある坂道が点在しています。祭りの起源とも縁の深い眼鏡橋は、日本最古のアーチ石橋の一つとして市内中心部に架かり、あわせて訪ねる人が多くいます。
+
+長崎は鎖国時代に唯一海外へ開かれた港町として、和・華・蘭（日本・中国・オランダ）が融合した独特の文化を育んできました。出島やグラバー園、唐人屋敷跡、大浦天主堂など、国際交流の歴史を伝える名所が数多くあります。長崎くんちの異国情緒あふれる演し物も、こうした長崎の歴史的背景があってこそ生まれたものです。
+
+食では、卓袱（しっぽく）料理や中華の影響を受けたちゃんぽん・皿うどん、カステラなど、長崎ならではの味覚が楽しめます。祭りの時期には秋の風情とともに、こうした国際色豊かな食文化も長崎観光の魅力となっています。
+
+## 関連情報
+
+- 正式名称：諏訪神社秋季大祭（通称・長崎くんち）
+- 開催地：長崎県長崎市（諏訪神社・中央公園・お旅所・八坂神社）
+- 開催日：毎年10月7日〜9日（毎年同日開催）
+- 位置づけ：日本三大くんちの一つ（博多くんち・唐津くんちとともに）／国指定重要無形民俗文化財
+- 起源：寛永11年（1634年）、遊女による謡曲「小舞」の奉納
+- 踊町：市内58ヵ町を7組に区分、奉納の当番は7年に一度
+- 主な演し物：龍踊・鯨の潮吹き・コッコデショ・川船など
+','## Overview
+
+Nagasaki Kunchi is the autumn grand festival of Suwa Shrine, the tutelary shrine of Nagasaki. Held over three days from October 7 to 9 every year, the entire town takes part. Counted alongside Hakata Kunchi and Karatsu Kunchi as one of the Three Great Kunchi of Japan, it is Nagasaki''s largest festival, with a history of roughly 370 years. Designated a National Important Intangible Folk Cultural Property, it is known throughout the country for its gorgeous dedicatory dances full of exotic flavor.
+
+At the heart of the festival are the dedicatory dances that each odori-cho, or dancing town, offers before the deity of Suwa Shrine. A rich variety of performances, called dashimono, are presented, including the Ja-odori dragon dance, the spouting whale, and Kokkodesho, strongly reflecting the Chinese and Dutch tastes unique to Nagasaki, which remained open to the outside world even under national isolation. The venues include Suwa Shrine, Central Park, the Otabisho, and Yasaka Shrine, and during the festival the whole city is caught up in the celebration.
+
+## History and Origins
+
+The beginning of Nagasaki Kunchi dates back to the eleventh year of the Kanei era (1634). It is said to have originated when two courtesans of the then Tayu-machi (later divided into Maruyama-machi and Yoriai-machi), named Takao and Otowa, dedicated the Noh chant Komai before the deity of Suwa Shrine. This year, 1634, was also when construction of the artificial island of Dejima began in Nagasaki and the famous Meganebashi bridge was built, coinciding with a period when the town of Nagasaki was developing greatly as an international trading port.
+
+Thereafter, Nagasaki Kunchi grew more splendid year by year, aided by the support of the Nagasaki magistrate. Many performances with exotic Chinese and Dutch tastes were incorporated into the dedicatory dances, and from the Edo period the festival is said to have won nationwide fame as a gorgeous rite. The character of Nagasaki as the sole window to the outside world under national isolation nurtured performances of an international richness not seen in other festivals.
+
+As for the origin of the name Kunchi, the common view is that a Chinese custom of celebrating the ninth day of the ninth month of the old calendar as the auspicious Choyo festival was transmitted, and the ninth day, kunichi, came to be read kunchi and to mean the festival day. That the influence of Chinese culture is inscribed in the very name of the festival symbolizes the origins of Nagasaki Kunchi.
+
+Today there are 58 dancing towns throughout Nagasaki City that present dedicatory dances, and these are divided into seven groups. The turn for each dancing town to present its dance comes once every seven years, and each town spends a long time preparing for its moment in the spotlight, which comes only once in seven years. This rotation system has served to hand down the skills and traditions of the performances to the next generation without letting them die out. Performances such as the dragon dance, the spouting whale, and Kokkodesho are designated National Important Intangible Folk Cultural Properties.
 
 ## Highlights
 
-The festival''s central attraction is the rotating roster of distinctive performances dedicated by each neighborhood on a seven-year cycle. The Chinese-influenced Dragon Dance (Ja-odori) features a 20-meter-long dragon swirling in dynamic patterns to the thunderous beat of large drums and gongs. Kokkodesho, performed by the Kabashima district, involves 36 men hurling a one-ton drum platform high into the air to thrilling effect — drawing shouts of "Mottekoi!" ("Bring it back!") from the crowd, the local equivalent of an encore call. Other distinctively Nagasaki performances include Kawafune (River Boat), Kujira no Shiofuki (Whale''s Water Spout), and Oranda Manzai (Dutch Comic Dialogue), unfolding one after another. Venues include the precincts of Suwa Shrine, Yasaka Shrine, the Otabisho, and the plaza in front of the Public Hall.
+**The valiant and splendid Ja-odori dragon dance**　The performance that best represents Nagasaki Kunchi is the Ja-odori. Based on a dragon dance transmitted from China, many bearers manipulate a dragon with a long body, making it dance in swirling coils as it chases a ball. The sight of the dragon undulating in time with the fierce accompaniment of gongs and drums is full of power, embodying Nagasaki''s deep connection with Chinese culture.
 
-## Event Information
+**A competition of varied performances**　Besides the dragon dance, each dancing town dedicates performances of great ingenuity, such as the spouting whale, which shows a device of a whale grandly blowing water, Kokkodesho, in which a float carried by many people is vigorously tossed up, and the kawabune, a pulled float shaped like a boat. There are also pulled floats evoking Dutch ships and Chinese ships, and this exotic variety is a charm unique to Nagasaki Kunchi.
 
-The main venue is Chinzei Taisha Suwa Shrine in Kami-Nishiyama, Nagasaki City, along with several other locations throughout the city. The nearest stop is Suwa Jinja Station on the Nagasaki Electric Tramway, about a 3-minute walk away. The festival is held annually on October 7 (eve), 8 (middle day), and 9 (final day). Reserved seating within the shrine grounds is by advance lottery and ticketed, while some viewing areas at the Otabisho and Yasaka Shrine are free. The festival attracts approximately 600,000 visitors over its three days, including many from overseas.
+**The call of Motte-koi**　When a dedicatory dance ends, the audience calls out for an encore with cries of Motte-koi, motte-koi. Responding to this, the performers present their dance once more, a specialty of Nagasaki Kunchi in which audience and performers together enliven the festival. Learning the distinctive calls and taking part lets one savor the festival''s excitement all the more deeply.
 
-## Nearby Attractions
+**The free-to-enjoy niwasaki-mawari**　In addition to dedicating dances at Suwa Shrine and elsewhere, the dancing towns perform niwasaki-mawari, visiting government offices, shops, and businesses around the city to present their performances. This can be viewed for free, with the pleasure of encountering the dragon dance and pulled floats in unexpected places around town. It is a scene unique to Nagasaki Kunchi, in which the festival''s excitement spreads throughout the whole city.
 
-Nagasaki City lies at the heart of the UNESCO World Heritage Site "Hidden Christian Sites in the Nagasaki Region," and the city is dense with historical attractions including Ōura Cathedral, Glover Garden, and Dejima (the former Dutch trading post). The Atomic Bomb Museum and Peace Park offer profound reflections on war and peace. Nagasaki Chinatown serves authentic Chinese cuisine, while Mount Inasa Observatory offers a sweeping view of the city — one of the world''s three new top night views. Hotel rooms book up months in advance for the festival period, so early reservations are strongly recommended.','nagasaki-kunchi','nagasaki-kunchi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The niwamise of the previous evening**　Ahead of the main event, the dancing towns hold niwamise, in which their pulled floats, costumes, and decorations are displayed to the public. From the evening, one can view up close the gorgeous costumes and equipment set out around town, heightening anticipation for the dedicatory dances of the following days. It is a precious opportunity to glimpse the splendor behind the scenes of the festival.
+
+## Event Information and Access
+
+Nagasaki Kunchi is held over three days on October 7, 8, and 9 every year, on the same dates each year. The main venues are Suwa Shrine, Central Park, the Otabisho, and Yasaka Shrine, and the times of the dedicatory dances and the viewing methods at each dancing ground vary by year. Viewing tickets are required at dancing grounds such as Central Park, but the niwasaki-mawari can be enjoyed for free.
+
+Because details such as the times of the dedicatory dances, ticket sales, and the niwasaki-mawari schedule vary from year to year, please be sure to check the announcements of the Nagasaki Traditional Performing Arts Promotion Association and of Nagasaki Kunchi before visiting. The nearest stop to Suwa Shrine is the Suwa Jinja stop of the Nagasaki Electric Tramway, which can also be reached by tram from JR Nagasaki Station. As the area becomes very crowded during the festival, use of public transportation is recommended.
+
+## Around the Area
+
+Suwa Shrine, the venue, is the general tutelary shrine of Nagasaki, also called Chinzei Taisha, known for its long stone-step approach and its views from the heights. The city of Nagasaki is famous as a town of slopes, and around Suwa Shrine are scattered historic temples and shrines and atmospheric sloping lanes. Meganebashi, deeply connected to the festival''s origins, spans the city center as one of Japan''s oldest arched stone bridges, and many people visit it as well.
+
+As the sole port town open to the outside world during the era of national isolation, Nagasaki nurtured a distinctive culture blending Japanese, Chinese, and Dutch elements. There are many sights conveying the history of international exchange, such as Dejima, Glover Garden, the ruins of the Chinese Quarter, and Oura Cathedral. The exotic performances of Nagasaki Kunchi were themselves born out of this historical background of Nagasaki.
+
+As for food, one can enjoy flavors unique to Nagasaki, such as shippoku cuisine, champon and sara-udon influenced by Chinese cooking, and castella. During the festival season, along with the atmosphere of autumn, this internationally rich food culture is also a charm of sightseeing in Nagasaki.
+
+## Related Information
+
+- Official name: Suwa Shrine Autumn Grand Festival (popularly, Nagasaki Kunchi)
+- Location: Nagasaki City, Nagasaki Prefecture (Suwa Shrine, Central Park, Otabisho, Yasaka Shrine)
+- Dates: October 7-9 every year (same dates each year)
+- Status: one of the Three Great Kunchi of Japan (with Hakata Kunchi and Karatsu Kunchi) / National Important Intangible Folk Cultural Property
+- Origin: 1634 (Kanei 11), the dedication of the Noh chant Komai by courtesans
+- Dancing towns: 58 towns in the city divided into seven groups, with the turn to dedicate coming once every seven years
+- Main performances: Ja-odori dragon dance, spouting whale, Kokkodesho, kawabune, and others
+','nagasaki-kunchi','nagasaki-kunchi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q210150','花見','hanami','主に桜の花を鑑賞し、春の訪れを寿ぐ風習','Japanese traditional custom of enjoying the transient beauty of flowers',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Castle%20Himeji%20sakura02.jpg','https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%A6%8B','https://en.wikipedia.org/wiki/Hanami',85,'drafted','花見（はなみ）は、主に桜の花を鑑賞し、春の訪れを寿(ことほ)ぐ日本の伝統的な風習である。満開の桜の木の下で、家族や友人、職場の仲間が集い、飲食を楽しみながら花を愛でるこの習わしは、全国津々浦々で広く親しまれ、日本人にとって春を象徴する最も身近な年中行事となっている。
 
 花見の歴史は古く、奈良時代には中国から伝わった梅の花を観賞する貴族の風習があったとされる。やがて平安時代になると、観賞の対象は梅から桜へと移り変わった。『源氏物語』にも花見の宴の様子が描かれ、桜は日本の美意識の中心的な存在となっていく。安土桃山時代には豊臣秀吉が「醍醐の花見」という壮大な宴を催したことでも知られ、江戸時代には庶民の間にも花見が広く定着した。
