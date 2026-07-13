@@ -4705,43 +4705,99 @@ Inari worship spread throughout the country as faith in a deity of prosperous bu
 INSERT INTO "festivals" VALUES('Q11246063','Shintoku空想の森映画祭','Shintoku Fantasy Forest Film Festival','北海道上川郡新得町で主に9月に行われている映画祭',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/Shintoku%E7%A9%BA%E6%83%B3%E3%81%AE%E6%A3%AE%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5860973','福岡国際映画祭','Fukuoka International Film Festival',NULL,'film festival','Q26600','福岡市','Fukuoka','福岡県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q10855476','京都三大祭り','Three Great Festivals of Kyoto','京都府京都市内で行われる3つの祭り',NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E4%B8%89%E5%A4%A7%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6663968','足立の花火','Adachi Fireworks','毎年7月に日本の東京都足立区で開催される花火大会',NULL,NULL,NULL,NULL,'東京都','kanto',35.75869444,139.79783333,1924,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B6%B3%E7%AB%8B%E3%81%AE%E8%8A%B1%E7%81%AB2016%E5%B9%B4.jpg','https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E3%81%AE%E8%8A%B1%E7%81%AB',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q6663968','足立の花火','Adachi Fireworks','毎年7月に日本の東京都足立区で開催される花火大会',NULL,NULL,NULL,NULL,'東京都','kanto',35.75869444,139.79783333,1924,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B6%B3%E7%AB%8B%E3%81%AE%E8%8A%B1%E7%81%AB2016%E5%B9%B4.jpg','https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E3%81%AE%E8%8A%B1%E7%81%AB',NULL,95,'drafted','## 概要
 
-足立の花火（あだちのはなび）は、東京都足立区の荒川河川敷で毎年7月下旬に開催される、東京都内で最も早い時期に行われる大規模花火大会のひとつである。約1万3,500発の花火が打ち上げられ、約60万人の観客を集める下町の夏の風物詩として親しまれている。
+足立の花火（あだちのはなび）は、東京都足立区の荒川河川敷を会場として開催される花火大会である。1時間に約13,000発もの花火を打ち上げる「高密度花火」を最大の特徴とし、短時間に途切れなく夜空を彩る迫力で、毎年数十万人規模の観衆を集める東京有数の花火大会として知られる。
 
-## 歴史
+前身である「千住の花火大会」の時代から数えれば、地域の夏の風物詩として長く親しまれてきた歴史を持つ。近年は熱中症や天候への対策から開催時期が見直され、東京で開かれる大規模花火の先陣を切る大会として位置づけられている。荒川の広々とした河川敷から間近に見上げる花火は、都会にありながら開放感あふれる観覧体験を生み出している。
 
-足立の花火は1924年（大正13年）、足立区西新井大師の千部会奉納花火として始まったとされ、約100年の歴史を持つ。第二次世界大戦中の中断と戦後復興を経て、1979年（昭和54年）に「足立の花火」として現在の形に再編され、足立区観光交流協会と足立区が主催する都内有数の花火大会として発展した。荒川河川敷という広大な打上げ会場を活かし、東京都心では他に類を見ないスケールと観覧の自由度で人気を集める。7月下旬という早い開催時期から、東京の夏祭りシーズンの幕開けを告げる花火大会としても知られる。
+## 歴史・由来
+
+足立の花火の起源は明治時代にさかのぼるとされる。千住大橋が二重の太鼓橋の様式で木橋として再架橋されたことを祝い、花火を打ち上げたのが最初と言い伝えられているが、この時の記録は残っていない。文献に残る最も古い記録は、日露戦争の凱旋を祝って花火を打ち上げたものであり、この地と花火の結びつきが古くからのものであったことがうかがえる。
+
+本格的な花火大会としてのはじまりは、1924年（大正13年）8月13日に開催された「千住新橋開通記念花火大会」である。翌年からは「千住の花火大会」として毎年催され、隅田川の「両国の花火」と同様に、夏の風物詩として多くの庶民に親しまれるようになった。地域に根ざした行事として定着していったこの大会が、現在の足立の花火の直接の源流である。
+
+しかし、この千住の花火大会は時代の波に翻弄される。第二次世界大戦の影響で1939年（昭和14年）にいったん中断し、終戦後の1949年（昭和24年）に再開されたものの、1959年（昭和34年）に台風の影響で中止となり、翌年以降は河川敷の改修工事にともなって幕を閉じることとなった。長く親しまれた花火大会の休止は、地域の人々に大きな喪失感を残した。
+
+転機となったのは1970年代である。区民から花火大会の復活を望む声が数多く寄せられ、1978年（昭和53年）の足立区民納涼大会で約800発の花火を打ち上げたところ大好評を博した。これを受けて翌1979年（昭和54年）8月11日、「足立の花火大会」と名を改めて復活を果たす。前身の終了から20年後のことであり、この年は3,700発が打ち上げられ、復活を待ちわびた多くの観衆を魅了した。第30回（2008年）からは正式名称が「足立の花火」となり、今日まで受け継がれている。
 
 ## 見どころ
 
-約1時間で1万3,500発を打ち上げる凝縮されたプログラム構成が特徴で、スターマイン、特大スターマイン、メッセージ花火、フィナーレの大スターマインなど多彩な演出が次々と展開される。荒川河川敷の広い空に大輪の花火が低く大きく開く光景は迫力満点で、河川敷の芝生から無料で観覧できる解放感も魅力。夜空に花火が映える中、千住の町並みのシルエットが浮かび上がる景観は下町情緒たっぷり。
+**1時間に約13,000発の高密度花火** 足立の花火最大の特徴は、約1時間という短い時間に約13,000発もの花火を集中して打ち上げる「高密度花火」である。次々と間断なく打ち上がる花火が夜空を埋め尽くす様子は圧巻で、始まりから終わりまで息つく間もない濃密な時間が続く。この凝縮された演出こそ、この大会が多くのファンを惹きつける理由である。
+
+**名物のWナイアガラ** 大会の伝統として知られるのが、川面に沿って光の滝を描くナイアガラ花火である。2018年の第40回記念大会では、これを二重にした「Wナイアガラ」が初めて登場し、荒川を舞台にした壮大なスケールで観客を沸かせた。地域の歴史を見守ってきた川を光で彩るこの仕掛け花火は、足立ならではの名物となっている。
+
+**音楽・レーザーとの融合演出** 近年はプロデュースにエンターテインメント企業が加わり、音楽やレーザーを組み合わせた演出が取り入れられている。花火と光と音が一体となったダイナミックな夜空は、伝統的な花火大会の枠を超えた新しい魅力を生み出しており、幅広い世代の観客を楽しませている。
+
+**荒川河川敷からの開放的な観覧** 打ち上げ場所のすぐそばに広がる荒川河川敷から観賞できるため、目の前いっぱいに広がる花火を間近で堪能できる。広大な河川敷は視界を遮るものが少なく、都会の大規模花火でありながら、ゆったりと空を見上げられる開放感が大きな魅力となっている。
 
 ## 開催情報・アクセス
 
-会場は東京都足立区千住・西新井・梅島周辺の荒川河川敷（千住側および小台側の両岸）。東武スカイツリーライン梅島駅・五反野駅、京成本線関屋駅、JR常磐線・東京メトロ千代田線北千住駅などから徒歩15-25分。観覧は無料（一部有料席あり）。例年7月下旬の特定の土曜日に開催。
+足立の花火は、長年7月下旬の開催が定番であったが、近年は熱中症や天候への対策として開催時期が見直されている。2026年の第48回大会は5月30日（土曜日）の午後7時20分開演、打ち上げ数は約13,000発で、荒天の場合は中止・順延なしとされた。かつては夏に行われる東京の大規模花火の先陣を切る存在として知られてきた。
 
-## 周辺観光
+会場は東京都足立区の荒川河川敷で、西新井橋から東京メトロ千代田線の鉄橋にかけての区間が中心となり、花火は千住側から打ち上げられる。観覧は荒川の北岸または南岸が主で、無料で入場できるほか有料指定席も設けられる。アクセスはJR・東武・東京メトロ・つくばエクスプレスが乗り入れる北千住駅から徒歩約15分など複数の駅が利用でき、当日は会場周辺で交通規制が実施される。
 
-足立区一帯は北千住の昭和レトロな商店街、西新井大師（厄除けで全国的に有名）、舎人公園、東京武道館などの観光資源が点在する。北千住駅周辺は近年若者にも人気の街となり、新旧の文化が交差する魅力的なエリア。荒川を挟んで葛飾区側には柴又帝釈天・寅さん記念館、墨田区側には東京スカイツリー・浅草寺など、東京下町観光の名所が近接する。','## Overview
+## 周辺情報
 
-Adachi no Hanabi (Adachi Fireworks Festival) is a large-scale fireworks display held annually in late July along the Arakawa Riverbed in Adachi Ward, Tokyo, ranking among the earliest major fireworks events of the Tokyo summer season. With approximately 13,500 fireworks launched and 600,000 spectators attending, it has become a cherished summer tradition of Tokyo''s old downtown district.
+会場の最寄りとなる北千住は、複数の路線が交わる交通の要衝であると同時に、下町情緒あふれる商店街や飲食店が集まる活気ある街である。花火の前後には、宿場町として栄えた歴史を持つ千住宿の名残をとどめる街並みを散策したり、地元で親しまれる店で食事を楽しんだりすることができる。
 
-## History
+足立区は上野や浅草といった東京の主要な観光エリアにも比較的近く、花火大会と合わせて都内の名所巡りを楽しむこともできる。荒川の河川敷は花火の時期以外にもジョギングやサイクリングなど市民の憩いの場として親しまれており、四季を通じて水辺の景観を楽しめる開放的な空間となっている。
 
-Adachi no Hanabi traces its origins to 1924 (Taishō 13) as a dedicatory fireworks display for the Senbu-e ceremony at Nishiarai Daishi Temple in Adachi Ward, giving it approximately 100 years of history. After interruption during World War II and postwar recovery, the festival was reorganized into its current form as "Adachi no Hanabi" in 1979 (Shōwa 54), developing as one of Tokyo''s leading fireworks displays under the joint hosting of the Adachi City Tourism Exchange Association and the ward government. Taking advantage of the expansive launching venue along the Arakawa Riverbed, the festival attracts large crowds with a scale and freedom of viewing unmatched elsewhere in central Tokyo. Its early late-July timing has also earned it recognition as the fireworks display heralding the opening of Tokyo''s summer festival season.
+## 関連情報
+
+- 開催地: 東京都足立区 荒川河川敷（西新井橋〜東京メトロ千代田線鉄橋間）
+- 開催時期: 近年は5月下旬（2026年第48回は5月30日）。従来は7月下旬に開催
+- 打ち上げ数: 約13,000発（1時間に集中して打ち上げる高密度花火）
+- 前身: 千住の花火大会（1924年〜、戦時中断を経て1959年に終了）
+- 現在の大会の復活: 1979年（昭和54年）、第30回〔2008年〕から正式名称「足立の花火」
+- 主な見どころ: 高密度花火、名物Wナイアガラ、音楽・レーザー演出
+','## Overview
+
+Adachi no Hanabi (the Adachi Fireworks Festival) is a fireworks display held along the banks of the Arakawa River in Adachi Ward, Tokyo. Its greatest feature is "high-density fireworks," launching roughly 13,000 shells in about one hour, and its power to fill the night sky without pause in a short span draws crowds of several hundred thousand people each year, making it one of Tokyo''s leading fireworks festivals.
+
+Counting from the era of its predecessor, the "Senju Fireworks Festival," it has a long history of being cherished as a summer tradition of the district. In recent years the timing has been reviewed as a countermeasure against heatstroke and weather, and it is positioned as the festival that leads the way among the large-scale fireworks displays held in Tokyo. Viewed up close from the spacious banks of the Arakawa, the fireworks create a viewing experience full of openness despite being in the heart of the city.
+
+## History and Origin
+
+The origins of Adachi no Hanabi are said to date back to the Meiji era. It is handed down that fireworks were first launched to celebrate the rebuilding of the Senju Ohashi Bridge as a wooden bridge in the style of a double drum-bridge, but no record of that occasion remains. The oldest record found in documents is of fireworks launched to celebrate the triumphant return from the Russo-Japanese War, suggesting that the connection between this area and fireworks goes back a long way.
+
+The beginning as a full-fledged fireworks festival was the "Senju Shinbashi Bridge Opening Commemoration Fireworks Festival," held on August 13, 1924. From the following year it was held annually as the "Senju Fireworks Festival," and like the "Ryogoku Fireworks" on the Sumida River, it came to be cherished by many ordinary people as a summer tradition. This festival, which took root in the community, is the direct source of the present-day Adachi no Hanabi.
+
+However, the Senju Fireworks Festival was tossed about by the waves of the times. It was temporarily suspended in 1939 due to the Second World War, and although it resumed in 1949 after the war, it was cancelled in 1959 due to a typhoon, and from the following year it came to a close along with the renovation work on the riverbanks. The suspension of the long-cherished fireworks festival left a great sense of loss among the people of the district.
+
+The turning point came in the 1970s. Many voices from ward residents calling for the revival of the fireworks festival were sent to the ward, and when about 800 fireworks were launched at the 1978 Adachi Ward Summer Evening Festival, it was very well received. In response, on August 11, 1979, it was revived under the new name "Adachi Fireworks Festival." This was 20 years after the end of its predecessor, and that year 3,700 shells were launched, captivating the many spectators who had longed for its revival. From the 30th festival in 2008, the official name became "Adachi no Hanabi," and it has been carried on to this day.
 
 ## Highlights
 
-The festival''s distinctive feature is its condensed program structure, launching 13,500 fireworks in approximately one hour through diverse productions including star mines, oversized star mines, message fireworks, and the grand finale star mine in rapid succession. The sight of large fireworks blooming low and broad across the wide skies above the Arakawa Riverbed delivers tremendous visual impact, and the open atmosphere of free viewing from the riverbed grass adds to its appeal. As the fireworks paint the night sky, the silhouette of the Senju townscape emerges below, creating a scene rich with downtown Tokyo''s nostalgic atmosphere.
+**High-Density Fireworks, About 13,000 Shells in One Hour** The greatest feature of Adachi no Hanabi is its "high-density fireworks," concentrating the launch of about 13,000 shells within the short span of roughly one hour. The way the fireworks fill the night sky one after another without pause is spectacular, and a dense stretch of time continues from beginning to end without a moment to catch one''s breath. This concentrated presentation is precisely why the festival attracts so many fans.
 
-## Event Details and Access
+**The Signature W Niagara** Known as a tradition of the festival is the Niagara fireworks, which draw a waterfall of light along the surface of the river. At the 40th anniversary festival in 2018, the "W Niagara," which doubled this effect, appeared for the first time, thrilling spectators with a grand scale set against the Arakawa River. This set-piece firework, which colors with light the river that has watched over the district''s history, has become a signature unique to Adachi.
 
-The venue is the Arakawa Riverbed in the Senju, Nishiarai, and Umejima areas of Adachi Ward, Tokyo (both the Senju side and the Odai side). Access is 15-25 minutes on foot from Umejima Station and Gotanno Station on the Tobu Skytree Line, Sekiya Station on the Keisei Main Line, or Kita-Senju Station on the JR Jōban Line and Tokyo Metro Chiyoda Line. Viewing is free (with some reserved paid seating available). The festival is typically held on a specific Saturday in late July.
+**Fusion with Music and Lasers** In recent years, an entertainment company has joined the production, and presentations combining music and lasers have been incorporated. The dynamic night sky in which fireworks, light, and sound become one creates a new appeal that transcends the framework of a traditional fireworks festival, delighting spectators of a wide range of generations.
 
-## Surrounding Attractions
+**Open Viewing from the Arakawa Riverbanks** Because the display can be viewed from the banks of the Arakawa River, which spread out right beside the launch site, spectators can enjoy the fireworks up close as they fill the space right before their eyes. With few obstructions on the vast riverbanks, it offers the great appeal of being able to gaze leisurely up at the sky even at a large-scale urban fireworks display.
 
-The Adachi Ward area features tourist attractions including the Showa-retro shopping streets of Kita-Senju, Nishiarai Daishi Temple (nationally famous for its protection against evil), Toneri Park, and the Tokyo Budōkan martial arts hall. The Kita-Senju Station area has become a popular district among young people in recent years, offering a charming blend of old and new cultural elements. Across the Arakawa River, Katsushika Ward features Shibamata Taishakuten Temple and the Tora-san Museum, while Sumida Ward offers Tokyo Skytree and Sensōji Temple, making the area highly accessible to Tokyo''s renowned downtown sightseeing destinations.','adachi-no-hanabi','adachi-no-hanabi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+Adachi no Hanabi was for many years customarily held in late July, but in recent years the timing has been reviewed as a countermeasure against heatstroke and weather. The 48th festival in 2026 opened at 7:20 p.m. on Saturday, May 30, with about 13,000 shells launched, and was set to be cancelled without postponement in the event of bad weather. It has long been known as the display that leads the way among the large-scale fireworks held in the Tokyo summer.
+
+The venue is the banks of the Arakawa River in Adachi Ward, Tokyo, centered on the section from the Nishiarai Bridge to the railway bridge of the Tokyo Metro Chiyoda Line, with fireworks launched from the Senju side. Viewing is mainly from the north or south bank of the Arakawa, with free admission as well as paid reserved seats. It can be accessed from several stations, including a roughly 15-minute walk from Kita-Senju Station, served by JR, Tobu, Tokyo Metro, and Tsukuba Express lines, and traffic restrictions are in place around the venue on the day.
+
+## Surrounding Information
+
+Kita-Senju, the nearest station to the venue, is a transportation hub where several lines intersect, and at the same time a lively town full of shitamachi (old downtown) atmosphere, gathering shopping streets and restaurants. Before or after the fireworks, visitors can stroll through streets that retain traces of the Senju-juku post town, which flourished as a way station, and enjoy a meal at shops beloved by locals.
+
+Adachi Ward is also relatively close to major Tokyo tourist areas such as Ueno and Asakusa, allowing visitors to enjoy touring the city''s famous sights together with the fireworks festival. The banks of the Arakawa are cherished as a place of relaxation for citizens, used for jogging and cycling outside the fireworks season as well, and form an open space where the waterside scenery can be enjoyed throughout the four seasons.
+
+## Related Information
+
+- Location: Banks of the Arakawa River, Adachi Ward, Tokyo (Nishiarai Bridge to the Tokyo Metro Chiyoda Line railway bridge)
+- Period: In recent years late May (48th festival in 2026 on May 30); formerly held in late July
+- Number of shells: About 13,000 (high-density fireworks launched intensively within one hour)
+- Predecessor: Senju Fireworks Festival (from 1924, ended in 1959 after a wartime suspension)
+- Revival of the current festival: 1979; official name "Adachi no Hanabi" from the 30th festival (2008)
+- Main highlights: High-density fireworks, the signature W Niagara, music and laser presentations
+','adachi-no-hanabi','adachi-no-hanabi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11248128','TAMA CINEMA FORUM','Tama Cinema Forum','多摩市で開催される日本の映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/TAMA_CINEMA_FORUM',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6518542','神宮外苑花火大会','Jingu Fireworks Festival','東京都の花火大会',NULL,'Q11512386','明治神宮外苑軟式グラウンド','Meiji Shrine Gaien Softball Ground','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Jingu%20Fireworks%2008-1.jpg','https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%AE%AE%E5%A4%96%E8%8B%91%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,85,'drafted','## 概要
 
