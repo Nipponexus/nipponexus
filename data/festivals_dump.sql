@@ -13445,41 +13445,119 @@ INSERT INTO "festivals" VALUES('Q60988115','くつっ子まつり','Kutsukko Mat
 INSERT INTO "festivals" VALUES('Q66633854','佐陀神能','Sada Shin Noh','島根県の祭り',NULL,'Q3461072','佐太神社','Sada Shrine','島根県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BD%90%E9%99%80%E7%A5%9E%E8%83%BD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q48743940','国府宮はだか祭り','Konomiya Hadaka Matsuri','稲沢市の伝統行事',NULL,'Q11465296','尾張大国霊神社','Owari Ōkunitama Shrine','愛知県','chubu',35.256111,136.805139,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kounomiya-hadakamaturi.jpg','https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E5%AE%AE%E3%81%AF%E3%81%A0%E3%81%8B%E7%A5%AD',NULL,95,'drafted','## 概要
 
-国府宮はだか祭り（こうのみやはだかまつり）は、愛知県稲沢市の尾張大国霊神社（おわりおおくにたまじんじゃ・通称「国府宮」）で毎年旧暦1月13日（現行暦の2月上旬から中旬）に開催される、約1,250年の歴史を持つ厄除け神事である。正式名称は「儺追神事（なおいしんじ）」で、神男（しんおとこ）と呼ばれる選ばれた男性に厄を移して払い清めるため、数千人の裸の男たちが「儺追笹」を奉納する勇壮な伝統祭礼である。
+国府宮はだか祭（こうのみやはだかまつり）は、愛知県稲沢市の尾張大國霊神社、通称「国府宮」で行われる神事で、正式名称を儺追神事（なおいしんじ）という。毎年旧暦正月十三日を中心に営まれ、サラシの褌に白足袋姿の数千人の裸男が境内で激しく揉み合う光景から「天下の奇祭」として全国に知られている。厄を負う神男に触れて災厄を落とそうとする裸男たちの熱気が、真冬の国府宮を湯煙とともに包み込む。
 
-## 歴史
+この神事は、悪疫退散と厄除けを祈願する信仰に根ざしたもので、尾張地方に春の訪れを告げる祭りとして長く親しまれてきた。裸男の揉み合いに加え、五十俵取り約四トンにも及ぶ巨大な大鏡餅の奉納や、罪穢れを託した神男を追い払う夜儺追神事など、独特の行事が連なる点にこの祭りの奥深さがある。単なる勇壮な裸祭りにとどまらず、古代以来の厄払いの神事が今日まで受け継がれている稀有な例である。
 
-国府宮はだか祭りの起源は奈良時代の神護景雲元年（767年）に遡るとされ、称徳天皇の勅命により全国の国分寺で厄除けの儺追神事が行われたことに始まる。尾張国では国府宮が国府の鎮守として神事を引き継ぎ、平安期以降は地域の伝統行事として継承された。江戸期には尾張藩の支援のもと現在のような大規模な「裸祭り」の形態が確立し、数千人の男衆が褌姿で集結する独特の様式が定着した。明治期以降も地域住民の信仰と熱意により継承され、1991年に愛知県の無形民俗文化財に指定された。
+## 歴史・由来
+
+国府宮はだか祭の起源は、今から約千二百五十年前、奈良時代の神護景雲元年（七六七年）にさかのぼると伝えられている。この年、称徳天皇の勅命によって全国の国分寺で悪疫退散の祈祷が行われた際、尾張国司が総社である尾張大國霊神社においても祈祷を行ったことが、この神事の始まりであるとされる。疫病を鎮め、人々の安寧を願うという祈りが、祭りの根底に一貫して流れている。
+
+もっとも、現在のように数千の裸男が揉み合う形態は、はるか後世に整えられたものである。近在に目立った節分行事がなかったこともあり、尾張地方に春を呼ぶ祭りとして定着したこの神事に、裸で寒参りをする風習が結びつき、今日のようなはだか祭の姿になったのは江戸時代末期のことと伝えられる。古代の厄除け神事と民間の寒参りの習俗が融合して、独特の祭礼へと発展した経緯がうかがえる。
+
+祭りの核心には「儺負捕り」と呼ばれる古い習わしがある。昔は、その年の恵方の方角に人を求めて男を捕らえ、災厄を一身に負う儺負人、すなわち神男に仕立てるということが行われていた。現在の裸男たちの揉み合いという形態は、この儺負捕りを受け継ぐものとされており、神男に触れて自らの厄を落とそうとする人々の行為のうちに、災厄を一人に背負わせて祓うという古来の発想が今も息づいている。
+
+こうした信仰と行事は時代を超えて受け継がれ、今日では稲沢市を代表する冬の一大神事となっている。近年では、かつて男だけのものであった行事の一部に女性が参加できるようになるなど、時代に応じた変化も見られる。古代の勅命に発する祈りが、姿を変えながらも千年以上にわたって連綿と続いてきたことに、この祭りの重みがある。
 
 ## 見どころ
 
-祭りの中心は午後3時頃から始まる「儺追神事」で、約9,000人もの裸の男たち（褌のみの姿）が尾張大国霊神社の参道や境内を埋め尽くす。神男に触れることで厄を移すことができるとされ、男衆は神男のもとへと殺到し、激しい揉み合いを繰り広げる。前日には「直会祭」、当日朝には「儺追笹奉納」、夜には「夜儺追神事」と神男の追放儀礼が行われ、3日間にわたって厳粛な神事と熱狂的な裸祭りが交錯する。冬の寒さの中、男たちの白い息と熱気が立ち上る光景は圧巻である。
+**裸男の揉み合い**　祭り最大の見どころは、旧暦正月十三日に繰り広げられる裸男たちの揉み合いである。四十二歳と二十五歳の厄年の男を中心に、尾張一円からサラシの褌に白足袋姿の数千人が集う。「ワッショイ」の掛け声とともに寒さを吹き飛ばす熱気が国府宮にはちきれ、真冬とは思えぬ人いきれが境内を満たす。この圧倒的な群衆の熱こそが、天下の奇祭と称される所以である。
+
+**神男への殺到**　揉み合いのクライマックスは、全身無垢の神男の登場である。小池正明寺地区の手桶隊が裸男たちめがけて水をかけ始めると、やがて警護に守られた神男がひそかに群れの中に現れる。その神男に触れて厄を落とそうと人々が殺到し、凄まじい揉み合いとなる。浴びせられる水は摩擦の熱でたちまち湯煙と化し、神男はその隙をついて儺追殿を目指す。この約六十分がこの奇祭の頂点となる。
+
+**大鏡餅の奉納**　祭り本番の前日には、尾張近郊の地区から五十俵取り、およそ四トンにも及ぶ巨大な大鏡餅が奉納される。高さ二メートル三十五センチ、直径二メートル四十センチという、楼門を通り拝殿に供えられる最大の大きさで、その搬入には大型クレーンも用いられる。明治初期に五、六俵ほどで始まったものが、奉納地の名誉をかけて次第に大きくなり、現在の壮大な姿に至ったと伝えられる。
+
+**大鏡餅の頒布**　巨大な大鏡餅は、祭り本番を終えた旧暦正月十四日の午前八時から切り分けられ、参拝者へ頒布される。この餅を食べると無病息災であるという言い伝えがあり、多くの人々が競って買い求める。勇壮な揉み合いとは対照的に、餅を分かち合うことで一年の健康を願うこの場面には、祭りに込められた素朴な祈りがよく表れている。
+
+**夜儺追神事**　旧暦正月十四日の未明に営まれる夜儺追神事は、儺追神事の本義を示す厳粛な行事である。罪や穢れを搗き込んだ土餅を神男に背負わせ、大鳴鈴を鳴らし桃や柳の礫を打ちつけながら追い立て、災厄を境外へと追い払う。昼の裸男の揉み合いが陽の熱気であるとすれば、闇の中で行われるこの神事は祭りの陰の核心であり、厄払いという祭り本来の意味がここに凝縮されている。
+
+**関連する諸神事**　祭りは一日で完結するものではなく、標柱建式や神男の選定式、大鏡餅の餅搗きなど、旧暦正月にわたる一連の神事から成り立っている。締めくくりには的射神事が営まれ、一連の儺追神事が幕を閉じる。こうした前後の神事を含めて全体を眺めることで、はだか祭が単発の裸祭りではなく、古式にのっとった総合的な神事であることが見えてくる。
 
 ## 開催情報・アクセス
 
-会場は尾張大国霊神社（愛知県稲沢市国府宮1-1-1）。名鉄名古屋本線国府宮駅から徒歩約3分。観覧は無料。日程は旧暦1月13日（毎年2月上旬から中旬の特定日）。参加には事前申込みと褌・地下足袋着用が必要。
+**名称**　国府宮はだか祭（正式名称・儺追神事）。
 
-## 周辺観光
+**開催地**　愛知県稲沢市。会場は尾張大國霊神社（国府宮）とその境内・参道一帯。
 
-稲沢市内には国府宮神社のほか、性海寺（あじさい寺として有名）、矢合観音、稲沢サボテンの里など地域観光資源が点在する。名古屋市中心部からも電車で約15分の好アクセスで、名古屋城・熱田神宮・徳川美術館・有松絞り、犬山城（国宝）など尾張地方の歴史観光と組み合わせた周遊が可能。','## Overview
+**開催日**　祭りの中心となる儺追神事（はだか祭）は毎年旧暦正月十三日に営まれ、翌旧暦正月十四日未明に夜儺追神事が行われる。旧暦を基準とするため西暦での日付は年によって変動し、おおむね冬から初春にかけての時期にあたる。標柱建式・神男選定式・大鏡餅の餅搗きなど関連行事は旧暦正月にわたって続く。最新の開催日程・実施可否は尾張大國霊神社の公式情報で確認することが望ましい。
 
-The Kōnomiya Naked Festival (Kōnomiya Hadaka Matsuri) is a 1,250-year-old purification ritual held annually on the 13th day of the first lunar month (early to mid-February in the modern calendar) at Owari Ōkunitama Shrine (commonly known as Kōnomiya) in Inazawa City, Aichi Prefecture. Officially named the "Naoi Shinji" (Evil-Chasing Ritual), the festival features thousands of nearly-naked men offering "Naoi-zasa" bamboo branches to transfer their misfortunes onto a specially chosen "Shin-otoko" (Sacred Man), creating one of Japan''s most dynamic and ancient traditional festivals.
+**大鏡餅の切り分け**　旧暦正月十四日の午前八時から大鏡餅が切り分けられ、頒布される。
 
-## History
+**アクセス**　名鉄名古屋本線の国府宮駅、またはJR東海道本線の稲沢駅などが最寄りで、境内へは徒歩圏内でアクセスできる。祭り当日は大変な混雑となるため、公共交通機関の利用と最新の交通情報の確認が推奨される。
 
-The origins of the Kōnomiya Naked Festival trace back to 767 (Jingo-keiun 1) during the Nara period, when Empress Shōtoku issued an imperial edict ordering Naoi purification rituals at all provincial temples across the country. In Owari Province, Kōnomiya inherited these rituals as the guardian shrine of the provincial government, and from the Heian period onward, the festival was preserved as a traditional regional event. During the Edo period, with the support of the Owari Domain, the festival took on its current large-scale "naked festival" form, in which thousands of men gather wearing only loincloths. The festival continued through the Meiji era thanks to the faith and dedication of local residents, and was designated as an Intangible Folk Cultural Property of Aichi Prefecture in 1991.
+## 周辺情報
+
+稲沢市は愛知県の西部、濃尾平野に位置する都市で、古くから尾張国の中心的な地であった。尾張大國霊神社は尾張国の総社にあたり、国府宮の名も、かつて国府がこの地に置かれたことに由来するとされる。はだか祭の起源が尾張国司による祈祷に発することからも、この土地が尾張の政治・信仰の要であった歴史がしのばれる。祭りを訪れる際には、こうした古代以来の歴史的背景に思いをはせることで、神事の意味をより深く味わうことができる。
+
+稲沢市は植木・苗木の一大産地としても知られ、豊かな平野の農耕文化を今に伝えている。悪疫退散と豊穣を願う祈りに根ざしたはだか祭の背景には、この地の農と暮らしの営みがある。冬に訪れる祭りではあるが、周辺には四季を通じて自然や園芸文化にふれられる場が多く、季節を変えて訪れる楽しみもある。
+
+名古屋の中心部からも近く、交通の便に恵まれている点も稲沢の特徴である。国府宮への参拝とあわせて、尾張地方に点在する社寺や史跡を巡ることで、この地域に受け継がれてきた信仰と文化の厚みを感じ取ることができる。はだか祭を軸に周辺を巡れば、尾張の歴史と風土をより立体的に体感できる。
+
+## 関連情報
+
+- 尾張大國霊神社（国府宮） … 国府宮はだか祭の舞台となる尾張国の総社。祭神は尾張大國霊神。
+- 儺追神事（なおいしんじ） … 国府宮はだか祭の正式名称。悪疫退散と厄除けを祈願する古式の神事。
+- 神男（儺負人） … 災厄を一身に負う中心的役柄。裸男たちは神男に触れて厄を落とそうとする。
+- 大鏡餅 … 五十俵取り約四トンの巨大な鏡餅。祭り後に切り分けて頒布され、無病息災の言い伝えがある。
+- 夜儺追神事 … 旧暦正月十四日未明に、罪穢れを託した神男を追い払う神事。儺追神事の本義を示す。
+- 儺負捕り … 恵方の男を捕らえ神男に仕立てた古い習わし。現在の裸男の揉み合いの由来とされる。','## Overview
+
+Konomiya Hadaka Matsuri is a sacred rite held at Owari Okunitama Shrine, popularly known as Konomiya, in Inazawa City, Aichi Prefecture, and its formal name is the Naoi Shinji. Held each year mainly on the thirteenth day of the first month of the lunar calendar, it is known throughout Japan as one of the most extraordinary festivals in the land, from the scene in which several thousand naked men, wearing only white loincloths of bleached cloth and white tabi, jostle fiercely in the shrine precincts. The fervor of the naked men, who seek to shed their misfortunes by touching the shin-otoko, the man who bears their calamity, wraps the midwinter Konomiya in clouds of steam.
+
+This rite is rooted in a faith that prays for the dispelling of epidemics and for protection from misfortune, and it has long been cherished as a festival that announces the coming of spring to the Owari region. Along with the jostling of the naked men, the depth of this festival lies in a series of distinctive observances, such as the offering of a gigantic great mirror rice cake weighing about four tons, and the yonaoi shinji, in which the shin-otoko, laden with sin and impurity, is driven away. Far more than merely a spirited naked festival, it is a rare example in which a rite of exorcism handed down since ancient times still continues to this day.
+
+## History and Origins
+
+The origins of the Konomiya Hadaka Matsuri are said to reach back about 1,250 years, to the first year of the Jingo-keiun era, corresponding to 767, in the Nara period. In that year, when prayers for the dispelling of epidemics were offered at the provincial temples throughout the country by the imperial command of Empress Shotoku, the provincial governor of Owari is said to have also offered prayers at Owari Okunitama Shrine, the head shrine of the province, and this is held to be the beginning of the rite. The prayer to quell pestilence and to wish for the peace of the people has flowed consistently at the foundation of the festival.
+
+Yet the form in which several thousand naked men jostle, as seen today, was shaped in a far later age. Because there were no prominent Setsubun observances in the vicinity, this rite took root as a festival that calls in spring to the Owari region, and the custom of making cold-weather pilgrimages while naked became joined to it. It is said that the festival took on its present form as a naked festival only at the end of the Edo period. One can discern here how an ancient rite of warding off misfortune and the folk custom of cold pilgrimage fused into a distinctive festival.
+
+At the core of the festival lies an old practice called naoi-tori. In former times, a man was sought in the direction of the year''s lucky quarter and seized to be made the naoi-nin, that is, the shin-otoko who bears all the calamity. The present form, in which the naked men jostle, is regarded as inheriting this naoi-tori, and in the act of people trying to shed their own misfortune by touching the shin-otoko, the ancient idea of purifying calamity by placing it upon a single person still lives on.
+
+Such faith and observances have been handed down across the ages, and today the festival has become a major winter rite representative of Inazawa City. In recent years, changes in keeping with the times have also appeared, such as women being allowed to take part in some of the observances that were once for men alone. The weight of this festival lies in the way that a prayer originating in an ancient imperial command has continued unbroken for more than a thousand years, even as its form has changed.
 
 ## Highlights
 
-The festival''s central event is the "Naoi Shinji" beginning around 3 p.m., when approximately 9,000 nearly-naked men (wearing only loincloths) fill the approach and precincts of Owari Ōkunitama Shrine. By touching the Shin-otoko (Sacred Man), participants believe they can transfer their misfortunes onto him, and the men surge toward the Shin-otoko in fierce jostling. The day before features a "Naorai-sai" (Communion Festival), the festival morning includes the "Naoi-zasa Hōnō" (Bamboo Offering), and the night brings the "Yoru-Naoi Shinji" expulsion ritual for the Shin-otoko, with three days of solemn rites and fervent naked festival intertwined. The sight of white breath and heat rising from the men amid winter cold creates a truly overwhelming spectacle.
+**The Jostling of the Naked Men** The greatest highlight of the festival is the jostling of the naked men on the thirteenth day of the first lunar month. Centered on men in their unlucky years of forty-two and twenty-five, several thousand gather from all over the Owari region wearing only white loincloths of bleached cloth and white tabi. Together with cries of wasshoi, a heat that blows away the cold bursts through Konomiya, and a press of humanity that hardly seems possible in midwinter fills the precincts. This overwhelming heat of the crowd is the very reason the festival is called one of the most extraordinary in the land.
 
-## Event Details and Access
+**The Rush toward the Shin-otoko** The climax of the jostling is the appearance of the utterly naked shin-otoko. When the bucket brigade of the Koike Shomyoji district begins to throw water over the naked men, the shin-otoko, guarded by escorts, soon appears secretly among the crowd. People rush toward him to shed their misfortune by touching him, and a tremendous struggle ensues. The water thrown over them turns at once to steam from the heat of friction, and the shin-otoko, seizing the moment, makes his way toward the Naoiden hall. These roughly sixty minutes form the peak of this extraordinary festival.
 
-The venue is Owari Ōkunitama Shrine (1-1-1 Kōnomiya, Inazawa City, Aichi Prefecture). Access is approximately 3 minutes on foot from Kōnomiya Station on the Meitetsu Nagoya Main Line. Viewing is free of charge. The date corresponds to the 13th day of the first lunar month (a specific date from early to mid-February each year). Participation requires advance application and the wearing of a loincloth and jika-tabi traditional footwear.
+**The Offering of the Great Mirror Rice Cake** On the day before the main festival, a gigantic great mirror rice cake of fifty straw bales, weighing about four tons, is offered from the districts near Owari. At a height of 2.35 meters and a diameter of 2.40 meters, it is the largest size that can pass through the tower gate and be offered in the main hall, and even a large crane is used to carry it in. It is said that what began in the early Meiji period at about five or six bales gradually grew larger as the honor of the offering districts was staked upon it, reaching its grand present form.
 
-## Surrounding Attractions
+**The Distribution of the Rice Cake** The gigantic mirror rice cake is cut apart from eight in the morning on the fourteenth day of the first lunar month, after the main festival, and distributed to worshippers. There is a tradition that eating this rice cake brings freedom from illness, and many people vie to buy it. In contrast to the spirited jostling, this scene of sharing the rice cake in a wish for a year of health well expresses the simple prayer embedded in the festival.
 
-Inazawa City features Kōnomiya Shrine alongside other local attractions including Shōkai-ji Temple (famous as the "Hydrangea Temple"), Yagose Kannon, and the Inazawa Cactus Village. Conveniently located approximately 15 minutes by train from central Nagoya City, the area allows for combined tours with major Owari region historical attractions including Nagoya Castle, Atsuta Shrine, the Tokugawa Art Museum, the Arimatsu Shibori dyeing district, and Inuyama Castle (a National Treasure), making it an ideal destination for exploring the rich heritage of the Owari region.','konomiya-hadaka-matsuri','konomiya-hadaka-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The Yonaoi Shinji** The yonaoi shinji, held before dawn on the fourteenth day of the first lunar month, is a solemn observance that shows the true meaning of the Naoi Shinji. An earthen rice cake into which sin and impurity have been pounded is made to be carried on the back of the shin-otoko, and he is driven away, chased with the ringing of the great bell and pelted with pebbles of peach and willow, so that calamity is driven outside the shrine. If the daytime jostling of the naked men is the heat of the light, this rite carried out in darkness is the hidden core of the festival, in which the original meaning of the festival as an exorcism is concentrated.
+
+**The Related Observances** The festival is not completed in a single day but consists of a series of rites spanning the first lunar month, such as the standard-post-raising ceremony, the selection of the shin-otoko, and the pounding of the great mirror rice cake. It closes with the arrow-shooting rite, which brings the whole series of the Naoi Shinji to an end. By viewing the whole, including these preceding and following rites, one can see that the Hadaka Matsuri is not a one-off naked festival but a comprehensive rite carried out according to ancient forms.
+
+## Event Information and Access
+
+**Name** Konomiya Hadaka Matsuri, with the formal name Naoi Shinji.
+
+**Location** Inazawa City, Aichi Prefecture. The venue is Owari Okunitama Shrine, known as Konomiya, and the area of its precincts and approach.
+
+**Date** The central Naoi Shinji, or Hadaka Matsuri, is held every year on the thirteenth day of the first lunar month, and the yonaoi shinji is held before dawn on the following fourteenth day. Because it is based on the lunar calendar, the date in the Western calendar varies from year to year and roughly falls in the period from winter to early spring. Related observances such as the standard-post-raising ceremony, the selection of the shin-otoko, and the pounding of the great mirror rice cake continue through the first lunar month. It is advisable to confirm the latest schedule and whether the event will be held with the official information of Owari Okunitama Shrine.
+
+**Cutting of the Rice Cake** The great mirror rice cake is cut apart and distributed from eight in the morning on the fourteenth day of the first lunar month.
+
+**Access** The nearest stations are Konomiya Station on the Meitetsu Nagoya Main Line and Inazawa Station on the JR Tokaido Main Line, and the precincts can be reached on foot. Because the day of the festival becomes extremely crowded, the use of public transportation and confirmation of the latest traffic information are recommended.
+
+## Around the Area
+
+Inazawa City lies in the western part of Aichi Prefecture, on the Nobi Plain, and has long been a central place of Owari Province. Owari Okunitama Shrine is the head shrine of Owari Province, and the name Konomiya is said to derive from the fact that the provincial capital was once placed in this area. From the fact that the origin of the Hadaka Matsuri lies in prayers by the provincial governor of Owari, one can sense the history of this land as a key point of Owari''s politics and faith. When visiting the festival, reflecting on this ancient historical background allows one to savor the meaning of the rite more deeply.
+
+Inazawa City is also known as a major producer of garden trees and saplings, conveying to the present the agricultural culture of the rich plain. Behind the Hadaka Matsuri, rooted in prayers for the dispelling of epidemics and for abundance, lies the life of farming in this land. Although it is a festival visited in winter, the surrounding area has many places where one can encounter nature and horticultural culture throughout the seasons, offering the pleasure of visiting at different times of year.
+
+Being close to the center of Nagoya and blessed with good transportation is another feature of Inazawa. By touring the shrines, temples, and historic sites scattered across the Owari region along with a visit to Konomiya, one can feel the depth of the faith and culture handed down in this area. Touring the surroundings with the Hadaka Matsuri at the center allows one to experience the history and character of Owari in a more vivid way.
+
+## Related Information
+
+- Owari Okunitama Shrine (Konomiya) ... the head shrine of Owari Province that serves as the stage of the Konomiya Hadaka Matsuri, with Owari Okunitama no Okami as its deity.
+- Naoi Shinji ... the formal name of the Konomiya Hadaka Matsuri, an ancient rite praying for the dispelling of epidemics and protection from misfortune.
+- Shin-otoko (Naoi-nin) ... the central role who bears all calamity; the naked men seek to shed their misfortune by touching him.
+- Great Mirror Rice Cake ... a gigantic rice cake of fifty straw bales weighing about four tons, cut and distributed after the festival, with a tradition of bringing freedom from illness.
+- Yonaoi Shinji ... a rite held before dawn on the fourteenth day of the first lunar month, driving away the shin-otoko laden with sin and impurity, showing the true meaning of the Naoi Shinji.
+- Naoi-tori ... an old practice of seizing a man in the lucky direction to make him the shin-otoko, said to be the origin of the present jostling of the naked men.','konomiya-hadaka-matsuri','konomiya-hadaka-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q135500952','石清水八幡宮例祭','Iwashimizu Hachimangu Annual Festival',NULL,NULL,'Q710098','石清水八幡宮','Iwashimizu Hachimangū',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136779585','棚野の千両祭',NULL,'諏訪神社（南丹市）の祭礼',NULL,'Q6417767','北桑田郡','Kitakuwada district',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A3%9A%E9%87%8E%E3%81%AE%E5%8D%83%E4%B8%A1%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q136679543','アルバルク肉祭り',NULL,'2025年11月1日と11月2日にTOYORA ARENA TOKYOで開催予定のイベント',NULL,'Q131801357','TOYOTA ARENA TOKYO','TOYOTA ARENA TOKYO',NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,NULL,NULL,25,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
