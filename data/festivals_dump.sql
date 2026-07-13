@@ -3310,63 +3310,125 @@ The surrounding area offers many attractions, including hot springs and a geyser
 - Pillars: Sixteen giant fir trees (about 19m long, 1m in diameter, 7.5 tons)
 - Main Rites: Kiotoshi, kawagoshi, tateonbashira, and the hoden enshrinement rite
 ','onbashira-matsuri','onbashira-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q3307937','壬生の花田植','Mibu no Hana Taue','広島県北広島町で行われる伝統行事','Rice transplanting ritual in Hiroshima, Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mibu-hanadaue01.JPG','https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D','https://en.wikipedia.org/wiki/Mibu_no_Hana_Taue',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q3307937','壬生の花田植','Mibu no Hana Taue','広島県北広島町で行われる伝統行事','Rice transplanting ritual in Hiroshima, Japan',NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,NULL,6,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Mibu-hanadaue01.JPG','https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D','https://en.wikipedia.org/wiki/Mibu_no_Hana_Taue',85,'drafted','## 概要
 
-壬生の花田植（みぶのはなだうえ）は、広島県山県郡北広島町壬生で、毎年6月の第1日曜日に豊作を願って行われる伝統的な田植え行事である。1976年（昭和51年）に国の重要無形民俗文化財に指定され、2011年（平成23年）にはユネスコ無形文化遺産保護条約の「人類の無形文化遺産の代表的な一覧表」に記載された。現在西日本に残る花田植としては最大の規模を誇る。
+壬生の花田植（みぶのはなだうえ）は、広島県山県郡北広島町壬生で毎年六月の第一日曜日に行われる、田植えを主題とした華やかな農耕儀礼である。田の神である「サンバイ」を迎えてその年の豊作を祈願する稲作儀礼であり、着飾った早乙女が太鼓や笛の囃子に合わせて苗を植え、金襴の花鞍で飾られた牛が代掻きを行う様子は、まるで田園に繰り広げられる絵巻のような華やかさを放つ。
 
-## 歴史と由来
+この行事は、中国地方一帯に古くから伝わる「はやし田」「田ばやし」と呼ばれる民俗行事の系譜に連なるもので、機械化以前の農耕文化の姿を今日に色濃く伝えている。その内容と規模の貴重さが高く評価され、国の重要無形民俗文化財に指定されるとともに、二〇一一年（平成二三年）にはユネスコの無形文化遺産にも登録された。田植えという日常の農作業が、祈りと娯楽と芸能を兼ねた一大催事へと昇華した稀有な例として、全国的に知られている。
 
-西日本には鎌倉時代の頃より、田植えの際に音頭取りが打ち合わせるささらの拍子にあわせ、大太鼓・小太鼓・笛・手打鉦で囃し、早乙女が田植歌を歌いながら苗を植えていくという風習があった。これはサンバイ（田の神）を祭って無病息災と豊穣を願う農耕儀礼であるとともに、重労働である田植え作業を皆で楽しくこなすための工夫でもあった。
+## 歴史・由来
 
-やがて田植えの行事は大勢の人々を集めて一層華やかになり、代掻きをする牛は造花で飾った花鞍をのせ、早乙女らは赤い襷や腰巻で着飾ってハレの日を演出するようになった。その華やかな様子から「花田植」の名が付いたといわれている。壬生の花田植は「川東田楽団」と「壬生田楽団」によってその伝統が伝えられ、歴史の深さから国の重要無形民俗文化財に指定され、さらにユネスコ無形文化遺産に登録された。
+中国地方一帯では、太鼓をたたき笛を鳴らし、田植唄を歌いながら大勢で田植えを行う民俗行事が古くから伝えられてきた。これらは「はやし田」「田ばやし」などと呼ばれ、その歴史は中世にさかのぼるといわれる。単なる農作業ではなく、稲作の平穏と豊穣を祈って田の神を祭る稲作儀礼であり、同時に苦しい田植え作業に従事する人々を慰め、当時の農村における数少ない娯楽としての役割も担う、地域を挙げての大行事であった。
+
+こうした囃し田のなかでも、壬生の地では特に盛大なものが行われてきた。土地の大地主のなかには、所有地の田植えの締めくくりに多くの人々を集めて盛大な囃し田を催す者があり、壬生の囃し田は近郷各地に知られる一大催事となっていた。この囃し田に参加する牛に豪華な花鞍を装い、さらに造花で飾り立て、太鼓や笛の音にあわせて着飾った早乙女たちが苗を植える。その様子があまりに華やかであったことから、「花田植」と呼ばれるようになったと伝えられている。
+
+時代の波に押され、一時は行われない時期もあったが、農村における稲作文化の原点ともいえるこの催しを後世に伝えようとする動きが起こり、川東田楽団や壬生田楽団を中心に、地域の人々や町の商家の組織が主体となって毎年開催されるようになった。かつて昭和三十年代までは、芸北地方一帯から数十頭の飾り牛が集まり、囃子方や早乙女など二百人を超える規模で行われていたと伝えられ、その盛大さがしのばれる。
+
+こうした地域ぐるみの保存活動と、牛を使った代掻きや早乙女の手による田植えといった機械化以前の農耕文化を今に伝える内容、そしてその催しの規模が高く評価され、昭和五十一年五月四日に国の重要無形民俗文化財に指定された。さらに二〇一一年（平成二三年）十一月二十七日には、ユネスコの無形文化遺産に登録され、地域に根ざした農耕儀礼が世界的に価値を認められることとなった。
 
 ## 見どころ
 
-きらびやかな装具をつけた飾り牛、絣の着物に菅笠をかぶった早乙女、見事なバチさばきを見せる囃子手——そのいずれもが新緑の山と田んぼの水面に映え、初夏の一大絵巻をなす。儀礼はまず田の神であるサンバイを迎えるところから始まり、田植歌が歌い継がれていく。「唄の初めにまずサンバイを参らしょう」「何と早乙女さんや 浅う植えてたもれ」といった田植歌には、田の神への祈りと豊作への願いが込められている。飾り牛による代掻きから早乙女の田植えへと進む一連の所作は、田植え文化を今に伝える貴重な民俗芸能である。
+**飾り牛の道行き**　花田植を彩るもう一つの主役が飾り牛である。この日のために調教を重ねた黒毛の牛が、金色の鞍や造花で華やかに飾られる。壬生神社の境内に集合した牛は、赤・青・緑・黄の布を掛け、兜や龍をかたどった金襴豪華な花鞍と、首玉と呼ばれる赤い飾りを装着し、商店街を行列して会場へと向かう。十頭を超える飾り牛の行列は壮観で、本番前の見せ場として沿道に多くの見物人を集める。
+
+**主牛（おもうじ）**　行列の先頭を務める牛は主牛と呼ばれ、この役を担うことは大変名誉なこととされる。ひと昔前までは屈強な雄牛が務めることになっていたが、近年は体格の良い雌牛がこの役を担うようになった。近年の飾り牛は北広島町内各地や安芸高田市など周辺市町から十二頭から十三頭が出演しており、往時の数十頭には及ばないものの、その堂々たる姿は往時の農耕文化の名残を今に伝えている。
+
+**サンバイの指揮**　田植えの総指揮をとる人物はサンバイ（三拝）と呼ばれ、田の神様とも言われる中心的な役柄である。絣の着物に袴姿、菅笠をかむり、煤竹を割って作った陰陽のササラ（三拝竹）を打ち鳴らしながら、朝歌・昼歌・しまい歌など数百もあるといわれる田植唄を歌って花田植を導く。祈りと芸能が一体となった花田植の精神を体現する存在である。
+
+**早乙女の田植え**　早乙女は、苗代で育った早苗を田に植える女性たちで、花田植の主役の一つである。絣の着物にたすき掛け、豆絞りの手ぬぐいに菅笠をかぶり、手甲と脚絆をつけて田に入る。サンバイの音頭に合わせて田植唄を歌いながら横一列に並んで早苗を植えていく姿は、飾り牛とともに華やかな田園絵巻を織りなし、この行事を象徴する光景となっている。
+
+**囃し方の妙技**　囃し方は、大太鼓・小太鼓・手打鉦・篠笛で構成され、ササラを持つサンバイの指揮にあわせて賑やかに打ち鳴らす。大太鼓を腰に構え、拍子に合わせて体を大きくくねらせながら一斉に打ち鳴らす音には迫力があり、時折、桴（バチ）を高く投げ上げて隣の奏者に受け渡す技は見る者を沸かせる。音と動きが一体となった演奏は、花田植の高揚感を大いに盛り上げる。
+
+**田園に広がる絵巻**　牛による代掻き、サンバイの唄、囃し方の演奏、早乙女の田植えが一つの田で同時に繰り広げられる光景は、他では見られない華やかさを持つ。機械化された現代の農作業とはまったく異なる、手仕事と祈りに満ちた田植えの原風景が、初夏の田園に鮮やかに立ち現れる。この総合的な情景こそが、花田植最大の見どころといえる。
 
 ## 開催情報・アクセス
 
-開催は毎年6月の第1日曜日。会場は広島県山県郡北広島町壬生の水田で、広島市街から車でアクセスする来訪者が多い。新緑の山里を背景に水田で繰り広げられる行事のため、初夏の屋外観覧となる。
+**名称**　壬生の花田植（みぶのはなだうえ）。
 
-## 周辺の見どころ
+**開催地**　広島県山県郡北広島町壬生。花田植の会場は常磐橋北詰の特設会場が用いられる。
 
-北広島町は中国山地のなかに位置し、神楽（芸北神楽）の盛んな地域としても知られる。豊かな自然と農村景観が広がり、田楽・神楽といった民俗芸能の伝統が色濃く残る。同じ広島県内には世界遺産の厳島神社や原爆ドームなどの著名な観光地もあり、広島観光と合わせて中国山地の伝統文化に触れる旅程が組める。
+**開催日**　毎年六月の第一日曜日に開催される。二〇二六年は六月七日（日）の開催が予定されている。開催日程や実施内容は年によって変動しうるため、最新の開催日程・実施可否は北広島町や観光協会の公式情報で確認することが望ましい。
+
+**入場・駐車場**　観覧は無料。会場周辺には駐車場が用意されるが、混雑が予想されるため公共交通機関や主催者の案内する交通手段の利用が推奨される。
+
+**保護団体**　保存の中心を担うのは壬生の花田植保存会で、川東田楽団・壬生田楽団などが構成団体として行事を支えている。
+
+**文化財指定**　昭和五十一年五月四日に国の重要無形民俗文化財に指定。二〇一一年（平成二三年）十一月二十七日にユネスコ無形文化遺産に登録された。
+
+## 周辺情報
+
+北広島町は広島県の北西部、中国山地のただなかに位置する自然豊かな町で、冷涼な気候と豊かな水に恵まれた稲作地帯である。花田植が今日まで受け継がれてきた背景には、こうした米づくりを中心とした暮らしと、それを支えてきた農耕文化の蓄積がある。初夏に訪れれば、みずみずしい田園風景のなかで営まれる伝統行事を、土地の風土とともに体感することができる。
+
+北広島町を含む芸北地方は、神楽の盛んな土地としても広く知られている。花田植と並んで、この地域の芸能文化を代表するのが神楽であり、地域の祭りや催しでは勇壮な舞が披露される。花田植の観覧とあわせて神楽にふれることで、農村に息づく祈りと芸能の文化をより深く味わうことができる。
+
+周辺には安芸高田市など、農耕文化や伝統芸能を受け継ぐ市町が広がっており、飾り牛もこうした周辺地域から出演している。中国山地の自然と、そこに根づいた稲作・芸能の文化を巡ることで、花田植が単独の行事ではなく、地域全体の暮らしと結びついた営みであることを実感できる。
 
 ## 関連情報
 
-- 開催月: 6月第1日曜日（夏）
-- 都道府県: 広島県（中国）
-- 会場: 北広島町壬生の水田
-- 指定: 国の重要無形民俗文化財（1976年）/ ユネスコ無形文化遺産（2011年）
-- 伝承団体: 川東田楽団・壬生田楽団','## Overview
+- サンバイ（三拝） … 花田植の総指揮をとる田の神の役柄。ササラを打ち鳴らし田植唄を歌って行事を導く。
+- 早乙女 … 田に早苗を植える女性たち。絣の着物に菅笠のあでやかな出で立ちで花田植の主役を担う。
+- 飾り牛 … 金襴の花鞍や造花で華やかに飾られた黒毛の牛。代掻きを行い、行列の見せ場をつくる。
+- はやし田・田ばやし … 中国地方一帯に伝わる、囃子に合わせて田植えを行う民俗行事。花田植の母体となった稲作儀礼。
+- 川東田楽団・壬生田楽団 … 壬生の花田植保存会を構成し、行事の保存と継承を担う中心的な団体。
+- ユネスコ無形文化遺産 … 壬生の花田植は二〇一一年（平成二三年）に登録された。国の重要無形民俗文化財でもある。','## Overview
 
-Mibu no Hana Taue is a traditional rice-planting ritual held in Mibu, Kitahiroshima Town, Yamagata District, Hiroshima Prefecture, on the first Sunday of June each year to pray for a bountiful harvest. Designated a National Important Intangible Folk Cultural Property in 1976, it was inscribed in 2011 on UNESCO''s Representative List of the Intangible Cultural Heritage of Humanity. It boasts the largest scale among the hana-taue rituals surviving in western Japan today.
+Mibu no Hana Taue is a colorful agricultural rite centered on rice planting, held every year on the first Sunday of June in Mibu, Kitahiroshima Town, Yamagata District, Hiroshima Prefecture. It is a rice-cultivation ritual in which the field deity known as Sanbai is welcomed to pray for a good harvest that year. The sight of finely dressed saotome, or young female rice planters, setting out seedlings to the accompaniment of drums and flutes, while oxen adorned with brocade saddles harrow the paddy, radiates a splendor like a picture scroll unfolding across the fields.
+
+This event belongs to the lineage of folk observances long handed down throughout the Chugoku region, known as hayashida or tabayashi, and it vividly conveys the form of agricultural culture as it existed before mechanization. The rarity of its content and scale has been highly valued, and it has been designated an Important Intangible Folk Cultural Property of Japan and, in 2011, inscribed on the UNESCO list of Intangible Cultural Heritage. It is nationally known as a rare example in which the everyday farm work of rice planting has been elevated into a grand event combining prayer, entertainment, and performing art.
 
 ## History and Origins
 
-Since around the Kamakura period, western Japan had a custom in which, during rice planting, musicians played large and small drums, flutes, and hand gongs in time with the sasara clappers of a song leader, while saotome (young female planters) set out seedlings as they sang planting songs. This was an agricultural rite honoring Sanbai, the deity of the rice paddy, to pray for good health and an abundant harvest, and also a device for performing the heavy labor of rice planting enjoyably together.
+Throughout the Chugoku region, folk observances in which large groups of people plant rice while beating drums, playing flutes, and singing rice-planting songs have long been handed down. These are called hayashida or tabayashi, and their history is said to reach back to the medieval period. Far from being mere farm work, they were rice-cultivation rituals that worshipped the field deity in prayer for the tranquility and abundance of the rice crop, and at the same time they served to console the people engaged in the hard labor of planting and functioned as one of the few forms of entertainment in the rural villages of the time.
 
-In time the ritual grew more splendid by gathering many people: the cattle that tilled the paddy wore flower-decorated saddles, and the saotome dressed up in red sashes and waistcloths to mark the festive day. This splendor is said to be the origin of the name "hana-taue" (flower rice-planting). The tradition of Mibu no Hana Taue is carried on by the Kawahigashi Dengaku troupe and the Mibu Dengaku troupe, and for its depth of history it was designated a national important property and inscribed on the UNESCO list.
+Among such hayashida, especially grand ones were held in the Mibu area. Some of the great landowners of the district would gather many people to hold a splendid hayashida at the conclusion of the planting of their fields, and the Mibu hayashida became a major event known throughout the neighboring villages. The oxen taking part in this hayashida were adorned with lavish flower saddles and further decorated with artificial flowers, while finely dressed saotome planted seedlings to the sound of drums and flutes. Because this scene was so brilliant, it is said to have come to be called hana taue, meaning flower rice planting.
+
+Pressed by the changes of the times, there was a period when the event was not held, but a movement arose to pass on to later generations this observance, which can be called the very origin of rice-cultivation culture in the rural villages. Centered on the Kawahigashi Dengaku troupe and the Mibu Dengaku troupe, local people and organizations of the town merchants took the lead in holding it every year. It is said that until the 1950s, several dozen decorated oxen would gather from across the Geihoku area, and the event was carried out on a scale exceeding two hundred people, including musicians and saotome, which conveys a sense of its former grandeur.
+
+Such community-wide preservation activities, together with content that conveys the pre-mechanization agricultural culture of harrowing with oxen and planting by the hands of the saotome, and the scale of the event, were highly valued. On May 4, 1976, it was designated an Important Intangible Folk Cultural Property of Japan. Furthermore, on November 27, 2011, it was inscribed on the UNESCO list of Intangible Cultural Heritage, so that a locally rooted agricultural rite came to have its value recognized around the world.
 
 ## Highlights
 
-The brilliantly adorned decorated cattle, the saotome in kasuri kimono and sedge hats, and the musicians displaying superb stick technique all stand out against the fresh green mountains and the water of the paddy, forming a grand scroll of early summer. The rite begins by welcoming Sanbai, the deity of the paddy, after which planting songs are sung in succession. Songs such as "At the song''s start, let us first welcome Sanbai" and "Saotome, plant shallowly" carry prayers to the deity and wishes for a rich harvest. The sequence of motions, from the cattle''s tilling to the saotome''s planting, is a precious folk performing art that conveys Japan''s rice-planting culture to the present.
+**The Procession of Decorated Oxen** Another star of the hana taue is the decorated ox. Black-haired oxen that have been trained for this day are adorned with golden saddles and artificial flowers. Gathering in the precincts of Mibu Shrine, the oxen are draped with red, blue, green, and yellow cloths, fitted with lavish brocade flower saddles shaped like helmets or dragons, and adorned with a red ornament called a kubidama, before parading through the shopping street toward the venue. The procession of more than ten decorated oxen is a magnificent sight and, as one of the highlights before the main event, draws many spectators along the route.
 
-## Event Information & Access
+**The Lead Ox** The ox at the head of the procession is called the omouji, and to serve in this role is considered a great honor. Until a generation ago, a sturdy bull was to take on this role, but in recent years a well-built cow has come to fill it. In recent years, twelve or thirteen oxen take part from various areas within Kitahiroshima Town and from surrounding municipalities such as Akitakata City. Though this falls short of the several dozen of former times, their imposing figures still convey the vestiges of the agricultural culture of the past.
 
-It is held on the first Sunday of June each year. The venue is a paddy field in Mibu, Kitahiroshima Town, Hiroshima Prefecture, with many visitors arriving by car from central Hiroshima. As the ritual unfolds in a paddy against a backdrop of fresh green hills, it is an outdoor early-summer event.
+**The Direction of the Sanbai** The person who directs the rice planting is called the Sanbai and is also spoken of as the field deity, a central role of the event. Wearing a kasuri kimono and hakama with a sedge hat, the Sanbai strikes a sasara made from split soot-bamboo while singing rice-planting songs said to number in the hundreds, including morning songs, midday songs, and closing songs, to lead the hana taue. The Sanbai embodies the spirit of the hana taue, in which prayer and performing art are united.
 
-## Around the Venue
+**The Planting by the Saotome** The saotome are the women who set out into the paddy the seedlings raised in the nursery bed, and they are one of the leading roles of the hana taue. In a kasuri kimono with a sash, a spotted hand towel, and a sedge hat, wearing hand covers and leg covers, they enter the paddy. The sight of them lined up in a row planting seedlings while singing rice-planting songs in time with the Sanbai forms, together with the decorated oxen, a brilliant scroll of the countryside and has become an image that symbolizes this event.
 
-Kitahiroshima Town lies within the Chugoku Mountains and is also known as an area where kagura (Geihoku kagura) flourishes. Rich nature and rural scenery extend across the region, and traditions of folk performing arts such as dengaku and kagura remain strong. Within Hiroshima Prefecture there are also famous sights such as the World Heritage Itsukushima Shrine and the Atomic Bomb Dome, allowing a trip that combines Hiroshima sightseeing with the traditional culture of the Chugoku Mountains.
+**The Skill of the Musicians** The musicians are made up of large drums, small drums, hand gongs, and bamboo flutes, and they play lively in time with the direction of the Sanbai, who holds the sasara. Setting large drums at their waists and striking them all at once while greatly twisting their bodies to the beat produces a powerful sound, and from time to time the feat of tossing the drumsticks high and passing them to the neighboring player delights the onlookers. The performance, in which sound and movement become one, greatly heightens the excitement of the hana taue.
+
+**A Scroll Spread across the Fields** The scene in which the harrowing by oxen, the songs of the Sanbai, the playing of the musicians, and the planting by the saotome are carried out all at once in a single paddy possesses a splendor not seen elsewhere. Quite unlike the mechanized farm work of the present day, an original landscape of rice planting, full of handwork and prayer, appears vividly in the early-summer countryside. This comprehensive scene may be called the greatest highlight of the hana taue.
+
+## Event Information and Access
+
+**Name** Mibu no Hana Taue.
+
+**Location** Mibu, Kitahiroshima Town, Yamagata District, Hiroshima Prefecture. A special venue at the north end of the Tokiwa Bridge is used for the hana taue.
+
+**Date** It is held every year on the first Sunday of June. In 2026 it is scheduled for Sunday, June 7. Because the dates and details of the event may vary from year to year, it is advisable to confirm the latest schedule and whether the event will be held with the official information of Kitahiroshima Town or the tourism association.
+
+**Admission and Parking** Viewing is free of charge. Parking is provided in the area around the venue, but as congestion is expected, the use of public transportation or of the transportation arranged by the organizers is recommended.
+
+**Preservation Body** The center of preservation is the Mibu no Hana Taue Preservation Society, supported by constituent groups such as the Kawahigashi Dengaku troupe and the Mibu Dengaku troupe.
+
+**Cultural Property Designation** It was designated an Important Intangible Folk Cultural Property of Japan on May 4, 1976, and inscribed on the UNESCO list of Intangible Cultural Heritage on November 27, 2011.
+
+## Around the Area
+
+Kitahiroshima Town lies in the northwestern part of Hiroshima Prefecture, in the midst of the Chugoku Mountains, a town rich in nature and blessed with a cool climate and abundant water, forming a rice-growing region. Behind the way the hana taue has been handed down to the present lies a life centered on rice cultivation and the accumulation of the agricultural culture that has supported it. A visit in early summer allows one to experience this traditional observance, carried out amid fresh green rural scenery, together with the character of the land.
+
+The Geihoku area, which includes Kitahiroshima Town, is also widely known as a land where kagura flourishes. Alongside the hana taue, kagura is representative of the performing-arts culture of this region, and spirited dances are performed at local festivals and events. By encountering kagura together with viewing the hana taue, one can more deeply savor the culture of prayer and performing art that lives on in the rural villages.
+
+The surrounding area includes municipalities such as Akitakata City that carry on agricultural culture and traditional performing arts, and it is from such neighboring areas that the decorated oxen also take part. By touring the nature of the Chugoku Mountains and the culture of rice cultivation and performing art rooted there, one can truly feel that the hana taue is not an isolated event but an undertaking bound up with the life of the whole region.
 
 ## Related Information
 
-- Month: First Sunday of June (summer)
-- Prefecture: Hiroshima (Chugoku)
-- Venue: Paddy field in Mibu, Kitahiroshima Town
-- Designation: National Important Intangible Folk Cultural Property (1976) / UNESCO Intangible Cultural Heritage (2011)
-- Preserving troupes: Kawahigashi Dengaku and Mibu Dengaku','mibu-no-hana-taue','mibu-no-hana-taue',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+- Sanbai ... the role of the field deity who directs the hana taue, striking a sasara and singing rice-planting songs to lead the event.
+- Saotome ... the women who plant seedlings in the paddy, taking a leading role in the hana taue in their striking attire of kasuri kimono and sedge hats.
+- Decorated Oxen ... black-haired oxen adorned with brocade flower saddles and artificial flowers, which harrow the paddy and create a highlight of the procession.
+- Hayashida and Tabayashi ... folk observances handed down throughout the Chugoku region in which rice is planted to musical accompaniment, the parent of the hana taue.
+- Kawahigashi Dengaku Troupe and Mibu Dengaku Troupe ... central groups that make up the Mibu no Hana Taue Preservation Society and carry on the preservation and transmission of the event.
+- UNESCO Intangible Cultural Heritage ... Mibu no Hana Taue was inscribed in 2011, and it is also an Important Intangible Folk Cultural Property of Japan.','mibu-no-hana-taue','mibu-no-hana-taue',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q5174676','コスキン・エン・ハポン','Cosquín en Japón','福島県伊達郡川俣町で毎年開催されているフォルクローレの音楽祭','a South American folk festival held annually in Kawamata, Fukushima, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%AD%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%9D%E3%83%B3','https://en.wikipedia.org/wiki/Cosqu%C3%ADn_en_Jap%C3%B3n',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11301756','ゲームマーケット','Game Market','日本最大級の電源不要ゲーム(アナログゲーム)のイベント','Japanese gaming convention',NULL,NULL,NULL,'千葉県','kanto',35.6308,139.797,2000,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Gamemarket2014autumn08.jpg','https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88','https://en.wikipedia.org/wiki/Game_Market',95,'drafted','## 概要
 
