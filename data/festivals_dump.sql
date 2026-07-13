@@ -6682,81 +6682,125 @@ Kanazawa is a city rich in the fragrance of traditional culture and beauty, havi
 The Kanazawa Hyakumangoku Matsuri is a festival that has been nurtured by the hands of the city''s residents and the region, against the background of the achievements of Maeda Toshiie, founding lord of the Kaga domain, and the traditional culture nurtured by the castle town of Kanazawa. While having an origin different from ancient Shinto rites, it is cherished by many people as an event that conveys the history of the million-koku Kaga domain to the future. Its varied content—the splendid parade, traditional performing arts, the tea ceremony, and Takigi Noh—reflects the depth of culture that the city of Kanazawa has accumulated. When visiting, paying attention not only to the splendor of the parade but also to the history of the million-koku Kaga domain behind it and the traditional culture that Kanazawa continues to protect will allow a deeper enjoyment of this festival.','kanazawa-hyakumangoku-matsuri','kanazawa-hyakumangoku-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6416609','岸和田だんじり祭','Kishiwada Danjiri Matsuri','大阪府岸和田市旧市地区で行われる祭','Danjiri Matsuri festival in Japan',NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,1745,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kishiwada-Danjiri-Matsuri%20Osaka%20Japan.jpg','https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD','https://en.wikipedia.org/wiki/Kishiwada_Danjiri_Matsuri',85,'drafted','## 概要
 
-岸和田だんじり祭（きしわだだんじりまつり）は、大阪府岸和田市で行われる祭礼で、勇壮かつ豪快な「やりまわし」で全国に知られる秋祭りである。重さ数トンにもなる「だんじり」と呼ばれる地車（じぐるま）を、大勢の曳き手が町中を全速力で曳き、交差点で一気に方向転換させるやりまわしは、この祭り最大の見せ場として多くの観客を魅了する。300年以上の歴史を持ち、岸和田の人々が一年で最も熱くなる祭りとして、地域のアイデンティティそのものとなっている。例年9月に行われる祭礼を中心に、各町の地車が一体となって街を駆け抜ける。
+岸和田だんじり祭（きしわだだんじりまつり）は、大阪府岸和田市で行われる勇壮な祭りで、約300年の歴史と伝統を誇ります。「だんじり」と呼ばれる重さ4トンを超える木造のだんじり（地車）を、大勢の曳き手が街中を全速力で曳き回す姿が全国的に知られています。日本を代表する荒祭りの一つであり、その迫力と熱気は多くの観光客を魅了しています。
+
+祭り最大の見どころは、猛スピードで走りながらだんじりの向きを直角に方向転換させる「やりまわし」です。数トンのだんじりが速度を落とさず角を曲がる様は圧巻で、成功すれば大きな歓声が沸き起こります。祭りは大きく9月祭礼と10月祭礼に分かれ、岸和田市内の各町がそれぞれの誇りをかけてだんじりを曳き、町ごとの結束と伝統が受け継がれています。
 
 ## 歴史・由来
 
-岸和田だんじり祭の起源については、複数の説が伝えられている。一般によく語られるのは、元禄16年（1703年）、当時の岸和田藩主・岡部長泰が、京都の伏見稲荷を城内の三の丸神社に勧請し、城下の人々が祭礼を行ったことに始まるという説である。五穀豊穣を祈願する稲荷祭がその出発点であったとされる。
+岸和田だんじり祭の起源は、江戸時代の元禄年間にさかのぼります。元禄16年（1703年）、当時の岸和田藩3代藩主・岡部長泰（おかべながやす）公が、京都の伏見稲荷を岸和田城内の三の丸に勧請し、米や麦、豆などの五穀豊穣を祈願して行った稲荷祭が、その始まりと伝えられています。
 
-一方で、延享2年（1745年）に、北町の茶屋新右衛門が大坂の祭礼を見聞し、それを持ち帰って始めたとする説も伝わっている。こうした複数の伝承が併存しており、いずれが祭りの直接の起源であるかを今日確定することは難しい。ただ、いずれの説も江戸時代中期に祭礼の原型が形づくられたことを示しており、300年以上にわたって受け継がれてきた長い歴史があることは間違いない。
+当初の祭礼は、「にわか」や狂言などの芸事を演じ、その後に三の丸神社や岸城神社へ参拝する形だったといわれています。豊かな実りを願う農耕儀礼として始まった祭りは、時代とともに姿を変えながらも、地域の人々を結びつける精神を核として受け継がれてきました。
 
-その後、だんじりの曳行は岸和田の町人文化のなかで発展し、各町がそれぞれの地車を持ち、競い合うように技と意気込みを磨いていった。第二次世界大戦の空襲により地車を失った町もあったが、人々は祭りを絶やすことなく再建し、受け継いできた。困難のたびに祭りを立て直してきた歴史は、岸和田の人々の祭りへの深い思い入れを物語っている。
+だんじりが登場し、現在のような曳行の形へと発展していく過程では、町ごとにだんじりを持ち、その豪華さや曳行の技を競い合う気風が育まれていきました。だんじりには精緻な欄間彫刻が施され、合戦や物語の名場面が立体的に彫り込まれるなど、職人の技の粋が結集しています。だんじりそのものが各町の誇りであり、代々大切に守り伝えられる財産となっています。
+
+収穫を願い祝うことから始まった一年に一度の祭りは、社会の構造が大きく変わった今日にあっても、人々の気持ちの根本に流れる「地域」を結びつける精神を失うことなく、脈々と続いています。
 
 ## 見どころ
 
-### やりまわし
+**豪快な「やりまわし」**　この祭り最大の見どころは、重さ4トンを超えるだんじりが猛スピードで走りながら、交差点の角を直角に方向転換する「やりまわし」です。速度を保ったまま巨大なだんじりを一気に曲げる技は、曳き手たちの息の合った力と度胸の結晶であり、成功すれば見物客から大きな歓声が上がります。
 
-岸和田だんじり祭を象徴するのが、交差点で地車を直角に方向転換させる「やりまわし」である。速度を落とさずに重い地車を一気に曲げるこの技は、曳き手・前梃子（まえてこ）・後梃子（うしろてこ）、そして屋根の上で舞う大工方（だいくがた）の息の合った連携によって成り立つ。一瞬の判断と力が試される危険と隣り合わせの妙技であり、成功した瞬間には大きな歓声が沸き起こる。
+**屋根の上で舞う「大工方」**　だんじりの屋根の上では、「大工方（だいくがた）」がうちわを手に華麗に舞います。疾走し方向転換するだんじりの上でバランスを取りながら舞う姿は、祭りの花形であり、緊張と華やかさを併せ持つ名場面です。
 
-### 大工方の舞
+**危険と隣り合わせの「前梃子」**　だんじりの前輪脇では、「前梃子（まえてこ）」と呼ばれる役が梃子棒を使ってやりまわしの舵取りを担います。巨大なだんじりの動きを制御する重要かつ危険な役割で、祭りを支える職人的な技が求められます。
 
-走る地車の屋根の上で、団扇（うちわ）を手に舞う大工方の姿も大きな見どころである。激しく揺れる地車の上で堂々と舞う様子は、祭りの花形として観客の目を引きつける。
+**精緻な欄間彫刻**　だんじりの各所には、合戦絵巻や物語の名場面を立体的に彫り込んだ欄間彫刻が施されています。走るだんじりの迫力とは対照的に、静かに見ればその彫刻の緻密さと美しさに引き込まれます。
 
-### 昼と夜の表情
-
-日中は全速力の曳行とやりまわしの迫力が際立つが、夜になると地車に多数の提灯が灯され、ゆっくりと町を巡る「灯入れ曳行」が行われる。豪快な昼と、幻想的な夜という対照的な表情を一日で味わえるのも、この祭りの魅力である。
+**熱気あふれる曳行と宮入**　法被姿の曳き手たちが綱を引き、鳴り物のリズムに合わせて町を駆け抜ける光景は、祭りの熱気そのものです。各町のだんじりが神社へと集まる宮入は、祭りの一つの頂点となります。
 
 ## 開催情報・アクセス
 
-岸和田だんじり祭は、例年9月に行われる祭礼が広く知られている。試験曳きを経て、宵宮・本宮の二日間が中心となる。地区によって祭礼の日程が異なる場合があるため、訪れる際には目当ての地区の日程を確認しておきたい。
+**開催時期**　9月祭礼と10月祭礼に分かれます。9月祭礼は岸和田旧市街地などで9月中旬（敬老の日を含む土日を中心）に、10月祭礼は10月上旬から中旬にかけて行われます。試験曳き・宵宮・本宮の日程で構成されます。
 
-会場の中心となる岸和田の市街地へは、南海本線「岸和田駅」「蛸地蔵駅」が便利で、駅周辺から曳行のコースが広がる。祭礼当日は大変な混雑と交通規制が敷かれるため、公共交通機関の利用が推奨される。やりまわしが見られる主要な交差点は特に人気が高く、最新の日程・コース・観覧情報は岸和田市や祭りの公式情報で確認するのが確実である。
+**会場**　大阪府岸和田市の市街地各所と、岸城神社・三の丸神社などへの宮入路。
 
-## 周辺の見どころ
+**だんじりの規模**　重さは4トンを超える木造のだんじり（地車）。精緻な欄間彫刻が施されています。
 
-祭りの名を冠する岸和田城は、市街地のシンボルであり、城とその周辺は散策に適している。だんじり会館では、実物の地車や祭りの様子を一年を通して見ることができ、祭礼の期間以外でもその迫力にふれられる。大阪湾に面した岸和田は、海の幸や地元の味も楽しめる地域であり、祭りとあわせて町歩きを楽しむのもよいだろう。
+**参加町**　10月祭礼では45町が6つのエリアに分かれて曳行するなど、多数の町が参加します。
+
+**主な役割**　大工方（屋根で舞う）、前梃子（やりまわしの舵取り）、曳き手など、多くの役割で構成されます。
+
+**アクセス**　会場へは南海本線の岸和田駅・蛸地蔵駅が最寄りです。祭りの期間は市街地で大規模な交通規制が行われるため、公共交通機関の利用と現地の案内に従った観覧がすすめられます。やりまわしの見物は危険を伴うため、安全な位置からの観覧が求められます。
+
+## 周辺情報
+
+岸和田だんじり祭が行われる岸和田市は、大阪府の南部、大阪湾に面した泉南地域に位置する町です。古くから城下町として栄え、その中心には岸和田城がそびえています。だんじり祭の起源となった稲荷祭も、この城との深いかかわりのなかで生まれました。
+
+市内には、だんじりの歴史や彫刻、曳行の様子を紹介する「岸和田だんじり会館」があり、祭りの季節以外でもその文化と迫力にふれることができます。実物のだんじりや映像展示を通じて、祭りの成り立ちや役割を学ぶことができます。
+
+また、岸和田城とその周辺は城下町の風情を今に伝え、大阪湾沿いには漁港や海の幸を楽しめる場所も点在しています。祭りの見物とあわせて、城下町の街並みや地元の味を巡れば、泉州岸和田に息づく歴史と暮らしの文化をより深く味わうことができます。
 
 ## 関連情報
 
-岸和田だんじり祭は、各町が地車を所有し、町ごとの結束のもとで運営される、地域共同体の力が色濃くあらわれた祭りである。曳き手の安全確保や担い手の継承といった課題と向き合いながらも、その熱気と伝統は今日まで途切れることなく受け継がれてきた。なお、地車を曳く祭礼は岸和田市内でも地区によって時期が分かれており、よく知られる祭礼のほかにも秋に行われるものがある。訪れる際には、やりまわしの迫力だけでなく、それを支える町の人々の一体感にも目を向けると、この祭りの本質をより深く感じられる。','## Overview
+- 名称：岸和田だんじり祭
+- 開催地：大阪府岸和田市（岸城神社・三の丸神社ほか市街地各所）
+- 開催時期：9月祭礼（9月中旬）・10月祭礼（10月上〜中旬）
+- 起源：元禄16年（1703年）、岸和田藩主・岡部長泰による稲荷祭が始まりと伝わる
+- 歴史：約300年
+- だんじり：重さ4トンを超える木造の地車（精緻な欄間彫刻）
+- 最大の見どころ：やりまわし（走りながらの直角方向転換）
+- 主な役割：大工方・前梃子・曳き手
+','## Overview
 
-The Kishiwada Danjiri Matsuri is a festival held in Kishiwada City, Osaka Prefecture, famous throughout Japan for its bold and dynamic "yarimawashi" cornering technique. Teams of pullers haul massive wooden floats called "danjiri," weighing several tons, through the streets at full speed, swinging them around corners in a single sweeping motion. This yarimawashi is the festival''s greatest spectacle and draws large crowds of spectators. With a history of more than 300 years, the festival is the moment of the year when the people of Kishiwada are at their most passionate, and it has become a core part of the region''s identity. Centered on the festival held each September, the danjiri of every neighborhood race through the town as one.
+The Kishiwada Danjiri Matsuri is a spirited festival held in Kishiwada City, Osaka Prefecture, boasting about 300 years of history and tradition. It is known throughout Japan for the sight of wooden floats called danjiri, each weighing more than four tons, being hauled through the streets at full speed by large teams of pullers. It is one of Japan''s foremost wild festivals, and its power and heat draw many visitors.
+
+The greatest highlight of the festival is the yarimawashi, in which the danjiri is turned at a right angle while running at high speed. The sight of a float weighing several tons rounding a corner without slowing is overwhelming, and a successful turn brings a great roar from the crowd. The festival is divided broadly into a September festival and an October festival, in which each district of Kishiwada hauls its danjiri with pride, carrying on the unity and tradition of each town.
 
 ## History and Origins
 
-Several theories exist regarding the origins of the Kishiwada Danjiri Matsuri. The most commonly told account holds that in 1703 (Genroku 16), the then lord of Kishiwada, Okabe Nagayasu, invited the deity of Fushimi Inari in Kyoto to be enshrined at the Sannomaru Shrine within the castle, and the townspeople held a festival to mark the occasion. This Inari festival, a prayer for a bountiful harvest, is said to have been its starting point.
+The origins of the Kishiwada Danjiri Matsuri go back to the Genroku era of the Edo period. In 1703 (Genroku 16), Okabe Nagayasu, the third lord of the Kishiwada domain, invited the deity of Fushimi Inari of Kyoto to the Sannomaru area within Kishiwada Castle and held an Inari festival praying for an abundant harvest of the five grains, such as rice, wheat, and beans. This is said to be the beginning of the festival.
 
-Another tradition holds that in 1745 (Enkyo 2), Chaya Shin''emon of the Kita-machi district observed a festival in Osaka and brought the practice back to begin the festival. Multiple such accounts coexist, and it is difficult today to determine with certainty which marks the festival''s direct origin. In any case, all of these accounts indicate that the basic form of the festival took shape in the mid-Edo period, and there is no doubt that it carries a long history spanning more than three centuries.
+The festival in its earliest form is said to have involved performances of niwaka comic theater and kyogen, followed by worship at Sannomaru Shrine and Kishiki Shrine. Beginning as an agricultural rite praying for a rich harvest, the festival changed in form over time while keeping at its heart the spirit of binding together the local community, and it has been handed down to the present.
 
-The pulling of the danjiri subsequently developed within the merchant culture of Kishiwada, with each neighborhood owning its own float and refining its skills and spirit in friendly rivalry. Some neighborhoods lost their floats to air raids during World War II, yet the people never let the festival lapse, rebuilding and passing it on. This history of restoring the festival after each hardship speaks to the deep attachment the people of Kishiwada feel toward it.
+In the process by which the danjiri appeared and developed into the hauling form seen today, a spirit grew in which each town owned its own danjiri and competed over the splendor of the float and the skill of the hauling. The danjiri are adorned with intricate ranma carvings, in which famous scenes of battles and tales are carved in three dimensions, gathering together the finest of the craftsmen''s art. The danjiri itself is the pride of each town, a treasure carefully protected and passed down over generations.
+
+The once-a-year festival, which began from praying for and celebrating the harvest, continues to this day without losing the spirit of binding the community together that flows at the root of people''s hearts, even in an age when the structure of society has greatly changed.
 
 ## Highlights
 
-### Yarimawashi
+**The Dynamic Yarimawashi**　The greatest highlight of this festival is the yarimawashi, in which a danjiri weighing more than four tons turns at a right angle at an intersection while running at high speed. The technique of turning the huge float in one motion while maintaining speed is the crystallization of the pullers'' coordinated strength and courage, and a successful turn brings a great cheer from the spectators.
 
-The symbol of the Kishiwada Danjiri Matsuri is the "yarimawashi," in which the heavy float is turned at a right angle at an intersection. Swinging the massive float around in one motion without slowing down depends on the perfectly coordinated efforts of the pullers, the front and rear brake operators (maeteko and ushiroteko), and the "daikugata" who dances atop the roof. It is a feat that tests split-second judgment and strength, performed alongside genuine danger, and when it succeeds a great roar of cheers erupts.
+**The Daikugata Dancing on the Roof**　Atop the roof of the danjiri, the daikugata dances gracefully with a fan in hand. The figure balancing and dancing on the racing, turning float is the star of the festival, a memorable scene combining tension and splendor.
 
-### The Dance of the Daikugata
+**The Perilous Maeteko**　Beside the front wheels of the danjiri, the role called maeteko uses a lever pole to steer the yarimawashi. It is a crucial and dangerous role that controls the movement of the huge float, requiring the craftsman-like skill that supports the festival.
 
-The figure of the daikugata, dancing fan in hand atop the roof of the speeding float, is another major highlight. Dancing boldly upon the violently swaying float, the daikugata is the star of the festival and draws every eye.
+**Intricate Ranma Carvings**　Each part of the danjiri bears ranma carvings in which battle scrolls and famous scenes of tales are carved in three dimensions. In contrast to the power of the racing float, a quiet look draws one into the fineness and beauty of the carvings.
 
-### Faces of Day and Night
-
-By day, the full-speed pulling and the power of the yarimawashi stand out, but at night the floats are lit with numerous lanterns and the "hi-ire eiko," a slow lantern-lit procession through the town, takes place. Being able to experience both the bold daytime and the magical nighttime in a single day is part of the festival''s appeal.
+**The Heated Hauling and Shrine Entry**　The sight of pullers in happi coats pulling the ropes and racing through the town to the rhythm of the musical accompaniment is the very heat of the festival. The miyairi, in which the danjiri of each town gather at the shrine, forms one climax of the festival.
 
 ## Event Information and Access
 
-The Kishiwada Danjiri Matsuri is best known for the festival held each September. After trial runs, the two central days are the eve festival (yoimiya) and the main festival (hongu). Because the dates can differ by district, visitors should check the schedule of the district they wish to see.
+**Timing**　The festival is divided into a September festival and an October festival. The September festival is held in mid-September, centered on the weekend including Respect for the Aged Day, in areas such as the old town of Kishiwada, while the October festival is held from early to mid-October. It is composed of trial hauls, the eve festival, and the main festival.
 
-The central festival area in Kishiwada is best reached via Kishiwada Station or Takojizo Station on the Nankai Main Line, with the pulling routes spreading out from around the stations. On festival days, heavy crowds and traffic restrictions are in place, so the use of public transportation is recommended. The main intersections where the yarimawashi can be seen are especially popular, and the latest schedule, route, and viewing information should be confirmed through Kishiwada City or the festival''s official sources.
+**Venue**　Various places in the urban area of Kishiwada City, Osaka, and the shrine-entry routes to Kishiki Shrine, Sannomaru Shrine, and others.
 
-## Around the Area
+**Scale of the Danjiri**　Wooden floats weighing more than four tons, adorned with intricate ranma carvings.
 
-Kishiwada Castle, which shares its name with the festival, is a symbol of the city, and the castle and its surroundings make for pleasant strolling. At the Danjiri Kaikan (Danjiri Hall), actual floats and scenes of the festival can be viewed year-round, allowing visitors to experience their power even outside the festival period. Facing Osaka Bay, Kishiwada is also a region where seafood and local flavors can be enjoyed, making it a fine place to combine the festival with a walk around town.
+**Participating Towns**　In the October festival, 45 towns are divided into six areas for the hauling, with many towns taking part.
 
-## Additional Information
+**Main Roles**　The daikugata (dancing on the roof), the maeteko (steering the yarimawashi), the pullers, and many other roles.
 
-The Kishiwada Danjiri Matsuri is a festival in which the strength of the local community is vividly expressed, with each neighborhood owning a float and operating under the unity of the district. While facing challenges such as ensuring the safety of the pullers and passing on the tradition to new generations, its heat and heritage have been handed down without interruption to this day. It should be noted that within Kishiwada City, the festivals in which floats are pulled are divided by district and held at different times, and in addition to the well-known festival there are others held in autumn. When visiting, paying attention not only to the power of the yarimawashi but also to the sense of unity among the townspeople who support it will allow a deeper appreciation of the festival''s essence.','kishiwada-danjiri-matsuri','kishiwada-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Access**　The venue is reached from Kishiwada Station and Takojizo Station on the Nankai Main Line. During the festival, large-scale traffic restrictions are in place in the urban area, so visitors are advised to use public transportation and follow local guidance. Because watching the yarimawashi involves danger, viewing from a safe position is required.
+
+## Surrounding Area
+
+Kishiwada City, where the Kishiwada Danjiri Matsuri takes place, is a town in the southern part of Osaka Prefecture, in the Sennan region facing Osaka Bay. It has long prospered as a castle town, with Kishiwada Castle rising at its center. The Inari festival that became the origin of the danjiri festival was also born out of a deep connection with this castle.
+
+Within the city stands the Kishiwada Danjiri Kaikan, a hall that introduces the history, carvings, and hauling of the danjiri, where one can experience the culture and power of the festival even outside the festival season. Through actual danjiri and video displays, visitors can learn about the origins and roles of the festival.
+
+Kishiwada Castle and its surroundings preserve the atmosphere of a castle town to this day, and along Osaka Bay there are fishing ports and places to enjoy the bounty of the sea. Combining a visit to the festival with a tour of the castle town streets and local flavors allows one to savor more deeply the history and culture of daily life that lives on in Senshu Kishiwada.
+
+## Related Information
+
+- Name: Kishiwada Danjiri Matsuri
+- Location: Kishiwada City, Osaka Prefecture (Kishiki Shrine, Sannomaru Shrine, and various places in the urban area)
+- Timing: September festival (mid-September) and October festival (early to mid-October)
+- Origin: Said to have begun with the Inari festival held by the Kishiwada domain lord Okabe Nagayasu in 1703 (Genroku 16)
+- History: About 300 years
+- Danjiri: Wooden floats weighing more than four tons (with intricate ranma carvings)
+- Greatest Highlight: Yarimawashi (right-angle turning while running)
+- Main Roles: Daikugata, maeteko, and pullers
+','kishiwada-danjiri-matsuri','kishiwada-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7813900','東京国際レズビアン&ゲイ映画祭','Rainbow Reel Tokyo',NULL,'International film festival for LGBT audiences','Q1490','東京都','Tokyo','東京都','kanto',35.683333333,139.766666666,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%AB%E6%9D%B1%E4%BA%AC','https://en.wikipedia.org/wiki/Rainbow_Reel_Tokyo',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,1803,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'drafted','## 概要
 
