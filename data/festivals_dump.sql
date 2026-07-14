@@ -1602,51 +1602,111 @@ Hirosaki, the center of Tsugaru, is also famous nationwide as a major producer o
 - Form: The fan-shaped ogi neputa is the star (in contrast to the three-dimensional figure form of the Aomori Nebuta)
 - Cultural Property: Designated an Important Intangible Folk Cultural Property of the nation
 - Highlights: The contrast of the front and back kagami-e and miokuri-e, the cry of yaya-do, and the great drums','hirosaki-neputa','hirosaki-neputa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11465312','尾張津島天王祭','Owari Tsushima Tennō Festival','津島神社の祭事','annual festival in Tsushima, Aichi, Japan','Q705136','津島神社','Tsushima Shrine','愛知県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tushimatennousai1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E5%A4%A9%E7%8E%8B%E7%A5%AD','https://en.wikipedia.org/wiki/Tenno_Matsuri',85,'drafted','## 尾張津島天王祭とは
+INSERT INTO "festivals" VALUES('Q11465312','尾張津島天王祭','Owari Tsushima Tennō Festival','津島神社の祭事','annual festival in Tsushima, Aichi, Japan','Q705136','津島神社','Tsushima Shrine','愛知県','chubu',NULL,NULL,NULL,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tushimatennousai1.JPG','https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E5%A4%A9%E7%8E%8B%E7%A5%AD','https://en.wikipedia.org/wiki/Tenno_Matsuri',85,'drafted','## 概要
 
-尾張津島天王祭（おわりつしまてんのうまつり）は、愛知県津島市の津島神社で毎年夏に行われる、約600年の歴史を持つ川祭りです。日本三大川祭りのひとつに数えられ、宵祭(よいまつり)では、提灯で半円形に飾られた5艘の「巻藁船(まきわらぶね)」が天王川を進む、幽玄かつ華麗な光景で全国に知られています。津島神社の祭礼として、尾張地方の夏を彩る、優美で勇壮な水上の祭典です。
+尾張津島天王祭（おわりつしまてんのうまつり）は、愛知県津島市の津島神社の祭礼として営まれる、車楽（だんじり）舟行事を中心とした夏まつりである。津島神社の歴史とともに歩んできた由緒ある祭礼で、その始まりは600年近く前とも言われ、全国の数ある夏まつりの中でも最も華麗なものと称えられてきた。天王祭の「天王」とは、津島神社の祭神である牛頭天王（ごずてんのう・須佐之男命と習合した疫病除けの神）に由来し、夏の疫病退散を祈願する祇園信仰の流れを汲む祭りである。
 
-## 歴史と由来
+現在は毎年7月の第4土曜日の夜に宵祭（よいまつり）、翌日曜日の朝に朝祭（あさまつり）が行われる。夜の天王川に約500個の提灯を灯した5艘のまきわら船が浮かぶ宵祭の幻想的な光景と、翌朝に市江車を先頭とする6艘の車楽舟が繰り広げる勇壮な神事が、この祭りの二つの頂点をなす。1980年（昭和55年）に国の重要無形民俗文化財に指定され、2016年にはユネスコ無形文化遺産「山・鉾・屋台行事」を構成する全国33行事の一つとして登録された、日本を代表する川まつりである。
 
-尾張津島天王祭は、津島神社の祭礼として室町時代から続くと伝えられ、約600年の歴史を誇ります。津島神社は、全国に約3,000社あるとされる天王社(津島神社・牛頭天王を祀る社)の総本社で、疫病退散の信仰を集める由緒ある古社です。織田信長や豊臣秀吉も保護したと伝えられ、その篤い信仰を背景に、天王祭は壮大な川祭りへと発展しました。船を舞台とする独特の祭礼様式は、天王川とともに生きてきた津島の人々の信仰と財力を今に伝えています。
+## 歴史・由来
+
+天王祭の起源については諸説あり、津島神社は正確な始まりを一つに定めていないが、いずれの説も600年近い歴史を伝えている。有力な一説は、南北朝時代に後醍醐天皇の曾孫にあたる良王親王が津島に逃れてきた際、南朝方の良王を守る津島の「四家七苗字」の武士たちが、北朝方の武士である佐屋村の台尻大隈守を船遊びに事寄せて討ち取ったことから、これを記念してまつりを行うようになったというものである。四家七苗字とは、大橋・岡本・恒川・山川の四家と、堀田・平野・服部・鈴木・真野・光賀・河村の七苗字からなる津島の土豪・名主たちを指す。
+
+もう一つの説は、須佐之男命が西の海より市江島（現在の愛西市東保町）に着船した折、草を刈る子供たちが遊び戯れている姿をご覧になって児の舞や津島笛の譜を作られ、後に疫病が流行したため神を慰めるために祭りを行ったというものである。さらに、京都の神泉苑へ御霊を鎮め送った「御葭流し（みよしながし）」の祭事が地方へ伝播したとする説もある。御葭流しとは、川辺に群生する葦に人間の罪や汚れを託し、あるいは葦の管に封じ込めて流すもので、夏の酷暑を無事に過ごすため神葭を依代とする「神迎え」のまつりであった。これらの伝承は、この祭りが疫病除けと水辺の信仰に深く根ざしていることを物語っている。
+
+戦国時代には、津島を経済的な基盤の一つとした織田信長もこの祭を見たと伝えられており、津島の繁栄とともに祭礼が発展してきたことをうかがわせる。江戸時代には尾張藩が祭を手厚く保護し、朝祭の中心となる市江車には53石余の土地を与え、その年貢を市江車の費用に充てさせた。この土地は現在も「車田（くるまだ）」という地名として残り、市江車車田址の石碑が建てられている。
+
+天王祭はかつて旧暦6月14日・15日に行われていたが、1963年（昭和38年）より7月第4土曜日を宵祭、翌日曜日を朝祭とする現在の日程に改められた。長い歴史の中で担い手や日程は変化しながらも、車楽舟という独特の祭礼形態と、それを支える地域の人々の営みは受け継がれ、国指定・ユネスコ登録という形で世界に認められる文化遺産となった。
 
 ## 見どころ
 
-最大の見どころは、宵祭で天王川を進む「巻藁船」の幻想的な光景です。船上に半円形に組まれた提灯が約500個も灯され、その灯りが川面に映り込む様は、息をのむほどの美しさ。提灯の数は1年の月数と日数を表すとされ、ろうそくの柔らかな灯りが幽玄な雰囲気を醸し出します。翌日の朝祭では、能の演目にちなんだ車楽船(だんじりぶね)が登場し、布鉾(ぬのぼこ)を持った若者が川へ飛び込む勇壮な場面も。夜と昼で趣の異なる、二日間にわたる華麗な川祭りを堪能できます。
+**幻想的な宵祭のまきわら船**　宵祭の主役は、津島五か村（堤下・米之座・今市場・筏場・下構）から出される5艘のまきわら船である。屋台の上に半円・山型となるよう365個の提灯を飾り、これは1年の日数を表している。中央高くには真柱を立て、1年の月数を表す12個の提灯を掲げる。提灯に明かりが灯されると、津島笛を奏でながら車河戸からゆっくりと姿を現し、川面に灯を映しながら天王川を漕ぎ渡る様は、この祭りを象徴する幻想的な光景である。
 
-## 開催情報
+**勇壮な朝祭と市江車の鉾持ち**　翌朝の朝祭は、夜のうちに提灯を外し、きらびやかな幕で飾り替えた船が登場する神事の要である。旧市江村（現在の愛西市東保町）の市江車を先頭に、能の出し物を型どった「置物」を載せた計6艘の車楽舟が古楽を奏でながら丸池へ漕ぎ出す。最大の見どころは、市江車から下帯姿の10人の鉾持ちが次々と水中に飛び込み、布鉾を担いだまま古式泳法でお旅所まで一直線に泳ぐ場面で、祭りの伝統を受け継ぐ若者の力強さが凝縮された勇壮な神事である。
 
-例年夏（7月）の第4土曜日とその翌日に、愛知県津島市の津島神社および天王川公園で開催されます。夏の天王祭であり、季節は夏。宵祭(土曜夜)と朝祭(日曜朝)で見どころが異なります。日程の詳細は、津島市および津島神社の公式発表で事前に確認することをおすすめします。
+**格式を伝える市江車の特徴**　朝祭の主役である市江車は、津島五車と比べても古式ゆかしい姿を残すとされる。五車より大きく、上部に載る置物（能人形）は神籤によって毎年選ばれる。徳川家康から拝領したと伝わる小袖幕を積み、車楽舟の前面には葵の紋が見られるなど、江戸期の藩による保護の名残が随所に息づいている。これらの特徴は、単なる華やかさにとどまらず、祭りが積み重ねてきた歴史の重みを今に伝えている。
 
-## アクセス
+**神迎えと神輿還御の神事**　まきわら船や車楽舟の華やかさに目を奪われがちだが、天王祭の核心は津島神社の神を迎え送る神事にある。宵祭では乗船者がお旅所で神輿に拝礼し、朝祭では鉾持ちが泳ぎ着いた後に津島神社まで走って布鉾を奉納する。続いて各車楽舟から稚児がお旅所へ渡り、神輿還御祭を経て本殿まで練り歩き、最後に稚児の神前奏楽で幕を閉じる。華麗な船行事の背後にある、こうした厳粛な祭祀の流れにこそ祭りの本義がある。
 
-会場の天王川公園・津島神社へは、名鉄津島線「津島駅」から徒歩圏内とアクセスが良好です。名古屋方面から名鉄を利用してアクセスできます。車の場合は周辺の駐車場を利用できますが、祭り当日は大変な混雑が予想されるため、公共交通機関の利用が強く推奨されます。
+## 開催情報・アクセス
 
-## 周辺観光
+会場は愛知県津島市の天王川公園（丸池周辺）で、津島神社と天王川を舞台に行われる。開催時期は毎年7月の第4土曜日が宵祭、翌日曜日が朝祭となっている。かつては旧暦6月14日・15日に行われていたが、1963年（昭和38年）に現在の日程へ改められた。
 
-津島市は、津島神社の門前町として栄えた歴史ある町で、古い町並みや歴史的な建造物が残ります。尾張地方西部に位置し、名古屋市にも近い立地です。近隣には、なばなの里(三重県桑名市)や木曽三川公園などの観光地も。名古屋からの足を延ばせば、名古屋城や熱田神宮、グルメも楽しめます。尾張津島天王祭とあわせて、尾張・濃尾平野の歴史と信仰、自然を満喫できるエリアです。','## What Is the Owari Tsushima Tennō Festival?
+宵祭は日没後、5艘のまきわら船に提灯が灯される頃から始まり、朝祭は日曜日の午前8時半頃に津島神社神職らの出迎えの赤舟によって幕を開ける。年によって時刻や進行、有料観覧席の有無などが変わるため、最新の開催日程・時間・実施可否は津島市や津島神社の公式発表で必ず確認してほしい。
 
-The Owari Tsushima Tennō Festival is a river festival with a history of some 600 years, held each summer at Tsushima Shrine in Tsushima, Aichi Prefecture. Counted among Japan''s three great river festivals, it is known nationwide for the profound and resplendent sight of its eve festival (*yoi-matsuri*), in which five "makiwara boats" decorated with lanterns in a semicircular shape advance along the Tennō River. As the festival of Tsushima Shrine, it is a graceful and spirited water festival that colors the summer of the Owari region.
+公共交通機関では名鉄津島線の津島駅が最寄りで、駅から天王川公園までは徒歩圏内にある。祭り当日の周辺は大変混雑するため、公共交通機関の利用が推奨される。宵祭・朝祭ともに川と船を用いる祭りの性質上、天候によって進行が影響を受ける場合がある点にも留意したい。
+
+なお、朝祭の主役である市江車を担うのは隣接する愛西市であり、7月第4土曜日の午後には愛西市西保町の星大明社から佐屋町にかけて、旧東海道脇往還の佐屋街道を通る児行列も行われる。祭りが津島市と愛西市の両地域によって支えられていることも、この祭りの特色である。
+
+## 周辺情報
+
+津島神社は全国に約3,000社あるとされる天王社・津島神社の総本社とされ、牛頭天王・須佐之男命を祀る古社である。境内には楼門や本殿など歴史的な建造物が残り、祭りの時期以外にも参拝に訪れる人が多い。祭りの舞台となる天王川公園は、かつての天王川の名残をとどめる池を中心とした公園で、初夏には藤の名所としても知られ、藤まつりの時期には多くの人でにぎわう。
+
+津島の街には、津島神社の門前町・湊町として栄えた歴史を伝える古い町並みが残っている。かつて津島は木曽川水系の水運と信仰の拠点として繁栄し、その富が天王祭の華やかさを支えた。まちなかには往時の商家や社寺が点在し、祭りの背景にある地域の歴史をたどりながら歩くことができる。
+
+朝祭を担う市江車ゆかりの地である愛西市には、市江車車田址の石碑や、旧佐屋街道の宿場町・佐屋宿の名残が残る。名古屋市中心部からも鉄道で比較的短時間でアクセスできる立地にあり、尾張地方の水辺の歴史と信仰を体感する旅の拠点として周辺一帯を巡るのもよいだろう。
+
+## 関連情報
+
+*   正式名称：尾張津島天王祭（津島神社の祭礼・車楽舟行事）
+*   開催地：愛知県津島市 天王川公園・津島神社一帯（朝祭の市江車は愛西市が担う）
+*   開催時期：毎年7月第4土曜日（宵祭）・翌日曜日（朝祭）※かつては旧暦6月14・15日
+*   文化財指定：1980年（昭和55年）国指定重要無形民俗文化財／2016年ユネスコ無形文化遺産「山・鉾・屋台行事」33件の一つ
+*   由来：600年近く前とされ諸説あり（良王親王伝説・須佐之男命市江島着船伝説・御葭流し起源説）
+*   主な行事：宵祭のまきわら船（提灯365個＋12個）・朝祭の車楽舟6艘・市江車の鉾持ち10人による飛び込みと古式泳法
+*   最寄り：名鉄津島線 津島駅（天王川公園まで徒歩圏）','## Overview
+
+The Owari Tsushima Tenno Festival is a summer festival centered on the danjiri-bune (float-boat) rites, held as the ritual observance of Tsushima Shrine in Tsushima City, Aichi Prefecture. A venerable festival that has walked hand in hand with the history of Tsushima Shrine, its beginnings are said to reach back nearly 600 years, and among the many summer festivals of Japan it has long been praised as one of the most gorgeous. The word Tenno in the festival''s name derives from Gozu Tenno, the deity of Tsushima Shrine, a god of protection against pestilence who became fused with Susanoo, and the festival belongs to the Gion faith tradition of praying for the warding off of summer epidemics.
+
+Today the festival unfolds over two peaks: the Yoi-matsuri (eve festival) on the night of the fourth Saturday of July, and the Asa-matsuri (morning festival) on the following Sunday morning. The fantastical sight of five makiwara-bune boats, each lit with around 500 lanterns, floating on the nighttime Tenno River during the eve festival, and the valiant rites the next morning in which six float-boats led by the Ichie-guruma take to the water, form the two climaxes of this festival. Designated a National Important Intangible Folk Cultural Property in 1980, it was registered in 2016 as one of the 33 nationwide events making up the UNESCO Intangible Cultural Heritage of Yama, Hoko, Yatai float festivals, and it stands as one of Japan''s representative river festivals.
 
 ## History and Origins
 
-The Owari Tsushima Tennō Festival is said to have continued since the Muromachi period as the festival of Tsushima Shrine, boasting a history of about 600 years. Tsushima Shrine is the head shrine of the Tennō shrines (shrines of Tsushima Shrine / Gozu Tennō), said to number some 3,000 across the country, and is a venerable old shrine that draws faith for the dispelling of epidemics. Said to have been protected by Oda Nobunaga and Toyotomi Hideyoshi as well, the Tennō Festival developed into a grand river festival against the background of this deep devotion. The distinctive festival style staged on boats conveys to this day the faith and wealth of the people of Tsushima, who have lived alongside the Tennō River.
+There are several theories about the origin of the Tenno Festival, and Tsushima Shrine does not fix its beginning to a single account, but all of the theories convey a history of nearly 600 years. One leading account holds that when Prince Yoshikimi, a great-grandson of Emperor Godaigo, fled to Tsushima during the period of the Northern and Southern Courts, the warriors of the shike-shichimyoji clans of Tsushima who protected the Southern Court''s Yoshikimi lured a Northern Court warrior, Daishiri Osumi-no-kami of Saya village, into a boating outing and struck him down, and that the festival came to be held in commemoration of this. The shike-shichimyoji were the local magnates and headmen of Tsushima, comprising the four houses of Ohashi, Okamoto, Tsunekawa, and Yamakawa, and the seven surnames of Hotta, Hirano, Hattori, Suzuki, Mano, Koga, and Kawamura.
+
+Another theory tells that when Susanoo came ashore from the western sea at Ichie Island (present-day Higashibo-cho, Aisai City), he saw children who cut grass playing and frolicking, and composed the Children''s Dance and the score of the Tsushima flute; later, when a pestilence spread, the festival was held to console the deity. There is also a theory that the rite of Miyoshi-nagashi, in which spirits were pacified and sent off to Shinsen-en garden in Kyoto, gradually spread to the provinces. In the Miyoshi-nagashi, human sins and impurities were entrusted to the reeds growing thickly along the riverbank, or sealed within reed tubes and set adrift; it was a rite of welcoming the deity, treating the sacred reed as a yorishiro (a vessel for the divine spirit), in order to pass safely through the fierce summer heat. These traditions speak to how deeply this festival is rooted in the warding off of pestilence and in waterside faith.
+
+During the Warring States period, Oda Nobunaga, who counted Tsushima among his economic bases, is said to have watched this festival as well, suggesting that the rite developed together with the prosperity of Tsushima. In the Edo period, the Owari domain protected the festival generously, granting the Ichie-guruma, the centerpiece of the morning festival, land yielding over 53 koku and directing that its tax rice be used for the Ichie-guruma''s expenses. This land still remains today as the place name Kurumada, where a monument marking the site of the Ichie-guruma''s Kurumada stands.
+
+The Tenno Festival was once held on the fourteenth and fifteenth days of the sixth month of the old lunar calendar, but from 1963 (Showa 38) it was changed to the present schedule of the eve festival on the fourth Saturday of July and the morning festival the following Sunday. Through its long history, while its bearers and dates have changed, the distinctive festival form of the float-boats and the efforts of the local people who sustain them have been handed down, becoming a cultural asset recognized by the world through national designation and UNESCO registration.
 
 ## Highlights
 
-The greatest attraction is the magical sight of the "makiwara boats" advancing along the Tennō River at the eve festival. Some 500 lanterns assembled in a semicircular shape on the boats are lit, and the sight of their light reflected on the river''s surface is of breathtaking beauty. The number of lanterns is said to represent the number of months and days in a year, and the soft light of the candles evokes a profound atmosphere. At the morning festival the following day, *danjiri* boats based on Noh plays appear, with the spirited scene of young men holding cloth halberds leaping into the river. Visitors can savor a resplendent river festival spanning two days, with different characters by night and by day.
+**The fantastical makiwara-bune of the eve festival**　The stars of the eve festival are the five makiwara-bune sent out from the five villages of Tsushima: Toge, Komenoza, Imaichiba, Ikadaba, and Shimogamae. Atop each boat''s platform, 365 lanterns are arranged into a semicircular, mountain-like shape, representing the number of days in a year. High in the center a true pillar is raised, bearing 12 lanterns that represent the number of months in a year. When the lanterns are lit, the boats slowly emerge from the Kurumagawado while the Tsushima flute plays, and the sight of them rowing across the Tenno River as their lights reflect on the water''s surface is the fantastical scene that symbolizes this festival.
 
-## When It Takes Place
+**The valiant morning festival and the Ichie-guruma''s hoku-mochi**　The morning festival the next day is the heart of the rite, when the boats appear freshly adorned with gorgeous curtains after their lanterns have been removed during the night. Led by the Ichie-guruma of the former Ichie village (present-day Higashibo-cho, Aisai City), a total of six float-boats bearing okimono figures modeled on Noh performances row out to Marukе while playing ancient music. The greatest highlight comes when ten hoku-mochi in loincloths leap one after another into the water from the Ichie-guruma and, shouldering their cloth halberds, swim in an old-style stroke in a straight line to the Otabisho, a valiant rite that concentrates the strength of the young men who carry on the festival''s tradition.
 
-The festival is typically held on the fourth Saturday of July in summer and the following day at Tsushima Shrine and Tennōgawa Park in Tsushima, Aichi Prefecture. As a summer Tennō festival, its season is summer. The highlights differ between the eve festival (Saturday night) and the morning festival (Sunday morning). Visitors are advised to confirm the details of the dates in advance through official announcements from Tsushima City and Tsushima Shrine.
+**The dignified features of the Ichie-guruma**　The Ichie-guruma, the star of the morning festival, is said to preserve an older, more classical form than the five boats of Tsushima. It is larger than the five boats, and the okimono (Noh figure) placed on top is chosen anew each year by sacred lot. It carries a kosode curtain said to have been bestowed by Tokugawa Ieyasu, and the hollyhock crest can be seen on the front of the float-boat, with the traces of Edo-period domain protection alive in every detail. These features convey not merely splendor but the weight of the history the festival has accumulated.
 
-## Access
+**The rites of welcoming and returning the deity**　It is easy to be captivated by the splendor of the makiwara-bune and the float-boats, but the core of the Tenno Festival lies in the rites of welcoming and sending off the deity of Tsushima Shrine. In the eve festival the boat riders pay reverence to the mikoshi at the Otabisho, and in the morning festival the hoku-mochi, after swimming ashore, run to Tsushima Shrine to dedicate their cloth halberds. Then children cross from each float-boat to the Otabisho, and after the rite of returning the mikoshi they parade to the main hall, closing with the children''s sacred music before the deity. It is in this solemn flow of worship behind the gorgeous boat rites that the true meaning of the festival resides.
 
-Tennōgawa Park and Tsushima Shrine enjoy good access, within walking distance of Tsushima Station on the Meitetsu Tsushima Line. They can be accessed by Meitetsu from the direction of Nagoya. By car, nearby parking is available, but as tremendous crowds are expected on the day of the festival, public transport is strongly recommended.
+## Event Information and Access
+
+The venue is Tenno River Park (around Marukе) in Tsushima City, Aichi Prefecture, with the festival staged on Tsushima Shrine and the Tenno River. The eve festival is held on the fourth Saturday of July every year, and the morning festival on the following Sunday. It was once held on the fourteenth and fifteenth days of the sixth lunar month, but the schedule was changed to the present form in 1963 (Showa 38).
+
+The eve festival begins around the time the lanterns are lit on the five makiwara-bune after sunset, and the morning festival opens around 8:30 a.m. on Sunday with a red boat sent out by the priests of Tsushima Shrine. Because the times, the progression, and the availability of paid viewing seats vary from year to year, please be sure to check the official announcements of Tsushima City and Tsushima Shrine for the latest dates, times, and whether the festival will be held.
+
+By public transport, Tsushima Station on the Meitetsu Tsushima Line is the nearest station, and Tenno River Park is within walking distance of the station. As the surrounding area becomes very crowded on the day of the festival, use of public transportation is recommended. Given the nature of a festival that uses the river and boats, note also that the progression may be affected by the weather.
+
+The Ichie-guruma, the star of the morning festival, is borne by the neighboring city of Aisai, and on the afternoon of the fourth Saturday of July a children''s procession is held from Hoshi Daimyojin Shrine in Nishibo-cho, Aisai City, toward Saya-cho, passing along the Saya Kaido, a branch route of the old Tokaido. That the festival is sustained by both Tsushima City and Aisai City is another of its distinctive features.
 
 ## Around the Area
 
-Tsushima is a historic town that prospered as the gate town of Tsushima Shrine, where old streets and historic buildings remain. Located in the western part of the Owari region, it is also close to Nagoya City. Nearby tourist destinations include Nabana no Sato (in Kuwana, Mie Prefecture) and the Kiso Sansen Park. A trip extended from Nagoya allows one to enjoy Nagoya Castle, Atsuta Shrine, and gourmet fare as well. Together with the Owari Tsushima Tennō Festival, it is an area where one can savor the history, faith, and nature of Owari and the Nōbi Plain.','owari-tsushima-tenno-festival','owari-tsushima-tenno-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+Tsushima Shrine is regarded as the head shrine of the roughly 3,000 Tenno and Tsushima shrines across Japan, an ancient shrine enshrining Gozu Tenno and Susanoo. Historic structures such as the tower gate and main hall remain within its precincts, and many visit to worship even outside the festival season. Tenno River Park, the stage of the festival, is a park centered on a pond that preserves the vestiges of the former Tenno River; it is also known as a place for wisteria in early summer, and grows lively with visitors during its wisteria festival.
+
+The town of Tsushima retains an old townscape conveying its history as the shrine-front town and port town that flourished around Tsushima Shrine. Tsushima once prospered as a hub of water transport and faith on the Kiso River system, and this wealth supported the splendor of the Tenno Festival. Old merchant houses and shrines and temples are scattered through the town, and one can walk while tracing the local history that lies behind the festival.
+
+Aisai City, the land connected to the Ichie-guruma that carries the morning festival, has the monument marking the site of the Ichie-guruma''s Kurumada and the remnants of Saya-juku, a post town of the old Saya Kaido. Located within a relatively short train ride from central Nagoya, the whole surrounding area makes a fine base for a journey to experience the waterside history and faith of the Owari region.
+
+## Related Information
+
+*   Official name: Owari Tsushima Tenno Festival (the ritual observance of Tsushima Shrine, a float-boat rite)
+*   Location: Tenno River Park and the Tsushima Shrine area, Tsushima City, Aichi Prefecture (the morning festival''s Ichie-guruma is borne by Aisai City)
+*   Dates: every year on the fourth Saturday of July (eve festival) and the following Sunday (morning festival); formerly the 14th-15th of the sixth lunar month
+*   Cultural designation: National Important Intangible Folk Cultural Property (1980); one of the 33 events in the UNESCO Intangible Cultural Heritage of Yama, Hoko, Yatai float festivals (2016)
+*   Origin: said to be nearly 600 years old, with several theories (Prince Yoshikimi legend, Susanoo''s landing at Ichie Island, and the Miyoshi-nagashi origin)
+*   Main rites: makiwara-bune of the eve festival (365 lanterns plus 12); six float-boats of the morning festival; the leap and old-style swim of the Ichie-guruma''s ten hoku-mochi
+*   Nearest station: Tsushima Station on the Meitetsu Tsushima Line (walking distance to Tenno River Park)','owari-tsushima-tenno-festival','owari-tsushima-tenno-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q219122','三社祭','Sanja Matsuri','ヤクザによる東京都台東区浅草の浅草神社の例大祭','Shinto festival in Japan','Q670049','浅草神社','Asakusa Shrine','東京都','kanto',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20mikoshi%20from%20sensoji%20Sanja%20Matsuri%202006-3.jpg','https://ja.wikipedia.org/wiki/%E4%B8%89%E7%A4%BE%E7%A5%AD','https://en.wikipedia.org/wiki/Sanja_Matsuri',85,'drafted','## 概要
 
 三社祭(さんじゃまつり)は、東京都台東区の浅草神社で営まれる例大祭で、神田祭・山王祭と並んで江戸三大祭の一つに数えられる、浅草を代表する初夏の祭礼である。浅草神社の氏子四十四ヶ町を中心に、五月の第三土曜日を基点とした金・土・日曜日の三日間にわたって繰り広げられ、勇壮かつ華やかな神輿渡御を主とする。三日間でおよそ百八十万人もの人出を集める、東京有数の規模を誇る祭りである。
