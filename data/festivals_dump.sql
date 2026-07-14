@@ -9528,105 +9528,111 @@ The central district of Hachirōgata enjoys good access within walking distance 
 Hachirōgata is known for the lake Hachirōgata, once the second largest in Japan, and the large-scale land reclamation project that transformed it. The vast rural scenery of Ōgata Village born from the reclamation, the Namahage culture of the Oga Peninsula, and the coastal scenery are nearby attractions. Together with the food culture of Akita, a celebrated rice-growing region, and the Oga Onsen hot-spring area, it is a place where one can savor the nature and folk culture of Akita.','hitoichi-no-bon-odori','hitoichi-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280858','ゆふいん音楽祭','Yufuin Music Festival',NULL,'music festival in Japan','Q990455','由布市','Yufu','大分県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B5%E3%81%84%E3%82%93%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11355803','三条まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11285021','アメッコ市','Odate Amekko-ichi','日本の秋田県大館市の小正月行事',NULL,NULL,NULL,NULL,'青森県','tohoku',40.270611111,140.558722222,NULL,NULL,NULL,'http://commons.wikimedia.org/wiki/Special:FilePath/AmekkoIchi.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%83%E3%82%B3%E5%B8%82',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11285021','アメッコ市','Odate Amekko-ichi','日本の秋田県大館市の小正月行事',NULL,NULL,NULL,NULL,'秋田県','tohoku',40.270611111,140.558722222,NULL,2,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/AmekkoIchi.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%83%E3%82%B3%E5%B8%82',NULL,95,'drafted','## 概要
 
-大館アメッコ市(おおだてアメッコいち)は、毎年2月の第2土曜日とその翌日の日曜日の2日間、秋田県大館市の中心市街地「おおまちハチ公通り」で開催される、400年以上の歴史を持つ冬の伝統民俗行事です。「この日にアメを食べると風邪をひかない」という言い伝えとともに、地元住民から観光客まで幅広く愛されてきました。
+大館アメッコ市は、秋田県大館市の中心部・おおまちハチ公通りで、毎年2月の第2土曜日とその翌日曜日の2日間にわたって開催される冬の伝統行事である。片側2車線の市道（通称おおまちハチ公通り）を歩行者天国にして行われ、切りアメ・枝アメ・からみアメなど多種多様な飴を売る露店が軒を連ねる。県内外から多くの観光客が訪れ、秋田県北を代表する冬の風物詩として知られている。
 
-色とりどりの飴を販売する屋台が通りに数十軒並び、ミズキの枝にカラフルな飴を結わえつけた縁起物が会場を彩る光景は、雪深い東北の冬を華やかに演出する風物詩です。秋田犬パレードや白ひげ大神巡行など、大館ならではの催しも見どころとなっています。
+この市は約400年の歴史を持つと言い伝えられる小正月行事であり、「この日にアメを食べると風邪をひかない」という言い伝えが今もなお受け継がれている。もともとは地域の信仰と生活に根ざした民俗行事であり、単なる物産市ではなく無病息災を願う人々の祈りが込められている点に特徴がある。飴という素朴な甘味に健康祈願の意味を重ねてきたところに、雪深い北国ならではの生活文化が表れている。
 
-## 歴史と由来
+## 歴史・由来
 
-大館アメッコ市の起源は、天正16年(1588年)頃と伝えられ、約400年の歴史を誇る東北地方屈指の民俗行事です。古来、赤みのあるミズキの枝に飴を付け、稲穂代わりに神前に供えたことから始まったとされ、五穀豊穣と無病息災を祈る農耕文化と結びついた信仰行事が原型となっています。
+大館アメッコ市の起源は、安土桃山時代の天正年間（1573〜1591年）、とりわけ天正16年（1588年）頃まで遡ると言い伝えられている。大館市公式サイトや大館神明社の資料によれば、大館城下に開かれた「市」で始まったと考えられており、当時は大館城の支配をめぐって諸勢力が争う不安定な時代であった。のちに大館城下は佐竹西家の支配となり、城代が管理する「市」が開かれ、開催日や売買商品の制限なども定められていったと伝えられる。
 
-「2月の第2土曜日に近隣の山々から神様がアメを買いに降りてくる」という伝承が地域に根づき、白い髭を蓄えた山の神「白ひげ大神」が市中を巡行する儀式が祭りの中核として継承されてきました。当初は地元の民俗行事として小規模に行われていましたが、昭和47年(1972年)から現在の「おおまちハチ公通り」を会場として大規模化し、観光客にも開かれた現代的な祭りへと発展しています。
+アメを供え食べる風習そのものは、さらに古い民間信仰に由来するとされる。一説では、ミズキの枝にアメを付けて稲穂の代わりに神前に供えたことから始まったと伝えられ、農家の主婦が米で作ったアメを餅につけて食べ、豊作と無病息災を祈願したという。やがてそのアメを町で売るようになったことがアメッコ市の始まりにつながったとも言われており、あくまで諸説あるため断定はできないが、農耕儀礼と結びついた行事であった点は各資料に共通している。
 
-大館は秋田犬の原産地として国際的にも知られており、平成年間以降は秋田犬パレードが組み込まれ、伝統行事と地域ブランディングを融合した独自の祭りとして全国的な知名度を獲得しました。
+文献上の最も古い記録としては、大館の呉服商「マルコ」の主人・小野儀助が残した日記が挙げられる。明治25年（1892年）2月11日（旧暦1月13日）の条に「中町市十七日市を繰上げたり。あめ町也」と記されており、この頃には現在とほぼ同時期に市で飴が売られていたことがうかがえる。この日記は明治期の大館を知る貴重な資料として大館市の博物館にも収蔵されており、アメッコ市の歴史的連続性を裏づける手がかりとなっている。
+
+昭和の初め頃になると菓子屋が商売として飴を作るようになり、寺町の小路などで「市」として開かれるようになったと伝えられる。大きな変化を迎えたのは昭和57年（1982年）で、大町通りを歩行者天国にして開催するようになってから、全国各地から観光客が訪れる大規模なイベントへと発展した。素朴な小正月行事から広域的な観光行事へと姿を変えながらも、健康祈願という核が失われていないところに、この行事の粘り強い継承力が見て取れる。
 
 ## 見どころ
 
-**飴屋台の連なり**
-おおまちハチ公通りには、地元菓子店や和菓子職人による飴屋台が数十軒並びます。色とりどりの伝統飴、現代的なアレンジを加えた創作飴、ミズキの枝に飴を結わえた縁起物など、見て楽しく食べて美味しい多彩な飴文化を体験できます。
+**枝アメの華やかな彩り** 大館アメッコ市の象徴とも言える「枝アメ」は、ミズキの枝にピンクや緑など色とりどりの飴や短冊を飾り付けたものである。雪の白と青空に映える枝アメは、街路樹が花を咲かせたかのような美しい景観を作り出す。餅を枝に付けて神棚に供える「餅花」をヒントに生まれたと言われ、幸運や健康を願って購入する縁起物として親しまれている。
 
-**白ひげ大神の巡行**
-山から飴を買いに降りてきた神様を再現する「白ひげ大神」の巡行は、祭りの神秘的なハイライトです。白い髭を蓄え、伝統衣装をまとった神が市中を練り歩く姿は、400年続く信仰の生きた姿を感じさせます。
+**白ひげ大神巡行** 大館市で最も高い山「田代岳」から白ひげの神様「白髭大神」がアメを買いにやってくるという言い伝えを再現した巡行である。大神に扮した一行がおおまちハチ公通りを練り歩く様子は、祭りのクライマックスとして訪れた人々を魅了する。言い伝えでは白ひげ大神が帰る際に足跡を隠すため吹雪を起こすとされ、不思議とアメッコ市の期間中は雪が降ることが多いと語り継がれている。
 
-**秋田犬パレード**
-大館が原産地である秋田犬たちが、飼い主と共に通りを練り歩くパレードは祭りのもう一つの目玉です。海外からの観光客にも人気が高く、秋田犬と触れ合える貴重な機会として注目されています。
+**からみアメの振る舞い** 会場では、水あめを木の棒に巻きつけた「からみアメ」を味わえるブースが賑わいを見せる。昔懐かしい素朴な甘さが特徴で、寒空の下で味わうからみアメは格別だと評判である。冷たい空気の中で口に含む温かみのある甘さは、来場者にとってこの行事ならではの体験となっている。
 
-**ミズキ飾りと縁起物**
-祭りのフィナーレでは、大きなミズキの枝に色とりどりの飴をたっぷりと飾った巨大な縁起物が登場します。家庭に持ち帰って一年の無病息災を祈る習慣も残っており、地域の祈りの形が可視化される瞬間です。
+**秋田犬パレード** 忠犬ハチ公のふるさとである大館市ならではの催しが、秋田犬とその飼い主による「秋田犬パレード」である。もふもふとした秋田犬たちがおおまちハチ公通りを闊歩する姿は、子どもから大人まで幅広い年齢層に愛されている。全国から訪れる愛犬家や秋田犬ファンにとって、大館ならではの魅力を感じられる場面となっている。
 
-## 開催情報
+**多様な飴と職人の技** 会場には、からみアメ・切りアメ・枝アメ・ネジリアメなど個性豊かな飴が並び、見て楽しむだけでなく味わう楽しみも提供している。明治5年（1872年）創業の老舗「斎作屋菓子舗」など、伝統的な製法でアメを作り続ける店も出店する。飴を細長く形成しながらねじりを作る職人技は一朝一夕には真似できないもので、雪国の菓子文化の奥行きを感じさせる。
 
-- **開催地**: 秋田県大館市 おおまちハチ公通り
-- **開催時期**: 毎年2月の第2土曜日とその翌日の日曜日の2日間
-- **アクセス**: JR奥羽本線「大館駅」からバスで約10分、「大町」バス停下車すぐ。秋田自動車道「大館北IC」から車で約10分
-- **観覧料**: 無料
-- **公式情報**: [大館市公式観光サイト](https://www.city.odate.lg.jp/city/kankou/festibal/festa/winter/amekko)
+**丸髷行列と地域の風習** 大館北秋地域に伝わる風習として、数え年三十三歳の歳祝の既婚女性が黒留袖に丸髷姿でお祝いをする「丸髷行列」がアメッコ市の一部として行われてきた。地域の伝統的な女性の装いを間近で見られる貴重な機会である。ただし年によって実施の有無が変わるため、参加や見学を予定する場合は最新の開催情報を公式サイトで確認する必要がある。
 
-## 周辺の見どころ
+## 開催情報・アクセス
 
-大館市は秋田犬発祥の地として、秋田犬の里(秋田犬展示・観光案内施設)が市内中心部に位置します。忠犬ハチ公の故郷でもあり、ハチ公にまつわる史跡や記念施設も点在しています。
+大館アメッコ市は毎年2月の第2土曜日とその翌日曜日の2日間、秋田県大館市大町の「おおまちハチ公通り」で開催される。2026年の開催日程は2月14日（土）と2月15日（日）で、開催時間は年により異なるため公式サイトでの確認が必要である。会場周辺では歩行者天国に伴う交通規制が行われるため、来場前に規制範囲と駐車場案内を確認しておくとよい。
 
-近隣の鹿角市・小坂町までは車で30〜40分圏内で、世界遺産・大湯環状列石(ストーンサークル)、小坂鉱山史跡群、十和田湖といった東北北部の代表的観光地と組み合わせた周遊旅行が可能です。2月の大館は深い雪に覆われ、温泉郷の田代岱・大滝温泉などで雪見露天風呂を楽しめる時期でもあります。
+公共交通機関を利用する場合、会場の最寄りバス停は「末広町」および「大館栄町」である。「末広町」バス停からは徒歩約3分で会場に到着する。JR花輪線「東大館駅」からは徒歩約9分、JR奥羽本線「大館駅」からは徒歩では約25分と離れているため、大館駅からは路線バスの利用が便利である。バスの運行時刻は年により変わるため、最新のダイヤは大館市公式サイトや運行事業者の時刻表で確認されたい。
+
+問い合わせ先は大館アメッコ市実行委員会事務局（電話0186-42-4360／大館市観光協会）である。当日の詳細なスケジュール、有料観覧やイベントの実施状況、交通規制や駐車場の最新情報については、大館市公式サイトまたは大館市観光協会「どだすか大館」で確認することをおすすめする。悪天候時は内容が変更・中止される場合があるため、遠方から訪れる際は事前確認が欠かせない。
+
+## 周辺情報
+
+大館アメッコ市を訪れた際には、大館市内の観光スポットをあわせて巡るのがおすすめである。JR大館駅の近くにある観光交流施設「秋田犬の里」は、忠犬ハチ公が飼い主を待ち続けた大正時代当時の渋谷駅をモデルとして建てられた施設で、秋田犬のルーツを学べる展示やお土産コーナーが充実している。大館市は忠犬ハチ公のふるさとであり、市内各所にハチ公や秋田犬にまつわるモニュメントが点在している。
+
+また、大館市は国の伝統的工芸品に指定されている「大館曲げわっぱ」の産地としても有名で、秋田杉の板を曲げて作る優美な木工品を製作する工房が複数存在する。さらに、秋田を代表する郷土料理「きりたんぽ」の発祥地は大館・北鹿地方であるとされ、市内の飲食店では本場のきりたんぽ鍋を味わうことができる。アメッコ市の寒い季節に温かいきりたんぽ鍋を楽しむのは、大館ならではの過ごし方の一つである。
+
+歴史ある城下町としての大館には、大館城下の町並みや大館神明社をはじめとする社寺など、季節ごとに異なる魅力が詰まっている。冬のアメッコ市に合わせて訪れれば、雪景色の中で郷土の食・工芸・信仰にまとめて触れることができる。飴の甘さと地域文化の厚みの双方を味わえるのが、大館を訪ねる楽しみである。
 
 ## 関連情報
 
-- 開催月: 2月(冬)
-- 都道府県: 秋田県(東北)
-- 起源: 天正16年(1588年)頃・約400年の歴史
-- 性格: 民俗行事・農耕信仰・無病息災祈願
-- 関連: 秋田犬発祥の地・忠犬ハチ公の故郷
-','## Overview
+大館アメッコ市は、地域の人々によって大切に守り継がれてきた小正月行事である。昔は「この日に飴を食べないと蛆になる」という言い伝えもあったが、時代とともに「飴を食べると風邪をひかない」という表現へと変わり、現在では無病息災や家内安全を願う行事として親しまれている。田代岳に祀られる白髭大神がアメを買いに来るという伝承は、アメッコ市の文化的な奥行きを豊かにしている。
 
-The Odate Amekko-ichi (Odate Candy Fair) is a winter folk event with over 400 years of history, held annually on the second Saturday of February and the following Sunday along Omachi Hachiko Street in central Odate City, Akita Prefecture. Accompanied by the saying "those who eat candy on this day will not catch a cold," the festival has been beloved by local residents and tourists alike.
+枝アメの製造は毎年冬の到来とともに始まり、年が明けると市内各所でミズキの枝にアメやお札を飾り付けた枝アメが少しずつお目見えする。このようにアメッコ市は2日間のイベントにとどまらず、冬の間じゅう街を彩る文化的風景となっている。昭和57年以降は大規模な観光行事へと発展したが、その根底には「アメを食べて一年の健康を願う」という素朴で温かな人々の祈りが息づいている。
 
-Dozens of stalls selling colorful candies line the street, while charms made by tying vibrant candies onto branches of Japanese dogwood (mizuki) decorate the venue, painting a vivid winter scene in the snow-covered Tohoku region. Unique features such as the Akita dog parade and the procession of Shirohige Okami (the White-Bearded Mountain God) further enhance the festival''s appeal.
+飴の甘さとともに、大館の冬の厳しい寒さの中で育まれてきた人々の知恵と郷土愛を感じられるのが、大館アメッコ市の最大の魅力である。伝統行事でありながら秋田犬パレードのような現代的な催しも取り込み、地域の内外をつなぐ場として機能している点も見逃せない。歴史と現在が雪の街で交わる冬の一日は、訪れる人の記憶に長く残るだろう。','## Overview
+
+The Odate Amekko-ichi (Odate Candy Fair) is a winter tradition held over two days each year, on the second Saturday of February and the following Sunday, along Omachi Hachiko Street in the center of Odate City, Akita Prefecture. A two-lane city road, popularly called Omachi Hachiko Street, is closed to traffic and turned into a pedestrian zone lined with stalls selling many kinds of candy, including kiri-ame (cut candy), eda-ame (branch candy), and karami-ame (wound candy). Visitors come from both inside and outside the prefecture, and the fair is known as one of the signature winter events of northern Akita.
+
+The fair is said to have a history of roughly 400 years as a Koshogatsu (Little New Year) observance, and the saying that "eating candy on this day keeps you from catching a cold" is still handed down today. Originally it was a folk event rooted in local faith and daily life, so it is not merely a market but an occasion charged with people''s prayers for good health. The way the humble sweetness of candy is layered with wishes for well-being reflects a distinctive living culture of the snowy north.
 
 ## History and Origins
 
-The Odate Amekko-ichi is said to have originated around 1588 (Tensho 16) and boasts approximately 400 years of history, making it one of the most prominent folk events in the Tohoku region. It is believed to have begun with the practice of attaching candies to reddish dogwood branches and offering them to deities in place of rice ears, rooted in agricultural beliefs praying for bountiful harvests and good health.
+The origins of the Odate Amekko-ichi are said to date back to the Tensho era (1573-1591) of the Azuchi-Momoyama period, and especially to around Tensho 16 (1588). According to the Odate City official website and materials from Odate Shinmei Shrine, the fair is thought to have begun as a "market" opened in the castle town of Odate. At that time it was an unstable age in which rival powers contended for control of Odate Castle. Later the castle town came under the rule of the Satake-Nishi family, and markets managed by the castle warden were opened, with rules reportedly set for the days of operation and the goods that could be traded.
 
-The local legend that "mountain gods descend from the surrounding peaks on the second Saturday of February to buy candies" has taken root in the community, and the procession of Shirohige Okami—a deity with a long white beard representing the mountain god—has been preserved as the festival''s core ritual. Originally held on a small scale as a local folk event, the festival expanded significantly from 1972 (Showa 47) when Omachi Hachiko Street became the venue, evolving into a modern festival open to tourists.
+The custom of offering and eating candy itself is said to derive from older folk belief. According to one account, it began when candy was attached to branches of the dogwood tree and offered before the gods in place of ears of rice, and farmwives are said to have eaten candy made from rice on rice cakes while praying for a good harvest and freedom from illness. It is also said that selling that candy in town eventually led to the beginning of the Amekko-ichi. Because there are various theories, nothing can be stated with certainty, but the resources agree that the event was tied to agricultural ritual.
 
-Odate is internationally known as the birthplace of the Akita dog breed, and since the Heisei era, the Akita dog parade has been incorporated into the festival, achieving nationwide recognition as a unique event blending traditional ritual with regional branding.
+The oldest documentary record is a diary kept by Ono Gisuke, the master of the Odate kimono merchant "Maruko." An entry dated February 11, Meiji 25 (1892), corresponding to the 13th day of the first lunar month, reads that the market had been moved up, describing it as a "candy town." This suggests that candy was already being sold at the market at roughly the same season as today. The diary is preserved as a valuable resource for understanding Odate in the Meiji period and serves as a clue to the historical continuity of the fair.
+
+Around the early Showa period, confectioners began making candy commercially, and markets came to be held in the lanes of Teramachi and elsewhere. A major turning point came in Showa 57 (1982), when the fair began to be held with Omachi Street closed off as a pedestrian zone, after which it grew into a large-scale event drawing visitors from across the country. Even as it changed from a modest Little New Year observance into a wide-reaching tourist event, its core of praying for good health was never lost, which shows the tenacious continuity of this tradition.
 
 ## Highlights
 
-**Rows of Candy Stalls**
-Dozens of candy stalls operated by local confectioners and traditional Japanese sweet artisans line Omachi Hachiko Street. Visitors can experience a rich candy culture featuring colorful traditional candies, creative modern variations, and dogwood-branch charms decorated with sweets—a feast for both eyes and palate.
+**The colorful branch candy** The eda-ame, or "branch candy," that symbolizes the Odate Amekko-ichi consists of candy and paper strips in colors such as pink and green attached to dogwood branches. Set against white snow and blue sky, the branch candy creates a beautiful scene as if the street trees had burst into bloom. It is said to have been inspired by mochibana, rice cakes attached to branches and offered at household altars, and today it is cherished as a good-luck charm purchased in hopes of fortune and health.
 
-**Procession of Shirohige Okami**
-The procession of Shirohige Okami, reenacting the mountain god descending to buy candy, is the festival''s mystical highlight. The figure with a long white beard in traditional attire parading through the streets evokes the living presence of 400 years of belief.
+**The White-Beard Deity procession** This procession re-enacts the legend that the white-bearded deity Shirahige Okami descends from Tashiro-dake, the tallest mountain in Odate, to buy candy. A group dressed as the deity parades along Omachi Hachiko Street, forming the climax of the fair and captivating those who come to watch. Legend holds that the deity stirs up a snowstorm to hide his footprints on the way home, and it is said that, curiously, snow often falls during the days of the fair.
 
-**Akita Dog Parade**
-A parade of Akita dogs—the breed originating from this region—walking the streets with their owners is another centerpiece of the festival. Highly popular among international visitors, it draws attention as a rare opportunity to interact with Akita dogs.
+**Servings of wound candy** At the venue, booths offering karami-ame, water candy wound onto a wooden stick, draw lively crowds. Its nostalgic, simple sweetness is highly regarded, and enjoying it under a cold winter sky is said to be a special treat. The warm sweetness taken in amid the chilly air makes for an experience unique to this event.
 
-**Dogwood Decorations and Charms**
-At the festival''s finale, large dogwood branches lavishly decorated with multicolored candies appear as oversized lucky charms. Visitors take these home as part of a tradition praying for a year of good health, making the festival''s communal prayers visible.
+**The Akita dog parade** A signature event of Odate, the birthplace of the loyal dog Hachiko, is the Akita dog parade featuring Akita dogs and their owners. The sight of fluffy Akita dogs striding along Omachi Hachiko Street is beloved by visitors of all ages. For dog lovers and Akita dog fans who come from across the country, it is a scene that conveys a charm unique to Odate.
 
-## Event Information
+**A variety of candy and artisans'' skill** The venue is lined with distinctive candies such as karami-ame, kiri-ame, eda-ame, and nejiri-ame, offering the pleasure of tasting as well as looking. Long-established shops that continue to make candy by traditional methods, such as Saisakuya Kashiho, founded in Meiji 5 (1872), also set up stalls. The artisanal technique of shaping candy into thin strands and adding twists cannot be imitated overnight, and it conveys the depth of the confectionery culture of snow country.
 
-- **Location**: Omachi Hachiko Street, Odate City, Akita Prefecture
-- **Period**: The second Saturday of February and the following Sunday, annually
-- **Access**: Approximately 10 minutes by bus from Odate Station (JR Ou Main Line), alighting at Omachi bus stop. Approximately 10 minutes by car from Odate Kita IC on the Akita Expressway
-- **Admission**: Free
-- **Official Information**: [Odate City Official Tourism Site](https://www.city.odate.lg.jp/city/kankou/festibal/festa/winter/amekko)
+**The marumage procession and local custom** As a custom of the Odate and northern Akita region, married women celebrating their 33rd year by traditional reckoning have taken part in a marumage procession, dressed in black formal kimono with the marumage hairstyle, as part of the Amekko-ichi. It is a valuable chance to see traditional women''s attire up close. However, whether it is held varies by year, so anyone hoping to take part or watch should check the latest event information on the official website.
 
-## Nearby Attractions
+## Event Information and Access
 
-As the birthplace of the Akita dog, Odate City hosts the Akita Inu no Sato (an exhibition and tourist information facility dedicated to the breed) in its central district. It is also the hometown of the loyal dog Hachiko, with related historical sites and memorial facilities scattered throughout the city.
+The Odate Amekko-ichi is held over two days each year, on the second Saturday of February and the following Sunday, along Omachi Hachiko Street in Omachi, Odate City, Akita Prefecture. In 2026 it is scheduled for Saturday, February 14 and Sunday, February 15; because opening hours vary by year, checking the official website is recommended. Traffic restrictions accompany the pedestrian zone around the venue, so it is wise to confirm the restricted area and parking information before visiting.
 
-Neighboring Kazuno City and Kosaka Town lie within 30–40 minutes by car, allowing tourists to combine visits with northern Tohoku attractions such as the UNESCO World Heritage Oyu Stone Circles, the Kosaka Mine historical sites, and Lake Towada. February in Odate is deeply covered in snow, offering opportunities to enjoy outdoor hot springs amid snowy scenery at Tashirodai and Otaki Onsen.
+For those using public transportation, the nearest bus stops to the venue are "Suehirocho" and "Odate Sakaecho." It is about a 3-minute walk from the Suehirocho bus stop to the venue. From JR Hanawa Line "Higashi-Odate Station" it is about a 9-minute walk, while JR Ou Line "Odate Station" is about a 25-minute walk away, so taking a local bus from Odate Station is convenient. Because bus schedules change from year to year, please check the latest timetable on the Odate City official website or with the bus operator.
+
+Inquiries can be directed to the Odate Amekko-ichi Executive Committee Office (telephone 0186-42-4360, Odate City Tourism Association). For the detailed schedule on the day, the status of paid viewing and events, and the latest information on traffic restrictions and parking, it is best to check the Odate City official website or the Odate City Tourism Association site "Dodasuka Odate." Contents may be changed or canceled in bad weather, so advance confirmation is essential for those traveling from afar.
+
+## Nearby Information
+
+When visiting the Odate Amekko-ichi, touring the sightseeing spots within Odate City is recommended. The tourist exchange facility "Akita Inu no Sato," located near JR Odate Station, was built modeled on Shibuya Station of the Taisho era, when Hachiko waited for his owner, and it offers exhibits on the roots of the Akita dog along with a souvenir corner. Odate is the birthplace of the loyal dog Hachiko, and monuments related to Hachiko and Akita dogs are scattered throughout the city.
+
+Odate is also famous as a producer of "Odate magewappa," bentwood ware designated a traditional craft of Japan, and there are several workshops making elegant woodwork by bending Akita cedar boards. Furthermore, the Odate and Hokuroku area is said to be the birthplace of kiritanpo, a representative local dish of Akita, and restaurants in the city serve authentic kiritanpo hot pot. Enjoying warm kiritanpo hot pot during the cold season of the Amekko-ichi is one way to spend time that is unique to Odate.
+
+As a historic castle town, Odate is filled with charms that differ by season, including the townscape of the old castle town and shrines and temples such as Odate Shinmei Shrine. Visiting to coincide with the winter Amekko-ichi lets you experience the region''s food, crafts, and faith all at once amid snowy scenery. Being able to savor both the sweetness of candy and the depth of local culture is the pleasure of a visit to Odate.
 
 ## Related Information
 
-- Season: February (Winter)
-- Prefecture: Akita (Tohoku Region)
-- Origin: Around 1588 (Tensho 16), approximately 400 years of history
-- Character: Folk event, agricultural belief, prayer for good health
-- Related: Birthplace of the Akita dog breed, hometown of the loyal dog Hachiko
-','odate-amekko-ichi','odate-amekko-ichi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+The Odate Amekko-ichi is a Little New Year observance that has been carefully preserved by local people. In the past there was also a saying that "if you do not eat candy on this day you will turn into a maggot," but over time it changed into the expression that "eating candy keeps you from catching a cold," and today it is enjoyed as an event praying for freedom from illness and for family safety. The legend that Shirahige Okami, enshrined on Tashiro-dake, comes to buy candy enriches the cultural depth of the Amekko-ichi.
+
+The making of branch candy begins with the arrival of winter, and once the new year comes, branch candy decorated with candy and paper charms on dogwood branches gradually appears here and there in the city. In this way the Amekko-ichi is not confined to a two-day event but becomes a cultural scene that colors the streets throughout winter. Although it developed into a large-scale tourist event after 1982, at its foundation lives the simple, warm prayer of people to eat candy and wish for a year of good health.
+
+Along with the sweetness of candy, what makes the Odate Amekko-ichi most appealing is the wisdom and love of home nurtured by people amid the harsh cold of Odate''s winter. It is worth noting that, while remaining a traditional event, it has also taken in contemporary attractions such as the Akita dog parade and functions as a place connecting people inside and outside the region. A winter day where history and the present meet in a snowy town will long remain in the memory of those who visit.','odate-amekko-ichi','odate-amekko-ichi',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11368913','久世祭り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B8%96%E7%A5%AD%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11344772','モントレー・ジャズフェスティバル・イン・能登','Monterey Jazz Festival in Noto','石川県七尾市で開催されるジャズ・フェスティバル',NULL,'Q11353471','七尾マリンパーク','Nanao Marine Park','石川県','chubu',NULL,NULL,1989,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E8%83%BD%E7%99%BB',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11370928','亀岡祭',NULL,NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B2%A1%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
@@ -21113,11 +21119,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
