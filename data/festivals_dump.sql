@@ -17149,43 +17149,111 @@ Himeji City is a castle town home to Himeji Castle, a UNESCO World Heritage Site
 ','nada-no-kenka-matsuri','nada-no-kenka-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11568918','熊野本宮大社例大祭','Kumano Hongū Taisha Reitaisha','和歌山県田辺市にある熊野本宮大社の例大祭',NULL,'Q705035','熊野本宮大社','Kumano Hongū Taisha','和歌山県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E6%9C%AC%E5%AE%AE%E5%A4%A7%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11538304','桶川祇園祭','Okegawa Gion Matsuri',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E6%A1%B6%E5%B7%9D%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11547768','毛馬内の盆踊','Kemanai no Bon-odori','秋田県鹿角市十和田毛馬内行われる盆踊り','Bon dance held in Towada Kemauchi, Kazuno City, Akita Prefecture',NULL,NULL,NULL,'青森県','tohoku',40.2715,140.766667,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%AF%9B%E9%A6%AC%E5%86%85%E7%9B%86%E8%B8%8A%E3%82%8A%E3%81%AE%E9%A2%A8%E6%99%AF.jpg','https://ja.wikipedia.org/wiki/%E6%AF%9B%E9%A6%AC%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11547768','毛馬内の盆踊','Kemanai no Bon-odori','秋田県鹿角市十和田毛馬内行われる盆踊り','Bon dance held in Towada Kemauchi, Kazuno City, Akita Prefecture',NULL,NULL,NULL,'秋田県','tohoku',40.2715,140.766667,NULL,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E6%AF%9B%E9%A6%AC%E5%86%85%E7%9B%86%E8%B8%8A%E3%82%8A%E3%81%AE%E9%A2%A8%E6%99%AF.jpg','https://ja.wikipedia.org/wiki/%E6%AF%9B%E9%A6%AC%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A',NULL,95,'drafted','## 概要
 
-毛馬内の盆踊（けまないのぼんおどり）は、秋田県鹿角市十和田毛馬内地区で毎年8月21日から23日の3日間にわたって執り行われる、お盆の精霊送りを起源とする伝統的な盆踊りである。「毛馬内の盆踊」として1998年に国の重要無形民俗文化財に指定され、西馬音内の盆踊（羽後町）、一日市の盆踊（八郎潟町）と並ぶ「秋田三大盆踊」のひとつに数えられる。
+毛馬内の盆踊（けまないのぼんおどり）は、秋田県鹿角市の毛馬内地区に伝承されている盆踊である。毎年8月21日から23日にかけて、地区内の本町通りを舞台に踊られ、通りの中央に焚かれた篝火を囲んで踊り手が輪をつくる、情緒豊かで優雅な盆踊として知られる。西馬音内の盆踊、一日市の盆踊とともに秋田三大盆踊りの一つに数えられ、約450年の歴史があるとも言い伝えられている。
 
-## 歴史
+1998年（平成10年）12月16日に国の重要無形民俗文化財に指定され、2022年（令和4年）11月30日には全国の民俗芸能を束ねる「風流踊（ふりゅうおどり）」の一つとしてユネスコ無形文化遺産の代表一覧表に記載された。祖先供養の意味を持つ「大の坂踊り」と、娯楽的な「甚句踊り」という性格の異なる二つの踊りを伝え、盆踊が供養の場から娯楽をも含む場へと変遷してきた過程を今に示す、貴重な民俗芸能である。
 
-起源は南北朝時代にまで遡るとされ、約700年の歴史を持つと伝えられる。鹿角地方は中世から南部氏の統治下にあり、戦死者や祖先の霊を慰めるための盆踊りとして地域に根付いた。江戸時代を通じて南部藩の保護を受け、明治以降も地元の保存会を中心に伝統が守り継がれてきた。「大の坂（だいのさか）」と「甚句（じんく）」の2種類の踊りで構成され、それぞれ異なる起源と性格を持つ。
+## 歴史・由来
+
+毛馬内の盆踊の正確な起源は定かではない。しかし、江戸後期の文化・文政年間（1804〜1830年）に成立したと考えられる旅の紀行家・菅江真澄（すがえますみ）の著書『鄙廼一曲（ひなのひとふし）』に「盆踊大の坂ふし」の記事が見えることから、少なくとも江戸中期にはこの地で盆踊が行われていたことが確認できる。地元では約450年の歴史を持つとも伝えられており、長い年月をかけて地域に根づいてきた行事である。
+
+踊りの中心である「大の坂踊り」は、地元で仏の手向け、すなわち祖先供養のための踊りであると言い伝えられてきた。かつてはこの踊りにも歌があったが、近代になってしだいに歌われなくなり、第二次世界大戦以後は太鼓と笛の囃子のみで踊るという現在の形式になった。供養という祭りの原点が、時代とともに表現の形を変えながらも受け継がれてきたことを物語っている。
+
+この盆踊は、日中戦争から第二次世界大戦にかけての混乱期に一時中断を余儀なくされた。しかし戦後になって地域の人々の手によって復活し、途切れることなく現在に至っている。中断と復活を経てもなお伝統を守り抜いてきた背景には、盆踊を地域の誇りとして次代へ手渡そうとする毛馬内の人々の強い意志があった。
+
+現在は「大の坂踊り」に加え、より娯楽的な「甚句踊り」、さらにその後に余興として踊られる「鹿角じょんがら」が組み合わさり、一夜の盆踊を構成している。祖先供養の厳かな踊りに娯楽的要素の踊りが加わって今日の姿に至るまでの変遷の過程を明瞭に示す点、そして地域的特色が顕著である点が高く評価され、国の重要無形民俗文化財に指定された。伝承を担うのは毛馬内盆踊保存会である。
 
 ## 見どころ
 
-最大の特徴は、踊り手が顔を白い手ぬぐいで覆い隠す独特の装束である。これは盆踊りが精霊送りの神事である神聖さを表すと同時に、男女の差別なく死者を悼む平等の精神を象徴するとされる。踊りは「大の坂」（大の坂峠の合戦で散った武士を悼む荘厳な踊り）と「甚句」（甚句節に合わせた軽快な踊り）の2部構成で、いずれも篝火を囲んで輪になって踊られる。会場は毛馬内本町通りで、両側に篝火が並ぶ通りが踊り手で埋め尽くされる光景は幽玄美にあふれる。
+**篝火を囲む内向きの輪踊り**　盆踊当日は、本町通りの中央数か所に篝火が焚かれる。揃いの半纏姿の地区内の若者たちが打つ「呼び太鼓」の音に誘われて、踊り子たちが篝火を囲んで内向きの細長い輪をつくる。二つの踊りはいずれも篝火を囲む輪踊で、つねに輪の内側を向いてゆったりとした振りで踊るのが最大の特徴であり、炎に照らされた優雅な所作が幻想的な情景を生み出す。
 
-## 開催情報
+**祖先供養の「大の坂踊り」**　一夜の盆踊はまず「大の坂踊り」から始まる。祖先供養の意味を持つこの踊りは、直径約1メートル・長さ約2メートルに及ぶ大太鼓を先頭に据え、まず子どもたちの踊りが続き、その後に次々と大人の踊り手が輪に加わって静かに踊られる。近代以降は歌がなくなり太鼓と笛の囃子のみで踊る形になっており、その静謐な調べが供養の踊りにふさわしい厳かな雰囲気をたたえている。
 
-開催地は秋田県鹿角市十和田毛馬内本町通り。最寄駅はJR花輪線「十和田南駅」徒歩約15分。開催期間は毎年8月21日から23日の3日間。踊りは各日19:30頃から22:00頃まで。観覧は無料で、観光客も装束を着用して踊りに参加することができる（保存会で装束貸出あり・要事前申込）。8月下旬の鹿角は夜間冷え込むことがあるため、薄手の羽織りものを持参するとよい。
+**娯楽的な「甚句踊り」**　「大の坂踊り」に続いて踊られるのが「甚句踊り」である。七・七・七・五の詞章からなる鹿角甚句にのせて踊るもので、豊作を祈り祝うもの、郷土の風物を称えるものなど多数の詞章が伝わる。歌い手はかつて踊りの輪のところどころに入って歌ったが、現在は通りの中央二か所の定められた場所で歌う。太鼓と笛による大の坂踊りとは対照的に、歌のみで進む娯楽性が魅力である。
 
-## 周辺の見どころ
+**独特の頬被りと衣装の決まり**　踊り手の装いにも厳格な決まりがあり、それ自体が見どころとなっている。男性は黒紋付の裾をはしょって水色の蹴出しを付け胴〆を締め、女性は紋付や江戸褄などの裾をはしょって鴇色の蹴出しを付け帯を太鼓結びにする。男女とも豆絞りの手拭いで額を隠すように頭を覆い、こめかみから前へ折り返して口元を隠し顎の下で結ぶ独特の頬被りをするのが特徴で、顔をほのかに隠した姿がいっそう優雅で幻想的な趣を添えている。
 
-鹿角市は十和田八幡平国立公園の南玄関に位置し、十和田湖・八幡平・後生掛温泉などの観光地が至近にある。世界遺産「北海道・北東北の縄文遺跡群」の構成資産「大湯環状列石」は車で約20分。康楽館（明治・大正期の現役芝居小屋・国指定重要文化財）、史跡尾去沢鉱山も鹿角市内にあり、文化遺産と自然を組み合わせた旅程が組みやすい。きりたんぽ発祥の地として、本場のきりたんぽ鍋も味わえる。','## Overview
+## 開催情報・アクセス
 
-Kemanai no Bon-odori (毛馬内の盆踊) is a traditional Bon dance with roots in the spirit-sending rituals of the Obon festival, held annually over three days from August 21 to 23 in the Kemanai district of Towada, Kazuno City, Akita Prefecture. Designated as an Important Intangible Folk Cultural Property of Japan in 1998, it is counted among the "Three Great Bon Dances of Akita" alongside the Nishimonai no Bon-odori (Ugo Town) and the Hitoichi no Bon-odori (Hachirōgata Town).
+会場は秋田県鹿角市十和田毛馬内地区の本町通りで、通りを舞台に篝火を囲んで踊られる。開催時期は毎年8月21日から23日までの3日間で、お盆の中心である8月13〜16日よりも遅い「後半型」の日程となっている点が特色である。
 
-## History
+各日の夜、揃いの半纏姿の若者による「呼び太鼓」で幕が開き、続いて「大の坂踊り」「甚句踊り」、そして締めの「鹿角じょんがら」という流れで進行する。年によって時刻や進行、雨天時の会場変更などがあり、雨天の際は屋内会場へ移して開催されることもあるため、最新の開催日程・時間・実施可否は毛馬内盆踊保存会や鹿角市の公式発表で必ず確認してほしい。会場には有料の観覧椅子席が設けられることがある。
 
-The dance''s origins are said to date back to the Nanboku-chō period, giving it a history of approximately 700 years. The Kazuno region had been under the rule of the Nanbu clan since medieval times, and the dance took root in the community as a means of consoling the spirits of fallen warriors and ancestors. Throughout the Edo period it received the patronage of the Nanbu domain, and from the Meiji era onward local preservation societies have safeguarded the tradition. The festival consists of two distinct dances — Dainosaka and Jinku — each with its own origin and character.
+アクセスは、鉄道の場合JR花輪線の十和田南駅が最寄りで、そこからバスやタクシーで毛馬内地区へ向かう。祭りの期間中は周辺が混雑するため、公共交通機関の利用や早めの移動が推奨される。夜間の屋外行事のため、上着など気温変化に備えた装いで訪れると安心である。
+
+## 周辺情報
+
+毛馬内の盆踊が行われる鹿角市は、秋田県の北東部、青森県・岩手県との県境に近い内陸に位置する。かつて鹿角地方は南部藩の領内にあり、独自の文化が育まれた地域で、毛馬内の盆踊のほかにも花輪ばやしなど個性豊かな民俗行事が数多く伝わる。盆踊の時期には、こうした地域文化の奥行きに触れることができる。
+
+鹿角市周辺には、世界文化遺産「北海道・北東北の縄文遺跡群」を構成する大湯環状列石（ストーンサークル）があり、縄文時代の祭祀の跡を今に伝えている。古代から現代まで連なる祭りと祈りの歴史を、盆踊とあわせてたどることができるのは、この地ならではの魅力である。
+
+また鹿角地方は温泉にも恵まれ、周辺には湯治場として知られる温泉地が点在する。夏の夜に優雅な盆踊を鑑賞したあと、温泉で旅の疲れを癒すこともできる。十和田湖や八幡平といった雄大な自然にも比較的近く、東北の自然と伝統文化をあわせて楽しむ旅の拠点として、周辺一帯を巡るのもよいだろう。
+
+## 関連情報
+
+*   正式名称：毛馬内の盆踊（けまないのぼんおどり）
+*   開催地：秋田県鹿角市 十和田毛馬内地区 本町通り
+*   開催時期：毎年8月21日〜23日の3日間（お盆より遅い「後半型」）
+*   文化財指定：1998年（平成10年）国指定重要無形民俗文化財／2022年ユネスコ無形文化遺産「風流踊」の一つ
+*   由来：起源不詳だが菅江真澄『鄙廼一曲』（文化・文政年間）に記載があり少なくとも江戸中期から／約450年の歴史とも伝わる
+*   主な踊り：祖先供養の「大の坂踊り」（大太鼓を先頭に太鼓と笛のみ）・娯楽的な「甚句踊り」（鹿角甚句）・締めの「鹿角じょんがら」
+*   特徴：篝火を囲む内向きの輪踊り／豆絞り手拭いによる独特の頬被り／男女で定められた衣装
+*   保護団体：毛馬内盆踊保存会
+*   最寄り：JR花輪線 十和田南駅（バス・タクシーで毛馬内地区へ）','## Overview
+
+Kemanai no Bon Odori is a Bon dance handed down in the Kemanai district of Kazuno City, Akita Prefecture. Every year from August 21 to 23, it is danced on Honmachi Street in the district, where dancers form rings around bonfires lit down the center of the street; it is known as an elegant, deeply atmospheric Bon dance. Together with the Nishimonai Bon Odori and the Hitoichi Bon Odori, it is counted as one of the Three Great Bon Dances of Akita, and it is said to have a history of roughly 450 years.
+
+It was designated a National Important Intangible Folk Cultural Property on December 16, 1998, and on November 30, 2022, it was inscribed on the Representative List of the UNESCO Intangible Cultural Heritage as one of the Furyu-odori, the body of folk performing arts of Japan. Handing down two dances of differing character, the Dai-no-saka odori, which carries the meaning of memorial service for ancestors, and the more entertainment-oriented Jinku odori, it is a precious folk performing art that reveals the very process by which the Bon dance changed from a place of memorial into a place that also embraces entertainment.
+
+## History and Origins
+
+The exact origin of Kemanai no Bon Odori is not clear. However, because an entry for the Bon dance Dai-no-saka bushi appears in Hina no Hitofushi, a work by the traveling chronicler Sugae Masumi thought to have been compiled in the Bunka and Bunsei eras (1804-1830) of the late Edo period, it can be confirmed that a Bon dance was performed in this area at least from the mid-Edo period. Locally it is also said to have a history of about 450 years, and it is an event that has taken root in the community over a long span of years.
+
+The Dai-no-saka odori, which is the heart of the dance, has been handed down locally as a dance for the repose of Buddhas, that is, a dance for the memorial of ancestors. This dance once had a song as well, but from the modern era it gradually ceased to be sung, and after the Second World War it took its present form of being danced only to the accompaniment of drum and flute. This tells of how the origin of the festival, the act of memorial, has been handed down while changing its form of expression with the times.
+
+This Bon dance was forced into a temporary suspension during the turmoil from the Second Sino-Japanese War through the Second World War. After the war, however, it was revived by the hands of the local people and has continued without interruption to the present day. Behind the way the tradition was protected through both suspension and revival lay the strong will of the people of Kemanai to pass on the Bon dance to the next generation as a source of local pride.
+
+Today the Dai-no-saka odori is joined by the more entertainment-oriented Jinku odori, and further by the Kazuno Jongara danced afterward as a divertissement, together making up a single night''s Bon dance. It was highly valued and designated a National Important Intangible Folk Cultural Property because it clearly shows the process of change up to its present form, in which dances of an entertainment character were added to the solemn dance of ancestral memorial, and because its regional character is so distinct. The tradition is carried on by the Kemanai Bon Odori Preservation Society.
 
 ## Highlights
 
-The most striking feature is the unique attire of the dancers, who cover their faces with white hand-towels (tenugui). This is said to express the sacred nature of the dance as a spirit-sending ritual, while also symbolizing the egalitarian spirit of mourning the dead without distinction of gender. The dance proceeds in two parts: Dainosaka, a solemn dance mourning the warriors who fell at the Battle of Dainosaka Pass, and Jinku, a brisk dance set to the lively Jinku-bushi melody. Both are performed in circles around bonfires. The venue is the Honmachi-dōri street of Kemanai, where the road lined with flaming braziers on both sides fills with dancers, creating a scene of profound ethereal beauty.
+**Inward-facing ring dance around bonfires**　On the day of the Bon dance, bonfires are lit at several points down the center of Honmachi Street. Drawn by the sound of the yobi-daiko, or calling drums, beaten by the district''s young people in matching happi coats, the dancers form a long, slender ring facing inward around the bonfires. Both dances are ring dances around the bonfires, and their greatest characteristic is that the dancers always face the inside of the ring and dance with slow, gentle movements, the elegant gestures lit by the flames creating a fantastical scene.
 
-## Event Information
+**The Dai-no-saka odori of ancestral memorial**　A night''s Bon dance begins with the Dai-no-saka odori. This dance, which carries the meaning of ancestral memorial, is led by a great drum measuring about 1 meter in diameter and about 2 meters in length; first the children dance, and then one after another the adult dancers join the ring and dance quietly. Since the modern era the song has been dropped, and it is now danced only to the accompaniment of drum and flute, its hushed melody lending an air of solemnity befitting a dance of memorial.
 
-The venue is Honmachi-dōri street in Towada Kemanai, Kazuno City, Akita Prefecture. The nearest station is Towada-Minami Station on the JR Hanawa Line, about a 15-minute walk away. The festival runs annually from August 21 to 23. Dances are performed each evening from approximately 7:30 PM to 10:00 PM. Admission is free, and visitors are welcome to don the traditional attire and join the dance (the preservation society offers costume rentals; advance reservation required). Late-August evenings in Kazuno can be chilly, so a light jacket is recommended.
+**The entertainment-oriented Jinku odori**　Following the Dai-no-saka odori comes the Jinku odori. It is danced to the Kazuno jinku, whose verses follow a seven-seven-seven-five pattern, and many verses are handed down, some praying for and celebrating a good harvest, others praising the local scenery. The singers once entered here and there within the ring of dancers, but today they sing at two fixed places in the center of the street. In contrast to the Dai-no-saka odori with its drum and flute, its charm lies in its entertaining nature, carried along by song alone.
 
-## Nearby Attractions
+**The distinctive hokkaburi and the rules of dress**　There are strict rules for the dancers'' attire, and this itself is a highlight. Men tuck up the hem of a black crested kimono and wear a light-blue kedashi underneath, tightened with a sash, while women tuck up the hem of a crested kimono or edozuma and wear a pale rose-colored kedashi, tying the obi in a drum knot. Both men and women cover the head with a mameshibori hand towel as if hiding the forehead, folding it forward from the temples to conceal the mouth and tying it beneath the chin, a distinctive hokkaburi (cheek covering) whose faintly hidden faces add all the more elegance and a dreamlike air.
 
-Kazuno City lies at the southern gateway to Towada-Hachimantai National Park, with major attractions including Lake Towada, Hachimantai, and Goshogake Onsen close at hand. The Ōyu Stone Circles — a component asset of the UNESCO World Heritage Site "Jōmon Prehistoric Sites in Northern Japan" — are about 20 minutes away by car. Within Kazuno City itself, visitors can also explore Kōrakukan (a working Meiji- and Taishō-era theater designated as an Important Cultural Property) and the Osarizawa Mine Historic Site. As the birthplace of kiritanpo, the area is also the ideal place to enjoy authentic kiritanpo-nabe hotpot.','kemanai-no-bon-odori','kemanai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+The venue is Honmachi Street in the Towada-Kemanai district of Kazuno City, Akita Prefecture, where the dance is performed around bonfires along the street. It is held over three days every year from August 21 to 23, and a distinctive feature is that this schedule falls in the latter half of the season, later than the heart of the Bon period from August 13 to 16.
+
+Each night opens with the yobi-daiko beaten by young people in matching happi coats, followed by the Dai-no-saka odori, the Jinku odori, and the closing Kazuno Jongara. Because the times, the progression, and any change of venue in case of rain vary from year to year, and because the event may be moved to an indoor venue in rainy weather, please be sure to check the official announcements of the Kemanai Bon Odori Preservation Society and Kazuno City for the latest dates, times, and whether it will be held. Paid seating for viewing may be set up at the venue.
+
+For access, Towada-minami Station on the JR Hanawa Line is the nearest station, from which one heads to the Kemanai district by bus or taxi. As the area becomes crowded during the festival, use of public transportation and moving early are recommended. Since this is a nighttime outdoor event, it is reassuring to dress for changes in temperature, such as bringing a jacket.
+
+## Around the Area
+
+Kazuno City, where Kemanai no Bon Odori is held, lies in the inland northeastern part of Akita Prefecture, near the borders with Aomori and Iwate Prefectures. The Kazuno region was once within the domain of the Nanbu clan and nurtured its own distinctive culture, and besides Kemanai no Bon Odori, many individual folk events such as the Hanawa-bayashi are handed down. During the Bon season one can encounter the depth of this regional culture.
+
+Near Kazuno City stands the Oyu Stone Circles, part of the World Cultural Heritage Jomon Prehistoric Sites in Northern Japan, which convey to this day the traces of Jomon-period ritual. To trace, together with the Bon dance, the history of festivals and prayer running from ancient times to the present is a charm found only in this land.
+
+The Kazuno region is also blessed with hot springs, and hot spring resorts known as places of therapeutic bathing are scattered nearby. After watching the elegant Bon dance on a summer night, one can also soothe the fatigue of travel in a hot spring. Relatively close to the magnificent nature of Lake Towada and Hachimantai, the surrounding area makes a fine base for a journey that combines the nature and traditional culture of the Tohoku region.
+
+## Related Information
+
+*   Official name: Kemanai no Bon Odori
+*   Location: Honmachi Street, Towada-Kemanai district, Kazuno City, Akita Prefecture
+*   Dates: three days every year from August 21 to 23 (a latter-half schedule, later than the Bon period)
+*   Cultural designation: National Important Intangible Folk Cultural Property (1998); one of the Furyu-odori of the UNESCO Intangible Cultural Heritage (2022)
+*   Origin: origin unclear, but recorded in Sugae Masumi''s Hina no Hitofushi (Bunka-Bunsei eras), confirming performance at least from the mid-Edo period; said to have a history of about 450 years
+*   Main dances: the Dai-no-saka odori of ancestral memorial (led by a great drum, drum and flute only); the entertainment-oriented Jinku odori (Kazuno jinku); the closing Kazuno Jongara
+*   Features: an inward-facing ring dance around bonfires; a distinctive hokkaburi using a mameshibori hand towel; prescribed attire for men and women
+*   Preservation body: Kemanai Bon Odori Preservation Society
+*   Nearest station: Towada-minami Station on the JR Hanawa Line (to the Kemanai district by bus or taxi)','kemanai-no-bon-odori','kemanai-no-bon-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11548439','水天宮春大祭','Suitengū Spring Festival','福岡県久留米市の水天宮で行われる祭り','Shinto shrine in Yanagawa, Japan','Q3200625','水天宮','Kurume Suitengū','福岡県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%A4%A9%E5%AE%AE%E6%98%A5%E5%A4%A7%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11572451','玉名納涼花火大会',NULL,NULL,NULL,'Q861610','玉名市','Tamana','熊本県','kyushu',32.926456,130.56609,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%8E%89%E5%90%8D%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11539090','森の祭り','Mori no Matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%A3%AE%E3%81%AE%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
