@@ -9511,51 +9511,117 @@ Kamezaki enjoys good access, within walking distance of Kamezaki Station on the 
 
 Handa, located on the Chita Peninsula, is known as a town of brewing, with a history of prosperity in the production of vinegar, mirin, and sake. The area around the "Handa Canal," where black-boarded storehouses line the waterway, is rich in atmosphere, and the Mizkan museum "MIZKAN MUSEUM" is also popular. Known too as the hometown of the writer Nankichi Niimi, it allows visitors to tour places associated with the fairy tale "Gon, the Little Fox." Together with the seafood of the Chita Peninsula, it is an area where one can enjoy brewing culture and a seaside festival.','kamezaki-shiohi-festival','kamezaki-shiohi-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11304313','サウンドコニファー229','Sound Conifer 229',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B3%E3%83%8B%E3%83%95%E3%82%A1%E3%83%BC229',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11280366','やっさ祭り','Yassa Festival','広島県三原市で開催される祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1976,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A2.jpg','https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## やっさ祭りとは
+INSERT INTO "festivals" VALUES('Q11280366','やっさ祭り','Yassa Festival','広島県三原市で開催される祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1976,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A2.jpg','https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-やっさ祭りは、広島県三原市で毎年夏に開催される、市民総出の踊りの祭りです。「やっさ、やっさ」の威勢のよい掛け声にのせて、老若男女が華やかな衣装で街中を踊り歩く「やっさ踊り」を中心とした、三原を代表する夏の風物詩です。1976年に現在の形の市民祭りとして整えられ、地域の人々が一体となって夏の夜を盛り上げる、活気あふれる祭りとして親しまれています。
+三原やっさ祭りは、広島県三原市で毎年8月の第2日曜日を含む金曜日・土曜日・日曜日の3日間開催される夏祭りです。三原市の公式サイトによれば、中国地方を代表する夏祭りとして約40万人の人出で賑わうとされています。祭りの中心は「やっさ踊り」と呼ばれる伝統的な踊りで、約4,000人の踊り手が三原駅前周辺のコースを練り歩きます。
 
-## 歴史と由来
+この祭りは、昭和51年（1976年）に三原商工会議所が主催していた花火大会、三原観光協会が主催していたやっさ踊り、商栄会が主催していた夏祭り子どもやっさの三つの行事を一本化して誕生しました。やっさ祭り振興協議会の設立趣旨には、「市民総参加で心の触れ合いの場づくりの行事とし、若者が運営の中心となり、市の一大観光資源として定着させる」という理念が掲げられています。現在も運営は、各団体で構成される「三原やっさ祭り振興協議会」と、若者で構成される「やっさ祭り実行委員会」が担っています。
 
-やっさ踊りの起源は、戦国時代の永禄年間に小早川隆景が三原城を築いた際、その完成を祝って城下の人々が老若男女を問わず思い思いに踊り歌ったことに始まると伝えられています。以来、三原の地に根づいた庶民の踊りとして受け継がれ、即興性と自由さを特徴とする踊りとして発展してきました。1976年に「三原やっさ祭り」として現在の市民祭りの形に整えられ、踊りのほか花火大会などもあわせて行われる、夏の一大イベントへと成長しました。
+## 歴史・由来
+
+やっさ踊りの起源は、約450年前の永禄10年（1567年）にさかのぼります。戦国時代の智将と称された小早川隆景が、瀬戸内の水軍を統率するために、水・陸・交通の要地である備後の国・三原の湾内に浮かぶ小島をつないで海城を築きました。三原市の公式サイトによれば、この築城完成を祝って老若男女を問わず、三味線・太鼓・笛などを打ち鳴らし、祝酒に酔って思い思いの歌を口ずさみながら踊り出したのが始まりと伝えられています。以来、大衆のなかで祝いごとは「やっさ」に始まり「やっさ」に終わる習わしになったと言われています。
+
+やっさ踊りの名称は、はやしことばの「やっさ、やっさ」という掛け声に由来します。踊り手たちが「やっさ、やっさ」と声をかけ合いながら踊ることから、いつしかこの踊りを「やっさ踊り」と呼ぶようになりました。また、その歌詞は時代とともに移り変わり、近郷の地唄やはやり唄の影響を大きく受け、歌も身なりも変化してきました。踊り方にも型がなく、賑やかにはやしを取り入れて自由に踊るスタイルが定着しました。
+
+明治時代の初め頃には、やっさ踊りは全盛を極めました。当時は子どもが踊りの先頭に立ち、白シャツに白鉢巻き姿で、両手に日の丸扇子を持って踊り、その後に各組の踊り子が続いたといいます。また、当時の娘たちは皆三味線を弾くことができ、毎年うら盆の3日間は町中を踊り回り、夜が明けるまで賑わっていたと伝えられています。
+
+近年ではやっさ踊りは、新聞、テレビ、ラジオ、CDやDVDで紹介される機会が増えました。昭和45年（1970年）の日本万国博覧会や、米国建国二百年祭などにも出演し、国際的な舞台でも披露されました。周辺市町村にもやっさ踊りが広まり、広島県の代表的民謡踊りの一つになりつつあります。
 
 ## 見どころ
 
-最大の見どころは、何千人もの踊り手が連を組んで街中を練り歩くやっさ踊りの熱気と一体感です。「やっさ、やっさ」の掛け声と軽快な囃子にのって、各連がそれぞれの趣向を凝らした衣装と振り付けで踊る様は壮観です。即興と自由を重んじる踊りのため、見物客が飛び入りで加われる雰囲気も魅力。期間中に行われる花火大会も、三原の夏の夜空を彩る人気の催しです。
+**やっさ踊り**：約4,000人の踊り手が三原駅前周辺のコースを「やっさ、やっさ」と練り歩きます。この踊りは「足の踊り」と呼ばれ、決まった型がなく、はやしのリズムに合わせて各人各様に自由に踊れる点が最大の特徴です。三味線、鉦、太鼓、笛、四つ竹など賑やかなはやしと歌声に合わせて、見ている者も思わず踊りたくなるような陽気な雰囲気が会場を包みます。
 
-## 開催情報
+**やっさ太鼓**：三原やっさ祭りが20周年を迎えた1995年に、新たな地域文化として創設されました。メインオリジナル曲「やっさ太鼓」は、演奏に合わせてやっさ踊りが踊れるようになっており、子どもから大人まで幅広く演奏できるのが特徴です。三原の古き良き伝統を継承しながら、市民総参加のお祭りのさらなる振興を目的として開発されました。
 
-例年夏（8月）に、広島県三原市の市街地で開催されます。夏祭りであり、季節は夏。踊りや花火大会などの日程・会場は年によって異なるため、三原市および三原やっさ祭り振興協議会の公式発表で事前に確認することをおすすめします。
+**やっさ花火フェスタ**：最終日（日曜日）の20時頃から約1時間、糸崎埠頭から約5,000発の花火が打ち上げられます。以前は沼田川河口で行われていましたが、現在は会場が糸崎埠頭に変更され、2尺玉の打ち上げが目玉となっています。花火が打ち上がるたびに、見物客から大きな歓声が上がり、祭りのクライマックスを彩ります。
 
-## アクセス
+**創作やっさ部門**：伝統のやっさ踊りを現代風にアレンジしたチームが競い合う部門です。各チームが独自の振り付けや衣装を考案し、自由な発想で踊りを披露します。この部門では、若者を中心に新しいアイデアが次々と生まれ、祭りに新鮮な風を吹き込んでいます。
 
-会場は三原市の中心市街地で、JR山陽本線・山陽新幹線「三原駅」から徒歩圏内と、抜群のアクセスの良さを誇ります。新幹線停車駅であるため、広島市・福山市方面はもちろん、遠方からも訪れやすい立地です。開催期間中は中心市街地で交通規制が敷かれるため、公共交通機関の利用がおすすめです。
+**正調やっさ部門**：伝統的なやっさ踊りの様式を守って踊る部門です。正調のリズムや所作を正確に再現することが求められ、長年踊りを継承してきた地元の団体が多く参加します。この部門の存在が、やっさ踊りの伝統を次世代に伝える重要な役割を果たしています。
 
-## 周辺観光
+**総踊りと大賞発表**：最終日の総踊りでは、すべての参加チームが一堂に会し、会場全体が一体となって踊りを楽しみます。総踊りの最後には、正調やっさ部門と創作やっさ部門の大賞が発表され、祭りは最高潮に達します。大賞を受賞したチームは、その年のやっさ祭りの顔として大きな注目を集めます。
 
-三原市は、小早川隆景が瀬戸内海の島々を埋め立てて築いた「浮城」三原城の城下町として知られます。駅に隣接する三原城跡や、瀬戸内海の多島美、タコ料理をはじめとする海の幸が魅力です。しまなみ海道の本州側玄関口にも近く、瀬戸内の島巡りやサイクリングの拠点としても便利。夏祭りとあわせて瀬戸内の旅を楽しめるエリアです。','## What Is the Yassa Festival?
+## 開催情報・アクセス
 
-The Yassa Festival is a dance festival held each summer in Mihara, Hiroshima Prefecture, in which the whole community takes part. Centered on the "Yassa Dance," in which people of all ages parade through the streets in colorful costumes to the rousing call of "yassa, yassa," it is a signature summer tradition of Mihara. Established in its present form as a citizens'' festival in 1976, it is cherished as a vibrant celebration in which local people come together to enliven the summer nights.
+1. **開催日時**：毎年8月の第2日曜日を含む金曜日・土曜日・日曜日の3日間。第50回記念祭は令和7年（2025年）8月8日（金）から10日（日）まで開催されました。最新の開催日程や実施可否は必ず三原市公式サイトまたはやっさ祭り公式サイトで確認してください。
+2. **主な会場**：JR三原駅南口周辺の市街地（やっさ踊り）、糸崎埠頭（やっさ花火フェスタ）。所在地は広島県三原市城町1丁目1番地（JR三原駅前）。
+3. **アクセス**：JR山陽本線・三原駅から徒歩1分。山陽自動車道・三原久井インターチェンジから車で約20分。広島空港からはリムジンバスで約40分。
+4. **問い合わせ先**：三原やっさ祭り実行委員会事務局。電話番号は0848-62-6155（平日8時30分～17時00分、土日祝日除く）。最新の連絡先は三原市ホームページで確認してください。
+5. **来場者数**：例年約30万人から40万人の観光客が訪れます。第50回記念祭では例年並みの人出が見込まれていましたが、実際の数値は公式発表をご確認ください。
+6. **注意事項**：期間中は正午以降に各会場でイベントが行われます。金曜日と土曜日は17時頃からやっさ踊りが開始されます。交通規制が行われるため、公共交通機関の利用が推奨されています。また、天候により花火の打ち上げが中止・延期となる場合があります。
 
-## History and Origins
+## 周辺情報
 
-The Yassa Dance is said to have originated in the Eiroku era of the Sengoku period, when Kobayakawa Takakage built Mihara Castle and the townspeople—men and women, young and old alike—danced and sang freely to celebrate its completion. Since then it has been handed down as a popular dance rooted in Mihara, developing as a form marked by improvisation and freedom. In 1976 it was organized into its current citizens'' festival as the "Mihara Yassa Festival," and has grown into a major summer event that, along with the dancing, also features a fireworks display.
+三原市は、瀬戸内海に面した歴史と自然豊かな街です。三原やっさ祭りの起源となった三原城の城跡は、JR三原駅のすぐ近くにあり、駅構内からも石垣の一部を見ることができます。小早川隆景が築いた海城の遺構は、国の史跡に指定されており、祭りを訪れた際に立ち寄るのに最適なスポットです。周辺には、三原市立中央図書館や三原市歴史民俗資料館もあり、地域の歴史をより深く学ぶことができます。
+
+三原市は、広島県の東部に位置し、瀬戸内海の島々を望む風光明媚な地域です。市内には、筆影山や竜王山などのハイキングコースがあり、自然を楽しむこともできます。また、三原港からは、瀬戸内海の島々へ向かうフェリーが発着しており、しまなみ海道の玄関口としても知られています。祭りの合間に、周辺の島々を訪れるのも良いでしょう。
+
+三原市は、海の幸にも恵まれており、特にたこ飯や牡蠣料理が名物です。三原駅前には飲食店が多く立ち並び、祭りの期間中は屋台も多数出店します。また、隣接する尾道市や福山市にも電車で30分程度でアクセスでき、広島市内へも新幹線で約30分と、広域観光の拠点としても便利です。やっさ祭りを機に、広島県東部の観光を楽しむことをおすすめします。
+
+## 関連情報
+
+1. やっさ踊りは、昭和45年（1970年）の日本万国博覧会（大阪万博）に出演し、全国的にその名を知られるようになりました。また、米国建国二百年祭（1976年）にも招待され、海外でも披露されました。
+2. やっさ踊りのCDやDVDが複数リリースされており、三原市の観光案内所やオンラインで購入可能です。これらのメディアを通じて、自宅でやっさ踊りを練習することもできます。
+3. やっさ踊りは、周辺市町村にも広がりを見せており、広島県内の他の地域で開催されるイベントでも披露されることがあります。広島県の代表的民謡踊りの一つとして認知されています。
+4. やっさ太鼓のオリジナル曲「やっさ太鼓」は、楽譜と演奏手順が公開されており、学校や地域コミュニティで演奏する団体が増えています。子どもから大人まで幅広く参加できる点が評価されています。
+5. 三原やっさ祭り実行委員会は、毎年ボランティアスタッフを募集しています。踊り手としての参加だけでなく、運営スタッフや通訳ボランティアなど、多様な形で祭りを支えることができます。
+6. 新型コロナウイルス感染症の影響により、2020年の三原やっさ祭りは中止となりました（毎日新聞の報道による）。2021年以降は規模を縮小しながらも開催が再開され、現在は通常規模での開催に戻っています。最新の情報は必ず公式サイトで確認してください。','## Overview
+
+The Mihara Yassa Festival is a summer festival held annually in Mihara City, Hiroshima Prefecture, over three days from Friday to Sunday, including the second Sunday of August. According to the official website of Mihara City, this festival is one of the representative summer festivals in the Chugoku region, attracting approximately 400,000 visitors. The central event of the festival is the traditional "Yassa Dance," in which about 4,000 dancers parade through the streets around JR Mihara Station.
+
+The festival was born in 1976 (Showa 51) when three separate events were consolidated: the fireworks display organized by the Mihara Chamber of Commerce and Industry, the Yassa Dance organized by the Mihara Tourism Association, and the Children''s Yassa Summer Festival organized by the shopping district association. The founding purpose of the Mihara Yassa Festival Promotion Council was "to create an event where citizens can participate in building a community of heart-to-heart connections, with young people taking the lead in management, and to establish the festival as a major tourism resource for the city." Even today, the festival is managed by the "Mihara Yassa Festival Promotion Council," composed of various organizations, and the "Yassa Festival Executive Committee," made up of young volunteers.
+
+The Yassa Dance is characterized by its free and spontaneous style, with no fixed choreography. Dancers move to the rhythm of the accompanying music, which includes shamisen (three-stringed instrument), gongs, drums, flutes, and yotsudake (bamboo percussion). The lively atmosphere and the infectious "yassa, yassa" calls from the dancers make spectators want to join in. The festival is not only a major tourism draw but also a vital platform for community bonding and cultural inheritance.
+
+## History and Origin
+
+The origin of the Yassa Dance dates back to 1567 (Eiroku 10), approximately 450 years ago. According to the legend, Kobayakawa Takakage, a renowned military commander of the Sengoku period, built a sea castle in Mihara, which was a strategic point for controlling land, sea, and transportation in the region. He connected several small islands in the bay to create a fortress for his fleet. To celebrate the completion of the castle, people of all ages and genders began to dance, playing shamisen, drums, and flutes, while singing improvised songs and drinking sake. This spontaneous celebration is said to be the origin of the Yassa Dance. Since then, it became a tradition in the community that any celebration starts and ends with "yassa."
+
+The name "Yassa Dance" comes from the call "yassa, yassa" that dancers shout during the performance. Over time, the lyrics of the accompanying songs changed, influenced by local folk songs and popular melodies of the era. The style of clothing and the dance itself also evolved. The dance has no fixed form; people dance freely to the lively rhythm, incorporating various folk instruments. The energetic atmosphere and the simple, repetitive call made the dance accessible to everyone, and it gradually became known as "Yassa Dance."
+
+During the early Meiji period (late 19th century), the Yassa Dance reached its peak of popularity. Children led the parade, wearing white shirts and white headbands, holding round fans with the rising sun design in both hands. Behind them, groups of adult dancers followed. It is said that at that time, all young women could play the shamisen, and during the three days of the Bon festival (Urabon), people danced through the town all night long until dawn. The dance was a central part of community life, and the streets were filled with music and laughter.
+
+In modern times, the Yassa Dance has been featured in newspapers, television, radio, and on CD and DVD. In 1970 (Showa 45), it was performed at the Japan World Exposition (Expo ''70) in Osaka, and in 1976, it was presented at the United States Bicentennial celebration. These international appearances helped spread the fame of the Yassa Dance beyond Hiroshima Prefecture. The dance has also been adopted by neighboring municipalities, and it is now recognized as one of the representative folk dances of Hiroshima Prefecture. The Yassa Festival, as a consolidated event, has successfully preserved this tradition while evolving to meet contemporary expectations.
 
 ## Highlights
 
-The greatest attraction is the fervor and sense of unity of the Yassa Dance, as thousands of dancers form groups and parade through the streets. To the call of "yassa, yassa" and lively music, each group dances in costumes and choreography of its own design, making for a spectacular sight. Because the dance prizes improvisation and freedom, there is an inviting atmosphere in which onlookers can join in spontaneously. The fireworks display held during the festival is also a popular event that colors the summer night sky of Mihara.
+**Yassa Dance Parade**: Approximately 4,000 dancers in colorful costumes parade through the streets around JR Mihara Station, shouting "yassa, yassa" in unison. The dance is known as "the dance of the feet" because of its lively footwork and the absence of strict hand movements. The dance has no fixed form; each dancer moves freely to the rhythm of the shamisen, gongs, drums, flutes, and yotsudake. The lively music and the joyful calls create an infectious atmosphere, making even spectators feel the urge to dance.
 
-## When It Takes Place
+**Yassa Taiko Drumming**: The Yassa Taiko was created in 1995, the 20th anniversary of the Yassa Festival, as a new cultural element to supplement the traditional dance. The main original piece, "Yassa Taiko," is composed so that people can dance the Yassa Dance while the drumming is performed. This allows both children and adults to participate in the performance. The Yassa Taiko was developed to further promote citizen participation and to create a new regional culture that builds on the traditions of Mihara.
 
-The festival is typically held in summer (August) in the central district of Mihara, Hiroshima Prefecture. As a summer festival, its season is summer. Because the dates and venues for the dancing and fireworks vary from year to year, visitors are advised to confirm details through official announcements from Mihara City and the Mihara Yassa Festival Promotion Council.
+**Yassa Fireworks Festival (Yassa Hanabi Festa)**: On the final day (Sunday), approximately 5,000 fireworks are launched from barges at Itozaki Port, starting around 8:00 PM and lasting about one hour. Previously, the fireworks were launched from the Numata River mouth, but the venue was changed to Itozaki Wharf. The highlight is the launch of 2-shaku (about 60 cm diameter) shell fireworks, which create a spectacular display in the night sky. The fireworks mark the grand finale of the festival, and the crowd erupts in cheers with each burst of color.
 
-## Access
+**Creative Yassa Dance Category**: This category features teams that have arranged the traditional Yassa Dance in a modern style. Each team develops its own choreography and costumes, showcasing creative interpretations of the dance. This category is especially popular among young people, who bring fresh ideas and energy to the festival. It allows for innovation while keeping the core spirit of the Yassa Dance alive.
 
-The venue is the central district of Mihara, boasting excellent access within walking distance of Mihara Station on the JR Sanyō Main Line and the Sanyō Shinkansen. As a Shinkansen stop, it is easily reached not only from the directions of Hiroshima and Fukuyama but also from afar. Traffic restrictions are imposed in the city center during the festival, so public transport is recommended.
+**Traditional Yassa Dance Category**: This category is for teams that perform the Yassa Dance in its orthodox, traditional style. Dancers must accurately reproduce the traditional rhythm and movements, which have been passed down through generations. Many local groups that have been practicing the dance for decades participate in this category. The existence of this category plays a crucial role in preserving the authentic Yassa Dance for future generations.
 
-## Around the Area
+**Grand Finale and Award Ceremony**: At the end of the final day, all participating teams gather for a mass dance, creating a powerful sense of unity. After the mass dance, the grand prizes for both the Traditional Yassa Dance Category and the Creative Yassa Dance Category are announced. The winning teams receive great attention and become the face of the year''s festival. The award ceremony brings the festival to a climax, celebrating the achievements of the dancers and the spirit of the community.
 
-Mihara is known as the castle town of Mihara Castle, the "floating castle" that Kobayakawa Takakage built by reclaiming land among the islands of the Seto Inland Sea. The ruins of Mihara Castle adjoining the station, the scenic beauty of the inland sea''s many islands, and seafood including octopus dishes are all appealing. Close to the Honshu gateway of the Shimanami Kaidō, it is also convenient as a base for island-hopping and cycling in the Seto Inland Sea. It is an area where one can enjoy a Seto Inland Sea journey along with the summer festival.','yassa-festival','yassa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+1. **Date and Time**: The festival is held annually from Friday to Sunday, including the second Sunday of August. The 50th anniversary festival was held from August 8 (Friday) to August 10 (Sunday), 2025. Please check the official website of Mihara City or the Yassa Festival website for the latest schedule and confirmation of whether the event will be held as planned.
+2. **Main Venues**: The Yassa Dance takes place in the streets around JR Mihara Station South Exit. The Yassa Fireworks Festival is held at Itozaki Wharf. The address is 1-1 Shiromachi, Mihara City, Hiroshima Prefecture (near JR Mihara Station).
+3. **Access**: The venue is a one-minute walk from JR Mihara Station on the Sanyo Main Line. By car, take the Sanyo Expressway and exit at Mihara-Kui Interchange, then drive for about 20 minutes. From Hiroshima Airport, take a limousine bus for about 40 minutes.
+4. **Contact Information**: Inquiries should be directed to the Mihara Yassa Festival Executive Committee (c/o Mihara City Tourism Section). The phone number is 0848-62-6155 (open weekdays from 8:30 AM to 5:00 PM, closed on weekends and holidays). Please check the Mihara City website for the most up-to-date contact information.
+5. **Number of Visitors**: The festival typically attracts between 300,000 and 400,000 visitors. The 50th anniversary festival was expected to draw a similar number, but please refer to official announcements for actual figures.
+6. **Important Notes**: Events at each venue begin after noon during the festival period. The Yassa Dance parade starts at around 5:00 PM on Friday and Saturday. Traffic restrictions are enforced in the area, so using public transportation is strongly recommended. Fireworks may be canceled or postponed due to weather conditions. Always confirm the latest information from official sources.
+
+## Surrounding Area Information
+
+Mihara City is a historic and nature-rich city facing the Seto Inland Sea. The ruins of Mihara Castle, which is the origin of the Yassa Festival, are located near JR Mihara Station, and part of the stone walls can be seen from the station premises. This sea castle, built by Kobayakawa Takakage, is designated as a national historic site. Visitors to the festival can easily explore the castle ruins and learn about the history of the area. The Mihara City Central Library and the Mihara City Historical and Folk Museum are also close by, offering deeper insights into local history.
+
+Mihara City is situated in the eastern part of Hiroshima Prefecture, overlooking the scenic islands of the Seto Inland Sea. The city offers hiking trails such as Mount Fudegaki and Mount Ryuo, where visitors can enjoy nature. Mihara Port serves as a gateway to the Shimanami Kaido, a route connecting the islands of the Seto Inland Sea via bridges. Ferries depart from Mihara Port to various islands, making it easy to explore the archipelago during the festival. The surrounding area is also known for its beautiful coastal scenery and quiet beaches.
+
+The city is blessed with fresh seafood, including octopus rice (tako meshi) and oysters, which are local specialties. Many restaurants are located near Mihara Station, and during the festival, numerous food stalls line the streets. Neighboring cities such as Onomichi and Fukuyama are accessible by train in about 30 minutes, and Hiroshima City is about 30 minutes away by Shinkansen. This makes Mihara an excellent base for exploring the eastern part of Hiroshima Prefecture. The Yassa Festival provides a wonderful opportunity to enjoy both the festival and the rich cultural and natural attractions of the region.
+
+## Related Information
+
+1. The Yassa Dance was performed at the Japan World Exposition (Expo ''70) in Osaka in 1970, which brought it national recognition. It was also invited to the United States Bicentennial celebration in 1976, where it was performed internationally.
+2. CDs and DVDs of the Yassa Dance are available for purchase at the Mihara City Tourist Information Center and online. These media allow people to learn and practice the dance at home.
+3. The Yassa Dance has spread to neighboring municipalities and is now performed at various events throughout Hiroshima Prefecture. It is recognized as one of the representative folk dances of the prefecture.
+4. The score and performance instructions for the original Yassa Taiko piece are publicly available. Many school groups and community organizations have adopted the Yassa Taiko, and it is praised for being accessible to people of all ages.
+5. The Mihara Yassa Festival Executive Committee recruits volunteers every year. Participation is possible not only as a dancer but also as a support staff member or interpreter, offering various ways to contribute to the festival.
+6. Due to the COVID-19 pandemic, the 2020 Mihara Yassa Festival was canceled (as reported by the Mainichi Shimbun). Since 2021, the festival has resumed on a reduced scale, and it has now returned to its normal scale. Please check the official website for the latest updates on the event status.','yassa-festival','yassa-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11343535','メガロポリス歌謡祭',NULL,'かつての日本の音楽祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9%E6%AD%8C%E8%AC%A1%E7%A5%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11278969','みちのくYOSAKOIまつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8FYOSAKOI%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11279155','みなと舞鶴ちゃったまつり',NULL,NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%A8%E8%88%9E%E9%B6%B4%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
