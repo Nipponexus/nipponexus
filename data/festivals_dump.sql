@@ -5513,43 +5513,175 @@ INSERT INTO "festivals" VALUES('Q11199280','FM.W','FM.W',NULL,'Rock Festival in 
 INSERT INTO "festivals" VALUES('Q3350050','起きよ祭り','Okiyo Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%B5%B7%E3%81%8D%E3%82%88%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11242935','SETSTOCK','Setstock',NULL,'Japanese music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/SETSTOCK',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11251519','仙台・青葉まつり','Sendai Aoba Matsuri',NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E3%83%BB%E9%9D%92%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q6663970','高岡御車山祭','Takaoka Mikurumayama Festival','富山県高岡市の関野神社の春季例祭',NULL,'Q11669562','高岡関野神社','Takaoka Sekino Shrine','富山県','chubu',36.747556,137.012056,1588,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E5%B2%A1%E5%B8%82%E8%A1%97%E3%81%AE%E9%A2%A8%E6%99%AF%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%BE%A1%E8%BB%8A%E5%B1%B1%E7%A5%AD',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q6663970','高岡御車山祭','Takaoka Mikurumayama Festival','富山県高岡市の関野神社の春季例祭',NULL,'Q11669562','高岡関野神社','Takaoka Sekino Shrine','富山県','chubu',36.747556,137.012056,1588,5,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E5%B2%A1%E5%B8%82%E8%A1%97%E3%81%AE%E9%A2%A8%E6%99%AF%20-%20panoramio.jpg','https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%BE%A1%E8%BB%8A%E5%B1%B1%E7%A5%AD',NULL,95,'drafted','## 概要
 
-高岡御車山祭（たかおかみくるまやままつり）は、富山県高岡市の高岡関野神社の春季例祭として毎年5月1日に開催される、約430年の歴史を持つ伝統祭礼である。7基の豪華絢爛な「御車山（みくるまやま）」が高岡市旧市街地を巡行する勇壮華麗な姿で知られ、1979年（昭和54年）に国の重要有形民俗文化財、1981年（昭和56年）に国の重要無形民俗文化財に指定、2016年にはユネスコ無形文化遺産「山・鉾・屋台行事」の構成要素として登録された日本屈指の山車祭である。
+高岡御車山祭は毎年5月1日に富山県高岡市で行われる高岡関野神社の春季例大祭である。この祭礼は国の重要有形民俗文化財と重要無形民俗文化財の両方に指定されており、これは日本全国で5件しかない極めて希少なケースである。さらに2016年には「高岡御車山祭の御車山行事」としてユネスコ無形文化遺産にも登録された。
 
-## 歴史
+祭りの中心となる7基の御車山は、高さ約8.4メートルから9メートル、車輪の直径約1.6メートルという壮大な規模を誇る。これらの山車には高岡の伝統工芸である金工、漆工、染織などの技術がふんだんに施され、絢爛豪華な装飾が施されている。御車山は旧市街中心部を優雅な囃子とともに奉曳巡行し、特に正午に行われる7基全てが一堂に会する勢揃式の光景は圧巻である。
 
-御車山祭の起源は天正16年（1588年）、豊臣秀吉が後陽成天皇を聚楽第に迎えた際に使用された御所車を、慶長14年（1609年）に加賀藩2代藩主・前田利長が高岡城築城の祝いとして高岡の町に下賜したことに始まる。利長は7つの町に分配し、各町が独自の意匠を凝らした御車山として発展させ、現在の7基の体制が確立した。江戸時代を通じて加賀藩の篤い庇護を受け、漆塗り・金工・木彫・染織など加賀文化の粋を集めた豪華な装飾が施された。明治期以降も町衆の手で維持・継承され、戦後は高岡市の代表的な観光行事として国内外に知られるようになった。
+## 歴史・由来
+
+高岡御車山の起源は1588年（天正16年）にさかのぼる。この年、豊臣秀吉が後陽成天皇を聚楽第に迎え奉る際に使用した御所車を、加賀藩祖である前田利家が拝領したことが始まりと伝えられている。その後、前田利家の子である前田利長が1609年（慶長14年）に高岡城を築くにあたり、この御所車を町民に与えたとされている。この行為が高岡の町民が自らの手で山車を製作し、祭礼を行う伝統の基礎となった。
+
+高岡御車山祭は、高岡開町と同時に始まったと考えられている。前田利長が高岡城に入城し、城下町の繁栄を願って町民に御所車を与えたことが、祭礼の直接的な発端となった。しかし1614年（慶長19年）には前田利長の病により祭礼が中止され、同年5月20日に利長が没したため、祭礼は一時中断を余儀なくされた。この中断を経て、祭礼は町民たちによって復活し、今日まで継承されてきた。
+
+江戸時代中期の1775年（安永4年）には、「安永の曳山車騒動」と呼ばれる重要な事件が発生した。御車山の車輪様式を巡り、高岡側と近隣の放生津（射水市）、石動（小矢部市）、城端（南砺市）の各町との間で争いが生じたのである。この騒動では、御車山の由緒を守ろうとした高岡二番町の津幡屋与四兵衛が獄死するという悲劇も起きた。この事件は各地の曳山装飾の充実に影響を与えたとされ、高岡では与四兵衛を「安永の義人」として顕彰し、毎年4月3日に与四兵衛祭が行われている。
+
+明治時代以降も祭礼は継続され、1909年（明治42年）には皇太子殿下（後の大正天皇）が高岡城本丸に並べられた7基の御車山を御台覧するという栄誉に浴した。1913年（大正2年）には高岡開町300年記念祭で町内を巡行し、1953年（昭和28年）には富山県の指定文化財となり、翌1954年（昭和29年）に高岡御車山保存会が結成された。1960年（昭和35年）には国の重要民俗資料に指定され、その後1976年（昭和51年）に「高岡御車山」として国の重要有形民俗文化財に指定された。2015年（平成27年）には高岡が「日本遺産（Japan Heritage）」に認定され、高岡御車山会館が竣工した。
 
 ## 見どころ
 
-最大の見どころは5月1日の御車山巡行で、7基の御車山が高岡関野神社を出発し、片原町・坂下町・小馬出町・通町・木舟町・御馬出町・二番町の各町を一日かけて巡行する。御車山は高さ約7.5メートル、重さ1-2トンの大型山車で、車輪は金具で飾られ、御所車形式の優雅な姿に「鉾留め（ほこどめ）」と呼ばれる立物が天高くそびえる。前夜の宵山では提灯に灯りが入り、漆と金箔の装飾が幻想的に浮かび上がる。御車山会館では7基の本物の御車山が常設展示されており、年間を通して間近で観賞できる。
+**築山行事と祭りの源流**
+4月23日には二上射水神社で築山行事が行われる。これは祭神を臨時の祭壇に迎え、豊作を祈る古代信仰の形態を今に伝える神事である。御車山はこの築山行事を源流とし、移動可能な山車へと発展したと考えられている。神事終了後に築山を急いで解体するという独特の形式は、全国的に見ても非常に珍しいものである。
+
+**源太夫獅子による獅子舞**
+坂下町が受け継ぐ源太夫獅子による獅子舞も見どころの一つである。この獅子舞は露払いとして祭りを清める役割を担っている。獅子の勇壮な動きと囃子のリズムが、祭礼の開始を告げる重要な儀式となっている。
+
+**宵祭とライトアップ**
+4月30日の宵祭では、関野神社脇の山蔵から曳き出された御車山が山宿前に運ばれる。ここで最終的な飾り付けが行われ、入魂式などの修祓神事が執り行われる。毎年3台の御車山がライトアップされ、曳山囃子の披露や調度品の展示が行われ、夜の町並みに幻想的な雰囲気を醸し出す。
+
+**5月1日本祭と圧巻の勢揃式**
+5月1日の本祭では、早朝から各町で御車山の組み立てが始まり、午前中には坂下町に勢揃いする。正午には片原町交差点で7基の御車山が横一列に並ぶ「勢揃式」が行われる。この瞬間は祭り最大の見どころであり、観客の歓声と囃子の音が重なり合い、圧倒的な迫力を生み出す。
+
+**御車山の構造と装飾の細部**
+御車山は二層構造で、上層の「飾り山」には御神体人形が安置され、下層の「地山」には豪華な幔幕が張られる。幔幕の内部では囃子方が笛・鉦・太鼓を奏で、雅やかな調べが町中に響き渡る。江戸時代の名工たちの手による放射状に広がる花傘や、彫金や漆塗りの装飾は、まさに動く芸術品といえる。
+
+**路面電車架線の一時撤去**
+御車山の巡行のため、路面電車万葉線の架線を一時撤去するという全国的にも珍しい光景が見られる。これは高さ約8.4メートルから9メートルの御車山が安全に通行するために必要な措置である。この光景は、町全体が祭礼のために一丸となる高岡の結束力を象徴している。
+
+**山町筋の土蔵造りの町並みとの調和**
+巡行は旧城下町を中心に行われ、山町筋の土蔵造りの町並みと御車山の姿が織りなす景観は、まるで時代絵巻のようである。山町筋は明治23年の大火後に建てられた防火構造の土蔵造りの建物が軒を連ね、2000年に「高岡市山町筋伝統的建造物群保存地区」として国の重要伝統的建造物群保存地区に選定された。この歴史的な町並みが、御車山の華やかさを一層引き立てている。
 
 ## 開催情報・アクセス
 
-会場は高岡関野神社（富山県高岡市末広町9-56）を中心とする高岡市旧市街地一帯。あいの風とやま鉄道高岡駅から徒歩約10分。観覧は無料。御車山会館（高岡市守山町42）は通年営業で大人450円。
+**開催日時**
+- 宵祭：4月30日 18:00～21:00（ライトアップ展示18:30～21:00）
+- 本祭：5月1日 11:00～18:00
 
-## 周辺観光
+**開催場所**
+- 富山県高岡市山町筋・片原町周辺
 
-高岡市は加賀藩2代藩主・前田利長によって築かれた城下町として、銅器・漆器（高岡漆器）・絹織物などの伝統工芸が今も息づく工芸の町である。瑞龍寺（国宝）、高岡大仏（日本三大仏）、高岡古城公園、金屋町（鋳物発祥の地・重伝建）など歴史観光地が集中する。富山県内では立山黒部アルペンルート、五箇山合掌造り集落（世界遺産）、富山湾・氷見の海の幸など、自然・文化観光と組み合わせた周遊が可能。','## Overview
+**アクセス（電車）**
+- あいの風とやま鉄道高岡駅から徒歩約10分
+- 北陸新幹線をご利用の場合は、新高岡駅から高岡駅まで路線バスまたはJR城端線で約10分
 
-The Takaoka Mikurumayama Festival is a traditional festival with approximately 430 years of history, held annually on May 1 as the spring grand festival of Takaoka Sekino Shrine in Takaoka City, Toyama Prefecture. Renowned for the spectacular procession of seven magnificent "Mikurumayama" (Imperial Carriage Floats) through the old city center, the festival was designated as a National Important Tangible Folk Cultural Property in 1979 (Shōwa 54), as a National Important Intangible Folk Cultural Property in 1981 (Shōwa 56), and registered as a constituent element of the UNESCO Intangible Cultural Heritage "Yama, Hoko, Yatai Float Festivals" in 2016, making it one of Japan''s most prestigious float festivals.
+**アクセス（車）**
+- 能越自動車道高岡ICから約10分
+- 北陸自動車道高岡砺波スマートICから約20分
 
-## History
+**駐車場**
+- 高岡駅周辺の市営駐車場を利用（約1,000台、有料）
+- 祭り会場への車の乗り入れは不可
 
-The origins of the Mikurumayama Festival trace back to 1588 (Tenshō 16), when Toyotomi Hideyoshi used imperial carriages to welcome Emperor Go-Yōzei to his Jurakudai residence in Kyoto. These carriages were later bestowed upon the town of Takaoka in 1609 (Keichō 14) by Maeda Toshinaga, the second lord of the Kaga Domain, to celebrate the completion of Takaoka Castle. Toshinaga distributed them among seven districts of the town, and each district developed them into uniquely designed Mikurumayama floats, establishing the current seven-float system. Throughout the Edo period, the festival received generous patronage from the Kaga Domain, and the floats were adorned with the finest examples of Kaga cultural artistry including lacquer work, metalwork, woodcarving, and textile dyeing. The festival continued to be maintained and transmitted by the townspeople through the Meiji era and beyond, and after World War II became known both domestically and internationally as a signature tourism event of Takaoka City.
+**注意事項**
+- 5月1日9:30～14:00は万葉線が坂下町で折り返し運転となる
+- 最新の開催日程・実施可否は公式サイトで確認のこと
+
+## 周辺情報
+
+高岡市山町筋は、国の重要伝統的建造物群保存地区に選定された地域である。明治23年の大火後に建てられた土蔵造りの建物が軒を連ね、黒く重厚な外観が特徴的である。このエリアを散策すれば、江戸時代から明治時代にかけての商業の中心地として栄えた高岡の歴史を肌で感じることができる。御車山祭の際には、この町並みに御車山が映え、より一層華やかな景観を創り出す。
+
+高岡御車山会館は、北陸新幹線開業に合わせて2015年に開館した施設である。館内には御車山1基と実物大レプリカ「平成の御車山」が常設展示されており、祭りの魅力を一年中体感できる。平成の御車山は2013年から5年かけて制作されたもので、高さ約7.8メートル、重さ約2.6トンを誇る。4K高精細映像による祭礼体験やモーションキャプチャーによる車輪操作体験など、最新技術を用いた展示も充実している。
+
+二上射水神社は、築山行事が行われる由緒ある神社である。この神社の築山行事は御車山祭の源流とされ、古代信仰の形態を今に伝える貴重な神事である。高岡市内には他にも多くの寺社や歴史的建造物が点在しており、高岡のものづくりの歴史を学ぶことができる。高岡銅器や高岡漆器などの伝統工芸品の工房見学や、実際に制作体験ができる施設もあり、観光客にとって魅力的なスポットとなっている。
+
+## 関連情報
+
+- **ユネスコ無形文化遺産**：「高岡御車山祭の御車山行事」は2016年に全国「山・鉾・屋台行事」の一つとして登録された。他の登録行事には京都祇園祭の山鉾行事、高山祭の屋台行事、秩父祭の屋台行事、日立風流物がある。
+
+- **国の重要文化財指定**：「高岡御車山」は国の重要有形民俗文化財に指定されている。また「高岡御車山祭の御車山行事」は国の重要無形民俗文化財に指定されており、有形・無形の両方に指定された5件のうちの一つである。
+
+- **安永の曳山車騒動**：1775年（安永4年）に御車山の車輪様式を巡って発生した争い。津幡屋与四兵衛が獄死し、後に顕彰碑が建立された。
+
+- **与四兵衛祭**：毎年4月3日に行われる、安永の義人・津幡屋与四兵衛を顕彰する祭り。この祭りは御車山祭の前段階として位置づけられている。
+
+- **前田利家と前田利長**：御車山の起源に関わる加賀藩の歴代当主。利家が豊臣秀吉から御所車を拝領し、利長が高岡開町の際に町民に与えた。
+
+- **高岡御車山会館**：2015年竣工。御車山の常設展示や祭礼体験ができる施設。宵祭と本祭の両日は開館時間が延長される。','## Overview
+
+The Takaoka Mikurumayama Festival is an annual event held on May 1st in Takaoka City, Toyama Prefecture. It serves as the spring grand festival of Takaoka Sekino Shrine. This festival is designated as both an Important Tangible Folk Cultural Property and an Important Intangible Folk Cultural Property of Japan. This dual designation makes it one of only five such cases in the entire country. Furthermore, in 2016, the festival was registered as a UNESCO Intangible Cultural Heritage under the title Takaoka Mikurumayama Festival Mikurumayama Event.
+
+The festival features seven magnificent Mikurumayama floats, which measure approximately 8.4 to 9 meters in height. The wheels of these floats have a diameter of about 1.6 meters. These floats are lavishly decorated with the traditional crafts of Takaoka, including metalwork, lacquerware, and dyeing and weaving techniques. The floats are paraded through the old city center accompanied by elegant festival music. The most spectacular moment occurs at noon when all seven floats gather together in a formation known as Seizoro-shiki. This spectacle is truly breathtaking.
+
+## History and Origin
+
+The origin of the Takaoka Mikurumayama dates back to 1588, the 16th year of the Tensho era. In that year, Toyotomi Hideyoshi invited Emperor Go-Yozei to his Jurakudai palace. The imperial carriage used for this occasion was granted to Maeda Toshiie, the founder of the Kaga domain. According to tradition, Toshiie''s son, Maeda Toshinaga, then gave this carriage to the townspeople when he built Takaoka Castle in 1609. This act formed the foundation for the townspeople to create their own floats and establish the festival tradition.
+
+The Takaoka Mikurumayama Festival is believed to have begun at the same time as the founding of Takaoka City. Maeda Toshinaga entered Takaoka Castle and gave the imperial carriage to the townspeople as a wish for the prosperity of the castle town. This event directly led to the establishment of the festival. However, in 1614, the festival was canceled due to the illness of Maeda Toshinaga. On May 20th of the same year, Toshinaga passed away, forcing the festival into a temporary suspension. After this interruption, the townspeople revived the festival, and it has been passed down to the present day.
+
+In 1775, the 4th year of the Anei era, a significant incident known as the Anei Float Wheel Disturbance occurred. A dispute arose between the people of Takaoka and the neighboring towns of Funazu, Ishurugi, and Johana over the wheel style of the Mikurumayama. In this conflict, Yozaemon Tsuchibaya of Takaoka Nibancho, who sought to protect the prestige of the Mikurumayama, died in prison. This event is said to have influenced the enrichment of float decorations across various regions. In Takaoka, Yozaemon is honored as the Righteous Man of Anei, and the Yozaemon Festival is held annually on April 3rd.
+
+The festival continued through the Meiji period and beyond. In 1909, the 42nd year of the Meiji era, the Crown Prince, who later became Emperor Taisho, viewed the seven Mikurumayama floats arranged at the Takaoka Castle main enclosure. In 1913, the 2nd year of the Taisho era, the floats paraded through the town as part of the 300th anniversary celebration of Takaoka''s founding. In 1953 (Showa 28) the floats were designated a cultural property by Toyama Prefecture, and the following year, 1954 (Showa 29), the Takaoka Mikurumayama Preservation Association was established. In 1960, the floats were designated as an Important Folk Material of Japan, and in 1976, they were redesignated as an Important Tangible Folk Cultural Property under the updated Cultural Properties Protection Law. In 2015, Takaoka was certified as a Japan Heritage site, and the Takaoka Mikurumayama Kaikan museum opened its doors.
 
 ## Highlights
 
-The festival''s greatest highlight is the Mikurumayama procession on May 1, when all seven floats depart from Takaoka Sekino Shrine and parade through the districts of Katahara-machi, Sakashita-machi, Komandashi-machi, Tōri-machi, Kibune-machi, Ouma-dashi-machi, and Nibanmachi over the course of a full day. The Mikurumayama are large floats approximately 7.5 meters tall and weighing 1-2 tons, with wheels decorated in metalwork in the elegant imperial carriage style, surmounted by towering "Hoko-dome" (Halberd Caps) reaching high into the sky. During the previous night''s "Yoiyama" (Eve Festival), lanterns are lit on the floats, causing the lacquer and gold leaf decorations to glow with magical beauty. The Mikurumayama Kaikan exhibition hall displays all seven authentic floats year-round, allowing visitors to view them up close throughout the year.
+**Tsukiyama Ceremony and the Origin of the Festival**
+On April 23rd, the Tsukiyama ceremony is held at Futagami Shosen Shrine. This is a Shinto ritual that preserves an ancient form of worship, where the enshrined deity is invited to a temporary altar to pray for a bountiful harvest. The Mikurumayama floats are believed to have originated from this Tsukiyama ceremony, evolving into mobile floats. The unique practice of rapidly dismantling the altar after the ceremony is extremely rare nationwide.
 
-## Event Details and Access
+**Gendayu-style Lion Dance**
+The Gendayu-style lion dance performed by Sakashitamachi district is another highlight. This lion dance serves to purify the festival grounds as a vanguard ritual. The dynamic movements of the lion and the rhythm of the festival music mark the official beginning of the festival proceedings.
 
-The venue is Takaoka Sekino Shrine (9-56 Suehiro-machi, Takaoka City, Toyama Prefecture) and the surrounding old city center. Access is approximately 10 minutes on foot from Takaoka Station on the Ainokaze Toyama Railway. Viewing is free of charge. The Mikurumayama Kaikan (42 Moriyama-machi, Takaoka City) operates year-round with adult admission of 450 yen.
+**Yoi Matsuri Eve Festival and Illumination Display**
+On April 30th, during the Yoi Matsuri eve festival, the Mikurumayama floats are pulled out from the storage sheds near Sekino Shrine and transported to the float lodgings. Here, the final decorations are applied, and purification rituals such as the Nyukonshiki ceremony are conducted. Every year, three of the floats are illuminated at night, accompanied by performances of Hikiyama-bayashi festival music and displays of decorative items. This creates a fantastical atmosphere in the evening streets.
 
-## Surrounding Attractions
+**Main Festival on May 1st and the Spectacular Seizoro-shiki**
+On the main festival day, May 1st, the assembly of the floats begins early in the morning in each district. By late morning, all seven floats gather in Sakashitamachi. At noon, the seven floats line up in a single row at the Kataharamachi intersection in an event called Seizoro-shiki. This moment is the greatest highlight of the festival, where the cheers of the spectators and the sounds of the festival music merge to create overwhelming power.
 
-Takaoka City, built as a castle town by Maeda Toshinaga, the second lord of the Kaga Domain, remains a town of living craft tradition where copperware, lacquerware (Takaoka Lacquerware), and silk textiles continue to thrive. Major historical attractions concentrated in the area include Zuiryū-ji Temple (a National Treasure), the Takaoka Daibutsu (one of Japan''s three great Buddha statues), Takaoka Kojō Park, and Kanaya-machi (the birthplace of metal casting, designated as an Important Preservation District). Within Toyama Prefecture, combined sightseeing tours are possible with attractions including the Tateyama Kurobe Alpine Route, the Gokayama Gasshō-zukuri village (a UNESCO World Heritage Site), and the seafood bounty of Toyama Bay and Himi.','takaoka-mikurumayama-matsuri','takaoka-mikurumayama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Structure and Decorative Details of the Mikurumayama**
+The Mikurumayama has a two-tiered structure. The upper tier, called Kazari-yama, houses the deity figures, while the lower tier, called Jiyama, is draped with luxurious curtains. Inside the curtains, musicians play flutes, gongs, and drums, filling the town with elegant melodies. The decorative umbrellas with radiating spokes and the metalwork and lacquer decorations created by master craftsmen of the Edo period are truly moving works of art.
+
+**Temporary Removal of Tram Overhead Wires**
+A rare sight nationwide is the temporary removal of overhead wires for the Manyosen tram line to allow the floats to pass. This is a necessary measure because the floats, which are about 8.4 to 9 meters high, must pass through the streets safely. This spectacle symbolizes the unity of Takaoka, where the entire town comes together for the festival.
+
+**Harmony with the Dozo-zukuri Townhouses of Yamamachi-suji**
+The parade takes place through the old castle town, and the view of the Mikurumayama floats against the backdrop of the dozo-zukuri storehouses of Yamamachi-suji is like a scene from a historical picture scroll. Yamamachi-suji features fireproof dozo-zukuri buildings constructed after a major fire in 1890. In 2000, this area was designated as an Important Preservation District for Groups of Traditional Buildings under the name Takaoka City Yamamachi-suji Traditional Buildings Preservation District. This historic streetscape enhances the brilliance of the Mikurumayama floats.
+
+## Event Information and Access
+
+**Dates and Times**
+- Yoi Matsuri Eve Festival: April 30th, 18:00 to 21:00 (Illumination display: 18:30 to 21:00)
+- Main Festival: May 1st, 11:00 to 18:00
+
+**Venue**
+- Yamamachi-suji and Kataharamachi areas, Takaoka City, Toyama Prefecture
+
+**Access by Train**
+- Approximately 10 minutes on foot from Takaoka Station on the Ainokaze Toyama Railway
+- For Hokuriku Shinkansen users, take a bus or the JR Johana Line from Shin-Takaoka Station to Takaoka Station (approximately 10 minutes)
+
+**Access by Car**
+- Approximately 10 minutes from Takaoka IC on the Noto Expressway
+- Approximately 20 minutes from Takaoka Tonami Smart IC on the Hokuriku Expressway
+
+**Parking**
+- Use city-operated parking lots near Takaoka Station (approximately 1,000 spaces, paid)
+- Vehicle entry to the festival venue is not permitted
+
+**Notes**
+- On May 1st, from 9:30 to 14:00, the Manyosen tram will operate with a turnaround at Sakashitamachi Station
+- Please check the official website for the latest schedule and event status
+
+## Surrounding Area Information
+
+The Yamamachi-suji area of Takaoka City has been designated as an Important Preservation District for Groups of Traditional Buildings. This district features dozo-zukuri storehouses built after the great fire of 1890, characterized by their heavy black exteriors. Walking through this area allows visitors to experience the history of Takaoka, which flourished as a commercial center from the Edo to Meiji periods. During the Mikurumayama Festival, the floats create an even more magnificent scene against this traditional townscape.
+
+The Takaoka Mikurumayama Kaikan museum opened in 2015 to coincide with the launch of the Hokuriku Shinkansen. The museum permanently displays one actual Mikurumayama float and a full-scale replica called the Heisei no Mikurumayama, allowing visitors to experience the festival year-round. The Heisei no Mikurumayama took five years to create, from 2013, and stands approximately 7.8 meters tall, weighing about 2.6 tons. The museum also features state-of-the-art exhibits, including a 4K high-definition video experience of the festival and a motion-capture wheel operation simulation.
+
+Futagami Shosen Shrine is a historic shrine where the Tsukiyama ceremony takes place. This ceremony is considered the origin of the Mikurumayama Festival and is a valuable ritual that preserves an ancient form of worship. Takaoka City is home to many other temples, shrines, and historical buildings where visitors can learn about the city''s history of craftsmanship. There are also workshops where visitors can observe the creation of traditional crafts such as Takaoka copperware and Takaoka lacquerware, as well as facilities offering hands-on experiences. These make the city an attractive destination for tourists.
+
+## Related Information
+
+- **UNESCO Intangible Cultural Heritage**: Takaoka Mikurumayama Festival Mikurumayama Event was registered in 2016 as one of the Nationwide Float Festivals. Other registered events include the Gion Festival Yamaboko Event in Kyoto, the Takayama Festival Yatai Event, the Chichibu Festival Yatai Event, and the Hitachi Furyumono.
+
+- **National Important Cultural Property Designation**: Takaoka Mikurumayama is designated as an Important Tangible Folk Cultural Property of Japan. Additionally, Takaoka Mikurumayama Festival Mikurumayama Event is designated as an Important Intangible Folk Cultural Property. This makes the festival one of only five events in Japan to hold both designations.
+
+- **Anei Float Wheel Disturbance**: A dispute over the wheel style of the Mikurumayama floats that occurred in 1775. Yozaemon Tsuchibaya died in prison as a result, and a memorial monument was later erected in his honor.
+
+- **Yozaemon Festival**: Held annually on April 3rd, this festival honors Yozaemon Tsuchibaya, known as the Righteous Man of Anei. This festival is positioned as a prelude to the Mikurumayama Festival.
+
+- **Maeda Toshiie and Maeda Toshinaga**: Successive lords of the Kaga domain who are connected to the origin of the Mikurumayama. Toshiie received the imperial carriage from Toyotomi Hideyoshi, and Toshinaga gave it to the townspeople when founding Takaoka.
+
+- **Takaoka Mikurumayama Kaikan**: Opened in 2015. A facility that permanently displays the Mikurumayama floats and offers festival experience exhibits. Opening hours are extended on both the eve festival and the main festival days.','takaoka-mikurumayama-matsuri','takaoka-mikurumayama-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q10860730','原宿表参道元氣祭り・スーパーよさこい','Super Yosakoi',NULL,NULL,'Q746573','原宿','Harajuku','東京都','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%842022%202.jpg','https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AE%BF%E8%A1%A8%E5%8F%82%E9%81%93%E5%85%83%E6%B0%A3%E7%A5%AD%E3%82%8A%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%88%E3%81%95%E3%81%93%E3%81%84',NULL,80,'drafted','## 概要
 
 原宿表参道元氣祭り・スーパーよさこいは、毎年8月下旬の週末（近年は8月29・30日前後）に東京都渋谷区の原宿・表参道一帯で開催される、よさこいの大規模演舞祭である。高知県発祥のよさこい鳴子踊りを首都・東京の象徴的な街並みに持ち込んだイベントで、明治神宮の表参道（神宮橋前のメインステージ）や原宿駅前、代々木公園周辺など複数会場で、全国から集まった踊り子チームが一斉に演舞を披露する。盛夏の東京を彩る夏祭りの一つとして定着しており、来場者数は多い年で延べ百万人規模にのぼるとされる。
@@ -21334,11 +21466,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
