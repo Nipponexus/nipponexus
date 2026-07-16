@@ -12363,43 +12363,109 @@ The setting itself contributes significantly to Asamushi''s appeal. Guest rooms 
 Access to Asamushi Onsen is convenient. From Aomori Station, the Aoimori Railway connects to Asamushi Onsen Station in approximately twenty-five minutes, with the festival area lying within easy walking distance. From Aomori Airport, the town can be reached by car in about forty minutes. The standard recommended itinerary combines the Asamushi festival with attendance at the main Aomori Nebuta Festival in central Aomori, allowing visitors to experience both the monumental scale of the urban event and the intimate community character of the hot spring town version. Together they provide a complete view of nebuta culture in its native Aomori context, demonstrating how a single festival tradition expresses itself at radically different scales according to community and location.','asamushi-onsen-nebuta','asamushi-onsen-nebuta',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q108373656','ベトナムフェスティバル','Vietnam Festival in Japan',NULL,NULL,'Q1204253','代々木公園','Yoyogi Park',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q108376146','NAMIMONOGATARI','NAMIMONOGATARI','毎年8月に日本の愛知県で開催される野外音楽イベント','Outdoor music festival held in Aichi prefecture, Japan',NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,2005,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/NAMIMONOGATARI',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q114045450','送り盆まつり','Okuribon Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.317611111,140.565221944,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Butsuke-ai%20at%20Okuribon-Festival%20B.jpg','https://ja.wikipedia.org/wiki/%E9%80%81%E3%82%8A%E7%9B%86%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q114045450','送り盆まつり','Okuribon Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.317611111,140.565221944,NULL,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Butsuke-ai%20at%20Okuribon-Festival%20B.jpg','https://ja.wikipedia.org/wiki/%E9%80%81%E3%82%8A%E7%9B%86%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
-送り盆まつり（おくりぼんまつり）は、秋田県湯沢市で毎年8月16日から18日にかけて開催される、お盆の精霊送りを起源とする伝統的な夏祭りである。市内中心部の前郷二番丁通りを舞台に、巨大な「屋形舟」と呼ばれる山車が練り歩き、最終夜には舟同士が激しくぶつかり合う勇壮な「ぶつけ合い」が見どころとなる。
+横手の送り盆まつりは、秋田県横手市で毎年8月15日と16日に行われる伝統行事です。この祭りは秋田県指定無形民俗文化財に指定されており、約300年の歴史を持つとされています。先祖の霊を送り供養する「お盆」の行事に由来し、重さ約700キログラムの屋形舟を橋の上で激しくぶつけ合う勇壮な光景で知られています。
 
-## 歴史
+祭りは8月6日の「ねむり流し」に始まり、15日の市民盆踊り、16日の屋形舟繰り出しと協賛花火打ち上げへと続きます。会場は横手市役所本庁舎前のおまつり広場と蛇の崎川原・蛇の崎橋周辺の二か所に分かれています。
 
-江戸時代中期、湯沢藩政下で町人文化が栄えるなかで、亡き祖先の霊を彼岸へ送り出す精霊送りの行事として始まったとされる。当初は小規模な灯籠流しの形態であったが、徐々に屋形舟が大型化し、町内ごとに独自の意匠を凝らした山車が制作されるようになった。明治以降は地域の若衆を中心に運営され、戦後の中断を経て1957年に本格復活、現在の形となった。
+## 歴史・由来
+
+横手の送り盆まつりの起源は、江戸時代中期にまで遡ると言い伝えられています。当時、日本は享保・天明・天保の三度にわたる大飢饉に見舞われ、米の価格は高騰し、数十万もの人々が命を落としたとされています。横手地方もその例外ではなく、飢饉による惨状は甚だしかったと伝えられます。
+
+この大飢饉で亡くなった方々を供養するため、約300年前に柳町町内の人々が屋形舟を作ったのが始まりと伝えられています。彼らは柳の添え枝に法名を書いた短冊を下げ、蛇の崎川原に繰り出して御霊を供養したとされています。この行為が他の地域にも広がり、やがて横手の送り盆まつりの原型が形成されていきました。
+
+当初は各町内が作った舟を川に流して御霊を送る風習でしたが、時代とともに形態が変化しました。現在では屋形舟を川に流すことはせず、御霊送りの儀式の後に灯篭を川に放つことで故人を偲びます。灯篭の灯りが川面に揺らめく光景は、江戸時代の風習を彷彿とさせる静かで厳かなものとなっています。
+
+この祭りが「舟ぶつけ」へと発展した背景には、地域の結束を強めたいという住民の思いがあったとされています。屋形舟を担いで橋の上でぶつけ合う行為は、単なる供養の儀式を超えて、各地区の誇りと団結力を競い合う場へと変貌しました。各町内の若衆が約1か月かけて準備した舟をぶつけ合う姿は、見る者に強い印象を与えます。
+
+横手の送り盆まつりは、その歴史的・文化的価値が認められ、秋田県指定無形民俗文化財に指定されています。現在では、横手市の夏の風物詩として、多くの観光客が訪れる重要な行事となっています。
 
 ## 見どころ
 
-祭りの主役は、長さ約5メートル、高さ約4メートルの「屋形舟」と呼ばれる豪華な山車である。極彩色の彫刻と提灯で飾られた舟が、太鼓と笛の囃子に合わせて町内を巡行する。最終日の18日夜、市役所前広場で行われる「ぶつけ合い」では、町内ごとの舟が正面から激しく衝突し、火花を散らすかのような迫力で観客を熱狂させる。屋形舟は祭り終了後に湯沢川で焼かれ、精霊送りの儀式が完結する。
+**ねむり流し**
+8月6日に行われるこの行事は、祭りの序幕として位置づけられています。その起源は、夏の暑さで眠気をもよおした隙に悪霊に襲われないように眠気を払うという七夕の風習にあるとされています。子ども達が小さな藁の舟にろうそくを灯して蛇の崎川原に繰り出す様子は、夏の夕暮れに幻想的な美しさを醸し出します。
 
-## 開催情報
+**市民盆踊り**
+8月15日に横手市役所本庁舎前のおまつり広場で開催されます。約500人の踊りの輪が作られ、地元住民や観光客が誰でも自由に参加できる開放的な雰囲気が特徴です。踊りの輪の中には実際の屋形舟も並び、間近でその迫力ある姿を鑑賞できる貴重な機会となっています。
 
-開催地は秋田県湯沢市前郷二番丁通り、ぶつけ合いは市役所前広場。最寄駅はJR奥羽本線「湯沢駅」徒歩約10分。開催期間は毎年8月16日から18日の3日間で、ぶつけ合いは18日夜19時頃から。観覧は無料で、ぶつけ合い会場は安全のため一定の距離を保った観覧エリアが設けられる。8月中旬の東北は夕方以降冷え込むこともあるため羽織りものを推奨する。
+**屋形舟鑑賞会**
+同じく15日に市民盆踊り会場で行われます。祭りの前日に各町内が制作した巨大な屋形舟が一堂に会し、観客は細部まで丹念に作られた舟の美しさをじっくりと観察することができます。骨組みは前回の祭りのものを再利用しますが、藁でできた船体や細部は毎年新たに作り直すため、各町内のこだわりが感じられます。
 
-## 周辺の見どころ
+**御霊送りの儀式**
+16日に蛇の崎川原で僧侶によって執り行われます。これは故人の霊をあの世に送り出すための神聖な儀式であり、祭りの中で最も静謐な瞬間の一つです。読経が響く中、川面に放たれた灯篭の灯りが揺らめく光景は、祭りの喧騒とは対照的な厳かな雰囲気を作り出します。
 
-湯沢市は秋田県南部に位置し、稲庭うどん発祥の地として知られる。市内には院内銀山跡や小安峡温泉など歴史・自然観光地が点在する。隣接する横手市の横手の雪まつり（かまくら）、大仙市の大曲花火大会と並んで、秋田県南部の三大祭りのひとつに数えられることもある。','## Overview
+**舟ぶつけ（屋形舟繰り出し）**
+祭りの最大の見どころであり、16日夕方から夜にかけて蛇の崎橋の上で行われます。各地区の若衆が担ぐ重さ約700キログラム、長さ約7.5メートルの屋形舟を2隻ずつ向き合わせ、勢いよくぶつけ合います。舟の上では各地区の代表者が声を張り上げ、手を振り回しながら盛り上げ、舟が激しくぶつかるたびに観客から大きな歓声が上がります。
 
-Okuribon Matsuri (送り盆まつり) is a traditional summer festival held annually from August 16 to 18 in Yuzawa City, Akita Prefecture. Originating as a ritual to send off ancestral spirits at the close of the Obon season, the festival features massive floats called yakata-bune (palace boats) parading through downtown Yuzawa, culminating on the final night in a fierce yakata-bune collision event called butsuke-ai.
+**協賛花火打ち上げ**
+舟ぶつけの後、横手公園から打ち上げられます。屋形舟が並ぶ蛇の崎橋を背景に、夜空に大輪の花火が咲き誇ります。花火の光が舟のシルエットを浮かび上がらせる様子は、夏の夜の祭りのフィナーレにふさわしい華やかさです。天候により時間が変更となる場合があります。
 
-## History
+## 開催情報・アクセス
 
-The festival is said to have begun in the mid-Edo period, when townspeople culture flourished under the rule of the Yuzawa domain, as a spirit-sending ritual to escort the souls of ancestors to the other shore. Originally a modest lantern-floating event, the floats gradually grew larger, with each neighborhood designing its own distinctive yakata-bune. From the Meiji era onward, the festival was managed by young men''s associations of each district. After a wartime interruption, it was fully revived in 1957 and has continued in its present form ever since.
+- **開催期間**：毎年8月15日（市民盆踊り・屋形舟鑑賞会）と8月16日（屋形舟繰り出し・協賛花火）。8月6日には前夜祭として「ねむり流し」が行われる。
+- **開催時間**：ねむり流しは18:00～20:00頃。15日の市民盆踊りは19:00～21:00頃。16日の屋形舟繰り出しは18:30～22:00頃、協賛花火は19:30～21:00頃。
+- **会場**：市民盆踊り・屋形舟鑑賞会は横手市役所本庁舎前おまつり広場。ねむり流し・屋形舟繰り出し・協賛花火は横手市蛇の崎川原・蛇の崎橋周辺。
+- **アクセス**：JR横手駅から徒歩約15～20分。秋田自動車道横手インターチェンジから車で約10分。
+- **駐車場**：あり（30台、無料）。ただし台数に限りがあるため、公共交通機関の利用が推奨される。
+- **問い合わせ**：一般社団法人横手市観光協会（電話：0182-33-7111、メール：yokote@yokotekamakura.com）。
+- **料金**：観覧無料。イベントにより一部有料席が設けられる場合があるため、公式サイトで最新情報を確認すること。
+- **最新情報**：開催日程やイベント内容は変更になる場合がある。最新の開催日程・実施可否は公式サイトで確認すること。
 
+## 周辺情報
+
+横手市は秋田県の南部に位置する歴史ある都市です。同市は冬の風物詩である「横手のかまくら」でも広く知られており、観光資源が豊富です。送り盆まつりが開催される横手市中心部には飲食店や宿泊施設が集まっており、祭りを楽しむ拠点として便利です。特に8月は夏休み期間中であるため、家族連れの訪問にも適しています。
+
+公共交通機関を利用する場合、JR横手駅から徒歩で主要会場へアクセスできます。駅周辺には観光案内所もあり、祭りに関する最新情報を得ることができます。車で訪れる場合も、秋田自動車道の横手インターチェンジからスムーズにアクセス可能です。駐車台数には限りがあるため、早めの到着が推奨されます。
+
+横手市周辺には歴史的な寺社や自然豊かな公園も点在しており、祭りと合わせて観光を楽しむこともできます。横手市観光協会の公式サイトでは、周辺の観光スポットや宿泊情報が詳しく紹介されています。祭り当日は多くの来場者が見込まれるため、事前に交通手段や宿泊先を確認しておくことをお勧めします。
+
+## 関連情報
+
+1. **ねむり流し**：8月6日に開催される前夜祭。子どもたちが小さな藁の舟を蛇の崎川原に繰り出し、ろうそくの灯りを川面に浮かべる。
+2. **市民盆踊り**：8月15日に開催。誰でも自由に参加でき、市民と観光客が一体となって踊る参加型イベント。
+3. **屋形舟鑑賞会**：8月15日に開催。祭りの前に屋形舟を間近で鑑賞できる貴重な機会。
+4. **屋形舟繰り出し（舟ぶつけ）**：8月16日に開催。最大の見どころで、屋形舟を激しくぶつけ合う勇壮な行事。
+5. **協賛花火打ち上げ**：8月16日に開催。祭りのフィナーレを飾る花火大会。横手公園から打ち上げられる。
+6. **秋田県指定無形民俗文化財**：この祭りは秋田県の無形民俗文化財に指定されており、その文化的価値の高さが公的に認められている。
+7. **横手のかまくら**：横手市を代表する冬の行事。「送り盆まつり」と並ぶ、地域のもう一つの重要な伝統行事である。
+8. **一般社団法人横手市観光協会**：祭りの運営や情報発信を担う団体。公式サイトで最新情報を提供している。','## Overview
+
+The Yokote Okuribon Festival is a traditional event held annually on August 15 and 16 in Yokote City, Akita Prefecture. This festival is designated as an intangible folk cultural property by Akita Prefecture and is believed to have a history of approximately 300 years. Originating from the Buddhist custom of "Obon," a time to honor and send off ancestral spirits, the festival is renowned for its spectacular scene where large ceremonial boats, weighing approximately 700 kilograms, are violently collided on a bridge. 
+The festival begins with the "Nemuri Nagashi" event on August 6, followed by the Citizens Bon Odori dance on the 15th, and culminates on the 16th with the boat procession and a fireworks display. The venues are divided into two main locations: the festival square in front of the Yokote City Hall main building, and the area around the Hebi no Saki riverbed and Hebi no Saki Bridge. 
+The Okuribon Festival is not merely a tourist attraction but a deeply rooted community practice. It serves as a vital occasion for local residents to come together, remember their ancestors, and reaffirm their communal bonds. The festival''s enduring appeal lies in its blend of solemn religious ritual and exhilarating, competitive physicality. 
+## History and Origins
+
+The origins of the Yokote Okuribon Festival are said to date back to the middle of the Edo period (1603-1867). During this time, Japan was struck by three major famines: the Kyoho famine, the Tenmei famine, and the Tenpo famine. These catastrophes caused rice prices to skyrocket and led to the deaths of hundreds of thousands of people. The Yokote region is said to have suffered immensely from these disasters. 
+According to local tradition, the festival began approximately 300 years ago when residents of the Yanagimachi district of Yokote created a ceremonial boat to mourn and console the spirits of those who perished in the famines. They attached wooden tags with the posthumous Buddhist names of the deceased to willow branches, hung them on the boat, and carried it to the Hebi no Saki riverbed for a memorial service. This act of piety and remembrance is considered the very foundation of today''s festival. 
+This initial practice by the Yanagimachi community was soon emulated by neighboring districts. Over time, the custom of simply floating the boats down the river evolved. The act of carrying the boats to the river and releasing them gradually transformed into a competitive event. The boats were no longer set adrift but were brought together, and a ritual of collision began to emerge, symbolizing a powerful send-off for the spirits. 
+The shift from floating boats to colliding boats is believed to have been driven by a desire to strengthen local identity and solidarity. The boat collision, or "fune-butsuke," became a way for different districts to display their pride, strength, and unity. The process of building the boats, which takes about a month, itself fosters cooperation and community spirit among the residents and shop owners of each district. This transformation turned a simple memorial rite into a dynamic public spectacle. 
+In recognition of its historical and cultural value, the Yokote Okuribon Festival has been designated as an Intangible Folk Cultural Property by Akita Prefecture. Today, while the boats are no longer set adrift on the river, the tradition continues. After the priest conducts the "Omitama Okuri" ceremony to send off the spirits, lanterns are floated on the river instead. The flickering lights on the water evoke the original custom from the Edo period, creating a serene and contemplative moment before the excitement of the boat collision begins. The festival remains a vital part of Yokote''s cultural identity. 
 ## Highlights
 
-The main attraction is the yakata-bune, ornate floats approximately 5 meters long and 4 meters high. Decorated with vivid carvings and paper lanterns, the boats parade through the town to the rhythm of taiko drums and flutes. On the final night of August 18, at the plaza in front of City Hall, the yakata-bune from each district crash head-on into one another in a dramatic display called butsuke-ai, thrilling spectators with a fiery, sparks-flying intensity. After the festival, the boats are burned at the Yuzawa River, completing the spirit-sending ritual.
+**Nemuri Nagashi (Sleep-Driving Event)**
+Held on August 6, this event serves as the prologue to the main festival. Its origin is believed to lie in a Tanabata custom meant to ward off evil spirits that might attack people overcome by summer drowsiness, a concept called "nemuri" or sleep. Children carry small straw boats decorated with candles to the Hebi no Saki riverbed, creating a scene of fantastic, ephemeral beauty in the twilight of the summer evening. The sight of the small, candle-lit boats being gently carried by children is a poignant and quiet start to the festival. 
+**Citizens Bon Odori (Bon Dance)**
+This event takes place on August 15 at the festival square in front of the Yokote City Hall main building. A large circle of approximately 500 dancers is formed, and both local residents and tourists are welcome to join in freely, creating an inclusive and festive atmosphere. Inside the dance circle, the large ceremonial boats are also placed, providing a rare opportunity for participants to view these impressive vessels up close while dancing. The energy of the crowd dancing around the massive boats is a powerful sight. 
+**Yakata-bune Observation Event**
+Also held on August 15 at the same venue as the Bon Odori, this event offers a chance to view the ceremonial boats before the main event. The boats, painstakingly constructed by each participating district, are gathered and illuminated, allowing visitors to appreciate the intricate details and artistry involved. The framework of the boats is reused from the previous year, but the straw hull and decorative elements are rebuilt annually, reflecting the unique craftsmanship and pride of each district. This is a photographer''s delight and a chance to study the boats'' construction. 
+**Omitama Okuri Ceremony (Soul-Sending Ceremony)**
+This solemn ceremony is performed by a Buddhist priest on August 16 at the Hebi no Saki riverbed. It is a sacred ritual to send the spirits of the departed back to the other world after their brief return during Obon. Amidst the chanting of sutras, lanterns are released onto the river, and the sight of their lights flickering on the water is one of the most serene and moving moments of the entire festival. This quiet ceremony provides a profound spiritual counterpoint to the intense physical action that follows. 
+**Fune-butsuke (Boat Collision / Yakata-bune Kuri-dashi)**
+This is the undisputed highlight of the festival, taking place on the evening of August 16 on Hebi no Saki Bridge. Teams of young men from each district carry their massive boats, weighing approximately 700 kilograms and measuring about 7.5 meters in length, onto the bridge. Two boats are then maneuvered to face each other and are driven together in a powerful head-on collision. Representatives from each district stand on their boats, shouting and waving their arms to whip up excitement, and the crowd responds with loud cheers each time the boats crash together. The collision is a raw display of strength, courage, and community pride. 
+**Supporters Fireworks Display**
+After the boat collision, a fireworks display is launched from Yokote Park against the backdrop of Hebi no Saki Bridge lined with the ceremonial boats. The large bursts of color in the night sky beautifully silhouette the boats, creating a spectacular finale to the summer festival. The combination of the stationary boats, the cheering crowd, and the dazzling fireworks creates an unforgettable atmosphere. Please note that the start time may be adjusted depending on weather conditions. 
+## Event Information and Access
 
-## Event Information
+- **Event Dates**: Annually on August 15 (Citizens Bon Odori and Boat Observation) and August 16 (Boat Procession and Fireworks). The preliminary "Nemuri Nagashi" is held on August 6. - **Event Times**: Nemuri Nagashi is from 18:00 to 20:00. The Citizens Bon Odori on the 15th is from 19:00 to 21:00. On the 16th, the main boat procession runs from 18:30 to approximately 22:00, and the fireworks display is scheduled from 19:30 to approximately 21:00. - **Venues**: Citizens Bon Odori and Boat Observation are held at the festival square in front of the Yokote City Hall main building. Nemuri Nagashi, the main boat procession, and the fireworks are held around the Hebi no Saki riverbed and Hebi no Saki Bridge. - **Access**: It is about a 15 to 20-minute walk from JR Yokote Station. By car, it is approximately a 10-minute drive from the Yokote Interchange on the Akita Expressway. - **Parking**: A free parking lot with 30 spaces is available. However, the number of spaces is limited, so the use of public transportation is strongly recommended. - **Contact Information**: General Incorporated Association Yokote City Tourism Association (Phone: 0182-33-7111, Email: yokote@yokotekamakura.com). - **Admission Fee**: Viewing is free of charge. Some events may have reserved paid seating, so it is advisable to check the official website for the latest details. - **Latest Information**: Event schedules and details are subject to change. Please check the official website for the latest updates on the schedule and event status. 
+## Surrounding Area Information
 
-The venue is Maesato Nibancho-dori in Yuzawa City, Akita Prefecture, with the butsuke-ai held at the plaza in front of City Hall. The nearest station is Yuzawa Station on the JR Ou Main Line, about a 10-minute walk away. The festival runs annually from August 16 to 18, with the butsuke-ai beginning around 7:00 PM on August 18. Admission is free, and a safe viewing area is set up at a distance from the collision zone. Evenings in mid-August in the Tohoku region can be cool, so a light jacket is recommended.
+Yokote City is a historic city located in the southern part of Akita Prefecture. The city is also widely known for its winter tradition, the "Yokote Kamakura" snow hut festival, making it a region rich in tourist attractions. The central area of Yokote, where the Okuribon Festival is held, is home to many restaurants and accommodation facilities, making it a convenient base for enjoying the festival. Since the festival takes place during the summer vacation period, it is also suitable for family visits. 
+Visitors using public transportation can easily walk from JR Yokote Station to the main venues. A tourist information center is located near the station, where visitors can obtain the latest information about the festival. For those arriving by car, the Yokote Interchange on the Akita Expressway provides smooth access to the city center. It is advisable to arrive early due to limited parking availability. 
+The area around Yokote City is dotted with historic temples and shrines, as well as parks rich in nature, allowing visitors to enjoy sightseeing in conjunction with the festival. The official website of the Yokote City Tourism Association provides detailed information about nearby tourist spots and accommodation. Given the large number of visitors expected on the festival days, it is recommended to confirm transportation and lodging plans in advance. 
+## Related Information
 
-## Nearby Attractions
-
-Yuzawa City is located in southern Akita Prefecture and is known as the birthplace of Inaniwa udon, one of Japan''s three great udon varieties. Local attractions include the Innai Silver Mine ruins and Oyasukyo Onsen, where hot-spring towns and historical sites are scattered through the area. Alongside the Yokote Snow Festival (Kamakura) in neighboring Yokote City and the Omagari Fireworks in Daisen City, it is sometimes counted as one of southern Akita''s three great festivals.','okuribon-matsuri','okuribon-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+1.  **Nemuri Nagashi**: A pre-festival event held on August 6. Children carry small straw boats to the Hebi no Saki riverbed and float candle-lit lanterns on the water. 2.  **Citizens Bon Odori**: Held on August 15. A participatory event where anyone can join the Bon dance circle, uniting locals and tourists in celebration. 3.  **Yakata-bune Observation Event**: Held on August 15. A valuable opportunity to view the large ceremonial boats up close before the main procession. 4.  **Fune-butsuke (Yakata-bune Kuri-dashi)**: The main event on August 16. A powerful ritual where large ceremonial boats are violently crashed into each other. 5.  **Supporters Fireworks Display**: Held on August 16. A fireworks show that serves as the grand finale of the festival, launched from Yokote Park. 6.  **Akita Prefecture Designated Intangible Folk Cultural Property**: The festival is officially recognized by Akita Prefecture for its high cultural and historical value. 7.  **Yokote Kamakura Festival**: A major winter event in Yokote City, where people build snow huts and hold festivities. It is another important traditional event of the region. 8.  **General Incorporated Association Yokote City Tourism Association**: The organization responsible for managing the festival and providing information. Their official website offers the latest updates.','okuribon-matsuri','okuribon-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q105338690','貴船まつり','Kibune Matsuri','神奈川県真鶴町の貴船神社の例大祭',NULL,'Q1202786','真鶴町','Manazuru','神奈川県','kanto',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E8%A5%BF%E5%B0%8F%E6%97%A9%E8%88%B9%E3%83%BB%E8%B2%B4%E5%AE%AE%E4%B8%B8%20%E6%B5%B7%E4%B8%8A%E6%B8%A1%E5%BE%A1.jpg','https://ja.wikipedia.org/wiki/%E8%B2%B4%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','貴船まつりは、神奈川県足柄下郡真鶴町の貴船神社で毎年7月27日と28日に執り行われる例大祭であり、日本三大船祭りの一つに数えられる海上神事である。相模湾に面した小さな漁師町を舞台に、豪華絢爛な装飾を施した小早船と櫂伝馬船が湾内を渡御する壮大な海上絵巻が展開され、約400年の歴史を持つ真鶴の伝統文化の精華として国の重要無形民俗文化財に指定されている。
 
 貴船神社は平安時代初期の889年（寛平元年）の創建と伝わる古社で、京都の貴船神社と並ぶ水の神・航海安全の神として、相模湾の漁業者や海運業者から篤い信仰を集めてきた。真鶴半島の漁業集落に住む人々にとって、貴船神社は文字通り生活の中心であり、年に一度の例大祭は漁師たちの一年の総決算とも言える最も重要な行事として位置づけられてきた。
