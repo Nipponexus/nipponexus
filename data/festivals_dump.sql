@@ -8096,85 +8096,127 @@ The Saikū ruins are designated a national historic site and are known as precio
 
 Please note that the details and dating of the Saiō system, as well as the route of the procession, differ depending on research and operation, and this article provides an overview based on the principal traditions and general features. Because the specific dates and content of the event change from year to year, please be sure to check the latest official information before visiting.','saio-matsuri','saio-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11629710','西都古墳まつり','Saito Kofun Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%BD%E5%8F%A4%E5%A2%B3%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saito_Kofun_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7497628','新庄まつり','Shinjō Matsuri','山形県新庄市で開催される祭','Japanese festival',NULL,NULL,NULL,'山形県','tohoku',NULL,NULL,1755,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/ShinjoMatsuriNight.jpg','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Shinj%C5%8D_Matsuri',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q7497628','新庄まつり','Shinjō Matsuri','山形県新庄市で開催される祭','Japanese festival',NULL,NULL,NULL,'山形県','tohoku',NULL,NULL,1755,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/ShinjoMatsuriNight.jpg','https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Shinj%C5%8D_Matsuri',85,'drafted','## 概要
 
-新庄まつり（しんじょうまつり）は、山形県新庄市で例年8月24日・25日・26日の3日間にわたって開催される、東北を代表する祭りのひとつです。豪華絢爛な「山車（やたい）」が市内を巡行することで知られ、歌舞伎や歴史物語、昔話などを題材にした華やかな飾り付けが各町内によって毎年新たに制作されます。2016年（平成28年）には「新庄まつりの山車行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、国内外から注目を集めています。
+山形県新庄市で毎年8月24日から26日までの3日間開催される「新庄まつり」は、江戸時代中期に始まった歴史ある山車行事です。幅約3メートル、長さ約8メートル、高さ約4.7メートルにも及ぶ荘厳な山車（やたい）が、旧城下町ごとに組織される「若連（わかれん）」によって手作りされ、市内を巡行します。2009年には国の重要無形民俗文化財に指定され、2016年には全国33の「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録されました【pref.yamagata.jp】(https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。
 
-囃子の音色とともに練り歩く山車の絢爛さ、そして城下町・新庄の歴史と人々の心意気が一体となった、東北の夏を彩る祭礼です。
+まつりは初日を「宵まつり」、2日目を「本まつり」、最終日を「後まつり」とし、それぞれ異なる趣向で進行します。宵まつりでは電飾でライトアップされた山車が夜の街を彩り、本まつりでは新庄藩の武士に扮した総勢200名余りの神輿渡御行列が加わります。後まつりでは飾り山車として20台全ての山車が中心商店街に一堂に展示され、まつりのフィナーレを迎えます【yamagatakanko.com】(https://yamagatakanko.com/festivals/detail_2991.html)。
 
 ## 歴史・由来
 
-新庄まつりの起源は、江戸時代中期の宝暦6年（1756年）にさかのぼると伝えられています。前年の大凶作によって領民が疲弊し、うちひしがれていたなか、新庄藩主・戸沢正諶（とざわ まさのぶ）が、人々に活気と希望を取り戻させ、豊作を祈願するために、新庄総鎮守である天満宮（戸澤神社にゆかりの祭礼）の祭りを領民あげて盛大に執り行ったことが始まりとされています。
+新庄まつりの起源は、江戸時代中期の宝暦6年（1756年）にさかのぼります。前年の宝暦5年（1755年）に大凶作に見舞われ、多くの餓死者が出たため、時の新庄藩主・戸沢正諶（まさのぶ）が餓死者の霊を弔い、五穀豊穣を祈願するとともに領民を奮い立たせようと、天満宮の祭礼を領民あげて行ったことに由来すると言われています【pref.yamagata.jp】(https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。藩主は城下の町人に命じて各町内から飾り物を出させ、城下を巡行させたのが始まりと伝えられています【kunishitei.bunka.go.jp】(https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。
 
-領民を励ますために始まったこの祭りは、その後、町人たちが趣向を凝らした山車を出すようになり、年を追うごとに華やかさを増していきました。各町内が競い合うように山車の意匠を工夫し、人形や造作で歴史や物語の名場面を表現する伝統は、現代まで連綿と受け継がれています。山車は毎年新たに作り替えられるため、同じものは二度と見られないという点も、この祭りの大きな特色です。260年以上にわたって守り伝えられてきた歴史と、地域の人々の熱意が、ユネスコ無形文化遺産への登録という形で世界に認められました。なお、起源や沿革の細部には伝承による部分もあります。
+この行事は、近世に領主によって始められたという起源伝承をもち、明治になるまで領主の庇護のもとに祭りが行われてきました。新庄藩主・戸沢家の氏神である天満神社は城内に祀られ、戸沢神社は初代藩主政盛と11代藩主正実を祀る神社であり、護国神社とともに旧城内に祀られて氏子のいない神社である点が特徴的です【kunishitei.bunka.go.jp】(https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。このような藩主主導の祭礼起源は、我が国の祭礼行事の中でも特徴的な事例とされています。
+
+1962年（昭和37年）には灯籠によるライトアップが始まり、その後発電機を山車に仕込んで電飾によるライトアップが行われるようになりました【ja.wikipedia.org】(https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A)。市内の道路が舗装される前はデコボコの道路を砂塵を巻き上げながら山車が運行され、まるで人形が生きているように見えたと伝えられています。2006年には250周年を迎え、その記念として27日も山車の運行が行われました。
+
+2016年11月30日、「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。2019年は3日間で過去最高とされる56万人の人出がありましたが、2021年は新型コロナウイルス感染対策のため規模を縮小して2年ぶりに開催しました【ja.wikipedia.org】(https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A)。2022年には3年ぶりとなる山車行列などを繰り広げ、3日間で33万人が訪れましたが、新型コロナウイルス拡大前の2019年と比較すると58%の人出でした。
 
 ## 見どころ
 
-### 絢爛豪華な山車行列
-新庄まつり最大の見どころは、各町内が制作した山車の巡行です。歌舞伎の名場面や歴史物語、昔話などを題材にした人形・造作が、緻密かつ大胆に飾り付けられ、その豪華さは目を見張るものがあります。毎年すべて新たに作り替えられるため、職人や町内の人々の創意工夫が凝縮された、その年だけの作品を楽しむことができます。
+**山車（やたい）の手作り細工**
+山車に使われる五重塔や館などの建物、山や滝、波しぶき、桜、松などの自然景観、さらに登場人物や動物の人形、衣装や小物にいたるまで、すべてが若連の創意工夫による手作りです。この伝統は代々受け継がれ、人形の頭や手足は100年以上にわたりまつりを支えてきた人形師・野川家が手掛けています【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。歌舞伎の名場面や歴史絵巻を再現した山車は一台一台趣向を凝らし、見る者を物語の世界へ誘います。
 
-### 山車の競演と評価
-各町内が腕を競い合うように山車を仕立てるため、出来栄えを見比べる楽しみがあります。題材の選び方や人形の表情、全体の構成など、町内ごとの個性が表れ、観客はお気に入りの山車を探しながら巡行を追うことができます。
+**宵まつりのライトアップ**
+24日の宵まつりでは、日が暮れ始めた夕刻に子どもたちに曳かれて山車が動き出します。照明に照らされた歴史絵巻が宵闇に浮かび上がり、幽玄の世界が広がります【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。響き渡る「チェレンコヤァッサー！！」という元気な掛け声と囃子若連が奏でる華やかな音色が、まつりの熱気を一層高めます。
 
-### 囃子と祭りの活気
-山車の巡行は、笛や太鼓による囃子の音色とともに行われます。城下町・新庄の街に響く祭り囃子は、まつりの高揚感を一層引き立てます。期間中は神輿渡御などの神事も営まれ、街全体が祭りの熱気に包まれます。
+**神輿渡御行列**
+25日の本まつりでは、新庄藩の武士に扮した総勢200名余りの神輿渡御行列が新庄城址にある戸澤神社を出発します。足軽の息のあった足さばきや傘回しの妙技など数多くの見どころがあり、古式ゆかしい行列が藩政時代をしのばせます【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。山車の巡行には電線に引っかからないよう長い棒を持った「電線上げ」役が付くのも、山車まつりならではの恒例の風景です。
+
+**鹿子踊り（かしこおどり）**
+新庄城址で踊られる風雅な萩野鹿子踊りと仁田山鹿子踊りは、新庄北部に古くから伝わる五穀豊穣を祈願する踊りです。25日には最上公園で奉納され、優雅な所作と伝統的な衣装が来場者の目を引きます【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。この踊りはまつりの静寂な一面を象徴し、豪快な山車行列との対比を生み出します。
+
+**新庄囃子の合同演奏**
+各若連に付く囃子は近郊の集落が担当し、笛、太鼓、鉦、三味線で構成されます。曲目は「寄せ笛」「宿渡り（すくわたり）」「羯鼓（かっこ）」「二上がり」の4曲があり、24日朝には戸澤神社・天満宮・護国神社で奉納演奏が行われます【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/)。25日には駅前ふれあい広場で合同演奏会が開かれ、囃子のリズムと若連衆のいなせな法被姿が街の賑わいを増幅させます。
+
+**飾り山車の展示**
+26日の後まつりでは、飾り山車として20台全ての山車が中心商店街に一堂に展示されます。見上げても足りないほどに背の高い山車がずらりと並ぶ様は圧巻で、まつりの締めくくりにふさわしい光景です【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。夕刻の手締式で閉幕し、熱いまつりの余韻が来年への決意を新たにさせます。
 
 ## 開催情報・アクセス
 
-新庄まつりは、例年8月24日・25日・26日の3日間にわたって開催されます。初日は宵まつり、中日は本まつり、最終日は後まつりとされ、それぞれに見どころがあります。会場は新庄市の中心市街地一帯です。山車巡行の時間・経路や神事の日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+1. **開催日時**：毎年8月24日（宵まつり）、25日（本まつり）、26日（後まつり）の3日間。2025年は8月24日（日）～26日（火）に開催予定【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。
+2. **会場**：山形県新庄市中心市街地。主要な巡行ルートは新庄駅前通り、本町通り、中央通りなど【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/)。
+3. **アクセス**：東北中央自動車道「新庄IC」から車で約5分。公共交通機関ではJR新庄駅から徒歩圏内【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。
+4. **駐車場**：新庄駅東口駐車場を推奨。まつり期間中は周辺道路の交通規制があるため、公共交通機関の利用が推奨される【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。
+5. **有料観覧席**：新庄駅前ふれあい広場「アビエス」に設置。20台すべての山車を間近で鑑賞できる。受付は先着順で、早目の予約が推奨される【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。
+6. **問い合わせ先**：新庄まつり実行委員会、電話番号0233-22-6855【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html)。最新の開催日程や実施可否は公式サイトで確認すること。
 
-アクセスは、JR奥羽本線・山形新幹線・陸羽東線・陸羽西線が乗り入れる新庄駅が最寄りで、中心市街地の会場へは駅から徒歩圏内です。山形新幹線を利用すれば東京方面からの来訪も比較的容易です。期間中は中心部で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、新庄市や観光関係団体など公式の発表でご確認ください。
+## 周辺情報
 
-## 周辺の見どころ
+新庄まつりの会場となる新庄市は、山形県北東部の新庄盆地のほぼ中央に位置し、東は奥羽山脈、西は出羽山地に囲まれた小盆地です。冬は大量の雪が降る豪雪地帯であり、近世には新庄藩の城下町として栄え、明治以降は最上郡の中心都市として発展してきました【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。市内には新庄城址（最上公園）が残り、まつりの重要な舞台となる戸澤神社や天満神社が鎮座しています。
 
-新庄市は、最上地方の中心都市で、豊かな自然と歴史に恵まれた地域です。市内には新庄藩戸沢家にまつわる史跡や、地域の文化・歴史を紹介する施設があり、祭りの背景にある城下町の歴史にふれることができます。
+まつり期間中は市内全体が熱気に包まれ、新庄駅周辺の商店街や飲食店も賑わいます。新庄駅前ふれあい広場「アビエス」は全ての山車が集結する中心的なスポットであり、有料観覧席からの鑑賞が推奨されています。また、新庄市は最上地方の観光拠点でもあり、周辺には温泉や自然景勝地が点在しています。
 
-また、最上地方は最上川の舟下りや温泉、四季折々の自然景観でも知られ、足を延ばせば山形県内各地の観光地へもアクセスできます。山形ならではの郷土料理や果物などの味覚も魅力で、新庄まつりとあわせて東北の旅を楽しむことができます。
+まつり以外の時期でも、新庄ふるさと歴史センター（新庄市堀端町4-74）では新庄まつりの歴史や山車製作の過程を学ぶことができます【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html)。新庄市の観光情報は最上地域観光協議会のウェブサイトでも確認可能です。
 
 ## 関連情報
 
-新庄まつりは、2016年に「新庄まつりの山車行事」としてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。260年以上の歴史を持つこの祭りは、東北の夏祭りのなかでも、毎年作り替えられる山車という独自の伝統によって際立つ存在です。
+1. **国指定重要無形民俗文化財**：2009年3月11日、「新庄まつりの山車行事」として指定。保護団体は新庄まつり山車行事保存会【online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/293740)。
+2. **ユネスコ無形文化遺産**：2016年11月30日、「山・鉾・屋台行事」のひとつとして登録。全国33の行事が同時登録された【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/)。
+3. **山車の台数**：市内21か町から各1台ずつ、計20～21台の山車が出される。台数は年によって変動する場合がある【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。
+4. **若連と囃子若連の分担**：山車の製作と運行は町内の「若連」が担当し、囃子は近郊の農村集落の「囃子若連」が受け持つ。この分担は原則として変わらず、7月から囃子の練習が始まる【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。
+5. **山車製作の期間**：まつりの約2か月前から各町内に「山車小屋」と呼ばれる仮設小屋を設置し、骨組み作り、紙貼り、大道具・小道具づくり、色上げ、人形作りなどの作業が行われる。まつりの1週間前からは朝から晩まで山車小屋に詰めて製作が進められる【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853)。
+6. **歴史的人出記録**：2019年は3日間で過去最高の56万人の人出があった。2022年は33万人の人出があった【ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A)。','## Overview
 
-なお、起源や沿革の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+The Shinjo Matsuri, held annually from August 24 to 26 in Shinjo City, Yamagata Prefecture, is a historic float festival that began in the mid-Edo period. The grand floats, measuring approximately 3 meters in width, 8 meters in length, and 4.7 meters in height, are handcrafted by local youth groups called "Wakaren" organized in each former castle town district and parade through the city. In 2009, it was designated as an Important Intangible Folk Cultural Property of Japan, and in 2016, it was registered as a UNESCO Intangible Cultural Heritage as part of the "Yama, Hoko, Yatai, Float Festivals" across 33 festivals nationwide【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html).
 
-The Shinjō Matsuri (Shinjō Festival) is one of the representative festivals of the Tōhoku region, held over three days—August 24, 25, and 26—each year in Shinjō City, Yamagata Prefecture. It is known for the procession of gorgeously ornate floats (yatai) through the city, with splendid decorations newly created each year by each neighborhood district on themes such as kabuki, historical tales, and folktales. In 2016, the "Float Events of the Shinjō Festival" were inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as one of 33 float festivals across Japan, drawing attention from Japan and abroad.
-
-It is a festival that colors the summer of Tōhoku, uniting the splendor of the floats that parade to the sound of festival music with the history of the castle town of Shinjō and the spirit of its people.
+The festival is divided into three days: the first day is "Yoi Matsuri" (eve festival), the second day is "Hon Matsuri" (main festival), and the final day is "Ato Matsuri" (after festival), each with distinct programs. On Yoi Matsuri, electrically illuminated floats color the night streets, while on Hon Matsuri, a procession of over 200 people dressed as Shinjo domain samurai joins the parade. On Ato Matsuri, all 20 floats are displayed together in the central shopping street as decorative floats, marking the festival''s grand finale【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html).
 
 ## History and Origins
 
-The origins of the Shinjō Matsuri are said to date back to 1756 (Hōreki 6), in the middle of the Edo period. Amid a time when the people of the domain were exhausted and downcast due to a great crop failure the previous year, Tozawa Masanobu, the lord of the Shinjō domain, is said to have initiated the festival by having the people of the domain hold a grand festival of the Tenman-gū—the guardian shrine of Shinjō—in order to restore vitality and hope to the people and to pray for a bountiful harvest.
+The origin of Shinjo Matsuri dates back to 1756, the sixth year of the Horeki era in the mid-Edo period. According to tradition, the previous year of 1755 saw a severe famine that caused many deaths from starvation. To console the spirits of the dead, pray for a bountiful harvest, and revitalize the suffering populace, the then feudal lord of Shinjo Domain, Masanobu Tozawa, ordered a festival at Tenmangu Shrine to be held by the entire domain''s people【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html). The lord commanded the townspeople of each district to create decorative floats and parade them through the castle town【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853).
 
-This festival, begun to encourage the people of the domain, later saw townspeople produce elaborately devised floats, and it grew more splendid year by year. The tradition in which each neighborhood district vied in devising the designs of its floats and expressed famous scenes from history and tales through figures and constructions has been handed down continuously to the present day. Because the floats are newly remade each year, the point that the same one can never be seen twice is also a major characteristic of this festival. The history safeguarded and transmitted for more than 260 years, together with the enthusiasm of the local people, was recognized by the world in the form of inscription on the UNESCO Intangible Cultural Heritage list. Note that the details of its origins and history also partly rely on tradition.
+This event has a unique origin legend of being initiated by a feudal lord in the early modern period, and until the Meiji Restoration, the festival was held under the patronage of the feudal lord. Tenmangu Shrine, the tutelary shrine of the Tozawa family, was enshrined within the castle, while Tozawa Shrine honors the first lord Masamori and the 11th lord Masami, and Gokoku Shrine is also located within the former castle grounds, all without parishioners【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853). This lord-initiated festival origin is considered a distinctive case among Japanese festival traditions.
+
+In 1962 (Showa 37), lantern lighting was introduced, and later, generators were installed on floats for electric illumination, making the floats increasingly colorful【ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A). Before the city''s roads were paved, floats would kick up dust as they ran on rough roads, and it is said that the figures appeared to come alive. Before the installation of utility poles and road improvements, there was intense competition to build larger floats, but now floats are standardized to fit the height of power lines and road width.
+
+In 2006, the festival marked its 250th anniversary, and as a commemoration, the floats were also paraded on the 27th. On November 30, 2016, the festival was registered as a UNESCO Intangible Cultural Heritage as part of the "Yama, Hoko, Yatai, Float Festivals." In 2019, a record 560,000 visitors attended over three days, but in 2021, the festival was held on a reduced scale for the first time in two years due to COVID-19 countermeasures【ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A). In 2022, the float procession was revived after three years, attracting 330,000 visitors over three days, which was 58% of the pre-pandemic 2019 numbers.
 
 ## Highlights
 
-### The Gorgeous Float Procession
-The greatest highlight of the Shinjō Matsuri is the procession of floats created by each neighborhood district. Figures and constructions on themes such as famous kabuki scenes, historical tales, and folktales are decorated both minutely and boldly, and their splendor is striking. Because they are all newly remade each year, visitors can enjoy works made only for that year, concentrating the creativity of the artisans and the people of the districts.
+**Handcrafted Float Details**
+All elements of the floats, including five-story pagodas, pavilions, mountains, waterfalls, waves, cherry blossoms, pine trees, as well as human and animal figures, costumes, and accessories, are entirely handmade by the Wakaren using their ingenuity and creativity. This tradition has been passed down for generations, with the heads, hands, and feet of the figures crafted by the Nogawa family of doll makers, who have supported the festival for over 100 years【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html). Each float is elaborately designed to recreate famous scenes from kabuki or historical epics, drawing viewers into a world of storytelling.
 
-### A Competition of Floats and Their Appraisal
-Because each neighborhood district crafts its float as if competing in skill, there is the pleasure of comparing the workmanship. The individuality of each district appears in the choice of theme, the expressions of the figures, and the overall composition, and spectators can follow the procession while searching for their favorite float.
+**Night Illumination on Yoi Matsuri**
+On the evening of August 24, the Yoi Matsuri begins as children pull the floats through the streets at dusk. The historically themed tableaux illuminated by lights emerge in the twilight, creating a mystical atmosphere【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html). The energetic shouts of "Cherenko yaassa!!" and the lively music played by the hayashi (festival music) groups intensify the festive excitement.
 
-### Festival Music and Liveliness
-The procession of floats is accompanied by the sound of festival music played on flutes and drums. The festival music echoing through the streets of the castle town of Shinjō heightens the festival''s sense of exhilaration all the more. During the period, rites such as the portable-shrine procession are also conducted, and the whole town is enveloped in the heat and energy of the festival.
+**Mikoshi Procession**
+On the Hon Matsuri day of August 25, a procession of over 200 people dressed as Shinjo domain samurai departs from Tozawa Shrine at the Shinjo Castle ruins. Highlights include the rhythmic footwork of foot soldiers and the skillful twirling of umbrellas, evoking the atmosphere of the feudal era【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html). A distinctive feature of the float parade is the presence of "densenhage" (wire lifters) holding long poles to prevent floats from catching on overhead power lines, a customary sight unique to float festivals.
+
+**Kashiko Odori (Deer Dance)**
+The elegant Hagino Kashiko Odori and Nitayama Kashiko Odori, performed at the Shinjo Castle ruins, are traditional dances praying for a bountiful harvest, originating from the northern part of Shinjo. These dances are dedicated on the 25th at Saijo Park, where graceful movements and traditional costumes captivate spectators【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html). This dance represents the serene aspect of the festival, creating a contrast with the dynamic float procession.
+
+**Shinjo Bayashi Joint Performance**
+The hayashi music accompanying each float is performed by groups from nearby rural villages, using flutes, drums, gongs, and shamisen. The repertoire includes four pieces: "Yosebue," "Sukuwatari," "Kakko," and "Niagari." On the morning of the 24th, dedication performances are held at Tozawa Shrine, Tenmangu Shrine, and Gokoku Shrine【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/). On the 25th, a joint concert takes place at the station square plaza, where the rhythm of the hayashi and the stylish happi coats of the young participants enhance the city''s vibrancy.
+
+**Decorative Float Display**
+On the final day, August 26, the Ato Matsuri features all 20 floats displayed together in the central shopping street as decorative floats. The sight of these towering floats lined up in a row is overwhelming, providing a fitting conclusion to the festival【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html). The festival closes with a hand-closing ceremony at dusk, and the lingering excitement renews the determination to carry on the tradition for the next year.
 
 ## Event Information and Access
 
-The Shinjō Matsuri is held over three days—August 24, 25, and 26—each year. The first day is the eve festival, the middle day is the main festival, and the final day is the after-festival, each with its own highlights. The venue is the central district of Shinjō City. Because the time and route of the float procession and the schedule of the rites may vary from year to year, it is advisable to check official information in advance when planning to attend.
+1. **Date**: Annually on August 24 (Yoi Matsuri), 25 (Hon Matsuri), and 26 (Ato Matsuri). For 2025, the festival is scheduled for August 24 (Sunday) to 26 (Tuesday)【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html).
+2. **Venue**: Central Shinjo City, Yamagata Prefecture. Main parade routes include Shinjo Station Street, Honcho Street, and Chuo Street【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/).
+3. **Access**: Approximately 5 minutes by car from the Tohoku-Chuo Expressway "Shinjo IC." Within walking distance from JR Shinjo Station when using public transportation【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html).
+4. **Parking**: Shinjo Station East Parking Lot is recommended. Due to traffic restrictions during the festival period, use of public transportation is encouraged【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html).
+5. **Paid Seating**: Available at the Shinjo Station Plaza "Avies," offering close-up views of all 20 floats. Reservations are accepted on a first-come, first-served basis, and early booking is recommended【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html).
+6. **Contact**: Shinjo Matsuri Executive Committee (within Shinjo Chamber of Commerce and Industry), phone: 0233-22-6855【yamagatakanko.com](https://yamagatakanko.com/festivals/detail_2991.html). Check the official website for the latest schedule and confirmation of event implementation.
 
-For access, the nearest station is Shinjō Station, served by the JR Ōu Main Line, the Yamagata Shinkansen, the Rikuu East Line, and the Rikuu West Line, and the central-district venue is within walking distance of the station. Using the Yamagata Shinkansen makes visits from the Tokyo direction relatively easy as well. During the period, traffic restrictions and congestion are expected in the city center, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Shinjō City and tourism-related organizations.
+## Surrounding Information
 
-## Nearby Attractions
+Shinjo City, where the festival takes place, is located almost in the center of the Shinjo Basin in northeastern Yamagata Prefecture, surrounded by the Ou Mountains to the east and the Dewa Mountains to the west. It is a heavy snow area with significant snowfall in winter, and it flourished as a castle town of the Shinjo Domain in the early modern period, developing as the central city of the Mogami District after the Meiji era【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853). The Shinjo Castle ruins (Saijo Park) remain in the city, housing Tozawa Shrine and Tenmangu Shrine, which serve as important stages for the festival.
 
-Shinjō City is the central city of the Mogami region, an area blessed with rich nature and history. Within the city there are historic sites related to the Tozawa family of the Shinjō domain and facilities introducing the region''s culture and history, where visitors can experience the history of the castle town behind the festival.
+During the festival period, the entire city is enveloped in excitement, with shops and restaurants around Shinjo Station bustling with activity. The Shinjo Station Plaza "Avies" is the central gathering point for all floats, and paid seating is recommended for viewing. Shinjo City also serves as a tourism hub for the Mogami region, with hot springs and natural scenic spots scattered in the surrounding areas.
 
-In addition, the Mogami region is also known for boat rides down the Mogami River, hot springs, and natural scenery throughout the seasons, and a short trip away one can access sightseeing spots throughout Yamagata Prefecture. Local cuisine and fruits unique to Yamagata are also appealing, so visitors can enjoy a journey through Tōhoku together with the Shinjō Matsuri.
+Even outside the festival season, the Shinjo Furusato History Center (4-74 Horibatacho, Shinjo City) offers opportunities to learn about the history of Shinjo Matsuri and the float-making process【pref.yamagata.jp](https://www.pref.yamagata.jp/020026/kensei/shoukai/yamagatamonogatari/matsuri/shinjou.html). Tourism information for Shinjo City is also available on the Mogami Regional Tourism Association website.
 
 ## Related Information
 
-The Shinjō Matsuri was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2016 as the "Float Events of the Shinjō Festival," and it is also designated an Important Intangible Folk Cultural Property of Japan. With its history of more than 260 years, this festival stands out among the summer festivals of Tōhoku for its distinctive tradition of floats that are remade each year.
-
-Please note that the details of its origins and history partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of general features, and visitors are asked to be sure to check the latest official information before visiting.','shinjo-matsuri','shinjo-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+1. **National Important Intangible Folk Cultural Property**: Designated on March 11, 2009, as "Shinjo Matsuri Float Event." The preservation group is the Shinjo Matsuri Float Event Preservation Society【online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/293740).
+2. **UNESCO Intangible Cultural Heritage**: Registered on November 30, 2016, as part of "Yama, Hoko, Yatai, Float Festivals," with 33 festivals nationwide registered simultaneously【visityamagata.jp](https://www.visityamagata.jp/event-shijo-shinjomatsuri/).
+3. **Number of Floats**: One float is produced by each of 21 districts in the city, totaling 20 to 21 floats. The number may vary slightly by year【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853).
+4. **Division of Roles between Wakaren and Hayashi Wakaren**: The production and operation of floats are handled by the "Wakaren" of each district, while the hayashi music is performed by "Hayashi Wakaren" from nearby rural settlements. This division is generally fixed, and hayashi practice begins in July【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853).
+5. **Float Production Period**: About two months before the festival, temporary workshops called "Dashi Goya" are set up in each district, where work on framework, paper pasting, large and small props, coloring, and doll making is carried out. In the week leading up to the festival, workers stay at the workshop from morning until night to complete the floats【kunishitei.bunka.go.jp](https://kunishitei.bunka.go.jp/bsys/maindetails/302/00000853).
+6. **Historical Attendance Records**: In 2019, the festival attracted a record 560,000 visitors over three days. In 2022, attendance was 330,000【ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A).','shinjo-matsuri','shinjo-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6417750','北上・みちのく芸能まつり','Kitakami Michinoku Traditional Dance Festival','岩手県北上市の祭り','Summer festival in Iwate, Japan',NULL,NULL,NULL,'岩手県','tohoku',NULL,NULL,1962,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Oni%20Kenbai%201%2C%20Kitakami%2C%20Iwate.jpg','https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E3%83%BB%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8F%E8%8A%B8%E8%83%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Kitakami_Michinoku_Traditional_Dance_Festival',85,'drafted','## 概要
 
 北上・みちのく芸能まつり（きたかみ・みちのくげいのうまつり）は、岩手県北上市で例年8月上旬（金曜から日曜にかけての3日間）に開催される、東北を代表する民俗芸能の祭典です。北上市およびその周辺に伝わる数多くの郷土芸能が一堂に会して披露されることが最大の特徴で、「芸能のまち・北上」を象徴する夏の一大行事として親しまれています。
