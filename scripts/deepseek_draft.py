@@ -111,6 +111,14 @@ def detect_en_heading_level(en):
     has_h3 = any(l.strip().startswith("### ") for l in lines)
     return head_ng or has_h3
 
+def detect_meta_preamble(text, expected):
+    """先頭見出しチェック(True=メタ前置き等の混入あり)。先頭の非空行がexpected見出し
+       (JA='## 概要'/EN='## Overview')でなければTrue。detect_h1(H1混入)とは責務分離し
+       前置き文・---水平線・その他の混入を捕捉(31本目でメタ前置き文混入を検出)。"""
+    lines = text.strip().splitlines()
+    first = next((l for l in lines if l.strip()), "")
+    return first.strip() != expected
+
 def clen(t): return len(re.sub(r'\s','',t))
 def headings(t): return len(re.findall(r'^##\s', t, re.M))
 def bolds(t): return len(re.findall(r'\*\*[^*]+\*\*', t))
@@ -137,9 +145,12 @@ def review(qid, label, ja, en, cites, vr, usage):
     h1 = detect_h1(ja); h1e = detect_h1(en)
     mm, only_ja = detect_ja_en_year_mismatch(ja, en)
     enlv = detect_en_heading_level(en)
+    metaja = detect_meta_preamble(ja, "## 概要"); metaen = detect_meta_preamble(en, "## Overview")
     L.append(f"形式チェック: H1混入(JA)={'NG除去要' if h1 else 'OK'} H1混入(EN)={'NG除去要' if h1e else 'OK'} "
              f"日英年号整合={'NG['+','.join(sorted(only_ja))+']がENに欠落' if mm else 'OK'} "
-             f"EN見出しレベル={'NG(タイトルH2/H3ずれ→##統一要)' if enlv else 'OK'}")
+             f"EN見出しレベル={'NG(タイトルH2/H3ずれ→##統一要)' if enlv else 'OK'} "
+             f"先頭見出し(JA)={'NG(## 概要前に混入→除去要)' if metaja else 'OK'} "
+             f"先頭見出し(EN)={'NG(## Overview前に混入→除去要)' if metaen else 'OK'}")
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
