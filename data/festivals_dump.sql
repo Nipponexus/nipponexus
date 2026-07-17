@@ -7511,85 +7511,127 @@ Kishiwada Castle and its surroundings preserve the atmosphere of a castle town t
 - Main Roles: Daikugata, maeteko, and pullers
 ','kishiwada-danjiri-matsuri','kishiwada-danjiri-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7813900','東京国際レズビアン&ゲイ映画祭','Rainbow Reel Tokyo',NULL,'International film festival for LGBT audiences','Q1490','東京都','Tokyo','東京都','kanto',35.683333333,139.766666666,1992,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%AB%E6%9D%B1%E4%BA%AC','https://en.wikipedia.org/wiki/Rainbow_Reel_Tokyo',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,1803,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q7811554','戸畑祇園大山笠','Tobata Gion Festival','北九州市戸畑区にて行われる祭り','Annual festival in Kyushu, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,1803,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tobata%20yamagasa%20at%20night.JPG','https://ja.wikipedia.org/wiki/%E6%88%B8%E7%95%91%E7%A5%87%E5%9C%92%E5%A4%A7%E5%B1%B1%E7%AC%A0','https://en.wikipedia.org/wiki/Tobata_Gion_Yamagasa_festival',85,'drafted','## 概要
 
-戸畑祇園大山笠（とばたぎおんおおやまがさ）は、福岡県北九州市戸畑区で行われる祇園祭で、毎年7月の第4土曜日を中心とした3日間にわたって開催されます。福岡県を代表する夏祭りのひとつで、博多祇園山笠・小倉祇園太鼓とともに「福岡県の三大祇園」に数えられます。2016年（平成28年）には「戸畑祇園大山笠行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。
+戸畑祇園大山笠行事は、福岡県北九州市戸畑区で毎年7月に行われる、飛幡八幡宮、菅原神社、中原八幡宮の三社の夏祭りです。この行事は、国の重要無形民俗文化財に指定されており、博多祇園山笠、小倉祇園太鼓と並んで「福岡県夏の三大祭り」の一つに数えられています。2016年（平成28年）にはユネスコ無形文化遺産にも登録され、その歴史と文化的価値が国際的にも認められています。
 
-この祭りの最大の特徴は、昼と夜とでまったく異なる姿を見せる山笠です。昼間は「幟大山笠（のぼりおおやまがさ）」として勇壮な姿を見せ、夜になると無数の提灯をまとった「提灯大山笠（ちょうちんおおやまがさ）」へと姿を変えます。光り輝く提灯のピラミッドが揺れながら進む夜の光景は「光のピラミッド」とも称され、見る者を魅了します。
+祭りの最大の特徴は、昼と夜で山笠の姿が一変することにあります。昼間は高さ約1.8メートルの台上に12本の大幟を立てた「幟山笠」として格調高く練り歩きますが、夜になると一切の装飾を取り払い、12段309個の提灯を積み重ねた高さ約10メートルの「提灯大山笠」へと変身します。「ヨイトサ、ヨイトサ」という掛け声とともに、光のピラミッドが闇夜に浮かび上がる様子は圧巻で、多くの観客を魅了しています。
 
 ## 歴史・由来
 
-戸畑祇園大山笠の起源は、江戸時代後期にさかのぼると伝えられています。一説には、文政年間（1819年頃）に、当時この地域で疫病が流行した際、須賀大神（飛幡八幡宮）に平癒を祈願したところ流行がおさまり、その感謝の意を込めて山笠を奉納したことが始まりとされています。疫病退散・無病息災を願う祇園信仰に根ざした祭りとして、地域の人々によって受け継がれてきました。
+戸畑祇園大山笠行事の起源は、飛幡八幡宮の記録によれば、江戸時代後期の享和2年（1802年）にさかのぼります。この年、戸畑村に疫病が蔓延し、村人たちは非常に苦しみました。そこで、村の有志が集まり、ご祭神である須賀大神に疫病退散と平癒の大祈願を執り行いました。
 
-当初は素朴な山笠であったものが、時代を経るなかで装飾が豪華になり、とりわけ夜の提灯大山笠は、十二段に積み上げられた提灯が幻想的な光のピラミッドを形づくる、独自の様式へと発展しました。地域の各地区がそれぞれ山笠を仕立て、伝統と心意気を込めて受け継いできた歴史が、ユネスコ無形文化遺産への登録という形で世界に認められています。なお、起源年代や由来の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+その結果、御神徳によって疫病がようやく終息したため、感謝の意を表して翌年の享和3年（1803年）7月、山笠を作り神社に奉納したのが始まりとされています。天籟寺は当時戸畑の枝村であったため、ほぼ同時期に山笠行事が始まったと考えられています。また、隣村の中原でも、戸畑との交流の中で数年遅れて同様の行事が始まったと伝えられています。
+
+その後、明治時代に入ると、日清戦争の影響で明治27年（1894年）から約10数年間、行事は中止されました。明治43年（1910年）になってようやく再開されたものの、昭和に入ると再び困難な時期を迎えます。日中戦争の激化に伴い、昭和13年（1938年）から太平洋戦争終戦後の昭和21年（1946年）まで、大山笠の行事は長期にわたり中止を余儀なくされました。
+
+戦後、昭和22年（1947年）から再開されたこの行事は、昭和29年（1954年）に東、西、天籟寺の三大山笠が集まり、第1回提灯大山笠競演会が開催されました。昭和32年（1957年）には福岡県指定無形文化財に指定され、昭和55年（1980年）1月28日には国指定重要無形民俗文化財に指定されました。その後、平成28年（2016年）にはユネスコ無形文化遺産に登録され、220年を超える歴史が国際的な評価を受けています。
 
 ## 見どころ
 
-### 提灯大山笠（光のピラミッド）
-戸畑祇園大山笠最大の見どころが、夜に登場する「提灯大山笠」です。昼間の幟大山笠から飾りを替え、十二段に組み上げた山笠に約300個ともいわれる提灯が灯されます。光り輝く提灯のピラミッドが、勇ましいかけ声とともに大きく揺れながら練り歩く光景は圧巻で、夏の夜空に浮かび上がる幻想的な美しさが大きな魅力です。
+**昼の姿「幟山笠」の優雅さ**
+昼間の大山笠は、高さ1.8メートルの台上に勾欄付きの台座を据え、紅白の大幟を左右交互に6本ずつ、合計12本立てます。この形式は古式ゆかしく、正面には前花、背面には見送りと呼ばれる刺繍装飾が施され、台上には「てまりこ」が飾られます。見送りや幕類には金糸銀糸で武者絵などの図柄が豪華に刺繍されており、現在も国庫補助等を活用した復元新調が順次行われています。
 
-### 幟大山笠
-昼間に見られる「幟大山笠」は、高くそびえる幟（のぼり）と豪華な刺繍幕で飾られた勇壮な姿が特徴です。大勢の担ぎ手によって担がれ、力強く進む昼の山笠は、夜の提灯大山笠とはまた違った迫力があります。昼夜で姿を変える山笠の両方を楽しめるのが、この祭りならではの醍醐味です。
+**夜の姿「提灯大山笠」への変身**
+祭りの中日、夕暮れ時に行われる「姿替え」は最大の見どころの一つです。幟山笠の装飾をすべて取り払った台上に、高さ約4メートルの四本柱を固定し、まず5段57個の提灯をつけた角錐型の先端部を一気に担ぎ上げます。その後、順次12段に309個の提灯を飾り付けるこの提灯山笠は、日本最大規模とされ、光のピラミッドが闇夜に浮かび上がる幻想的な光景を作り出します。
 
-### 山笠の競演とかけ声
-複数の地区の大山笠が一堂に会する競演は、祭りのクライマックスのひとつです。担ぎ手たちの勇壮なかけ声と、提灯の揺れる光が一体となった光景は、見る者の心を熱くします。
+**「大山笠競演会」の迫力**
+祭りの中日に戸畑区役所前、浅生一号公園周辺で行われる競演会が、祭りの最高潮です。各神社に所属する東、西、中原の3基の大山笠と、中学生が担ぐ小若山笠4基が一堂に会し、揃いのはっぴ姿に鉢巻を締めた若衆が「ヨイトサ、ヨイトサ」の掛け声を響かせながら勇壮に競演します。ただし、天籟寺大山笠は第71回大会以降競演会に参加しておらず、令和8年（2026年）の参加も未定となっています。
+
+**小若山笠による伝統の継承**
+競演会では、大人の大山笠だけでなく、地域の中学生たちが担ぐ「小若山笠」も見逃せない要素です。この小若山笠は、未来の担い手を育成する重要な役割を果たしており、中学生たちが誇りを持って山笠を担ぐ姿は、220年を超える伝統が確実に次世代へと受け継がれていることを示しています。彼らの真剣な表情と初々しい掛け声は、観客に感動と応援の気持ちを呼び起こします。
+
+**各地域で異なる祇園囃子**
+行事の進行に合わせて演奏される祇園囃子は、獅子舞、居神楽、大下り、おおたろうばやし、大上りの5種類があります。これらの囃子は各山笠によって微妙に異なる特徴を持ち、その違いを聞き比べることも祭りの楽しみの一つです。特に、提灯山笠が練り歩く際に奏でられる力強い「おおたろうばやし」は、夜の熱気を一層盛り上げます。
+
+**山笠を支える伝統的な準備行事**
+祭礼当日だけでなく、6月下旬からの準備期間も重要な見どころです。宿開き、道具調べ、獅子舞（大祓い）、カズラ取り、山笠組み立て、ならしがきと、一連の伝統行事が粛々と執り行われます。これらの準備作業には地域住民が総出で携わり、フジカズラの根で山笠台を締め付けるなど、昔ながらの技法が今も守られています。
 
 ## 開催情報・アクセス
 
-戸畑祇園大山笠は、例年7月の第4土曜日を中心とした3日間（金・土・日）にわたって開催されます。会場は北九州市戸畑区の中心部一帯です。山笠の巡行経路や時間、競演の場所・日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+1.  **開催日程**: 令和8年（2026年）は、7月24日（金曜日）から7月26日（日曜日）までの3日間開催されます。
+2.  **競演会日程**: 中日にあたる7月25日（土曜日）の18時30分から21時まで、第73回戸畑祇園大山笠競演会が実施されます。また、第68回戸畑祇園ばやし研究競演会も同時開催されます。
+3.  **開催場所**: 戸畑区役所周辺（北九州市戸畑区新池一丁目、浅生一号公園一帯）が主会場です。
+4.  **アクセス**: JR戸畑駅から徒歩約20分、または戸畑駅から小倉方面行きのバスに乗り約5分、「戸畑区役所前」（臨時バス停）で下車すると便利です。特設駐車場は設けられないため、公共交通機関の利用が推奨されています。
+5.  **注意事項**: 競演会会場周辺での敷物や椅子による場所取りは、通行の妨害や危険を伴うため禁止されています。また、安全確保のため、ドローン（小型無人機）の使用も禁止されています。
+6.  **問い合わせ先**: 戸畑祇園大山笠振興会事務局（戸畑区役所総務企画課内、電話：093-871-2316）が窓口です。最新の開催日程や実施可否については、公式サイトや北九州市の広報で必ず確認することをお勧めします。
 
-アクセスは、JR鹿児島本線の「戸畑駅」が最寄りで、駅から会場周辺へは徒歩圏内です。北九州市の中心部に位置し、公共交通機関でのアクセスが便利です。祭り期間中は周辺で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、北九州市など公式の発表でご確認ください。
+## 周辺情報
 
-## 周辺の見どころ
+戸畑区役所周辺の浅生一号公園一帯は、競演会のメイン会場となります。このエリアは、祭礼期間中は多くの露店が立ち並び、地元住民や観光客で終日賑わいます。特に夜の競演会が始まる時間帯には、提灯の明かりと人々の熱気で一帯が独特の雰囲気に包まれます。公園周辺の道路は競演会の時間帯に交通規制が敷かれ、安全に観覧できる環境が整えられます。
 
-会場のある北九州市戸畑区は、関門海峡にほど近い工業都市・北九州の一角で、近代化を支えてきた歴史を持つ地域です。周辺には洞海湾の景観や、近代化遺産にまつわるスポットなども点在しています。
+JR戸畑駅周辺には、戸畑区の中心市街地が広がっています。駅前には商店街や飲食店が集まっており、祭り見物の前後に立ち寄ることができます。また、北九州市立戸畑図書館や戸畑区役所などの公共施設も近隣にあり、祭りの合間の休憩や情報収集に便利です。飛幡八幡宮は戸畑駅からやや離れた場所にありますが、祭りの本質を理解するために訪れる価値のある神社です。
 
-少し足を延ばせば、関門海峡や門司港レトロ、小倉城など、北九州ならではの観光地へもアクセスできます。北九州は「焼きうどん」発祥の地として知られるなど、ご当地グルメも豊富で、戸畑祇園大山笠とあわせて北九州の旅を楽しむことができます。
+北九州市全体としても、戸畑祇園の時期は観光シーズンにあたります。小倉北区の小倉城や旦過市場、門司区の門司港レトロ地区など、他の観光スポットと組み合わせて訪れることも可能です。ただし、祭り期間中は交通混雑が予想されるため、移動には時間的な余裕を持った計画が求められます。特に競演会当日は、公共交通機関の最終時刻を確認しておくことが重要です。
 
 ## 関連情報
 
-戸畑祇園大山笠は、2016年に「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。昼の幟大山笠と夜の提灯大山笠という、一日のうちに二つの異なる姿を見せる独自の様式によって、数ある祇園祭のなかでも際立つ存在です。
+1.  **類似の祭礼**: 福岡県内には、夏の三大祭りと呼ばれる他の2つの祭りがあります。博多区の「博多祇園山笠」と、小倉南区の「小倉祇園太鼓」であり、それぞれが異なる特色を持ちながら、県内の夏を代表する伝統行事として親しまれています。
+2.  **文化財指定の変遷**: この行事は、昭和32年（1957年）に福岡県指定無形文化財となり、その後昭和55年（1980年）1月28日に、国の重要無形民俗文化財に指定されました（指定番号第185号）。さらに、2016年にはユネスコ無形文化遺産に登録され、国際的な文化的価値が認められました。
+3.  **山笠の構造的特徴**: 大山笠の台はフジカズラの根で締め付けられ、水引幕、切幕、前掛幕がかけられます。これらの幕類は武者絵などを金糸銀糸で刺繍した豪華なもので、文化財としても価値が高く、現在も復元新調が進められています。
+4.  **疫病退散の願い**: この祭礼の起源は、享和2年（1802年）の疫病蔓延がきっかけとなっています。当時の人々は天災や疫病に対して無力であり、その恐怖を払拭するために神に祈る以外に方法がなく、須賀大神の祭礼を始めたとされています。この背景は、現代の疫病に対する祈りとも通じる普遍的なテーマです。
+5.  **中断と復興の歴史**: 明治期の日清戦争後や、昭和期の日中戦争・太平洋戦争の時期には、行事が長期にわたり中断されました。特に昭和13年（1938年）から21年（1946年）までは完全に中止されましたが、戦後すぐに復活したことは、地域住民の伝統への強い思いを示しています。
+6.  **観覧上の安全ルール**: 競演会では、警備員が配置され、戸畑警察署の協力のもと安全運行と観覧者の安全が確保されています。山笠の運行中や姿替え、解体中の山笠には近づかないこと、横断歩道以外での道路横断をしないことなど、係員の指示に従うことが求められています。','## Overview
 
-なお、起源年代や由来の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+The Tobata Gion Yamagasa Festival is a traditional summer festival held annually in July in the Tobata Ward of Kitakyushu City, Fukuoka Prefecture. It is the summer festival of three shrines: Tobata Hachiman-gu, Sugawara Jinja, and Nakahara Hachiman-gu. This event is designated as an Important Intangible Folk Cultural Property of Japan and is considered one of the three major summer festivals in Fukuoka Prefecture, alongside the Hakata Gion Yamagasa and the Kokura Gion Taiko. In 2016, it was also registered as a UNESCO Intangible Cultural Heritage, earning international recognition for its historical and cultural value.
 
-The Tobata Gion Ōyamagasa (Tobata Gion Festival) is a Gion festival held in Tobata Ward, Kitakyushu City, Fukuoka Prefecture, over three days centered on the fourth Saturday of July each year. One of Fukuoka Prefecture''s representative summer festivals, it is counted, together with the Hakata Gion Yamakasa and the Kokura Gion Daiko, among the "Three Great Gion Festivals of Fukuoka Prefecture." In 2016, the "Tobata Gion Ōyamagasa events" were inscribed on the UNESCO Intangible Cultural Heritage list as one of 33 float festivals across Japan.
+The most distinctive feature of the festival is the dramatic transformation of the yamagasa floats between day and night. During the day, the floats appear as nobori yamagasa, elegantly parading with 12 large banners erected on a platform about 1.8 meters high. At night, all daytime decorations are removed, and the floats are reborn as chōchin yamagasa, a pyramid of light created by stacking 309 lanterns in 12 tiers, reaching a total height of approximately 10 meters. The sight of these pyramids of light emerging in the dark night, accompanied by the rhythmic shouts of Yoitosa, Yoitosa, is breathtaking and captivates a large audience.
 
-The greatest feature of this festival is the float, which shows completely different appearances by day and by night. During the day it presents a valiant form as the "Nobori Ōyamagasa" (banner float), and at night it transforms into the "Chōchin Ōyamagasa" (lantern float), clad in countless lanterns. The nighttime sight of a pyramid of glowing lanterns advancing as it sways is also called the "Pyramid of Light" and captivates onlookers.
+## History and Origin
 
-## History and Origins
+According to the records of Tobata Hachiman-gu Shrine, the origin of the Tobata Gion Yamagasa dates back to the late Edo period, specifically to 1802. In that year, a devastating epidemic spread through the village of Tobata, causing great suffering among the villagers. In response, a group of village leaders gathered and fervently prayed to the enshrined deity, Suga no Okami, for the end of the epidemic and the recovery of the people.
 
-The origins of the Tobata Gion Ōyamagasa are said to date back to the late Edo period. According to one account, around the Bunsei era (around 1819), when an epidemic spread in this region at the time, prayers for recovery were offered at Suga-no-Ōkami (Tobata Hachiman Shrine); when the outbreak subsided, a float was dedicated in gratitude, and this is regarded as the beginning. It has been carried on by local people as a festival rooted in Gion faith, praying for the dispelling of epidemics and for good health.
+Thanks to the divine grace, the epidemic finally subsided. To express their gratitude, the villagers built a yamagasa float and dedicated it to the shrine in July of the following year, 1803. It is believed that the Tengaiji district, which was a branch village of Tobata at the time, started its own yamagasa at nearly the same time. The neighboring village of Nakahara is also thought to have begun a similar practice shortly thereafter, likely influenced by interactions with Tobata.
 
-What began as simple floats grew more lavish in decoration over time, and the nighttime Chōchin Ōyamagasa in particular developed into a distinctive style in which lanterns stacked in twelve tiers form a fantastical pyramid of light. The history in which each district of the region crafted its own float and carried it on with tradition and spirit was recognized by the world in the form of inscription on the UNESCO Intangible Cultural Heritage list. Note that the dating of the origins and the details of its derivation partly rely on tradition, and this provides an overview based on the principal traditions.
+Entering the Meiji period, the festival was suspended for over ten years from 1894 due to the First Sino-Japanese War. It was revived in 1910, but faced another difficult period during the Showa era. Due to the escalating Second Sino-Japanese War, the yamagasa event was forced into a long suspension from 1938 until after the end of World War II in 1946.
+
+After the war, the festival was revived in 1947. In 1954, the first Chochin Yamagasa Competition was held, bringing together the three major yamagasa from the Higashi, Nishi, and Tengaiji districts. It was designated as a Fukuoka Prefectural Intangible Folk Cultural Property in 1957, and on January 28, 1980, it was designated as a National Important Intangible Folk Cultural Property. Later, in 2016, it was registered as a UNESCO Intangible Cultural Heritage, marking over 220 years of history with international acclaim.
 
 ## Highlights
 
-### Chōchin Ōyamagasa (Pyramid of Light)
-The greatest highlight of the Tobata Gion Ōyamagasa is the "Chōchin Ōyamagasa," which appears at night. The decorations are changed from the daytime Nobori Ōyamagasa, and a float assembled in twelve tiers is lit with what are said to be about 300 lanterns. The sight of the pyramid of glowing lanterns parading while swaying greatly to valiant shouts is spectacular, and the fantastical beauty floating against the summer night sky is a major attraction.
+**The Elegance of the Daytime Nobori Yamagasa**
+During the day, the great yamagasa features a rail-decorated pedestal on a 1.8-meter platform, erected with 12 large banners of red and white, alternating left and right. This traditional form is stately, with a front flower decoration and an embroidered backdrop called miokuri at the back, with a temariko ornament on the platform. The miokuri and curtains are luxuriously embroidered with gold and silver thread depicting warrior scenes, and restoration work using government subsidies is being carried out sequentially to preserve these treasures.
 
-### Nobori Ōyamagasa
-The "Nobori Ōyamagasa" seen during the day is characterized by its valiant form, decorated with towering banners and lavish embroidered curtains. Carried by many bearers and advancing powerfully, the daytime float has an impact different from that of the nighttime Chōchin Ōyamagasa. Being able to enjoy both the day and night forms of the float, which changes appearance, is the true delight unique to this festival.
+**The Transformation into the Nighttime Chochin Yamagasa**
+The changeover, which takes place at dusk on the middle day of the festival, is a major highlight. All decorations of the daytime nobori yamagasa are removed, and four pillars about 4 meters high are fixed onto the platform. First, a pyramid-shaped top section with 57 lanterns in five tiers is hoisted up in one motion. Then, a total of 309 lanterns in 12 tiers are gradually assembled, creating the largest-scale chochin yamagasa in Japan, a fantastical pyramid of light that emerges in the darkness.
 
-### The Competition of Floats and the Shouts
-The competition in which the large floats of multiple districts gather together is one of the festival''s climaxes. The sight of the bearers'' valiant shouts uniting with the swaying light of the lanterns stirs the hearts of onlookers.
+**The Power of the Yamagasa Competition**
+The festival reaches its climax on the middle day with the Yamagasa Competition held around Asaichi 1-chome Park in front of the Tobata Ward Office. Three great yamagasa from the Higashi, Nishi, and Nakahara districts, along with four small yamagasa carried by junior high school students, gather in one place. Young men in matching happi coats and headbands vigorously compete with the powerful chant of Yoitosa, Yoitosa, creating a spectacular display. However, the Tengaiji great yamagasa has not participated in the competition since the 71st edition, and its participation for 2026 is undecided.
+
+**The Continuation of Tradition with Small Wakayamagasa**
+Not only the adult great yamagasa but also the small wakayamagasa carried by local junior high school students are an unmissable part of the competition. These small yamagasa play a crucial role in nurturing the next generation of bearers, showing that the tradition spanning over 220 years is being reliably passed down. The earnest expressions and fresh shouts of the students evoke feelings of support and emotion from the audience.
+
+**The Distinctive Gion Festival Music of Each District**
+The Gion festival music, or bayashi, performed according to the event''s progress, comes in five types: shishimai, izakagura, shimohori, otaro bayashi, and johori. These tunes have subtle differences depending on the yamagasa group, and comparing these variations is a unique pleasure of the festival. The powerful otaro bayashi, played as the chochin yamagasa parades through the streets, intensifies the evening''s excitement.
+
+**Traditional Preparatory Rituals Supporting the Yamagasa**
+The period of preparation starting from late June is as important as the festival days themselves. A series of traditional events are carried out in a solemn manner, including yado-biraki (opening of the lodges), dogu-shirabe (checking the tools), shishi-mai (lion dance for purification), kazura-tori (gathering of ivy vines), yamagasa assembly, and narashigaki (final rehearsal). Local residents participate collectively in these preparations, preserving ancient techniques such as tightening the yamagasa platform with the roots of ivy vines.
 
 ## Event Information and Access
 
-The Tobata Gion Ōyamagasa is held over three days (Friday, Saturday, and Sunday) centered on the fourth Saturday of July each year. The venue is the central area of Tobata Ward, Kitakyushu City. Because the procession route and times of the floats and the place and schedule of the competition may vary from year to year, it is advisable to check official information in advance when planning to attend.
+1.  **Event Dates**: In 2026, the festival will be held over three days, from Friday, July 24 to Sunday, July 26.
+2.  **Competition Schedule**: The 73rd Tobata Gion Yamagasa Competition will take place on the middle day, Saturday, July 25, from 6:30 PM to 9:00 PM. The 68th Tobata Gion Bayashi Research Competition will be held concurrently.
+3.  **Location**: The main venue is around the Tobata Ward Office (Asaichi 1-chome Park area, Shinke 1-chome, Tobata Ward, Kitakyushu City).
+4.  **Access**: The site is about a 20-minute walk from JR Tobata Station, or a 5-minute bus ride from Tobata Station towards Kokura, getting off at the temporary Tobata Ward Office bus stop. As no special parking lots are available, using public transportation is strongly recommended.
+5.  **Important Notes**: Placing blankets, chairs, or other items for securing viewing spots on sidewalks and pathways around the competition venue is prohibited due to safety and obstruction concerns. The use of drones is also forbidden for safety reasons.
+6.  **Contact Information**: The secretariat of the Tobata Gion Yamagasa Promotion Association (located within the Tobata Ward Office General Affairs and Planning Division, phone: 093-871-2316) handles inquiries. It is highly recommended to check the official website or Kitakyushu City publications for the latest schedule and event status before attending.
 
-For access, the nearest station is "Tobata Station" on the JR Kagoshima Main Line, within walking distance of the venue area. Located in central Kitakyushu City, it offers convenient access by public transportation. During the festival period, traffic restrictions and congestion are expected in the surrounding area, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Kitakyushu City.
+## Surrounding Area Information
 
-## Nearby Attractions
+The area around Tobata Ward Office and Asaichi 1-chome Park, the main venue for the competition, is filled with numerous food stalls and street vendors during the festival period. The area bustles with local residents and tourists throughout the day and night. Especially around the time of the evening competition, the atmosphere becomes unique, enveloped by the light of the lanterns and the energy of the crowd. Roads around the park are subject to traffic regulations during the competition, ensuring a safe environment for spectators.
 
-Tobata Ward, Kitakyushu City, where the venue is located, is part of the industrial city of Kitakyushu, close to the Kanmon Strait, and is a region with a history of supporting modernization. The surrounding area is also dotted with views of Dōkai Bay and spots related to modernization heritage.
+The area around JR Tobata Station forms the central commercial district of Tobata Ward. Shopping streets and restaurants are concentrated near the station, making it convenient for visitors to drop by before or after viewing the festival. Public facilities like the Kitakyushu City Tobata Library and Tobata Ward Office are also nearby, and they are useful for breaks or gathering information. While Tobata Hachiman-gu Shrine is located a bit further from the station, it is worth visiting for those wishing to deepen their understanding of the festival''s origins.
 
-A short trip away, one can access tourist destinations unique to Kitakyushu, such as the Kanmon Strait, Mojikō Retro, and Kokura Castle. Kitakyushu is known as the birthplace of "yaki-udon," among other things, and local gourmet food is abundant, so visitors can enjoy a journey through Kitakyushu together with the Tobata Gion Ōyamagasa.
+From a broader perspective, the Tobata Gion period is part of the tourist season in Kitakyushu City. It is possible to combine a visit to the festival with other tourist attractions such as Kokura Castle and the Tanga Market in Kokura Kita Ward, or the Mojiko Retro district in Moji Ward. However, since traffic congestion is expected during the festival period, visitors should plan their travel with ample time. Particularly on the day of the competition, it is important to confirm the last departure times for public transportation.
 
 ## Related Information
 
-The Tobata Gion Ōyamagasa was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. With its distinctive style of showing two different forms within a single day—the daytime Nobori Ōyamagasa and the nighttime Chōchin Ōyamagasa—it stands out among the many Gion festivals.
-
-Please note that the dating of the origins and the details of its derivation partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','tobata-gion-yamagasa','tobata-gion-yamagasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+1.  **Similar Festivals**: Fukuoka Prefecture is famous for three major summer festivals. Besides Tobata Gion, the Hakata Gion Yamagasa in Hakata Ward and the Kokura Gion Taiko in Kokura Minami Ward are both beloved traditional events that define summer in the prefecture, each with its own unique characteristics.
+2.  **Timeline of Cultural Designation**: This festival was first designated as a Fukuoka Prefectural Intangible Folk Cultural Property in 1957. It was then designated as a National Important Intangible Folk Cultural Property on January 28, 1980. In 2016, it achieved UNESCO Intangible Cultural Heritage status, gaining global cultural recognition.
+3.  **Structural Features of the Yamagasa**: The base of the great yamagasa is tightly bound with roots of the ivy vine, and curtains such as mizuhiki-maku, kiri-maku, and maekake-maku are hung. These curtains are luxurious, embroidered with gold and silver thread depicting warrior scenes, and are highly valued as cultural properties. Restoration and recreation of these curtains are currently underway.
+4.  **The Plea for Relief from Plague**: The origin of this festival is deeply tied to the epidemic that struck Tobata in 1802. The people of that era were helpless against natural disasters and diseases, with no choice but to pray to the gods for relief from their fear. This theme of praying for an end to epidemics is a universal one that resonates even in modern times.
+5.  **History of Suspension and Revival**: The festival experienced long periods of suspension, including after the First Sino-Japanese War in the Meiji era and during the Second Sino-Japanese War and World War II in the Showa era. The event was completely suspended from 1938 to 1946. Its revival shortly after the war demonstrates the strong commitment of the local community to preserving their tradition.
+6.  **Safety Rules for Spectators**: For the competition, safety personnel are deployed in cooperation with the Tobata Police Station to ensure the safe operation of the yamagasa and the security of viewers. It is mandatory to follow staff instructions, such as not approaching the yamagasa during parades, transformations, or disassembly, and not crossing roads except at designated crosswalks.','tobata-gion-yamagasa','tobata-gion-yamagasa',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7814002','〈東京の夏〉音楽祭','Tokyo Summer Festival','アリオン音楽財団が開催する音楽祭',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%80%88%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%A4%8F%E3%80%89%E9%9F%B3%E6%A5%BD%E7%A5%AD','https://en.wikipedia.org/wiki/Tokyo_Summer_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7903785','和霊大祭','Uwajima Ushi-oni Festival','愛媛県宇和島市で行われる夏祭り',NULL,NULL,NULL,NULL,'愛媛県','shikoku',NULL,NULL,1653,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Ushioni%20mask.jpg','https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD','https://en.wikipedia.org/wiki/Uwajima_Ushi-oni_Festival',85,'drafted','## 概要
 
