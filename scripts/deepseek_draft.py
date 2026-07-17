@@ -100,6 +100,17 @@ def detect_ja_en_year_mismatch(ja, en):
     only_ja = set(re.findall(pat, ja)) - set(re.findall(pat, en))
     return (len(only_ja)>0, only_ja)
 
+def detect_en_heading_level(en):
+    """EN見出しレベルずれ検出(True=ずれあり)。責務分離: H1混入はdetect_h1に委ね
+       ここでは判定回避。ずれ条件=先頭非空行が## Overviewでない、または本文中に### あり。
+       既存記事はEN先頭## Overview・全セクション##で統一(26本目でタイトルH2+H3ずれを検出)。"""
+    if detect_h1(en): return False
+    lines = en.strip().splitlines()
+    first = next((l for l in lines if l.strip()), "")
+    head_ng = first.strip() != "## Overview"
+    has_h3 = any(l.strip().startswith("### ") for l in lines)
+    return head_ng or has_h3
+
 def clen(t): return len(re.sub(r'\s','',t))
 def headings(t): return len(re.findall(r'^##\s', t, re.M))
 def bolds(t): return len(re.findall(r'\*\*[^*]+\*\*', t))
@@ -123,8 +134,10 @@ def review(qid, label, ja, en, cites, vr, usage):
     L.append(f"検算: ja{vr['ja_len']} en{vr['en_len']} 見出し{vr['h']} 太字{vr['b']} => {'OK' if vr['ok'] else 'NG'}")
     h1 = detect_h1(ja); h1e = detect_h1(en)
     mm, only_ja = detect_ja_en_year_mismatch(ja, en)
+    enlv = detect_en_heading_level(en)
     L.append(f"形式チェック: H1混入(JA)={'NG除去要' if h1 else 'OK'} H1混入(EN)={'NG除去要' if h1e else 'OK'} "
-             f"日英年号整合={'NG['+','.join(sorted(only_ja))+']がENに欠落' if mm else 'OK'}")
+             f"日英年号整合={'NG['+','.join(sorted(only_ja))+']がENに欠落' if mm else 'OK'} "
+             f"EN見出しレベル={'NG(タイトルH2/H3ずれ→##統一要)' if enlv else 'OK'}")
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
