@@ -7765,61 +7765,127 @@ A short trip to central Akita City offers abundant highlights, such as Senshū P
 The Float Events of the Tsuchizaki Shinmei Shrine Festival was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. It is one of Akita''s representative summer festivals, conveying the history of the port town of Tsuchizaki and the spirit of its people to the present day.
 
 Please note that the origins and the details of its history partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','tsuchizaki-shinmei-sha-matsuri','tsuchizaki-shinmei-sha-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'drafted','## 概要
 
-那覇大綱挽（なはおおつなひき）は、沖縄県那覇市で毎年10月に行われる伝統行事であり、「那覇まつり」の中心を成す催しである。国道を東西に分けて巨大な綱を引き合うまつりで、その大綱は全長約200メートル、重さ約40トンに及び、1995年にはギネスブックに「世界最大の綱」として登録された。琉球王国時代から受け継がれてきた伝統を背景に、繁栄や幸福への願いを込めて繰り広げられる約30分の激闘は、沖縄最大の伝統文化催事として知られる。
+那覇大綱挽まつりは、沖縄県那覇市で毎年10月の体育の日前後3日間に開催される秋の大型行事です。那覇市の三大祭りの一つに数えられ、メインイベントである「那覇大綱挽」はギネスブックに「世界一のわら綱」として3回認定された記録を持ちます[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。祭り期間中は国際通りでの旗頭行列や国道58号線での大綱挽のほか、奥武山総合運動公園でRBC市民フェスティバルが同時開催され、3日間でのべ約28万5000人の観客が集まります[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
 
-那覇大綱挽は那覇三大祭りの一つに数えられ、地元の人々だけでなく、毎年多くの観光客が国内外から訪れる、那覇を代表する秋の行事である。巨大な綱を数万人が引き合う光景は、沖縄の祭りのなかでも随一の迫力を誇る。
+この祭りは、単なる観光イベントではなく、那覇市民にとって「繁栄・幸福・団結」を象徴するコミュニケーションの場です。東西に分かれた参加者が大綱を引き合う行為には、陰陽の結合による人類繁栄の願いが込められています[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。なお、2011年度までは「那覇まつり」の名称で親しまれていましたが、平成23年度から「那覇大綱挽まつり」に改称されました[naha-contentsdb.jp](https://www.naha-contentsdb.jp/spot/724)。
 
 ## 歴史・由来
 
-那覇大綱挽は、琉球王国時代の「那覇四町綱（なはゆまちづな）」の伝統を引き継ぐ、長い歴史を有する行事である。その発祥は西暦1450年頃とされ、もともと地方の農村行事として行われていた綱引きが、那覇の町の発展とともに大規模な行事へと姿を変えていった。琉球王国の中心都市であった那覇において、町を挙げて行われる綱引きは、地域の繁栄と人々の結束を象徴する重要な催事として受け継がれてきた。綱を引くという素朴な行為に、豊穣や繁栄を願う人々の祈りが込められていたのである。
+那覇大綱挽の起源は、西暦1450年頃までさかのぼるとされています。琉球王国時代、那覇は浮島と呼ばれた一港村から発展し、交易品を取り扱う御物城や久米村の設置を経て西村・東村・若狭町村・泉崎村の「那覇四町」と呼ばれる都市に成長しました[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。地方農村の綱引きが雨乞いや五穀豊穣を目的としたのに対し、那覇の大綱挽は交易都市ならではの町方の行事として成立しました。
 
-時代の変遷のなかで一時途絶えた時期もあったが、戦後に復興され、現在では沖縄最大規模の伝統文化催事として定着している。1995年には、全長約200メートル・重さ約40トンに達した大綱が、世界最大の綱としてギネスブックに登録され、その規模が国際的にも認められた。近年の大綱も全長160メートル・重さ35トン級に達し、毎年その年に新たに、多くの市民の手によって編み上げられる。本綱から枝分かれした無数の手綱を引き手が握ることで、数万人もの人々が同時に綱を引くことができる仕組みになっている。琉球の歴史と那覇の人々の誇りを今に伝える行事として、世代を超えて多くの参加者を集めている。
+江戸時代に入ると、勝負に熱中するあまり喧嘩口論が絶えなかったことから、1812年（嘉慶17年・文化9年）に那覇里主・御物城の命により「那覇綱挽規模帳」（規則集）が制定されました。この規定により、以後は秩序ある形で綱挽が実施されるようになりました[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。明治以降もお祝い綱として幾度も開催されましたが、1935年（昭和10年）を最後に一度途絶えてしまいました。
+
+戦後、首里・小禄・真和志を合併して大那覇市となったことを契機に、1971年（昭和46年）、当時の平良良松市長により市制50周年記念事業として「10・10那覇空襲」の日に復活しました[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。この復活は、沖縄の祖国復帰前年という歴史的なタイミングでもあり、平和と繁栄への祈りを込めた再出発となりました。
+
+その後、那覇大綱挽は年々規模を拡大し、1995年の第25回大会でギネスブックに「米藁で製作された世界一の綱」として初認定されました。翌1996年と1997年にも記録更新が確認され、3回のギネス認定を達成しています[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。2012年には、地方自治法施行60周年記念五百円貨幣の沖縄県代表として那覇大綱挽がデザインされ、全国にその名が知られることとなりました[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
 
 ## 見どころ
 
-最大の見どころは、文字どおり国道を埋め尽くす巨大な綱の引き合いである。東西に分かれた二本の綱が中央で結び合わされ、「ハーイヤ」のかけ声に合わせて、数万人もの引き手が一斉に綱を引く光景は圧巻である。約30分にわたる激闘の末に勝敗が決し、東が勝てば豊作、西が勝てば大漁になると伝えられている。勝負の行方に観客も一体となって熱狂し、会場全体が大きな興奮に包まれる。
+**旗頭行列（うふんなすねーい）**
+祭り2日目の午前11時30分頃、那覇市内14町のシンボルである旗頭が壺屋小学校を出発し、国際通りを練り歩きます。各町の若者（にーせーたー）が黒色の股引半套（むむぬちはんたー）姿で旗を掲げ、爆竹の音が街中に響き渡ります[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A)。この行列は古来、綱挽と必ずセットで行われる伝統的な序幕です。
 
-綱引きに先立っては、勇壮な旗頭（はたがしら）の行列や、伝統的な衣装をまとった演舞などが行われ、まつりを盛り上げる。引き合いの後には、巨大な綱の一部を縁起物として切り取り、持ち帰る人々の姿も見られる。大綱から切り取られた縄は幸運を呼ぶとされ、まつりの締めくくりを彩る光景となっている。那覇まつり全体としては、綱引きのほかにも市民演芸やステージイベント、市民パレードなど多彩な催しが行われ、街全体が数日間にわたって祭りの熱気に包まれる。那覇大綱挽は、こうした那覇まつりのなかでも最大の呼び物として、まつり全体を象徴する存在となっている。
+**綱寄せ（かぬちちじ）**
+大綱挽の開始前、東西の女綱（みーんな）と男綱（をぅーんな）を頭貫棒（かぬちぼう）で結合する儀式です。この結合は陰と陽の融合を意味し、人類繁栄を願う神話的な行為とされています[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。2022年の第52回大会では、この準備段階で西の綱が切れるアクシデントが発生し、安全を考慮して引き分けとなりました[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A)。
+
+**支度我栄（したくがーえー）**
+綱の結合後、歴史上の人物に扮した「支度」と呼ばれる演者が綱の上で見得を切るパフォーマンスです。勇壮な所作と衣装で観客の気分を高め、くす玉が割られると勝負の開始合図となります[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A)。この伝統的な演技は、琉球王国時代の武芸や芸能の影響を色濃く残しています。
+
+**那覇大綱挽（本勝負）**
+全長200メートル、直径約1.56メートル、総重量40トンの世界最大のわら綱を東西に分かれて引き合います。手綱は280本あり、1万5000人の挽き手が一斉に綱を引く光景は圧巻です[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。勝負はかぬちぐちが東西5メートルの勝負線を越えるか、3メートル以上動いた方が判定勝利となり、決着まで通常20～30分かかります。
+
+**嘉例綱取り（かりーづなとり）**
+綱挽終了後、参加者は手綱を切り取って縁起物として持ち帰ることができます。この「嘉例綱」は家庭円満や子宝、商売繁盛などのご利益があると信じられています[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。会場では多くの人が綱の切れ端を求めて殺到し、祭りの最後を盛り上げます。
+
+**RBC市民フェスティバル**
+奥武山総合運動公園で3日間開催される併催イベントで、カラオケ選手権や音楽ステージ、連日の打ち上げ花火（20時30分～）など多彩な催しが行われます[naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/)。家族連れで楽しめるプログラムが充実しており、大綱挽の興奮をさらに引き立てます。
 
 ## 開催情報・アクセス
 
-那覇大綱挽は毎年10月（体育の日の前後の連休）に、沖縄県那覇市の国道58号久茂地交差点付近を主会場として行われる。那覇まつりの期間中に開催され、綱引き本番のほか、関連する催しが市内各所で繰り広げられる。
+- **開催日程**：毎年10月の体育の日を含む土・日・月の3日間。メインの大綱挽は2日目（日曜日）の14時30分～19時頃。第56回（令和8年）は10月10日(土)～12日(月)に開催予定[naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/)。
+- **会場**：旗頭行列は国際通り、大綱挽は国道58号線久茂地交差点。RBC市民フェスティバルは奥武山総合運動公園[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
+- **入場料**：すべて無料（観覧自由）。
+- **アクセス（公共交通機関）**：那覇空港からゆいレールで約15分（奥武山公園駅下車徒歩3分、壷川駅下車徒歩1分）。路線バスでは軍桟橋前バス停から徒歩5分[forestpost-jp.com](https://forestpost-jp.com/2025/10/09/nahaotsunahikimatsuri/)。
+- **駐車場**：専用駐車場なし。祭り開催に伴い周辺道路で交通規制が実施されるため、公共交通機関の利用が推奨される[forestpost-jp.com](https://forestpost-jp.com/2025/10/09/nahaotsunahikimatsuri/)。
+- **問い合わせ先**：那覇大綱挽まつり実行委員会事務局（那覇市観光課） TEL 098-862-3276。最新の開催日程や中止・延期の有無は公式サイト（那覇市観光協会など）で必ず確認すること[naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/)。
 
-会場は那覇市の中心部に位置し、沖縄都市モノレール（ゆいレール）の県庁前駅や美栄橋駅から徒歩圏内とアクセスが良い。まつり当日は会場周辺で大規模な交通規制が敷かれ、大変な混雑となるため、公共交通機関の利用が強く推奨される。
+## 周辺情報
 
-## 周辺の見どころ
+那覇大綱挽まつりのメイン会場は那覇市の中心部・久茂地交差点と国際通りに位置します。国際通りは全長約1.6キロメートルの繁華街で、土産物店や沖縄料理の飲食店が軒を連ね、祭り期間中は歩行者天国となる区間もあります。歴史的な建物では、琉球王国時代の交易所を復元した「てんぶす那覇」や、那覇市立壺屋焼物博物館などが徒歩圏内にあり、観光と併せて訪れることができます。
 
-那覇市は沖縄県の県庁所在地であり、見どころが豊富である。世界遺産に登録された首里城跡をはじめ、琉球王国の歴史を伝える史跡が点在する。土産物店や飲食店が立ち並ぶ国際通りは、まつり会場からもほど近く、沖縄の食や文化を気軽に楽しむことができる。まつりと併せて那覇の街を巡れば、琉球王国の歴史と現代の活気の双方に触れることができる。
+奥武山総合運動公園は那覇市の南部に広がる総合公園で、RBC市民フェスティバルの会場となるほか、園内には世界遺産・識名園や沖縄県立武道館があります。公園からは那覇港や遠く慶良間諸島を望むことができ、花火観賞の絶好のスポットとしても人気です。祭りに参加しない日でも、公園内のジョギングコースや子ども向け遊具で過ごす家族連れの姿が見られます。
+
+那覇市内には首里城公園や福州園、波上宮など多数の観光スポットが点在しており、祭り前後の滞在で充実した旅程を組むことができます。特に、那覇大綱挽の起源となった那覇四町のエリア（西・東・若狭・泉崎）を歩けば、当時の町割りや歴史的な寺社の名残を感じることができ、祭りの理解をより深められるでしょう。
 
 ## 関連情報
 
-- 開催月: 10月（体育の日前後の連休）
-- 都道府県: 沖縄県
-- 開催地: 那覇市（国道58号久茂地交差点付近 ほか）
-- 種別: 伝統行事（那覇まつりの中心催事）
-- 規模: 全長約200m・重さ約40トン（1995年ギネスブック登録）
-- 由来: 琉球王国時代の那覇四町綱（発祥は1450年頃）
-- 言い伝え: 東が勝てば豊作・西が勝てば大漁
-- 周辺: 首里城跡（世界遺産）・国際通り
-','## Overview
-The Naha Festival (Naha Matsuri) is one of Okinawa Prefecture''s largest autumn festivals, held in Naha City around the Sports Day holiday period in October. Its centerpiece is the Naha Great Tug-of-War (Naha Otsunahiki), a spectacular event in which an enormous rice-straw rope is pulled by tens of thousands of participants. The rope has been recognized by Guinness World Records as the largest rope of its kind, and the festival as a whole combines this dramatic contest with parades, stage performances, and fireworks.
+1. **ギネス世界記録**：那覇大綱挽は1995年、1996年、1997年の3回にわたり「世界一のわら綱」としてギネス認定された。記録更新の際にはギネス社編集長が来訪して確認を行った[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
+2. **五百円貨幣デザイン**：2012年7月18日に発行された地方自治法施行60周年記念五百円貨幣の沖縄県代表として、那覇大綱挽がメインデザインに採用された[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
+3. **2022年綱切断アクシデント**：第52回大会（2022年）で、綱寄せの段階で西の綱が切断。新型コロナ対策による参加者制限と仕様変更が原因とみられ、参加者の安全を最優先して引き分けとした[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A)。
+4. **保存会の活動**：那覇大綱挽保存会（一般社団法人）が主催・運営を担い、伝統技術の継承や毎年の綱の新調、若手育成に取り組んでいる[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
+5. **名称変更**：2011年度まで「那覇まつり」として親しまれてきたが、平成23年度に「那覇大綱挽まつり」へ改称。大綱挽を祭りの核として明確に打ち出す意図があった[naha-contentsdb.jp](https://www.naha-contentsdb.jp/spot/724)。
+6. **旗頭のまち宣言**：那覇市は2023年10月に「旗頭のまち」を宣言。各町内で継承される14旗の旗頭は、地域の結束と伝統文化の象徴として重要な役割を果たしている[city.naha.okinawa.jp](https://www.city.naha.okinawa.jp/mayor/kaiken/1005260/1005267.html)。','## Overview
 
-## History & Origins
-The tradition of the Naha Great Tug-of-War traces its roots to around the mid-15th century, during the era of the Ryukyu Kingdom, when tug-of-war rituals were performed as prayers for good harvests, prosperity, and communal harmony. The event was historically tied to the prosperity of the port town of Naha. After a long interruption, the modern tug-of-war was revived in the postwar period as a symbol of the city''s recovery and identity, and the rope''s extraordinary scale eventually earned Guinness World Records recognition in 1995 (with the rope measured at roughly 160-200 meters and weighing on the order of 35-40 tons in record-setting years).
+The Naha Otsunahiki Matsuri is a major autumn festival held in Naha City, Okinawa Prefecture, over three days including the weekend of Health and Sports Day in October. It is counted among Naha''s three major festivals, and its centerpiece event, the Naha Otsunahiki (Great Tug-of-War), has been certified by Guinness World Records three times as "the world''s largest straw rope" [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). During the festival period, the International Street parade of hata-gashira (town flags) and the main tug-of-war on National Route 58 are held, alongside the RBC Citizens Festival at Onoyama Athletic Park, attracting approximately 285,000 spectators over the three days [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
+
+This festival is not merely a tourist event; it serves as an essential occasion for Naha citizens to express unity, prosperity, and happiness. The act of pulling the giant rope from east and west symbolizes the union of yin and yang, embodying prayers for human prosperity and peace [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). Until 2011, the event was known simply as "Naha Matsuri," but from fiscal year 2011 it was renamed "Naha Otsunahiki Matsuri" to emphasize the tug-of-war as its core [naha-contentsdb.jp](https://www.naha-contentsdb.jp/spot/724).
+
+## History and Origins
+
+The origins of the Naha Otsunahiki are said to date back to around 1450. During the Ryukyu Kingdom era, Naha developed from a single port village called Ukishima into an urban center with trade facilities such as Ufugusuku (the royal trade office), Kume Village (settled by Chinese immigrants), and administrative offices, ultimately growing into the four towns of Nishi, Higashi, Wakasa, and Izumizaki, collectively known as "Naha Yoncho" [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). While rural tug-of-war traditions were linked to rain prayers and harvests, Naha''s version emerged as a distinctly urban festival celebrating the mercantile spirit.
+
+By the early 19th century, heated competitions often led to brawls, prompting the authorities in 1812 to establish the "Naha Tsunahiki Kibo-cho" (rule book) under the orders of the Naha satonushi and the Ufugusuku. This regulation system brought order and safety to the event, and thereafter the tug-of-war was conducted according to these rules [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). Although the festival continued through the Meiji period as a celebratory event, it was suspended after 1935 and ceased entirely during and after World War II.
+
+After the war, Naha merged with Shuri, Oroku, and Mawashi to form Greater Naha City. In 1971, just one year before Okinawa''s reversion to Japan, Mayor Ryo Matsu Taira revived the tug-of-war as part of the city''s 50th anniversary commemorations, deliberately scheduling it on October 10, the date of the 1944 Naha air raid [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). This revival was deeply symbolic, blending remembrance of war with hopes for peace and prosperity.
+
+The festival grew steadily in scale and recognition. In 1995, at the 25th edition, the rope was first certified by Guinness World Records as the largest straw rope in the world. The record was reconfirmed in 1996 and again in 1997 when a Guinness editor visited to verify the updated specifications: total length 186 meters, weight 40.22 tons, diameter 1.58 meters, with 236 tow ropes [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). In 2012, the design of the Naha Otsunahiki was selected for the commemorative 500-yen coin issued for the 60th anniversary of the Local Autonomy Law, cementing its national recognition [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
 
 ## Highlights
-The Great Tug-of-War divides the city into east and west sides, each pulling a massive rope joined at the center by a giant wooden pin called the "kanuchi-bo." Before the pull begins, a ceremonial confrontation of decorated banner-bearers and the cheers of the crowd build the atmosphere. Once the signal is given, an estimated tens of thousands of participants—residents and visitors alike—heave together in a contest that is as much a communal ritual as a competition. After the event, pieces of the sacred rope are cut and taken home as talismans believed to bring good fortune. The surrounding festival program includes a colorful citizens'' parade along Kokusai Street and fireworks.
 
-## Access & Information
-The Naha Festival is held in Naha City, Okinawa Prefecture, typically over three days around the October Sports Day weekend, with the Great Tug-of-War taking place on Route 58 near the Kumoji area. Naha is easily reached via Naha Airport, and the city center is served by the Okinawa Urban Monorail (Yui Rail). Because major roads are closed during the tug-of-war, visitors should rely on the monorail and public transport. Exact dates and the tug-of-war schedule are announced each year by the organizing committee.
+**Hata-gashira Parade (Ufunna-suneei)**
+On the second day of the festival, around 11:30 a.m., the hata-gashira (town flags) from 14 districts of Naha depart from Tsuboya Elementary School and parade down International Street. Young men (niiseetaa) dressed in black traditional hakama and half-coats carry the towering flags while firecrackers echo through the streets [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A). This procession has been an inseparable prelude to the tug-of-war since ancient times, showcasing each neighborhood''s pride and martial spirit.
 
-## Around the Area
-The festival venues are close to Naha''s main attractions, including the lively Kokusai Street shopping district, the Tsuboya pottery district, and Fukushu-en Garden. Shurijo Castle, the historic seat of the Ryukyu Kingdom, is a short monorail ride away and provides essential context for understanding the kingdom-era origins of the tug-of-war tradition. Naha also serves as a gateway to the beaches and islands of the wider Okinawa region.
+**Rope Joining Ceremony (Kanuchi-chiji)**
+Before the main tug-of-war begins, the female rope (miinna) from the west and the male rope (uunna) from the east are joined together using a special crossbar called kanuchi-bo. This union is considered a mythical act representing the fusion of yin and yang, praying for the prosperity of all humanity [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). In 2022, during the 52nd edition, the western rope snapped at this preparatory stage, leading organizers to declare a draw for safety reasons due to changes in rope specifications and reduced participant numbers from COVID-19 measures [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A).
+
+**Shitaku Gaee (Historical Performers on the Rope)**
+After the ropes are joined, performers dressed as historical figures perform dramatic postures (gaee) while standing on the rope. These displays of bravery and artistry heighten the audience''s excitement, and the ceremony culminates in the breaking of a giant kusudama (paper ball) as the signal for the tug-of-war to begin [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A). This tradition preserves elements of Ryukyu martial and performing arts, connecting modern spectators to the kingdom''s cultural heritage.
+
+**The Great Tug-of-War (Main Bout)**
+The main event features a rope measuring 200 meters in total length, approximately 1.56 meters in diameter, and weighing 40 tons, with 280 tow ropes each about 7 meters long. Up to 15,000 pullers split into east and west teams heave in unison, creating a thrilling spectacle that draws the crowd of 285,000 into a single roar of energy [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). Victory is declared when the joint of the rope (kanuchi-guchi) crosses a line 5 meters into either side''s territory, or if at least 3 meters of movement is achieved; otherwise the match is a draw, and bouts typically last 20 to 30 minutes.
+
+**Karii-zuna Tori (Lucky Rope Scavenging)**
+Immediately after the bout ends, participants are allowed to cut off pieces of the tow ropes and take them home as lucky charms. These rope fragments, called karii-zuna, are believed to bring blessings such as family harmony, easy childbirth, and business prosperity [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php). The scramble for rope pieces is a lively and joyful conclusion to the main tug-of-war, symbolizing the distribution of good fortune to the community.
+
+**RBC Citizens Festival**
+Running concurrently over the three days at Onoyama Athletic Park, this side festival features karaoke competitions, live music stages, food stalls, and nightly fireworks displays (starting at 8:30 p.m.) [naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/). The family-friendly atmosphere complements the intensity of the tug-of-war, offering diverse entertainment for all ages and making the entire event a comprehensive cultural experience.
+
+## Event Information and Access
+
+- **Schedule**: Annually on the Saturday, Sunday, and Monday including Health and Sports Day (second Monday of October). The main tug-of-war takes place on Sunday afternoon (approximately 2:30 p.m. to 7:00 p.m.). For the 56th edition (2026), the dates are October 10 (Sat) to October 12 (Mon) [naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/).
+- **Venues**: Hata-gashira parade on International Street; main tug-of-war at the Kumoji intersection on National Route 58; RBC Citizens Festival at Onoyama Athletic Park [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
+- **Admission**: Free of charge for all events.
+- **Public Transport**: From Naha Airport, take the Yui Rail to Onoyama Koen Station (3-minute walk) or Tsubogawa Station (1-minute walk). By city bus, alight at Gunsenbashi-mae stop (5-minute walk) [forestpost-jp.com](https://forestpost-jp.com/2025/10/09/nahaotsunahikimatsuri/).
+- **Parking**: No dedicated parking is available. Heavy traffic restrictions are enforced around the venues, so using public transportation is strongly recommended [forestpost-jp.com](https://forestpost-jp.com/2025/10/09/nahaotsunahikimatsuri/).
+- **Contact and Updates**: Naha Otsunahiki Matsuri Executive Committee (Naha City Tourism Division), tel. 098-862-3276. Always check the official website (e.g., Naha City Tourism Association) for the latest schedule, possible cancellations, or postponements due to weather or other factors [naha-navi.or.jp](https://www.naha-navi.or.jp/magazine/2026/07/49306/).
+
+## Surrounding Area Information
+
+The main venues of the Naha Otsunahiki Matsuri are located in central Naha, at the Kumoji intersection and along International Street (Kokusai Dori). International Street stretches approximately 1.6 kilometers and is lined with souvenir shops, Okinawan restaurants, and entertainment establishments. During the festival, sections are closed to traffic, creating a pedestrian paradise. Within walking distance are cultural sites such as the Tennusu Naha complex (reconstructed Ryukyu trade office) and the Naha City Tsuboya Pottery Museum, allowing visitors to combine festival viewing with historical exploration.
+
+Onoyama Athletic Park, located in the southern part of Naha, hosts the RBC Citizens Festival and offers extensive recreational facilities. The park features sports fields, playgrounds, and walking paths, and provides scenic views of Naha Port and the Kerama Islands in the distance, making it an ideal spot for fireworks viewing. Nearby attractions include the UNESCO World Heritage site Seifa-utaki and the Okinawa Prefectural Budokan, offering additional cultural engagement for visitors.
+
+Naha City is home to numerous other tourist attractions such as Shuri Castle Park, Fukushuen Garden, and the Naminoue Shrine. Walking through the historic four towns (Nishi, Higashi, Wakasa, Izumizaki) that gave birth to the tug-of-war tradition allows visitors to trace the old street patterns and discover temples and shrines from the Ryukyu Kingdom period. This deeper exploration enriches understanding of the festival''s significance and the city''s layered history.
 
 ## Related Information
-The Naha Great Tug-of-War belongs to a broader Okinawan and East Asian tradition of large-scale ritual tug-of-war events held as prayers for prosperity and good harvests. Its Guinness World Records status makes it a notable draw for international visitors, and it pairs naturally with exploration of Ryukyuan history at sites such as Shurijo Castle and the cultural districts of central Naha.','naha-otsunahiki','naha-otsunahiki',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+
+1. **Guinness World Records**: The Naha Otsunahiki rope was certified as the world''s largest straw rope three times (1995, 1996, 1997). In 1997, a Guinness editor personally visited to verify the updated record of 186 m length and 40.22 tons weight [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
+2. **500-Yen Commemorative Coin**: In 2012, the design of the Naha Otsunahiki was featured on a special 500-yen coin issued for the 60th anniversary of the Local Autonomy Law, representing Okinawa Prefecture [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
+3. **2022 Rope Breakage Incident**: At the 52nd festival (2022), the western rope snapped during preparation. The accident was attributed to changes in rope dimensions and reduced reinforcement due to COVID-19 restrictions; organizers declared a draw to ensure safety [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A).
+4. **Preservation Society**: The Naha Otsunahiki Hozonkai (general incorporated association) manages the festival, oversees the annual production of a new rope, and works to train younger generations in traditional skills [naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php).
+5. **Name Change**: The festival was renamed from "Naha Matsuri" to "Naha Otsunahiki Matsuri" in fiscal year 2011 to clearly identify the tug-of-war as its central attraction [naha-contentsdb.jp](https://www.naha-contentsdb.jp/spot/724).
+6. **City of Flags Declaration**: In October 2023, Naha City declared itself a "City of Flags" (Hata-gashira no Machi). The 14 hata-gashira representing each district are treasured symbols of local identity and cultural heritage, and their preservation is a priority for the city [city.naha.okinawa.jp](https://www.city.naha.okinawa.jp/mayor/kaiken/1005260/1005267.html).','naha-otsunahiki','naha-otsunahiki',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7398902','佐賀インターナショナルバルーンフェスタ','Saga International Balloon Fiesta','日本の佐賀県で行われる熱気球の競技会・イベント','Hot air balloon festival in Saga, Japan',NULL,NULL,NULL,'佐賀県','kyushu',33.255555555,130.244444444,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Saga%20balloon%202007%201.jpg','https://ja.wikipedia.org/wiki/%E4%BD%90%E8%B3%80%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF','https://en.wikipedia.org/wiki/Saga_International_Balloon_Fiesta',100,'drafted','## 概要
 
 佐賀インターナショナルバルーンフェスタは、毎年10月下旬から11月初旬にかけて佐賀県佐賀市で開催される、アジア最大級の熱気球競技大会です。佐賀平野を流れる嘉瀬川河川敷を会場に、世界各国から100機を超える色とりどりの熱気球が集結し、5日間の開催期間中に約80万人もの観客が訪れる、佐賀を代表する秋の風物詩となっています。
