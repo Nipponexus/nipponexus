@@ -7710,85 +7710,155 @@ Throughout the Nanyo area, a distinctive culture of festivals centered on the us
 - Ushioni ... a demon-warding festival figure appearing in the festivals of the Nanyo area centered on Uwajima, known for its long neck and demon face.
 - Uwajima Castle ... a castle with an original keep built by Todo Takatora, conveying the history of the castle town of Uwajima.
 - Warei faith ... a belief that began with the enshrinement of Yamaie Seibei''s spirit and is revered throughout central and western Japan as the guardian deity of fisheries and other industries.','warei-taisai','warei-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q7849923','土崎神明社祭の曳山行事','Tsuchizaki Shinmei Shrine Festival','秋田県秋田市にある土崎神明社の例祭',NULL,'Q11423430','土崎神明社','Tsuchizaki Shinmeisha','秋田県','tohoku',NULL,NULL,1705,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchi-yama-tsunafuru.jpg','https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B','https://en.wikipedia.org/wiki/Tsuchizaki_Shinmeisha_Shrine_Annual_Celebration_And_The_Float_Festival',85,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q7849923','土崎神明社祭の曳山行事','Tsuchizaki Shinmei Shrine Festival','秋田県秋田市にある土崎神明社の例祭',NULL,'Q11423430','土崎神明社','Tsuchizaki Shinmeisha','秋田県','tohoku',NULL,NULL,1705,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Tsuchi-yama-tsunafuru.jpg','https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B','https://en.wikipedia.org/wiki/Tsuchizaki_Shinmeisha_Shrine_Annual_Celebration_And_The_Float_Festival',85,'drafted','## 概要
 
-土崎神明社祭の曳山行事（つちざきしんめいしゃさいのひきやまぎょうじ）は、秋田県秋田市土崎地区にある土崎神明社の例祭で、毎年7月20日・21日に行われます。地元では「土崎港曳山まつり（つちざきみなとひきやままつり）」とも呼ばれ、勇壮な曳山（ひきやま）が港町を巡行する、秋田の夏を代表する祭りのひとつです。2016年（平成28年）には「土崎神明社祭の曳山行事」が、全国33件の「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録されました。
+土崎神明社祭の曳山行事は、秋田市土崎港地区に伝わる由緒ある祭礼で、毎年7月20日と21日の2日間にわたって開催されます。この行事は土崎神明社の例祭として、各町内が奉納する曳山（ひきやま）が町中を練り歩くもので、1997年（平成9年）12月15日に国の重要無形民俗文化財に指定されました。さらに2016年（平成28年）11月30日、エチオピア・アディスアベバで開催されたユネスコ無形文化遺産保護条約第11回政府間委員会において、「山・鉾・屋台行事」の一部としてユネスコ無形文化遺産に登録されています[city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html)。
 
-各町内が制作する曳山は、武者人形などで飾られた勇壮な「人形飾り」と、世相を風刺・反映した「見返し」と呼ばれる飾りが特徴で、独特の祭り囃子とともに町を練り歩きます。
+曳山は毎年作り替えられ、奉納される台数は年によって異なりますが、近年はおおむね20数台が運行されています。特に2023年（令和5年）には戦後最多となる26町内が曳山を奉納し、これは2013年以来10年ぶりの過去最多となりました[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。曳山は「秋田三大囃子」に数えられる「港ばやし」にのって運行され、勇壮な武者人形や風刺を込めた「見返し」が見物客を魅了します。
 
 ## 歴史・由来
 
-土崎神明社祭の曳山行事は、土崎神明社の例祭として古くから受け継がれてきた行事です。土崎は、雄物川（おものがわ）の河口に位置する港町として、古くから物流の要衝として栄えてきた地で、北前船の寄港地としても知られていました。こうした港町の繁栄を背景に、町を挙げての盛大な祭りとして曳山行事が発展してきたと伝えられています。
+土崎神明社祭の曳山行事の起源を明確に示す文献は限られていますが、寛政元年（1789年）に津村淙庵が著した「雪のふる道」には、当時の曳山行事の様子が記されています。同書には「鉦や鼓、笛、三味線の調子にあわせ、四十もの山車が曳かれていて非常ににぎやかであった」とあり、この頃より前に現在のような曳山行事が成立していたと考えられます[tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。また、文化元年（1804年）の人見蕉雨「秋田紀麗」や、明治前後について記した近藤源八の「羽陰温故誌」にも関連する記述が残されています。
 
-曳山には、各町内が趣向を凝らした飾り付けが施されます。表側には勇壮な武者人形などをあしらい、裏側の「見返し」にはその年の出来事や世相を反映した題材が掲げられるのが特徴で、これを見て楽しむのもこの祭りの醍醐味です。地域の人々が一体となって曳山を仕立て、町内ごとに伝統と心意気を競い合ってきた歴史が、ユネスコ無形文化遺産への登録という形で世界に認められました。なお、起源や沿革の細部には伝承による部分もあり、ここでは主要な伝えに基づいて概観しています。
+江戸時代から明治時代にかけて、曳山の高さは町内間で激しく競われるようになりました。明治11年（1878年）に土崎を訪れたイギリス人旅行家イザベラ・バードは、著書「日本奥地紀行」で曳山の高さを「50フィート近く」と記録しています[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。明治に入ると七丈（約21メートル）を超える曳山も登場し、倒れないように横の小路から綱を張って支える必要がありました。しかし、明治33年（1900年）頃から電線が引かれるようになり、運行上の制限から現在のような高さ（4.7メートル以内）に抑えられることになりました。
+
+例祭日は明治時代に入り、新暦の7月20日・21日と定められました。それ以前は旧暦の6月15日に行われていたとされ、時代とともに日程が変化してきたことがわかります。2021年（令和3年）には新型コロナウイルスの感染拡大により曳山行事が2年連続で中止となりましたが、神事および神輿の巡幸は実施されました。2022年（令和4年）には感染対策のガイドラインを策定した上で3年ぶりに開催され、2023年には五類移行に伴い通常通りの開催が実現しました[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+曳山行事の囃子である「港ばやし」は、佐竹氏の城下町であった茨城県常陸太田市に伝わる「天神囃子」と類似点があるとされ、移封に伴って伝えられた可能性が指摘されています。ただし、その生まれた経緯は明らかではなく、もともと土崎にあった囃子と結びついて現在の形になったと考えられています[tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
 ## 見どころ
 
-### 勇壮な曳山の巡行
-土崎神明社祭最大の見どころは、各町内が制作した曳山の巡行です。武者人形などで飾られた大型の曳山が、独特の祭り囃子に合わせて港町を練り歩く光景は迫力満点です。複数の曳山が連なって巡行する様子や、各町内が腕を競った飾りの出来栄えを見比べる楽しみがあります。
+**剛と柔の二面性を持つ曳山構造**
+曳山は正面（剛）と背面（柔）の二面構造を持ち、正面には男岩と女岩の一対の夫婦岩が設置されます。夫婦岩の前には戦場の情景が作り込まれ、歴史上の人物を模した迫力満点の武者人形が飾り付けられます。この構造は、神聖さと芸術性を同時に表現する曳山芸能の核心であり、見物客を圧倒する壮観な景観を創り出しています[city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html)。
 
-### 「見返し」の風刺
-曳山の裏側に掲げられる「見返し」は、この祭りならではの特徴です。その年の世相や出来事を風刺・反映した題材が掲げられ、機知に富んだ言葉とともに人々を楽しませます。表側の勇壮な人形飾りとの対比も、曳山を見る大きな楽しみのひとつです。
+**見返しと風刺人形**
+背面にはお囃子方が乗る櫓が設けられ、その上部にはおどけた人形とともに、政治・経済・社会・文化を大胆に風刺した「見返し」が掲げられます。見返しの文は七五調で書かれ、祭りに先立って「見返しコンクール」が行われ、最優秀1町内、優秀2町内には受賞札が与えられます。この風刺文化は毎年新鮮な話題を提供し、見返しを目当てに訪れるリピーターも少なくありません[city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html)。
 
-### 港ばやしと夜の巡行
-祭りを彩るのが、独特の節回しを持つ「港ばやし」です。笛・太鼓・三味線などによる祭り囃子が港町に響き渡り、祭りの高揚感を盛り上げます。夜には提灯を灯した曳山が巡行することもあり、昼間とは異なる幻想的な雰囲気を楽しむことができます。
+**音頭上げと振り棒の技**
+曳山は音頭取りと曳子の声の掛け合いによる「音頭上げ」で動き出します。音頭取りが拍子木を鳴らし、曳子が「下声」で応えることで、巨大な曳山が一斉に動き始める光景は圧巻です。振り棒は4つの輪に1人ずつ、計4人一組で担当され、ハンドルもブレーキもない曳山を熟練の技で安全に操作します。音頭取りには進行管理だけでなく、安全運行のための判断力も求められる、まさに職人芸です[tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+**港ばやしの5曲**
+港ばやしは「寄せ太鼓」「湊ばやし」「あいや節」「湊剣ばやし」「加相ばやし」の5曲で構成され、それぞれ演奏される場面やテンポが異なります。例えば、「あいや節」は戻り曳山で演奏され、哀調を帯びた旋律が夜の闇に響き渡ります。これらの曲は「花輪ばやし」「飾山囃子」とともに「秋田県三大囃子」の一つに数えられ、土崎港ばやし保存会（港和会、娯笑会、しぶき会、若波会）および旭鳳会によって保存・伝承されています[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+**戻り曳山の幻想的な景観**
+夜8時の「のろし」を合図に、号車番号が大きい曳山から順次町内への帰途に就く「戻り曳山」は、この祭りの最大の見どころです。進行方向が変わり、前方の角灯篭が点灯され、その赤い光が夜闇に浮かび上がります。曳き方は御幸曳山のときにも増して激しく、曳子の掛け声も荒々しく、時には相当のスピードで曳山が走ることもあります[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+**踊りと演芸**
+曳山とともに披露される踊りは、演芸としての踊りと、子どもや多くの人が参加する輪踊りに分けられます。演芸としては「秋田音頭」が代表的で、各町内の女性陣が華やかな衣装で披露します。この踊りは見物客を楽しませるために古くから行われてきたとされ、現在も祭りの華の一つとして親しまれています。
 
 ## 開催情報・アクセス
 
-土崎神明社祭の曳山行事は、例年7月20日・21日の2日間にわたって開催されます。会場は秋田市土崎地区の土崎神明社およびその周辺一帯です。曳山の巡行経路や時間、各種神事の日程は年によって異なる場合があるため、観覧を計画する際は事前に公式情報を確認することをおすすめします。
+1. **開催日時**：毎年7月20日（宵宮）と21日（本祭）。2026年は7月20日（月・祝）と21日（火）に開催予定。20日は午前8時頃から曳山が各町内を出発し、21日は曳山が各町内に到着するのが深夜0時過ぎとなる[akita-apple.com](https://akita-apple.com/event/13306/)。
 
-アクセスは、JR奥羽本線の「土崎駅」が最寄りで、駅から会場周辺へは徒歩圏内です。秋田市中心部からも比較的近く、公共交通機関で訪れることができます。祭り期間中は土崎地区で交通規制や混雑が見込まれるため、公共交通機関の利用がおすすめです。最新の日程・交通情報は、土崎神明社や秋田市など公式の発表でご確認ください。
+2. **観覧料**：無料。曳山の運行は公道で行われるため、沿道から自由に観覧できる。
 
-## 周辺の見どころ
+3. **会場**：秋田市土崎地区。メインストリートは本町通り（国道7号線より1本東の南北に延びる道路）で、JR土崎駅から徒歩3分の土崎神明社を中心に運行される[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
-会場の土崎地区は、雄物川の河口に開けた歴史ある港町で、港町ならではの風情が残ります。秋田港に近く、海や港の景観も楽しめるエリアです。曳山行事の歴史や祭りの様子を紹介する施設では、祭りの背景を学ぶことができます。
+4. **アクセス**：JR奥羽本線土崎駅下車、西口から徒歩3分で土崎神明社。遠方から車で来場する場合は、道の駅あきた港駐車場、旧秋田港駅駐車場（フェリーターミナル向かい）、旧チャレンジオフィスあきた駐車場（土崎みなと歴史伝承館裏）が案内されており、無料シャトルバスが30分間隔で運行される[akita-apple.com](https://akita-apple.com/event/13306/)。
 
-秋田市中心部へ足を延ばせば、千秋公園（久保田城跡）や、秋田の伝統文化を紹介する施設など、見どころが豊富です。秋田は米どころ・酒どころとしても知られ、きりたんぽや稲庭うどんなどの郷土料理も魅力です。夏には他にも多くの祭りが催されるため、東北の夏祭りめぐりとあわせて楽しむこともできます。
+5. **交通規制**：祭り両日は土崎地区で交通規制が敷かれ、深夜0時に解除される。規制区域内の路上駐車は不可。規制区域外を運行する戻り曳山には警察官（パトカー）が同行する場合がある[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+6. **最新情報の確認**：中止・延期や詳細スケジュールは、土崎港曳山まつり公式HP（https://tutizaki-hikiyama.com/）または秋田市公式サイトで開催前に確認すること。悪天候や社会的状況により内容が変更される場合がある。問い合わせは土崎神明社（TEL 018-845-2264）へ。
+
+## 周辺情報
+
+土崎港曳山まつりの中心地であるJR土崎駅周辺には、祭りの歴史を深く知るための施設が点在しています。土崎神明社は曳山行事の舞台そのものであり、境内では曳山が参拝する「郷社参り」が行われます。2006年の道路拡張工事に伴う神社改修で鳥居がかさ上げされ、曳山が鳥居をくぐって境内に入ることが可能になりました。昼食休憩の時間帯に合わせて行われることが多いため、この時間帯に駅前を訪れると複数台の曳山を目にすることができます。
+
+ポートタワーセリオン（道の駅あきた港）は、土崎駅から徒歩10分程度の距離にあり、祭り期間中は無料シャトルバスの発着点となります。セリオンからは港町ならではの景観を楽しめるほか、駐車場も整備されているため、車で訪れる観光客の拠点として最適です。また、土崎みなと歴史伝承館では曳山行事に関する資料や展示が行われており、祭りの背景を学ぶことができます。
+
+祭りの時期には、地元の食文化も大きな魅力です。各家庭では魚の「えい」（軟骨魚で体が平たく尾は細長い）の乾物を煮込んだ料理が振る舞われ、この風習から祭りは「カスベ祭り」という異名でも呼ばれています。カスベ（ガンギエイ）の干物を戻し、醤油等で甘辛く煮付けるこの料理は、保存食の乏しい時期にあたる港町の知恵から生まれたものです。地域のスーパーマーケットでは祭りが近づくと大量の「干しかすべ」が販売され、各家庭の主婦の腕の見せ所となっています。
 
 ## 関連情報
 
-土崎神明社祭の曳山行事は、2016年に「山・鉾・屋台行事」のひとつとしてユネスコ無形文化遺産に登録され、また国の重要無形民俗文化財にも指定されています。港町・土崎の歴史と人々の心意気を today に伝える、秋田を代表する夏の祭礼のひとつです。
+1. **ユネスコ無形文化遺産登録**：2016年（平成28年）11月30日、「山・鉾・屋台行事」の構成要素として登録。日本各地の33件の山・鉾・屋台行事が一括登録された[online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/244778)。
 
-なお、起源や沿革の細部には伝承による部分があり、具体的な開催日程や巡行内容は年によって変わることがあります。本記事は主要な伝えと一般的な特徴を概観したものであり、訪問の際は必ず最新の公式情報をご確認ください。','## Overview
+2. **国の重要無形民俗文化財**：1997年（平成9年）12月15日指定。指定名称は「土崎神明社祭の曳山行事」で、保護団体は土崎神明社奉賛会[online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/244778)。
 
-The Float Events of the Tsuchizaki Shinmei Shrine Festival (Tsuchizaki Shinmeisha-sai no Hikiyama Gyōji) is the annual festival of Tsuchizaki Shinmei Shrine in the Tsuchizaki district of Akita City, Akita Prefecture, held on July 20 and 21 each year. Locally also called the "Tsuchizaki Minato Hikiyama Matsuri," it is one of the representative summer festivals of Akita, in which valiant floats (hikiyama) parade through the port town. In 2016, the "Float Events of the Tsuchizaki Shinmei Shrine Festival" were inscribed on the UNESCO Intangible Cultural Heritage list as one of 33 float festivals across Japan.
+3. **カスベ祭り・浴衣祭りの異名**：カスベ（エイの干物）を食べる風習から「カスベ祭り」、昭和に入り町内ごとに浴衣を統一する習慣が広がったことから「浴衣祭り」とも呼ばれる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
-The floats created by each neighborhood district are characterized by valiant "doll decorations" adorned with warrior figures and the like on the front, and by a decoration called the "mikaeshi" on the back that satirizes and reflects the affairs of the day, and they parade through the town to distinctive festival music.
+4. **ふれあい曳山**：観光客が曳山を曳く体験ができる催しで、平成初期に暴対法で夜店が減少したことを受け、旭町二区町内会が夕方からの運行を始めたのが起源。現在は港振興会などが主催し、本町通りなどで参加無料で実施される[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
-## History and Origins
+5. **港ばやしのCD**：港和会の演奏による音楽CDが1997年に発売され、2023年現在も細川レコードより販売されている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
-The Float Events of the Tsuchizaki Shinmei Shrine Festival is an observance that has been handed down from ancient times as the annual festival of Tsuchizaki Shinmei Shrine. Tsuchizaki, located at the mouth of the Omono River, has long flourished as a port town and a key point of distribution, and it was also known as a port of call for the kitamaebune (northern-bound cargo ships). Against the backdrop of such port-town prosperity, the float events are said to have developed into a grand festival held by the whole town.
+6. **曳山の解体と神事**：祭りが終わった翌22日には曳山が速やかに解体される。曳山は「神様が降臨し宿る所」とされ、怨霊や悪霊を封じ込めて解体することで町から災いを追い払うという信仰に基づく。この一連の流れ（製作→運行→解体）そのものが曳山行事の本質とされている[tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
 
-The floats are given elaborately devised decorations by each neighborhood district. They are characterized by valiant warrior figures and the like on the front, and on the "mikaeshi" on the back, themes reflecting the events and affairs of that year are displayed—and enjoying these is one of the true delights of this festival. The history in which local people came together to craft the floats, with each district competing in tradition and spirit, was recognized by the world in the form of inscription on the UNESCO Intangible Cultural Heritage list. Note that the origins and the details of its history partly rely on tradition, and this provides an overview based on the principal traditions.
+7. **全国山・鉾・屋台保存連合会総会**：2010年（平成22年）9月12日、土崎大会が開催され、10台の曳山が奉納された。この際、電線撤去工事が完了した土崎神明社・土崎駅付近の道路で、高さ15メートルの「復元曳山」が披露された[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。
+
+8. **安全面の注意**：曳山は重量が大きく、戻り曳山では曳子があざを作ることも珍しくない。1988年（昭和63年）には見物していた中学生が曳山と電柱の間に挟まれて死亡する事故が発生しており、見物客は安全な距離を保つことが求められる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B)。','## Overview
+
+The Tsuchizaki Shinto Shrine Festival Hikiyama Event is a traditional festival held in the Tsuchizaki Port area of Akita City, taking place annually on July 20 and 21. This event is the annual festival of Tsuchizaki Shinto Shrine, where each neighborhood association dedicates a hikiyama (float) that parades through the town. It was designated as an Important Intangible Folk Cultural Property of Japan on December 15, 1997. Furthermore, on November 30, 2016, at the 11th session of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage held in Addis Ababa, Ethiopia, it was registered as part of UNESCO''s Intangible Cultural Heritage under the collective designation "Yama, Hoko, Yatai, float festivals in Japan" [city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html).
+
+The hikiyama are rebuilt every year, and the number of floats dedicated varies annually, but in recent years approximately 20 or more have been operated. In 2023 (Reiwa 5), a post-war record of 26 neighborhoods dedicated hikiyama, marking the highest number in a decade since 2013 [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B). The floats are accompanied by "Minato Bayashi" music, counted among the three great festival music styles of Akita Prefecture, captivating spectators with valiant warrior dolls and satirical "mikaeshi" placards.
+
+## History and Origin
+
+The exact origins of the Tsuchizaki Shinto Shrine Festival Hikiyama Event are not fully documented, but a record from 1789 (Kansei 1) by Tsumura Sōan in his work "Yuki no Furu Michi" describes the festival. The text states that "accompanied by gongs, drums, flutes, and shamisen, as many as forty floats were paraded, making it extremely lively," suggesting that the festival had already taken its current form before this time [tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B). Additionally, records can be found in "Akita Kirei" by Hitomi Shōu from 1804 (Bunka 1) and "Uon Onko Shi" by Kondō Genpachi from the Meiji period.
+
+During the Edo and Meiji periods, neighborhoods fiercely competed over the height of their hikiyama. In 1878 (Meiji 11), British traveler Isabella Bird visited Tsuchizaki and recorded in her book "Unbeaten Tracks in Japan" that the floats were "nearly 50 feet high" [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B). In the early Meiji era, floats exceeding seven jo (approximately 21 meters) appeared, requiring ropes to be stretched from side alleys to prevent them from toppling. However, after electric wires were installed around 1900 (Meiji 33), the height had to be restricted to the current limit of 4.7 meters for operational safety.
+
+The festival date was fixed to July 20 and 21 on the solar calendar during the Meiji period. Previously, it was held on June 15 of the lunar calendar, showing how the schedule has changed over time. In 2021 (Reiwa 3), the hikiyama event was canceled for two consecutive years due to the COVID-19 pandemic, although the Shinto rituals and procession of the portable shrine were still conducted. In 2022 (Reiwa 4), the event was held after a three-year hiatus under COVID-19 guidelines, and in 2023, with the reclassification of COVID-19 to Category 5, the festival returned to its full normal scale [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+The festival music, "Minato Bayashi," is believed to have similarities with "Tenjin Bayashi" from Hitachiota City in Ibaraki Prefecture, which was the domain of the Satake clan before their relocation to Akita. However, the exact circumstances of its transmission remain unclear, and it is thought that the current form emerged through a fusion with pre-existing local music [tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
 
 ## Highlights
 
-### The Procession of Valiant Floats
-The greatest highlight of the Tsuchizaki Shinmei Shrine Festival is the procession of the floats created by each neighborhood district. The sight of large floats adorned with warrior figures parading through the port town in time with distinctive festival music is full of power. There is the pleasure of seeing multiple floats process in a line, and of comparing the workmanship of the decorations over which each district has competed in skill.
+**Dual Structure of Go and Ju in Hikiyama Construction**
+The hikiyama has a dual structure: the front (go) and the back (ju). On the front, a pair of male and female rocks (meoto-iwa) are placed, with a battlefield scene created in front of them, decorated with powerful warrior dolls representing historical figures. This structure embodies both sacredness and artistic expression, creating a spectacular sight that overwhelms spectators [city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html).
 
-### The Satire of the "Mikaeshi"
-The "mikaeshi" displayed on the back of the floats is a feature unique to this festival. Themes that satirize and reflect the affairs and events of the year are displayed, delighting people along with witty words. The contrast with the valiant doll decorations on the front is also one of the great pleasures of viewing the floats.
+**Mikaeshi Satirical Placards and Comical Dolls**
+On the back, a tower for the musicians is built, and above it, comical dolls are displayed alongside "mikaeshi" placards that boldly satirize politics, economics, society, and culture in 7-5 syllable meter. A "Mikaeshi Contest" is held prior to the festival, awarding one grand prize and two excellence awards, with winning placards displayed alongside the regular ones. This satirical tradition provides fresh topics each year, attracting repeat visitors who come specifically to see the mikaeshi [city.akita.lg.jp](https://www.city.akita.lg.jp/kurashi/kyodo-chiiki/1005328/1004620/1009756/1004622.html).
 
-### Minato-bayashi and the Evening Procession
-What colors the festival is the "minato-bayashi," festival music with distinctive melodic turns. The festival music of flutes, drums, shamisen, and the like resounds through the port town and heightens the festival''s sense of exhilaration. At night, the floats sometimes process lit with lanterns, allowing visitors to enjoy a fantastical atmosphere different from that of daytime.
+**Otodashi (Call-and-Response) and Furibo Pole Technique**
+The hikiyama starts moving through a call-and-response called "otodoge" between the otodori (leader) and the hikiko (pullers). The otodori strikes a wooden clapper, and the hikiko respond with a "shimo-goe" (lower voice), creating a spectacular moment when the massive float begins to move in unison. The furibo (steering poles) are handled by four people per set, one on each of four rings, operating the float without steering wheels or brakes through skilled techniques. The otodori requires not only singing ability but also judgment skills for safe operation, making it a true artisan role [tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+**The Five Pieces of Minato Bayashi**
+Minato Bayashi consists of five pieces: "Yose Daiko," "Minato Bayashi," "Aiya Bushi," "Minato Ken Bayashi," and "Kasō Bayashi," each performed at different times and tempos. For example, "Aiya Bushi" is played during the return floats (modori yama), with its plaintive melody echoing through the night darkness. These pieces are counted among the "Three Great Festival Music Styles of Akita Prefecture" alongside "Hanawa Bayashi" and "Kazariyama Bayashi," and are preserved by the Tsuchizaki Port Bayashi Preservation Association (Kōwakai, Gōshōkai, Shibukikai, Wakanamikai) and Kyokuhōkai [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+**Illusory Scenery of Modori Yama (Return Floats)**
+At 8 PM, signaled by a "noroshi" (signal flare), the floats begin returning to their respective neighborhoods in order of higher vehicle numbers, an event called "modori yama," the highlight of the festival. The direction of travel reverses, and the front lanterns are lit, their red light floating in the night darkness. The pulling becomes more intense than during the daytime procession, with the hikiko shouting fiercely, and the floats sometimes running at considerable speed [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+**Dance and Entertainment**
+The dances performed alongside the hikiyama are divided into performance dances and circle dances in which children and many people participate. "Akita Ondo" is representative of the performance dances, performed by women from each neighborhood in colorful costumes. These dances have been held since ancient times to entertain spectators and remain an important floral element of the festival.
 
 ## Event Information and Access
 
-The Float Events of the Tsuchizaki Shinmei Shrine Festival is held over two days—July 20 and 21—each year. The venue is Tsuchizaki Shinmei Shrine in the Tsuchizaki district of Akita City and the surrounding area. Because the procession route and times of the floats and the schedule of the various rites may vary from year to year, it is advisable to check official information in advance when planning to attend.
+1. **Dates and Times**: Annually on July 20 (yoimiya, eve festival) and 21 (honsai, main festival). In 2026, the festival is scheduled for July 20 (Monday, national holiday) and 21 (Tuesday). On the 20th, floats depart from each neighborhood around 8 AM, and on the 21st, floats return to their neighborhoods after midnight [akita-apple.com](https://akita-apple.com/event/13306/).
 
-For access, the nearest station is "Tsuchizaki Station" on the JR Ōu Main Line, within walking distance of the venue area. It is relatively close to central Akita City as well and can be reached by public transportation. During the festival period, traffic restrictions and congestion are expected in the Tsuchizaki district, so using public transportation is recommended. Please confirm the latest schedule and transportation information through official announcements from Tsuchizaki Shinmei Shrine and Akita City.
+2. **Admission Fee**: Free. The floats parade on public roads, so viewing is possible from the roadside.
 
-## Nearby Attractions
+3. **Venue**: Tsuchizaki area, Akita City. The main street is Honcho-dori (one block east of National Route 7), centered around Tsuchizaki Shinto Shrine, a 3-minute walk from JR Tsuchizaki Station [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
 
-The venue, the Tsuchizaki district, is a historic port town opening at the mouth of the Omono River, retaining an atmosphere unique to a port town. Close to Akita Port, it is an area where one can also enjoy views of the sea and harbor. At facilities introducing the history of the float events and the festival, visitors can learn about its background.
+4. **Access**: Take JR Ou Main Line to Tsuchizaki Station, exit the west gate, and walk 3 minutes to Tsuchizaki Shinto Shrine. For those arriving by car from afar, parking is available at Michi-no-Eki Akita Port, the former Akita Port Station parking lot (opposite the ferry terminal), and the former Challenge Office Akita parking lot (behind Tsuchizaki Minato History Museum), with free shuttle buses running every 30 minutes [akita-apple.com](https://akita-apple.com/event/13306/).
 
-A short trip to central Akita City offers abundant highlights, such as Senshū Park (the ruins of Kubota Castle) and facilities introducing Akita''s traditional culture. Akita is also known as a region of fine rice and sake, and local cuisine such as kiritanpo and Inaniwa udon is appealing. Because many other festivals are held in summer, visitors can also enjoy it together with a tour of Tōhoku''s summer festivals.
+5. **Traffic Regulations**: Traffic restrictions are in place in the Tsuchizaki area on both festival days, lifted at midnight. On-street parking within the restricted area is prohibited. For modori yama operating outside the restricted zone, police officers (in patrol cars) may accompany the floats [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+6. **Confirmation of Latest Information**: Check the official Tsuchizaki Hikiyama Festival website (https://tutizaki-hikiyama.com/) or Akita City''s official site before the event for any cancellations, postponements, or detailed schedules. Content may change due to weather or social circumstances. For inquiries, contact Tsuchizaki Shinmeisha Shrine (TEL 018-845-2264).
+
+## Surrounding Area Information
+
+Around JR Tsuchizaki Station, the center of the Tsuchizaki Port Hikiyama Festival, there are several facilities where visitors can learn more about the festival''s history. Tsuchizaki Shinto Shrine itself is the stage for the hikiyama event, where floats perform "Gosha Mairi" (shrine visits). After the shrine renovation in 2006, which raised the torii gate, floats can now pass through the gate into the shrine grounds. Since gosha mairi is often scheduled during the lunch break, visitors near the station during this time can see multiple floats.
+
+Port Tower Selion (Michi-no-Eki Akita Port) is about a 10-minute walk from Tsuchizaki Station and serves as the departure point for free shuttle buses during the festival. Selion offers views of the port town landscape and has parking facilities, making it ideal as a base for visitors arriving by car. The Tsuchizaki Minato History Museum displays materials and exhibits about the hikiyama event, allowing visitors to learn about the festival''s background.
+
+During the festival, local food culture is also a major attraction. Families prepare a dish of dried ray (cartilaginous fish with a flat body and long tail) simmered in soy sauce, leading to the festival''s nickname "Kasube Matsuri." This dish, called "kasube," comes from the practice of reconstituting dried ray (gangiei, known locally as kasube) and simmering it sweet-spicily with soy sauce, born from the wisdom of a port town during a season when preserved food was scarce. As the festival approaches, local supermarkets stock large quantities of "hikikasube" (dried ray), and housewives compete in their cooking skills.
 
 ## Related Information
 
-The Float Events of the Tsuchizaki Shinmei Shrine Festival was inscribed on the UNESCO Intangible Cultural Heritage list in 2016 as one of the float festivals, and it is also designated an Important Intangible Folk Cultural Property of Japan. It is one of Akita''s representative summer festivals, conveying the history of the port town of Tsuchizaki and the spirit of its people to the present day.
+1. **UNESCO Intangible Cultural Heritage Registration**: Registered on November 30, 2016, as a component of "Yama, Hoko, Yatai, float festivals in Japan," which includes 33 float festivals from across Japan [online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/244778).
 
-Please note that the origins and the details of its history partly rely on tradition, and the specific dates and procession content may change from year to year. This article provides an overview of the principal traditions and general features, and visitors are asked to be sure to check the latest official information before visiting.','tsuchizaki-shinmei-sha-matsuri','tsuchizaki-shinmei-sha-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+2. **National Important Intangible Folk Cultural Property**: Designated on December 15, 1997. The official name is "Tsuchizaki Shinto Shrine Festival Hikiyama Event," and the preservation body is the Tsuchizaki Shinto Shrine Hōsankai [online.bunka.go.jp](https://online.bunka.go.jp/index.php/heritages/detail/244778).
+
+3. **Nicknames Kasube Matsuri and Yukata Matsuri**: Called "Kasube Matsuri" from the custom of eating kasube (dried ray), and "Yukata Matsuri" from the Showa-era practice of neighborhoods coordinating yukata (summer kimono) designs [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+4. **Fureai Hikiyama (Interaction Floats)**: A hands-on experience where tourists can pull a hikiyama, originating from an initiative by the Asahimachi 2-chome neighborhood association to maintain evening crowds after the Anti-Boryokudan Law reduced night stalls in the early Heisei period. Currently organized by the Minato Shinkōkai and others, it is held on Honcho-dori and Chuo-dori at no charge [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+5. **CD of Minato Bayashi**: A music CD featuring performances by the Kōwakai was released in 1997 and continues to be sold by Hosokawa Records as of 2023 [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+6. **Dismantling of Hikiyama and Religious Significance**: The hikiyama are dismantled on the morning of the 22nd, the day after the festival ends. The floats are considered "places where gods descend and dwell," and the belief is that malevolent spirits and evil forces are sealed inside the hikiyama and driven away through dismantling. This entire cycle (construction, operation, dismantling) is regarded as the essence of the hikiyama event [tsuchizakishinnmeisha.or.jp](https://tsuchizakishinnmeisha.or.jp/%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+7. **National Yama Hoko Yatai Preservation Federation Conference**: The Tsuchizaki Conference was held on September 12, 2010, with ten hikiyama dedicated. On this occasion, a 15-meter "reconstructed hikiyama" was exhibited on the road near Tsuchizaki Shinto Shrine and Tsuchizaki Station, where overhead wires had been removed [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).
+
+8. **Safety Precautions**: The hikiyama are extremely heavy, and hikiko often sustain bruises during modori yama. In 1988 (Showa 63), a local junior high school student watching the festival was caught between a hikiyama and a utility pole and died. Spectators are advised to maintain a safe distance [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B).','tsuchizaki-shinmei-sha-matsuri','tsuchizaki-shinmei-sha-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11642807','那覇まつり','Naha Great Tug-of-War Festival',NULL,'cultural event in Okinawa Prefecture, Japan',NULL,NULL,NULL,'沖縄県','okinawa',NULL,NULL,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Rope%20001.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%A4%A7%E7%B6%B1%E6%8C%BD%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival',80,'drafted','## 概要
 
 那覇大綱挽まつりは、沖縄県那覇市で毎年10月の体育の日前後3日間に開催される秋の大型行事です。那覇市の三大祭りの一つに数えられ、メインイベントである「那覇大綱挽」はギネスブックに「世界一のわら綱」として3回認定された記録を持ちます[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。祭り期間中は国際通りでの旗頭行列や国道58号線での大綱挽のほか、奥武山総合運動公園でRBC市民フェスティバルが同時開催され、3日間でのべ約28万5000人の観客が集まります[naha-otsunahiki.org](https://www.naha-otsunahiki.org/festival.php)。
