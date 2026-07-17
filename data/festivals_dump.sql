@@ -6398,105 +6398,129 @@ INSERT INTO "festivals" VALUES('Q11275931','はんだ山車まつり',NULL,NULL,
 INSERT INTO "festivals" VALUES('Q11278128','まいづる細川幽斎田辺城まつり',NULL,NULL,NULL,NULL,NULL,NULL,'和歌山県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A5%E3%82%8B%E7%B4%B0%E5%B7%9D%E5%B9%BD%E6%96%8E%E7%94%B0%E8%BE%BA%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11278129','まいづる魚まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A5%E3%82%8B%E9%AD%9A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11278373','まち遊びフェスティバル',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E9%81%8A%E3%81%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11265785','ぐず焼き祭り','Guzuyaki Festival','石川県加賀市動橋町で毎年8月27日、28日、29日に行われる祭り。','festival in Iburihashi, Kaga city, Ishikawa prefecture, Japan in 27th, 28th, and 29th August each year',NULL,NULL,NULL,'石川県','hokuriku',36.325416666,136.388638888,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Guzu%20going%20round%20the%20fire%204.jpg','https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%84%BC%E3%81%8D%E7%A5%AD%E3%82%8A',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11265785','ぐず焼き祭り','Guzuyaki Festival','石川県加賀市動橋町で毎年8月27日、28日、29日に行われる祭り。','festival in Iburihashi, Kaga city, Ishikawa prefecture, Japan in 27th, 28th, and 29th August each year',NULL,NULL,NULL,'石川県','hokuriku',36.325416666,136.388638888,NULL,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Guzu%20going%20round%20the%20fire%204.jpg','https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%84%BC%E3%81%8D%E7%A5%AD%E3%82%8A',NULL,95,'drafted','## 概要
 
-ぐず焼き祭りは、富山県魚津市で毎年8月に開催される、夏の終わりを告げる伝統的な民俗行事です。「ぐず」と呼ばれる魚(ハゼ科の魚の地方名)を模した竹と藁の巨大な張り子を市内で曳き回し、最後に焼き払うという、北陸地方独自の火の祭りです。
+「ぐず焼き祭り」は、石川県加賀市動橋町の振橋神社を中心に開催される伝統的な夏祭りである。開催期間は例年8月下旬の土曜日・日曜日の2日間で、2026年は8月29日（土）と30日（日）に予定されている[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。この祭りは、巨大な魚の張り子「グズ」を町中で練り回した後、神社の境内で焼き払うという独特の行事で知られており、「動橋の奇祭」とも呼ばれている。
 
-魚津漁港と諏訪神社を中心に展開される祭りは、漁業の安全と豊漁を祈願する地域信仰と、夏の災厄を火によって祓い清める日本古来の精霊送り信仰が結びついた独特の形式を持っています。地元住民と漁業従事者にとっては、ふるさとの夏の終わりを彩る欠かせない行事として親しまれています。
+祭りの起源は、古くから行われていた「屑焼き祭り」にさかのぼる。現在では、五穀豊穣と厄災避けを祈願する意味合いを持ち、青年会を中心に地域全体で支えられている。白足袋姿の若衆が掛け声とともに巨大グズを担ぐ姿は、夏の終わりを告げる風物詩として地元住民や観光客に親しまれている[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)。
 
-## 歴史と由来
+## 歴史・由来
 
-ぐず焼き祭りの起源は、魚津の漁業文化と密接に結びついた地域信仰に遡ります。富山湾は古くから豊かな漁場として知られ、特に夏のハゼ漁・キス漁は地域経済を支える重要な営みでした。漁業従事者たちは、海への感謝と航海安全を願う一方で、夏の盛りに発生する疫病や災厄を「ぐず」に託して焼き払うという信仰行為を続けてきました。
+「ぐず焼き祭り」の起源は、大正時代末期までさかのぼる。当時は「屑焼き祭り」と呼ばれ、かがり火を焚くことが中心的な行事だった。しかし、かがり火の火が大きくなりすぎたため、昭和2年（1927年）に消防署から「かがり火」の禁止命令が出された[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
 
-「ぐず」という呼称は、富山湾沿岸でハゼ科の魚を指す方言です。この魚を模した張り子を作り、町内を練り歩いた後に火にかけて焼き払う行為は、稲作地帯の「虫送り」や「精霊送り」と類似する原理を持ち、共同体の災厄を象徴的な対象物に転移させて浄化する民俗的儀礼として位置づけられます。
+かがり火を禁止された村の若者たちは、祭りが寂しくなることを憂い、話し合いを重ねた。その結果、屑を燃やす代わりに「グズ」と呼ばれる魚の張り子を作り、それを担いで練り歩くというアイデアが生まれた。こうして昭和3年（1928年）に第一号のグズが作られ、現在の「ぐず焼きまつり」の基礎が形作られた[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
 
-現在では、地元の自治会・商店街・漁業関係者が連携して実行委員会を組織し、伝統行事を守りつつ観光客にも開かれた地域の夏祭りとして毎年継承されています。
+「グズ」とは、ドンコ（ハゼの一種で純淡水生の魚）を指す方言である[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。言い伝えによれば、昔、神社の古池に棲む巨大なグズが夏の夜に現れ、村を荒らし回っていたという。困り果てた村人たちの前に現れた神様が巨大グズを退治したことで、村に平和が戻り、五穀豊穣がもたらされたと伝えられている[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)。この伝承に基づき、グズを焼き払うことで厄災を避け、豊作を祈願するようになった。
+
+1993年には、このユニークな祭りが海外でも注目され、シンガポールのチンゲイ・パレードに参加した[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。海外での披露は、動橋町の祭りが国際的に認知されるきっかけとなった。また、2020年8月には、担ぎ手の減少が懸念される中で、祭りの歴史をまとめた冊子「ぐずやきまつりのすべて」が地元住民の手で発刊され、後世への記録と継承が図られている[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
 
 ## 見どころ
 
-**「ぐず」の張り子作りと町内巡行**
-祭りの数日前から、地元の有志が竹と藁で「ぐず」の張り子を制作します。全長数メートルにも及ぶ巨大な魚の張り子が、太鼓と笛の囃子に合わせて市内を巡行する光景は、北陸の港町ならではの素朴で力強い情景です。
+**巨大グズの制作工程**
+青年会のメンバーは祭りの約1ヶ月前からグズの制作に取りかかる。設計図を書き、木材や竹を購入して骨格となる型を作り、布を貼って着色するという工程を経る[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。近年のグズは長さ13メートルにも達し、経費は約30万円かかる大掛かりなものとなっている。制作と並行して、笛や太鼓、獅子舞の練習も行われる。
 
-**諏訪神社での神事**
-祭りの中心となる諏訪神社では、神職による厳かな神事が執り行われ、漁業安全と豊漁が祈願されます。地域信仰の核として、世代を超えて受け継がれる神聖な場面です。
+**白足袋姿の若衆による練り歩き**
+夕方になると、白足袋姿の約50～60人の若衆や少年たちがグズを担ぎ、「ワッショイ」という掛け声をかけながら宿場町を練り歩く[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。この白足袋姿は、祭りの伝統的な装束であり、格式と神聖さを感じさせる。動橋駅前に集結した3基のグズが乱舞する様子は、夏の夕暮れに力強く迫力満点である。
 
-**「ぐず」焚き上げ**
-祭りのクライマックスは、町内を巡行した「ぐず」の張り子を広場で焼き払う儀式です。炎の中に消えていく魚の姿は、夏の災厄や穢れを共同体から送り出す象徴であり、参加者は手を合わせて祭りの終わりを見届けます。
+**動橋駅前でのグズ乱舞**
+3基の巨大グズが動橋駅前に集結し、互いに競い合うように乱舞を繰り広げる。若衆たちの息の合った動きと掛け声が、見物客を圧倒する。この乱舞は、グズが生きているかのような躍動感を生み出し、祭りの最大の見せ場の一つとなっている[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
 
-**地元グルメと夜店**
-祭り会場周辺では、富山湾の海の幸を活かした地元グルメや夜店が出店し、地域住民と観光客が交流する賑やかな祝祭空間が形成されます。
+**振橋神社でのグズ焼き払い**
+練り歩きを終えたグズは、振橋神社の境内に運ばれ、若者たちの手で焼き払われる。高く燃え上がる炎は、厄災を焼き尽くす力強い象徴である。炎の熱気と轟音が境内を包み込み、祭りのクライマックスを演出する[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
 
-## 開催情報
+**振橋節の輪踊り**
+グズを焼いた炎が燃えさかる神社の境内で、振橋節の輪踊りが夜遅くまで続く。地元の住民や観光客が一体となって輪になり、伝統の音頭に合わせて踊る[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。この輪踊りは、祭りの興奮を静かに鎮め、共同体の結束を確認する場ともなっている。
 
-- **開催地**: 富山県魚津市内および諏訪神社周辺
-- **開催時期**: 毎年8月(具体的な日程は年により異なる)
-- **アクセス**: あいの風とやま鉄道「魚津駅」から徒歩約10分。北陸自動車道「魚津IC」から車で約10分
-- **観覧料**: 無料
-- **公式情報**: [魚津市観光案内サイト](https://uozu-kanko.jp/)
+**獅子舞とその他の催し**
+祭り期間中は、グズの練り歩き以外にも獅子舞や宝探し、縁日など多くの行事が催される[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)。獅子舞は、地域の伝統芸能として古くから受け継がれており、厄除けや無病息災を願う意味が込められている。これらの多様な催しが、祭り全体の賑わいを一層引き立てる。
 
-## 周辺の見どころ
+## 開催情報・アクセス
 
-魚津市は富山湾の中央に位置し、「蜃気楼」「ホタルイカ」「埋没林」の3つの神秘として知られる観光資源を持ちます。魚津埋没林博物館では、約2,000年前の杉の原生林が海中から発掘された世界的にも珍しい遺構を見学でき、魚津水族館では富山湾の多様な海洋生物を観察できます。
+1. **開催日**: 例年8月下旬の土曜日・日曜日の2日間。2026年は8月29日（土）・30日（日）開催予定。最新の開催日程・実施可否は公式サイトで確認すること[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
+2. **開催時間**: グズ練り回しは1日目の17時頃から21時頃まで（駅前イベントは19時頃から）。2日目も同様のスケジュールで行われる[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
+3. **会場**: 石川県加賀市動橋町 振橋神社および動橋駅周辺。メイン会場は振橋神社（〒922-0331 石川県加賀市動橋町ル180-1）[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
+4. **アクセス（公共交通機関）**: IRいしかわ鉄道「動橋駅」下車、徒歩約9分（約650m）。金沢駅からはIRいしかわ鉄道の普通列車で約60分、加賀温泉駅からは普通列車で3分（金沢方面へ1駅）[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
+5. **アクセス（車）**: 北陸自動車道「片山津IC」から約7.9km。ただし、駐車場は公式には用意されていないため、公共交通機関の利用が強く推奨される[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)[omatsuri.jhc-ritsumei.jp](https://omatsuri.jhc-ritsumei.jp/guzuyaki-festival/)。
+6. **お問い合わせ先**: ぐず焼きまつり実行委員会（動橋町民会館）電話番号0761-74-0715。最新情報は動橋町公式サイト（https://iburibashi.town）または石川県観光サイト「ほっと石川旅ねっと」で確認可能[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)。
 
-近隣の黒部市・宇奈月温泉までは車で30分圏内で、立山黒部アルペンルートの観光と組み合わせた周遊旅行が人気です。8月の魚津は富山湾の海風が心地よく、海産物と温泉、伝統行事を一度に楽しめる北陸観光の好シーズンです。
+## 周辺情報
+
+加賀市動橋町は、石川県の南西部に位置し、IRいしかわ鉄道の動橋駅が最寄り駅である。駅周辺には古くからの宿場町の面影を残す細長い町並みが広がっており、祭りの練り歩きコースとしても利用されている。近隣には片山津温泉があり、日本海を望む絶景の温泉街として知られている。祭りの前後に温泉宿に宿泊し、加賀の伝統文化を満喫するのもおすすめである[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)。
+
+加賀市全体としては、加賀温泉郷（山代温泉、山中温泉、片山津温泉）の玄関口として観光客に人気がある。また、国宝「白山神社」や重要文化財を有する「那谷寺」など歴史的な寺社も多く、観光資源が豊富である。祭りの時期は夏の終わりにあたり、地元の海産物や加賀野菜を使った料理も旬を迎える。動橋駅からは金沢方面へのアクセスも良好で、金沢市内の観光と組み合わせた旅行プランも立てやすい。
+
+一方で、動橋町周辺には大型の駐車場が少なく、祭り当日は交通規制も敷かれる可能性がある。公共交通機関での来場が推奨されており、特にIRいしかわ鉄道の利用が便利である。観光客向けの情報は、石川県の公式観光サイト「ほっと石川旅ねっと」で随時更新されているため、事前に確認することをおすすめする[omatsuri.jhc-ritsumei.jp](https://omatsuri.jhc-ritsumei.jp/guzuyaki-festival/)。
 
 ## 関連情報
 
-- 開催月: 8月(夏)
-- 都道府県: 富山県(北陸)
-- 起源: 漁業文化と精霊送り信仰の融合(具体的な始期は不詳)
-- 性格: 民俗行事・火祭り・漁業安全祈願
-- 関連: 諏訪神社の神事
-','## Overview
+1. **「ぐず」の語源と意味**: 「グズ」はドンコ（ハゼの一種）を指す方言で、転じて「怠け者」や「ぐずぐずする」という意味にも使われるが、祭りでは災厄の象徴としての巨大魚を指す[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+2. **担ぎ手の減少と継承の取り組み**: 2020年頃には担ぎ手が13人まで減少したが、OBや町出身者の応援によって維持されている。2020年には冊子「ぐずやきまつりのすべて」が発刊された[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+3. **「ギャルぐず」の存在**: 一時期、女性も一緒にグズを担ぐ「ギャルぐず」が存在した時期がある。男女共同参画の観点からも注目される試みであった[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+4. **海外進出**: 1993年にシンガポールのチンゲイ・パレードに参加し、海外でも披露された。日本の地方祭りが国際的に紹介された貴重な事例である[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+5. **屑焼き祭りからの発展**: 大正末期までは「屑焼き祭り」と呼ばれ、かがり火を焚く行事だったが、消防署の禁止命令をきっかけに現在の形へと発展した[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+6. **運営組織の構成**: 青年団、壮年団、婦人会、子供会、喜楽会、預金講、区長会、商工会など多くの組織が参加している。青年会が祭りの主役としてグズの制作や獅子舞の練習などを担っている[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A)。
+7. **公式情報源**: 動橋町公式サイト（https://iburibashi.town）、石川県観光サイト「ほっと石川旅ねっと」、ぐず焼きまつり実行委員会（電話0761-74-0715）が一次情報源として信頼できる。SNSでは動橋青年会公式Instagramも情報発信を行っている[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)。','## Overview
 
-The Guzuyaki Festival (Guzu-yaki Matsuri) is a traditional folk event marking the end of summer, held annually in August in Uozu City, Toyama Prefecture. A giant effigy of a fish called "guzu" (a regional name for goby-family fish) made of bamboo and straw is paraded through the city before being ceremonially burned at the festival''s climax, making it a distinctive fire festival unique to the Hokuriku region.
+The Guzuyaki Festival is a traditional summer festival held in Ishikawa Prefecture, centered around Furibashi Shrine in Ugurashi-cho, Kaga City. The festival typically takes place on a Saturday and Sunday in late August, with the 2026 edition scheduled for August 29 (Saturday) and 30 (Sunday)[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). This festival is known for its unique ritual of parading a giant papier-mache fish called "Guzu" through the town and then burning it within the shrine grounds, earning it the nickname "the strange festival of Ugurashi."
 
-Centered on Uozu Fishing Port and Suwa Shrine, the festival uniquely combines local beliefs praying for fishing safety and bountiful catches with the ancient Japanese tradition of spirit-sending, which purifies summer misfortunes through fire. For local residents and fishermen, it remains an indispensable event coloring the end of summer in their hometown.
+The origins of the festival can be traced back to the ancient "Kuzuyaki Festival" (rubbish burning festival)[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A). Today, the festival carries the meaning of praying for a bountiful harvest and warding off misfortune, supported by the entire community led by the youth association. The sight of young men in white tabi socks carrying the giant Guzu with shouts of encouragement is a beloved seasonal feature that marks the end of summer for local residents and tourists alike[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/).
 
 ## History and Origins
 
-The origins of the Guzuyaki Festival trace back to local beliefs intimately tied to Uozu''s fishing culture. Toyama Bay has long been renowned as a rich fishing ground, with summer goby and sillago fisheries supporting the regional economy. Fishermen expressed gratitude to the sea and prayed for navigational safety while also continuing the ritual practice of burning a "guzu" effigy to ward off plagues and misfortunes that arise during the height of summer.
+The history of the Guzuyaki Festival dates back to the late Taisho era (early 1920s). At that time, the festival was called the "Kuzuyaki Festival" (rubbish burning festival) and centered around a large bonfire. However, the bonfire grew too large, leading to a ban by the fire department in Showa 2 (1927)[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
 
-The term "guzu" is a dialect word along the Toyama Bay coast referring to goby-family fish. Crafting an effigy of this fish, parading it through neighborhoods, and then burning it follows the same logic as the "insect-sending" and "spirit-sending" rituals of rice-cultivating regions. It functions as a folk ritual transferring communal misfortunes onto a symbolic object for purification.
+The village youth, worried that the festival would become too plain without the bonfire, gathered to discuss alternatives. After discussion, they came up with the idea of creating a large papier-mache fish called "Guzu" and parading it through the town instead of burning rubbish. Thus, the first Guzu was created in Showa 3 (1928), forming the basis of the current Guzuyaki Festival[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
 
-Today, local neighborhood associations, merchants'' associations, and fishing industry stakeholders cooperate to organize an executive committee that preserves the traditional event while opening it to tourists as an annual summer festival of the region.
+"Guzu" is a local dialect word for donko, a type of freshwater goby fish[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). According to legend, a giant Guzu living in the shrine''s ancient pond would appear on summer nights and devastate the village. A god appeared before the troubled villagers and defeated the giant Guzu, bringing peace to the village and ensuring a bountiful harvest[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/). Based on this tradition, burning the Guzu symbolizes warding off misfortune and praying for abundant crops.
+
+In 1993, this unique festival attracted international attention and participated in Singapore''s Chingay Parade[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A). This overseas performance helped raise the international profile of the Ugurashi town festival. In August 2020, amid concerns about a decline in participants, local residents published a booklet titled "All About the Guzuyaki Festival" to document and preserve the festival''s history for future generations[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
 
 ## Highlights
 
-**Crafting and Procession of the "Guzu" Effigy**
-For several days before the festival, local volunteers craft the "guzu" effigy from bamboo and straw. The sight of a giant fish effigy several meters long parading through the city to the rhythm of drums and flutes is a rustic and powerful scene unique to a Hokuriku port town.
+**The Giant Guzu Manufacturing Process**
+Members of the youth association begin making the Guzu approximately one month before the festival. The process involves drawing design plans, purchasing wood and bamboo, creating the skeletal framework, applying cloth, and painting[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A). In recent years, the Guzu has reached a length of 13 meters, with production costs of approximately 300,000 yen. Alongside the manufacturing, members practice flute, drum, and lion dance performances.
 
-**Suwa Shrine Ritual**
-At Suwa Shrine, the festival''s spiritual core, Shinto priests conduct solemn rituals praying for fishing safety and bountiful catches. As the heart of local belief, it represents a sacred moment passed down across generations.
+**Parade by Young Men in White Tabi Socks**
+As evening falls, about 50 to 60 young men and boys dressed in white tabi socks carry the Guzu while shouting "Wasshoi" as they parade through the old post town[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). This white tabi attire is a traditional festival costume that conveys formality and sanctity. The sight of three Guzu units converging at Ugurashi Station and performing a wild dance is powerful and impressive against the summer evening sky.
 
-**Burning of the "Guzu"**
-The climax is the ceremony of burning the "guzu" effigy in an open square after its procession through town. The fish disappearing into the flames symbolizes the communal sending-off of summer misfortunes and impurities. Participants press their palms together to witness the festival''s conclusion.
+**Guzu Wild Dance at Ugurashi Station**
+The three giant Guzu units gather at Ugurashi Station and perform a competitive wild dance. The synchronized movements and shouts of the young men overwhelm the spectators[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). This wild dance creates a sense of vitality as if the Guzu were alive, making it one of the festival''s most spectacular highlights.
 
-**Local Cuisine and Night Stalls**
-Around the festival grounds, food stalls offering local cuisine made with seafood from Toyama Bay create a lively festive space where residents and tourists interact.
+**Burning of the Guzu at Furibashi Shrine**
+After the parade, the Guzu are brought to the grounds of Furibashi Shrine and burned by the youth. The towering flames are a powerful symbol of burning away misfortune[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). The heat and roar of the flames envelop the shrine grounds, creating the climax of the festival.
 
-## Event Information
+**Furibashi-bushi Circle Dance**
+After the Guzu are burned, a circle dance to the tune of Furibashi-bushi continues late into the night on the shrine grounds. Local residents and tourists join hands in a circle and dance to the traditional rhythm[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html). This circle dance serves to calm the excitement of the festival and reaffirm community bonds.
 
-- **Location**: Within Uozu City and around Suwa Shrine, Toyama Prefecture
-- **Period**: Annually in August (specific dates vary by year)
-- **Access**: Approximately 10 minutes on foot from Uozu Station (Ainokaze Toyama Railway). Approximately 10 minutes by car from the Uozu IC on the Hokuriku Expressway
-- **Admission**: Free
-- **Official Information**: [Uozu City Tourism Guide](https://uozu-kanko.jp/)
+**Lion Dance and Other Events**
+In addition to the Guzu parade, the festival period features a lion dance, treasure hunt, and street stalls[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/). The lion dance is a traditional performing art that has been passed down in the region, carrying meanings of warding off evil and praying for good health and safety. These diverse events enhance the overall vibrancy of the festival.
 
-## Nearby Attractions
+## Event Information and Access
 
-Uozu City lies at the center of Toyama Bay and is known for its three mysteries: mirages (shinkiro), firefly squid (hotaruika), and submerged forest (maibotsurin). The Uozu Buried Forest Museum exhibits a world-rare archaeological site where a 2,000-year-old cedar forest was excavated from the sea, while the Uozu Aquarium offers observation of the diverse marine life of Toyama Bay.
+1. **Dates**: Usually held on a Saturday and Sunday in late August. The 2026 event is scheduled for August 29 (Saturday) and 30 (Sunday). Please check the official website for the latest schedule and confirmation of the event[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html).
+2. **Time**: The Guzu parade runs from approximately 5:00 PM to 9:00 PM on the first day (station event from around 7:00 PM). A similar schedule is followed on the second day[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html).
+3. **Venue**: Furibashi Shrine and the area around Ugurashi Station, Ugurashi-cho, Kaga City, Ishikawa Prefecture. Main venue: Furibashi Shrine (180-1 Ugurashi-cho Ru, Kaga City, Ishikawa Prefecture 922-0331)[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html).
+4. **Access (Public Transport)**: Get off at "Ugurashi Station" on the IR Ishikawa Railway Line, then walk approximately 9 minutes (about 650 meters). From Kanazawa Station, take a local train on the IR Ishikawa Railway Line for about 60 minutes; from Kaga Onsen Station, it is a 3-minute local train ride (one stop toward Kanazawa)[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html).
+5. **Access (Car)**: Approximately 7.9 km from the "Katayamazu Interchange" on the Hokuriku Expressway. However, no official parking is available, so the use of public transportation is strongly recommended[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/)[omatsuri.jhc-ritsumei.jp](https://omatsuri.jhc-ritsumei.jp/guzuyaki-festival/).
+6. **Contact**: Guzuyaki Festival Executive Committee (Ugurashi Town Hall) Phone: 0761-74-0715. For the latest information, check the official Ugurashi town website (https://iburibashi.town) or the Ishikawa Prefecture tourism website "Hot Ishikawa Travel Net"[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/).
 
-Kurobe City and Unazuki Onsen lie within 30 minutes by car, making circuits combining the Tateyama Kurobe Alpine Route popular. August in Uozu brings pleasant sea breezes from Toyama Bay, offering an ideal Hokuriku tourism season to enjoy seafood, hot springs, and traditional events together.
+## Surrounding Area Information
+
+Ugurashi-cho in Kaga City is located in the southwestern part of Ishikawa Prefecture, with Ugurashi Station on the IR Ishikawa Railway Line as the nearest station. The area around the station features a long, narrow townscape that retains the atmosphere of an old post town, serving as the parade route for the festival. Nearby is the Katayamazu Onsen hot spring area, known for its scenic views of the Sea of Japan. Staying at a hot spring inn before or after the festival is a great way to fully enjoy Kaga''s traditional culture[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html).
+
+As a whole, Kaga City is popular with tourists as the gateway to the Kaga Onsen hot spring resorts (Yamashiro Onsen, Yamanaka Onsen, and Katayamazu Onsen). The area is also rich in historical temples and shrines, including the National Treasure "Shirayama Hime Shrine" and the Important Cultural Property "Nata-dera Temple." The festival season coincides with the end of summer, when local seafood and Kaga vegetables are in season. Access from Ugurashi Station to Kanazawa is good, making it easy to combine a visit to the festival with sightseeing in Kanazawa City.
+
+On the other hand, there are few large parking lots in the Ugurashi area, and traffic restrictions may be in place on the festival day. Visitors are encouraged to use public transportation, especially the IR Ishikawa Railway Line. Tourist information is regularly updated on the official Ishikawa Prefecture tourism website "Hot Ishikawa Travel Net," so it is advisable to check in advance[omatsuri.jhc-ritsumei.jp](https://omatsuri.jhc-ritsumei.jp/guzuyaki-festival/).
 
 ## Related Information
 
-- Season: August (Summer)
-- Prefecture: Toyama (Hokuriku Region)
-- Origin: Fusion of fishing culture and spirit-sending beliefs (specific origin date unknown)
-- Character: Folk event, fire festival, prayer for fishing safety
-- Related: Suwa Shrine rituals
-','guzuyaki-festival','guzuyaki-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+1. **Etymology and Meaning of "Guzu"**: "Guzu" is a dialect word for donko (a type of goby fish), and by extension, it also means "lazy person" or "to dawdle." In the festival, however, it refers to the giant fish symbolizing misfortune[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+2. **Decline in Participants and Preservation Efforts**: By around 2020, the number of carriers had decreased to 13, but the festival is maintained with support from alumni and former residents. In 2020, the booklet "All About the Guzuyaki Festival" was published[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+3. **"Gyaru Guzu" (Gal Guzu)**: For a period, a "Gyaru Guzu" existed where women also participated in carrying the Guzu. This was a notable initiative from the perspective of gender equality[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+4. **International Recognition**: In 1993, the festival participated in Singapore''s Chingay Parade, gaining international exposure. This is a valuable example of a local Japanese festival being introduced internationally[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+5. **Development from Kuzuyaki Festival**: Until the late Taisho era, the festival was called the "Kuzuyaki Festival" and involved a bonfire, but a fire department ban led to the development of the current format[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+6. **Organizational Structure**: Many organizations participate, including the youth group, senior group, women''s association, children''s association, Kiraku-kai, Yokin-ko, ward head association, and chamber of commerce. The youth association takes the lead in creating the Guzu and practicing lion dance performances[wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%87%BC%E3%81%8D%E7%A5%AD%E3%82%8A).
+7. **Official Information Sources**: The official website of Ugurashi town (https://iburibashi.town), the Ishikawa Prefecture tourism website "Hot Ishikawa Travel Net," and the Guzuyaki Festival Executive Committee (Phone: 0761-74-0715) are reliable primary sources. The Ugurashi Youth Association also provides information through its official Instagram account[hot-ishikawa.jp](https://www.hot-ishikawa.jp/event/detail_12022.html)[ishikawa-ouen.com](https://ishikawa-ouen.com/5473/).','guzuyaki-festival','guzuyaki-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11271139','たてもん祭り','Uozu Tatemon Festival','富山県魚津市の諏訪神社の夏季祭礼',NULL,'Q11631937','諏訪神社','Suwa Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Uozu-tatemon.jpg','https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%A6%E3%82%82%E3%82%93%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
 たてもん祭り（魚津のタテモン行事）は、富山県魚津市の諏訪神社の例祭として行われる勇壮な火祭りで、高さ約16メートルの大柱に九十余りの提灯を三角形につるし下げた「たてもん」を、若衆が威勢よく曳きまわす夏の夜の風物詩です。漁師町・魚津の氏子たちが、大漁と航海・操業の安全を祈願して奉納する行事で、車輪のないそり台に立てられた巨大な万燈が、無数の提灯の灯りを揺らしながら夜の街を進む光景は、豪快さと華麗さをあわせ持っています。
@@ -21653,11 +21677,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
