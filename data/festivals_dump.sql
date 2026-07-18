@@ -12569,51 +12569,155 @@ Hyuga City is a town facing the Hyuga-nada Sea in the northern part of Miyazaki 
 ## Related Information
 
 The Hyuga Hyottoko Summer Festival is a rare festival with a clear origin, having developed around a locally rooted dance said to have been devised by a single ophthalmologist based on kagura in the Meiji era. The course in which the region-specific "Nagata Hyottoko dance" has been carefully preserved and handed down while being raised into the star of a summer festival open to the whole country shows one ideal form of inheriting and newly developing regional culture. With its unique appeal that puts laughter and charm front and center rather than valor, as a summer festival that can bring smiles to everyone, from children to adults and from locals to visitors from afar, the Hyuga Hyottoko Summer Festival will continue to brighten the summers of Miyazaki for years to come.','hyuga-hyottoko-natsu-matsuri','hyuga-hyottoko-natsu-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 市島川裾まつりとは
+INSERT INTO "festivals" VALUES('Q113636826','市島川裾まつり','Ichijima Kawasuso Matsuri','兵庫県丹波市市島町市島で行われる川裾祭',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,NULL,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/20140729%20Ichijima-Kawasuso%20Matsuri%20%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E7%A5%AD%EF%BC%88%E4%B8%B9%E6%B3%A2%E5%B8%82%E5%B8%82%E5%B3%B6%E7%94%BA%EF%BC%89%E7%AB%B9%E7%94%B0%E5%B7%9DDSCF0507.JPG','https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## 概要
 
-市島川裾まつり（いちじまかわすそまつり）は、兵庫県丹波市市島町で毎年夏に行われる、竹田川の河畔を舞台とした祭りです。川の水にまつわる信仰「川裾祭」を起源とし、夏の夜空を彩る花火大会を中心に、地域の人々が川辺に集う、丹波市市島町の夏の風物詩として親しまれています。川面に映る花火の美しさが、夏のひとときに涼やかな彩りを添えます。
+市島川裾まつりは、兵庫県丹波市市島町の竹田川周辺で毎年7月下旬に開催される夏祭りである。竹田川は由良川の支流であり、市島大橋や柳橋周辺を主会場として、約500発の花火大会や万燈流しが行われる[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。この祭りは「川裾さん」や「かわっそさん」とも呼ばれ、丹波から但馬、北西播磨にかけて兵庫県内に広く分布する川裾祭りの一群に属する[Weblio辞書](https://www.weblio.jp/content/%E5%B7%9D%E8%A3%BE%E7%A5%AD)。市島町ではこの祭りを地域の夏の風物詩として定着させており、2026年で第42回を迎える[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。
 
-## 歴史と由来
+祭りは14時30分から21時30分までの長時間にわたって開催される[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。昼間からステージイベントや露店が並び、夕暮れから夜にかけて万燈流しと花火大会が行われるのが典型的な流れである。祭りの運営は「いちじま川裾まつり実行委員会」が主催し、丹波市観光協会も協力している[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。2026年の祭りは「新風」をテーマとし、新しく完成した愛育ピアいちじまと市島小学校の開校を記念して開催される[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。
 
-市島川裾まつりは、「川裾祭」と呼ばれる、川や水に感謝し、水難除けや無病息災を祈る古くからの民俗信仰に由来します。竹田川とともに暮らしてきた市島の人々が、夏の盛りに川辺で営んできた祭礼が、現在の祭りへと受け継がれてきました。水の恵みへの感謝と、夏を健やかに過ごすための祈りが込められた行事であり、地域に根づいた夏の伝統として続いています。
+市島川裾まつりは、丹波市内でも複数存在する川裾祭りの一つである。丹波市氷上町本郷の「元祖川裾祭り」、氷上町御油の「北御油川裾祭」、氷上町成松の「成松川裾まつり」なども同時期に開催される[Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A)。これらの祭りはすべて川の合流点や河川敷で執り行われ、共通して水の恵みに感謝し、災厄を川に流すという信仰に基づいている。
+
+## 歴史・由来
+
+市島川裾まつりの起源は、竹田川の恵みに感謝し、夏の疫病や婦人病などの災厄を川に流して清めるという民間信仰に遡る。神戸新聞の取材によれば、民俗学者の久下隆史氏（篠山市在住）は「民間行事だから、記録はあまり残らない」と指摘している[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。したがって、正確な創始年や発祥の詳細は文献として残っておらず、言い伝えに基づく部分が多い。
+
+川裾祭りは、本来は旧暦6月（水無月）末に行われる大祓の行事が時期として取り込まれたと考えられている[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。川の合流点は「祓いの力の高い禊ぎの場」とされ、人々は川の水で身を清め、災厄を流し去ることを願った。この信仰は丹波地方に限らず、兵庫県北部から但馬、北西播磨にかけて広く分布しており、地域ごとに「川裾」「川下」「川禊」「川濯」など様々な名称で呼ばれている。
+
+川裾祭りは佐治川や但馬の円山川・大屋川・岸田川沿いなど、丹波から但馬、北西播磨にかけて数多く行われており、地域ごとに神様の性格や作法に微妙な違いが見られる[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。
+
+市島町の川裾祭りでは、竹田川に架かる橋の欄干に祭壇を設け、カヤで屋根や壁を覆う形式が伝統的に行われてきた[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。一方、同じ丹波市内でも氷上町成松では葛野川の堤防に「川裾大明神」の碑が建てられ、祭日には幕を巡らせた神座を設ける。柏原町の柏原八幡宮では鳥居前の御手洗川に祭壇を置き、お供え物や御幣を載せた葦舟の下に河童の像を座らせるなど、同じ「川裾祭り」でも地域ごとに形態が異なる。
+
+丹波市では市島川裾まつりの他に、氷上町本郷の「元祖川裾祭り」、氷上町御油の「北御油川裾祭」、氷上町成松の「成松川裾まつり」などが存在する[Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A)。それぞれの祭りは由来や形態に微妙な差異があるが、共通するのは川の水で身を清め、疫病や災いを流すという禊ぎの精神である。このような多元的な分布は、丹波地方が古くから信仰の要衝であったことを示している。
 
 ## 見どころ
 
-最大の見どころは、竹田川の河畔で打ち上げられる花火大会です。夏の夜空に大輪の花火が咲き、その光が川面に映り込む幻想的な光景は、見る者を魅了します。川辺には露店が並び、浴衣姿の人々で賑わう、夏祭りならではの情緒あふれる雰囲気も魅力。山々に囲まれた丹波の地で、自然と一体となって楽しむ花火は格別で、地域の人々にとって夏の大切なひとときとなっています。
+**花火大会**
+市島川裾まつりのフィナーレを飾る花火大会は、午後8時から約30分間で約500発の花火が連続して打ち上げられる[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。打ち上げ場所は市島大橋周辺と柳橋周辺であり、竹田川の水面に映る花火が美しい。花火の中には「ナイアガラの滝」と呼ばれる仕掛け花火も含まれており、レーザーショーとのコラボレーションが行われる。この花火大会は祭りのクライマックスとして約1時間にわたって続き、例年19時30分から20時30分頃に実施される[のんびりゆったり淡路島ライフ](https://www.baisen-lc1a.jp/ichijimakawasusomatsuri/)。
 
-## 開催情報
+**万燈流し**
+竹田川の水面に無数の灯籠を流す万燈流しは、先祖への供養と無病息災を祈る伝統行事である[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。灯籠の明かりが川面をゆっくりと流れていく光景は、幻想的でありながらもどこか哀愁を帯びている。この行事は、川に災厄を流すという禊ぎの精神を現代に伝える重要な要素であり、参加者が自ら灯籠を流すことができる。万燈流しと花火大会が同時に行われることで、川面の灯りと夜空の花火が織りなす二重の美しさが生まれる。
 
-例年夏（7月)に、兵庫県丹波市市島町の竹田川河畔で開催されます。夏祭りであり、季節は夏。花火大会の日程や打ち上げ時間は年によって異なるため、丹波市および地元観光協会の公式発表で事前に確認することをおすすめします。荒天の場合は順延・中止となることがあります。
+**ステージイベント**
+祭りでは竹田川周辺の特設ステージで、地元の団体による様々なパフォーマンスが披露される[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。ダンスや音楽演奏、伝統芸能などがプログラムに組み込まれており、昼間から夕方まで観客を楽しませる。これらのステージは地域の子どもたちから大人までが参加する発表の場でもあり、コミュニティの結束を強める役割を果たしている。特に市島小学校の開校記念の年には、児童による特別なパフォーマンスが行われることもある。
 
-## アクセス
+**屋台・露店**
+会場周辺には多数の屋台や露店が立ち並び、焼きそば、たこ焼き、かき氷などの定番屋台グルメが楽しめる[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。地元の特産品を扱う店も出店し、丹波の食材を使った料理が味わえる。夜店の灯りが川沿いに連なる光景は、夏祭りの賑わいを象徴している。家族連れやカップルが屋台を巡りながら祭りを満喫する姿が、毎年見られる。
 
-会場の市島町へは、JR福知山線「市島駅」からアクセスできます。丹波市の北部、京都府福知山市との境に近い市島町に位置します。車の場合は舞鶴若狭自動車道などを利用できますが、開催当日は周辺で交通規制や混雑が予想されるため、公共交通機関の利用が便利です。
+**茅の輪くぐり（関連行事）**
+川裾祭りに関連して、市島大橋の上には茅の輪が設置されることがある[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。茅の輪をくぐることで、半年分の穢れを落とし、残り半年の無病息災を祈願する神事である。これは本来、夏越の大祓の行事に由来し、川裾祭りの精神と深く結びついている。訪れた人々が茅の輪をくぐることで、祭りの宗教的な側面を体験できる。
 
-## 周辺観光
+**「新風」テーマの年ごとの特色**
+2026年の祭りは「新しい風が吹き込む」という意味を込めた「新風」をテーマに開催される[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。新しく完成した愛育ピアいちじまと市島小学校の開校を記念して、例年とは異なる演出や企画が盛り込まれる。このように、毎年テーマが設定されることで、同じ祭りでも年ごとに異なる魅力が生まれる。地元の新しい施設の完成を祝う意味でも、特別な回となる。
 
-丹波市は、四方を山に囲まれた自然豊かな地で、丹波黒大豆や丹波栗、丹波松茸といった特産品で全国に知られています。市島町には円通寺をはじめとする紅葉の名所や、古刹・古社が点在し、丹波焼の里や黒井城跡などの史跡も楽しめます。丹波の山里ならではの食と自然、そして夏の花火を満喫できる、のどかな魅力にあふれたエリアです。','## What Is the Ichijima Kawasuso Matsuri?
+## 開催情報・アクセス
 
-The Ichijima Kawasuso Matsuri is a festival held each summer in the Ichijima district of Tamba, Hyōgo Prefecture, set on the banks of the Takeda River. Originating in the *kawasuso* rite of faith connected with river water, it centers on a fireworks display that colors the summer night sky, gathering local people along the riverside. It is cherished as a summer tradition of the Ichijima district of Tamba, where the beauty of the fireworks reflected on the river adds a cool touch to a summer moment.
+**開催日時**: 2026年7月26日(日) 14時30分～21時30分[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。例年は7月29日頃に開催されることが多いが、曜日調整により前後する[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。最新の日程は丹波市観光協会公式サイトで確認すること。
+
+**会場**: 兵庫県丹波市市島町市島、市島大橋周辺・柳橋周辺（竹田川河川敷）[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。
+
+**アクセス（鉄道）**: JR福知山線「市島駅」から徒歩約3分[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。駅から会場は至近距離であり、公共交通機関での来場が最も便利である。
+
+**アクセス（車）**: 舞鶴若狭自動車道「春日IC」から約10分[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。駐車場は近隣の臨時駐車場を利用するが、台数に限りがあるため早めの来場が推奨される。
+
+**雨天時対応**: 雨天決行だが、警報級の荒天の場合は中止となる[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。開催の可否は当日の天候により判断されるため、最新情報を確認すること。
+
+**お問い合わせ先**: いちじま川裾まつり実行委員会（電話: 0795-85-6007）または丹波市観光協会かすが観光案内所（電話: 0795-70-3501）[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。問い合わせの際は、祭り当日の混雑状況や駐車場情報も確認できる。
+
+## 周辺情報
+
+市島駅周辺はJR福知山線の駅を中心とした小規模な市街地であり、祭り会場へは徒歩でアクセスできる。駅前には地元の商店や飲食店が点在し、祭りの日に合わせて特別営業を行う店もある。竹田川の河川敷は普段は静かな散策路となっており、祭り以外の時期にも訪れる価値がある。丹波市は「丹波焼」や「丹波黒豆」など特産品で知られる地域であり、祭りのついでに地元の物産を求める観光客も多い。
+
+丹波市には市島川裾まつり以外にも、夏に複数の川裾祭りが集中して開催される。氷上町本郷の「元祖川裾祭り」、氷上町御油の「北御油川裾祭」、氷上町成松の「成松川裾まつり」は、いずれも市島川裾まつりと近い時期に執り行われる[Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A)。これらの祭りを巡ることで、丹波地方の川裾信仰の多様性を一度に体感できる。また、柏原町の柏原八幡宮では7月に独自の川裾神事が行われ、鳥居前の御手洗川に葦舟を浮かべる風習がある。
+
+市島町から車で約10分の位置にある春日IC周辺には、道の駅「丹波おばあちゃんの里」があり、地元野菜や特産品を購入できる。また、丹波市全体では「丹波篠山」のブランドで知られる山の幸も豊富であり、黒豆や丹波栗、山の芋などが名産である。祭り後に立ち寄ることで、丹波の食文化を満喫できる。さらに、由良川流域は自然豊かな環境であり、キャンプや川遊びを楽しむ家族連れも多い。市島川裾まつりは、こうした大自然の中で地域の伝統を体感できる貴重な機会となっている。
+
+## 関連情報
+
+1. **丹波市観光協会公式サイト**: 祭りの最新情報、日程変更、中止の有無などが掲載される唯一の公式情報源[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。問い合わせはかすが観光案内所（0795-70-3501）で受け付けている。
+
+2. **他の丹波市内川裾祭り**: 市島川裾まつり以外にも、元祖川裾祭り（氷上町本郷）、北御油川裾祭（氷上町御油）、成松川裾まつり（氷上町成松）が存在する[Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A)。これらの祭りはすべて7月下旬から8月上旬にかけて開催され、地域ごとに微妙に異なる伝統を持つ。
+
+3. **川裾信仰の広がり**: 川裾祭りは丹波から但馬、北西播磨にかけて広く分布し、氷上町本郷には「元祖川裾祭り」と称される祭りも伝わるなど、兵庫県内の川沿いの各地で受け継がれてきた民俗信仰である[神戸新聞NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml)。
+
+4. **花火大会の規模**: 打ち上げ数は約500発（年により変動）であり、大規模な花火大会に比べると小規模だが、竹田川の水面に映る花火とレーザーショーのコラボレーションが特徴的である[関西ちょこっとお出かけイベント情報](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/)。「ナイアガラの滝」と呼ばれる仕掛け花火も毎年見どころの一つである。
+
+5. **2026年の特別テーマ**: 第42回となる2026年の祭りは「新風」をテーマに、愛育ピアいちじまと市島小学校の開校を記念して開催される[丹波市観光協会](https://www.tambacity-kankou.jp/event/event-41921/)。これにより例年と異なる演出や企画が行われる可能性がある。
+
+6. **アクセスと交通規制**: 祭り当日は市島駅周辺および会場周辺の道路で交通規制が敷かれることがある。車で来場する場合は、臨時駐車場の案内に従う必要がある。公共交通機関の利用が強く推奨されており、JR福知山線は臨時列車を運行する場合もある。','## Overview
+
+The Ichijima Kawasuso Matsuri is a summer festival held annually in late July in the town of Ichijima, Tamba City, Hyogo Prefecture, centered around the Takeno River. The Takeno River is a tributary of the Yura River, and the festival takes place mainly around Ichijima Ohashi Bridge and Yanagibashi Bridge, featuring a fireworks display of approximately 500 rounds and a floating lantern ceremony [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). This festival is also called "Kawasuso-san" or "Kawasso-san," belonging to a group of Kawasuso festivals widely distributed within Hyogo Prefecture across the Tamba, Tajima, and northwestern Harima regions [Weblio Dictionary](https://www.weblio.jp/content/%E5%B7%9D%E8%A3%BE%E7%A5%AD). In Ichijima Town, this festival has become a beloved summer tradition, and in 2026 it will mark its 42nd edition [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/).
+
+The festival runs for a long duration from 14:30 to 21:30 [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). Stage events and food stalls are set up during the daytime, while the floating lantern ceremony and fireworks display take place from dusk into the night as the typical flow of the event. The festival is organized by the "Ichijima Kawasuso Matsuri Executive Committee" with cooperation from the Tamba City Tourism Association [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). The 2026 festival will be held under the theme "Shinpu" meaning "new wind," commemorating the opening of the newly completed Aiku Pia Ichijima and Ichijima Elementary School [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/).
+
+The Ichijima Kawasuso Matsuri is one of several Kawasuso festivals that exist within Tamba City. Other examples include the "Ganso Kawasuso Matsuri" in Hongo, Hikami Town, the "Kita Aburaya Kawasuso Matsuri" in Aburaya, Hikami Town, and the "Narimatsu Kawasuso Matsuri" in Narimatsu, Hikami Town, all held around the same period [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A). These festivals are all conducted at river confluences or riverbanks, sharing a common belief in giving thanks for the blessings of water and washing away calamities into the river.
 
 ## History and Origins
 
-The Ichijima Kawasuso Matsuri derives from a long-standing folk belief known as the *kawasuso* rite, which gives thanks to rivers and water and prays for protection from water-related accidents and for good health. The festival that the people of Ichijima, who have lived alongside the Takeda River, have observed by the riverside at the height of summer has been handed down to the present. It is an event imbued with gratitude for the blessings of water and prayers for a healthy passage through summer, continuing as a summer tradition rooted in the community.
+The origins of the Ichijima Kawasuso Matsuri can be traced back to folk beliefs of giving thanks for the blessings of the Takeno River and purifying oneself by washing away summer epidemics and women''s diseases into the river. According to an article in the Kobe Shimbun, folklorist Takashi Kuge from Sasayama City pointed out that "because it is a folk event, few records remain" [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml). Therefore, the exact year of origin and details of its emergence are not documented in written records, and much is based on oral tradition.
+
+It is believed that the Kawasuso festival incorporated the time frame of the Oharae purification ritual held at the end of the sixth month of the lunar calendar [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml). River confluences were considered "places of powerful purification for misogi ablutions," and people would cleanse themselves in the river water, praying for calamities to be washed away. This belief is not limited to the Tamba region but is widely distributed from northern Hyogo Prefecture to Tajima and northwestern Harima, with various names such as "Kawasuso," "Kawashimo," "Kawasoso," and "Kawasoso" depending on the locality.
+
+Kawasuso festivals are held along many rivers throughout the Tamba, Tajima, and northwestern Harima regions, including the Saji River and the Maruyama, Oya, and Kishida Rivers in Tajima, with subtle differences in the nature of the deities and the rituals from area to area [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml).
+
+At the Kawasuso festival in Ichijima Town, a traditional form involves setting up an altar on the railing of a bridge over the Takeno River, covering it with a roof and walls made of sedge grass [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml). In contrast, in Narimatsu, Hikami Town, also within Tamba City, there is a stone monument to "Kawasuso Daimyojin" on the embankment of the Kuzuno River, where a sacred seat surrounded by curtains is erected on the festival day. At Kaibara Hachiman Shrine in Kaibara Town, an altar is placed at the Mitarai River in front of the torii gate, and a statue of a kappa sits under a reed boat carrying offerings and gohei, showing that even within the same "Kawasuso festival," the forms differ by region.
+
+Within Tamba City, besides the Ichijima Kawasuso Matsuri, there are the "Ganso Kawasuso Matsuri" in Hongo, Hikami Town, the "Kita Aburaya Kawasuso Matsuri" in Aburaya, Hikami Town, and the "Narimatsu Kawasuso Matsuri" in Narimatsu, Hikami Town [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A). Although each festival has subtle differences in its origin and form, they all share the common spiritual essence of purifying oneself in river water and washing away epidemics and misfortunes. This diverse distribution indicates that the Tamba region has been an important hub of beliefs since ancient times.
 
 ## Highlights
 
-The greatest attraction is the fireworks display launched on the banks of the Takeda River. Great blossoms of fireworks open in the summer night sky, and their light reflected on the river''s surface creates a magical scene that captivates onlookers. Food stalls line the riverside, and the evocative atmosphere distinctive to a summer festival, bustling with people in summer kimono, is also part of its charm. Fireworks enjoyed in unity with nature in the mountain-ringed land of Tamba are exceptional, making this a precious summer moment for local people.
+**Fireworks Display**
+The fireworks display that concludes the Ichijima Kawasuso Matsuri features approximately 500 rounds launched into the night sky over roughly 30 minutes from 8 p.m. [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). The launch sites are around Ichijima Ohashi Bridge and Yanagibashi Bridge, and the fireworks reflected on the surface of the Takeno River create a beautiful spectacle. Among the fireworks is a special setup called "Niagara Falls," and a laser show is also coordinated with the display. This fireworks show lasts for about one hour as the climax of the festival, typically held from around 19:30 to 20:30 [Nonbiri Yuttari Awajishima Life](https://www.baisen-lc1a.jp/ichijimakawasusomatsuri/).
 
-## When It Takes Place
+**Floating Lantern Ceremony**
+The floating lantern ceremony, in which countless lanterns are set adrift on the Takeno River, is a traditional event for offering prayers to ancestors and wishing for good health and protection from illness [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). The sight of lantern lights slowly flowing along the river surface is both fantastical and tinged with a sense of melancholy. This ceremony is an important element that conveys the spirit of purification by washing away calamities into the river to the present day, and participants can set their own lanterns afloat. The simultaneous occurrence of the floating lantern ceremony and the fireworks display creates a dual beauty of the lights on the river and the fireworks in the night sky.
 
-The festival is typically held in summer (July) on the banks of the Takeda River in the Ichijima district of Tamba, Hyōgo Prefecture. As a summer festival, its season is summer. Because the dates and launch times of the fireworks vary from year to year, visitors are advised to confirm details in advance through official announcements from Tamba City and the local tourism association. In the event of bad weather, the festival may be postponed or canceled.
+**Stage Events**
+Throughout the festival, various performances by local groups are held on a special stage set up near the Takeno River [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). Dance, musical performances, and traditional arts are included in the program, entertaining the audience from daytime into the evening. These stages also serve as venues for local children and adults to showcase their talents, playing a role in strengthening community bonds. In years commemorating the opening of Ichijima Elementary School, special performances by the schoolchildren may take place.
 
-## Access
+**Food Stalls and Vendors**
+Numerous food stalls and vendors line the area around the venue, offering classic festival foods such as yakisoba, takoyaki, and shaved ice [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). Stalls selling local specialties also set up shop, allowing visitors to taste dishes made with Tamba ingredients. The sight of night stall lights lining the riverbank symbolizes the bustling atmosphere of a summer festival. Families and couples can be seen wandering among the stalls, fully enjoying the festival atmosphere.
 
-The Ichijima district can be reached via Ichijima Station on the JR Fukuchiyama Line. It is located in the Ichijima district in northern Tamba, near the border with Fukuchiyama in Kyoto Prefecture. By car, routes such as the Maizuru-Wakasa Expressway are available, but because traffic restrictions and crowds are expected around the venue on the day, public transport is convenient.
+**Chinowa Ring Passing**
+Related to the Kawasuso festival, a chinowa ring made of miscanthus reeds may be set up on Ichijima Ohashi Bridge [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml). By passing through the chinowa ring, people can purify themselves of the accumulated impurities of the past six months and pray for good health and protection from illness for the remaining six months. This ritual originates from the Natsu-koshi no Oharae purification ceremony and is deeply connected to the spirit of the Kawasuso festival. Visitors can experience the religious aspect of the festival by actually passing through the chinowa ring.
 
-## Around the Area
+**Yearly Themes like "Shinpu"**
+The 2026 festival will be held under the theme "Shinpu," which means "a new wind blowing in," to commemorate the opening of the newly completed Aiku Pia Ichijima and Ichijima Elementary School [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). This year will feature special productions and programs different from usual years. By setting a theme each year, the same festival can offer different attractions every time. This particular edition will be especially meaningful as it celebrates the completion of new local facilities.
 
-Tamba is a richly natural land ringed by mountains on all sides, known nationwide for specialties such as Tamba black soybeans, Tamba chestnuts, and Tamba matsutake mushrooms. The Ichijima district is dotted with autumn-foliage spots including Entsū-ji temple, as well as ancient temples and shrines, and visitors can also enjoy the Tamba ware pottery village and historic sites such as the Kuroi Castle ruins. It is an area full of pastoral charm where one can savor the food and nature distinctive to the mountain villages of Tamba, along with the summer fireworks.','ichijima-kawasuso-matsuri','ichijima-kawasuso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+**Date and Time**: July 26, 2026 (Sunday), from 14:30 to 21:30 [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). While the festival is typically held around July 29 each year, the date may shift slightly depending on the day of the week [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). Please check the official Tamba City Tourism Association website for the most up-to-date schedule.
+
+**Venue**: Around Ichijima Ohashi Bridge and Yanagibashi Bridge on the Takeno River, Ichijima, Ichijima Town, Tamba City, Hyogo Prefecture [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/).
+
+**Access by Train**: Approximately a 3-minute walk from JR Fukuchiyama Line''s Ichijima Station [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). The station is very close to the venue, making public transportation the most convenient option.
+
+**Access by Car**: Approximately 10 minutes from the Kasuga Interchange on the Maizuru-Wakasa Expressway [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). Use nearby temporary parking lots, but availability is limited, so early arrival is recommended.
+
+**Weather Policy**: The festival will be held even in rain, but will be canceled in case of warning-level severe weather [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). The decision to hold or cancel depends on the weather conditions on the day, so please check the latest information.
+
+**Contact Information**: Ichijima Kawasuso Matsuri Executive Committee (Phone: 0795-85-6007) or Tamba City Tourism Association Kasuga Tourist Information Center (Phone: 0795-70-3501) [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/)[Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). When making inquiries, you can also check on congestion conditions and parking availability for the festival day.
+
+## Surrounding Area Information
+
+The area around Ichijima Station is a small urban center centered on the JR Fukuchiyama Line station, and the festival venue is within walking distance. There are local shops and restaurants scattered around the station area, some of which operate with special hours on the festival day. The riverbed of the Takeno River is usually a quiet promenade and is worth visiting even outside the festival season. Tamba City is known for its local specialties such as "Tamba-yaki pottery" and "Tamba black soybeans," and many tourists visit to purchase local products along with enjoying the festival.
+
+In Tamba City, several Kawasuso festivals are concentrated in the summer season besides the Ichijima Kawasuso Matsuri. The "Ganso Kawasuso Matsuri" in Hongo, Hikami Town, the "Kita Aburaya Kawasuso Matsuri" in Aburaya, Hikami Town, and the "Narimatsu Kawasuso Matsuri" in Narimatsu, Hikami Town are all held around the same time as the Ichijima festival [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A). By visiting these festivals, one can experience the diversity of Kawasuso beliefs in the Tamba region all at once. Additionally, at Kaibara Hachiman Shrine in Kaibara Town, a unique Kawasuso ritual is held in July, where reed boats are floated on the Mitarai River in front of the torii gate.
+
+About a 10-minute drive from Ichijima Town, near the Kasuga IC, there is a roadside station called "Tamba Obaachan no Sato" where visitors can purchase local vegetables and specialty products. The entire Tamba City area is rich in mountain produce known under the "Tamba Sasayama" brand, including black soybeans, Tamba chestnuts, and mountain yams. Visiting after the festival allows one to fully enjoy Tamba''s food culture. Furthermore, the Yura River basin is rich in nature, attracting many families who enjoy camping and river play. The Ichijima Kawasuso Matsuri provides a valuable opportunity to experience local traditions in this natural environment.
+
+## Related Information
+
+1. **Tamba City Tourism Association Official Website**: The only official source for the latest information on the festival, including schedule changes and cancellations [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). Inquiries can be made at the Kasuga Tourist Information Center (0795-70-3501).
+
+2. **Other Kawasuso Festivals in Tamba City**: Besides the Ichijima Kawasuso Matsuri, there are the Ganso Kawasuso Matsuri in Hongo, Hikami Town, the Kita Aburaya Kawasuso Matsuri in Aburaya, Hikami Town, and the Narimatsu Kawasuso Matsuri in Narimatsu, Hikami Town [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B8%82%E5%B3%B6%E5%B7%9D%E8%A3%BE%E3%81%BE%E3%81%A4%E3%82%8A). All of these festivals are held from late July to early August, each with subtly different traditions.
+
+3. **Spread of Kawasuso Beliefs**: Kawasuso festivals are widely distributed across the Tamba, Tajima, and northwestern Harima regions, and a festival known as the "original Kawasuso Matsuri" is passed down in the Hongo district of Hikami-cho, making it a folk belief handed down at many riverside locations within Hyogo Prefecture [Kobe Shimbun NEXT](https://www.kobe-np.co.jp/rentoku/shingokoku/P20180826MS00083.shtml).
+
+4. **Scale of the Fireworks Display**: The number of fireworks launched is approximately 500 rounds (varying by year), which is relatively small compared to large-scale fireworks festivals, but the collaboration between the fireworks reflected on the Takeno River surface and the laser show is a distinctive feature [Kansai Chokotto Odekake Event Information](https://www.tth-web.com/kansai/fireworksdisplay/ichijimakawasusomatsuri-hanabi/). A special fireworks setup called "Niagara Falls" is also one of the annual highlights.
+
+5. **Special Theme for 2026**: The 42nd edition of the festival in 2026 will be held under the theme "Shinpu" to commemorate the opening of Aiku Pia Ichijima and Ichijima Elementary School [Tambacity Kankou Association](https://www.tambacity-kankou.jp/event/event-41921/). This may result in different productions and programs compared to usual years.
+
+6. **Access and Traffic Regulations**: On the festival day, traffic regulations may be imposed on roads around Ichijima Station and the venue. Visitors arriving by car should follow instructions for temporary parking lots. The use of public transportation is strongly recommended, and JR Fukuchiyama Line may operate extra trains on the day.','ichijima-kawasuso-matsuri','ichijima-kawasuso-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q112222177','世田谷パン祭り','Setagaya Panmatsuri','日本の食文化の祭典','Japanese food and drink festival','Q231645','世田谷区','Setagaya','東京都','kanto',NULL,NULL,2011,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E3%83%91%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q86727428','田辺祭','Tanabe Matsuri','和歌山県田辺市で行われる鬪雞神社の例大祭',NULL,'Q11656593','鬪雞神社','Tōkei Shrine','和歌山県','kinki',NULL,NULL,1600,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/%E7%94%B0%E8%BE%BA%E7%A5%AD%28%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE%29.jpg','https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD',NULL,85,'drafted','## 概要
 
