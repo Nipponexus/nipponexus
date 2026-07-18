@@ -8654,51 +8654,133 @@ Outside the festival period, the floats can also be viewed at the first-floor ha
 ## Additional Information
 
 Hachinohe Sansha Taisai was designated an Important Intangible Folk Cultural Property of Japan as the "float event of Hachinohe Sansha Taisai" on February 6, 2004, and on November 30, 2016, it was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity as one of 33 nationwide "festival float events." A Shinto rite with three centuries of history, it also faces tensions between tradition and the modern age, such as debates over commercialization and the use of engines to move the floats, making it a compelling case for considering how local festivals change over time.','hachinohe-sansha-taisai','hachinohe-sansha-taisai',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11408926','博多どんたく','Hakata Dontaku','祭り','annual festival in Fukuoka, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hakata%20Dontaku%2078338697%20org.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%A9%E3%82%93%E3%81%9F%E3%81%8F','https://en.wikipedia.org/wiki/Hakata_Dontaku',85,'drafted','## 博多どんたくとは
+INSERT INTO "festivals" VALUES('Q11408926','博多どんたく','Hakata Dontaku','祭り','annual festival in Fukuoka, Japan',NULL,NULL,NULL,'福岡県','kyushu',NULL,NULL,NULL,5,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Hakata%20Dontaku%2078338697%20org.jpg','https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%A9%E3%82%93%E3%81%9F%E3%81%8F','https://en.wikipedia.org/wiki/Hakata_Dontaku',85,'drafted','## 概要
 
-博多どんたくは、福岡県福岡市で毎年5月3日・4日に開催される、ゴールデンウィークを代表する祭りです。正式名称を「福岡市民の祭り 博多どんたく港まつり」といい、2日間で200万人を超える観客を集める、日本有数の動員数を誇る祭りとして知られています。市民が思い思いの仮装で「どんたく隊」を組み、しゃもじを打ち鳴らしながら街を練り歩く、市民総参加の賑やかな祭りです。
+福岡県福岡市で毎年5月3日から4日にかけて開催される「博多どんたく港まつり」（通称：博多どんたく）は、国内外から約200万人の人出を集める日本屈指の春の祭りです。参加どんたく隊はのべ約650団体、出場者数は約3万3千人に上り、市役所前ふれあい広場や明治通り、博多駅前などを舞台に繰り広げられるパレードと演舞台が市民や観光客を魅了します。この祭りは、単なる観光イベントではなく、市民が主体となって作り上げる「福岡市民の祭り」として、戦後の復興象徴から現在の福岡のアイデンティティへと成長を遂げてきました。
 
-## 歴史と由来
+「どんたく」という名称は、オランダ語で「休日」を意味する「Zondag（ゾンターク）」が語源であると広く伝えられています。この言葉は、江戸時代から明治時代にかけて「半ドン」という言葉で全国に広まった習慣とも共通しており、休日を待ち望む人々の気持ちが祭りの名前に込められています。祭りの起源は平安時代末期まで遡るとされ、850年以上にわたって博多の地で受け継がれてきた伝統行事「博多松囃子（まつばやし）」を核としている点が、他の仮装祭りとは一線を画す特徴となっています。
 
-博多どんたくの起源は、平安時代末期から続くとされる「博多松囃子（はかたまつばやし）」にさかのぼります。松囃子は、新年を祝って福神・恵比須・大黒に扮した人々が街を練り歩き、祝福してまわる正月行事でした。「どんたく」の名は、オランダ語で休日を意味する「Zondag（ゾンターク）」に由来するとされます。明治期に一時禁止されたこともありましたが、市民の手で復活し、戦後「どんたく」として現在の形に発展。今では福岡市民が主役となる、市民総出の祭りとして親しまれています。
+## 歴史・由来
+
+博多どんたくの起源は、筑前国続風土記に記録が残る平安時代末期、治承3年（1179年）まで遡ると言い伝えられています。同書には、平安時代の京都御所で行われていた正月の宮中参賀行事が地方に伝わり、博多では源平時代にあたる治承3年の正月15日に「松囃子」が行われたと記されています。この松囃子は、その後も博多の町人たちによって発展的に受け継がれ、祝いの行事として定着していきました。
+
+しかし、明治5年（1872年）、新政府から派遣された県知事の命により、松囃子と山笠はともに中止を余儀なくされました。その後、明治12年（1879年）になって再開される運びとなり、この頃から「博多どんたく」と呼ばれるようになったとされています。この再開の際に、「松囃子」とは別に用いられた「どんたく」という名称が定着した背景には、オランダ語のZondagに由来するという説が有力であり、これが現在の祭りの名前の直接的なルーツとなっています。
+
+第二次世界大戦の戦況悪化に伴い、祭りは再び中断を余儀なくされました。しかし終戦から間もない昭和21年（1946年）5月、奈良屋地区の有志たちの手によって「松囃子」と「どんたく」が8年ぶりに奇跡の復活を遂げました。当時は肩衣を紙で作り、馬は張りぼてを首から胸に下げる代用品を用い、三味線や太鼓は戦災を免れた店や家々から借り集めたものでした。こうして瓦礫の街に響き渡った「博多どんたく」のお囃子は、復興に向けて歩む市民たちに大きな勇気と希望を与えたと語り継がれています。
+
+昭和37年（1962年）、この祭りは「博多どんたく港まつり」として、市民総参加の「福岡市民の祭り」へと衣替えしました。これを機に、老若男女が思い思いの仮装をして町を練り歩き、しゃもじを叩きながら踊る現在のスタイルが確立され、春のゴールデンウィークを彩る日本有数の祭りへと発展していきました。さらに、祭りの根幹を成す「博多松囃子」は、令和4年3月16日付で国の重要無形民俗文化財に指定され、その歴史的・文化的価値が公的に認められるに至っています。
 
 ## 見どころ
 
-最大の見どころは、市民が結成する「どんたく隊」のパレードです。企業や団体、地域のグループなどがそれぞれ趣向を凝らした衣装や演出で参加し、しゃもじを打ち鳴らしながら、メインステージのある「どんたく広場」(明治通り)を中心に市内各所を練り歩きます。伝統の博多松囃子の福神・恵比須・大黒の流れも登場し、歴史と現代が融合した多彩なパフォーマンスが楽しめます。市内各所に設けられた演舞台では、さまざまな団体が歌や踊りを披露し、街全体がお祭りムードに包まれます。
+**国重要無形民俗文化財「博多松囃子」の優雅な巡行**
+祭りの開幕を飾るのは、国の重要無形民俗文化財に指定されている「博多松囃子」のパレードです。この松囃子は、福神・恵比須・大黒の三福神と稚児（兒）の合計4つの「流れ」で構成されており、それぞれが特徴的な装束と馬に乗って市中を練り歩きます。福神は張り貫きの長い頭をかぶり、恵比須は珍しい夫婦恵比須の姿で、大黒は大きな紗金袋を背負い、いずれも迫力と優雅さを兼ね備えた神話の世界を現代に再現しています。
 
-## 開催情報
+**祝賀大パレードの圧巻のスケール**
+5月3日13時5分に明治通りでスタートする「祝賀大パレード」は、どんたく最大の目玉です。先頭を博多松囃子が進み、その後を企業や市民グループ、さらには海外からの参加団体など、実に約650団体ものどんたく隊が続きます。沿道を埋め尽くす観客は約200万人に及び、しゃもじの音と歓声が一体となった熱気で街全体が沸き返る、まさに圧巻の光景が広がります。
 
-毎年5月3日・4日のゴールデンウィークに、福岡県福岡市の中心部（明治通りのどんたく広場ほか市内各所)で開催されます。春の祭りであり、季節は春。パレードや演舞台の日程・会場は年によって異なるため、福岡市および博多どんたくの主催団体の公式発表で事前に確認することをおすすめします。
+**夜を彩る「にしてつ花自動車」の幻想的な運行**
+祭りの期間中、街を彩る移動するイルミネーションとして人気なのが「にしてつ花自動車」です。その歴史は古く、戦後のどんたく復活後まもなく花電車の運行が始まり、昭和52年（1977年）に現在の花自動車へと姿を変えました。2026年の祭りでは、「マリンワールド海の中道」「トイ・ストーリー5」「福岡ソフトバンクホークス＆アビスパ福岡」という3つのテーマで装飾された花自動車が、昼夜を問わず市内幹線道路を巡行し、特に夜間は電飾が輝いて幻想的な雰囲気を創り出します。
 
-## アクセス
+**市民が主役の「演舞台」パフォーマンス**
+市内各所に設けられた演舞台では、10時から17時頃にかけて、学校の吹奏楽部やチアダンスチーム、地域のサークルなどが日頃の練習の成果を披露します。これらの演舞台は、プロだけでなく市民一人ひとりが主役として参加できる場であり、祭りの最大の特徴である「市民総参加」の精神を具現化しています。2026年は「天神ワンビル演舞台」と「西日本シティビル演舞台」が新設され、再開発が進む都心部にさらなる活気がもたらされる予定です。
 
-メイン会場となる明治通り周辺へは、福岡市地下鉄空港線「天神駅」や「中洲川端駅」、西鉄「福岡（天神)駅」などからアクセスできます。福岡市中心部に位置し、博多駅や福岡空港からも地下鉄で容易にアクセス可能です。期間中は大変な混雑が予想されるため、公共交通機関の利用が強く推奨されます。
+**花のマーチングパレードの若々しいハーモニー**
+5月4日14時10分からは、「どんたく花のマーチングパレード」が開催されます。ここでは、自衛隊や警察音楽隊、そして県内外から集まった学生たちによる迫力ある演奏と規律正しい行進が披露されます。伝統的な松囃子とは対照的な、現代的な音楽と若者のエネルギーに満ちたこのパレードは、祭りの多様性を示す重要なプログラムの一つです。
 
-## 周辺観光
+**フィナーレを飾る「総おどり」と「博多手一本」**
+祭りの最終日となる5月4日の夕方17時50分頃からは、観客も参加できる「総おどり」がどんたく広場で開催されます。どなたでも自由に参加できるこの輪の中では、老若男女が一体となって祭りの余韻を全身で味わうことができます。そして18時20分頃に行われる「博多手一本」の手締めで、祭りは一糸乱れぬ結束のもとにクライマックスを迎え、参加者と観客が一体となって2日間の祭りの成功を祝います。
 
-福岡市は、九州最大の都市であり、博多・天神を中心とした繁華街や、屋台文化で知られるグルメの街です。博多ラーメンやもつ鍋、明太子といった名物グルメが楽しめます。櫛田神社や承天寺など博多の歴史を伝える寺社、福岡城跡や大濠公園などの見どころも豊富。博多どんたくのほか、夏には博多祇園山笠も開催され、祭り文化が根づく街として、福岡の歴史・グルメ・祭りを満喫できるエリアです。','## What Is Hakata Dontaku?
+## 開催情報・アクセス
 
-Hakata Dontaku is a festival representative of the Golden Week holidays, held each year on 3 and 4 May in Fukuoka City, Fukuoka Prefecture. Formally called the "Fukuoka Citizens'' Festival: Hakata Dontaku Port Festival," it is known as one of Japan''s most heavily attended festivals, drawing more than two million spectators over its two days. Citizens form "Dontaku troupes" in costumes of their own choosing and parade through the streets clapping rice scoops (*shamoji*)—a lively festival in which the whole city takes part.
+1.  **開催日時**: 2026年5月3日（日・祝）から5月4日（月・祝）の2日間。前夜祭は5月2日（土）17時から20時30分まで福岡市役所前ふれあい広場で開催されます。毎年5月3日・4日が本祭の恒例日程です。
+2.  **開催場所**: 福岡市役所前ふれあい広場（メイン会場）、明治通り（どんたく広場）、博多駅前、天神エリアなど市内各所。
+3.  **入場料**: パレードや演舞台の観覧はすべて無料です。ただし、明治通り沿いに設置される一部の有料観覧席（どんたくまち歩き観覧席など）を利用する場合は事前申し込みが必要となる場合があります。
+4.  **アクセス**: 最寄り駅は福岡市営地下鉄の「天神駅」または「博多駅」です。西日本鉄道（西鉄）の西鉄福岡（天神）駅からも徒歩圏内でアクセス可能です。会場周辺は大規模な交通規制が敷かれるため、公共交通機関の利用が強く推奨されています。
+5.  **交通規制**: 祭り期間中は、メイン会場となる明治通りを中心に広範囲で車両通行止めが実施されます。一部の西鉄バス路線では運休や迂回運行が発生するため、最新の運行情報を事前に確認することが重要です。
+6.  **主催・問い合わせ**: 福岡市民の祭り振興会（福岡市・福岡商工会議所ほか）。電話番号は092-441-1118です（最新の開催日程や実施可否を含む詳細は、公式サイトで必ずご確認ください）。
+7.  **公式サイト**: [https://www.dontaku.fukunet.or.jp/](https://www.dontaku.fukunet.or.jp/)
+
+## 周辺情報
+
+福岡市の中心部である天神エリアは、祭り期間中はもちろんのこと、年間を通じて九州最大級の商業集積地として賑わいを見せています。どんたくのメイン会場となる福岡市役所ふれあい広場や明治通りからは徒歩圏内に数多くの百貨店や地下街が広がっており、パレードの合間のショッピングやグルメを楽しむには絶好のロケーションです。また、夜には「屋台」の文化が息づく中洲や長浜のエリアが活気づき、観光客は祭りの熱気冷めやらぬうちに、本場の博多ラーメンやもつ鍋といった郷土料理を味わうことができます。
+
+博多駅エリアも、祭りのもう一つの主要拠点です。博多駅前広場やその周辺でもどんたく隊のパフォーマンスが行われ、駅ビル内の「博多デイトス」や「JR博多シティ」には多種多様な飲食店や土産物店が軒を連ねています。特に、駅構内や地下街は屋根があるため、急な雨でも安心して観光できる点がメリットです。どんたくの賑わいを楽しみながら、新幹線や在来線でアクセスする旅行者にとって、博多駅はまさに観光拠点として最適な場所です。
+
+さらに足を伸ばせば、福岡タワーやシーサイドももち、マリンワールー海の中道などの観光スポットも点在しています。祭りが行われるゴールデンウィークは気候も良く、街中だけでなく海や緑を感じられるエリアへの散策も人気です。都市の活気と伝統文化を一度に体験できる福岡という街の特性は、どんたくという祭りを何倍にも楽しむための重要な要素となっています。
+
+## 関連情報
+
+1.  **博多どんたくと博多松囃子の関係**: 博多どんたくの根幹を成す「博多松囃子」は、令和4年3月16日に国の重要無形民俗文化財に指定されました。この松囃子は、どんたくという市民祭りの華やかさの背後にある、850年以上の歴史と格式を象徴する行事です。
+2.  **しゃもじの由来**: どんたくで参加者がしゃもじを叩く習慣は、昔、商家の前をどんたく囃子が通りかかった際、夕食の支度をしていた女将さんが手に持っていたしゃもじで音を鳴らして囃子に加わったことに由来すると伝えられています。
+3.  「半ドン」の語源: 「どんたく」の語源とされるオランダ語の「Zondag」は、現在でも全国的に使われる「半ドン（半分だけの休日）」という言葉の語源にもなったとされています。
+4.  **博多どんたくと博多祇園山笠**: 福岡・博多を代表するもう一つの祭りに「博多祇園山笠」があります。どんたくが5月のゴールデンウィークに行われるのに対し、山笠は7月に行われる勇壮な男祭りであり、両者は博多の夏を象徴する二大祭りとして対比されます。
+5.  **国際的な参加**: 博多どんたくには毎年多くの海外団体が参加しており、2026年の祭りではタイ、マレーシア、インドネシア、ミャンマー、台湾、インドなどアジアを中心に14団体、1,300名を超える参加者が予定されています。
+6.  **花電車・花自動車の歴史**: 花自動車の歴史は古く、西日本鉄道の前身である九州電気軌道や福博電気軌道が路線開通式などで運行した記録が明治時代にまで遡ります。どんたくでの運行は戦後の祭り復活後まもなく始まり（当初は花電車、昭和52年〈1977年〉以降は花自動車）、現在も続く人気コンテンツです。
+7.  **過去の中止**: 新型コロナウイルス感染拡大の影響により、2020年の第59回記念大会は中止となりました。長期にわたる歴史の中では戦時中にも中断がありましたが、そのたびに市民の力で復活を遂げてきた点がこの祭りの特徴です。
+8.  **関連文献**: 博多どんたくの起源を探る上で欠かせない文献として、貝原益軒による「筑前国続風土記」が挙げられます。この地誌には、治承3年（1179年）に博多で松囃子が行われたことが記録されており、祭りの歴史を語る上での重要な一次資料となっています。','## Overview
+
+Hakata Dontaku Port Festival, commonly known as Hakata Dontaku, is one of Japan''s premier spring festivals, held annually on May 3 and 4 in Fukuoka City, Fukuoka Prefecture. Drawing approximately two million visitors each year, the festival features around 650 participating groups and about 33,000 performers who fill the streets with parades and stage performances centered around Meiji-dori Avenue, the Fukuoka City Hall Square, and Hakata Station. This is not merely a tourist event but a citizens-led festival that evolved from a symbol of post-war recovery into a core identity of Fukuoka.
+
+The name Dontaku is widely believed to derive from the Dutch word Zondag, meaning holiday or Sunday. This term is also historically linked to the Japanese expression handon, which refers to a half-day holiday, showing how deeply the concept of a festive break is embedded in the local culture. Unlike many other costume festivals, Hakata Dontaku is uniquely anchored in the traditional Hakata Matsubayashi, a ritual with over 850 years of history that forms the spiritual core of the modern celebration.
 
 ## History and Origins
 
-The origins of Hakata Dontaku trace back to the "Hakata Matsubayashi," said to have continued since the end of the Heian period. The Matsubayashi was a New Year event in which people dressed as the lucky gods Ebisu and Daikoku paraded through the streets to celebrate the New Year and bestow blessings. The name "Dontaku" is said to derive from the Dutch word "Zondag," meaning holiday. Although it was banned for a time in the Meiji era, it was revived by the citizens and, after the war, developed into its current form as "Dontaku." Today it is cherished as a festival in which the citizens of Fukuoka take the leading role.
+According to the Chikuzen no Kuni Zoku Fudoki, a historical record compiled by the scholar Kaibara Ekiken, the origins of Hakata Dontaku can be traced back to the Heian period, specifically to the year 1179 (Jisho 3). This text notes that the Matsubayashi ritual, originally a New Year''s court ceremony in Kyoto, was performed in Hakata on January 15 of that year during the Genpei era. The townspeople of Hakata, known for their playful and sophisticated spirit, gradually developed this ritual into a lively local celebration.
+
+The festival faced a major crisis during the Meiji period when, in 1872, a prefectural governor appointed by the new government ordered the cessation of both the Matsubayashi and the Yamakasa floats. However, the tradition was revived in 1879, and it was around this time that the name Hakata Dontaku came to be widely used. The adoption of the name Dontaku, distinct from Matsubayashi, is the direct origin of the festival''s modern identity, reflecting a shift towards a more secular and joyous celebration.
+
+The festival was again suspended during the hardships of World War II. In a remarkable show of resilience, it was revived in May 1946 (Showa 21) by volunteers from the Naraya district after an eight-year hiatus. With resources scarce, participants made their kamishimo (formal wear) out of paper and improvised horses by hanging papier-mache models around their necks. They borrowed shamisen and drums from shops and homes that had survived the air raids, and the sound of Hakata Dontaku music echoing through the rubble gave immense courage and hope to citizens working towards recovery.
+
+The festival took its modern form in 1962 (Showa 37), when it was re-established as the Fukuoka Citizens Festival, or Hakata Dontaku Port Festival. This marked the beginning of the inclusive, participatory format where people of all ages dress in costumes, parade through the streets, and dance while clapping shamojis (rice paddles). On March 16 of the Reiwa era, the underlying Hakata Matsubayashi was officially designated an Important Intangible Folk Cultural Property of Japan, formally recognizing its profound historical and cultural value.
 
 ## Highlights
 
-The greatest attraction is the parade of the "Dontaku troupes" formed by citizens. Companies, organizations, and community groups take part in costumes and stagings of their own ingenious design, parading through various parts of the city—centered on "Dontaku Square" (Meiji-dōri), where the main stage stands—while clapping rice scoops. The traditional lucky gods Ebisu and Daikoku of the Hakata Matsubayashi also appear, allowing visitors to enjoy varied performances that blend history and the present. On stages set up throughout the city, various groups present songs and dances, wrapping the whole city in a festive mood.
+**The Graceful Procession of the National Treasure Hakata Matsubayashi**
+The festival officially opens with the stately procession of the Hakata Matsubayashi, which has been designated an Important Intangible Folk Cultural Property. This procession consists of four distinct troupes: the three gods of fortune, Fukujin, Ebisu, and Daikoku, followed by a child dancer known as Sho. Each deity is dressed in elaborate traditional costumes and rides a horse, surrounded by attendants, creating a scene that directly connects the modern city to its ancient mythological and courtly past.
 
-## When It Takes Place
+**The Grand Spectacle of the Shukuga Dai Parade**
+The Shukuga Dai Parade, which starts at 1:05 PM on May 3rd along Meiji-dori Avenue, is the undisputed highlight of the entire festival. Following the lead of the Matsubayashi, a diverse array of approximately 650 groups, including corporate teams, local community clubs, and international delegations, march in vibrant costumes. The atmosphere is electric as the crowd of two million people clap along with the rhythm of the shamojis, transforming the city center into a sea of joy and color.
 
-The festival is held each year on 3 and 4 May during Golden Week in central Fukuoka City (Dontaku Square on Meiji-dōri and various other places throughout the city). As a spring festival, its season is spring. Because the dates and venues of the parade and stages vary from year to year, visitors are advised to confirm details in advance through official announcements from Fukuoka City and the organizers of Hakata Dontaku.
+**The Magical Nighttime Run of the Nishitetsu Hana Jidosha**
+A beloved feature of the festival is the Nishitetsu Hana Jidosha, or decorated floral trucks, which illuminate the city during the event. This tradition began not long after the festival''s post-war revival, initially with floral streetcars, and the cars took their current form as floral trucks in 1977, and it has been a crowd favorite ever since. For the 2026 festival, three trucks decorated with themes from Marine World, Toy Story 5, and the Fukuoka SoftBank Hawks & Avispa Fukuoka will cruise through the main streets, becoming beautifully lit and creating a magical, dreamlike atmosphere as night falls.
 
-## Access
+**Community Performances on the Butai Stages**
+Throughout the city, multiple Butai outdoor stages host performances from 10:00 AM to around 5:00 PM, featuring school brass bands, cheerleading squads, and local hobby groups. These stages embody the festival''s core principle of citizen participation, giving everyone a chance to be a star. In 2026, new stages at the Tenjin One Building and the Nishitetsu City Building have been added, bringing even more energy to the rapidly redeveloping downtown area.
 
-The area around Meiji-dōri, the main venue, can be reached from stations such as Tenjin Station and Nakasu-Kawabata Station on the Fukuoka City Subway Kūkō Line and Nishitetsu Fukuoka (Tenjin) Station. Located in central Fukuoka, it is easily accessible by subway from Hakata Station and Fukuoka Airport. As tremendous crowds are expected during the festival, public transport is strongly recommended.
+**The Youthful Energy of the Hana no Marching Parade**
+On May 4th, starting at 2:10 PM, the Hana no Marching Parade offers a modern contrast to the traditional Matsubayashi. This parade features powerful and disciplined performances by the Japan Self-Defense Forces bands, police brass bands, and student marching bands from across the prefecture. The crisp uniforms, precise formations, and lively music create a display of youthful vitality and precision that captivates a different segment of the festival audience.
 
-## Around the Area
+**The Grand Finale with Sodoroi and Hakata Teippon**
+At around 5:50 PM on the final day, the festival reaches its emotional peak with the Sodoroi, a massive participatory dance held in the Dontaku squares. Anyone in the crowd is welcome to join the circle and dance one last time with the performers. The festival officially concludes at about 6:20 PM with the Hakata Teippon, a unique and powerful hand-clapping ceremony that seals the success of the event, creating a profound sense of unity and shared joy among all those present.
 
-Fukuoka, the largest city in Kyushu, is a gourmet city known for its downtown areas centered on Hakata and Tenjin and for its food-stall (*yatai*) culture. Visitors can enjoy local specialties such as Hakata ramen, *motsunabe* hotpot, and *mentaiko*. There are also abundant sights, including temples and shrines that convey the history of Hakata such as Kushida Shrine and Jōten-ji, and the ruins of Fukuoka Castle and Ōhori Park. In addition to Hakata Dontaku, the Hakata Gion Yamakasa is held in summer, and as a city where festival culture is deeply rooted, it is an area where one can savor the history, cuisine, and festivals of Fukuoka.','hakata-dontaku','hakata-dontaku',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+1.  **Date and Time**: The main festival takes place on May 3 (Sunday/National Holiday) and May 4 (Monday/National Holiday), 2026. The Eve Festival (Zenya-sai) will be held on May 2 (Saturday) from 5:00 PM to 8:30 PM at the Fukuoka City Hall Fureai Hiroba.
+2.  **Location**: The main venues include the Fukuoka City Hall Fureai Hiroba, Meiji-dori Avenue (Dontaku Hiroba), Hakata Station area, and Tenjin area.
+3.  **Admission**: All parade and stage performances are free to watch. However, some reserved seating areas along Meiji-dori may require advance tickets or reservations.
+4.  **Access**: The nearest subway stations are Tenjin Station and Hakata Station, both on the Fukuoka City Subway system. The Nishitetsu Fukuoka (Tenjin) Station is also within walking distance of the main venues.
+5.  **Traffic Regulations**: Large-scale traffic restrictions are enforced around the main venues, especially on Meiji-dori. It is strongly recommended to use public transportation, as many bus routes may be detoured or temporarily suspended.
+6.  **Organizer and Contact**: The festival is organized by the Fukuoka Citizens'' Festival Association, which includes the Fukuoka City Government and the Fukuoka Chamber of Commerce. Contact number: 092-441-1118. Please always check the official website for the most up-to-date schedule and status.
+7.  **Official Website**: [https://www.dontaku.fukunet.or.jp/](https://www.dontaku.fukunet.or.jp/)
+
+## Surrounding Area Information
+
+The Tenjin area, the heart of Fukuoka, is one of the largest commercial districts in Kyushu and is bustling year-round. Located within walking distance from the main festival venues, it offers a vast array of department stores, underground shopping malls, and restaurants where visitors can enjoy shopping and dining between parade viewings. As night falls, the nearby Nakasu district comes alive with its famous yatai food stalls, offering a perfect opportunity to savor local specialties like Hakata ramen and motsunabe hot pot while the festive spirit still fills the air.
+
+The Hakata Station area serves as another major hub for the festival, with performances taking place in the station plaza. The station building complex, which includes JR Hakata City and Hakata Deitos, is packed with diverse shops and restaurants, making it a convenient base for travelers arriving by Shinkansen or local trains. The covered shopping streets and underground passages are particularly useful if the weather turns rainy, allowing visitors to continue enjoying the festive atmosphere and local culture without interruption.
+
+For those wishing to explore further, the city offers attractions like the Fukuoka Tower, the Seaside Momochi area, and Marine World Uminonakamichi. The Golden Week holiday period in early May features pleasant weather, making it ideal for combining the urban festival experience with visits to these coastal and green spaces. This blend of traditional festival, modern urban energy, and natural beauty is a unique characteristic of Fukuoka that greatly enhances the overall tourist experience.
+
+## Related Information
+
+1.  **Relationship between Dontaku and Matsubayashi**: The Hakata Matsubayashi, the core ritual of the festival, was designated an Important Intangible Folk Cultural Property of Japan in the Reiwa era. It symbolizes the 850-year history and dignity that underpin the more modern and flamboyant citizens'' parade.
+2.  **The Origin of the Shamoji (Rice Paddle)**: The tradition of clapping shamojis is said to have started when a housewife, preparing dinner, joyfully joined a passing Dontaku parade by tapping her rice paddle. This spontaneous act evolved into a signature symbol of participation.
+3.  **The Word Handon**: The Dutch word Zondag, the etymological root of Dontaku, is also believed to be the origin of the Japanese word handon, which means a half-day holiday. This linguistic connection highlights the cultural concept of a festive break from work.
+4.  **Hakata Dontaku and Hakata Gion Yamakasa**: These are the two major festivals representing Fukuoka. While Dontaku is a colorful and participatory spring festival held in May, Yamakasa is a fierce and masculine summer festival held in July, showcasing the contrasting aspects of the city''s festive culture.
+5.  **International Participation**: The festival attracts significant international participation. In 2026, over 1,300 performers from 14 overseas groups, primarily from Asian nations such as Thailand, Malaysia, Indonesia, Myanmar, Taiwan, and India, are scheduled to take part.
+6.  **History of Floral Cars (Hana Densha and Hana Jidosha)**: The tradition of decorating vehicles dates back to the Meiji era, with records of streetcars being decorated for route openings. The use of floral vehicles in the Dontaku festival began not long after the post-war revival (initially as floral streetcars, becoming floral trucks in 1977) and has remained a popular attraction ever since.
+7.  **Past Cancellations**: The 59th festival in 2020 was cancelled due to the COVID-19 pandemic. The festival has also been interrupted by war in the past, but its repeated revival through the efforts of the citizens is a testament to its deep-rooted importance in Fukuoka.
+8.  **Historical Documents**: The Chikuzen no Kuni Zoku Fudoki by Kaibara Ekiken is the primary historical source that records the performance of Matsubayashi in Hakata in 1179. This document is invaluable for understanding the authentic origins of the festival.','hakata-dontaku','hakata-dontaku',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q7972772','わっしょい百万夏祭り','Wasshoi Hyakuman Natsumatsuri',NULL,'matsuri',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%A3%E3%81%97%E3%82%87%E3%81%84%E7%99%BE%E4%B8%87%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Wasshoi_Hyakuman_Natsumatsuri',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q6349714','角館のお祭り','Kakunodate Festival','秋田県仙北市の神明社と成就院薬師堂の祭','Japanese festival','Q11630890','角館','Kakunodate','秋田県','tohoku',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Kakunodate%20maturi%202008a.jpg','https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Kakunodate-matsuri',85,'drafted','## 概要
 
