@@ -6885,69 +6885,139 @@ Alongside the dolls, the venue displays a wide variety of meticulously cultivate
 Beyond the floral displays, the Takefu Chrysanthemum Doll Festival also offers revue shows and amusement park attractions, making it a family-friendly event cherished as a major local outing. Echizen City is also renowned for traditional crafts such as Echizen forged blades and Echizen washi paper. Set against this rich cultural backdrop, the festival continues to welcome large numbers of visitors as a defining autumn celebration of Fukui.','takefu-chrysanthemum-doll','takefu-chrysanthemum-doll-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11265326','くきのうみ花火の祭典',NULL,'北九州市の花火大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%8D%E3%81%AE%E3%81%86%E3%81%BF%E8%8A%B1%E7%81%AB%E3%81%AE%E7%A5%AD%E5%85%B8',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11262075','おのみち住吉花火まつり',NULL,'広島県尾道市で行われる花火大会',NULL,'Q696694','尾道市','Onomichi','大阪府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AE%E3%81%BF%E3%81%A1%E4%BD%8F%E5%90%89%E8%8A%B1%E7%81%AB%E3%81%BE%E3%81%A4%E3%82%8A',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11268205','さぬき高松まつり','Sanuki Takamatsu Festival',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Japan%20-%20Takamatsu%20Awa%20Odori%20Bon%20Festival%2003.jpg','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11268205','さぬき高松まつり','Sanuki Takamatsu Festival',NULL,'festival in Takamatsu, Japan',NULL,NULL,NULL,'香川県','shikoku',NULL,NULL,NULL,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Japan%20-%20Takamatsu%20Awa%20Odori%20Bon%20Festival%2003.jpg','https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A',NULL,80,'drafted','## 概要
 
-さぬき高松まつりは、香川県高松市で毎年8月12〜14日の3日間に開催される、四国を代表する夏祭りの一つである。正式には「さぬき高松まつり・どんどん高松」と称し、徳島の阿波おどり、高知のよさこい祭り、愛媛の新居浜太鼓祭りと並ぶ「四国四大祭り」の一つに数えられる。1966年（昭和41年）に始まった比較的新しい都市型の市民祭りで、市民総おどり「総おどり」や、瀬戸内海を彩る花火大会など、讃岐路の真夏の夜を盛り上げる多彩な催しが繰り広げられる。3日間の来場者は延べ数十万人規模にのぼり、近年の例では40万人を超える人出を記録している。
+さぬき高松まつりは、香川県高松市で毎年8月12日から14日までの3日間にわたって開催される夏祭りである。四国の四大祭りの一つに数えられ、市民や観光客に親しまれており、2026年で第59回を迎える[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。メイン会場はサンポート高松周辺のあなぶきアリーナ香川とサンポート多目的広場石のステージに設定され、中央公園は再整備中のため使用されない[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。
 
-この祭りは、伝統的な神事を起源とするものではなく、戦後の高度経済成長期に市民参加型のイベントとして企画・発展してきた点が大きな特徴である。瀬戸内海に開かれ、本州と四国を結ぶ要所として栄えた高松ならではの、海と都市が一体となった祝祭空間が魅力となっている。
+祭りのキャッチコピーは「ものっそ高松」で、これは「ものすごい高松」を意味する讃岐弁である[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。主催は高松市と高松まつり振興会であり、四国新聞社や西日本放送などが主管として運営に関わる。3日間で約27万人（2015年実績）の人出がある大規模な祭典で、花火大会や総おどりが最大の呼び物となっている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A)。
 
 ## 歴史・由来
 
-さぬき高松まつりは1966年に第1回が開催された。高度経済成長期に、市民の交流促進と地域の活性化を目的として始まった市民の祭りで、長い歴史を持つ伝統祭礼とは異なり、現代的な都市祭りとして一から企画された。開始当初から市民の参加を重視し、誰もが加われる開かれた祭りとして構想された点が、その後の発展を支えた。
+さぬき高松まつりの起源は、戦後の復興期に地域の結束を強める目的で始まったとされる。第1回は昭和30年代後半（一説では昭和39年＝1964年）に開催されたと伝えられ、回数の数え方には変遷があるものの、以来、高松市の夏の風物詩として発展してきた[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A)。当初は小規模な催しであったが、年を追うごとに参加団体や観客が増加し、四国を代表する祭りへと成長した。
 
-回を重ねるごとに規模を拡大し、総おどりや花火大会が祭りの中心行事として定着して、四国有数の夏祭りへと成長した。中心となる「総おどり」は、讃岐に古くから伝わる盆踊り唄「一合まいた」をアレンジした「さぬき高松のテーマ」曲にあわせて演舞が行われるのが特徴で、テーマ曲で踊る連と各連オリジナル曲で踊る自由連とがあり、合わせて数十連が参加する。市民や企業・団体の連が揃いの衣装で踊り進むことで、地域ぐるみの一体感を生み出してきた。近年は例年のメイン会場である中央公園が再整備中のため、サンポート高松エリアへ会場を移すなど、時代や状況に合わせて運営の見直しが続けられている。会場構成やプログラムは年により調整されるため、細部は各年の公式発表に拠る。
+祭りの名称は「さぬき高松まつり」で、旧国名の「讃岐」と都市名の「高松」を組み合わせている。これは地域のアイデンティティを強調し、県外にも広くアピールする狙いがあった。2010年代に入ると、中央通りを会場とした総おどりが定着し、一元放送連と自由連の2つのスタイルが確立された。
+
+花火大会は「どんどん高松」の愛称で親しまれ、高松港の海上から打ち上げられる。2000年代には打ち上げ数が増加し、最大1万2000発に達した時期もあったが、2026年の第59回では6000発に縮小されている[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。これは安全面や予算の都合による調整とみられる。
+
+2020年から2022年にかけては、新型コロナウイルス感染症の影響で規模縮小や中止が余儀なくされた。しかし、2023年以降は通常開催に戻り、2026年も3日間の全日程が予定されている。災害時の避難計画も整備され、南海トラフ地震に備えた避難誘導のルールが定められている[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。
+
+祭りの運営は高松市役所観光交流課内の高松まつり振興会が担う。毎年、開催要綱が策定され、警備計画や交通規制の詳細が決められる。参加連の募集は5月から始まり、総おどりには約25連が参加する予定である[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。
 
 ## 見どころ
 
-最大の見どころは、瀬戸内海を背景に打ち上げられる花火大会である。打ち上げ数は約12,000発にのぼり、海面に映る大輪の花火は瀬戸内ならではの美しさを誇る。サンポート高松周辺の会場からは海と花火が織りなす壮観な光景を間近で楽しめるほか、高松港を出る大型観覧船の上から観賞することもでき、有料観覧席も設けられる。多数の花火が夜空を彩る様子は、祭りのクライマックスにふさわしい華やかさである。
+**花火大会「どんどん高松」**  
+8月13日午後8時15分から45分まで、高松港玉藻防波堤から約6000発の花火が打ち上げられる[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。音楽に合わせて打ち上がる音楽花火がサンポート高松周辺と水城通りで実施され、観客を魅了する。最大8号玉の大玉も含まれ、瀬戸内海の夜空を華やかに彩る。
 
-また、市民総おどりでは、揃いの衣装をまとった連が次々と踊りを披露し、沿道は熱気に包まれる。テーマ曲「さぬき高松のテーマ」で揃って踊る一糸乱れぬ演舞と、自由連による個性豊かな踊りの対比も見どころである。ステージイベントや多彩な露店も充実し、家族連れから若者まで幅広い世代が祭りを満喫できる。
+**総おどり「喜舞笑舞（きまいわらいまい）」**  
+8月14日午後5時30分から8時30分まで、サンポート多目的広場石のステージで行われる[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。約25連が参加し、1連当たり最大40名が伝統民謡「一合まいた」を現代風にアレンジしたテーマ曲に合わせて踊る。ただし、2026年は中央通りを使用した一元放送連は実施されず、総おどりAWARDも行われない[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)。
+
+**オープニングステージイベント**  
+8月12日午後3時から9時まで、あなぶきアリーナ香川メインアリーナで開催される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。主管は四国新聞社と西日本放送で、地元アーティストや団体によるパフォーマンスが披露される。祭りの幕開けを告げる重要なプログラムで、多くの家族連れで賑わう。
+
+**有料観覧席と協賛席**  
+花火大会では、せとシーパレット周辺に約2700席の有料観覧席が設置される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。さらに、シンボルタワーホール棟屋上（約200席）とあなぶきアリーナ香川テラス（約220席）に協賛席が新設される。これらの席からは花火をより間近で鑑賞でき、特別な体験を提供する。
+
+**飲食コーナー**  
+多目的広場や玉藻公園北側プロムナード、高松築港駅前広場に飲食ブースが設けられる[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。地元の屋台や飲食店が出店し、讃岐うどんや骨付鳥などの香川名物を味わえる。祭りの熱気とともに、食も楽しめるのが特徴である。
+
+**子ども絵画コンクール**  
+第59回さぬき高松まつりをテーマにした絵画コンクールが実施される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。市内の子どもたちが描いた作品が審査され、優秀作品は祭り会場で展示される。地域の次世代に祭りの魅力を伝える役割を果たしている。
 
 ## 開催情報・アクセス
 
-開催は毎年8月12日〜14日の3日間で、香川県高松市の中心部が会場となる。アクセスはJR「高松駅」、ことでん「高松築港駅」などが至近で、市内中心部の複数会場へ徒歩で移動できる。瀬戸内海の島々への玄関口である高松港にも近く、島しょ部からの来場者も多い。花火大会には有料観覧席が設けられ、混雑緩和や良好な観覧環境の確保が図られている。
+- **開催日程**：2026年8月12日（水）～14日（金）。12日は15:00～21:00、13日は20:15～20:45（花火大会）、14日は17:30～20:30（総おどり）[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **メイン会場**：あなぶきアリーナ香川、サンポート多目的広場石のステージ（高松市サンポート）[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **アクセス**：JR高松駅またはことでん高松築港駅から徒歩約4分[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **交通規制**：周辺道路は毎年大変混雑し、特に花火大会後はシンボルタワー地下駐車場の出庫に1時間以上かかる場合があるため、公共交通機関の利用が推奨される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **入場料**：花火大会の無料観覧エリアはサンポート高松周辺と水城通り。有料観覧席（せとシーパレット周辺）および協賛席（シンボルタワーホール棟屋上、あなぶきアリーナ香川テラス）は有料[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **荒天時対応**：花火大会は雨天決行、荒天中止。総おどりは荒天中止。中止の場合、あなぶきアリーナ香川のイベントは一部スケジュール変更[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+- **禁止事項**：会場周辺でのドローン飛行は禁止（改正航空法違反）。歩きスマホも禁止[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **最新情報**：詳細な交通規制情報や中止判断は、高松市公式サイトやSNSで随時発表される。最新の開催日程・実施可否は公式サイトで確認すること。
 
-真夏の屋外イベントのため、暑さ対策・水分補給は欠かせない。会場やプログラム、交通規制の内容は年により異なるため、来場前に高松まつり振興会や高松市の公式情報で最新の日程・会場を確認することが望ましい。
+## 周辺情報
 
-## 周辺の見どころ
+サンポート高松周辺には、高松シンボルタワーや高松港旅客ターミナルなどのランドマークが集積する。玉藻公園（高松城跡）も徒歩圏内で、祭りの合間に歴史的な景観を楽しめる。特に玉藻防波堤から打ち上がる花火は、これらの建造物を背景に美しいコントラストを描く。
 
-高松市は、国の特別名勝に指定された大名庭園・栗林公園や、高松城跡を整備した玉藻公園、瀬戸内海の島々への玄関口として知られる。さぬき高松まつりの観覧と合わせて、名園散策や讃岐うどん巡り、直島・小豆島・女木島といった瀬戸内の島めぐりを組み合わせれば、瀬戸内ならではの魅力を満喫する旅となる。瀬戸内国際芸術祭の主要拠点としても近年注目を集めている。
+ことでん高松築港駅の近くには瓦町フラッグやライオン通りの商店街が広がり、買い物や食事に便利である。祭り期間中は歩行者天国や大縁日が南部商店街などで開催され、盆踊り（一合まいた踊り）が丸亀町商店街壱番街ドーム広場で行われる[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)。これらのイベントは祭りと連動して地域全体を盛り上げる。
+
+高松市内には栗林公園や屋島などの観光名所も点在する。祭りの前後に訪れることで、香川県の文化や自然を満喫できる。特に花火大会の日には、多くの観光客が周辺のホテルに宿泊し、瀬戸内海の夜景と花火を同時に楽しむことができる。
 
 ## 関連情報
 
-さぬき高松まつりは、徳島の阿波おどりや高知のよさこい祭りなど四国各地の夏祭りと併せて見ると、戦後に発展した市民参加型の都市祭りの広がりをより深く理解できる。開催月は8月（夏）、所在は香川県高松市、会場は高松市中心部（中央通り・サンポート高松周辺ほか）で、第1回は1966年に開催された。花火約12,000発を擁し、四国四大祭りの一つに数えられる、瀬戸内の港町を代表する夏祭りである。
-','## Overview
+1. **主催者**：高松まつり振興会（高松市観光交流課内、電話087-839-2416）[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+2. **オフィシャルグッズ**：ポスターの「うどん脳」デザインを活用したTシャツやグッズが販売され、ネット販売も導入される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+3. **総おどり参加費**：1連当たり5000円で、募集期間は2026年5月1日～22日必着[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+4. **ENGLISH INFO**：高松市公式サイトに英語ページがあり、海外観光客向けにアクセス情報が提供される[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsurienglish.html)
+5. **災害時の避難**：地震発生時や津波警報発表時は会場放送で避難指示があり、南方面（中央通り等）へ避難するルールが定められている[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+6. **過去の実績**：2015年には約27万人の人出があり、花火大会では最大1万2000発が打ち上げられていた[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A)・現在の打ち上げ数は6000発に変更されている[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
 
-The Sanuki Takamatsu Matsuri is one of the representative summer festivals of Shikoku, held over three days from August 12 to 14 each year in Takamatsu City, Kagawa Prefecture. Formally called the "Sanuki Takamatsu Matsuri / Dondon Takamatsu," it is counted among the "Four Great Festivals of Shikoku," alongside the Awa Odori of Tokushima, the Yosakoi Festival of Kochi, and the Niihama Taiko Festival of Ehime. Begun in 1966, it is a relatively new urban citizens'' festival, and during the height of summer it fills the nights of the Sanuki region with a citywide grand dance ("so-odori") and a fireworks display that colors the Seto Inland Sea, among many other events. Over its three days it draws several hundred thousand visitors, with recent editions recording crowds exceeding 400,000.
+===
 
-Rather than originating in a traditional religious rite, the festival was planned and developed as a participatory citizens'' event during the postwar period of rapid economic growth. Its appeal lies in a festive space where sea and city merge, characteristic of Takamatsu, a hub that prospered as a gateway opening onto the Seto Inland Sea and connecting Honshu and Shikoku.
+## The 59th Sanuki Takamatsu Festival','## Overview
+
+The Sanuki Takamatsu Festival is a summer festival held annually from August 12th to 14th in Takamatsu City, Kagawa Prefecture. It is counted among the four major festivals of Shikoku and is beloved by citizens and tourists alike, with the 59th edition scheduled for 2026[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html). The main venues are the Anabuki Arena Kagawa and the Stone Stage of the Sunport Takamatsu Multi-Purpose Plaza, as Central Park is under renovation and unavailable.
+
+The festival''s catchphrase is "Monnso Takamatsu," which is a local Sanuki dialect expression meaning "Amazing Takamatsu"[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html). The event is organized by the Takamatsu City Government and the Takamatsu Festival Promotion Association, with the Shikoku Shimbun and Nishi Nippon Broadcasting serving as executive bodies. The festival attracts approximately 270,000 visitors (based on 2015 data), with the fireworks display and grand dance being the main attractions[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A).
 
 ## History and Origins
 
-The Sanuki Takamatsu Matsuri held its first edition in 1966. Begun during the era of rapid economic growth to promote civic exchange and revitalize the region, it was planned from scratch as a modern urban festival, unlike traditional festivals with long histories. From the outset it emphasized citizen participation, conceived as an open festival anyone could join, which supported its later growth.
+The origins of the Sanuki Takamatsu Festival trace back to the post-war reconstruction period, when it was initiated to strengthen community bonds. The first festival is said to have been held in the late 1950s to mid-1960s (one account cites 1964, Showa 39), and although the way the editions are counted has varied over time, it has since evolved into a summer tradition for Takamatsu City[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A). Initially a modest event, it grew steadily as participating groups and spectators increased, eventually becoming one of Shikoku''s most representative festivals.
 
-Edition by edition it expanded in scale, and the so-odori and the fireworks display became established as its central events, growing into one of Shikoku''s leading summer festivals. The central "so-odori" is distinguished by dancing performed to the theme song "Sanuki Takamatsu no Theme," an arrangement of the old Sanuki Bon-odori song "Ichigo Maita." Dancers include groups (ren) that dance to the theme song and free groups that dance to each ren''s own music, with several dozen groups participating in all. With citizens, companies, and organizations dancing in matching costumes, the festival fosters a sense of citywide unity. In recent years, because the usual main venue at Central Park has been under redevelopment, the venue has been moved to the Sunport Takamatsu area, and operations have continued to be revised to suit the circumstances. Venue layout and program are adjusted by year, so details depend on each year''s official announcements.
+The name combines "Sanuki," the old provincial name for the area, with "Takamatsu," the city name. This choice was intended to emphasize regional identity while promoting the festival beyond prefectural borders. By the 2010s, the grand dance held on Chuo-dori Avenue had become established, with two styles: unified broadcast groups and free-style groups.
+
+The fireworks display, affectionately called "Dondon Takamatsu," is launched from offshore Takamatsu Port. The number of shells increased over the years, reaching a peak of 12,000 rounds in some periods, but for the 59th edition in 2026, the count has been reduced to 6,000 rounds[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html). This reduction is likely due to safety considerations and budget adjustments.
+
+From 2020 to 2022, the festival was significantly scaled back or canceled due to the COVID-19 pandemic. However, since 2023, it has returned to full scale, and the 2026 event is scheduled for the full three days. Evacuation plans for disasters have been established, including protocols for a Nankai Trough earthquake[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html).
+
+The festival is managed by the Takamatsu Festival Promotion Association, located within the Tourism and Exchange Division of the Takamatsu City Office. Each year, an implementation outline is drafted, detailing security plans and traffic regulations. Recruitment for participating dance groups begins in May, with about 25 groups expected to join the grand dance[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf).
 
 ## Highlights
 
-The greatest highlight is the fireworks display launched against the backdrop of the Seto Inland Sea. With around 12,000 fireworks, the great blooms reflected on the sea''s surface boast a beauty unique to the Seto Inland Sea. From venues around Sunport Takamatsu, visitors can enjoy the spectacular interplay of sea and fireworks up close, and they may also view them from aboard large sightseeing boats departing Takamatsu Port; paid seating is also provided. The sight of countless fireworks coloring the night sky offers a splendor befitting the festival''s climax.
+**Fireworks Display "Dondon Takamatsu"**  
+On August 13th, from 8:15 PM to 8:45 PM, approximately 6,000 fireworks are launched from the Tamamo Breakwater in Takamatsu Port[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html). Musical fireworks synchronized to background music are displayed around the Sunport Takamatsu area and along Suijo-dori Street, captivating the audience. The largest shells measure up to 8 inches in diameter, brilliantly illuminating the night sky over the Seto Inland Sea.
 
-In the citywide so-odori, groups in matching costumes perform one after another, filling the streets with excitement. The contrast between the perfectly synchronized dancing to the theme song "Sanuki Takamatsu no Theme" and the individualistic dancing of the free groups is also a highlight. With stage events and a variety of stalls, visitors of all ages, from families to young people, can fully enjoy the festival.
+**Grand Dance "Kimai Waraimai"**  
+On August 14th, from 5:30 PM to 8:30 PM, the grand dance takes place at the Stone Stage of the Sunport Multi-Purpose Plaza[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html). About 25 groups participate, with each group allowed up to 40 dancers performing to a modern arrangement of the traditional folk song "Ichigomaita." However, in 2026, the unified broadcast dance on Chuo-dori Avenue will not be held, and the Grand Dance AWARD will also be suspended[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html).
+
+**Opening Stage Event**  
+On August 12th, from 3:00 PM to 9:00 PM, the main arena of Anabuki Arena Kagawa hosts the opening event[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf). Managed by the Shikoku Shimbun and Nishi Nippon Broadcasting, it features performances by local artists and groups. This program marks the official start of the festival and draws many families.
+
+**Paid Seating and Sponsor Seating**  
+For the fireworks display, approximately 2,700 paid seats are set up around the Seto Sea Palette area[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf). Additionally, sponsor seats are newly introduced on the rooftop of the Symbol Tower Hall Building (about 200 seats) and on the Anabuki Arena Kagawa Terrace (about 220 seats). These seats offer closer views of the fireworks, providing a special experience.
+
+**Food and Drink Areas**  
+Food stalls are set up at the Multi-Purpose Plaza, the northern promenade of Tamamo Park, and in front of Takamatsu Chikko Station[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf). Local vendors offer specialties such as Sanuki udon noodles and bone-in chicken, allowing visitors to enjoy Kagawa''s cuisine. The lively atmosphere combined with food is a distinctive feature.
+
+**Children''s Art Competition**  
+A painting competition themed on the 59th Sanuki Takamatsu Festival is conducted[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf). Children from the city submit their works, which are judged, and the winning pieces are displayed at the festival venue. This initiative plays a role in passing on the festival''s appeal to the next generation.
 
 ## Event Information and Access
 
-The festival is held over three days from August 12 to 14 each year, centered on the heart of Takamatsu City, Kagawa Prefecture. Access is excellent: JR "Takamatsu Station" and Kotoden "Takamatsu-Chikko Station" are close by, and the several venues in the city center are within walking distance. It is also near Takamatsu Port, the gateway to the islands of the Seto Inland Sea, and many visitors come from the islands. Paid seating is provided for the fireworks display to ease congestion and ensure good viewing conditions.
+- **Dates**: August 12th (Wed) to 14th (Fri), 2026. August 12th: 15:00-21:00; August 13th: 20:15-20:45 (fireworks); August 14th: 17:30-20:30 (grand dance)[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Main Venues**: Anabuki Arena Kagawa, Sunport Multi-Purpose Plaza Stone Stage (Sunport, Takamatsu City)[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Access**: Approximately a 4-minute walk from JR Takamatsu Station or Kotoden Takamatsu-Chikko Station[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Traffic Regulations**: Roads around the venues are heavily congested annually; exiting the Symbol Tower underground parking lot can take over an hour after the fireworks. Use of public transportation is strongly recommended[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Admission**: Free viewing areas for the fireworks are at Sunport Takamatsu and Suijo-dori. Paid seats (around Seto Sea Palette) and sponsor seats (Symbol Tower Hall rooftop, Anabuki Arena Kagawa Terrace) require tickets[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Weather Contingency**: Fireworks proceed in rain but are canceled in severe weather. The grand dance is canceled in severe weather. In case of cancellation, events at Anabuki Arena Kagawa adjust their schedules[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+- **Prohibitions**: Drone flights are banned near the venue (violation of revised Aviation Law). Walking while using smartphones is also prohibited[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+- **Latest Updates**: Detailed traffic regulation information and cancellation decisions are announced on the Takamatsu City official website and social media. Check the official website for the most current schedule and event status.
 
-As a midsummer outdoor event, protection against the heat and frequent hydration are essential. Because venues, programs, and traffic restrictions vary by year, visitors should confirm the latest dates and venues through the Takamatsu Festival Promotion Association or the city''s official information before attending.
+## Surrounding Area
 
-## Nearby Attractions
+Around Sunport Takamatsu, landmarks such as the Takamatsu Symbol Tower and the Takamatsu Port Passenger Terminal are concentrated. Tamamo Park (the site of Takamatsu Castle) is within walking distance, allowing visitors to enjoy historical scenery between festival events. The fireworks launched from the Tamamo Breakwater create beautiful contrasts against these structures.
 
-Takamatsu City is known for Ritsurin Garden, a feudal-lord garden designated a Special Place of Scenic Beauty; Tamamo Park, developed on the site of Takamatsu Castle; and its role as a gateway to the islands of the Seto Inland Sea. Combined with the Sanuki Takamatsu Matsuri, a tour of the famous garden, a hunt for Sanuki udon, and island-hopping to Naoshima, Shodoshima, and Megijima make for a trip rich in the charms of the Seto Inland Sea. The city has also drawn attention in recent years as a key base for the Setouchi Triennale.
+Near Kotoden Takamatsu-Chikko Station, shopping streets like Kawaramachi Flag and Lion-dori Street offer convenient shopping and dining. During the festival, pedestrian paradises and large fair events are held in the southern shopping streets, and traditional Bon Odori (Ichigomaita dance) takes place at the Dome Plaza of Marugamemachi Shopping Street[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf). These events, linked with the festival, enliven the entire area.
+
+Takamatsu City also features tourist attractions such as Ritsurin Garden and Yashima Island. Visiting before or after the festival allows visitors to fully enjoy Kagawa''s culture and nature. On fireworks night, many tourists stay at nearby hotels, enjoying both the Seto Inland Sea night view and the fireworks simultaneously.
 
 ## Related Information
 
-Viewed alongside the summer festivals of Shikoku such as the Awa Odori of Tokushima and the Yosakoi Festival of Kochi, the Sanuki Takamatsu Matsuri offers a deeper understanding of the spread of participatory urban festivals that developed in the postwar period. Held in August (summer) in Takamatsu City, Kagawa Prefecture, with venues in the city center including the central avenue and the Sunport Takamatsu area, its first edition was held in 1966. With some 12,000 fireworks, it is counted among the Four Great Festivals of Shikoku and is a representative summer festival of this Seto Inland Sea port town.
-','sanuki-takamatsu-matsuri','sanuki-takamatsu-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+1. **Organizer**: Takamatsu Festival Promotion Association (within Takamatsu City Tourism and Exchange Division, phone 087-839-2416)[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+2. **Official Merchandise**: T-shirts and goods featuring the poster design of udon brain characters are sold, with online sales also introduced[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+3. **Grand Dance Participation Fee**: 5,000 yen per group, with registration from May 1st to 22nd, 2026 (postmarked deadline)[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.files/59kaisaiyoukou.pdf)
+4. **English Information**: The Takamatsu City official website has an English page providing access information for international visitors[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsurienglish.html)
+5. **Disaster Evacuation**: In case of an earthquake or tsunami warning, evacuation announcements are made via venue broadcasts, with rules to evacuate southward (toward Chuo-dori)[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)
+6. **Historical Record**: In 2015, the festival saw approximately 270,000 visitors, and the fireworks display once featured up to 12,000 rounds[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A). The current count has been revised to 6,000 rounds[city.takamatsu.kagawa.jp](https://www.city.takamatsu.kagawa.jp/kanko/takamatsumatsuri/matsuri.html)','sanuki-takamatsu-matsuri','sanuki-takamatsu-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11272296','つくりもんまつり','Tsukurimon Festival','富山県高岡市福岡町で行なわれる奇祭',NULL,'Q17','日本','Japan','富山県','chubu',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/National%20Museum%20of%20Ethnology%2C%20Osaka%20-%20Ranry%C3%B4-%C3%B4%20statue%20made%20of%20vegetables%20-%20Festival%20%22Tsukurimon-matsuri%22%20-%20Takaoka%2C%20Toyama%20pref.%20-%20Collected%20in%202012.jpg','https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%82%8A%E3%82%82%E3%82%93%E3%81%BE%E3%81%A4%E3%82%8A',NULL,85,'drafted','## つくりもんまつりとは
 
 つくりもんまつりは、富山県高岡市福岡町（旧福岡町）で毎年9月23日・24日の地蔵祭にあわせて開催される、全国的にも珍しい奇祭です。野菜・果物・草花といった農産物そのものを素材として、歴史上の人物や時事の話題、物語の一場面などを精巧にかたどった「つくりもん」を町中に飾り立てる、収穫期ならではの祭りとして親しまれています。大根、なす、かぼちゃ、唐辛子、稲穂などが思いがけない造形へと姿を変え、見る者を驚かせます。
