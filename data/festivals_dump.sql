@@ -12141,43 +12141,147 @@ INSERT INTO "festivals" VALUES('Q20043614','かくだ菜の花まつり','Kakuda
 INSERT INTO "festivals" VALUES('Q17213195','''響の都''オペラの祭典','Kyoto Opera Festival',NULL,'music festival in Japan','Q34600','京都市','Kyoto','京都府','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%9F%BF%E3%81%AE%E9%83%BD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21653987','なとり夏まつり',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.15824444,140.91026389,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%A8%E3%82%8A%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q17217972','MONGOL800 ga FESTIVAL What a Wonderful World!!',NULL,NULL,'Japanese rock festival','Q11337942','ホテル日航アリビラ/ヨミタンリゾート沖縄',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!!',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q21653325','水郷佐原あやめ祭り','Suigō Sawara Ayame Festival','千葉県香取市の水郷佐原あやめパークで行われる祭り',NULL,'Q4385625','水郷佐原あやめパーク','Suigō Sawara Ayame Park','千葉県','kanto',35.92801944,140.52430833,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Suigo-Sawara-aquatic-botanical-garden3%2Ciris%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E4%BD%90%E5%8E%9F%E3%81%82%E3%82%84%E3%82%81%E7%A5%AD%E3%82%8A',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q21653325','水郷佐原あやめ祭り','Suigō Sawara Ayame Festival','千葉県香取市の水郷佐原あやめパークで行われる祭り',NULL,'Q4385625','水郷佐原あやめパーク','Suigō Sawara Ayame Park','千葉県','kanto',35.92801944,140.52430833,NULL,6,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Suigo-Sawara-aquatic-botanical-garden3%2Ciris%2CKatori-city%2CJapan.JPG','https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E4%BD%90%E5%8E%9F%E3%81%82%E3%82%84%E3%82%81%E7%A5%AD%E3%82%8A',NULL,95,'drafted','## 概要
 
-水郷佐原あやめ祭り（すいごうさわらあやめまつり）は、千葉県香取市の水郷佐原あやめパークで毎年5月下旬から6月下旬にかけて開催される、約400品種150万本のハナショウブが咲き誇る関東屈指のあやめ・花菖蒲の祭典である。利根川下流域の水郷地帯の風景と共に楽しむ花の祭りとして、対岸の茨城県潮来市の「水郷潮来あやめまつり」と並び称される。
+水郷佐原あやめ祭りは、千葉県香取市にある水郷佐原あやめパークで毎年5月下旬から6月下旬にかけて開催される花菖蒲の祭典である。園内には約400品種、約150万本もの花菖蒲が植えられており、見頃は例年6月上旬とされている[chibanippo.co.jp](https://www.chibanippo.co.jp/articles/1618733)。この広大な花菖蒲田は約8ヘクタールもの敷地を誇り、江戸系・肥後系・伊勢系など多様な系統の花が品種ごとに植え分けられている[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。
 
-## 歴史
+本祭りの最大の特徴は、園内に張り巡らされた水路を「サッパ舟」と呼ばれる小舟に乗って花を鑑賞できる点にある。日本の花菖蒲園の中で、舟の上から花菖蒲を楽しめるのは水郷佐原あやめパークだけであり、この独自性が多くの来訪者を惹きつけている[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。水郷のまち佐原ならではの風情が漂うこの景観は、初夏の訪れを告げる風物詩として千葉県内外に広く知られている。
 
-佐原は江戸時代から利根川水運の要衝として栄えた水郷都市で、湿地帯に自生するあやめ・ハナショウブが古くから親しまれてきた。水郷佐原あやめパーク（旧・水郷佐原水生植物園）は1969年（昭和44年）に開園し、地域観光資源として整備された。香取市の市町村合併（2006年）後、施設改修を経て現在の「水郷佐原あやめパーク」として再オープンし、毎年のあやめ祭りも規模を拡大してきた。江戸期の利根川水運を支えた佐原の伝統と、ハナショウブを中心とする花文化の融合を体現する祭典として定着している。
+## 歴史・由来
+
+水郷佐原あやめパークの前身は、1960年代に開園した「佐原市立水生植物園」である[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。佐原市（現・香取市）が水郷筑波国定公園の一角に位置することを活かし、水生植物を中心とした観光施設として整備された。開園以来、花菖蒲をはじめとする季節の花々を楽しめる場として、地域住民と観光客の双方に親しまれてきた。
+
+「水郷」という呼称は、この地域が古くから利根川水運で栄えたことに由来する。佐原は江戸時代から明治時代にかけて「水郷のまち」として知られ、舟運による物流の拠点として発展した[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%83%B7%E4%BD%90%E5%8E%9F%E3%81%82%E3%82%84%E3%82%81%E7%A5%AD%E3%82%8A)。この歴史的背景が、現在のあやめ祭りにおける舟遊覧や嫁入り舟といった催し物の基盤となっている。また、園内にある「結の島」では、花菖蒲に囲まれた中で神前式が執り行われることがあり、香取神宮の神官が招かれる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。
+
+あやめ祭りそのものの初回開催年は記録によって明確ではないが、植物園の開園以来、花菖蒲の見頃に合わせて毎年開催されてきた恒例行事である。一説には、1970年代には既に現在のような形で祭りが行われていたとされるが、正確な起源を特定する資料は乏しい。ただし、園内の花菖蒲田は長年にわたって品種改良と植え替えが繰り返され、現在では400品種を数えるまでに成長した[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。
+
+2005年に佐原市が周辺町村と合併して香取市となった後も、祭りは「水郷佐原あやめ祭り実行委員会」の主催により継続されている。近年では「房総の魅力500選」にも選定され、千葉県を代表する花の祭典としての地位を確立している[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。また、あやめ祭り期間中にはJR東日本が臨時特急「あやめ祭り号」を運転することがあり、首都圏からのアクセス向上にも貢献している。
 
 ## 見どころ
 
-園内には約400品種・150万本のハナショウブが植えられ、紫・白・黄・絞り模様など色彩豊かな品種が一斉に見頃を迎える。期間中の土日には「嫁入り舟」が運行され、白無垢の花嫁が小舟で園内の水路を渡る往時の水郷婚礼風景を再現する。ろ舟遊覧、夜間ライトアップ、地元産品の販売、伝統芸能の奉納など、水郷文化を堪能できる多彩なプログラムが用意される。
+**150万本の花菖蒲が織りなす紫の絨毯**
+水郷佐原あやめパークの花菖蒲田は、約8ヘクタールの広大な敷地に400品種、約150万本の花菖蒲が植えられている[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。これらの花は江戸系・肥後系・伊勢系など系統ごとに区画分けされており、品種ごとに異なる色合いや花形を比較しながら鑑賞できる。見頃の6月上旬には、紫色・白色・ピンク色の花が一面に広がり、まるで巨大な絨毯を敷き詰めたような壮観な景色が広がる。
+
+**サッパ舟での園内巡り**
+園内の水路を「サッパ舟」と呼ばれる小舟で巡る遊覧は、この祭り最大の目玉である[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。サッパ舟は元々この地域で使われていた伝統的な漁船であり、現在は観光用に運航されている。女船頭が絣の着物に赤い前掛け、三角の編み笠をかぶって棹を操る姿は、この時期の風物詩として親しまれている[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。乗船料は中学生以上500円、3歳から小学生200円で、所要時間は約15分程度である。
+
+**嫁入り舟の再現**
+祭り期間中の週末には、かつて佐原地域で行われていた「嫁入り舟」が再現される[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。花婿と花嫁がサッパ舟に乗り、晴れ姿を披露しながら園内の水路を進むこの催しは、多くの観客の注目を集める。香取神宮の神官を招いて実際の結婚式も行われることもあり、花菖蒲に囲まれた「結の島」で神前式が執り行われる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。この伝統行事は、水郷のまちならではの婚礼文化を現代に伝える貴重な機会となっている。
+
+**佐原囃子とおらんだ楽隊の演奏**
+祭り期間中には、香取市に伝わる伝統芸能である「佐原囃子」と「おらんだ楽隊」の演奏が行われる[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。佐原囃子は日本三大囃子の一つに数えられ、笛や大鼓、小鼓、大太鼓、小太鼓、すりがねで構成される独特の音楽である。一方、おらんだ楽隊は県指定の無形民俗文化財に指定されており、江戸時代末期から明治時代初期に神楽に洋楽を取り入れた珍しい音楽形式である。これらの演奏は、花菖蒲の景観に華やかな音色を添えている。
+
+**藤のトンネル「幸せの道」**
+園内入口近くには、長さ約70メートルに及ぶ藤のトンネルがあり、通称「幸せの道」と呼ばれている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。あやめ祭りの開催時期は藤の花の見頃と重なることもあり、紫色の藤の花が咲き誇るトンネルをくぐることができる。この藤棚は園内各所にあり、花菖蒲とは異なる趣の花景を楽しめる。
+
+**子供向け体験メニュー**
+園内では、ザリガニ釣りや鯉の餌やり体験など、子供連れの家族が楽しめるアクティビティも用意されている[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。ザリガニ釣りは竿の貸し出しを行っており、手ぶらで訪れても参加できる。また、園内には大型遊具が設置された芝生広場もあり、親子で一日中過ごすことができる。
 
 ## 開催情報・アクセス
 
-会場は水郷佐原あやめパーク（千葉県香取市扇島1837-2）。JR成田線佐原駅から車・タクシーで約20分。期間中は臨時シャトルバスが運行される。入園は有料（あやめ祭り期間中の特別料金）。期間中の来場者は約30万人。
+- **開催期間**: 2026年は5月23日（土）から6月21日（日）まで[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。毎年5月下旬から6月下旬にかけて開催される。
+- **開催時間**: あやめ祭り期間中は8時から18時まで開園している[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。最終入園は閉園時間の30分前とされている。
+- **入園料金**: あやめ祭り期間中は大人800円、小・中学生400円、65歳以上700円。団体割引あり（大人700円、小・中学生350円）[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。5月～8月は大人600円、小・中学生300円、65歳以上500円。4月・9月～11月は大人200円、小・中学生100円、65歳以上150円。12月～3月は無料[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。
+- **サッパ舟乗船料**: 中学生以上500円（団体400円）、3歳から小学生200円[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。強風や雨天の場合は運航中止となる。
+- **アクセス（電車）**: JR成田線佐原駅から、あやめ祭り期間中は直通シャトルバスが運行される（所要時間約25分、中学生以上600円、小学生300円）[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。平日のみ佐原駅から佐原循環バス（北佐原・新島ルート）も運行されている。また、関鉄グリーンバス「あそう号」を利用すれば東京駅から約100分で水郷佐原あやめパーク入口に到着する[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。
+- **アクセス（車）**: 東関東自動車道佐原香取ICまたは大栄ICから潮来方面へ約30分。圏央道神崎ICまたは稲敷東ICから約25分[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。駐車場は無料で、乗用車500台、大型バス31台を収容可能。
+- **休園日**: 毎週月曜日（祝日の場合は翌平日）、年末年始（12月28日～1月4日）。ただし、あやめ祭り期間中（5月～6月）およびはす祭り期間中（7月～8月）は無休[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。
+- **問い合わせ先**: 水郷佐原あやめパーク（電話番号：0478-56-0411）[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。最新の開催日程やイベント詳細は公式サイトで確認すること。
 
-## 周辺観光
+## 周辺情報
 
-佐原市街は重要伝統的建造物群保存地区に指定され、江戸期の商家・蔵・水路が残る「小江戸佐原」として観光人気が高い。伊能忠敬旧宅・記念館、香取神宮、利根川河川敷、対岸の潮来あやめ園など、水郷文化と歴史を堪能できる観光資源が集中する。鹿島神宮との「鹿島・香取・息栖」東国三社巡りも近年人気。','## Overview
+水郷佐原あやめパークから車で約20分の場所には、重要伝統的建造物群保存地区に選定されている「佐原の街並み」がある。この地区は江戸時代から明治時代にかけての商家や蔵が立ち並び、「小江戸」とも呼ばれる歴史的な景観を残している。街並みの中心を流れる小野川沿いには、当時の面影を伝える町屋が連なり、散策しながら佐原の歴史を感じることができる。
 
-The Suigō Sawara Iris Festival (Suigō Sawara Ayame Matsuri) is a major iris and Japanese iris festival held annually from late May to late June at the Suigō Sawara Ayame Park in Katori City, Chiba Prefecture, showcasing approximately 1.5 million hanashōbu Japanese iris blooms across some 400 varieties. As one of the Kantō region''s premier iris-viewing events, the festival is celebrated alongside the surrounding water-country landscape of the lower Tone River basin and is widely paired with the Suigō Itako Iris Festival on the opposite bank in Ibaraki Prefecture.
+香取市には、全国約400社ある香取神社の総本社である「香取神宮」が鎮座している。香取神宮は初詣や節分祭など年間を通じて多くの参拝者で賑わう神社であり、あやめ祭りの嫁入り舟では同神社の神官が神前式を執り行う[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。また、香取神宮では12年に一度の午年に「神幸祭」が開催され、おらんだ楽隊の演奏が奉納されることでも知られている[trip.iko-yo.net](https://trip.iko-yo.net/events/385)。
 
-## History
+あやめ祭りと同時期には、佐原の街中で「佐原の大祭」が開催される年もある。佐原の大祭はユネスコ無形文化遺産に登録されており、豪華な山車が街中を曳き回される様子は圧巻である。佐原囃子の演奏とともに山車が進む光景は、あやめ祭りとはまた異なる佐原の魅力を来訪者に提供している。これらの観光スポットを組み合わせて訪れることで、香取市の歴史と自然を一度に満喫することができる。
 
-Sawara flourished from the Edo period as a key water-transport hub along the Tone River, and the iris and hanashōbu plants native to the surrounding wetlands have long been cherished by local residents. The Suigō Sawara Ayame Park (formerly the Suigō Sawara Aquatic Botanical Garden) was opened in 1969 (Shōwa 44) and developed as a regional tourism resource. Following the municipal merger of Katori City in 2006, the facility underwent renovation and reopened as the current "Suigō Sawara Ayame Park," with the annual iris festival continuing to expand in scale. The festival has become firmly established as a celebration embodying the fusion of Sawara''s tradition supporting the Edo-era Tone River water transport and its flower culture centered on hanashōbu.
+## 関連情報
+
+1. **日本の花菖蒲名所との比較**: 水郷佐原あやめパークは、日本有数の花菖蒲園として知られる埼玉県の「菖蒲城趾あやめ園」や茨城県の「水郷潮来あやめ園」と並ぶ存在である。特に、舟上から花を鑑賞できる点は他の追随を許さない独自性である[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。
+
+2. **房総の魅力500選選定**: 本祭りは「房総の魅力500選」に選定されており、千葉県を代表する観光資源として認められている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。この選定は、千葉県の観光振興を目的として行われている。
+
+3. **臨時特急列車の運行**: あやめ祭り期間中、JR東日本は東京方面から臨時特急「あやめ祭り号」を運転することがある[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。運行日や時刻は毎年変動するため、最新の鉄道ダイヤを確認する必要がある。
+
+4. **水郷筑波国定公園の一部**: 水郷佐原あやめパークは水郷筑波国定公園の区域内に位置している[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。この国定公園は茨城県と千葉県にまたがり、霞ヶ浦や利根川の水郷地帯を保護する目的で指定されている。
+
+5. **花ハスの名所としての側面**: あやめ祭り終了後、7月から8月にかけては「観蓮会（はす祭り）」が開催される[maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html)。園内には約300品種の花ハスが栽培されており、品種数では日本一の規模を誇る。2000年前の種から発芽した「大賀ハス」や、花弁が1000枚以上ある「千弁蓮」などの珍しい品種も見ることができる。
+
+6. **体験教室の開催**: あやめ祭り期間中は、花菖蒲の植え替え体験や工作教室などのイベントが開催されることがある[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92)。また、売店では香取市の名産品やお土産、花菖蒲の鉢植えなども販売されている。
+
+7. **訪れるのに最適な時期**: 花菖蒲の見頃は例年6月上旬から中旬にかけてである[chibanippo.co.jp](https://www.chibanippo.co.jp/articles/1618733)。ただし、早咲きの品種は5月下旬から楽しめるため、祭り期間中は常に何らかの花が咲いている状態が保たれている。混雑を避けるには平日の午前中が推奨される。','## Overview
+
+The Suigo Sawara Ayame Matsuri is an annual iris festival held from late May to late June at the Suigo Sawara Ayame Park in Katori City, Chiba Prefecture. The park boasts approximately 400 varieties and about 1.5 million iris flowers planted across a vast area of about 8 hectares [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html). The peak blooming period typically occurs in early June, when Edo, Higo, and Ise strains of irises display their purple, white, and pink blossoms [chibanippo.co.jp](https://www.chibanippo.co.jp/articles/1618733).
+
+The most distinctive feature of this festival is the opportunity to view the irises from small boats called "Sappa-bune" that navigate through the network of waterways within the park. The Suigo Sawara Ayame Park is the only iris garden in Japan where visitors can enjoy flower viewing from a boat [trip.iko-yo.net](https://trip.iko-yo.net/events/385). This unique experience, combined with the traditional water town atmosphere of Sawara, has made the festival a beloved herald of early summer in Chiba Prefecture and beyond.
+
+The park originally opened in the 1960s as the Sawara City Aquatic Plant Garden and has since been managed by Katori City after the municipal merger in 2005 [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92). Over the decades, the collection of irises has been expanded through careful breeding and replanting, reaching the current count of 400 varieties. The festival has been selected as one of the "500 Selected Attractions of Boso," cementing its status as a representative flower festival of Chiba Prefecture.
+
+## History and Origins
+
+The Suigo Sawara Ayame Park traces its origins to the 1960s, when it first opened as the Sawara City Aquatic Plant Garden [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92). The city of Sawara, now part of Katori City, developed the facility as a tourist attraction centered on aquatic plants, taking advantage of its location within the Suigo Tsukuba Quasi-National Park. Since its opening, the park has been a popular destination for both local residents and tourists seeking to enjoy seasonal flowers.
+
+The term "Suigo," meaning "water town," reflects the historical importance of water transportation in this region. Sawara flourished as a hub of river transport along the Tone River from the Edo period through the Meiji period [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E3%81%82%E3%82%84%E3%82%81%E7%A5%AD%E3%82%8A). This historical background forms the foundation for the boat tours and the wedding boat reenactment that are central to the current festival. The "Island of Bonds" within the park serves as a venue for Shinto wedding ceremonies conducted by priests from Katori Shrine, surrounded by blooming irises [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92).
+
+The exact year when the Ayame Matsuri first began is not clearly documented, but it has been held annually in conjunction with the iris blooming season since the park''s early days. According to some accounts, the festival had already taken on its current form by the 1970s, though specific records confirming this are scarce. What is certain is that the iris fields have been continuously expanded and improved over the years, reaching the current scale of 400 varieties and 1.5 million plants.
+
+After the merger of Sawara City with neighboring towns to form Katori City in 2005, the festival continued under the management of the Suigo Sawara Ayame Matsuri Executive Committee. In recent years, the festival has been recognized as one of the "500 Selected Attractions of Boso," establishing its position as a leading flower festival in Chiba Prefecture [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. Furthermore, JR East occasionally operates a special limited express train called the "Ayame Matsuri-go" from Tokyo during the festival period, improving accessibility for visitors from the capital region.
 
 ## Highlights
 
-The park hosts approximately 1.5 million hanashōbu plants across some 400 varieties, displaying a spectacular palette of purple, white, yellow, and variegated blooms at peak bloom. On weekends during the festival period, the famous "Bridal Boat" (Yomeiri-bune) procession reenacts traditional water-borne wedding ceremonies, with brides in pristine white wedding kimono ferried across the canals of the park in small wooden boats. Diverse programs allow visitors to fully experience the water culture, including ro-bune rowboat tours, evening illuminations, sales of local specialty products, and dedicatory performances of traditional folk arts.
+**1.5 Million Irises Creating a Purple Carpet**
+The iris fields at Suigo Sawara Ayame Park cover approximately 8 hectares and contain 400 varieties totaling about 1.5 million plants [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html). These flowers are organized by strain, including Edo, Higo, and Ise types, allowing visitors to compare the different colors and petal shapes across varieties. During the peak season in early June, the fields are covered in a vast expanse of purple, white, and pink blossoms, creating a spectacle reminiscent of a giant carpet spread across the landscape.
 
-## Event Details and Access
+**Boat Tour on Sappa-bune**
+The boat tour through the park''s waterways on traditional "Sappa-bune" boats is the festival''s main attraction [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. Sappa-bune were originally fishing boats used in the region, and they have now been repurposed for tourist sightseeing. Female boatmen dressed in traditional kasuri kimono with red aprons and triangular woven hats skillfully pole the boats through the water, creating a picturesque scene that has become a seasonal symbol of the festival [trip.iko-yo.net](https://trip.iko-yo.net/events/385). The fare is 500 yen for junior high school students and above, and 200 yen for children aged 3 to elementary school age, with the tour lasting approximately 15 minutes.
 
-The venue is the Suigō Sawara Ayame Park (1837-2 Ōgishima, Katori City, Chiba Prefecture). Access is approximately 20 minutes by car or taxi from Sawara Station on the JR Narita Line, with special shuttle bus service operating during the festival period. Park admission requires a special festival-period entry fee. The event draws approximately 300,000 visitors over its month-long run.
+**Reenactment of the Wedding Boat**
+On weekends during the festival, a traditional "Yomeiri-bune" (wedding boat) ceremony is reenacted [trip.iko-yo.net](https://trip.iko-yo.net/events/385). The bride and groom ride in a Sappa-bune, displaying their formal attire as they glide through the park''s waterways, drawing the attention of numerous spectators. On some occasions, an actual wedding ceremony is conducted by priests from Katori Shrine at the "Island of Bonds," surrounded by blooming irises [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. This traditional event passes down the unique wedding culture of the water town to modern audiences.
 
-## Surrounding Attractions
+**Performances of Sawara Bayashi and Oranda Gakutai**
+During the festival, traditional performing arts from Katori City, including "Sawara Bayashi" and "Oranda Gakutai," are performed [trip.iko-yo.net](https://trip.iko-yo.net/events/385). Sawara Bayashi is counted among the three great festival music traditions of Japan, featuring flutes, large and small drums, and gongs in a distinctive musical style. Oranda Gakutai, on the other hand, is designated as a prefectural intangible folk cultural property and represents a unique fusion of traditional Shinto music with Western musical elements introduced from the late Edo period to the early Meiji period. These performances add a vibrant auditory dimension to the visual spectacle of the irises.
 
-The Sawara city center is designated as a National Important Preservation District for Groups of Traditional Buildings, retaining Edo-period merchant houses, traditional storehouses, and historic canals that have earned it the nickname "Little Edo Sawara" and made it a highly popular tourist destination. Concentrated attractions include the former residence and memorial museum of Inō Tadataka (the renowned Edo-period cartographer), Katori Shrine, the Tone River embankment, and the Itako Iris Garden on the opposite shore. The "Kashima-Katori-Ikisu" tour of the Three Eastern Shrines, including Kashima Shrine, has also gained considerable popularity in recent years.','suigo-sawara-ayame-matsuri','suigo-sawara-ayame-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Wisteria Tunnel "The Path of Happiness"**
+Near the park entrance, there is a wisteria tunnel approximately 70 meters long, commonly called "The Path of Happiness" [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. The wisteria blooming season often overlaps with the Ayame Matsuri, allowing visitors to walk through a tunnel of purple wisteria flowers. Wisteria trellises are located at various points throughout the park, offering a different floral atmosphere from the irises.
+
+**Children''s Activity Programs**
+The park offers activities such as crayfish fishing and carp feeding that are popular with families with children [trip.iko-yo.net](https://trip.iko-yo.net/events/385). Fishing rods are available for rental, so visitors can participate without bringing any equipment. The park also has a lawn area with large playground equipment, making it possible for families to spend an entire day enjoying the facilities.
+
+## Event Information and Access
+
+- **Event Period**: In 2026, the festival will be held from Saturday, May 23 to Sunday, June 21 [trip.iko-yo.net](https://trip.iko-yo.net/events/385). It is held annually from late May to late June.
+- **Opening Hours**: During the Ayame Matsuri period, the park is open from 8:00 to 18:00 [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. Last admission is typically 30 minutes before closing.
+- **Admission Fees**: During the Ayame Matsuri, adults 800 yen, elementary and junior high school students 400 yen, seniors 65 and over 700 yen. Group discounts are available (adults 700 yen, students 350 yen) [trip.iko-yo.net](https://trip.iko-yo.net/events/385). From May to August, adults 600 yen, students 300 yen, seniors 500 yen. In April and September to November, adults 200 yen, students 100 yen, seniors 150 yen. From December to March, admission is free [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html).
+- **Sappa-bune Boat Fare**: Junior high school students and above 500 yen (group rate 400 yen), children aged 3 to elementary school 200 yen [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. Operation may be suspended in strong wind or rain.
+- **Access by Train**: From JR Narita Line Sawara Station, a direct shuttle bus operates during the Ayame Matsuri period (approximately 25 minutes, 600 yen for junior high and above, 300 yen for elementary students) [trip.iko-yo.net](https://trip.iko-yo.net/events/385). On weekdays, the Sawara Loop Bus (Kitasawara-Shinma route) also serves the park. Additionally, the Kanto Railway Green Bus "Aso-go" from Tokyo Station takes about 100 minutes to reach the Suigo Sawara Ayame Park entrance [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html).
+- **Access by Car**: From the Higashi-Kanto Expressway, take the Sawara Katori IC or Daiei IC and head toward Itako for about 30 minutes. From the Ken-O Expressway, take the Kanzaki IC or Inashiki Higashi IC and drive for about 25 minutes [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html). Parking is free, with capacity for 500 passenger cars and 31 large buses.
+- **Closed Days**: Every Monday (or the following weekday if Monday is a holiday) and the year-end/New Year period (December 28 to January 4). However, the park is open every day during the Ayame Matsuri period (May to June) and the Lotus Festival period (July to August) [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92).
+- **Contact Information**: Suigo Sawara Ayame Park (telephone: 0478-56-0411) [trip.iko-yo.net](https://trip.iko-yo.net/events/385). For the latest schedule and event details, please check the official website.
+
+## Surrounding Area
+
+Approximately 20 minutes by car from Suigo Sawara Ayame Park lies the Sawara townscape, designated as an Important Preservation District for Groups of Traditional Buildings. This area retains the atmosphere of the Edo and Meiji periods, with merchant houses and storehouses lining the streets, earning it the nickname "Little Edo." The Onogawa River runs through the center of the district, and the historic buildings along its banks allow visitors to experience the history of Sawara while strolling.
+
+Katori City is also home to Katori Shrine, the head shrine of approximately 400 Katori Shrines nationwide. Katori Shrine attracts many worshippers throughout the year, especially during Hatsumode (New Year''s visit) and the Setsubun festival. The shrine''s priests conduct the Shinto wedding ceremonies during the Ayame Matsuri''s wedding boat reenactment [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. Additionally, the shrine hosts the "Shinkosai" festival once every 12 years in the Year of the Horse, during which the Oranda Gakutai performs [trip.iko-yo.net](https://trip.iko-yo.net/events/385).
+
+In some years, the "Sawara no Taisai" (Great Sawara Festival) is held in the town of Sawara around the same time as the Ayame Matsuri. The Sawara no Taisai is registered as a UNESCO Intangible Cultural Heritage, and the procession of elaborate floats through the streets is a magnificent sight. The sight of floats moving through the town accompanied by Sawara Bayashi music offers a different aspect of Sawara''s charm compared to the Ayame Matsuri. By combining visits to these tourist spots, one can fully enjoy both the history and nature of Katori City.
+
+## Related Information
+
+1. **Comparison with Other Japanese Iris Gardens**: Suigo Sawara Ayame Park ranks among Japan''s leading iris gardens, alongside the Shobu Castle Ruins Ayame Garden in Saitama Prefecture and the Suigo Itako Ayame Garden in Ibaraki Prefecture. Its unique feature of boat-based flower viewing sets it apart from all others [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92].
+
+2. **Selection as One of the 500 Selected Attractions of Boso**: This festival has been selected as one of the "500 Selected Attractions of Boso," recognizing it as a representative tourism resource of Chiba Prefecture [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. This designation is part of Chiba Prefecture''s tourism promotion efforts.
+
+3. **Operation of Special Limited Express Trains**: During the Ayame Matsuri period, JR East sometimes operates a special limited express train called the "Ayame Matsuri-go" from the Tokyo area [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. The operating days and times vary each year, so checking the latest railway timetable is recommended.
+
+4. **Part of Suigo Tsukuba Quasi-National Park**: Suigo Sawara Ayame Park is located within the Suigo Tsukuba Quasi-National Park [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. This quasi-national park spans across Ibaraki and Chiba prefectures, designated to protect the water town areas around Lake Kasumigaura and the Tone River.
+
+5. **Lotus Flower Attraction**: After the Ayame Matsuri concludes, the "Kanten-e" (Lotus Festival) is held from July to August [maruchiba.jp](https://maruchiba.jp/spot/detail_10172.html). The park cultivates approximately 300 varieties of lotus flowers, boasting the largest collection in Japan in terms of variety count. Rare specimens such as the "Oga Lotus," which sprouted from 2,000-year-old seeds, and the "Senbenren," which has over 1,000 petals, can be observed.
+
+6. **Workshop Programs**: During the Ayame Matsuri, the park sometimes offers hands-on activities such as iris replanting workshops and craft classes [ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%B0%97%E9%83%B7%E4%BD%90%E5%8E%9F%E6%B0%B4%E7%94%9F%E6%A4%8D%E7%89%A9%E5%9C%92]. The on-site shop sells local specialty products, souvenirs, and potted iris plants.
+
+7. **Best Time to Visit**: The peak blooming period for irises is typically from early to mid-June [chibanippo.co.jp](https://www.chibanippo.co.jp/articles/1618733). However, early-blooming varieties can be enjoyed from late May, ensuring that some flowers are always in bloom throughout the festival period. To avoid crowds, visiting on a weekday morning is recommended.','suigo-sawara-ayame-matsuri','suigo-sawara-ayame-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q20044199','国府夏まつり','Kō Natsu Matsuri','愛知県豊川市の祭','festival','Q11420889','国府町','Kō','愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q21653682','天空のゆりガーデン',NULL,NULL,NULL,NULL,NULL,NULL,'宮城県','tohoku',38.41873056,140.72306111,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%86%E3%82%8A%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3',NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q20045311','仙台放送まつり','Sendai Hōsō Matsuri',NULL,'festival',NULL,NULL,NULL,'宮城県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E6%94%BE%E9%80%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
