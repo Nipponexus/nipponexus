@@ -9824,51 +9824,127 @@ The Kiriko festivals of Noto, to which the Nanao Gion Festival belongs, were rec
 ','nanao-gion-matsuri','nanao-gion-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11307448','シネリンピック!','Cinelympics!','日米同時刻開催型の映画祭',NULL,'Q11279143','みなとみらい','Minatomirai',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8D%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF!',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11360142','上越まつり','Jōetsu Matsuri',NULL,NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11338450','ホーランエンヤ','Hōran-en''ya','大分県豊後高田市で行われる祭事',NULL,'Q11536671','桂川','Katsura River','大分県','kyushu',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Horan-enya%20boat.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%A4%A7%E5%88%86%E7%9C%8C)',NULL,85,'drafted','## ホーランエンヤ（大分）とは
+INSERT INTO "festivals" VALUES('Q11338450','ホーランエンヤ','Hōran-en''ya','大分県豊後高田市で行われる祭事',NULL,'Q11536671','桂川','Katsura River','大分県','kyushu',NULL,NULL,NULL,1,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Horan-enya%20boat.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%A4%A7%E5%88%86%E7%9C%8C)',NULL,85,'drafted','## 概要
 
-ホーランエンヤは、大分県豊後高田市で行われる、新年や祝い事を寿ぐ勇壮な海上・川上の祭事です。色とりどりの大漁旗や万国旗で豪華に飾り立てた宝来船（ほうらいせん）に、締め込み姿の若者たちが乗り込み、「ホーランエンヤ」の掛け声を勇ましく響かせながら、桂川（かつらがわ）の河口から町なかへとさかのぼっていきます。冷たい水しぶきをものともせず繰り広げられる、活気あふれる豊後高田の正月行事として知られています。
+ホーランエンヤは、大分県豊後高田市の桂川河口で毎年新年に開催される伝統行事です。江戸時代中期に始まったとされ、大分県の選択無形民俗文化財に指定されています。宝来船と呼ばれる飾り船が桂川を漕ぎ上がり、船上から紅白餅が撒かれ、若者たちが厳寒の川に飛び込む勇壮な姿が見どころです。
 
-## 歴史と由来
+祭りの名称「ホーランエンヤ」は、掛け声に由来します。一説では「宝来栄弥」や「蓬莱へ、蓬莱へ」という掛け声が変化したものといわれています。祭り当日は、川岸を埋める観客から「ホーランエンヤ、ヨイヤサノサッサ」という掛け声が響き渡ります。
 
-豊後高田のホーランエンヤは、江戸時代に廻船問屋が一年の航海の安全と商売繁盛を祈願し、新年を祝って始めたものと伝えられます。豊後高田は周防灘に面し、桂川の水運とともに栄えた商都であり、その繁栄を背景にこの華やかな船祭りが育まれました。「ホーランエンヤ」という掛け声は祝いと豊漁・繁栄への願いを込めたもので、船を飾る大漁旗とともに、海と川に生きた商人・船乗りたちの心意気を今に伝えています。
+## 歴史・由来
+
+ホーランエンヤは、江戸時代中期に始まったと伝えられています。当時、現在の豊後高田市は長崎県の島原藩の飛び地でした。島原藩は、年貢米を荷船で豊後高田から島原城下町（現在の長崎県島原市）へ、さらに大阪の蔵屋敷へと輸送していました。
+
+この祭りは、年貢米を運ぶ廻船の航海の安全と豊漁を祈願する行事として始まりました。言い伝えによれば、船乗りたちが無事に航海を終えた喜びを祝い、神に感謝を捧げたことが起源とされています。暦が干満と連動する旧暦の頃は、元旦の行事として行われていました。
+
+現在では、満潮の時間を考慮して日程が決められています。桂川の上げ潮に乗って宝来船を漕ぎ上がるため、潮の満ち引きが重要な要素となっています。祭りの日程は年によって変動しますが、1月の初旬から中旬にかけて開催されるのが通例です。
+
+宝来船は、大漁旗や万国旗で華やかに飾り付けられます。船上には、漕ぎ手や締め込み姿の青年、囃子方、そして恵比寿天と大黒天に扮した2人の少年が乗り込みます。この賑やかな船の様子は、訪れる観客に新年の訪れを告げる風物詩となっています。
 
 ## 見どころ
 
-最大の見どころは、大漁旗で埋め尽くされた宝来船が、締め込み姿の若者たちを乗せて川をさかのぼる勇壮な光景です。寒中にもかかわらず、若者たちが船上で踊り、餅やお捻りを岸辺に向かって撒く様は活気に満ちています。岸からはこれを受け取ろうと人々が集まり、町全体が祝祭の熱気に包まれます。冬の冷たい水と、それに負けない若者たちの熱気の対比が、この祭りならではの迫力を生み出します。
+**宝来船の出航**
+宝来船は、桂川右岸の河口付近から出発し、下流の琴平宮（金刀比羅宮）に参拝します。その後、約1km上流にある若宮八幡神社を目指して川を漕ぎ上がります。この出航の瞬間は、祭りの始まりを告げる最も緊張感あふれる場面です。
 
-## 開催情報
+**紅白餅の撒き**
+船上からは、新年を祝福する紅白の餅が川岸の観客に向けて投げられます。この餅は縁起物として観客たちが競って受け取ろうとします。観客の熱気と船上からの掛け声が一体となり、祭りの雰囲気を一気に盛り上げます。
 
-例年、新年を祝う時期に大分県豊後高田市の桂川一帯で行われてきました。商売繁盛と豊漁を祈る祝いの船祭りで、伝統的には正月の催しですが、夏に行われる「ホーランエンヤ」もあり、季節は夏として分類しています。開催日程や内容は年や地域によって異なるため、豊後高田市および地元観光協会の公式発表で事前に確認することをおすすめします。
+**若者の川への飛び込み**
+川岸の観客から酒やお金などの祝儀が差し出されると、締め込み姿の若者が厳寒の桂川に飛び込みます。若者たちは冷たい水の中を泳ぎ、祝儀を力強く受け取ります。この勇壮な姿に、観客からは熱狂的な拍手喝采が送られます。
 
-## アクセス
+**エビス・ダイコクの舞**
+船上では、恵比寿天と大黒天に扮した2人の少年が踊りを披露します。この舞は、五穀豊穣と商売繁盛を願う意味が込められています。少年たちの愛らしい踊りは、観客の心を和ませ、祭りに華やかさを添えます。
 
-会場の豊後高田市街地および桂川一帯へは、JR日豊本線「宇佐駅」からバスでアクセスするのが一般的です。大分市と中津市の中間付近、国東半島の付け根に位置します。車の場合は東九州自動車道などを利用できますが、開催当日は周辺で混雑が予想されます。
+**掛け声と盛り上がり**
+祭りの間中、「ホーランエンヤ、ヨイヤサノサッサ」という掛け声が絶え間なく響きます。この掛け声は、参加者と観客が一体となって祭りを盛り上げる重要な要素です。川岸からも掛け声が返され、独特の熱気が生まれます。
 
-## 周辺観光
+**満潮の上げ潮を利用した船運**
+宝来船は、満潮の上げ潮に乗って川を漕ぎ上がります。潮の流れを読む技術と、漕ぎ手たちの息の合った櫂さばきが見どころです。自然の力を利用したこの伝統的な手法は、先人たちの知恵を感じさせます。
 
-豊後高田市は、昭和30年代の街並みを再現した「昭和の町」で全国に知られる観光地です。国東半島には、神仏習合の独特の文化を伝える六郷満山の寺院群や、富貴寺大堂（国宝）など、古代から続く仏教文化の遺産が点在します。海の幸に恵まれた周防灘沿岸とあわせて、歴史と懐かしさが共存する大分・国東の旅を楽しめるエリアです。','## What Is Hōran-en''ya (Ōita)?
+## 開催情報・アクセス
 
-Hōran-en''ya is a spirited maritime and riverine rite held in Bungotakada, Ōita Prefecture, to celebrate the New Year and joyous occasions. Young men in loincloths board *hōraisen*—treasure boats lavishly decked with colorful catch-flags and international flags—and, while sounding the rousing call of "Hōran-en''ya," make their way up the Katsura River from its mouth into the heart of the town. Undaunted by the cold spray, it is known as a vibrant New Year event of Bungotakada.
+- **開催日時**: 毎年1月（例年1月2日または1月中旬の日曜日）。2024年は1月14日（日）に開催されました。最新の開催日程は豊後高田市の公式サイトで確認してください。
+- **開催場所**: 大分県豊後高田市 桂川河口付近（玉津地区）
+- **主なスケジュール**: 10時50分頃に出船、12時10分頃に終了予定。宝来船は琴平宮に参拝後、約1km上流の若宮八幡神社を目指します。
+- **電車でのアクセス**: JR日豊本線「宇佐駅」から路線バスで約10分。バスの運行状況は当日変更となる場合があります。
+- **車でのアクセス**: 東九州自動車道「宇佐IC」から約20分。当日は桂川周辺で交通規制が実施されます。規制区間は恵比寿橋から御玉橋周辺で、規制時間は9時15分から11時頃までです。
+- **駐車場**: 豊後高田市役所駐車場（無料、約500台）が利用可能です。昭和の町駐車場（有料）もあります。会場周辺は混雑するため、早めの到着が推奨されます。
 
-## History and Origins
+## 周辺情報
 
-Bungotakada''s Hōran-en''ya is said to have begun in the Edo period when shipping merchants prayed for safe voyages and prosperity in business over the coming year and celebrated the New Year. Facing the Suō Sea, Bungotakada flourished as a merchant town alongside the river transport of the Katsura River, and against this prosperity the gorgeous boat festival took shape. The call of "Hōran-en''ya" carries wishes for celebration, bountiful catches, and prosperity, and together with the catch-flags adorning the boats, it conveys to this day the spirit of the merchants and sailors who lived by the sea and the river.
+豊後高田市は、「昭和の町」として知られるレトロな街並みが魅力です。昭和30年代の商店街を再現したエリアでは、駄菓子屋や古着屋、レトロな看板が立ち並び、ノスタルジックな雰囲気を楽しめます。ホーランエンヤの観覧後に徒歩で訪れることができ、祭りと併せて昭和の風情を味わうことができます。
+
+桂川河口付近には、琴平宮（金刀比羅宮）と若宮八幡神社があります。琴平宮は航海安全の神様として知られ、ホーランエンヤの出発地点となっています。若宮八幡神社は宝来船の目的地であり、祭りの終着点として参拝客で賑わいます。
+
+豊後高田市の中心部には、歴史的な建造物や温泉施設も点在しています。市内には日帰り温泉施設があり、祭りで冷えた体を温めることができます。また、地元の海産物を使った料理を提供する飲食店も多く、観光客に人気です。
+
+## 関連情報
+
+- **文化財指定**: 大分県の選択無形民俗文化財に指定されています。地域の歴史と伝統を継承する重要な文化行事として認識されています。
+- **名称の由来**: 「ホーランエンヤ」という名称は、「宝来栄弥」や「蓬莱へ、蓬莱へ」という掛け声が変化したものといわれています。複数の説があり、正確な由来は定かではありません。
+- **宝来船**: 祭りで使用される船は「宝来船」と呼ばれ、大漁旗や万国旗で飾られます。宝来船は、宝船（ほうらいせん）とも呼ばれ、福をもたらす船として信仰されています。
+- **参加者**: 漕ぎ手、締め込み姿の青年、囃子方、恵比寿天と大黒天に扮した2人の少年など、多様な参加者が船上に乗り込みます。地元の青年団や自治会が主体となって運営されています。
+- **類似の祭り**: 西日本各地には、船を使った新年の祭りが存在します。例えば、広島県の「管絃祭」など、船を使った伝統行事として知られています。ホーランエンヤは、その中でも特に勇壮な川渡しの祭りとして位置づけられています。
+- **問い合わせ先**: 豊後高田市観光協会（電話番号は公式サイトで確認）。最新の情報は、豊後高田市の公式ウェブサイトや観光協会のページで案内されています。','## Overview
+
+Horan-enya is a traditional New Year festival held annually at the mouth of the Katsura River in Bungotakada City, Oita Prefecture. It is said to have originated in the mid-Edo period and has been designated as a Selected Intangible Folk Cultural Property of Oita Prefecture. The highlight of the festival is a decorated boat called a Horai-bune that rows up the Katsura River, with red and white rice cakes thrown from the boat and young men bravely jumping into the freezing river.
+
+The name of the festival, Horan-enya, is derived from the chant used during the event. According to one theory, it evolved from the words horai-eiya or horai-e, horai-e, which mean prosperity and a mythical land of plenty. On the day of the festival, the banks of the river echo with the shouts of Horan-enya, yoiyasa-no-sassa from both participants and spectators.
+
+## History and Origin
+
+Horan-enya is said to have originated in the mid-Edo period (1603-1868). At that time, the area now known as Bungotakada City was an exclave of the Shimabara Domain in Nagasaki Prefecture. The Shimabara Domain transported rice collected as land tax (nengumai) by cargo ship from Bungotakada to the castle town of Shimabara (present-day Shimabara City in Nagasaki Prefecture) and further to the domain''s storehouse in Osaka.
+
+The festival began as a prayer for the safety of the cargo ships delivering the nengumai and for a plentiful catch of fish. According to tradition, it originated as a celebration by sailors who had completed their voyages safely and offered thanks to the gods. In the old lunar calendar, when the calendar was linked to the tides, the festival was held on New Year''s Day.
+
+Today, the date of the festival is determined by the timing of the high tide. Because the Horai-bune rows up the river using the rising tide, the ebb and flow of the tide are crucial factors. The festival date varies from year to year but is generally held in early to mid-January.
+
+The Horai-bune is decorated with fisherman''s flags (tairyobata) and flags of all nations. On board are oarsmen, young men wearing a type of loincloth called shimekomi, a traditional musical ensemble (hayashikata), and two boys dressed as the gods Ebisu and Daikoku. This festive boat is a seasonal tradition that announces the arrival of the New Year to visitors.
 
 ## Highlights
 
-The greatest attraction is the stirring sight of treasure boats covered with catch-flags making their way up the river bearing young men in loincloths. Despite the midwinter cold, the young men dance aboard the boats and scatter rice cakes and small offerings toward the banks in a scene full of energy. People gather on the shore to catch them, and the whole town is wrapped in festive fervor. The contrast between the cold winter water and the undiminished heat of the young men creates an intensity distinctive to this festival.
+**Departure of the Horai-bune**
+The Horai-bune departs from the mouth of the Katsura River on the right bank and heads downstream to Kotohira-gu Shrine (Konpira-gu Shrine) for a prayer. It then rows upstream toward Wakamiya Hachiman Shrine, about one kilometer away. The moment of departure is the most tense and exciting scene of the festival, marking its beginning.
 
-## When It Takes Place
+**Throwing of Red and White Rice Cakes**
+Red and white rice cakes (mochi) symbolizing good fortune are thrown from the boat to spectators on the riverbank. These auspicious cakes are eagerly caught by the crowd as a blessing for the New Year. The excitement of the spectators and the shouts from the boat create a lively atmosphere that fills the entire riverside.
 
-The festival has traditionally been held in the Katsura River area of Bungotakada, Ōita Prefecture, during the season of New Year celebrations. It is a celebratory boat festival praying for prosperity in business and bountiful catches; while traditionally a New Year event, there is also a "Hōran-en''ya" held in summer, and the season is classified here as summer. Because dates and details vary by year and locality, visitors are advised to confirm in advance through official announcements from Bungotakada City and the local tourism association.
+**Young Men Jumping into the River**
+When spectators offer offerings such as sake or money, young men wearing only loincloths jump into the freezing Katsura River. They swim strongly to retrieve the offerings, demonstrating their bravery and vigor. This spectacular sight draws rapturous applause and cheers from the crowd.
 
-## Access
+**Dance of Ebisu and Daikoku**
+On the boat, two boys dressed as the gods Ebisu and Daikoku perform a traditional dance. This dance is meant to pray for a bountiful harvest and prosperous business. The charming performance of the boys softens the hearts of the spectators and adds elegance to the festival.
 
-The Bungotakada city center and Katsura River area are generally reached by bus from Usa Station on the JR Nippō Main Line. The town lies roughly midway between Ōita City and Nakatsu City, at the base of the Kunisaki Peninsula. By car, routes such as the East Kyushu Expressway are available, but crowds are expected around the venue on the day.
+**Festive Chants and Atmosphere**
+Throughout the festival, the chant Horan-enya, yoiyasa-no-sassa rings out continuously. This chant is a key element that unites participants and spectators in the festive spirit. The call-and-response from the riverbank creates a unique and energetic atmosphere.
 
-## Around the Area
+**Using the Rising Tide for Boat Rowing**
+The Horai-bune rows upstream using the rising tide of the high tide. The skill of reading the tidal currents and the synchronized oar work of the rowers are a major attraction. This traditional method of utilizing natural forces reflects the wisdom of the ancestors.
 
-Bungotakada is a tourist destination known nationwide for its "Shōwa Town," which recreates the streetscape of the late 1950s and early 1960s. The Kunisaki Peninsula is dotted with heritage of Buddhist culture continuing from ancient times, including the Rokugō Manzan temple complex, which preserves a distinctive syncretic culture of Shinto and Buddhism, and the national treasure Great Hall of Fuki-ji. Together with the seafood-rich Suō Sea coast, it is an area where one can enjoy a journey through Ōita and Kunisaki, where history and nostalgia coexist.','horan-enya-oita','horan-enya-oita',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+- **Date and Time**: Annually in January (typically January 2 or a Sunday in mid-January). In 2024, it was held on January 14 (Sunday). Please check the official website of Bungotakada City for the latest schedule.
+- **Location**: Mouth of the Katsura River, Tamatsu area, Bungotakada City, Oita Prefecture.
+- **Main Schedule**: The boat departs around 10:50 AM and the event concludes around 12:10 PM. After visiting Kotohira-gu Shrine, the Horai-bune rows about one kilometer upstream to Wakamiya Hachiman Shrine.
+- **Access by Train**: Take the JR Nippo Main Line to Usa Station, then a local bus for about 10 minutes. Bus schedules may change on the day of the event.
+- **Access by Car**: Take the Higashi-Kyushu Expressway to the Usa IC and drive for about 20 minutes. Traffic restrictions will be in place around the Katsura River area. The restricted section is from Ebisu Bridge to Otama Bridge, with restrictions from 9:15 AM to around 11:00 AM.
+- **Parking**: Bungotakada City Hall parking lot (free, about 500 spaces) is available. The Showa no Machi parking lot (paid) is also available. Early arrival is recommended as the area around the venue becomes congested.
+
+## Surrounding Area
+
+Bungotakada City is known for its retro townscape called Showa no Machi (Showa Town). This area recreates a shopping street from the 1950s, with candy stores, vintage clothing shops, and nostalgic signs lining the streets. Visitors can enjoy a nostalgic atmosphere after watching the Horan-enya festival, making it a perfect combination of tradition and retro charm.
+
+Near the mouth of the Katsura River are Kotohira-gu Shrine (Konpira-gu Shrine) and Wakamiya Hachiman Shrine. Kotohira-gu Shrine is dedicated to the god of maritime safety and serves as the starting point of the Horan-enya festival. Wakamiya Hachiman Shrine is the destination of the Horai-bune and becomes crowded with worshippers during the festival.
+
+The center of Bungotakada City also features historical buildings and hot spring facilities. There are day-trip hot springs where visitors can warm up after the cold festival. Many restaurants offer local seafood dishes, making the area popular with tourists.
+
+## Related Information
+
+- **Cultural Property Designation**: Horan-enya is designated as a Selected Intangible Folk Cultural Property of Oita Prefecture. It is recognized as an important cultural event that preserves the history and traditions of the region.
+- **Origin of the Name**: The name Horan-enya is said to have evolved from the chants horai-eiya or horai-e, horai-e. Several theories exist, but the exact origin is not definitively known.
+- **Horai-bune**: The boat used in the festival is called a Horai-bune, which is decorated with fisherman''s flags and flags of all nations. The Horai-bune is also known as a treasure ship, believed to bring good fortune.
+- **Participants**: The boat carries oarsmen, young men in loincloths, a traditional musical ensemble, and two boys dressed as the gods Ebisu and Daikoku. The festival is organized primarily by local youth groups and community associations.
+- **Similar Festivals**: Various boat-related New Year festivals exist in western Japan, such as the Kangen-sai in Hiroshima Prefecture. Horan-enya is distinguished as a particularly vigorous river-crossing festival.
+- **Contact Information**: Bungotakada City Tourism Association (phone number available on the official website). The latest information is provided on the official website of Bungotakada City and the tourism association.','horan-enya-oita','horan-enya-oita',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11361495','下館祇園祭','Shimodate Gion Matsuri',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%A4%A8%E7%A5%87%E5%9C%92%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11294189','カセ鳥','Kasedori','山形県上山市で毎年2月11日に行われる小正月の民俗行事','Little New Year folk festival held annually on 11 February in Kaminoyama, Yamagata, Japan',NULL,NULL,NULL,'山形県','tohoku',NULL,NULL,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Kasedori%202026%20Kaminoyama%2001.jpg','https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BB%E9%B3%A5',NULL,85,'drafted','## カセ鳥とは
 
@@ -22017,11 +22093,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
