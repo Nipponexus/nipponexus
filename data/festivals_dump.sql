@@ -9255,51 +9255,125 @@ INSERT INTO "festivals" VALUES('Q11400363','勝毎花火大会','Kachimai Firewo
 INSERT INTO "festivals" VALUES('Q11381635','但馬牛まつり','Tajima Beef Festival','兵庫県立但馬牧場公園（新温泉町）で開催される祭典',NULL,'Q11392939','兵庫県立但馬牧場公園','Hyōgo Prefectural Tajima Pasture Park','兵庫県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BD%86%E9%A6%AC%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371735','二百二十日','Nihyakuhatsuka','雑節のひとつ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E4%BA%8C%E5%8D%81%E6%97%A5',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11388927','入梅',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%A5%E6%A2%85',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11381046','伏木曳山祭','Fushiki Hikiyama Festival','富山県高岡市にて行われる伏木神社の春季例大祭',NULL,'Q11381052','伏木神社','Fushiki Shrine','富山県','chubu',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','## 伏木曳山祭とは
+INSERT INTO "festivals" VALUES('Q11381046','伏木曳山祭','Fushiki Hikiyama Festival','富山県高岡市にて行われる伏木神社の春季例大祭',NULL,'Q11381052','伏木神社','Fushiki Shrine','富山県','chubu',NULL,NULL,NULL,5,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg','https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD',NULL,85,'drafted','## 概要
 
-伏木曳山祭（ふしきひきやままつり）は、富山県高岡市伏木地区の伏木神社で毎年春に行われる例大祭です。昼は花山車（はなやま）、夜は提灯山車（ちょうちんやま）と呼ばれる山車が、その姿を変えて町を巡行することで知られ、特にクライマックスの「かっちゃ」と呼ばれる山車同士の激しいぶつけ合いで全国に名を馳せています。「けんか山」の異名を持つ、勇壮な港町の祭礼です。
+富山県高岡市伏木地区で毎年5月の第3金曜日と土曜日に開催される「伏木曳山祭」は、通称「けんか山」として知られる勇壮な祭礼である。この祭りは伏木神社の春季例大祭にあわせて行われる神事であり、海岸鎮護・海上安全を祈願する目的で200年以上にわたり継承されてきた[kenkayama.jp](https://kenkayama.jp/)。昼は7基の花山車が華やかに町を巡行し、夜には約360個の提灯を灯した6基の提灯山車が激しくぶつかり合う「かっちゃ」が最大の見どころとなっている。
 
-## 歴史と由来
+かつて越中国の国府が置かれ、北前船の寄港地として栄えた伏木の港町では、海の恵みに感謝し航海の安全を願う祭礼が古くから受け継がれてきた[kenkayama.jp](https://kenkayama.jp/)。曳山を一年かけて整え、磨き、曳くという行為を通じて、技と誇りが次世代へと紡がれている。1985年7月8日には高岡市の無形民俗文化財に指定され、2006年には「とやまの文化財百選（とやまの祭り百選部門）」に選定されている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。
 
-伏木曳山祭は、海上の安全と豊漁を司る伏木神社の春季例大祭として、江戸時代から続いてきたと伝えられます。伏木は古代の越中国府が置かれ、また北前船の寄港地として栄えた歴史ある港町で、その繁栄を背景に豪華な山車が育まれました。各町が誇る山車は、昼と夜で装いを変えるという独特の趣向を凝らしており、港町の人々の心意気と財力を今に伝える、伝統ある祭りとして受け継がれています。
+## 歴史・由来
+
+伏木曳山祭の起源には諸説がある。公式には、江戸後期の1814年（文化11年）、海岸にあった伏木神社が波浪で崩れて現在地へ遷座した際に、その春の祭礼として行われたのが始まりと伝えられている[kenkayama.jp](https://kenkayama.jp/)。一方、曳山（山車）については、文政3年（1820年）に中町が最初の曳山「ひょうたんやま」を創設したのを皮切りに、町の発展に伴い明治期までに山車が次々と加わり、現在の祭りの姿が形づくられていったとされる。さらに、それより古い天明元年（1781年）に上町と本町で御神体が製作されていたことが御面像付け根の墨書きにより確認されており[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)、祭礼の根幹をなす信仰はさらに古い時代に始まっていた可能性が示唆される。
+
+伏木が北前船の重要な寄港地として栄えた背景には、海上交通の安全を祈る強い信仰があった。海からの恵みに感謝し、航海の安全を願う祭礼として、伏木神社の春季例大祭が行われてきた[kenkayama.jp](https://kenkayama.jp/)。港町ならではの心意気が、曳山同士の激しいぶつけ合い「かっちゃ」という独自の形態を生み出したとされる。
+
+「かっちゃ」という名称は「かちあう（ぶつかり合う）」を語源としており、山車が正面からぶつかる様子はまさに「けんか山」の名にふさわしい迫力を持つ[kenkayama.jp](https://kenkayama.jp/)。勝敗こそつかないものの、町の誇りを懸けた勝負は見る者の心を揺さぶる。かつては「勇みだし」「勇み曳山」とも呼ばれ、1974年までポスターに使用されていた[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。
 
 ## 見どころ
 
-最大の見どころは、夜に行われる提灯山車同士の激しいぶつけ合い「かっちゃ」です。数百個もの提灯で美しく飾られた山車が、たがいに正面から激しくぶつかり合う様は迫力満点で、「けんか山」の名にふさわしい熱気に包まれます。担ぎ手たちの掛け声と提灯の灯りが闇夜に揺れる光景は圧巻です。昼は精緻な花で飾られた花山車の優美な巡行が楽しめ、昼夜で全く異なる二つの顔を持つのがこの祭りの魅力。港町ならではの活気と勇壮さを存分に味わえます。
+**昼の華やかな花山車巡行**
+昼の部では、7基の花山車が各町揃いの法被姿の若衆によって曳き回される。高さ約8メートルの山車には花傘が広げられ、各町の象徴である鉾留（ほこどめ）が掲げられ、ご神体や人形が鎮座している[kenkayama.jp](https://kenkayama.jp/)。山車は各山町の人々が1年をかけて手入れを重ね、丹精込めて受け継いでいるもので、その美しさは港町の誇りを体現している。
 
-## 開催情報
+**夜のクライマックス「かっちゃ」**
+伏木曳山祭最大の見どころは、夜に行われる曳山同士の激突「かっちゃ」である。重さ約8トンの山車が約360個の提灯をまとって闇夜を進み、太鼓の響きと若衆の「イヤサー、イヤサー」の掛け声が祭りを最高潮に導く[kenkayama.jp](https://kenkayama.jp/)。この掛け声には「弥栄（いやさか）＝ますますの繁栄」を願う意味が込められており、地域の発展と幸せを祈る響きでもある。ぶつかり合ったあとは、互いの健闘を称えて総代同士が握手を交わし、若衆の町内賛歌で幕を閉じる。
 
-例年春（5月）に、富山県高岡市伏木地区の伏木神社および周辺で開催されます。春季例大祭であり、季節は春。昼の花山車巡行と夜の「かっちゃ」が見どころです。日程やルート、観覧情報は年によって異なるため、高岡市および地元観光協会の公式発表で事前に確認することをおすすめします。
+**「イヤサー」の掛け声に込められた願い**
+若衆が発する「イヤサー」という掛け声は、単なる威勢の良いかけ声ではない。この言葉は「弥栄」に由来し、「ますますの繁栄」を願う意味が込められている[kenkayama.jp](https://kenkayama.jp/)。曳山を曳く若者たちの息の合った掛け声が港町に響き渡る様子は、見る者に地域の結束力と誇りを強く印象づける。
 
-## アクセス
+**付長手（つけながて）の巧みな技術**
+かっちゃで使用される付長手は「大砲」とも呼ばれ、直径30～40cm、長さ4.7mの樫の大木である。轅（ながえ）を介して山車の前後に計2本取り付けられ、先端には補強のため鉄輪がはめられている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。各町が自ら山から樫の木を切り出し、加工するこの付長手は毎年新しいものと交換され、その取り付け方法は各町の機密事項となっている。この装備により、優雅な花山車が夜には装甲車のような姿に変貌するアンバランスな感じも大きな特徴である。
 
-会場の伏木地区へは、JR氷見線「伏木駅」から徒歩圏内とアクセスが良好です。高岡駅方面からJR氷見線を利用してアクセスできます。車の場合は能越自動車道などを利用できますが、開催期間中は周辺で交通規制が敷かれるため、公共交通機関の利用が推奨されます。
+**山鹿流陣太鼓の響き**
+山車の巡行やかっちゃの際には、山鹿流陣太鼓（やまがりゅうじんだいこ）の囃子が奏でられる。この太鼓の響きは祭りの雰囲気を盛り上げるだけでなく、曳山を曳く若衆の動きを統率する役割も担っている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。夜の闇に響く太鼓の音と提灯の明かりが織りなす幻想的な空間は、訪れる人々を非日常の世界へと誘う。
 
-## 周辺観光
+**母衣武者行列の伝統**
+子供たちが武者のいでたちで神輿の露払いを行う母衣武者行列も、曳山と同じく約200年の歴史を持つ。この行列は昭和40年代初頭に一旦姿を消したが、地元有志の協力により1981年に復活し、現在は「伏木母衣武者保存会」によって運営されている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。伏木小学校の2～6年生の児童や地元の幼稚園・保育所の園児たちが、よろいを着て母衣を担ぐ「大将」や「矢担ぎ」「やっこ」に扮して行進する姿は、祭りに可愛らしさと歴史の重みを同時に添えている。
 
-伏木地区は、古代の越中国府・国分寺が置かれた歴史の地で、万葉集の歌人・大伴家持が国守として赴任したことでも知られます。高岡市万葉歴史館では万葉文化に触れることができ、雨晴海岸からは富山湾越しに立山連峰を望む絶景が広がります。高岡市中心部の国宝・瑞龍寺や高岡大仏、銅器・漆器の伝統工芸とあわせて、富山県西部の歴史・文化・自然を満喫できるエリアです。','## What Is the Fushiki Hikiyama Festival?
+## 開催情報・アクセス
 
-The Fushiki Hikiyama Festival is the grand annual festival of Fushiki Shrine in the Fushiki district of Takaoka, Toyama Prefecture, held each spring. Known for floats that change their appearance as they parade through the town—*hanayama* (flower floats) by day and *chōchin''yama* (lantern floats) by night—it has gained nationwide fame especially for its climactic *kaccha*, the fierce collisions between floats. Nicknamed the "fighting floats," it is a spirited festival of a port town.
+1. **名称**: 伏木曳山祭（けんか山）－伏木神社春季例大祭
+2. **開催日**: 毎年5月の第3金曜日・土曜日。2026年は5月15日（金）～5月16日（土）[info-toyama.com](https://www.info-toyama.com/events/20010)
+3. **主なスケジュール**: 5月15日は大祭式・神輿渡御（8時～17時）、夜のライトアップ（19時～21時）。5月16日は昼の花山車巡行（9時30分出発式～15時頃）、夜の提灯山車巡行とかっちゃ（18時～24時）[kenkayama.jp](https://kenkayama.jp/)
+4. **会場**: 富山県高岡市伏木地内山町一帯[info-toyama.com](https://www.info-toyama.com/events/20010)
+5. **アクセス**: JR氷見線「伏木駅」から徒歩5分。高岡駅から約20分。能越自動車道「高岡北IC」から車で15分[kenkayama.jp](https://kenkayama.jp/)
+6. **駐車場**: 臨時駐車場あり（約300台分）。日本総合リサイクル(株)敷地内約200台、中越ロジスティクス(株)伏木事務所敷地内約100台。協力金1台1,000円（現金のみ）。伏木駅と臨時駐車場を結ぶ無料シャトルバス運行。台数に限りがあり、公共交通機関の利用が推奨される[info-toyama.com](https://www.info-toyama.com/events/20010)
+7. **観覧料**: 無料。ただし、かっちゃの観覧には有料桟敷席（全席指定）が3年ぶりに設置される。事前購入が必要で、購入者専用駐車場はない[kenkayama.jp](https://kenkayama.jp/)
+8. **最新情報確認**: 能登半島地震の影響による復旧工事の状況により、開催内容が変更となる可能性がある。最新の開催日程・実施可否は公式サイト（伏木曳山祭ホームページ）で確認すること
+
+## 周辺情報
+
+伏木駅から徒歩5分とアクセス良好な会場周辺には、歴史と自然を感じられるスポットが点在している。特に注目すべきは2022年に国宝に指定された「勝興寺」であり、荘厳な建築美は圧巻である[kenkayama.jp](https://kenkayama.jp/)。けんか山とともに伏木の歴史に触れるひとときを楽しむことができる。また、伏木は万葉集の歌人・大伴家持ゆかりの地としても知られており、「高岡市万葉歴史館」では万葉の世界や伏木に息づく文化に触れることができる。
+
+晴れた日には「雨晴（あまはらし）海岸」へ足を延ばすことをおすすめする。海越しに立山連峰を望む絶景は、まさに富山を代表する風景の一つである[kenkayama.jp](https://kenkayama.jp/)。祭りの熱気を味わった後、静かな海岸で夕日を眺めるのも風情がある。また、高岡商工会議所伏木支所には7基のミニチュア山車が展示されており、高さ約1メートルの精巧に作られた山車は本物の約7分の1の縮尺で製作されている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)。
+
+## 関連情報
+
+1. **文化財指定**: 1985年7月8日に高岡市の無形民俗文化財に指定。2006年には「とやまの文化財百選（とやまの祭り百選部門）」に選定されている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)
+2. **十七軒町の山車復元**: 1880年の伏木の大火で焼失した十七軒町の山車が、2013年に復元着手され、2015年に完成。現在は伏木コミュニティセンターに展示されている。神座の寿老人は2004年、前立人形の唐子は2008年に復元された[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)
+3. **かっちゃの対戦方式**: 現在は総当たり戦方式で、どの町内と対戦するかは組み合わせ抽選で決定される。かつては石坂町・湊町という比較的新しい町と旧来の町という対戦構造があったが、人口減少や不公平感から総当たり戦に変更された[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)
+4. **付長手の植樹活動**: 伏木曳山保存会では将来の部材確保のため、伏木一宮神社の「かっちゃの森」で毎年植樹を行っている。付長手として利用できるようになるには植樹から50～60年後となる[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)
+5. **地震の影響と復旧**: 能登半島地震の影響により、2025年は来場者を制限しての開催となった。2026年は道路の復旧が進み、液状化の被害が大きかった「中道通り」から「旧商工会議所」までの大通りを7基の曳山が奉曳する予定である[kenkayama.jp](https://kenkayama.jp/)
+6. **ライブ中継**: 地元ケーブルテレビの高岡ケーブルネットワークでは、夜に行われるかっちゃを生中継で放映し、県内の各ケーブルテレビ局にも配信されている[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)
+7. **ミニチュア山車**: 高岡商工会議所伏木支所に展示されている7基のミニチュア山車は、高岡市国分の市民が約15年前より製作し、2016年12月に寄贈されたものである[wikipedia.org](https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%83%E5%B1%B1%E7%A5%AD)','## Overview
+
+The Fushiki Hikiyama Festival, commonly known as Kenka Yama, is a dynamic festival held annually on the third Friday and Saturday of May in the Fushiki district of Takaoka City, Toyama Prefecture. This festival is a Shinto event held in conjunction with the Fushiki Shrine Spring Grand Festival, and has been passed down for over 200 years as a prayer for coastal protection and maritime safety [kenkayama.jp](https://kenkayama.jp/). During the day, seven flower-decorated floats (hana yama) parade through the town in a brilliant display, while at night, six floats illuminated by approximately 360 paper lanterns each engage in the fierce collision event known as Katcha, which is the festival''s greatest highlight.
+
+Fushiki was once the site of the provincial capital of Etchu Province and flourished as a port of call for Kitamae-bune trading ships. In this port town that has long walked with the sea, a festival of gratitude for the blessings of the ocean and prayers for safe voyages has been preserved since ancient times [kenkayama.jp](https://kenkayama.jp/). The skills and pride of the community are woven into the next generation through the annual cycle of preparing, polishing, and pulling the floats. The festival was designated as an intangible folk cultural property of Takaoka City on July 8, 1985, and was selected for the Toyama Cultural Heritage 100 Selections in the Toyama Festival 100 Selections category in 2006 [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival).
 
 ## History and Origins
 
-The Fushiki Hikiyama Festival is said to have continued since the Edo period as the spring grand festival of Fushiki Shrine, which governs safe sea passage and bountiful catches. Fushiki is a historic port town where the ancient provincial capital of Etchū was situated and which prospered as a port of call for the *kitamaebune* trading ships, and against this prosperity gorgeous floats took shape. The floats that each neighborhood takes pride in are devised with the distinctive idea of changing their guise between day and night, handed down as a tradition-rich festival that conveys to this day the spirit and wealth of the people of the port town.
+There are several accounts of the origins of the Fushiki Hikiyama Festival. According to the official account, the festival began in 1814 (the eleventh year of the Bunka era) in the late Edo period, when the seaside Fushiki Shrine was damaged by waves and relocated to its present site, and was held as its spring ritual [kenkayama.jp](https://kenkayama.jp/). Regarding the floats themselves, it is said that in 1820 Nakamachi created the first float, called Hyotanyama, after which more floats were added successively through the Meiji period, gradually shaping the festival into its current form. Moreover, ink writings found on the back of sacred face masks reveal that the sacred objects for Kamimachi and Honmachi were already being produced even earlier, in 1781 [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival), suggesting that the core faith underlying the festival may have originated in an even earlier era.
+
+Against the backdrop of Fushiki''s prosperity as a key port for Kitamae-bune ships, there existed a strong faith in praying for the safety of maritime transportation. The festival was held as the Fushiki Shrine Spring Grand Festival to give thanks for the blessings of the sea and to pray for safe voyages [kenkayama.jp](https://kenkayama.jp/). The unique form of the festival, featuring the violent collisions of floats called Katcha, is said to have been born from the spirited character of this port town.
+
+The name Katcha is derived from the word kachiau, meaning to collide, and the sight of floats crashing head-on is truly worthy of the festival''s nickname, Kenka Yama, or Fighting Mountain [kenkayama.jp](https://kenkayama.jp/). Although there is no official victory or defeat, the contest staked on town pride moves the hearts of all who witness it. In the past, the festival was also called Isamidashi or Isami Hikiyama, and these names were used on posters until 1974 [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival).
 
 ## Highlights
 
-The greatest attraction is the *kaccha*, the fierce collisions between lantern floats held at night. The sight of floats beautifully decorated with several hundred lanterns crashing head-on into one another is full of intensity, wrapped in a fervor worthy of the name "fighting floats." The scene of the bearers'' calls and the lantern lights swaying in the dark night is breathtaking. By day, the graceful procession of the flower floats adorned with intricate blossoms can be enjoyed, and the appeal of this festival lies in its two utterly different faces between day and night. Visitors can fully savor the vitality and spirited energy distinctive to a port town.
+**Daytime Procession of Flower Floats**
+During the daytime portion, seven flower floats are pulled through the town by young men dressed in matching happi coats. The floats, standing approximately eight meters tall, are adorned with flower umbrellas and display the distinctive hokodome, or spearhead ornaments, that symbolize each town, with sacred objects and dolls enshrined upon them [kenkayama.jp](https://kenkayama.jp/). These floats are carefully maintained and lovingly passed down by the people of each float town over the course of a year, and their beauty embodies the pride of the port city.
 
-## When It Takes Place
+**Nighttime Climax: Katcha**
+The greatest highlight of the Fushiki Hikiyama Festival is Katcha, the fierce collision of floats that takes place at night. Weighing approximately eight tons and adorned with about 360 lanterns each, the floats advance through the dark night, guided by the sound of drums and the young men''s spirited shouts of "Iyasa, Iyasa" [kenkayama.jp](https://kenkayama.jp/). The cry Iyasaa carries the wish for ever-increasing prosperity, echoing a prayer for the development and happiness of the region. After the collision, the representatives shake hands to acknowledge each other''s efforts, and the Katcha concludes with the young men singing their town''s anthem.
 
-The festival is typically held in spring (May) at Fushiki Shrine and the surrounding area in the Fushiki district of Takaoka, Toyama Prefecture. As a spring grand festival, its season is spring. The daytime flower-float procession and the nighttime *kaccha* are the highlights. Because dates, routes, and viewing information vary from year to year, visitors are advised to confirm details in advance through official announcements from Takaoka City and the local tourism association.
+**The Meaning Behind the Iyasa Shouts**
+The shout of Iyasa is not merely a vigorous cry; it is a word derived from the auspicious term Iyasaka, meaning ever-increasing prosperity [kenkayama.jp](https://kenkayama.jp/). The synchronized shouts of the young men pulling the floats resonate through the port town, leaving a strong impression of the region''s unity and pride on all who witness it.
 
-## Access
+**The Ingenious Tsukenagate**
+The tsukenagate used in Katcha, also called a cannon, is a large wooden beam made from oak, measuring 30 to 40 centimeters in diameter and 4.7 meters in length. Two of these beams are attached to the front and rear of the float via the shafts, and an iron ring is fitted to the tip for reinforcement [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival). The tsukenagate is replaced annually, with each town''s members felling oak trees from the mountains and processing them themselves, and the method of attachment is considered a trade secret for each town. This equipment transforms the elegant flower floats into armored vehicles at night, creating a striking and characteristic visual imbalance.
 
-The Fushiki district enjoys good access, within walking distance of Fushiki Station on the JR Himi Line. It can be reached via the JR Himi Line from the direction of Takaoka Station. By car, routes such as the Noetsu Expressway are available, but because traffic restrictions are imposed in the area during the festival, public transport is recommended.
+**The Sound of Yamagaryu Jindaiko**
+During the float processions and Katcha, the music of the Yamagaryu Jindaiko, a style of war drumming, is performed. This drumming not only heightens the festive atmosphere but also serves to coordinate the movements of the young men pulling the floats [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival). The sound of drums echoing through the night, combined with the light of the lanterns, creates a fantastical space that transports visitors to another world.
 
-## Around the Area
+**The Tradition of the Horo Musha Procession**
+The Horo Musha procession, where children dressed as warriors clear the way for the portable shrine, shares the festival''s approximately 200-year history. This procession disappeared once in the mid-Showa 40s but was revived in 1981 through the cooperation of local volunteers, and is now managed by the Fushiki Horo Musha Preservation Society [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival). Children from Fushiki Elementary School and local kindergartens and nursery schools march as generals wearing armor and carrying horo, as well as arrow bearers and attendants, adding both charm and historical weight to the festival.
 
-The Fushiki district is a place of history where the ancient provincial capital and provincial temple of Etchū were located, and is also known as the place to which Ōtomo no Yakamochi, a poet of the Man''yōshū, was posted as provincial governor. At the Takaoka Man''yō Historical Museum, visitors can engage with Man''yō culture, and from the Amaharashi Coast a superb view of the Tateyama mountain range across Toyama Bay unfolds. Together with the national treasure Zuiryū-ji temple and the Great Buddha in central Takaoka, and the traditional crafts of copperware and lacquerware, it is an area where one can savor the history, culture, and nature of western Toyama.','fushiki-hikiyama-festival','fushiki-hikiyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+1.  **Name**: Fushiki Hikiyama Festival (Kenka Yama) - Fushiki Shrine Spring Grand Festival
+2.  **Dates**: Third Friday and Saturday of May annually. For 2026, the dates are May 15 (Fri) and May 16 (Sat) [info-toyama.com](https://www.info-toyama.com/events/20010)
+3.  **Main Schedule**: May 15 features the grand festival ceremony and portable shrine procession (8:00-17:00) and nighttime lighting (19:00-21:00). May 16 includes the daytime flower float parade (departure ceremony at 9:30, until approximately 15:00) and the nighttime lantern float parade and Katcha (18:00-24:00) [kenkayama.jp](https://kenkayama.jp/)
+4.  **Venue**: The area around Yama-cho in the Fushiki district of Takaoka City, Toyama Prefecture [info-toyama.com](https://www.info-toyama.com/events/20010)
+5.  **Access**: A 5-minute walk from Fushiki Station on the JR Himi Line. The station is approximately 20 minutes from Takaoka Station. By car, it is a 15-minute drive from the Takaokakita Interchange on the Noutetsu Expressway [kenkayama.jp](https://kenkayama.jp/)
+6.  **Parking**: Temporary parking is available (approximately 300 spaces). Lot 1 at Nihon Sogo Recycle Co., Ltd. offers about 200 spaces, and Lot 2 at Chuestu Logistics Co., Ltd. Fushiki Office offers about 100 spaces. A cooperation fee of 1,000 yen per vehicle (cash only) is required. A free shuttle bus operates between Fushiki Station and the temporary parking lots. As space is limited, the use of public transportation is strongly recommended [info-toyama.com](https://www.info-toyama.com/events/20010)
+7.  **Admission**: Free, but paid reserved seating (all reserved seats) is available for viewing Katcha for the first time in three years. Advance purchase is required, and there is no dedicated parking for ticket holders [kenkayama.jp](https://kenkayama.jp/)
+8.  **Latest Information**: Due to the effects of the Noto Peninsula Earthquake, restoration work may affect the festival''s details. Please check the official website (Fushiki Hikiyama Festival homepage) for the latest schedule and confirmation of implementation.
+
+## Surrounding Area Information
+
+The area around the venue, a five-minute walk from Fushiki Station and easily accessible, is dotted with spots where visitors can experience history and nature. Particularly noteworthy is Shokoji Temple, designated a National Treasure in 2022, whose stately architectural beauty is overwhelming [kenkayama.jp](https://kenkayama.jp/). Visitors can enjoy exploring Fushiki''s history alongside the Kenka Yama festival. Fushiki is also known as a place associated with Otomo no Yakamochi, a poet of the Manyoshu collection, and the Takaoka City Manyo Historical Museum offers insights into the world of the Manyoshu and the culture that thrives in Fushiki.
+
+On a clear day, a trip to the Amaharashi Coast is recommended. The stunning view of the Tateyama Mountain Range across the sea is one of Toyama''s most representative landscapes [kenkayama.jp](https://kenkayama.jp/). After experiencing the excitement of the festival, watching the sunset on the quiet coast adds to the charm of the visit. Additionally, the Takaoka Chamber of Commerce and Industry Fushiki Branch displays seven miniature floats, each approximately one meter tall and meticulously crafted to about one-seventh the scale of the originals [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival).
+
+## Related Information
+
+1.  **Cultural Property Designation**: Designated as an intangible folk cultural property of Takaoka City on July 8, 1985. In 2006, it was selected for the Toyama Cultural Heritage 100 Selections in the Toyama Festival 100 Selections category [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)
+2.  **Restoration of the Jushichikencho Float**: The float of Jushichikencho, lost in the great fire of Fushiki in 1880, was restored with work beginning in 2013 and completion in 2015. It is now displayed at the Fushiki Community Center. The sacred statue of Jurōjin was restored in 2004, and the Karako puppet was restored in 2008 [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)
+3.  **Katcha Matchup System**: The current system is a round-robin format, with matchups between towns determined by lottery. In the past, there was a structure pitting the newer towns of Ishizakamachi and Minatomachi against the older towns, but this was changed to a round-robin system due to population decline and perceived unfairness [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)
+4.  **Tsukenagate Tree Planting**: To ensure future supplies of materials, the Fushiki Hikiyama Preservation Association holds annual tree-planting events in Katcha no Mori, located within the grounds of Fushiki Ichinomiya Shrine. It will take 50 to 60 years after planting for the oak trees to be usable as tsukenagate [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)
+5.  **Earthquake Impact and Recovery**: Due to the Noto Peninsula Earthquake, the 2025 festival was held with restrictions on attendees. In 2026, as road restoration progresses, the seven floats are scheduled to parade along the main street from Nakamichi-dori, which suffered severe liquefaction damage, to the former Chamber of Commerce building, allowing a wider area for the festival compared to the previous year [kenkayama.jp](https://kenkayama.jp/)
+6.  **Live Broadcast**: The local cable television station, Takaoka Cable Network, broadcasts the nighttime Katcha live, and the feed is also distributed to other cable TV stations within the prefecture [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)
+7.  **Miniature Floats**: The seven miniature floats displayed at the Takaoka Chamber of Commerce and Industry Fushiki Branch were crafted by a citizen from Kokubu, Takaoka City, over a period of about 15 years, and were donated in December 2016 [wikipedia.org](https://en.wikipedia.org/wiki/Fushiki_Hikiyama_Festival)','fushiki-hikiyama-festival','fushiki-hikiyama-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11371737','二百十日','Nihyakutōka','雑節のひとつ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11396267','刈谷わんさか祭り','Kariya Wansaka Festival','愛知県刈谷市で開催されるイベント','event held in Kariya, Aichi, Japan','Q11396287','刈谷市総合運動公園',NULL,'愛知県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%88%88%E8%B0%B7%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11402392','北海ソーラン祭り','Hokkai Soran Matsuri','日本の北海道の祭り',NULL,NULL,NULL,NULL,'北海道','hokkaido',43.188471862,140.794824782,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%B3%E7%A5%AD%E3%82%8A',NULL,75,'drafted','## 概要
