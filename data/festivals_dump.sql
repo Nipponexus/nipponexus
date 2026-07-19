@@ -10483,51 +10483,135 @@ Iga-Ueno is most conveniently reached via Uenoshi Station on the Iga Railway. Lo
 ## Around the Area
 
 Iga is famed as the home of Ueno Castle (Hakuhō Castle), built by Tōdō Takatora, and as a land of ninja. At the Iga-ryū Ninja Museum, visitors can see demonstrations of ninja techniques and tour a house full of hidden tricks, and the area is also known as the birthplace of the poet Matsuo Bashō. Iga ware pottery, Iga beef, and local sake are among the food culture distinctive to the castle town. It is an area where one can savor a journey unique to Iga, enjoying history, ninja culture, and the autumn festival all at once.','ueno-tenjin-festival','ueno-tenjin-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11361280','下総三山の七年祭り','Shimōsa Miyama Seven-Year Festival','千葉県船橋市三山にある二宮神社を中心として開催される大祭',NULL,'Q11371511','二宮神社','Ninomiya Shrine','千葉県','kanto',NULL,NULL,1445,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shimousamiyamanoshichinennmatsuri.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B7%8F%E4%B8%89%E5%B1%B1%E3%81%AE%E4%B8%83%E5%B9%B4%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 下総三山の七年祭りとは
+INSERT INTO "festivals" VALUES('Q11361280','下総三山の七年祭り','Shimōsa Miyama Seven-Year Festival','千葉県船橋市三山にある二宮神社を中心として開催される大祭',NULL,'Q11371511','二宮神社','Ninomiya Shrine','千葉県','kanto',NULL,NULL,1445,11,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shimousamiyamanoshichinennmatsuri.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B7%8F%E4%B8%89%E5%B1%B1%E3%81%AE%E4%B8%83%E5%B9%B4%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
-下総三山の七年祭り（しもうさみやまのしちねんまつり）は、千葉県船橋市三山の二宮神社を中心に、6年に一度（数え年で7年に一度）執り行われる、近隣9社の神々が集う壮大な合同祭礼です。複数の神社の神輿が三山の地に参集し、それぞれの神を父・母・子などになぞらえた「産屋（うぶや）」の神事を行う、家族の物語になぞらえた独特の祭りとして知られ、千葉県の無形民俗文化財に指定されています。
+下総三山の七年祭りは、千葉県の船橋市、千葉市、八千代市、習志野市の4市にまたがる9つの神社が寄り集まって行う大祭です。この祭りは丑年と未年に行われ、数え年で7年目に当たることから「七年祭り」と呼ばれ、室町時代から550年以上の歴史を持つとされています。平成16年（2004年）に千葉県指定無形民俗文化財に指定されました。
 
-## 歴史と由来
+祭りは大きく分けて、9月に開催される小祭（湯立祭）と、11月に開催される大祭から構成されます。大祭では、清めの禊式にはじまり、9社の神輿が船橋市三山の神揃場に集結し、二宮神社での昇殿参拝、そして千葉市幕張海岸での磯出祭が行われます。この祭りは、安産と子育てを祈願する祭りとして広く知られており、参加する各神社には出産と親族にちなんだ役割があるとされています。
 
-下総三山の七年祭りは、室町時代の文安2年（1445年）にその起源を持つと伝えられる、600年近い歴史を誇る祭礼です。安産祈願にまつわる伝説に由来するとされ、二宮神社を父、子安神社を母、子の安産を祝う神事として発展しました。船橋・千葉・習志野・八千代の各地に鎮座する9つの神社が、それぞれ父・母・子・産婆・伯父・叔母といった役を担い、家族として三山の地に集うという、全国的にも類を見ない構成を持つ祭りです。6年に一度の大祭として、地域の人々がその年を待ちわびます。
+## 歴史・由来
+
+下総三山の七年祭りの起源については、複数の伝承が伝えられています。一説によれば、室町時代の文安2年（1445年）、千葉氏の一族である馬加康胤（まくわりやすたね）の奥方が臨月を過ぎても出産の気配がなかったため、康胤は二宮神社などの神職に祈祷を命じ、浜辺で祭事を行ったところ無事に男子を出産したとされています。このエピソードに基づき、康胤は安産御礼の祭りを行うようになったと伝えられています。
+
+別の伝承では、藤原時平の子孫である藤原師経（もろつね）が都を追われて東国に来た際、海路で暴風に遭い、久々田（くぐた、現在の習志野市津田沼）に流れ着いたという話が知られています。見失った姉の船に合図の烽火（のろし）を挙げたのが神之台であり、その後師経は二宮神社を深く信仰した、あるいは二宮神社に祀られたともいわれています。この伝承では、高津には時平の娘が住み着いたとされています。
+
+祭りが現在のような形になった時期については明確ではありませんが、7年ごとの丑年と未年に行われるようになったのは、享保12年（1727年）以降であるともいわれています。江戸時代後期を通じて徐々に形が整えられ、規模も大きくなっていったと考えられています。特に、二宮神社での安産御礼大祭と、その後に千葉市幕張で行われる磯出祭の組み合わせは、室町時代の故事に基づくものとされています。
+
+なお、この祭りの特徴として、「三山の祭りは後が先」という言葉が伝えられています。これは、昼間に行われる安産御礼大祭が「無事に出産できたことへの御礼」であるのに対し、その後の磯出祭が「安産祈願」であることから、時間の順序が逆転していることに由来します。
 
 ## 見どころ
 
-最大の見どころは、9社の神輿が三山の二宮神社へと続々と参集する壮観な光景です。それぞれの地区から渡御してきた神輿が一堂に会する様は、6年に一度の大祭ならではの迫力に満ちています。神々を家族になぞらえた「産屋の儀」など、独特の神事が古式ゆかしく執り行われ、各地区の担ぎ手たちの熱気が祭りを盛り上げます。広範囲の地域が一体となって繰り広げる神輿の競演は、地域の絆の深さを物語ります。
+**神揃場での9社神輿の集結**
+神揃場（かみそろいば）は船橋市三山にあり、大祭の日に9つの神社の神輿がここに集まります。この光景は、船橋市、千葉市、八千代市、習志野市の4市からそれぞれの神輿が一堂に会する壮大なもので、約10万人もの見物客が訪れるとされています。9基の神輿が並ぶ様子は、まるで室町時代の活気がよみがえったかのような景観を作り出します。
 
-## 開催情報
+**二宮神社での昇殿参拝**
+神揃場を出発した神輿行列は、「七曲り」と呼ばれる旧道を通って二宮神社へ向かいます。この道は7回折れ曲がることからその名がつきました。二宮神社では、8社の神輿が決まった順番で昇殿参拝を行い、神輿を担いだまま拝殿に滑り込ませ、神輿ごとお祓いを受けます。この順番は、9社それぞれに割り振られた家族の中での役割に基づいて定められています。
 
-6年に一度（数え年7年に一度）、秋（11月）に、千葉県船橋市三山の二宮神社を中心とした地域で執り行われます。秋の大祭であり、季節は秋。次回の開催年や日程の詳細は、船橋市および主催団体の公式発表で確認してください。大祭の年でない場合でも、二宮神社では関連の小祭が行われることがあります。
+**各神社の役割に基づく家族構成の再現**
+参加する9つの神社には、それぞれ家族の中での役割が割り当てられています。二宮神社は父・夫、子安神社は母・妻、子守神社は子守、三代王神社は産婆、菊田神社は伯父、大宮大原神社は伯母、時平神社は長男、高津比咩神社は姫君、八王子神社は末息子とされています。この役割に従って、神輿の順番や祭祀の進行が決められており、祭り全体が一つの家族の出産物語を再現しているといえます。
 
-## アクセス
+**磯出祭での安産祈願**
+磯出祭は、安産御礼大祭の翌日未明、陽の昇らない早朝に千葉市幕張海岸の磯出御旅所で行われます。この神事には、二宮神社（父・夫役）、子安神社（母・妻役）、三代王神社（産婆役）、子守神社（子守役）の4社のみが参加します。安産御礼大祭が出産後の祝いであるのに対し、磯出祭は次の安産を祈願する神事であり、ここに「後が先」の意味が表れています。
 
-中心となる二宮神社へは、京成本線「実籾駅」や新京成線「習志野駅」などからアクセスできます。船橋市の東部、習志野市との境に近い三山地区に位置します。車の場合は周辺道路を利用しますが、大祭の年は広範囲で交通規制と混雑が予想されるため、公共交通機関の利用が推奨されます。
+**禊式による神事の開始**
+大祭の前夜には、参加者が身を清める禊式が行われます。従来は鷺沼で行われていましたが、現在は海岸の埋め立てにより袖ケ浦に場所が移っています。しかし、今も大祭参加者は鷺沼の根神社で接待を受けるなど、旧来の慣習が色濃く残っています。参加者は海水で手を清め、アサリを拾うなどの所作を行うとされています。
 
-## 周辺観光
+**花流しによる地域還幸**
+大祭の後、各神社の神輿はそれぞれの地域で「花流し」と呼ばれる巡行を行います。花流しは「花回り」「花回し」とも呼ばれ、各神社によって日程や方法が異なります。二宮神社の神輿は、神之台での神事の後に還御の途中で花流しを行い、菊田神社では大祭の翌日と翌々日の2日間にわたって行われます。
 
-船橋市は東京湾に面し、東京都心へのアクセスも良好な千葉県北西部の中核都市です。三山地区の二宮神社は緑豊かな社叢に包まれた由緒ある古社で、周辺には習志野・千葉方面の見どころも点在します。東京ディズニーリゾートや幕張新都心へも比較的近く、千葉県北西部の観光とあわせて、6年に一度の大祭の歴史と地域文化に触れられるエリアです。','## What Is the Shimōsa Miyama Seven-Year Festival?
+## 開催情報・アクセス
 
-The Shimōsa Miyama Seven-Year Festival is a grand joint festival centered on Ninomiya Shrine in Miyama, Funabashi, Chiba Prefecture, held once every six years (once every seven years by the traditional count) and gathering the deities of nine neighboring shrines. The portable shrines of multiple shrines assemble at Miyama, and rites of the *ubuya* (birthing hut), in which each deity is likened to a father, mother, child, and so on, are performed. Known as a distinctive festival modeled on a family story, it is designated an Intangible Folk Cultural Property of Chiba Prefecture.
+- **開催年**: 数え年で7年ごとの丑年（うしどし）と未年（ひつじどし）に大祭を斎行（次回開催年は公式サイトで確認）
+- **小祭（湯立祭）**: 開催年の9月（日程は神社により異なる）
+- **大祭（禊式・安産御礼大祭・磯出祭）**: 開催年の11月（日程は年により異なる）
+- **会場**: 主に船橋市三山の神揃場、二宮神社（船橋市三山5-20-1）、千葉市幕張海岸の磯出御旅所、習志野市袖ケ浦（禊式会場）
+- **アクセス（鉄道）**: JR総武線津田沼駅から京成バス「二宮神社行」で約20分、または船橋新京成バス「二宮神社前行」で約30分
+- **アクセス（車）**: 京葉道路幕張ICまたは武石ICから約20分、花輪ICから約30分（期間中は周辺道路に交通規制あり）
+- **主催**: 七年祭り保存会
+- **問い合わせ先**: 船橋市教育委員会文化課（047-436-2898）
+- **注意**: 最新の開催日程・実施可否は各市の公式サイトで確認してください。特に近年は新型コロナウイルスの影響で神事のみの開催となった事例があります。
+
+## 周辺情報
+
+船橋市三山にある二宮神社は、下総三山の七年祭りの中心的な神社であり、常時参拝が可能です。境内は静かで、普段は地域の氏神様として地元の人々に親しまれています。祭りの際には、神揃場が設けられる三山の交差点周辺は、普段は住宅地ですが、大祭の日には多くの露店や見物客で賑わいます。
+
+千葉市幕張の磯出御旅所は、磯出祭が行われる海岸近くに位置しています。幕張は元来「馬加（まくわり）」と呼ばれた地域で、馬加康胤の伝承にゆかりの深い場所です。現代では幕張新都心としてビジネス街が広がっていますが、磯出祭が行われる海岸付近では、昔ながらの漁村の面影を感じることができます。
+
+習志野市袖ケ浦運動公園は、現在の禊式の会場として使用されています。また、津田沼には神之台（かんのんだい）という場所があり、藤原師経が烽火を挙げたと伝えられる歴史的な地点です。神之台では大祭の終了を知らせる神事が行われ、地域の歴史の深さを実感できるスポットとなっています。
+
+## 関連情報
+
+- **文化財指定**: 平成16年（2004年）千葉県指定無形民俗文化財
+- **参加9神社の所在地**: 二宮神社（船橋市三山）、子安神社（千葉市花見川区畑町）、子守神社（千葉市花見川区幕張）、三代王神社（千葉市花見川区武石）、菊田神社（習志野市津田沼）、大宮大原神社（習志野市実籾）、時平神社（八千代市大和田・萱田町）、高津比咩神社（八千代市高津）、八王子神社（船橋市古和釜町）
+- **祭りの名称の由来**: 数え年で7年目（丑年・未年）に行われることから「七年祭り」と呼ばれる
+- **「三山」の名称**: 下総三山とは、船橋市三山の地域名に由来し、この地域に二宮神社が鎮座する
+- **類似する祭礼**: 千葉県内には他にも「七年祭り」を称する祭礼があるが、下総三山の七年祭りは特に規模が大きい
+- **保存団体**: 七年祭り保存会が祭りの伝承・運営を担っている
+- **文献記録**: 江戸時代の地誌や記録にも七年祭りに関する記述が残されており、歴史的な継続性が確認できる','## Overview
+
+The Shimosan Mountains Seven-Year Festival is a major festival involving nine shrines across four cities in Chiba Prefecture: Funabashi, Chiba, Yachiyo, and Narashino. This festival takes place in the years of the Ox and the Sheep, corresponding to the seventh year in the traditional counting system, hence the name Seven-Year Festival. It is said to have a history of over 550 years dating back to the Muromachi period. In 2004, it was designated as an Intangible Folk Cultural Property of Chiba Prefecture.
+
+The festival is broadly divided into two parts: the Small Festival, held in September, and the Grand Festival, held in November. The Grand Festival begins with a purification ceremony and features the gathering of portable shrines from nine shrines at the Kami Soroiba assembly point in Sanyama, Funabashi City, followed by the Shoden Sanpai ceremony at Ninomiya Shrine, and finally the Isode Ceremony on the Makuhari coast in Chiba City. This festival is widely known as a prayer for safe childbirth and child-rearing, with each participating shrine having a specific role related to childbirth and family.
 
 ## History and Origins
 
-The Shimōsa Miyama Seven-Year Festival is a festival of nearly 600 years'' history, said to trace its origins to 1445 in the Muromachi period. Believed to derive from a legend concerning prayers for safe childbirth, it developed as a rite in which Ninomiya Shrine plays the father and Koyasu Shrine the mother, celebrating the safe birth of a child. Nine shrines situated across Funabashi, Chiba, Narashino, and Yachiyo each take on roles such as father, mother, child, midwife, uncle, and aunt, gathering as a family at Miyama—a structure with few parallels in the country. As a grand festival held once every six years, local people eagerly await the year of its staging.
+Multiple traditions describe the origins of the Shimosan Mountains Seven-Year Festival. According to one account, around 1445 during the Muromachi period, Makuwari Yasutane of the Chiba clan, whose wife had not shown signs of giving birth despite being past her due date, ordered prayers at Ninomiya Shrine and conducted a seaside ritual. Following this, a son was born safely. It is said that Yasutane subsequently began holding a festival of thanksgiving for the safe birth.
+
+Another tradition tells of Fujiwara no Tokihira''s descendant, Fujiwara no Morotsune, who, after being exiled from the capital and encountering a storm at sea, drifted ashore at Kuguta (present-day Tsudanuma in Narashino City). He is said to have lit a signal fire at Kannondai to alert his lost sister''s ship, and later developed a deep faith in Ninomiya Shrine, or was enshrined there. This tradition also holds that Tokihira''s daughter settled in Takatsu.
+
+The exact period when the festival took its current form is unclear, but the practice of holding it every seven years in the Ox and Sheep years is said to have begun around 1727 during the Kyoho era. Throughout the late Edo period, the festival gradually took shape and grew in scale. In particular, the combination of the Thanksgiving for Safe Childbirth festival at Ninomiya Shrine and the subsequent Isode Ceremony on the Makuhari coast is based on the Muromachi period story.
+
+A notable saying associated with this festival is that the order of events in the Sanyama festival is reversed. This refers to the fact that the daytime Thanksgiving for Safe Childbirth ceremony is a celebration of a successful birth, while the subsequent Isode Ceremony is a prayer for safe childbirth, thus inverting the natural sequence of events.
 
 ## Highlights
 
-The greatest attraction is the magnificent sight of the portable shrines of all nine shrines converging one after another on Ninomiya Shrine in Miyama. The scene of *mikoshi* that have processed from each district gathering in one place is full of the intensity unique to a grand festival held only once every six years. Distinctive rites such as the "Ceremony of the Birthing Hut," in which the deities are likened to a family, are performed in the old style, while the fervor of the bearers from each district enlivens the festival. The shared display of portable shrines across a wide area speaks to the depth of the region''s bonds.
+**Gathering of Nine Shrines at Kami Soroiba**
+The Kami Soroiba assembly point is located in Sanyama, Funabashi City, where the portable shrines from all nine shrines gather on the day of the Grand Festival. This spectacle, with portable shrines from four cities converging, is magnificent and attracts approximately 100,000 spectators. The sight of nine portable shrines lined up creates an atmosphere reminiscent of the Muromachi period''s vitality.
 
-## When It Takes Place
+**Shoden Sanpai at Ninomiya Shrine**
+After departing from Kami Soroiba, the portable shrine procession travels along the Seven Curves road to Ninomiya Shrine, named for its seven bends. At Ninomiya Shrine, the portable shrines of the eight other shrines undergo the Shoden Sanpai ceremony in a predetermined order, where they are carried into the worship hall for purification. This order is based on the family roles assigned to each of the nine shrines.
 
-The festival is held once every six years (once every seven years by the traditional count), in autumn (November), in the area centered on Ninomiya Shrine in Miyama, Funabashi, Chiba Prefecture. As an autumn grand festival, its season is autumn. Please confirm the next staging year and detailed dates through official announcements from Funabashi City and the organizing bodies. Even in non-grand-festival years, related smaller rites may be held at Ninomiya Shrine.
+**Family Roles of Participating Shrines**
+Each of the nine shrines is assigned a specific family role. Ninomiya Shrine is the father/husband, Koyasu Shrine is the mother/wife, Komori Shrine is the child-minder, Sandaio Shrine is the midwife, Kikuta Shrine is the uncle, Omiya Ohara Shrine is the aunt, Jihei Shrine is the eldest son, Takatsu Hime Shrine is the princess, and Hachioji Shrine is the youngest son. The order of procession and the ritual proceedings are determined by these roles, with the entire festival reenacting a family''s childbirth story.
 
-## Access
+**Isode Ceremony for Safe Childbirth**
+The Isode Ceremony takes place at the Isode Otabisho on the Makuhari coast in Chiba City, in the early morning before sunrise on the day after the Thanksgiving for Safe Childbirth. Only four shrines participate: Ninomiya Shrine (father/husband), Koyasu Shrine (mother/wife), Sandaio Shrine (midwife), and Komori Shrine (child-minder). While the Thanksgiving for Safe Childbirth is a celebration after birth, the Isode Ceremony is a prayer for the next safe birth, embodying the reversed order of the festival.
 
-The central Ninomiya Shrine can be reached from stations such as Mimomi Station on the Keisei Main Line and Narashino Station on the Shin-Keisei Line. It is located in the Miyama district in eastern Funabashi, near the border with Narashino. By car, local roads are used, but in grand-festival years, traffic restrictions and crowds are expected over a wide area, so public transport is recommended.
+**Purification Ceremony Before the Grand Festival**
+On the eve of the Grand Festival, participants undergo a purification ceremony. This was traditionally held at Saginuma, but due to coastal reclamation, the location has moved to Sodegaura. However, participants still receive hospitality at the Ne Shrine in Saginuma, preserving old customs. Participants purify their hands with seawater and perform actions such as gathering clams.
 
-## Around the Area
+**Hana Nagashi in Local Communities**
+After the Grand Festival, the portable shrines of each shrine conduct a Hana Nagashi procession through their respective local areas. This procession, also called Hana Mawari or Hana Mawashi, varies in schedule and method depending on the shrine. The Ninomiya Shrine''s portable shrine holds its Hana Nagashi after the Kannondai ceremony on its return journey, while Kikuta Shrine''s procession takes place over two days following the Grand Festival.
 
-Funabashi, facing Tokyo Bay, is a core city of northwestern Chiba Prefecture with good access to central Tokyo. Ninomiya Shrine in the Miyama district is a venerable old shrine enveloped in a lush sacred grove, and the surrounding area is dotted with attractions toward Narashino and Chiba. Relatively close to Tokyo Disney Resort and the Makuhari new urban center, it is an area where, together with sightseeing in northwestern Chiba, one can engage with the history and local culture of a grand festival held only once every six years.','shimousa-miyama-seven-year-festival','shimousa-miyama-seven-year-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+- **Festival Year**: Every seventh year in the traditional counting system, specifically the years of the Ox and the Sheep (please check the official website for the next scheduled year)
+- **Small Festival**: September of the festival year (dates vary by shrine)
+- **Grand Festival**: November of the festival year (dates vary by year)
+- **Venues**: Kami Soroiba and Ninomiya Shrine (5-20-1 Sanyama, Funabashi City), Isode Otabisho (Makuhari coast, Chiba City), Sodegaura (purification ceremony site, Narashino City)
+- **Access (Train)**: Approximately 20 minutes by Keisei Bus from JR Sobu Line Tsudanuma Station to Ninomiya Shrine, or 30 minutes by Funabashi Shin-Keisei Bus
+- **Access (Car)**: Approximately 20 minutes from Makuhari or Takeishi IC on the Keiyo Road, or 30 minutes from Hanaori IC (traffic regulations in effect during the festival)
+- **Organizer**: Seven-Year Festival Preservation Society
+- **Contact**: Funabashi City Board of Education, Cultural Affairs Division (047-436-2898)
+- **Note**: Please check the official websites of each city for the most current schedule and whether the festival will be held as usual. In recent years, events have been limited to ceremonies due to the COVID-19 pandemic.
+
+## Surrounding Area Information
+
+Ninomiya Shrine in Sanyama, Funabashi City, is the central shrine of this festival and is open for regular worship. The shrine grounds are usually peaceful and revered by local residents as the local tutelary deity. During the festival, the area around the Sanyama intersection, where Kami Soroiba is set up, is usually a residential area but becomes bustling with stalls and spectators on the day of the Grand Festival.
+
+The Isode Otabisho near the Makuhari coast in Chiba City is the site of the Isode Ceremony. Makuhari, originally called Makuwari, is deeply connected to the legend of Makuwari Yasutane. While the area has developed into the Makuhari New City business district, remnants of the old fishing village atmosphere can still be felt near the coast where the Isode Ceremony takes place.
+
+Sodegaura Sports Park in Narashino City is used as the current venue for the purification ceremony. Additionally, Kannondai in Tsudanuma is a historically significant site where Fujiwara no Morotsune is said to have lit his signal fire. A ritual marking the end of the Grand Festival is held at Kannondai, offering visitors a glimpse into the deep history of the region.
+
+## Related Information
+
+- **Cultural Property Designation**: Designated as an Intangible Folk Cultural Property of Chiba Prefecture in 2004
+- **Locations of Nine Participating Shrines**: Ninomiya Shrine (Sanyama, Funabashi City), Koyasu Shrine (Hatamachi, Hanamigawa-ku, Chiba City), Komori Shrine (Makuhari, Hanamigawa-ku, Chiba City), Sandaio Shrine (Takeishi, Hanamigawa-ku, Chiba City), Kikuta Shrine (Tsudanuma, Narashino City), Omiya Ohara Shrine (Jitsumin, Narashino City), Jihei Shrine (Owada and Kayadacho, Yachiyo City), Takatsu Hime Shrine (Takatsu, Yachiyo City), Hachioji Shrine (Kogane-cho, Funabashi City)
+- **Name Origin**: Named Seven-Year Festival because it is held in the seventh year of the counting cycle (Ox and Sheep years)
+- **Sanyama Name**: The term Shimosan refers to the Sanyama district in Funabashi City, where Ninomiya Shrine is located
+- **Similar Festivals**: While other festivals called Seven-Year Festival exist in Chiba Prefecture, the Shimosan Mountains festival is notably larger in scale
+- **Preservation Group**: The Seven-Year Festival Preservation Society is responsible for preserving and managing the festival
+- **Historical Records**: Descriptions of the festival can be found in Edo-period geographical records and documents, confirming its historical continuity','shimousa-miyama-seven-year-festival','shimousa-miyama-seven-year-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353544','七日堂裸まいり','Nanokado Hadaka Mairi',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11302749','コリアン・シネマ・ウィーク','Korean Cinema Week','駐日韓国文化院主催の映画祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11338451','ホーランエンヤ','Hōran-en''ya','島根県松江市で行われる船渡御祭',NULL,NULL,NULL,NULL,'島根県','chugoku',NULL,NULL,1648,5,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Horanenya%20higashimatsue.jpg','https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%83%A4_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)',NULL,85,'drafted','## 概要
