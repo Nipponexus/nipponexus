@@ -131,6 +131,31 @@ def verify(ja, en):
     r["ok"] = ((std or exc) and r["h"]>=6 and r["b"]>=6)
     return r
 
+# ---- 分割(===EN===欠落時フォールバック・2026-07-19追加/35・37本目でセパレータ欠落2回) ----
+def _normalize_h1(block):
+    """先頭が単一#のH1見出しを##へ格上げ(既存##小見出しは不変)。全見出しH1化事故の是正。"""
+    out=[]
+    for l in block.splitlines():
+        out.append('## '+l[2:] if re.match(r'^# (?!#)', l) else l)
+    return '\n'.join(out).strip()
+
+def split_ja_en(content):
+    """(ja, en, fallback) を返す。===EN===があれば通常2分割(正規化なし=既存挙動維持)。
+       無ければ # Overview / ## Overview 行でフォールバック分割しH1→H2正規化。
+       境界が無ければ en='' で返し検算NGで安全停止。"""
+    if "===EN===" in content:
+        ja, en = (content.split("===EN===",1)+[""])[:2]
+        return ja.strip(), en.strip(), False
+    # フォールバック: EN先頭見出し(# Overview or ## Overview)を探す
+    lines = content.splitlines()
+    sep = next((i for i,l in enumerate(lines)
+                if l.strip() in ("# Overview","## Overview")), None)
+    if sep is None:
+        return content.strip(), "", False
+    ja = _normalize_h1("\n".join(lines[:sep]))
+    en = _normalize_h1("\n".join(lines[sep:]))
+    return ja, en, True
+
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
 def review(qid, label, ja, en, cites, vr, usage):
     years=[]
@@ -178,8 +203,8 @@ def main():
     t0=time.time(); data=call(prompt, key); el=time.time()-t0
     msg=data["choices"][0]["message"]; content=msg.get("content","")
     content=content or ""
-    ja,en=(content.split("===EN===",1)+[""])[:2] if "===EN===" in content else (content,"")
-    ja,en=ja.strip(),en.strip()
+    ja,en,fb=split_ja_en(content)
+    if fb: print("  [警告] ===EN===欠落→Overview見出しでフォールバック分割+H1正規化を適用")
     cites=[x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
            if x.get("type")=="url_citation"]
     (OUT/f"{qid}_deepseek_full.md").write_text(content)

@@ -20,7 +20,7 @@ data/raw/_archive_overbroad/
 .env.local
 
 # Backups
-*.bak
+*.bak*
 _backup/
 site_old_empty/
 
