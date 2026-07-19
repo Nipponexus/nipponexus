@@ -15274,51 +15274,130 @@ The Otaru Canal, the main venue, enjoys good access, within walking distance of 
 ## Around the Area
 
 Otaru is a nostalgic port town where many historic buildings of the Meiji and Taishō eras remain. Popular tourist spots include the symbolic Otaru Canal, Sakaimachi-dōri lined with shops of glasswork, music boxes, and sweets, and Kitaichi Glass. The "Sushiya-dōri" street, where one can savor fresh seafood, is also famous. Popular as a day-trip destination from Sapporo, it offers the snowy canal in winter and the refreshing atmosphere of a port town in summer. Together with the Snow Light Path, it is an area where one can savor a stroll through retro Otaru.','otaru-snow-light-path','otaru-snow-light-path',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11465777','山あげ祭','Yamaage Matsuri','栃木県那須烏山市の八雲神社例大祭の奉納行事',NULL,'Q137321824',NULL,'Yakumo Shrine','栃木県','kanto',NULL,NULL,1560,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Yamaage%20Matsuri%2004.JPG','https://ja.wikipedia.org/wiki/%E5%B1%B1%E3%81%82%E3%81%92%E7%A5%AD',NULL,85,'drafted','## 山あげ祭とは
+INSERT INTO "festivals" VALUES('Q11465777','山あげ祭','Yamaage Matsuri','栃木県那須烏山市の八雲神社例大祭の奉納行事',NULL,'Q137321824',NULL,'Yakumo Shrine','栃木県','kanto',NULL,NULL,1560,7,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Yamaage%20Matsuri%2004.JPG','https://ja.wikipedia.org/wiki/%E5%B1%B1%E3%81%82%E3%81%92%E7%A5%AD',NULL,85,'drafted','## 概要
 
-山あげ祭（やまあげまつり）は、栃木県那須烏山市の八雲神社で毎年夏に行われる例大祭の奉納行事です。「山あげ」と呼ばれる、和紙を幾重にも貼り重ねた巨大な舞台背景を野外に組み立て、その前で歌舞伎舞踊「常磐津(ときわず)」を奉納する、全国的にも類を見ない移動式野外歌舞伎の祭りとして知られています。約460年の歴史を持ち、国の重要無形民俗文化財に指定されるとともに、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。
+栃木県那須烏山市で毎年7月下旬に開催される「山あげ祭」は、国の重要無形民俗文化財「烏山の山あげ行事」として指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」の構成要素にもなっている大規模な野外祭礼である。この祭りの最大の特徴は、道路幅いっぱいに奥行き約100メートルにも及ぶ舞台を仮設し、その前面で常磐津節に合わせた所作狂言（歌舞伎舞踊）を上演する点にある。舞台装置はすべて人力で組み立て・分解され、移動のたびに約150人の若衆が一糸乱れぬ団体行動で作業を完了させる。
 
-## 歴史と由来
+祭りは八雲神社の神輿渡御と、6町の輪番で行われる山あげ行事の二本柱で構成されている。市中心部の通り全体を舞台として、特産の烏山和紙を用いた高さ約10メートルの「はりか山」（背景画）が人力で立ち上げられる光景は圧巻である。通常の祭礼のように固定された山車を引き回すのではなく、上演場所ごとにすべてを組み立て直すこの方式は、全国でも類例を見ない独自の形態を持つ。
 
-山あげ祭は、永禄3年（1560年）、烏山城主が八雲神社を勧請し、疫病退散と五穀豊穣を祈願したことに始まると伝えられます。当初は相撲や神楽などが奉納されていましたが、江戸時代に歌舞伎舞踊の奉納が加わり、それを彩る背景として「山あげ」が発展しました。「山」とは、烏山特産の那須楮(なすこうぞ)で漉いた和紙を貼り重ねた巨大な背景画のことで、これを「あげる(立てる)」ことから「山あげ」の名がつきました。地域の人々の手で約460年にわたり受け継がれてきた、誇り高き伝統行事です。
+## 歴史・由来
+
+山あげ祭の起源は、永禄3年（1560年）にさかのぼる。当時の烏山城主・那須資胤が、地域に蔓延した疫病を防除するため、牛頭天王（素盞嗚命）を城下に勧請したことが始まりとされる。那須資胤は那須余一の子孫にあたり、天下泰平、五穀豊穣、厄除開運を祈願して神社を建立した。このことが国の文化財データベースに公式に記録されている。
+
+当初の祭礼奉納余興は、相撲や神楽獅子などの神事芸能が中心であった。しかし江戸時代に入ると、江戸歌舞伎が隆盛し、常磐津節を用いた所作が流行したことをきっかけに、奉納余興として常磐津所作が取り入れられるようになった。寛文年間（1661～1672年）には踊りの上演が始まり、元禄年間（1688～1703年）には狂言が加わり、享保から宝暦年間（1716～1763年）にかけて歌舞伎舞踊が本格化した。
+
+江戸時代末期頃には、「山」と呼ばれる大型の舞台背景装置を用いた現在の野外歌舞伎の形態が完成した。この「山」は、網代状に竹を組んだ木枠に烏山特産の和紙を幾重にも貼り、その上に山水画を描いた「はりか山」のことである。この「山」を人力であげる（立てる）ことから、「山あげ」の名称が生まれた。今日では「ヤマ」を芸能の舞台の一部とみなす傾向にあるが、古くは神が降臨する場と考えられていた。
+
+昭和54年から55年（1979～1980年）にかけて、この一連の行事は「烏山の山あげ行事」として国の重要無形民俗文化財に指定された（資料により指定年の表記に差がある）。さらに平成28年（2016年）11月30日（日本時間12月1日未明）、ユネスコ政府間委員会において「烏山の山あげ行事」を含む33の祭礼行事が「山・鉾・屋台行事」としてユネスコ無形文化遺産に登録された。現在は市内6町内が輪番で担当し、毎年7月の第4土曜日を含む金曜・土曜・日曜の3日間にわたって開催されている。
 
 ## 見どころ
 
-最大の見どころは、巨大な「山」を野外に組み立て、その前で繰り広げられる野外歌舞伎舞踊です。高さ十数メートルにも及ぶ和紙の背景や、はりか山、館などの大道具が、わずかな時間で手際よく組み立てられ、町の通りが瞬く間に歌舞伎の舞台へと変貌する様は圧巻。その大舞台を背景に、優雅な常磐津の舞踊が奉納されます。場所を移動しながら何度も舞台を組み立て直す「移動式」であることも、この祭りならではの特徴。職人技と芸能が一体となった、見ごたえのある祭りです。
+**1. 大迫力の「山」人力起立**
+高さ約10メートル、幅も同程度に達する「はりか山」が、若衆たちの手で一気に立ち上げられる瞬間は最大の見どころである。この「はりか山」は烏山特産の和紙を幾重にも貼り重ねて作られ、背景には山水画が描かれている。竹と和紙だけの構造でありながら、人力だけで垂直に起こす技術と統率力には、見物客から自然と拍手が沸き起こる。
 
-## 開催情報
+**2. 一糸乱れぬ若衆の団体操作**
+上演の進行に伴い、舞台上の背景が次々と変化する。木頭（指揮者）の打つ拍子木の合図で、約150人の若衆が瞬時に「御拝」「舞台」「座敷」「波松」「館」「前山」「中山」「大山」などの装置を配置換えする。この作業は数分間で完了し、その規律正しさは若衆たちの誇りとなっている。観客は、演劇そのものだけでなく、舞台装置を動かす人間の動きそのものを楽しむことができる。
 
-例年夏（7月）の第4金曜日からの3日間、栃木県那須烏山市の市街地で開催されます。夏の例大祭の奉納行事であり、季節は夏。山あげと歌舞伎舞踊の上演場所・日程は年によって異なるため、那須烏山市および地元の保存会・観光協会の公式発表で事前に確認することをおすすめします。
+**3. 常磐津節に乗せた所作狂言**
+上演される演目は「三番叟」「将門」「戻橋」「紅葉狩」「宗清」「忠信」「関の扉」などが伝承されている。これらの演目は常磐津節の三味線と唄に合わせて、地元の踊り子たちが路上に立てられた「山」の前面で踊る。演目は各町の若衆によって引き継がれ、町ごとに異なる特色がある。
 
-## アクセス
+**4. 移動式野外劇のダイナミズム**
+一つの場所で上演が終わると、すべての舞台装置は即座に分解・片付けられ、次の上演場所まで移動する。この移動から再設置、上演完了までの一連の流れが、まさに「日本一の移動式野外劇」と呼ぶにふさわしい。観客は、設置作業から上演、撤収までを含めた全体を鑑賞できる。
 
-会場の那須烏山市街地へは、JR烏山線「烏山駅」から徒歩圏内です。宇都宮駅からJR烏山線を利用してアクセスできます。車の場合は周辺の駐車場を利用できますが、開催期間中は市街地で交通規制が敷かれるため、公共交通機関の利用がおすすめです。
+**5. 神輿渡御とブンヌキ**
+祭りの期間中、八雲神社の神輿が町内を巡行する。特に最終日の還御祭では、神輿が鳥居をくぐる前に若衆たちによる激しい「もみ合い」が行われ、何度も鳥居前に戻る駆け引きが繰り広げられる。また、屋台同士が向き合い、囃子の速さや音量を競う「ブンヌキ」は、市民の熱気が最高潮に達する瞬間である。
 
-## 周辺観光
+**6. 各町の個性ある演目と装置**
+市内の旧6町（現在の町内）は輪番で当番町を務め、それぞれ独自の演目と舞台装置の仕掛けを持つ。そのため、何度訪れても異なる演目と演出を楽しめる。上演前後には各町の会所で関係者が集まり、伝統の継承と次年度への申し送りが行われる。
 
-那須烏山市は、那珂川の清流に恵まれた自然豊かな町で、鮎漁や、龍門の滝などの景勝地が知られます。山あげ祭の歴史と魅力を一年中体感できる「山あげ会館」では、ミニチュアの山あげ実演などを見学できます。那須高原や益子焼の里にも比較的近く、栃木の自然・歴史・文化を満喫できるエリア。夏の山あげ祭とあわせて、那珂川流域ののどかな魅力を楽しめます。','## What Is the Yamaage Matsuri?
+## 開催情報・アクセス
 
-The Yamaage Matsuri is a votive event of the grand annual festival held each summer at Yakumo Shrine in Nasukarasuyama, Tochigi Prefecture. Known as a festival of mobile open-air kabuki without parallel even nationwide, it involves assembling outdoors a giant stage backdrop called "yamaage"—made of many layers of washi paper pasted together—and dedicating the kabuki dance "Tokiwazu" before it. With a history of some 460 years, it is designated an Important Intangible Folk Cultural Property of Japan and is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals."
+- **開催日時**：毎年7月の第4土曜日を含む金曜・土曜・日曜の3日間。2026年は7月24日（金）から26日（日）に開催予定。
+- **メイン会場**：那須烏山市中心部（旧烏山市街地）。主な会場は仲町交差点付近や各町内の通り。
+- **交通アクセス**：JR烏山線「烏山駅」下車、徒歩約10分で会場に到着。東京方面からはJR宇都宮線で宇都宮駅まで約50分、同駅から烏山線に乗り換え約60分。
+- **駐車場**：祭り期間中は周辺道路が交通規制されるため、那須烏山市役所や臨時駐車場が用意される。公共交通機関の利用が推奨される。
+- **問い合わせ先**：那須烏山市商工観光課（電話：0287-83-1115）。事前に最新のスケジュールを確認すること。
+- **注意事項**：雨天決行だが、荒天時は中止・短縮の可能性がある。最新の開催可否は那須烏山市公式ホームページで確認する必要がある。また、見物時は熱中症対策を徹底することが求められる。
+
+## 周辺情報
+
+山あげ祭を観覧する前後に、那須烏山市内や周辺地域の観光スポットを訪れることを推奨する。市の中心部には、山あげ祭の歴史や仕組みを学べる「山あげ会館」がある。同館では、実際に使用された「はりか山」の展示や、映像による解説を常設しており、祭りの知識を深めてから本番に臨むことができる。開館時間は午前9時から午後4時まで（火曜日休館）、入館料は一般個人300円（団体250円）、小中学生100円である。
+
+市内を流れる那珂川沿いには、桜並木や遊歩道が整備され、水辺の景観を楽しめる。那須烏山市は林業が盛んな地域であり、烏山和紙の生産も続けられている。山あげ祭で使用される「はりか山」も、この地域の竹と和紙によって作られていることから、祭りと地域産業の関わりを知ることができる。
+
+また、那須方面へのアクセスも良好で、祭りの前後に那須高原の温泉や那須どうぶつ王国、那須ハイランドパークなどの観光施設を組み合わせることも可能である。予算編成の都合上、手配動向等の変更があり、最新情報は各施設の公式サイトで確認する必要がある。宇都宮市までは車で約1時間、鉄道で約1時間半であり、餃子など宇都宮のグルメと組み合わせた旅行プランも考えられる。
+
+## 関連情報
+
+1. **文化財指定**：「烏山の山あげ行事」は昭和54年から55年（1979～1980年）にかけて国の重要無形民俗文化財に指定された（資料により指定年の表記に差がある）。国指定文化財等データベースで詳細が確認できる。
+2. **ユネスコ無形文化遺産**：平成28年（2016年）12月に「山・鉾・屋台行事」の一つとしてユネスコ無形文化遺産に登録された。登録名は「山・鉾・屋台行事」で、33の祭礼行事が含まれる。
+3. **関連施設**：山あげ会館（那須烏山市金井2丁目5番26号）で常設展示とガイダンスを提供。開館時間は午前9時～午後4時、火曜日休館、入館料は一般個人300円（団体250円）、小中学生100円。
+4. **主催・運営**：那須烏山市、那須烏山市観光協会、山あげ祭実行委員会が主催。八雲神社の氏子組織（八雲講）と6町の若衆組織が運営を支える。
+5. **他地域との関連**：同様の山行事は全国に存在するが、烏山のように路上に100メートルの奥行きを持つ舞台を毎回組み立て直す形式は極めて珍しく、類似例は他にほとんどない。
+6. **記録と継承**：若衆組織による後継者育成が課題となっており、ふるさと納税型クラウドファンディングを通じた資金調達や、地域内外へのPR活動が行われている。RADIO BERRYによる特別番組の放送など、メディアを通じた普及も推進されている。
+
+===
+EN','## Overview
+
+The Yamaage Festival, held annually in late July in Nasukarasuyama City, Tochigi Prefecture, is a large-scale outdoor ritual designated as a national Important Intangible Folk Cultural Property under the name "Karasuyama Yamaage Gyōji" and is also a component of UNESCO''s Intangible Cultural Heritage listing "Yama, Hoko, Yatai, float festivals in Japan." The festival''s most distinctive feature is the temporary construction of a stage extending approximately 100 meters in depth across the full width of a public road, in front of which dance dramas (shosago kyogen) are performed to the accompaniment of Tokiwazu-bushi music. All stage equipment is assembled and disassembled by human power alone, and approximately 150 young men (wakashu) complete these tasks with flawless coordination each time the performance location changes.
+
+The festival consists of two main components: the sacred palanquin (mikoshi) procession of Yakumo Shrine and the Yamaage performances, which are rotated annually among six town associations. The entire central street of the city becomes the stage, and the sight of a hanging mountain (harikayama) made of locally produced Karasuyama washi paper, standing approximately 10 meters tall, being raised by human effort alone is truly spectacular. Unlike typical festivals where fixed floats are pulled through the streets, this method of rebuilding everything at each performance location is a unique form without parallel elsewhere in Japan.
 
 ## History and Origins
 
-The Yamaage Matsuri is said to have begun in 1560, when the lord of Karasuyama Castle invited the enshrinement of Yakumo Shrine and prayed for the dispelling of epidemics and abundant harvests. Initially, sumo and kagura were dedicated, but in the Edo period the dedication of kabuki dance was added, and the "yamaage" developed as the backdrop to color it. The "yama" is a giant background painting made of layers of washi paper made from the Nasu *kōzo* (paper mulberry) special to Karasuyama, and from "raising" (erecting) this, the name "yamaage" arose. It is a proud traditional event that has been handed down for about 460 years by the hands of local people.
+The origins of the Yamaage Festival date back to 1560 (the third year of the Eiroku era). According to the official record in the national cultural properties database, the lord of Karasuyama Castle at the time, Nasu Suketsura, a descendant of Nasu no Yoichi, enshrined Gozu Tenno (Susanoo no Mikoto) in the castle town to pray for the prevention of an epidemic that was spreading in the region, as well as for peace under heaven, a bountiful harvest, and protection from calamities. This enshrinement is documented as the beginning of the festival.
+
+Initially, the ritual entertainments offered to the deity consisted of sumo wrestling and sacred lion dances (kagura shishi). However, as Edo-period kabuki flourished and Tokiwazu dance became popular, Tokiwazu shosa (dance) was adopted as the main form of dedicatory entertainment. By the Kanbun era (1661–1672), dance performances had begun, and by the Genroku era (1688–1703), kyogen plays were added. During the Kyoho to Horeki eras (1716–1763), kabuki dance was fully incorporated.
+
+By the end of the Edo period, the current form of outdoor kabuki had been established, featuring the large stage-backdrop device called "yama." This "yama" was a framework made of woven bamboo, covered with multiple layers of Karasuyama''s specialty washi paper, on which landscape paintings were drawn. The name "Yamaage" (mountain raising) comes from the act of raising (age) this yama. While today the yama is often seen simply as a part of the stage setting, in earlier times it was considered a place where the deity would descend.
+
+This series of events was designated as an Important Intangible Folk Cultural Property of Japan under the name "Karasuyama Yamaage Gyōji" around 1979 to 1980 (sources vary on the exact designation year). Subsequently, on November 30, 2016 (December 1, Japan time), the UNESCO Intergovernmental Committee inscribed "Karasuyama Yamaage Gyōji" along with 32 other festival events as "Yama, Hoko, Yatai, float festivals in Japan" on the Representative List of the Intangible Cultural Heritage of Humanity. Today, six town associations within the city take turns hosting the festival, which is held for three days, from Friday to Sunday, including the fourth Saturday of July each year.
 
 ## Highlights
 
-The greatest attraction is the open-air kabuki dance that unfolds before the giant "yama" assembled outdoors. The sight of washi backdrops over ten meters tall and large props such as the *harika-yama* and a mansion being skillfully assembled in a short time, with the town''s streets transforming in an instant into a kabuki stage, is breathtaking. Against that grand stage, graceful Tokiwazu dance is dedicated. Being "mobile," repeatedly reassembling the stage while moving from place to place, is also a feature unique to this festival. It is a rewarding festival in which artisanship and performing art become one.
+## 1. The Spectacular Man-Powered Raising of the Hanging Mountain
+The moment when the harikayama, measuring approximately 10 meters in both height and width, is raised all at once by the young men is the festival''s greatest highlight. This harikayama is made by layering multiple sheets of Karasuyama washi paper onto a bamboo frame and painting a landscape scene on the surface. Despite being constructed only from bamboo and paper, the technique and discipline required to raise it vertically by human power alone naturally draw applause from the audience.
 
-## When It Takes Place
+## 2. The Flawless Coordinated Action of the Young Men
+As the performance progresses, the stage backdrop changes one after another. At the signal of the wooden clappers wielded by the mokuto (director), approximately 150 young men instantly rearrange the various stage elements, including gohai (altar), butai (stage), zashiki (parlor), namimatsu (wave pines), yakata (mansion), maeyama (front mountain), nakayama (middle mountain), and oyama (large mountain), over the full 100-meter depth. This entire operation is completed within minutes, and the young men take great pride in their disciplined execution. Spectators can enjoy not only the plays themselves but also the human choreography of moving the stage equipment.
 
-The festival is typically held over three days from the fourth Friday of July in summer in the city center of Nasukarasuyama, Tochigi Prefecture. As a votive event of the summer grand festival, its season is summer. Because the locations and dates of the yamaage and the kabuki dance performances vary from year to year, visitors are advised to confirm details in advance through official announcements from Nasukarasuyama City and the local preservation society and tourism association.
+## 3. Shosago Kyogen Performed to Tokiwazu-bushi Music
+The repertoire of performed pieces includes Sanbaso, Masakado, Modoribashi, Momijigari, Munehige, Tadanobu, and Seki no To, among others. These pieces are danced by local dancers in front of the yama set up on the street, accompanied by the shamisen and singing of Tokiwazu-bushi. Each piece contains specific choreography and dramatic conventions passed down through the young men''s organizations. The programs vary by town association, so visitors can experience different performances in different years.
 
-## Access
+## 4. The Dynamism of a Mobile Outdoor Theater
+Once a performance at one location is finished, all stage equipment is immediately disassembled, packed up, and moved to the next performance site. This entire sequence of movement, reassembly, performance, and breakdown constitutes what is called "Japan''s number one mobile outdoor theater." The audience is able to appreciate the full process from setup to performance to teardown as an integrated spectacle.
 
-The city center of Nasukarasuyama is within walking distance of Karasuyama Station on the JR Karasuyama Line. It can be accessed via the JR Karasuyama Line from Utsunomiya Station. By car, nearby parking is available, but because traffic restrictions are imposed in the city center during the festival, public transport is recommended.
+## 5. The Mikoshi Procession and Bunnuki
+During the festival, the mikoshi of Yakumo Shrine parades through the town. Particularly during the Kan''ei-sai (return procession) on the final day, a fierce jostling match takes place before the mikoshi passes through the torii gate, with the young men repeatedly turning back instead of proceeding. Additionally, the Bunnuki, a competition where the yatai (decorated platforms) face each other and compete in the speed and volume of their festival music, represents the peak of the citizens'' excitement.
 
-## Around the Area
+## 6. Distinctive Programs and Mechanisms of Each Town Association
+The six town associations perform on a rotating basis, each maintaining unique repertoires and stage mechanisms. Therefore, a visitor can enjoy different plays and productions each year. Before and after the performances, meetings are held at each town''s meeting house for the transmission of traditions and the handover of responsibilities to the next host.
 
-Nasukarasuyama is a richly natural town blessed with the clear waters of the Naka River, known for *ayu* (sweetfish) fishing and scenic spots such as the Ryūmon Falls. At the "Yamaage Hall," where one can experience the history and charm of the Yamaage Matsuri all year round, visitors can see demonstrations such as a miniature yamaage. Relatively close to the Nasu highlands and the Mashiko ware pottery village, it is an area where one can savor the nature, history, and culture of Tochigi. Together with the summer Yamaage Matsuri, one can enjoy the pastoral charm of the Naka River basin.','yamaage-matsuri','yamaage-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+## Event Information and Access
+
+- **Dates**: Held annually for three days, Friday through Sunday, including the fourth Saturday of July. In 2026, the festival is scheduled for July 24 (Friday) to July 26 (Sunday).
+- **Main Venue**: Central area of Nasukarasuyama City (former Karasuyama city center). Primary locations include the Nakamachi intersection and streets within each town association.
+- **Access by Public Transport**: Approximately 10 minutes on foot from JR Karasuyama Station on the Karasuyama Line. From Tokyo, take the JR Utsunomiya Line to Utsunomiya Station (approx. 50 minutes), then transfer to the Karasuyama Line for about 60 minutes.
+- **Parking**: Roads in the surrounding area are subject to traffic regulations during the festival period. Temporary parking lots, including one at the Nasukarasuyama City Hall, are available. Use of public transportation is strongly recommended.
+- **Contact**: Nasukarasuyama City Commerce, Industry and Tourism Division, phone: 0287-83-1115. It is advisable to confirm the latest schedule in advance.
+- **Notes**: The festival is held rain or shine, but may be cancelled or shortened in severe weather. The latest information on the event''s status should be confirmed on the official website of Nasukarasuyama City. Spectators are advised to take thorough measures against heatstroke.
+
+## Surrounding Area Information
+
+Before or after viewing the Yamaage Festival, it is recommended to visit the Yamaage Kaikan, a facility in the city center that offers permanent exhibits on the history and mechanisms of the festival. The hall displays actual harikayama used in past festivals and provides video explanations, allowing visitors to deepen their understanding before seeing the live event. The facility is open from 9:00 a.m. to 4:00 p.m., closed on Tuesdays, with an admission fee of 300 yen for individual adults (250 yen for groups) and 100 yen for elementary and junior high school students.
+
+Along the Naka River, which flows through the city, cherry blossom trees, promenades, and riverside landscapes have been developed for public enjoyment. The area has a strong forestry industry, and the production of Karasuyama washi paper continues to this day. The harikayama used in the festival is made from locally sourced bamboo and paper, allowing visitors to understand the direct connection between the festival and the region''s industries.
+
+Access to the Nasu area is also convenient, and it is possible to combine festival viewing with visits to popular destinations such as the Nasu Highlands hot springs, Nasu Animal Kingdom, or Nasu Highland Park. Due to budget constraints and changing circumstances, the latest information on the operation of these facilities should be checked on their official websites. Utsunomiya City is approximately one hour away by car or one and a half hours by train, making it feasible to combine a visit with local specialties such as Utsunomiya gyoza.
+
+## Related Information
+
+1. **Cultural Property Designation**: The "Karasuyama Yamaage Gyōji" was designated as an Important Intangible Folk Cultural Property of Japan around 1979 to 1980 (sources vary on the exact designation year). Detailed information is available in the national cultural properties database.
+2. **UNESCO Intangible Cultural Heritage**: In December 2016, it was inscribed as part of "Yama, Hoko, Yatai, float festivals in Japan" on the UNESCO Representative List. The listing includes 33 festival events from across the country.
+3. **Related Facility**: The Yamaage Kaikan (2-5-26 Kanai, Nasukarasuyama City) offers permanent exhibitions and guidance. Open 9:00 a.m. to 4:00 p.m., closed Tuesdays, admission 300 yen for individual adults (250 yen for groups) and 100 yen for elementary and junior high school students.
+4. **Organizers and Management**: The festival is organized by Nasukarasuyama City, the Nasukarasuyama City Tourism Association, and the Yamaage Festival Executive Committee. The parishioner organization of Yakumo Shrine (Yakumo Ko) and the young men''s organizations of the six towns support the management.
+5. **Rarity of the Format**: While similar yama events exist elsewhere in Japan, the format of reassembling a 100-meter-deep stage on public roads each time for a performance is extremely rare, with almost no comparable examples.
+6. **Preservation and Succession**: Ensuring the succession of the young men''s organizations is an ongoing challenge. Fundraising through hometown tax donation-type crowdfunding and public relations activities inside and outside the region are being promoted. Special radio programs, such as those by RADIO BERRY, are also broadcast to disseminate information.','yamaage-matsuri','yamaage-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11454224','宮崎国際音楽祭','Miyazaki International Music Festival',NULL,NULL,'Q11454461','宮崎県立芸術劇場','Miyazaki Prefectural Arts Center','宮崎県','kyushu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11440018','大阪三大夏祭り','Three Great Summer Festivals of Osaka','大阪府大阪市で開催される代表的な3つの夏祭り',NULL,NULL,NULL,NULL,'大阪府','kinki',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E4%B8%89%E5%A4%A7%E5%A4%8F%E7%A5%AD%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11450469','安城七夕まつり','Anjo Tanabata Festival','愛知県安城市の祭',NULL,NULL,NULL,NULL,'愛知県','chubu',34.959986,137.08716,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Anjo-Tanabata-Matsuri-2023-6.jpg','https://ja.wikipedia.org/wiki/%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
