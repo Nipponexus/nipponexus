@@ -1911,29 +1911,151 @@ Tokyo Station and Ginza are accessible within 20–30 minutes, and many visitors
 - Scale: 500,000–600,000 cumulative attendance per event; approximately 30,000 circles
 - Organizer: Comic Market Preparatory Committee (non-profit organization)
 ','comiket','comiket',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q10869430','東京高円寺阿波おどり','Kōenji Awa Odori',NULL,'Summer street festival in Tokyo, Japan','Q3180833','高円寺','Kōenji','東京都','kanto',35.7038,139.65,1957,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Koenj%20awaodori3.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A','https://en.wikipedia.org/wiki/K%C5%8Denji_Awa_Odori',90,'drafted','東京高円寺阿波おどりは、東京都杉並区の高円寺地区で毎年8月最終土日に開催される阿波おどりの祭典であり、本場徳島県の阿波おどりに並ぶ規模を誇る関東最大級の踊りの祭りである。約1万人の踊り手が参加し、2日間で約100万人の観客が高円寺の街に押し寄せる、東京の夏を代表するイベントの一つである。
+INSERT INTO "festivals" VALUES('Q10869430','東京高円寺阿波おどり','Kōenji Awa Odori',NULL,'Summer street festival in Tokyo, Japan','Q3180833','高円寺','Kōenji','東京都','kanto',35.7038,139.65,1957,8,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Koenj%20awaodori3.jpg','https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A','https://en.wikipedia.org/wiki/K%C5%8Denji_Awa_Odori',90,'drafted','## 概要
 
-高円寺の阿波おどりは1957年（昭和32年）に始まった。当時、商店街の活性化策として徳島の阿波おどりを模した盆踊りが企画されたのが起源で、徳島から指導者を招いて本格的な踊りを学んだ。最初は小規模だったが、年々規模を拡大し、現在では国内最大級の阿波おどりイベントへと成長した。徳島本場の阿波おどりが400年以上の歴史を持つ伝統行事であるのに対し、高円寺は都市型の新しい伝統として独自の文化を築いてきた。
+東京高円寺阿波おどりは、東京都杉並区高円寺において毎年8月下旬の最終土曜日・日曜日に開催される阿波踊りの祭典である。JR中央線高円寺駅と東京メトロ丸ノ内線新高円寺駅周辺の商店街および高南通りに設置された8つの演舞場を会場とし、午後5時から午後8時までの時間帯で実施される。第67回となる2026年の開催は、8月29日（土）と8月30日（日）に予定されている[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
 
-阿波おどりは「連（れん）」と呼ばれる踊り手の集団単位で踊られる。高円寺大会には地元高円寺の連に加えて、徳島本場の連、東京都内・関東各地の連が参加し、それぞれの個性的な踊りを披露する。男踊りは法被に股引き、提灯を持って力強く跳躍するように踊り、女踊りは編笠を深くかぶり、浴衣姿で手を高く上げてしなやかに舞う。鳴り物（三味線・笛・太鼓・鉦）の軽快なお囃子に乗って「ヤットサーヤットサー」の掛け声が街中に響く。
+この祭りは「徳島市阿波おどり」に次ぐ規模を誇り、東京周辺では最大規模の阿波踊りとして知られている。2025年の実績では、のべ158連（踊り手のグループ）が参加し、観客動員数は102万人に達した。主催は特定非営利活動法人東京高円寺阿波おどり振興協会が務め、杉並区が共催している[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。開催前日の金曜日には「ふれおどり」が商店街内で行われ、当日を前に祭りの熱気が高まる。
 
-会場はJR中央線・総武線の高円寺駅と東京メトロ丸ノ内線の新高円寺駅を中心に、商店街と一般道路に設置された8つの演舞場で構成される。それぞれの演舞場で同時並行に踊りが繰り広げられ、観客は街を歩き回りながら好きな場所で観覧できる。
+## 歴史・由来
 
-高円寺は古着屋やレコード店、ライブハウス、個性的な居酒屋が集まるサブカルチャーの街としても知られ、祭り期間外でも一日散策が楽しめる。新宿から中央線快速で約7分という都心からのアクセスの良さも魅力で、東京観光の一環として組み込みやすい祭りである。','The Koenji Awa Odori is one of the largest and most spirited Awa Odori dance festivals held outside the dance''s birthplace in Tokushima Prefecture, taking place each year on the last weekend of August in the Koenji neighborhood of Tokyo''s Suginami Ward. Approximately ten thousand dancers perform over two days, drawing crowds estimated at one million spectators, making it one of the defining summer events of the Tokyo calendar and a centerpiece of the city''s traditional festival season.
+東京高円寺阿波おどりの起源は、1957年（昭和32年）8月27日にさかのぼる。当時、高円寺南口商盛会（現高円寺パル商店街）の青年部の若手たちが、地域の賑わいを求めて「高円寺ばか踊り」という名称で行事を始めたのが原型である。隣町の阿佐谷で開催されていた七夕祭りに対抗する形で、櫓を組む場所も資金もない中で、阿波踊りの「練り踊る」スタイルなら商店街でも実現できるのではないかという発想から企画された[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html)。
 
-Awa Odori itself is a dance tradition more than four hundred years old, originating in Tokushima on the island of Shikoku as part of Obon festivities honoring the spirits of ancestors. The Koenji version is considerably younger, established in 1957 when local merchants searching for a way to revitalize their shopping district invited instructors from Tokushima to teach the dance to neighborhood residents. From these humble beginnings, the festival grew steadily through subsequent decades to become a metropolitan tradition in its own right, blending the energy of the original folk dance with the dynamism of urban Tokyo culture.
+第2回の開催後、商店街の役員会で存続を問う無記名投票が行われ、議長が投じた最後の1票で辛うじて継続が決定された。さらに第4回の開催にあたっては、警察の道路使用許可がなかなか下りず、運営メンバー総出で試行錯誤しながら警察への働きかけを続け、開催前日にようやく許可を得るという危機を乗り越えた[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html)。これらの存続危機を乗り越える過程で、関係者の結束が固まっていった。
 
-The dance is performed by groups known as ren, each typically composed of dozens of dancers along with their own musicians. A ren has a distinctive style of costume, choreography, and musical interpretation, allowing each group to express its individual character within the broader Awa Odori tradition. At the Koenji festival, ren from across Tokyo and the wider Kanto region perform alongside guest ren from Tokushima itself, giving spectators an opportunity to see both the regional Tokyo style and the original Shikoku form within the same event.
+1961年（昭和36年）、第5回の開催を機に、阿波おどりの本場である徳島との出会いが実現した。東京・木場で活動していた徳島県人会の「木場連」から本格的な踊りの指導を受けるようになり、1963年（昭和38年）には正式に「高円寺阿波おどり」と名乗ることとなった[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html)。その後、踊りの技術向上を目指す有志たちが徳島へ武者修行に出向き、本場のレベルの高さに触れながら活気ある行事作りを進めた。
 
-The dance has two principal forms. The men''s dance, known as otoko odori, is performed in a low crouching posture with arms raised and exaggerated, almost acrobatic movements. Male dancers wear short happi coats, momohiki leggings, and tabi socks, and often carry paper lanterns held high overhead. The dance projects vigor and physical exuberance, with leaping movements set to a fast tempo. The women''s dance, onna odori, presents a striking contrast in mood. Women dancers wear yukata cotton kimono, geta clogs with elevated wooden bases, and amigasa woven straw hats tilted to obscure the face. Their movements are elegant and refined, with arms extended upward and hands tracing graceful lines in the air, fingers held in precise positions that have been passed down through generations of practitioners.
+1965年（昭和40年）には、高円寺初の独立連「葵新連」が結成され、同時期に「天狗連」も発足した。その後1972年（昭和47年）頃までに多くの独立連が誕生し、現在の高円寺阿波おどり連協会の基盤が形成された[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html)。1976年（昭和51年）にはアメリカ建国200年祭の催しとしてサンフランシスコ、ロサンゼルス、ホノルルの3都市から招待を受け、初の海外遠征を成功させた。2005年（平成17年）には、商店街と町内会・自治会、踊り手と観客が一体となって祭りを支える理念のもと、東京高円寺阿波おどり振興協会がNPO法人化された[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html)。
 
-The music driving the dance is provided by a small ensemble using shamisen three-stringed lutes, fue bamboo flutes, taiko drums, and kane bells. The basic rhythm is a syncopated two-beat pattern that creates an irresistible propulsive feel, punctuated by the famous call-and-response shout of "Yattosa! Yattosa!" that echoes through the streets. The musicians themselves are part of the ren and perform in matching costumes, walking alongside or just behind the dancers.
+## 見どころ
 
-The festival is staged across eight performance areas distributed throughout the Koenji shopping district and surrounding streets, centered on JR Koenji Station on the Chuo and Sobu lines and Shin-Koenji Station on the Tokyo Metro Marunouchi line. Each performance area runs its own continuous flow of ren throughout the afternoon and evening hours, allowing spectators to wander between locations and experience different vantage points. Some areas are along straight stretches of street ideal for watching long lines of dancers pass, while others occupy small plazas where ren can perform stationary set pieces.
+**8つの演舞場を巡る流し踊り**
+高円寺駅と新高円寺駅を周回するように、中央演舞場、ひがし演舞場、純情演舞場、パル演舞場、桃園演舞場、みなみ演舞場、ルック第一演舞場、ルック第二演舞場の8つが設置される。各演舞場では異なる連の踊りを楽しむことができ、観客は会場全体を巡りながら様々な演舞を鑑賞できる。練り歩く踊り手たちの衣装や鳴り物の音色が、夏の夕暮れの商店街に独特の祭りの雰囲気を醸し出す[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
 
-Beyond the festival itself, Koenji is one of Tokyo''s most distinctive neighborhoods and richly rewards exploration on its own merits. The area is renowned as a hub of alternative culture, with concentrations of secondhand clothing stores, used record shops, independent bookstores, and small live music venues. Eclectic izakaya and standing bars line the narrow streets running off the main shopping arcades, attracting an artistic and bohemian clientele. The neighborhood''s relaxed character contrasts with the polished commercialism of more famous Tokyo districts and offers visitors a glimpse of a different side of the city.
+**本場徳島からの参加連**
+初日には本場徳島の連が招待され、高円寺の演舞場で本格的な阿波踊りを披露する。この取り組みは2014年（平成26年）から始まり、徳島市の観光PRキャラバンと併せて実施されている。本場の踊り手たちの洗練された技と高円寺の連たちの踊りを直接比較しながら鑑賞できる貴重な機会となっている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
 
-Access to the festival from central Tokyo is straightforward. Koenji is approximately seven minutes from Shinjuku Station on the Chuo Line rapid service, making it possible to attend the festival as a side excursion during a broader Tokyo itinerary. Visitors should expect dense crowds, particularly during the peak evening hours, and may find it helpful to arrive in the late afternoon to secure a comfortable viewing position. Light summer clothing, a fan, and a water bottle are advisable, as late August in Tokyo brings high temperatures and humidity that persist well into the night.','koenji-awa-odori','koenji-awa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**独立連による個性豊かな演舞**
+高円寺阿波おどり連協会に所属する多数の独立連が、それぞれ独自の衣装と振り付けで踊りを披露する。葵新連、天狗連、江戸歌舞伎連、朱雀連など、30以上の連が個性を競い合い、伝統的な阿波踊りの型を守る連もあれば、現代的なアレンジを加える連もある。各連の特徴を観察しながら、阿波踊りの多様性を体感できる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+**ふれおどり（前夜祭）**
+本開催の前日である金曜日の午後6時から午後8時まで、商店街内でふれおどりが実施される。この前夜祭には高円寺阿波おどり連協会所属の連のみが参加し、本番に向けた予行演習の性格を持つ。当日を前にした高円寺の街には、少し早い祭りの高揚感が漂い、地元の常連客や早期に訪れた観光客で賑わう[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+**舞台踊りでのじっくり鑑賞**
+流し踊りとは別に、セシオン杉並と座・高円寺では舞台踊りが開催される。舞台踊りは午前中から昼にかけて行われ、観客は座ってじっくりと演舞を鑑賞できる。セシオン杉並での観覧には前日までの予約が必要で、座・高円寺では当日券が販売される[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+**高円寺駅の発車メロディ**
+JR中央線高円寺駅の1・2番線ホームでは、阿波踊りの囃子をアレンジした発車メロディが使用されている。2004年から毎年8月限定で使用されていたが、2016年8月1日からはアレンジを変更の上、通年使用に変更された。編曲は松本健が手掛け、駅に降り立った瞬間から祭りの気分を味わえる演出となっている[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+**のべ1万人の踊り手が織りなす圧巻の群舞**
+約1万人の踊り手が同時に演舞場を埋め尽くし、鳴り物の音色と掛け声が街中に響き渡る。観客は100万人以上に達し、その熱気は深夜まで続く。一体感の生まれる瞬間に立ち会える、東京の晩夏を代表する風物詩として定着している[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s033/10594.html)。
+
+## 開催情報・アクセス
+
+1. **開催日時**：2026年は8月29日（土）・8月30日（日）、午後5時から午後8時まで。ふれおどりは前日8月28日（金）の午後6時から午後8時まで[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
+2. **会場**：JR中央線高円寺駅および東京メトロ丸ノ内線新高円寺駅周辺の商店街と高南通りに設置される8つの演舞場[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
+3. **最寄り駅**：JR中央線高円寺駅（快速は土日・祝日は終日通過するため、各駅停車または地下鉄東西線直通列車を利用）。東京メトロ丸ノ内線新高円寺駅からも徒歩圏[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+4. **主催**：第67回東京高円寺阿波おどり実行委員会、特定非営利活動法人東京高円寺阿波おどり振興協会[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
+5. **後援（前年実績）**：東京都、徳島県、徳島市、東京商工会議所杉並支部、読売新聞社、報知新聞社、日本テレビ放送網株式会社、J:COMなど[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html)。
+6. **問い合わせ先**：NPO法人東京高円寺阿波おどり振興協会（杉並区高円寺南3丁目57番10号 パルプラザ4階）、電話：03-3312-2728（営業時間：午前10時から午後6時、土日祝日休み・開催期間中を除く）[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s033/10594.html)。
+7. **アクセス注意点**：中央線快速は土日・祝日は終日通過するため、黄色い各駅停車または地下鉄東西線直通列車に乗車する必要がある。期間中は交通規制が行われ、関東バスや国際興業バスが臨時便を運行するが、通常の路線バスは迂回運転や運休となる場合がある[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+8. **最新情報の確認**：最新の開催日程や実施可否については、公式サイト（https://www.koenji-awaodori.com）で必ず確認すること。
+
+## 周辺情報
+
+高円寺駅周辺は、個性的な商店街と多様な飲食店が集まるエリアとして知られている。パル商店街、ルック商店街、エトアール通り商店街など、複数の商店街が阿波踊りの会場となり、普段から買い物客で賑わう。特に、古着屋や個性的な雑貨店が立ち並ぶ純情商店街は、若者を中心に人気のスポットであり、祭りの期間中はさらに多くの人々で埋め尽くされる。
+
+祭りの合間には、高円寺の街に点在する飲食店で地元の味を楽しむことができる。焼き鳥店、居酒屋、ラーメン店など多様なジャンルの店が軒を連ね、多くの店が阿波踊りの期間中に特別メニューや営業時間延長などの対応を行う。また、座・高円寺などの文化施設も周辺にあり、演劇や音楽の公演が年間を通じて開催されている。
+
+新高円寺駅方面に足を伸ばせば、桃園川緑道などの公園や、氷川神社といった歴史的な神社も存在する。氷川神社は、1957年に高円寺ばか踊りが奉納行事として始まった場所であり、祭りの原点を感じることができるスポットである。自然と都市が調和したこのエリアは、祭り以外でも散策を楽しめる魅力的な街並みを形成している。
+
+## 関連情報
+
+1. **高円寺阿波おどり連協会**：高円寺阿波おどりに参加する独立連の団体組織。葵新連、天狗連、江戸歌舞伎連、朱雀連など約30以上の連が所属し、技術向上と祭りの運営に協力している[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+2. **新型コロナウイルス感染症の影響**：2020年（令和2年）は感染拡大により中止。2021年（令和3年）は屋外での流し踊りを中止し、舞台踊りのみを4日間の日程で実施したが、緊急事態宣言発令中のためオンライン配信に変更。2022年（令和4年）も流し踊りは中止となり、舞台踊りのみの開催となった[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+3. **東日本大震災の影響**：2011年（平成23年）は節電協力のため、開催時間を昼間の午後3時から午後6時に変更。2012年（平成24年）も引き続き節電協力のため、午後5時から午後8時に1時間早めて開催された[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+4. **海外遠征の実績**：1976年（昭和51年）にアメリカ建国200年祭の催しとして、サンフランシスコ、ロサンゼルス、ホノルルの3都市から招待を受け、初の海外遠征を成功させた[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html)。
+
+5. **徳島との交流**：1965年（昭和40年）以降、高円寺の有志が徳島へ武者修行に出向き、本場の阿波踊りを学んだ。1986年（昭和61年）の30周年記念では、徳島県阿波踊り協会の連長会から14連・37名が友情出演した[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html)。
+
+6. **浅草サンバカーニバルとの同日開催**：例年、浅草サンバカーニバルと同日に開催される。両者はともに東京の夏を代表する大規模な祭りであり、多くの観光客が両方をはしごして楽しむ光景も見られる[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A)。
+
+7. **公式情報の確認先**：最新の参加連情報、交通規制の詳細、天候による中止・変更の有無は、NPO法人東京高円寺阿波おどり振興協会の公式サイト（https://www.koenji-awaodori.com）および杉並区公式ホームページ（https://www.city.suginami.tokyo.jp）で随時確認すること。','## Overview
+
+Tokyo Koenji Awa Odori is a festival of Awa dance held annually on the final Saturday and Sunday of August in Koenji, Suginami Ward, Tokyo. The event takes place from 5:00 PM to 8:00 PM across eight performance stages set up along the shopping streets and the Kominami-dori avenue surrounding JR Koenji Station and Tokyo Metro Shinkoenji Station. The 67th edition in 2026 is scheduled for Saturday, August 29, and Sunday, August 30[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+
+This festival is recognized as the second largest Awa Odori event after the Tokushima City Awa Odori and the largest in the Tokyo metropolitan area. In 2025, a total of 158 groups of dancers participated, attracting 1.02 million spectators. The event is organized by the Nonprofit Organization Tokyo Koenji Awa Odori Promotion Association, with Suginami Ward as a co-sponsor[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html). A pre-festival event called "Fureodori" is held on the preceding Friday evening within the shopping streets, building anticipation for the main event.
+
+## History and Origins
+
+The origins of Tokyo Koenji Awa Odori trace back to August 27, 1957. Young members of the Koenji Minamiguchi Sho-sho-kai, now known as the Koenji Pal Shopping Street, started an event called "Koenji Baka Odori" as a way to bring vitality to the local area. Inspired by the Tanabata festival in neighboring Asagaya, they conceived the idea of adapting the "walking dance" style of Awa Odori because it could be implemented in shopping streets without the need for raised platforms or significant funding[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html).
+
+After the second edition, the shopping street executive committee held a secret ballot on whether to continue the event, and it was only decided to proceed by the final vote cast by the chairman. For the fourth edition, the organizers faced difficulty obtaining a road use permit from the police, working tirelessly until the day before the event to finally secure approval[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html). These survival crises ultimately strengthened the bonds among the stakeholders.
+
+In 1961, through the fifth edition, a pivotal encounter with Tokushima, the birthplace of Awa Odori, occurred. The "Kiba Ren," a group of Tokushima natives living in Tokyo, began providing formal dance instruction, and in 1963, the event was officially renamed "Koenji Awa Odori"[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html). Enthusiastic dancers subsequently traveled to Tokushima for intensive training, absorbing the high standards of the original dance style.
+
+In 1965, Koenji''s first independent dance group, "Kishin Ren," was formed, followed shortly by "Tengu Ren." By around 1972, numerous independent groups had been established, forming the foundation of the present-day Koenji Awa Odori Ren Association[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html). In 1976, the festival achieved its first overseas performance, receiving invitations from San Francisco, Los Angeles, and Honolulu as part of the U.S. Bicentennial celebrations. In 2005, the Tokyo Koenji Awa Odori Promotion Association was incorporated as a nonprofit organization under the guiding principle that the shopping streets, neighborhood associations, dancers, and spectators should support the festival together[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s007/10581.html).
+
+## Highlights
+
+**The Flow Dance Across Eight Stages**
+Eight performance stages are set up in a loop around Koenji Station and Shinkoenji Station: Chuo Enbujo, Higashi Enbujo, Junjo Enbujo, Pal Enbujo, Tohoen Enbujo, Minami Enbujo, Look First Enbujo, and Look Second Enbujo. Each stage features different dance groups, allowing visitors to experience a variety of performances as they walk around the venue. The colorful costumes of the dancers and the sounds of traditional instruments create a unique festival atmosphere in the summer evening shopping streets[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+
+**Guest Groups from Tokushima**
+On the first day, dance groups from Tokushima are invited to perform at the Koenji stages, showcasing the authentic Awa Odori style. This tradition began in 2014, often in conjunction with a tourism promotional caravan from Tokushima City. It provides a rare opportunity to directly compare the refined techniques of the original dancers with those of the Koenji groups[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+**Individual Performances by Independent Dance Groups**
+Over 30 independent groups belonging to the Koenji Awa Odori Ren Association display their unique costumes and choreography. Groups such as Kishin Ren, Tengu Ren, Edo Kabuki Ren, and Suzaku Ren compete for attention, with some preserving traditional forms while others incorporate modern interpretations. Observing the characteristics of each group allows visitors to experience the diversity of Awa Odori[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+**Fureodori (Pre-Festival Event)**
+On the Friday evening preceding the main event, from 6:00 PM to 8:00 PM, the Fureodori is held within the shopping streets. Only groups belonging to the Koenji Awa Odori Ren Association participate in this preview event, which serves as a final rehearsal. The atmosphere in Koenji becomes charged with anticipation, attracting local regulars and early-arriving tourists[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+**Stage Performances for Detailed Viewing**
+Separate from the flow dance, stage performances are held at Sesion Suginami and Za Koenji, taking place from the morning to early afternoon. These allow spectators to sit and watch the dances in a fixed setting. Advance reservations are generally required for Sesion Suginami, while tickets for Za Koenji are sold on the day of the performance[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+**Departure Melody at Koenji Station**
+On platforms 1 and 2 of JR Chuo Line Koenji Station, a departure melody arranged from Awa Odori music is played. First introduced for the month of August in 2004, the melody was changed to a new arrangement and made year-round starting August 1, 2016. Composed by Ken Matsumoto, this feature immerses arriving passengers in the festival spirit from the moment they step off the train[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+**The Spectacular Group Dance of Approximately 10,000 Performers**
+Around 10,000 dancers fill the performance stages simultaneously, with the sounds of percussion instruments and shouts echoing throughout the town. With over one million spectators, the energy continues late into the night. This event has become a defining summer tradition in Tokyo, offering a moment of shared exhilaration[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s033/10594.html).
+
+## Event Information and Access
+
+1. **Date and Time**: August 29 (Saturday) and August 30 (Sunday), 2026, from 5:00 PM to 8:00 PM. The Fureodori takes place on the preceding Friday, August 28, from 6:00 PM to 8:00 PM[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+2. **Venue**: Eight performance stages set up around JR Chuo Line Koenji Station and Tokyo Metro Marunouchi Line Shinkoenji Station, along shopping streets and Kominami-dori[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+3. **Nearest Stations**: JR Chuo Line Koenji Station (note that Rapid trains pass through without stopping on weekends and holidays; use local trains or Tozai Line through trains). Tokyo Metro Marunouchi Line Shinkoenji Station is also within walking distance[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+4. **Organizer**: The 67th Tokyo Koenji Awa Odori Executive Committee, Nonprofit Organization Tokyo Koenji Awa Odori Promotion Association[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+5. **Supporters (based on previous year)**: Tokyo Metropolitan Government, Tokushima Prefecture, Tokushima City, Tokyo Chamber of Commerce and Industry Suginami Branch, Yomiuri Shimbun, Hochi Shimbun, Nippon Television Network Corporation, J:COM, among others[koenji-awaodori.com](https://koenji-awaodori.com/about/about01.html).
+6. **Contact**: NPO Tokyo Koenji Awa Odori Promotion Association (Pal Plaza 4F, 3-57-10 Koenji Minami, Suginami Ward, Tokyo), Phone: 03-3312-2728 (Business hours: 10:00 AM to 6:00 PM, closed on weekends and holidays, except during the festival period)[city.suginami.tokyo.jp](https://www.city.suginami.tokyo.jp/s033/10594.html).
+7. **Transport Advisory**: Rapid trains on the Chuo Line do not stop at Koenji Station on weekends and holidays; take the yellow local trains or Tozai Line through trains. During the festival, traffic restrictions are in place, and buses operated by Kanto Bus and Kokusai Kogyo Bus may run detours or suspend services[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+8. **Check for Updates**: Always confirm the latest schedule and any changes on the official website at https://www.koenji-awaodori.com.
+
+## Surrounding Area
+
+The area around Koenji Station is known for its distinctive shopping streets and diverse dining options. Multiple shopping districts, including Pal Shopping Street, Look Shopping Street, and Etoile-dori Shopping Street, serve as venues for the Awa Odori and are typically bustling with shoppers. In particular, Junjo Shopping Street, lined with vintage clothing stores and unique specialty shops, is a popular spot for younger crowds and becomes even more crowded during the festival period.
+
+During breaks in the dance performances, visitors can enjoy local flavors at the many restaurants scattered throughout Koenji. A wide range of eateries, from yakitori bars and izakayas to ramen shops, line the streets, with many offering special menus or extended hours during the festival. Cultural facilities such as Za Koenji also host theater and music performances throughout the year.
+
+Heading toward Shinkoenji Station, visitors can find parks like the Momoen-gawa Greenway and historic shrines such as Hikawa Shrine. Hikawa Shrine is the site where the original Koenji Baka Odori was first performed as a dedication in 1957, making it a meaningful spot to contemplate the festival origins. This area, blending nature with urban life, offers an attractive streetscape for exploration beyond the festival days.
+
+## Related Information
+
+1. **Koenji Awa Odori Ren Association**: An organization of independent dance groups participating in the festival. Approximately 30 groups, including Kishin Ren, Tengu Ren, Edo Kabuki Ren, and Suzaku Ren, belong to this association, cooperating to improve dance techniques and manage the event[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+2. **Impact of the COVID-19 Pandemic**: In 2020, the festival was canceled due to the outbreak. In 2021, the outdoor flow dance was canceled, and only stage performances were held over four days, but due to a state of emergency, these were switched to online streaming. In 2022, the flow dance was again canceled, and only stage performances took place[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+3. **Impact of the Great East Japan Earthquake**: In 2011, in cooperation with power-saving efforts, the festival hours were moved to the daytime, from 3:00 PM to 6:00 PM. In 2012, the start time was further advanced by one hour to 5:00 PM to 8:00 PM for the same reason[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+4. **Overseas Performance History**: In 1976, the festival group was invited to perform in San Francisco, Los Angeles, and Honolulu as part of the U.S. Bicentennial celebrations, marking its first successful overseas tour[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html).
+
+5. **Exchange with Tokushima**: Starting in 1965, dedicated dancers from Koenji traveled to Tokushima for intensive training in authentic Awa Odori. For the 30th anniversary in 1986, 37 leading dancers from 14 groups of the Tokushima Awa Odori Association made a special guest appearance[koenji-awaodori.com](https://www.koenji-awaodori.com/about/his02.html).
+
+6. **Concurrent Event with Asakusa Samba Carnival**: The festival is traditionally held on the same day as the Asakusa Samba Carnival. Both are major summer events in Tokyo, and many visitors enjoy attending both festivals in a single day[ja.wikipedia.org](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%86%86%E5%AF%BA%E9%98%BF%E6%B3%A2%E3%81%8A%E3%81%A9%E3%82%8A).
+
+7. **Official Information Sources**: For the most current information on participating dance groups, traffic regulations, and any weather-related changes or cancellations, check the official website of the NPO Tokyo Koenji Awa Odori Promotion Association at https://www.koenji-awaodori.com and the Suginami Ward website at https://www.city.suginami.tokyo.jp.','koenji-awa-odori','koenji-awa-odori',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11255045','神嘗祭','Kanname-no-Matsuri','宮中および伊勢神宮で行われる祭祀','Japanese festival','Q687168','伊勢神宮','Ise Jingū','三重県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%98%97%E7%A5%AD','https://en.wikipedia.org/wiki/Kannamesai_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q289513','チャグチャグ馬コ','Chagu Chagu Umakko','岩手県滝沢市から盛岡市で実施される、農耕馬への感謝の祭り','horse festival in Morioka, Japon',NULL,NULL,NULL,'岩手県','tohoku',NULL,NULL,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Chagu-chagu%20Umakko%20parade%20near%20the%20Nakanohashi%20Bridge%202023b.jpg','https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B0%E3%83%81%E3%83%A3%E3%82%B0%E9%A6%AC%E3%82%B3','https://en.wikipedia.org/wiki/Chagu_Chagu_Umakko',85,'drafted','## 概要
 
