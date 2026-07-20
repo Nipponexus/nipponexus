@@ -10608,51 +10608,139 @@ Gero Onsen, ranked as one of Japan''s three most famous hot springs, makes the f
 INSERT INTO "festivals" VALUES('Q11280345','やすらい祭','Yasurai Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%99%E3%82%89%E3%81%84%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353495','七尾港まつり','Nanao Port Festival','石川県七尾市で開催される市民祭',NULL,'Q11353471','七尾マリンパーク','Nanao Marine Park','石川県','chubu',NULL,NULL,1940,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11367985','丸亀お城まつり','Marugame Castle Festival',NULL,NULL,'Q250658','丸亀城','Marugame Castle','香川県','shikoku',NULL,NULL,1950,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E3%81%8A%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11360316','上野天神祭','Ueno Tenjin Festival','三重県伊賀市の菅原神社で行なわれる秋祭り',NULL,'Q17218755','菅原神社','Sugawara Shrine','三重県','kinki',NULL,NULL,NULL,NULL,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Iga%20City%20Danjiri%20Kaikan%20ac.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%A4%A9%E7%A5%9E%E7%A5%AD',NULL,85,'drafted','## 上野天神祭とは
+INSERT INTO "festivals" VALUES('Q11360316','上野天神祭','Ueno Tenjin Festival','三重県伊賀市の菅原神社で行なわれる秋祭り',NULL,'Q17218755','菅原神社','Sugawara Shrine','三重県','kinki',NULL,NULL,NULL,10,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Iga%20City%20Danjiri%20Kaikan%20ac.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E5%A4%A9%E7%A5%9E%E7%A5%AD',NULL,85,'drafted','## 概要
 
-上野天神祭（うえのてんじんまつり）は、三重県伊賀市の菅原神社（上野天神宮）で毎年秋に行われる例大祭です。豪華な楼車（だんじり）の巡行と、鬼や妖怪に扮した「鬼行列」で知られる、伊賀地方を代表する勇壮かつ独特の祭りで、国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産「山・鉾・屋台行事」のひとつにも登録されています。城下町・伊賀上野の秋を彩る、歴史と伝統に満ちた祭礼です。
+上野天神祭は、三重県伊賀市に鎮座する上野天神宮（菅原神社）の秋の例祭であり、国の重要無形民俗文化財に指定され、ユネスコ無形文化遺産にも登録されている大祭である。約400年の伝統を誇り、毎年10月25日に直近の日曜日を中心に、神輿・鬼行列・だんじりが市内を巡行する一大行事である。祭礼の特色として、神輿に供奉する「鬼行列」と「楼車（だんじり）」が同時に巡行する点が挙げられ、京都の祇園祭などとは異なる独自の形態を保っている。
 
-## 歴史と由来
+この祭礼は、菅原道真公を祀る上野天神宮の神幸祭として発展してきた。江戸時代前期の万治3年（1660年）に藤堂藩の許可を得て再興され、寛文2年（1662年）には神輿が城の丸之内（城内）を渡御するようになった。その後、町人たちが趣向を凝らした出し物を競い合い、現在見られるような華麗な行列が形成されていった。祭礼期間中は市街地全体が祭りの雰囲気に包まれ、地元住民だけでなく県内外から多くの見物客が訪れる。
 
-上野天神祭は、菅原道真を祀る菅原神社の祭礼として、藤堂藩の城下町・伊賀上野で発展してきました。その起源は江戸時代初期にさかのぼると伝えられ、城下の町人たちが財力と技を競って楼車を仕立て、また独特の鬼行列を整えていったとされます。約400年の歴史を持つこの祭りは、町ごとに受け継がれてきた楼車と鬼の面・装束を今に伝え、伊賀の人々の誇りとして大切に守られてきました。
+## 歴史・由来
+
+上野天神祭の起源は、江戸時代前期の万治3年（1660年）旧暦9月に遡る。記録によれば、この年に「天神祭礼再興」の伺いが藤堂藩に出され、許可を得て祭礼が行われたことが確認されている。ただし、それ以前にも祭礼が存在していたとされ、いったん中絶したものを再興したという位置づけである。再興から2年後の寛文2年（1662年）には、神輿が丸之内（城内）を渡御するようになり、藩主が見物することもあったという。
+
+鬼行列の成立は、元禄時代（1688年～1704年）頃と推定されている。記録によれば、元禄3年（1690年）の服部土芳の『蓑虫庵集』に「神事のねり物」「増長天」「面」という記述があり、これが現在の鬼行列の「役行者列」に登場する四天の一つ「増長天」であると考えられている。鬼行列の元になったのは、大峰山への入峰（修行）の様子を模したもので、役行者が鬼を従者とし、多くの鬼を使役したという伝承に基づいている。
+
+一方、楼車（だんじり）の登場は、18世紀後半の宝暦年間（1751年～1764年）頃と考えられている。宝暦6年（1756年）には向島町が「花鉾」を、宝暦9年（1759年）には中町が「其神山」という出し物を出した記録がある。これらの山鉾が徐々に発展し、文化・文政期（1804年～1830年）に現在のようなだんじりの形態が固定化したと言われている。天保11年（1840年）の版画『伊賀上野天満宮祭礼九月廿五日行列略記』には、ほぼ現在と同様の鬼行列や楼車の姿が描かれている。
+
+明治時代に入ると、明治35年（1902年）には菅公千年大祭が行われ、鬼行列や楼車に加えて三筋町以外の町々からも様々な出し物が出され、非常に盛大な祭礼となった。平成14年（2002年）2月12日には「上野天神祭のダンジリ行事」として国の重要無形民俗文化財に指定され、さらに平成28年（2016年）にはユネスコ無形文化遺産「山・鉾・屋台行事」の一つとして登録された。このユネスコ登録を契機に、祭礼の日程も平成29年（2017年）から10月25日までの直近の日曜日を中心とした日程に変更されている。
 
 ## 見どころ
 
-最大の見どころは、絢爛豪華な楼車の巡行と、百鬼夜行を思わせる「鬼行列」です。各町が誇る楼車は精緻な彫刻や装飾で飾られ、囃子にのって城下町を練り歩きます。一方、鬼行列では、ひょろつき鬼や役行者などに扮した人々が、独特の所作で観衆を沸かせます。鬼たちが沿道の子どもを脅かす場面は、この祭りならではの名物。歴史ある町並みを背景に繰り広げられる楼車と鬼の競演は、見る者を幻想的な世界へと誘います。
+**鬼行列の「役行者列」**
+上野天神祭の最大の見どころの一つが鬼行列である。相生町・紺屋町・三之西町の三つの町（総称「三鬼会」）から出される「役行者列」は、修験道の開祖である役行者が大峰山に入峰する様子を模したものである。行列の先頭には日本最大とされる約120kg（三十余貫）の大御幣が立ち、その後ろに悪鬼・八天・四天・役行者・先達・ひょろつき鬼などが続く。この行列は、修験道の厳粛な儀式を彷彿とさせる重厚な雰囲気を漂わせている。
 
-## 開催情報
+**鬼行列の「鎮西八郎為朝列」**
+徳居町から出される「鎮西八郎為朝列」は、源為朝が鬼退治を終えて凱旋する様子を模した行列である。寛政10年（1798年）頃に成立したとされ、藤堂藩の重臣安並氏が家に伝わる為朝に関する由緒を練物に仕立てたことが始まりとされている。為朝が鬼を従える趣向は、勇壮でありながらもどこかユーモラスな雰囲気を醸し出し、見物客の笑いを誘う。鬼の仮装をした参加者たちが跳ね回る姿は、祭りの華やかさを一層引き立てている。
 
-例年秋（10月)に、三重県伊賀市の菅原神社および伊賀上野の城下町一帯で開催されます。秋の例大祭であり、季節は秋。楼車巡行・鬼行列の日程やルートは年によって異なるため、伊賀市および上野天神祭の主催団体の公式発表で事前に確認することをおすすめします。
+**「ひょろつき鬼」の妙技**
+鬼行列の名物として知られる「ひょろつき鬼」は、釣鐘・二本の大斧・笈を背負った山伏姿の鬼が、独特の動きで練り歩く姿である。この「ひょろつき」と称される動きは、大峰入峰の儀式で用いられる重要な法具を模したもので、一本の長い竹の先に紙垂を付けたものを振り回しながら歩く。ひょろつき鬼のユニークな動きは、修験道の厳しさと祭りの楽しさを同時に表現しており、多くの観客の注目を集める。特に子どもから大人まで幅広い年齢層に人気がある。
 
-## アクセス
+**9基の楼車（だんじり）**
+本町筋・二之町筋の九つの町からそれぞれ1基ずつ、計9基の楼車が巡行する。だんじりの名称は、「紫鱗」（上野魚町）、「桐本」（上野東町）、「鉄英剣鉾」（上野向島町）、「其神山・葵鉾」（上野中町）、「三明」（上野福居町）、「小簑山」（上野小玉町）、「薙刀鉾」（上野新町）、「二東・月鉾」（上野鍛冶町）、「花冠」（上野西町）である。だんじりの上では、祇園祭に由来するとされるお囃子が奏でられ、笛・鐘・太鼓の音が町中に響き渡る。各町の趣向を凝らした装飾や彫刻は、祭りの華やかさを象徴している。
 
-会場の伊賀上野へは、伊賀鉄道「上野市駅」が最寄りです。大阪・名古屋の中間に位置し、近鉄やJRから伊賀鉄道に乗り継いでアクセスできます。車の場合は名阪国道などを利用できますが、開催期間中は城下町一帯で交通規制が敷かれるため、公共交通機関の利用が推奨されます。
+**祭りの日程と鬮取式**
+上野天神祭の巡行順は、毎年9月9日に上野天神宮で行われる「鬮取式（くじとりしき）」で決定される。この鬮取式を境に、各町は本格的な祭りの準備に入り、だんじりの練習にも熱が入る。鬮取式の結果は各町の祭りへの意気込みに直結するため、その場の雰囲気は緊迫感に満ちている。翌年の再戦を誓い合う町々の様子も、祭りの一つの風物詩となっている。
 
-## 周辺観光
+**宵山と足揃えの儀**
+本祭の前日には「足揃えの儀」が行われ、だんじりが各町内を巡行し、鬼行列も相生町から三之町筋を練る。この日は、本番を前にした祭りの熱気が日増しに高まる重要な日である。宵山の夜には、提灯で飾られただんじりが幻想的な雰囲気を醸し出し、昼間とは異なる美しさを見せる。夜の巡行ならではの趣が訪れる人々を魅了する。
 
-伊賀市は、藤堂高虎が築いた上野城（白鳳城）や、忍者の里として名高い土地です。伊賀流忍者博物館では忍術の実演やからくり屋敷を見学でき、松尾芭蕉の生誕地としても知られています。伊賀焼や伊賀牛、地酒など、城下町ならではの食文化も魅力。歴史と忍者文化、そして秋の祭りを一度に楽しめる、伊賀ならではの旅が満喫できるエリアです。','## What Is the Ueno Tenjin Festival?
+**神幸祭の大巡行**
+本祭である神幸祭では、上野天神宮の2基の神輿（天満宮神輿・九社宮神輿）を先頭に、鬼行列、印、だんじりが続く長蛇の列が市内を巡行する。神輿の渡御は、東旅所（上野車坂町）から本町通りを巡幸し、西旅所（上野幸坂町）で御昼祭を執り行い、午後には二の町通り、三の町通りを巡幸して本社へ還る。祭りの最高潮を迎えるこの日は、伊賀一円から十数万人の参詣者が訪れ、市中は歩行者天国となる。露店が軒を連ね、城下町伊賀上野は一年で最も賑わいを見せる。
 
-The Ueno Tenjin Festival is the grand annual festival of Sugawara Shrine (Ueno Tenjin-gū) in Iga, Mie Prefecture, held each autumn. Known for its procession of gorgeous floats (*danjiri*) and its "demon procession" of people dressed as ogres and supernatural beings, it is a spirited and distinctive festival representative of the Iga region. Designated an Important Intangible Folk Cultural Property of Japan, it is also inscribed on the UNESCO Intangible Cultural Heritage list as one of the "Yama, Hoko, Yatai float festivals." It is a festival rich in history and tradition that adorns the autumn of the castle town of Iga-Ueno.
+## 開催情報・アクセス
+
+1. **正式名称**：上野天神祭（上野天神祭の鬼・だんじり行事）
+2. **開催日**：毎年10月25日までの直近の日曜日を中心に3日間（宵々山・宵山・本祭）。ただし、例大祭は従来どおり10月25日。最新の開催日程・実施可否は公式サイトで確認すること。
+3. **主催**：上野天神宮（菅原神社）／上野文化美術保存会
+4. **交通アクセス（鉄道）**：近鉄大阪線「伊賀神戸」駅またはJR関西本線「伊賀上野」駅で伊賀鉄道に乗り換え、「上野市」駅下車。駅から祭礼会場までは徒歩圏内。
+5. **交通アクセス（高速バス）**：名古屋から三重交通の高速バスが運行されており、名鉄バスセンターから約90分で伊賀上野に到着する。大阪方面からも近鉄電車の利用が便利である。
+6. **交通アクセス（自家用車）**：名阪国道「中瀬」ICまたは「上野」ICから市中心部まで約10分。ただし、祭礼中は大規模な交通規制が敷かれるため、なるべく公共交通機関を利用すること。駐車場は限られているため、早めの到着か事前の駐車場確保が推奨される。
+
+## 周辺情報
+
+伊賀上野のシンボルである伊賀上野城は、上野天神祭の舞台となる地域の中核に位置している。この城は藤堂高虎によって築城された名城であり、城壁の高さは日本一と言われる。祭礼期間中、城内から眺める行列の巡行は絶好のフォトスポットであり、紅葉に映える城と祭りのコントラストは来場者を魅了する。また、城内には忍者に関する展示もあり、伊賀忍者の里としての歴史も同時に体感できる。
+
+上野天神祭の歴史をより深く知りたい方には、「だんじり会館」の訪問がお勧めである。この施設では、実際に使用されただんじり3基と鬼行列が再現展示されており、祭りの迫力を一年中体感できる。館内には詳細な解説パネルも設置されており、初めて訪れる方でも祭りの背景を理解しやすい。伊賀市の公式観光サイト（伊賀ぶらり旅）でも、祭りの最新情報や周辺観光スポットが紹介されている。
+
+伊賀地域は、忍者発祥の地としても世界的に有名であり、伊賀流忍者博物館や伊賀上野城に隣接する忍者屋敷など、忍者文化に触れられる施設が多数存在する。また、俳聖・松尾芭蕉の生誕地としても知られ、芭蕉翁記念館や芭蕉の遺品を収蔵する萬福寺なども見どころである。祭りの前後には、伊賀の名物料理である伊賀牛や、地酒の蔵元巡りを楽しむこともでき、一日中伊賀の文化を堪能できる。
+
+## 関連情報
+
+1. **上野天神祭 公式サイト**：[https://www.ueno-tenjin-matsuri.com/](https://www.ueno-tenjin-matsuri.com/) - 行事日程や交通規制の最新情報が掲載されている。
+2. **上野文化美術保存会**：祭礼の運営団体。問い合わせは info@ueno-tenjin-matsuri.com まで。
+3. **伊賀上野観光協会**：http://www.igaueno.net/ - 観光情報や交通アクセスの詳細が確認できる。電話 0595-26-7788。
+4. **伊賀市 公式観光サイト「伊賀ぶらり旅」**：上野天神祭の特集ページあり。
+5. **国の重要無形民俗文化財**：平成14年（2002年）2月12日指定。
+6. **ユネスコ無形文化遺産**：平成28年（2016年）登録。33件の「山・鉾・屋台行事」の一つ。
+7. **だんじり会館**：実際のだんじりや鬼行列の展示を行っている施設。
+8. **公式Facebook**：こぼれ話や天候による祭りの開催状況が随時配信されている。
+
+===','## Overview
+
+The Ueno Tenjin Festival is the grand annual autumn festival of Ueno Tenjingu Shrine (Sugawara Shrine) located in Iga City, Mie Prefecture. It is designated as an Important Intangible Folk Cultural Property of Japan and is registered as a UNESCO Intangible Cultural Heritage. With a tradition spanning approximately 400 years, this festival features a magnificent procession of portable shrines (mikoshi), demon processions (oni-gyoretsu), and decorated floats (danjiri) through the city streets, centered on the Sunday closest to October 25th each year. A distinctive feature of this festival is that the demon procession and the floats parade together as attendants to the portable shrine, maintaining a unique form different from festivals like Kyoto''s Gion Festival.
+
+This festival developed as the Shinkosai (sacred procession) of Ueno Tenjingu Shrine, which enshrines Sugawara no Michizane. It was revived in 1660 with permission from the Todo clan, who ruled the Iga domain, and by 1662 the portable shrines began parading inside the castle''s marunouchi (inner citadel). Subsequently, townspeople competed by devising elaborate displays, gradually forming the splendid procession seen today. During the festival period, the entire city center is enveloped in a festive atmosphere, attracting many visitors not only from the local area but also from neighboring prefectures such as Shiga, Kyoto, and Nara.
 
 ## History and Origins
 
-The Ueno Tenjin Festival developed in Iga-Ueno, the castle town of the Tōdō domain, as the festival of Sugawara Shrine, which enshrines Sugawara no Michizane. Its origins are said to date back to the early Edo period, when the townspeople of the castle town vied in wealth and skill to build floats and assemble the distinctive demon procession. With a history of some 400 years, the festival preserves to this day the floats and the demon masks and costumes handed down by each neighborhood, carefully protected as a source of pride for the people of Iga.
+The origins of the Ueno Tenjin Festival date back to the old lunar calendar in September 1660 during the early Edo period. According to records, a request to revive the Tenjin Festival was submitted to the Todo clan in that year, and permission was granted, leading to the festival''s revival. However, it is believed that a festival existed before this time, and the event is positioned as a revival after a period of interruption. Just two years after the revival, in 1662, the portable shrine began parading inside the castle''s marunomaru, and it is said that the lord of the domain himself came to view the spectacle.
+
+The formation of the demon procession (oni-gyoretsu) is estimated to date back to the Genroku era (1688-1704). According to records, in 1690, a text by the poet Doho Hattori mentions items associated with the procession. This is believed to be a reference to one of the celestial beings that appears in the current procession. The model for the demon procession was the practice of mountain asceticism on Mount Omine, based on the legend of En no Gyoja, the founder of Shugendo, who used demons as his attendants and commanded many of them.
+
+On the other hand, the appearance of the floats (danjiri) is thought to date from the Horeki era (1751-1764) in the late 18th century. Records show that in 1756, Mukojima-cho presented a flower halberd, and in 1759, Naka-cho presented a sacred mountain. These mountain floats gradually developed, and their form became largely fixed during the Bunka and Bunsei eras (1804-1830). A woodblock print from 1840 shows demon processions and floats that are almost identical to those seen today.
+
+In the Meiji period, a grand millennium festival for Sugawara no Michizane was held in 1902, during which various displays from towns beyond the three main streets were presented alongside the demon procession and floats, making it an exceptionally grand event. On February 12, 2002, the festival was designated as an Important Intangible Folk Cultural Property of Japan. Subsequently, in 2016, it was registered as a UNESCO Intangible Cultural Heritage as one of the 33 events. Following this UNESCO registration, the festival schedule was changed starting in 2017 to center on the Sunday closest to October 25th.
 
 ## Highlights
 
-The greatest attractions are the procession of resplendent floats and the "demon procession" reminiscent of the night parade of one hundred demons. The floats that each neighborhood takes pride in are adorned with intricate carvings and decorations and parade through the castle town to festival music. In the demon procession, meanwhile, people dressed as *hyorotsuki* ogres and En no Gyōja delight the crowds with their distinctive movements. The scenes in which the demons frighten children along the route are a famous feature unique to this festival. The interplay of floats and demons unfolding against the historic townscape draws onlookers into a fantastical world.
+**The Demon Procession**
+One of the greatest highlights of the Ueno Tenjin Festival is the demon procession itself. This procession, presented by three towns known collectively as the Three Demon Association, represents the scene of En no Gyoja entering Mount Omine for ascetic training. At the head of the procession stands a large sacred staff weighing approximately 120 kilograms (over 30 kanme), said to be the largest of its kind in Japan. The procession includes evil demons, eight celestial beings, four celestial kings, En no Gyoja himself, a sendatsu guide, and hyorotsuki demons with their distinctive movements. This procession exudes a solemn atmosphere reminiscent of the austere rituals of Shugendo mountain asceticism.
 
-## When It Takes Place
+**The Procession of Chinzei Hachiro Tametomo**
+The second demon procession, presented by Tokui-cho, represents the scene of Minamoto no Tametomo returning in triumph after defeating demons. Established around 1798, it is said to have originated when a retainer of the Todo clan used family traditions about Tametomo to create a costumed parade. The concept of Tametomo commanding demons creates a spectacle that is both valiant and humorous, drawing laughter from spectators. The leaping and cavorting of participants dressed as demons adds to the festive atmosphere.
 
-The festival is typically held in autumn (October) at Sugawara Shrine and throughout the castle town of Iga-Ueno in Iga, Mie Prefecture. As an autumn grand festival, its season is autumn. Because the dates and routes of the float and demon processions vary from year to year, visitors are advised to confirm details through official announcements from Iga City and the organizers of the Ueno Tenjin Festival.
+**The Unique Movements of the Hyorotsuki Demons**
+Known as a specialty of the demon procession, the hyorotsuki demons are mountain ascetics carrying a bell, two large axes, and a backpack, who parade with distinctive movements. These movements, referred to as hyorotsuki, involve swinging long bamboo poles with paper streamers attached, mimicking important ritual implements used in Mount Omine ascetic practices. The unique motions of the hyorotsuki demons simultaneously express the severity of Shugendo training and the joy of the festival, attracting attention from many spectators. They are particularly popular among both children and adults.
 
-## Access
+**The Nine Floats**
+A total of nine floats, one from each of the nine towns along the main streets, parade through the city. The names of the floats are distinctive, each reflecting the history and character of its town. On top of the floats, festival music with origins traced to the Gion Festival is performed, filling the streets with the sounds of flutes, bells, and drums. The elaborate decorations and carvings of each float symbolize the splendor of the festival. The floats themselves are large wooden structures mounted on wheels, beautifully decorated and accompanied by musicians playing lively tunes.
 
-Iga-Ueno is most conveniently reached via Uenoshi Station on the Iga Railway. Located midway between Osaka and Nagoya, it is accessible by transferring to the Iga Railway from the Kintetsu or JR lines. By car, routes such as the Meihan National Highway are available, but because traffic restrictions are imposed throughout the castle town during the festival, public transport is recommended.
+**The Festival Schedule and the Lottery Ceremony**
+The order of the procession in the Ueno Tenjin Festival is determined by a lottery ceremony held at Ueno Tenjingu Shrine every year on September 9th. This ceremony marks the point at which each town begins its full-scale festival preparations, including intensive practice for the float music. The results of the lottery directly affect the enthusiasm of each town for the festival, creating a tense atmosphere during the ceremony. The towns vowing to try again the following year have become one of the festival''s traditional sights.
 
-## Around the Area
+**The Eve Festival and Foot-Aligning Ceremony**
+On the day before the main festival, the foot-aligning ceremony is held, during which the floats parade through their respective towns and the demon procession also performs its preliminary run. This day marks a significant increase in the festival''s excitement as preparations reach their final stage. At night, the floats decorated with lanterns create a fantastical atmosphere, revealing a different beauty from the daytime. The unique charm of the evening procession captivates visitors.
 
-Iga is famed as the home of Ueno Castle (Hakuhō Castle), built by Tōdō Takatora, and as a land of ninja. At the Iga-ryū Ninja Museum, visitors can see demonstrations of ninja techniques and tour a house full of hidden tricks, and the area is also known as the birthplace of the poet Matsuo Bashō. Iga ware pottery, Iga beef, and local sake are among the food culture distinctive to the castle town. It is an area where one can savor a journey unique to Iga, enjoying history, ninja culture, and the autumn festival all at once.','ueno-tenjin-festival','ueno-tenjin-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The Grand Procession of the Shinkosai**
+On the main festival day, the Shinkosai, a long procession led by two portable shrines, followed by the demon procession, town emblems, and floats, parades through the city. The portable shrines travel from the eastern sacred site on Kurumazaka Street along the main street to the western sacred site on Koizaka Street, where a midday ceremony is held. In the afternoon, the procession travels along Second and Third Main Streets before returning to the main shrine. On this day, which marks the climax of the festival, up to 100,000 worshippers visit from the entire Iga region and beyond, turning the city center into a pedestrian paradise. Stalls line the streets, and the castle town of Iga Ueno is at its most vibrant.
+
+## Event Information and Access
+
+1.  **Official Name**: Ueno Tenjin Festival (Oni Danjiri Gyōji)
+2.  **Date**: Three days centered on the Sunday closest to October 25th annually (with preliminary events the night before and the eve of the festival). However, the main ritual is held on October 25th itself. Please check the official website for the latest schedule and cancellation information.
+3.  **Organizers**: Ueno Tenjingu Shrine / Ueno Bunka Bijutsu Hozonkai (Ueno Cultural and Artistic Preservation Society)
+4.  **Rail Access**: Take the Iga Railway from either Iga-Kobe Station on the Kintetsu Osaka Line or Iga-Ueno Station on the JR Kansai Main Line, and get off at Uenoshi Station. The festival venue is within walking distance from the station.
+5.  **Highway Bus Access**: Direct highway buses operated by Mie Kotsu depart from Nagoya, taking approximately 90 minutes from the Meitetsu Bus Center to Iga Ueno. From Osaka, the Kintetsu train is the convenient option.
+6.  **Car Access**: The city center is about 10 minutes from either the Nakaze IC or Ueno IC on the Meihan National Highway. However, large-scale traffic restrictions are in effect during the festival, so public transportation is strongly recommended. Parking is extremely limited, so early arrival or advance parking reservation is advised.
+
+## Nearby Attractions
+
+Iga Ueno Castle, the symbol of the city, is located at the heart of the area where the Ueno Tenjin Festival takes place. This castle was built by the famous architect Tōdō Takatora and boasts the highest castle walls in Japan. During the festival period, viewing the procession from within the castle grounds offers an excellent photo opportunity, with the contrast between the castle and the festival against the autumn leaves captivating visitors. Additionally, the castle features exhibits on ninja, allowing visitors to experience the history of the region as a home of the Iga ninja.
+
+For those who wish to learn more about the history of the Ueno Tenjin Festival, a visit to the Danjiri Kaikan is recommended. This facility features three actual floats and a recreated demon procession on display, allowing visitors to experience the festival''s excitement year-round. Detailed explanatory panels are installed throughout the building, making it easy for first-time visitors to understand the background of the festival. The official Iga City tourism website also provides the latest festival information and introduces surrounding tourist attractions.
+
+The Iga region is also famous worldwide as the birthplace of the ninja, with numerous facilities where visitors can experience ninja culture. Additionally, the area is known as the birthplace of the haiku poet Matsuo Basho. Before or after the festival, visitors can also enjoy local specialties such as Iga beef and visits to local sake breweries, making it possible to fully appreciate Iga''s culture for an entire day.
+
+## Related Information
+
+1.  **Official Website**: Official site providing the latest event schedules and traffic information.
+2.  **Ueno Cultural and Artistic Preservation Society**: The organization that operates the festival. Inquiries can be sent to the official email address.
+3.  **Iga Ueno Tourism Association**: Offers tourism information and detailed access information. Telephone inquiries are also accepted.
+4.  **Iga City Official Tourism Website**: Features a special page on the Ueno Tenjin Festival.
+5.  **National Important Intangible Folk Cultural Property**: Designated on February 12, 2002.
+6.  **UNESCO Intangible Cultural Heritage**: Registered in 2016 as one of the 33 events.
+7.  **Danjiri Kaikan (Float Hall)**: A facility exhibiting actual floats and the demon procession.
+8.  **Official Facebook Page**: Provides timely updates on festival gossip and whether the event will be held depending on weather conditions.','ueno-tenjin-festival','ueno-tenjin-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11361280','下総三山の七年祭り','Shimōsa Miyama Seven-Year Festival','千葉県船橋市三山にある二宮神社を中心として開催される大祭',NULL,'Q11371511','二宮神社','Ninomiya Shrine','千葉県','kanto',NULL,NULL,1445,11,'autumn','http://commons.wikimedia.org/wiki/Special:FilePath/Shimousamiyamanoshichinennmatsuri.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%B7%8F%E4%B8%89%E5%B1%B1%E3%81%AE%E4%B8%83%E5%B9%B4%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
 下総三山の七年祭りは、千葉県の船橋市、千葉市、八千代市、習志野市の4市にまたがる9つの神社が寄り集まって行う大祭です。この祭りは丑年と未年に行われ、数え年で7年目に当たることから「七年祭り」と呼ばれ、室町時代から550年以上の歴史を持つとされています。平成16年（2004年）に千葉県指定無形民俗文化財に指定されました。
