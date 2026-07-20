@@ -9659,43 +9659,139 @@ INSERT INTO "festivals" VALUES('Q11379632','伊根祭',NULL,NULL,NULL,NULL,NULL,
 INSERT INTO "festivals" VALUES('Q11381258','会津絵ろうそくまつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%B5%B5%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11382961','佐倉市民花火大会',NULL,NULL,NULL,NULL,NULL,NULL,'千葉県','kanto',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E4%BD%90%E5%80%89%E5%B8%82%E6%B0%91%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11390862','八屋祇園',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B1%8B%E7%A5%87%E5%9C%92',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11381803','住吉の御田植','Otaue Shinto Service','大阪市住吉区の住吉大社に伝わる田楽','Shinto shrine in Sumiyoshi, Japan','Q127774932','住吉大社御田','Onda, Sumiyoshi Taisha','大阪府','kinki',34.61135,135.492453,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sumiyoshi%20jinja%20Otaue.jpg','https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E3%81%AE%E5%BE%A1%E7%94%B0%E6%A4%8D',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11381803','住吉の御田植','Otaue Shinto Service','大阪市住吉区の住吉大社に伝わる田楽','Shinto shrine in Sumiyoshi, Japan','Q127774932','住吉大社御田','Onda, Sumiyoshi Taisha','大阪府','kinki',34.61135,135.492453,NULL,6,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Sumiyoshi%20jinja%20Otaue.jpg','https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E3%81%AE%E5%BE%A1%E7%94%B0%E6%A4%8D',NULL,95,'drafted','## 概要
 
-住吉の御田植神事（すみよしのおたうえしんじ）は、大阪市住吉区の住吉大社で毎年6月14日に執り行われる、五穀豊穣を祈願する伝統神事である。「住吉の御田植」として1979年に国の重要無形民俗文化財に指定されており、日本三大御田植神事のひとつに数えられる。
+大阪府大阪市住吉区の住吉大社で毎年6月14日に行われる「御田植神事」（おたうえしんじ）は、五穀豊穣を祈願する伝統的な神事である。この行事は「日本三大御田植祭」の一つに数えられ、国の重要無形民俗文化財に指定されている。住吉大社の公式情報によれば、2026年の開催も6月14日に予定されており、午後1時から執り行われる。
 
-## 歴史
+御田植神事は、稲作の開始を告げる儀式として、田植えの所作そのものに加え、八乙女による舞や住吉踊などの芸能奉納が一体となって行われる点に特徴がある。行事は本殿での神事から始まり、境内の神田（御田）へと移動し、植女（うえめ）が苗を植える一連の流れで構成されている。この神事は古来の形式を省略することなく継承されており、夏の訪れを告げる大阪の風物詩として親しまれている。
 
-神功皇后が住吉大社を創建した際、長門国（現在の山口県）より植女（うえめ）を召して御田を植えさせたことが起源と伝えられ、約1800年の歴史を持つとされる。中世以降、住吉大社の重要な年中行事として継承され、室町時代の文献にもその様子が記されている。戦時中の中断を経て戦後復活し、現在まで途切れることなく執行されている。
+## 歴史・由来
+
+御田植神事の起源は、住吉大社が創建された211年（神功皇后摂政11年）にまで遡ると伝えられている。言い伝えによれば、大社の創立者である神功皇后が、新しい田んぼを作って神社の神々に捧げることを命じ、本州西部（現在の山口県にあたる長門国）から特別に訓練された「植女」を召し寄せて田植えを奉仕させたことが始まりとされる。
+
+江戸時代（1603年～1867年）には、近隣の堺の旅人宿の女性たちが植女の役を務めていた。これらの女性は「遊女」と呼ばれ、多くが踊りや音楽に長けており、特に優れた人物は有名人として知られていた。御田植神事では田植えに加えて遊女たちの踊りも披露されたため、彼女たちは芸術的才能を発揮すると同時に、神事による浄化を受ける機会を得ていた。現在では、大阪近郊の女性芸能従事者が植女の役を担っている。
+
+明治維新の際には、神道の改革に伴って神事廃絶の危機に直面した。しかし、地元の保存努力によりこの危機を乗り越え、1979年（昭和54年）2月3日、国の重要無形民俗文化財に正式に指定された。この指定により、行事の継承と保護が法的に保障されることとなった。
+
+御田植神事は「日本三大御田植祭り」の一つに数えられている。全国の田植え行事の中でも、住吉大社の神事は古来の儀式を省略することなく現在も同じ形式で行っている点が高く評価されている。神社の敷地南西部にある同じ水田が、創建以来約1,800年にわたって祭事に使用され続けている。
 
 ## 見どころ
 
-御田と呼ばれる神田で、稚児・植女・替植女（かえうえめ）・八乙女（やおとめ）など華やかな衣装を身につけた女性たちが、実際に早苗を植える所作を奉納する。田の中央では棚を組み、その上で住吉踊・田植踊・住吉武者行列・風流武者行事などが次々と披露され、田植えと芸能が一体となった荘厳かつ華麗な空間が現出する。植女の鮮やかな衣装と笠、武者行列の勇壮さの対比が見どころである。
+**神田への行列とお祓い**
+まず、神事に関わる全ての参加者が本殿前でお祓いを受ける。楽人、八乙女、御稔女（みとしめ）、植女、替植女（かえうえめ）、稚児、風流武者、住吉踊の踊子などが列を整えて神田へと進む。この荘厳な行列は、参加者の装束の色鮮やかさと相まって、参拝者に神聖な雰囲気を伝える。
 
-## 開催情報
+**牛による代掻きと聖水の散布**
+神聖な田んぼは、牛を連れてきて代掻き（しろかき、水を張った田を均す作業）を行い、さらに聖水を撒いて清める。この作業は、機械を使わず古来の方法で行われるため、時間をかけて丁寧に実施される。牛が田んぼを歩く様子は、都会の真ん中でありながら農耕文化の原点を感じさせる光景である。
 
-開催地は大阪市住吉区住吉2丁目の住吉大社御田。最寄駅は南海本線「住吉大社駅」徒歩約3分、または阪堺電車「住吉鳥居前駅」目の前。開催日は毎年6月14日、13時頃から約2時間。観覧は無料で、御田周囲の観覧スペースから自由に見学できるが、混雑するため早めの場所取りが望ましい。梅雨期のため雨具を携行すべきである。
+**八乙女による田舞**
+田の中央に設けられた仮設舞台上で、8人の巫女による「八乙女舞」が奉納される。この舞は、苗の成長と豊作を祈るもので、優雅な動作と神楽の調べが田園風景に調和する。舞の間、田の畔では風流武者が紅白に分かれ、陣鐘・太鼓・ほら貝を鳴らしながら六尺棒を打ち合う棒打合戦も行われる。
 
-## 周辺の見どころ
+**植女と替植女による田植え**
+植女から替植女が早苗を受け取り、神田で実際に田植えを始める。この作業は「植女」と呼ばれる女性たちが、所作を整えながら一本一本丁寧に苗を植えていく。植えられた苗は、秋には神様へのお供えとして収穫される。
 
-住吉大社は全国約2300社ある住吉神社の総本社で、海上交通・和歌・農耕の神として信仰を集める。境内の反橋（太鼓橋）は大社の象徴的存在で、神事の前後に参拝するとよい。周辺には大阪の下町情緒が残る商店街や、近隣に堺市の仁徳天皇陵古墳など世界遺産級の見どころも点在する。','## Overview
+**住吉踊りの奉納**
+田植えが進む中、音頭取の歌に合わせて、菅笠をつけた僧形の子供たちが団扇を打ちながら長柄の傘の周りを踊り回る「住吉踊」が披露される。この踊りは、田植えの終盤に行われ、全体のクライマックスを飾る。子供たちの可愛らしい動きと、伝統的な衣装が観客の目を引く。
 
-Sumiyoshi no Otaue Shinji (住吉の御田植神事) is a traditional Shinto ritual held annually on June 14 at Sumiyoshi Taisha Shrine in Sumiyoshi Ward, Osaka City. It prays for a bountiful rice harvest and was designated an Important Intangible Folk Cultural Property of Japan in 1979. It is counted among the three greatest rice-planting rituals in Japan.
+**最後の田植え完了と神事の締めくくり**
+住吉踊が行われる頃には田植えも完成を迎え、全ての所作が終了する。植えられた米は後に神様へのお供えとされ、その一部は参列者にも分け与えられる。行事全体を通じて、古来より変わらぬ農耕儀礼の重みと、神と人との結びつきを感じることができる。
 
-## History
+## 開催情報・アクセス
 
-According to legend, the ritual originated when Empress Jingu, who founded Sumiyoshi Taisha, summoned planting maidens (uеme) from Nagato Province (present-day Yamaguchi Prefecture) to plant rice in the shrine''s sacred fields. With a history of approximately 1,800 years, it has been continued as one of Sumiyoshi Taisha''s most important annual events since the medieval period and is mentioned in Muromachi-era documents. After a wartime interruption, the ritual was revived and has been performed without interruption ever since.
+1.  **開催日**: 毎年6月14日（2026年も同日開催、午後1時開始予定）
+2.  **開催場所**: 住吉大社 第一本宮～御田（大阪府大阪市住吉区住吉2-9-89）
+3.  **料金**: 観覧無料（ただし、有料の特別拝観席あり）
+4.  **アクセス**:
+    - 南海本線「住吉大社駅」から徒歩約3分
+    - 阪堺電気軌道阪堺線「住吉鳥居前駅」または「住吉駅」から徒歩すぐ
+    - 阪神高速堺線・玉出ICから車で約5分
+5.  **駐車場**: あり（ただし、神事当日は混雑が予想されるため、公共交通機関の利用が推奨される）
+6.  **問い合わせ先**: 住吉大社（電話番号は公式サイトで確認のこと）
+7.  **注意事項**: 最新の開催日程・実施可否は必ず住吉大社の公式サイト（https://www.sumiyoshitaisha.net/）で確認すること。雨天の場合は決行されるが、荒天時には中止または内容変更の可能性がある。
+
+## 周辺情報
+
+住吉大社の周辺には、歴史的な街並みが残る「住吉区」のエリアが広がっている。大社の参道には、古くから続く茶屋や土産物店が軒を連ね、特に「住吉の長屋」と呼ばれる伝統的な町家が点在する。これらの店舗では、住吉大社の御神籤やお守り、地元の銘菓である「住吉餅」などが販売されており、神事の前後で散策するのに適している。また、参道の入り口にある「住吉鳥居」は、高さ約12メートルの朱色の鳥居で、写真撮影スポットとしても人気がある。
+
+大社から徒歩圏内には、大阪市立住吉図書館や住吉公園があり、公園内には古代の住吉大社に関連する遺跡が保存されている。さらに、南海本線で一駅の「堺」方面には、堺市博物館や旧堺港の運河跡など、歴史的な観光資源も豊富である。御田植神事の後に、これらの施設を訪れることで、地域の文化をより深く理解することができる。
+
+御田植神事の開催時期は6月中旬であり、大阪市内では同時期に「大阪城夏まつり」などのイベントも催される。また、住吉大社から電車で約20分の場所には「通天閣」や「新世界」の繁華街があり、伝統行事と現代の都市観光を組み合わせた旅程を組むことも可能である。これらの周辺情報を活用することで、一日を通じて大阪の文化を満喫することができる。
+
+## 関連情報
+
+1.  **日本三大御田植祭**: 住吉大社の御田植神事は日本三大御田植祭の一つに数えられ、国の重要無形民俗文化財に指定されている。
+2.  **国の重要無形民俗文化財**: 住吉大社の御田植神事は1979年（昭和54年）2月3日に指定された。文化庁の国指定文化財等データベースでは、この行事が「種の御田植の行事の中で、規模が大きく代表的なものとして重要」と解説されている。
+3.  **住吉大社の創建**: 住吉大社は211年（神功皇后摂政11年）に創建されたと伝えられ、全国の住吉神社の総本社である。本殿は国宝に指定されている。
+4.  **神功皇后にまつわる伝承**: 御田植神事の起源は、神功皇后が長門国から植女を召し寄せて田植えを奉仕させたことにあるとされる。この伝承は、皇后が新羅遠征からの帰途に住吉大神の神託を受けて神社を建立したという物語とも結びついている。
+5.  **植女の変遷**: 江戸時代には堺の遊女が植女を務めていたが、現在は大阪近郊の女性芸能従事者がその役を担っている。この変化は、神事の継承において役割を担う人々が時代とともに変わってきたことを示している。
+6.  **住吉踊と棒打合戦**: 御田植神事では、住吉踊の他に風流武者による棒打合戦が行われる。これは紅白の武者が六尺棒を打ち合う勇壮な儀式で、苗の活力を高めるための呪術的な意味を持つとされる。
+7.  **稲作と神道の関係**: 日本では米と宗教が密接に結びついており、多くの地域で稲作の季節は神道の儀式に始まり神道の儀式に終わる。御田植神事はその典型例として、苗の成長を祈り、収穫を神に感謝する一連の儀式を今に伝えている。
+8.  **御田の規模と管理**: 御田植神事に使用される水田は、住吉大社の敷地南西部にあり、約1,800年にわたって同じ場所が使用されている。この水田は神聖なものとされ、通常時は一般の立ち入りが制限されている。','## Overview
+
+The Otaue Shinji (Sacred Rice Planting Ceremony) is an annual traditional event held on June 14 at Sumiyoshi Taisha Shrine in Sumiyoshi Ward, Osaka City, Osaka Prefecture. This ceremony is a prayer for a bountiful harvest of the five grains and is counted among the three major rice-planting festivals in Japan. The government has designated it an Important Intangible Folk Cultural Property. According to the official information from Sumiyoshi Taisha, the 2026 event is also scheduled for June 14, with proceedings beginning at 1:00 PM.
+
+The Otaue Shinji is characterized by the integration of rice planting itself with the performance of various traditional arts, including dances by eight shrine maidens and the Sumiyoshi Odori dance. The ceremony begins with rites at the main shrine, then moves to the sacred rice paddy (onda) within the shrine grounds, where the planting women (ueme) plant the seedlings. The event has been conducted without omitting any ancient rituals, making it a beloved Osaka tradition that heralds the arrival of summer.
+
+## History and Origins
+
+The origins of the Otaue Shinji are said to date back to the year 211 (11th year of the reign of Empress Jingu), when Sumiyoshi Taisha was first established. According to tradition, Empress Jingu, the founder of the shrine, ordered the creation of new rice fields to be offered to the deities of the shrine. She summoned specially trained planting women (ueme) from Nagato Province (present-day Yamaguchi Prefecture in western Honshu) to tend the fields and perform the planting.
+
+During the Edo period (1603–1867), women from inns in the neighboring city of Sakai served as the ueme. These women, known as yujo (courtesans), were often highly skilled in dance and music, and the most talented among them were celebrated figures. In addition to planting rice, the yujo would perform dances during the Otaue Shinji, thereby displaying their artistic talents while receiving ritual purification through their participation in the sacred event. Today, the role of ueme is filled by women in the performing arts from the Osaka region.
+
+During the Meiji Restoration, the ceremony faced a crisis of potential abolition due to reforms in Shinto practices. However, local preservation efforts allowed it to overcome this threat. On February 3, 1979, the Otaue Shinji was officially designated an Important Intangible Folk Cultural Property of Japan, granting it legal protection and recognition for its cultural significance.
+
+The Otaue Shinji is counted among the three great rice-planting festivals in Japan. Among rice planting ceremonies nationwide, the Sumiyoshi Taisha event is highly valued for maintaining its ancient format without omission. The same rice paddy located in the southwestern part of the shrine grounds has been used for this ritual for approximately 1,800 years since the shrine''s founding.
 
 ## Highlights
 
-In a sacred field called Onda, young girls (chigo), planting maidens (uеme), substitute maidens (kaeueme), and the eight virgin dancers (yaotome) — all dressed in elaborate costumes — perform the act of planting rice seedlings as an offering. A stage is constructed in the center of the field, where Sumiyoshi Odori dance, rice-planting dances, samurai processions, and furyu (elegant pageantry) performances unfold one after another, creating a solemn yet vibrant space where agriculture and performing arts converge. The contrast between the colorful costumes and broad hats of the planting maidens and the bold samurai processions is particularly striking.
+**Procession to the Sacred Paddy and Purification**
+First, all participants involved in the ceremony receive a purification ritual in front of the main shrine. The procession includes musicians, eight shrine maidens (yaotome), the mitoshime (rice offering women), the ueme (planting women), the kaeueme (substitute planting women), chigo (children attendants), furyu-bushi (decorated warriors), and dancers of the Sumiyoshi Odori. This solemn procession, with its colorful traditional costumes, conveys a sacred atmosphere to the spectators.
 
-## Event Information
+**Plowing by Ox and Sprinkling of Sacred Water**
+The sacred rice paddy is plowed using an ox, a method called shirokaki (puddling the flooded field), and then sprinkled with sacred water for purification. This work is conducted in the ancient manner without machinery, requiring careful, time-consuming effort. The sight of an ox walking through the paddy evokes the origins of agricultural culture in the midst of a modern urban environment.
 
-The venue is the Onda sacred field at Sumiyoshi Taisha, 2-chome Sumiyoshi, Sumiyoshi Ward, Osaka City. The nearest stations are Sumiyoshi Taisha Station on the Nankai Main Line (about a 3-minute walk) or Sumiyoshi Toriimae Station on the Hankai Tramway (right in front of the shrine). The ritual is held annually on June 14, beginning around 1:00 PM and lasting about two hours. Admission is free, with viewing spaces around the field, but as it gets crowded, early arrival is recommended. Visitors should bring rain gear, as the ritual coincides with the rainy season.
+**Yaotome Dance by Eight Shrine Maidens**
+On a temporary stage erected in the center of the paddy, eight shrine maidens perform the Yaotome Dance (maiden dance). This dance is a prayer for the growth of the seedlings and a bountiful harvest, harmonizing graceful movements with the music of Shinto ritual. Meanwhile, on the ridges of the paddy, furyu-bushi warriors split into red and white teams and engage in a stick-fighting contest (bokucho kassen), using six-foot poles while sounding bells, drums, and conch shells.
 
-## Nearby Attractions
+**Rice Planting by Ueme and Kaeueme**
+The kaeueme (substitute planting women) receive young rice seedlings from the ueme and begin planting them in the sacred paddy. The ueme, women trained in the ritual, plant each seedling carefully with precise, deliberate movements. The rice planted during this ceremony is later harvested in autumn and offered to the deities.
 
-Sumiyoshi Taisha is the head shrine of approximately 2,300 Sumiyoshi shrines across Japan and is revered as the deity of maritime safety, waka poetry, and agriculture. The Sorihashi (arched drum bridge) within the precincts is a symbol of the shrine and worth visiting before or after the ritual. The surrounding area retains the atmosphere of traditional Osaka downtown, and the nearby Mozu Tombs in Sakai City, including the Emperor Nintoku Tomb, are designated as UNESCO World Heritage sites.','sumiyoshi-no-otaue-shinji','sumiyoshi-no-otaue-shinji',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**Performance of the Sumiyoshi Odori Dance**
+As the planting progresses, the Sumiyoshi Odori dance is performed by children dressed as monks wearing sedge hats, who dance around a long-handled umbrella while beating fans to the song of a lead singer. This dance marks the climax of the event, usually performed toward the end of the planting. The lively movements of the children in their traditional attire captivate the audience.
+
+**Completion of Planting and Conclusion of the Ceremony**
+By the time the Sumiyoshi Odori is underway, the rice planting reaches completion, and all ritual actions conclude. The harvested rice is later offered to the deities, and portions are sometimes distributed to participants. The entire event conveys the weight of an unchanging agricultural ritual dating back to ancient times, reinforcing the connection between the divine and the human community.
+
+## Event Information and Access
+
+1.  **Date**: Annually on June 14 (2026 event scheduled for the same date, starting at 1:00 PM)
+2.  **Location**: Sumiyoshi Taisha Shrine, First Main Shrine to the Sacred Paddy (2-9-89 Sumiyoshi, Sumiyoshi-ku, Osaka City, Osaka Prefecture)
+3.  **Admission**: Free viewing (paid reserved seats available)
+4.  **Access**:
+    - Approx. 3-minute walk from Sumiyoshi Taisha Station on the Nankai Main Line
+    - Short walk from Sumiyoshi Torii-mae Station or Sumiyoshi Station on the Hankai Tramway
+    - Approx. 5 minutes by car from Tamade IC on the Hanshin Expressway Sakai Line
+5.  **Parking**: Available (public transportation recommended on event day due to congestion)
+6.  **Contact**: Sumiyoshi Taisha Shrine (check official website for phone number)
+7.  **Notes**: Always check the official Sumiyoshi Taisha website (https://www.sumiyoshitaisha.net/) for the latest schedule and cancellation status. The event proceeds in light rain but may be canceled or modified in severe weather.
+
+## Nearby Information
+
+The area around Sumiyoshi Taisha features historic streetscapes in the Sumiyoshi Ward. Along the shrine''s approach, there are long-established tea houses and souvenir shops, including traditional townhouses known as Sumiyoshi no Nagaya. These shops sell Sumiyoshi Taisha''s omikuji (fortune slips), omamori (charms), and local sweets such as Sumiyoshi Mochi, making it ideal for a stroll before or after the ceremony. The Sumiyoshi Torii gate at the entrance of the approach, a vermilion-lacquered gate approximately 12 meters high, is also a popular photo spot.
+
+Within walking distance of the shrine are the Osaka City Sumiyoshi Library and Sumiyoshi Park, which preserves ruins related to the ancient Sumiyoshi Taisha. One station away on the Nankai Main Line lies the city of Sakai, home to the Sakai City Museum and the remains of the old Sakai Port canal, offering rich historical sightseeing opportunities. Visiting these facilities after the Otaue Shinji allows for a deeper understanding of the region''s culture.
+
+The Otaue Shinji takes place in mid-June, a time when events such as the Osaka Castle Summer Festival are also held in Osaka City. Approximately 20 minutes by train from Sumiyoshi Taisha lies the Tsutenkaku Tower and the Shinsekai entertainment district, allowing visitors to combine a traditional ritual with modern urban sightseeing. By utilizing these nearby attractions, one can fully enjoy Osaka''s culture throughout the day.
+
+## Related Information
+
+1.  **Three Great Rice-Planting Festivals of Japan**: The Otaue Shinji at Sumiyoshi Taisha is ranked among the three great rice-planting festivals of Japan, and is designated an Important Intangible Folk Cultural Property.
+2.  **Important Intangible Folk Cultural Property**: The Otaue Shinji was designated on February 3, 1979. The Agency for Cultural Affairs database describes it as important among rice-planting events of this kind due to its large scale and representative nature.
+3.  **Founding of Sumiyoshi Taisha**: The shrine is said to have been founded in 211 (11th year of Empress Jingu''s reign) and is the head shrine of all Sumiyoshi shrines nationwide. Its main hall is designated a National Treasure.
+4.  **Legend of Empress Jingu**: The origin of the Otaue Shinji is attributed to Empress Jingu summoning planting women from Nagato Province to perform the rice planting. This legend connects to the broader narrative of Empress Jingu receiving an oracle from the Sumiyoshi deity upon her return from an expedition to the Korean peninsula (Silla).
+5.  **Evolution of the Ueme Role**: During the Edo period, courtesans from Sakai served as ueme, but today women in the performing arts from the Osaka area fulfill this role. This change illustrates how the individuals responsible for carrying on the ceremony have adapted over time.
+6.  **Sumiyoshi Odori and Stick-Fighting Contest**: In addition to the Sumiyoshi Odori dance, the Otaue Shinji features a stick-fighting contest by decorated warriors (furyu-bushi). This is a vigorous ritual where red and white warriors strike each other with six-foot poles, believed to have a magical purpose of enhancing the vitality of the rice seedlings.
+7.  **Rice Cultivation and Shinto**: Rice and religion are closely intertwined in Japan; in many regions, the rice-growing season begins and ends with Shinto rituals. The Otaue Shinji is a prime example, transmitting a complete cycle of rituals praying for seedling growth and giving thanks to the deities for the harvest.
+8.  **Scale and Management of the Sacred Paddy**: The rice paddy used for the Otaue Shinji is located in the southwestern part of the shrine grounds and has been used for approximately 1,800 years. This paddy is considered sacred, and public access is normally restricted.','sumiyoshi-no-otaue-shinji','sumiyoshi-no-otaue-shinji',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11401311','北國大花火川北大会',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%8C%97%E5%9C%8B%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%B7%9D%E5%8C%97%E5%A4%A7%E4%BC%9A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11408464','南越谷阿波踊り',NULL,NULL,NULL,NULL,NULL,NULL,'徳島県','shikoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%8D%97%E8%B6%8A%E8%B0%B7%E9%98%BF%E6%B3%A2%E8%B8%8A%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11374839','京都・東山花灯路','Higashiyama Hanatouro',NULL,NULL,NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,NULL,'spring','http://commons.wikimedia.org/wiki/Special:FilePath/Illuminated%20Yasakanoto%20Tower%20%28Hokanji%20Temple%29%202.jpg','https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E6%9D%B1%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF',NULL,80,'drafted','## 概要
@@ -22504,11 +22600,11 @@ CREATE TABLE fetch_history (
         );
 INSERT INTO "fetch_history" VALUES(1,'2026-05-20T15:04:46.091425+00:00','festivals_wikidata_20260520_093931.json',1256,1256,0);
 INSERT INTO "fetch_history" VALUES(2,'2026-05-20T15:07:52.470287+00:00','festivals_wikidata_20260520_093931.json',1256,0,1256);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 CREATE INDEX idx_prefecture ON festivals(prefecture);
 CREATE INDEX idx_region ON festivals(region);
 CREATE INDEX idx_season ON festivals(season);
 CREATE INDEX idx_status ON festivals(status);
 CREATE INDEX idx_priority ON festivals(priority_score DESC);
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
 COMMIT;
