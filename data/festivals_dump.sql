@@ -10568,43 +10568,132 @@ INSERT INTO "festivals" VALUES('Q11280572','やや祭り','Yaya Matsuri',NULL,NU
 INSERT INTO "festivals" VALUES('Q11297936','キネコ国際映画祭','KINEKO International Children''s Film Festival','東京都で毎年11月上旬に開催される映画祭',NULL,'Q11371454','二子玉川','Futako-Tamagawa','東京都','kanto',NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%82%B3%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11360475','上野間の裸まいり','Kaminoma Hadaka Mairi','愛知県知多郡美浜町上野間地区で行われる裸祭り',NULL,NULL,NULL,NULL,'東京都','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E9%96%93%E3%81%AE%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11327037','ハワリンバヤル','Havriin Bayar','1998年より東京で毎年開催されるモンゴルのフェスティバル','Annual Mongolian Festival in Tokyo since 1998','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1998,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AF%E3%83%AA%E3%83%B3%E3%83%90%E3%83%A4%E3%83%AB',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11360688','下呂の田の神祭','Gero Ta-no-Kami Festival','岐阜県下呂市森の、森水無八幡神社に伝わる祭り',NULL,'Q11539924','森水無八幡神社','Mori Minashi Hachiman Shrine','岐阜県','chubu',35.807214,137.243953,NULL,NULL,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Gero%20no%20Ta%20no%20Kami%20Festival%2C%20Marching%20people.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%91%82%E3%81%AE%E7%94%B0%E3%81%AE%E7%A5%9E%E7%A5%AD',NULL,95,'drafted','## 概要
+INSERT INTO "festivals" VALUES('Q11360688','下呂の田の神祭','Gero Ta-no-Kami Festival','岐阜県下呂市森の、森水無八幡神社に伝わる祭り',NULL,'Q11539924','森水無八幡神社','Mori Minashi Hachiman Shrine','岐阜県','chubu',35.807214,137.243953,NULL,2,'winter','http://commons.wikimedia.org/wiki/Special:FilePath/Gero%20no%20Ta%20no%20Kami%20Festival%2C%20Marching%20people.jpg','https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%91%82%E3%81%AE%E7%94%B0%E3%81%AE%E7%A5%9E%E7%A5%AD',NULL,95,'drafted','## 概要
+岐阜県下呂市に伝わる「下呂の田の神祭」（通称：花笠祭り）は、森水無八幡神社（もりみなしはちまんじんじゃ）の例祭として毎年2月に行われる国の重要無形民俗文化財です。この祭りは稲の豊作を前もって祝う「予祝（よしゅく）」の要素を持ち、中世以来の田楽（でんがく）や田遊び（たあそび）の芸能を色濃く伝えている点に最大の特徴があります。昭和56年（1981年）1月21日付で国の重要無形民俗文化財に指定されて以来、地元の保存団体「下呂の田の神祭保存会」によってその伝統が厳格に守り継がれ、今日に至っています。
 
-下呂の田の神祭（げろのたのかみまつり）は、岐阜県下呂市森地区の森水無八幡神社（もりみなしはちまんじんじゃ）で2月7日から14日にかけて執り行われる、五穀豊穣を祈願する古式神事である。「下呂の田の神祭」として1976年に国の重要無形民俗文化財に指定された、飛騨地方を代表する予祝（よしゅく）神事である。
+祭りは「飛騨路に春を告げる祭り」として広く知られており、色鮮やかな花笠をかぶった4人の「踊り子」が優雅な舞を披露することから「花笠まつり」の別名で親しまれています。2月7日の「神主（テテ）頼みの儀」に始まり、13日の試楽祭、14日の本楽祭までの一連の神事は、約200名の参加者によって厳かに執り行われます。この一週間、下呂温泉街は古式ゆかしい雰囲気に包まれ、多くの見物客やカメラマンで賑わう、飛騨路の冬の風物詩となっています。
 
-## 歴史
+## 歴史・由来
+この祭りがいつごろから始まったのかは文献が少なく定かではありませんが、一説には400年から500年前、すなわち室町時代から戦国時代にかけての時期には既に成立していたとされています。その起源は、日本の農村社会で発展した田楽の一種が地域的に独自の進化を遂げたものと考えられています。特に「田遊び」の系譜を引く予祝行事として、稲作の全工程を模した舞や所作が現代まで完全な形で伝承されている点が、極めて貴重です。
 
-起源は鎌倉時代から室町時代にさかのぼると伝えられ、約700年の歴史を持つ。古くは森水無八幡神社の祭礼として地域に根付き、田植えの所作を演じることで翌年の豊作を予祝してきた。江戸時代を通じて飛騨地方の代表的な神事として継承され、戦後の急速な近代化のなかでも地元の保存会が中心となって伝統を守り続けてきた。
+祭りの主役となる「踊り子」は、毎年2月7日の「神主（テテ）頼みの儀」において氏子の中から選ばれます。この儀式では、その年の祭りの進行一切を取り仕切る「神主（テテ）」も同時に決定されます。選ばれた若者たちは神聖な役割を担うことになり、本楽祭に向けて心身を清め、厳しい練習に励みます。この期間中、彼らは特定の禁忌を守り、日常生活とは異なる神聖な領域に入ることが伝統とされています。
+
+本楽祭の中心となるのは、森水無八幡神社の社前の祭場で行われる一連の農耕儀礼です。中央に据えられた大太鼓を背景に、踊り子が「柄鍬餅（えくわもち）」と呼ばれる柄の長い鍬の形をした神具を力強く振りかざし、大太鼓の面を打ちつける「田打ち」の所作が行われます。これはまさに田楽の原初的な姿を今日に伝えるものであり、力強くも優雅な動きは見る者の心を古代へと誘います。さらに踊り子は花笠をかぶり、「ささら」という竹製の楽器をすり鳴らしながら、冬の歌、春の歌、そして鶯の歌を順に唱和し、季節の移ろいを表現します。
+
+「下呂の田の神祭」は、このように飛騨地方では珍しく古風な田遊びの一種として完全な形で伝承されており、その地方的特色の顕著さから高い文化的価値を認められています。国の重要無形民俗文化財への指定は昭和56年（1981年）1月21日付であり、保存団体「下呂の田の神祭保存会」が中心となって伝統の継承と保護に努めています。雪が残る2月の厳寒の中で開催されるこの祭りは、春を待ちわびる人々の祈りと、農業への感謝の気持ちが凝縮された、まさに生きた民俗文化財と言えるでしょう。
 
 ## 見どころ
+**「神主（テテ）頼みの儀」と一週間の準備期間**
+2月7日に行われるこの儀式は、祭りの準備の正式なスタートを告げるものです。神主（テテ）と踊り子が決定され、彼らを中心に祭りへの準備が本格化します。この日から本楽祭までの一週間、地域全体が祭りムードに包まれ、各種の前行事や稽古が連日行われます。訪問者はこの期間中、普段は見られない準備の風景や、地域の人々の祭りへの熱意を垣間見ることができるかもしれません。
 
-祭りの中心は、白塗りの化粧と独特の装束を身につけた「翁（おきな）」「巫女（みこ）」「鍬持ち（くわもち）」など、田植え作業を象徴する役柄の人々による所作である。彼らが拝殿で田起こしから田植え、収穫までの一連の農作業を厳かに演じ、神に翌年の豊作を願う。2月14日の本祭では夜を徹して神楽と田楽が奉納され、地域住民が篝火を囲んで参列する幻想的な光景が広がる。
+**試楽祭（しがくさい）の夜の奉納行事**
+2月13日の夜には森水無八幡神社の境内で、本番を前にした様々な奉納行事が行われます。これは本楽祭の前夜祭としての意味合いを持ち、厳かな雰囲気の中で地域の人々が集います。深夜には参加者による禊の儀式が行われ、翌日の本楽祭に備えて心身を浄めます。暗闇の中での神事は、祭りの神聖さを一層引き立てます。
 
-## 開催情報
+**色鮮やかな花笠と踊り子の優雅な舞**
+祭りの象徴とも言えるのが、4人の踊り子が被る大きな花笠です。見渡す限り雪景色の中、赤や白、金色の造花で飾られた豪華な花笠が鮮やかに映えます。この花笠は春の訪れを象徴しており、踊り子たちは優雅でありながら力強い舞を披露し、観客を魅了します。
 
-開催地は岐阜県下呂市森。最寄駅はJR高山本線「下呂駅」で、駅から徒歩約20分。開催期間は毎年2月7日から14日で、本祭は2月14日。冬季の山間部開催のため、防寒対策と積雪に備えた靴が必須である。観覧は無料で、神事中の撮影には一部制限があるため現地の指示に従う必要がある。
+**柄鍬餅（えくわもち）による田打ちの所作**
+踊り子による演目の白眉は、柄鍬餅を用いた一連の所作です。長い柄の先に餅や鍬を模した造形物が取り付けられたこの神具を、踊り子は頭上高く振りかざし、大太鼓の面を力強く打ち鳴らします。そのリズミカルで力強い音は、大地を耕す農作業のエネルギーそのものを表現しており、見る者に豊作への切実な祈りを感じさせます。
 
-## 周辺の見どころ
+**ささらと鶯の歌で紡ぐ春の訪れ**
+踊り子は「ささら」と呼ばれる竹製のすり楽器を操りながら、独特の節回しで季節の歌を謡い上げます。冬の歌から春の歌、そして鶯の歌へと次第に移り変わる様は、まさに季節の移ろいを音楽と舞で描き出しています。特に鶯の歌の三首目が終わると同時に花笠を懐中に納める所作は、この一連の演目のクライマックスであり、高度な芸術性を感じさせます。
 
-下呂温泉は日本三名泉のひとつに数えられ、祭り観覧と合わせた湯治旅として人気が高い。下呂温泉合掌村では飛騨地方の合掌造り家屋を移築展示しており、農村文化を体感できる。冬季は周辺の濁河温泉や御嶽山麓のスキー場も楽しめる。','## Overview
+**縁起物の投げ込み「笠奪い」**
+祭りのクライマックスは、神社境内の参集者に向けて「寄進笠（花笠）」「赤白団子」「小竹箸（コイ箸）」が一斉に投げ込まれる「笠奪い」の瞬間です。これらの縁起物を手に入れると、その年一年を幸せに過ごせる、あるいは無病息災や商売繁盛に恵まれると古くから言い伝えられています。観客は一斉に縁起物を奪い合い、厳かだった祭りの雰囲気が一転、熱狂と歓喜に包まれます。
 
-Gero no Ta no Kami Matsuri (下呂の田の神祭) is an ancient Shinto ritual held from February 7 to 14 at Morimina shi Hachiman Shrine in the Mori district of Gero City, Gifu Prefecture. It prays for a bountiful harvest in the coming year and was designated an Important Intangible Folk Cultural Property of Japan in 1976. It is one of the most representative yoshuku (pre-celebratory) rituals in the Hida region.
+**別れの舞と御旅行列**
+本楽祭の締めくくりとして、下呂温泉合掌村の「しらさぎ座」で獅子舞（別れの舞）が披露されます。合掌村内の池で禊を行った約200名の一行は、色とりどりの衣装で身を固め、森水無八幡神社へと向かう「御旅」に出発します。この優雅で長大な行列は、深い雪が残る飛騨路の風景に彩りを添え、祭りのフィナーレを飾る荘厳な景観を創り出します。
 
-## History
+## 開催情報・アクセス
+1. **正式名称:** 下呂の田の神祭（通称：花笠祭り）
+2. **開催日程:** 毎年2月7日～14日。主な公開行事は2月13日（試楽祭）と2月14日（本楽祭）。※ただし、年によっては一般公開の規模が変更される場合があります（例：2024年は本楽祭が一般非公開）。最新の開催日程や公開状況は必ず下呂市公式サイトで確認してください。
+3. **開催場所:** 森水無八幡神社（岐阜県下呂市森1321）および下呂温泉合掌村
+4. **アクセス:** JR高山本線「下呂駅」から徒歩約10分（森水無八幡神社まで）。自動車の場合は、中央自動車道「中津川IC」から国道257号・41号経由で約1時間。
+5. **駐車場:** 市営駐車場あり（約70台収容、有料）。1時間無料、以降30分ごとに100円。祭り開催中は周辺道路が大変混雑するため、公共交通機関の利用が推奨されます。
+6. **問い合わせ先:** 下呂市観光課（0576-24-2222）または下呂市総合観光案内所（0576-25-4711）
+7. **入場料:** 境内への見学は無料
+8. **主催:** 下呂の田の神祭保存会、森水無八幡神社
 
-The festival is said to have originated in the Kamakura to Muromachi period, giving it a history of approximately 700 years. As a ritual of Morimina shi Hachiman Shrine, it has long been rooted in the local community, with participants performing the motions of rice planting to predict and pray for an abundant harvest. Despite the rapid modernization of postwar Japan, local preservation societies have continued to safeguard this tradition.
+## 周辺情報
+岐阜県下呂市は、有馬温泉、草津温泉と並ぶ「日本三名泉」の一つに数えられる下呂温泉の湯治場として名高い地域です。祭りの鑑賞後は、歴史ある温泉街に立ち並ぶ旅館やホテルで、アルカリ性単純温泉の名湯を存分に堪能することができます。祭り期間中は特に多くの観光客で賑わい、温泉と祭りの両方を楽しむプランが人気です。
+
+もう一つのメイン会場である「下呂温泉合掌村」は、飛騨地方の伝統的な合掌造りの家屋が移築・公開されている野外博物館です。約10ヘクタールの敷地内には、国の重要文化財を含む貴重な建物が立ち並び、冬には美しい雪景色の中で祭りの神事が行われます。合掌村内の「しらさぎ座」では獅子舞が披露され、村内の池では激しい禊の儀式が執り行われるなど、祭りの舞台としても重要な役割を果たしています。
+
+周辺観光としては、国の名勝に指定されている飛騨川の清流や、地域の特産品を揃えた物産館などがあります。食文化においては、飛騨牛、朴葉味噌、そして地元の酒蔵が醸す日本酒などが特に有名で、祭り見学と組み合わせることでより深く飛騨路の魅力を堪能できます。冬の下呂温泉郷は、祭りと湯めぐり、そして郷土料理の三拍子が揃った特別な体験を提供してくれるでしょう。
+
+## 関連情報
+1. **文化財指定:** 昭和56年（1981年）1月21日付で国の重要無形民俗文化財に指定されている。これは日本の祭りや民俗芸能の中でも高い評価を得ている証である。
+2. **保存団体:** 伝統の継承と保護を目的として組織された「下呂の田の神祭保存会」が中心となり、後継者の育成や祭典の運営を行っている。
+3. **「田の神祭となえ詞」:** 祭りの儀式の中で唱えられる独特の詞章が伝承されている。この詞は古語や方言を含み、民俗学や言語学の観点からも貴重な資料とされている。
+4. **予祝（よしゅく）の文化:** 実際の収穫を前もって祝う予祝行事は、日本各地に類似の例が存在する。本祭りはその中でも特に農耕儀礼の古態を色濃く保つものとして、学術的に高い評価を受けている。
+5. **踊り子の条件:** 踊り子は毎年氏子の中から選ばれる若者であり、神聖な役割を担うことから、祭り期間中は特定の行動を慎むなどの禁忌が伝統的に課せられる。
+6. **獅子舞:** 型のよく整った獅子舞も本祭りの重要な構成要素であり、田の神祭り独特の様式で演じられる。別れの舞として、祭りの最後を飾る。
+7. **関連行事の充実:** 「神主頼みの儀」「〆繩ない」「踊子決定」といった一連の前行事が計画的に行われる点も、この祭りの文化的な深みを形成している。','## Overview
+The Tanokami Festival of Gero, commonly known as the Hanagasa Festival, is a traditional annual event held in February at Moriminashi Hachiman Shrine in Gero City, Gifu Prefecture. Designated as an Important Intangible Folk Cultural Property of Japan on January 21, 1981 under Showa 56, this festival is a living piece of cultural heritage. It is believed to be a direct descendant of medieval dengaku and ta-asobi, a form of music and dance performed in agrarian communities across premodern Japan. The festival is particularly valued for its strong preservation of the yoshu concept, a pre celebration ritual designed to ensure and welcome a bountiful harvest for the coming year. The festival is officially known as the Tanokami Festival, but its popular nickname, Hanagasa Festival, comes from the vividly colorful hats worn by the central dancers.
+
+The Tanokami Festival is widely celebrated as the herald of spring in the Hida region, a traditional area known for its deep snow and distinct culture. In practice, the festival involves a series of elaborate rituals that begin on February 7 with the Tete-danomi no gi, a ceremony to select the Shinto priest and the dancers for that year. This is followed by a week of preparation, culminating in the public events of the Shigaku-sai rehearsal festival on the night of February 13 and the main festival, the Hongaku-sai, on February 14. Over this week long period, the Gero Onsen area is enveloped in a unique atmosphere that is both solemn and festive. The approximately 200 local participants, dressed in colorful traditional costumes, draw numerous spectators who come to witness this deeply rooted winter tradition of the Hida region, often framed by beautiful snowy landscapes.
+
+## History and Origin
+The precise origins of the Tanokami Festival remain uncertain due to a lack of extensive historical documentation. However, according to local tradition, it is believed to have been established roughly 400 to 500 years ago, which places its origins in the Muromachi or Sengoku period of Japanese history. This timeframe suggests the festival has its roots in the medieval agrarian society of the area. It is thought to derive from a local variation of dengaku, a folk performing art that evolved within Japanese farming communities, often involving music, dance, and simple theatrical elements related to cultivation.
+
+The core purpose of the festival is deeply intertwined with the history of rice cultivation in Japan. Specifically, it is a form of ta-asobi, a ritual reenactment of the rice farming cycle. The entire process of rice cultivation, from plowing the fields and planting seedlings to harvesting and threshing, is symbolically performed through dance and ritual actions. The festival has exceptionally preserved this complete form of ta-asobi over the centuries, making it an exceedingly valuable cultural asset for understanding premodern Japanese agricultural rites and beliefs.
+
+The central figures of the festival, the four odoriko dancers, play a pivotal role in this historical continuity. They are chosen from the local parishioners, the ujiko, during the Tete-danomi no gi on February 7. This ceremony also appoints the Tete, a Shinto priest figure who will oversee all the complex rituals of the festival. The selected young men assume a sacred role and dedicate themselves to purifying their bodies and minds, engaging in rigorous practice and rehearsals throughout the week leading up to the main festival. According to longstanding tradition, they are obligated to observe specific taboos during this period. These restrictions signify their entry into a sacred realm distinct from everyday life, underscoring the seriousness and sanctity of their duty.
+
+The main public event of the festival takes place on February 14. The highlight is the series of agricultural rituals performed at the ceremonial ground in front of Moriminashi Hachiman Shrine. The performance space is centered around a large drum placed on a stand. The odoriko perform the act of ta-uchi, or rice field plowing, using a unique tool called the ekuwamochi. This is a long handled implement resembling a combination of a wooden hoe and a pestle, often decorated or shaped with significance. The dancer swings this implement down with great force and precision to strike the large drum, producing a powerful resonant sound. This striking visual and auditory display vividly transmits the primordial image of dengaku to the present day. Following the ta-uchi, the dancers don their magnificent flower hats, the hanagasa. They then play a bamboo instrument called the sasara, which produces a rasping sound by rubbing sticks or bamboo plates together, and chant a specific sequence of seasonal songs. The songs progress from lyrics about winter, moving into the themes of spring, and culminating in the song of the uguisu, the Japanese bush warbler which is a classic symbol of the changing season. This musical progression perfectly expresses the awaited transition of seasons, from the cold of winter to the vitality of spring.
+
+The Tanokami Festival of Gero is considered a rare and exceptionally well preserved example of archaic ta-asobi in the Hida region. It is recognized for its high cultural value because of its distinct local characteristics that have been maintained without significant alteration. It was formally designated as an Important Intangible Folk Cultural Property of Japan on January 21, 1981. The preservation society, officially known as the Tanokami Festival Preservation Society of Gero, diligently works to manage, maintain, and pass down its complex traditions through succeeding generations. Held in the severe cold of February, with snow frequently lingering on the ground in the mountainous Hida region, this festival embodies the deep seated prayers of local people for a good harvest and their enduring gratitude for agriculture. It stands as a living piece of folk cultural heritage, connecting the present generation with their ancestors from the medieval period.
 
 ## Highlights
 
-The central feature is a series of performances by villagers dressed as symbolic agricultural figures — the elder (okina), the shrine maiden (miko), and the hoe-bearer (kuwa-mochi) — wearing white facial makeup and distinctive costumes. On the hall of the shrine, they solemnly enact the full cycle of rice cultivation, from tilling the soil to planting and harvesting. The main festival on February 14 features overnight performances of kagura (sacred music) and dengaku (rice-field dance), with local residents gathered around bonfires in a fantastical scene.
+**The Tete-danomi no Gi and the Week of Preparation**
+This formal ritual is held on February 7 and marks the official beginning of the festival preparations for the year. The Tete, who will act as the main Shinto priest for the festival, and the four odoriko dancers are formally decided during this ceremony. The entire local community then begins its active preparations for the festival. Over the following week, the town is increasingly filled with a growing festival atmosphere. Various preliminary events such as the shimenawa-nai, the ritual making of sacred straw ropes, and daily rehearsals take place. This lead up period allows observers to witness the community intense dedication to their traditions.
 
-## Event Information
+**The Shigaku-sai Rehearsal Festival Night Performances**
+On the night of February 13, a series of dances and musical performances are dedicated at the precincts of Moriminashi Hachiman Shrine. This event is a crucial prelude to the main festival and a significant occasion for the local community to gather in a solemn atmosphere. The performances are conducted with quiet reverence. Late into the night, a crucial purification ceremony known as misogi is performed. The participants, especially the odoriko, cleanse their bodies using cold water, often in a specially prepared space, to achieve spiritual purity for the main festival rituals the following day.
 
-The venue is Morimina shi Hachiman Shrine in Mori, Gero City, Gifu Prefecture. The nearest station is Gero Station on the JR Takayama Main Line, about a 20-minute walk away. The festival runs annually from February 7 to 14, with the main ritual on February 14. As it takes place in a mountainous region in winter, warm clothing and snow-ready footwear are essential. Admission is free, though photography may be restricted during certain rituals — visitors should follow on-site instructions.
+**The Vibrant Hanagasa and the Graceful Dance of the Odoriko**
+The most visually striking and iconic element of the Tanokami Festival is the large, beautifully ornate flower hats worn by the four odoriko dancers. These hanagasa are adorned with vivid red, white, and gold artificial flowers, making them stand out brilliantly against the stark, often snowy, winter landscape. These iconic hats are a symbol of the awaited spring. The dancers captivate the audience with their performance, which combines elements of elegance and powerful, deliberate movements, perfectly embodying the themes of the festival.
 
-## Nearby Attractions
+**The Ta-uchi Ritual with the Ekuwamochi**
+The absolute highlight of the odoriko performance is the ta-uchi rice field plowing ritual, executed with the distinctive ekuwamochi implement. This unique ritual item has a long handle and a sculpted head that represents a traditional wooden hammer or a farmer hoe. The dancer raises it high overhead and swings it down with practiced force to strike the large drum at the center of the performance area. The resulting deep, rhythmic sound is intended to embody the energy of tilling the earth in preparation for the coming planting and harvest season.
 
-Gero Onsen, ranked as one of Japan''s three most famous hot springs, makes the festival ideal for combining with a hot-spring retreat. The Gero Onsen Gassho Village preserves relocated thatched-roof farmhouses from the Hida region, offering a glimpse of rural culture. Nearby Nigorigo Onsen and ski resorts at the foot of Mount Ontake are also accessible in winter.','gero-no-ta-no-kami-matsuri','gero-no-ta-no-kami-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**The Spring Transition through the Sasara and Uguisu Songs**
+After the ta-uchi, the odoriko demonstrate their artistic skills by playing the bamboo rasp instrument called the sasara. While manipulating this instrument to create a distinct scraping rhythm, they chant the traditional melodies. The progression of their songs is a key narrative device. They begin with songs evoking the feelings of winter, then smoothly transition into songs of spring, and finally reach the celebrated song of the uguisu, the Japanese bush warbler. The precise moment when the third verse of the uguisu song concludes, the dancers tuck their flower hats neatly into their chests, marking the climax of this entire performance sequence.
+
+**The Climactic Kasa-ai Hat Scramble**
+The climax of the entire festival, known for generating the most excitement, is the kasa-ai or hat scramble. During this moment, the organizers throw a large number of kisen-gasa donated decorated flower hats, shiroaka dango red and white rice dumplings, and koi-bashi small bamboo chopsticks into the assembled crowd of spectators at the shrine. It is a deeply held local belief that successfully catching one of these items guarantees a year of happiness, freedom from illness, and success in business for the catcher. The usually solemn and restrained atmosphere of the festival suddenly transforms into a scene of joyful chaos and excitement as the crowd energetically scrambles for these auspicious offerings, creating a memorable finale.
+
+**The Farewell Lion Dance and the Otabi Procession**
+The events of the main festival are concluded with a lion dance, the shishi-mai, performed at the Shiragi-za hall located within the Gero Onsen Gassho Village. Before the dance, the performers conduct a purification ritual by immersing themselves in the cold pond located within the village grounds. Following this, a large procession of approximately 200 participants, dressed in a wide variety of colorful traditional costumes, forms up to undertake the otabi journey back to Moriminashi Hachiman Shrine. This long, elegant, and visually stunning procession winds through the snowy landscape, adding a vibrant splash of color and motion to the winter scenery, providing a beautiful and impressive closure to the festival.
+
+## Event Information and Access
+1.  **Official Name:** The Tanokami Festival of Gero, commonly known as the Hanagasa Festival.
+2.  **Date:** Annually from February 7 to February 14. The main public events are focused on the night of February 13 (Shigaku-sai) and the daytime of February 14 (Hongaku-sai). It is crucial to note that the format and public accessibility of the festival can vary by year. For instance, in 2024, the main festival was not open to general public viewing. Therefore, checking the official Gero City website for the definitive schedule and accessibility information is absolutely essential before planning a visit.
+3.  **Location:** The primary locations are Moriminashi Hachiman Shrine (1321 Mori, Gero City, Gifu Prefecture) and the Gero Onsen Gassho Village.
+4.  **Access:** By train, Moriminashi Hachiman Shrine is approximately a 10 minute walk from Gero Station on the JR Takayama Main Line. By car, it is about a 1 hour drive from the Nakatsugawa Interchange on the Chuo Expressway, using Routes 257 and 41.
+5.  **Parking:** While a city operated parking lot is available with around 70 spaces at a paid rate, it fills up very quickly. The first hour is typically free, with a fee of 100 yen per 30 minutes thereafter. Given the severe congestion on surrounding roads during the festival period, using the train and walking is strongly recommended.
+6.  **Inquiries:** For the most reliable information, contact the Gero City Tourism Section at 0576-24-2222 or the Gero City General Tourist Information Center at 0576-25-4711. The official Gero City website is the best source for detailed and updated schedules.
+7.  **Admission:** Viewing the shrine precincts and the outdoor rituals is generally free of charge.
+8.  **Organizers:** The festival is jointly organized by the Tanokami Festival Preservation Society of Gero and Moriminashi Hachiman Shrine.
+
+## Surrounding Area
+Gero City is renowned throughout Japan as being home to Gero Onsen, one of the prestigious Three Great Springs of Japan alongside Arima and Kusatsu Onsen. This makes the area a fantastic destination for hot spring bathing. After enjoying the rare cultural experience of the festival, visitors can easily warm up and relax in the famous alkaline simple hot springs. These are available at the numerous traditional ryokan inns and modern hotels that line the streets of the historic hot spring town. The town is particularly lively during the festival period, and many visitors plan their trip around the combination of witnessing the ancient festival and enjoying the healing properties of the local waters.
+
+The Gero Onsen Gassho Village serves a dual role as both a tourist attraction and a main venue for the festival itself. This open air museum features several traditional gassho zukuri thatched roof farmhouses that have been carefully relocated from their original mountain locations in the Hida region. Visitors can explore these historic structures to learn about local architecture. Within this museum setting, the festival holds its purification rituals in the village pond and the farewell lion dance in the Shiragi-za hall, directly connecting the cultural landscape to the living tradition.
+
+For those looking to explore the wider region, the area offers beautiful natural scenery, including the clear waters of the Hida River which is designated as a National Place of Scenic Beauty. Local specialty product markets are open for shopping. The local cuisine is a major draw, with Hida beef being the most famous, often prepared as succulent steaks or sukiyaki. Hoba miso, which is miso paste grilled on a magnolia leaf, is another deeply regional specialty. Locally brewed sake from the Gero area also pairs wonderfully with the winter season. Combining the festival visit with these culinary delights offers a richly immersive experience of the Hida winter, covering culture, nature, relaxation, and gastronomy.
+
+## Related Information
+1.  **Cultural Property Designation:** The Tanokami Festival was officially designated an Important Intangible Folk Cultural Property of Japan by the national government on January 21, 1981. This is the highest form of recognition for folk traditions in Japan.
+2.  **Preservation Society:** The Gero Tanokami Festival Preservation Society is the core organization tasked with maintaining the tradition, training the next generation of performers and organizers, and managing the logistics of the festival each year.
+3.  **Tanokami Festival Narration Prayer:** A unique narrative text is chanted during the rituals of the festival. This text is considered valuable for academic study because it preserves archaic language and local dialects not commonly used today.
+4.  **Yoshu Pre celebration Culture:** This festival is a prime example of yoshu, a tradition of pre celebration of the harvest to ensure it will be successful. While yoshu festivals exist in various forms across Japan, the Tanokami Festival is notably well preserved in its ancient form, giving it high academic importance in the field of folklore and agricultural history.
+5.  **Role of the Odoriko Dancers:** The four odoriko dancers are selected annually from the local parishioner community. Holding this role is considered a great honor and a sacred duty, and the dancers are traditionally required to observe specific behavioral and dietary restrictions during the festival period to maintain their purity.
+6.  **The Lion Dance Shishi mai:** A well-structured lion dance is an essential part of the festival. It is performed in a specific style that is characteristic of the Tanokami Festival. It is usually presented as the farewell dance, helping to bring the festival events to a formal close.
+7.  **Depth of the Preparatory Rituals:** The festival cultural richness is not limited to the main events. The structured sequence of preliminary rituals, including the selection ceremonies, rope making, and rehearsals, provides deep insight into the community based nature of the tradition. These events allow observers to understand the full context of the main festival performances.
+8.  **Gero City General Tourist Information Center:** This is the primary public contact point for visitors. Its address, phone number 0576-25-4711, and operating hours should be checked online for seasonal variations.
+9.  **Photography and Videography Rules:** Due to the sacred nature of many of the rituals, there may be specific restrictions on photography or videography within the shrine precincts during the ceremonies. Visitors are expected to pay close attention to announcements and signs, and to follow instructions from the organizers and shrine staff without causing disruption.','gero-no-ta-no-kami-matsuri','gero-no-ta-no-kami-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11280345','やすらい祭','Yasurai Matsuri',NULL,NULL,'Q500955','今宮神社','Imamiya Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%99%E3%82%89%E3%81%84%E7%A5%AD',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11353495','七尾港まつり','Nanao Port Festival','石川県七尾市で開催される市民祭',NULL,'Q11353471','七尾マリンパーク','Nanao Marine Park','石川県','chubu',NULL,NULL,1940,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11367985','丸亀お城まつり','Marugame Castle Festival',NULL,NULL,'Q250658','丸亀城','Marugame Castle','香川県','shikoku',NULL,NULL,1950,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E3%81%8A%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
