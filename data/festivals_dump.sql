@@ -20732,29 +20732,143 @@ Among the Three Great Temple and Shrine Festivals of Hiroshima that take the sam
 INSERT INTO "festivals" VALUES('Q11617035','茂原七夕まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E8%8C%82%E5%8E%9F%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11622475','薬師祭植木市',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E7%A5%AD%E6%A4%8D%E6%9C%A8%E5%B8%82',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11580506','白鬚神社の田楽',NULL,'佐賀県佐賀市に伝わる民俗芸能',NULL,'Q11580503','白鬚神社','Shirahige Shrine','福岡県','kyushu',33.332142,130.325536,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%B0%E6%A5%BD',NULL,50,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
-INSERT INTO "festivals" VALUES('Q11582264','相生ペーロン祭','Aioi Peron Matsuri',NULL,NULL,NULL,NULL,NULL,'兵庫県','kinki',34.7822598,134.4710824,NULL,NULL,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Aioi%20Peron%20Matsuri%20July09%20325.jpg','https://ja.wikipedia.org/wiki/%E7%9B%B8%E7%94%9F%E3%83%9A%E3%83%BC%E3%83%AD%E3%83%B3%E7%A5%AD',NULL,90,'drafted','相生ペーロン祭は、兵庫県相生市の相生湾で毎年5月最終日曜日とその前日に開催される海上競漕の祭典である。中国・福建省発祥のドラゴンボートに似たペーロン船による競漕レースを中心に、花火大会や前夜祭が盛大に繰り広げられ、瀬戸内海沿岸を代表する初夏の風物詩として親しまれている。約10万人の観客が訪れる相生市最大の年間行事である。
+INSERT INTO "festivals" VALUES('Q11582264','相生ペーロン祭','Aioi Peron Matsuri',NULL,NULL,NULL,NULL,NULL,'兵庫県','kinki',34.7822598,134.4710824,NULL,5,'summer','http://commons.wikimedia.org/wiki/Special:FilePath/Aioi%20Peron%20Matsuri%20July09%20325.jpg','https://ja.wikipedia.org/wiki/%E7%9B%B8%E7%94%9F%E3%83%9A%E3%83%BC%E3%83%AD%E3%83%B3%E7%A5%AD',NULL,90,'drafted','## 概要
 
-ペーロンの起源は中国・長崎・相生という独特の伝播経路をたどる。1922年（大正11年）、相生の播磨造船所（後のIHI相生工場）で働いていた長崎県出身の労働者たちが、故郷で親しんでいたペーロン競漕を職場の親睦行事として持ち込んだのが始まりとされる。長崎のペーロンは中国・福建省から伝わった伝統行事であり、その流れを汲む相生のペーロンは、造船の街として発展した相生の労働者文化と融合し、独自の市民祭として発展した。戦後、造船所の労働組合活動や町内会対抗の形でレースが続けられ、現在では「相生市制施行記念」と「相生湾の海上安全祈願」を兼ねた市民総出の祭りとして定着している。
+相生ペーロン祭は、兵庫県相生市の相生湾で毎年5月最終日曜日に開催される、播州路に初夏を告げる一大イベントである。前夜祭として5月30日（土曜日）に海上花火大会が行われ、5月31日（日曜日）にペーロン競漕や陸上パレードなどの本祭が催される。2026年相生ペーロン祭は、5月30日（土）前夜祭海上花火大会、5月31日（日）ペーロン祭海上の部・陸上の部で開催されることが公式サイトで発表されている[aioi-peron.jp](https://aioi-peron.jp/)。
 
-ペーロン船は全長約13メートル、幅約1.6メートルの木造和船で、漕ぎ手28名、舵取り1名、太鼓打ち1名、銅鑼打ち1名の計31名で構成される。船首には龍頭の装飾が施され、色鮮やかな旗をなびかせて海上を疾走する。レースは町内会、企業、官公庁、学生などの所属チームに分かれて行われ、太鼓と銅鑼のリズムに合わせて漕ぎ手が一斉にオールを引く姿は圧巻である。優勝チームの栄誉は地域内で大きな名誉とされ、各チームは数か月前から練習を重ねて本番に臨む。
+この祭りの起源は、1922年（大正11年）に長崎県出身の播磨造船所（現IHI）従業員によって相生に伝えられたペーロン競漕にある。終戦までは毎年5月27日の海軍記念日に同社構内の天白神社の例祭として行われていたが、戦後は「相生港まつり」として復活し、1963年（昭和38年）から「相生ペーロン祭」として現在の形に発展した。ペーロン競漕は、龍の頭部をかたどった木造の船に総勢32名が乗り込み、銅鑼と太鼓のリズムに合わせて力強く漕ぎ進む勇壮な競技で、見る者に深い感動を与える。
 
-前夜祭にあたる土曜日の夜には、相生湾上空で花火大会が開催される。約5,000発の花火が湾を囲む山々に響きわたり、海面に反射する光が幻想的な情景を作り出す。湾の地形がスタジアム状の天然観覧席を形成しているため、どの角度から見ても迫力のある花火が楽しめる。
+## 歴史・由来
 
-会場周辺には屋台村が並び、相生かきや播磨灘の海産物、明石焼き、加古川名物のかつめしなど、播磨地方の郷土料理が味わえる。アクセスはJR山陽本線・赤穂線の相生駅から徒歩約20分、または無料シャトルバスで約5分。山陽新幹線相生駅からも接続良好で、姫路や赤穂城跡など兵庫県西部の観光地と組み合わせやすい立地である。瀬戸内海沿岸の初夏の風と海上競漕の熱気を体感できる、地方都市ならではの密度の高い祭りである。','The Aioi Peron Matsuri is a maritime racing festival held annually on the last Sunday of May and the preceding Saturday in Aioi Bay, Aioi City, Hyogo Prefecture. Featuring traditional rowing races between long boats known as peron, the festival has evolved into one of the most beloved early summer events along the Seto Inland Sea coast. Approximately one hundred thousand spectators attend across the two days, making it the largest annual gathering in Aioi and one of the more distinctive festivals in western Honshu.
+ペーロンの起源は、紀元前3世紀の中国戦国時代にさかのぼる。一説によれば、楚の宰相であった屈原は懐王を助けて善政を敷いた名宰相であったが、讒言により政界から退けられた。その後、懐王が秦の軍勢に捕えられ客死したことを嘆き、屈原は湖南省の汨羅江（べきらこう）に身を投じたという。人々はこれを悲しみ、龍船（白龍）を浮かべて競漕を行い、屈原の霊を慰めたことがペーロンの始まりとされている。ペーロンという名称は、中国語で「白龍」を意味する「パイロン」がなまったものである[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html)。
 
-The festival''s origins follow an unusual cultural transmission route from China through Nagasaki to Aioi. Peron racing itself traces its roots to Fujian Province in southern China, where dragon boat racing has been practiced for more than two thousand years as part of the Duanwu Festival. The tradition reached Nagasaki during the Edo period through the city''s role as Japan''s primary port of international trade, where Chinese residents introduced and adapted the practice for the conditions of Nagasaki Harbor. The transmission to Aioi came in 1922 during the Taisho period, when workers from Nagasaki Prefecture employed at the Harima Shipyard, a forerunner of the modern IHI Aioi Works, organized peron races as a way to maintain their hometown traditions and build camaraderie among the rapidly growing workforce of the shipbuilding city.
+日本へのペーロン伝来は1655年（明暦元年）とされている。その年、数隻の中国船が長崎港を訪れた際、強風のため出航できなくなった。乗組員たちは海神を慰めて風波を鎮めるために、港内でペーロン競漕を行った。長崎の人々はこの競漕を採り入れ、長崎の年中行事の一つとして定着させた。現在、日本国内でペーロン競漕が行われているのは、長崎県、兵庫県相生市、沖縄県など限られた地域である[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html)。
 
-The integration of peron racing into Aioi''s civic identity reflects the broader history of the city as a planned industrial community built around the shipyard. Through the Showa period, labor unions and neighborhood associations gradually organized the races into a structured annual competition, and after the Second World War the festival was formally established as an event commemorating the founding of Aioi as a municipality and praying for safety on the waters of the bay. Today, the festival is a city-wide event that involves participation from neighborhood associations, businesses, government offices, and schools, with teams training for months in preparation for the competition.
+相生にペーロンが伝わったのは1922年（大正11年）である。当時、播磨造船所（現IHI）には多くの長崎県出身者が働いており、彼らが故郷の伝統行事を懐かしんで社内の運動会の種目としてペーロン競漕を紹介した。翌1923年（大正12年）には、長崎型ペーロン船をモデルに3隻の船が同時に建造され、「天龍」「白龍」「神龍」と命名された。これらの船は長さ13.55メートル、幅1.75メートルで、艇長1名、舵取1名、監督2名、太鼓1名、銅ら1名、漕手34名の計40名が乗り組む大型船であった[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html)。
 
-A peron boat measures approximately thirteen meters in length and 1.6 meters in width, constructed from wood in a traditional Japanese style adapted from the original Chinese design. Each boat is crewed by thirty-one people: twenty-eight rowers seated in pairs along the length of the hull, a steersman at the stern controlling the rudder, a drummer who sets the pace with a small drum, and a gong player who provides additional rhythmic cues. The boats are decorated with carved dragon heads at the prow and brightly colored team flags fluttering from poles. When racing at full speed, with rowers pulling in unison to the rapid beats of drum and gong, the boats cut through the bay water in a display of physical coordination and group athletic intensity that is genuinely thrilling to watch.
+戦後、相生ペーロンは「相生港まつり」として復活し、前夜祭として花火大会も行われるようになった。1962年（昭和37年）には相生市、商工会議所、石川島播磨重工業（現IHI）の三者により「相生ペーロン祭協賛会」が結成され、翌1963年（昭和38年）から「相生ペーロン祭」として正式に開催されるようになった。2022年には伝来から100周年を迎え、現在までペーロン競漕の伝統は絶えることなく受け継がれている。歴代のペーロン船は10代にわたり建造され、現在は八代目「海龍・輝龍・蒼龍・瑞龍」、九代目「飛龍・雲龍・蛟龍・青龍」、十代目「天龍・白龍・神龍・昇龍」の12隻が使用されている[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html)。
 
-Races run throughout the main day of the festival, with teams competing in tournament brackets that produce eventual divisional champions. The course typically runs along a straight stretch of bay water of approximately three hundred meters, with viewing positions available along the curving shoreline and from designated piers extending into the harbor. The compact natural amphitheater formed by the bay''s surrounding hills provides excellent acoustics, allowing spectators to hear the drumming and the calls of team captains echoing across the water.
+## 見どころ
 
-The evening before the racing competition features a major fireworks display, with approximately five thousand fireworks launched over Aioi Bay. The hills surrounding the bay form a natural amphitheater that amplifies and reflects the sounds of the fireworks while the calm waters of the harbor mirror the colored explosions above. This combination creates a uniquely immersive viewing experience, with fireworks visible above, reflected below, and audible echoing from the surrounding slopes. Many spectators bring blankets or chairs to set up along the waterfront for an unhurried evening of viewing.
+**ペーロン競漕の迫力**
+ペーロン競漕では、龍の頭部を模した船首を持つ木造のペーロン船に、太鼓打ち1名、銅鑼打ち1名、舵取り1名、艇長1名、漕手28名の計32名が乗り込む。銅鑼と太鼓の「ドン！デン！ジャン！」という独特のリズムに合わせて、漕手たちが一斉に櫂を操る姿は、まるで龍が水面を駆け抜けるかのような壮観さである。この光景は、長崎から伝わった異国情緒と、播磨造船所の労働者たちの結束力が融合した、相生ならではの文化遺産である。
 
-Food stalls operate along the festival route on both days, offering specialties of the Harima region. Aioi oysters, raised in the rich waters of the Seto Inland Sea, feature prominently in grilled and fried preparations. Other regional dishes include akashi-yaki egg-rich dumplings from nearby Akashi, katsumeshi pork cutlet rice from Kakogawa, and various seafood preparations utilizing the abundance of the surrounding seas. Local sake breweries also typically maintain stalls during the festival, providing refreshment in keeping with the warm late spring weather.
+**天白みこし海上渡御**
+ペーロン祭の開幕を告げるのは、ペーロン船による「天白みこし海上渡御」である。午前9時から、天白神社の神輿をペーロン船が曳航し、相生湾を巡行する。神輿を載せた御座船がゆっくりと海上を進む様子は、神聖な儀式としての厳かさを醸し出している。この海上渡御は、造船所の守護神である天白神社への敬意と、航海安全への祈りが込められた伝統行事である。
 
-Access to the festival is convenient. JR Aioi Station, served by both the Sanyo Main Line and the Akoa Line, lies about twenty minutes on foot from the main festival area, with free shuttle buses available reducing the journey to roughly five minutes during festival hours. The Sanyo Shinkansen also stops at Aioi Station, allowing easy connections from major cities including Kobe, Osaka, and points along the Sanyo line. The festival pairs naturally with visits to other attractions of western Hyogo Prefecture, including Himeji Castle, the well-preserved Ako castle ruins associated with the famous tale of the forty-seven loyal retainers, and the seaside scenery of the Inland Sea coast.','aioi-peron-matsuri','aioi-peron-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
+**前夜祭海上花火大会**
+5月30日（土）の前夜祭では、相生湾で約5,000発の花火が打ち上げられる。号砲は19時30分、打ち上げは19時50分から20時40分まで行われる。湾全域に広がる花火は、水面に映り込んで二重の美しさを楽しむことができる。この花火大会は、ペーロン祭の幕開けを祝うとともに、夏季の訪れを告げる風物詩として、地元住民と観光客を魅了している。
+
+**陸上パレードの多彩なパフォーマンス**
+本祭の5月31日（日）には、相生市のメインストリートで陸上パレードが行われる。地元の学生による吹奏楽やダンス、各種団体によるパフォーマンスが披露され、ペーロン祭を陸上からも盛り上げる。パレードはみなと銀行前から中央通を経て市民体育館駐車場までの約2キロメートルを練り歩き、沿道は見物客で埋め尽くされる。このパレードは、海上の競漕と連動して、祭りを総合的なエンターテインメントとして完成させる重要な要素である。
+
+**ステージイベントとふれあい広場**
+相生市民体育館駐車場の特設ステージでは、午前9時50分から午後3時まで様々な演芸やパフォーマンスが行われる。また、相生市役所前とポート公園では「ふれあい広場」が開設され、バザーや模擬店が並び、多くの来場者で賑わう。これらのイベントは、地域住民と観光客が交流する場として機能し、祭りの一体感を高めている。
+
+**ペーロン船の展示と歴史学習**
+ポート公園周辺では、現役のペーロン船が展示され、間近でその造形美を観察することができる。龍の頭部をかたどった船首や、木造和船の伝統を継承した船体の曲線は、職人の技術の高さを物語っている。また、相生市歴史民俗資料館やペーロン海館では、歴代のペーロン船や関連資料が展示されており、訪れる人々にペーロンの歴史と文化を深く理解させる役割を果たしている。
+
+## 開催情報・アクセス
+
+- **開催日**: 2026年5月30日（土）前夜祭海上花火大会、5月31日（日）ペーロン祭海上の部・陸上の部[aioi-peron.jp](https://aioi-peron.jp/)
+- **会場**: 相生湾（ポート公園前）および相生市街地
+- **前夜祭花火大会**: 5月30日（土）号砲19:30、打ち上げ19:50～20:40、約5,000発
+- **ペーロン競漕スケジュール（5月31日）**: 天白みこし海上渡御9:00～、オープンレースAブロック9:30～、1部・2部レース（第一次予選）9:40～、女子レース（第一次予選）10:10～、オープンレースBブロック13:00～、決勝（2部15:30～、女子15:40～、1部15:50～）、ウイニングラン16:05～、閉会式16:15～[aioi-peron.jp](https://aioi-peron.jp/)
+- **陸上パレード**: 5月31日（日）11:00～13:00、みなと銀行前→中央通→市民体育館駐車場
+- **アクセス**: JR山陽新幹線・山陽本線「相生」駅下車、徒歩約15分（ポート公園方面）。ペーロン祭当日は駅周辺および会場周辺の交通規制が行われるため、公共交通機関の利用が推奨されている。駐車場は混雑が予想されるため、満車の場合は臨時駐車場が設けられることがあるが、詳細は公式サイトで確認する必要がある。
+- **観覧チケット**: ポート公園内の花火観覧には協賛入場チケットが必要。階段席は前売り券が割引価格で販売され、市内販売所やチケットぴあで購入可能。最新の販売状況は公式サイトで確認すること。
+
+## 周辺情報
+
+相生市は、瀬戸内海に面した港町であり、かつて播磨造船所（現IHI）の企業城下町として発展した。市の中心部にはJR相生駅があり、駅前にはペーロンの歴史を紹介する「相生市歴史民俗資料館」や、ペーロン船の展示・体験ができる「ペーロン海館」がある。ペーロン海館では、実際にペーロン船に乗る体験プログラムが実施されることもあり、祭りの時期以外でもペーロンの魅力に触れることができる。また、駅前広場には二代目ペーロン船「雲龍」が展示保存されており、訪れる人々の目を楽しませている。
+
+相生湾周辺には、ポート公園や相生市民体育館など祭りの主要会場が集中している。ポート公園は海に面した緑地公園で、ペーロン祭の海上競技の観覧に最適な場所である。また、市内には天白神社があり、ペーロン祭の海上渡御の出発点として信仰を集めている。この神社は播磨造船所の守護神として建立され、地域の産業と文化の結びつきを象徴する存在である。
+
+相生市の観光資源としては、瀬戸内海の眺望を楽しめる「相生湾ビューポイント」や、地元の海産物を味わえる飲食店が点在する。特に、相生湾で水揚げされた新鮮な魚介類を使った料理は、祭りの後に立ち寄る観光客に人気がある。また、近隣には赤穂市や姫路市などの観光地があり、相生ペーロン祭と併せて訪れることで、播州地方の歴史と文化をより深く体験することができる。
+
+## 関連情報
+
+1. **ペーロン競漕の全国分布**: 日本国内でペーロン競漕が行われているのは、長崎県長崎市、兵庫県相生市、沖縄県那覇市など限られた地域である。長崎のペーロンは1655年（明暦元年）に始まったとされ、相生のペーロンはその伝統を継承したものである[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html)。
+
+2. **ペーロン船の特徴**: 現在使用されているペーロン船は、長さ約13メートル、幅約1.58メートルで、龍の頭部をかたどった船首が特徴である。木造和船の伝統を受け継ぎながら、軽量化と強度向上が図られている。歴代のペーロン船は10代にわたり建造され、引退した船の一部は市内の施設で展示保存されている。
+
+3. **相生ペーロン祭協賛会**: 1962年に相生市、商工会議所、石川島播磨重工業（現IHI）の三者により結成された組織で、祭りの運営・企画を担っている。協賛会はペーロン船の維持管理や花火大会の実施、陸上パレードの調整など、多岐にわたる業務を遂行している。
+
+4. **ペーロン祭の100周年**: 2022年（令和4年）に相生ペーロンは伝来から100周年を迎えた。この節目に合わせて、特別な記念行事や展示が行われた。100周年を契機に、次世代への伝統継承の重要性が再認識されている。
+
+5. **ペーロン海館の活動**: 相生市の「ペーロン海館」では、ペーロン船の展示のほか、ペーロン競漕の体験教室や歴史講座が開催されている。また、マリンスポーツフェスティバルなど、ペーロン祭の協賛行事として様々なイベントが年間を通じて実施されている。
+
+6. **関連イベント**: ペーロン祭の同日には、相生市文化会館で「相生なぎさ短編映画祭」、市民体育館でINAC神戸レオネッサによるサッカー教室など、多彩な協賛行事が開催される。これらのイベントは、ペーロン祭の来場者にさらなる楽しみを提供し、地域全体の活性化に寄与している[aioi-peron.jp](https://aioi-peron.jp/archives/2410)。
+
+7. **最新情報の確認**: ペーロン祭の開催日程や内容は、毎年変更される可能性がある。特に、荒天時の中止やスケジュール変更、チケット販売状況などについては、必ず相生ペーロン祭協賛会の公式サイト（https://aioi-peron.jp/）で最新情報を確認する必要がある。駐車場の混雑状況や交通規制の詳細も、当日の公式サイトで案内される。','## Overview
+
+The Aioi Peron Festival is a major annual event held in Aioi Bay, Aioi City, Hyogo Prefecture, on the last Sunday of May, marking the arrival of early summer in the Banshu region. The festival begins with a pre-festival evening fireworks display on Saturday, May 30, followed by the main event on Sunday, May 31, featuring Peron boat races and a land parade. According to the official website, the 2026 Aioi Peron Festival will take place on May 30 (Saturday) for the pre-festival fireworks and May 31 (Sunday) for the main festival, including both the maritime and land programs[aioi-peron.jp](https://aioi-peron.jp/).
+
+The origins of this festival trace back to 1922, when employees of the Harima Shipyard (now IHI) who were originally from Nagasaki Prefecture introduced Peron boat racing to Aioi. Until the end of World War II, the races were held annually on May 27, Navy Memorial Day, as part of the festival of the Tenpaku Shrine located within the shipyard grounds. After the war, the event was revived as the Aioi Port Festival, and in 1963 it evolved into the Aioi Peron Festival as it is known today. Peron boat racing involves 32 crew members boarding a wooden boat shaped like a dragon''s head, rowing powerfully to the rhythm of gongs and drums, creating a magnificent spectacle that deeply impresses spectators.
+
+## History and Origins
+
+The origins of Peron boat racing date back to the 3rd century BC in China during the Warring States period. According to legend, Qu Yuan, a prime minister of the Chu state, served King Huai with benevolent governance, but was forced out of politics due to slanderous rumors. After King Huai was captured by the Qin army and died in exile, Qu Yuan, lamenting the fate of his country, threw himself into the Miluo River in Hunan Province. The people, deeply saddened, floated dragon boats on the river and held boat races to appease his spirit. This is considered the beginning of Peron boat racing. The name Peron is believed to have derived from the Chinese word "Pailong," meaning "white dragon"[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html).
+
+Peron boat racing was introduced to Japan in 1655. In that year, several Chinese ships visited Nagasaki Port but were unable to depart due to strong winds. The crew members held a Peron boat race in the harbor to appease the sea gods and calm the wind and waves. People of Nagasaki adopted this practice and it became one of the city''s annual events. Today, Peron boat racing in Japan is conducted only in limited areas, including Nagasaki Prefecture, Aioi City in Hyogo Prefecture, and Okinawa Prefecture[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html).
+
+Peron was introduced to Aioi in 1922. At that time, many employees of the Harima Shipyard (now IHI) were originally from Nagasaki Prefecture. They introduced Peron boat racing as an event for the company''s sports day, nostalgic for their hometown tradition. In the following year, 1923, three boats were built simultaneously based on the Nagasaki-style Peron boat design, named Tenryu, Hakuryu, and Shinryu. These boats measured 13.55 meters in length and 1.75 meters in width, carrying a total of 40 people: one boat captain, one helmsman, two supervisors, one drummer, one gong player, and 34 rowers. Today''s boats are slightly smaller, measuring 13 meters in length and 1.58 meters in width, with a crew of 32: one boat captain, one helmsman, one drummer, one gong player, and 28 rowers[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html).
+
+After the war, the Aioi Peron was revived as the Aioi Port Festival, and a fireworks display was added as a pre-festival event. In 1962, the Aioi City, the Chamber of Commerce and Industry, and Ishikawajima-Harima Heavy Industries (now IHI) jointly established the Aioi Peron Festival Association. The following year, 1963, the event was officially named the Aioi Peron Festival and has continued to this day. In 2022, the festival celebrated its 100th anniversary since the introduction of Peron to Aioi. The tradition of Peron boat racing has been passed down without interruption, and the boats themselves have evolved through ten generations. The twelve boats currently in use are the eighth generation (Kairyu, Kiryu, Soryu, Zuiryu), the ninth generation (Hiry, Unryu, Koryu, Seiryu), and the tenth generation (Tenryu, Hakuryu, Shinryu, Shoryu)[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html).
+
+## Highlights
+
+**The Thrill of Peron Boat Racing**
+In Peron boat racing, a crew of 32 people, including one drummer, one gong player, one helmsman, one boat captain, and 28 rowers, board a wooden boat with a bow shaped like a dragon''s head. The rowers pull their oars in unison to the unique rhythm of the gong and drum, creating a spectacular sight as if a dragon is racing across the water surface. This scene is a unique cultural heritage of Aioi, blending the exotic atmosphere brought from Nagasaki with the spirit of solidarity among the workers of the Harima Shipyard.
+
+**Tenpaku Shrine Maritime Procession**
+The opening act of the Peron Festival is the Tenpaku Shrine Maritime Procession, where a Peron boat tows a portable shrine. Starting at 9:00 AM, the sacred palanquin of Tenpaku Shrine is carried on a Peron boat, which cruises around Aioi Bay. The slow and solemn movement of the boat carrying the shrine creates a sacred and dignified atmosphere. This maritime procession is a traditional ritual expressing respect for Tenpaku Shrine, the guardian deity of the shipyard, and prayers for safe navigation.
+
+**Pre-Festival Evening Fireworks Display**
+On Saturday, May 30, the pre-festival event features approximately 5,000 fireworks launched over Aioi Bay. The signal cannon sounds at 7:30 PM, and the fireworks are launched from 7:50 PM to 8:40 PM. The fireworks display over the entire bay creates a double beauty reflected on the water surface. This fireworks display not only celebrates the opening of the Peron Festival but also serves as a seasonal tradition announcing the arrival of summer, captivating both local residents and visitors.
+
+**Diverse Performances in the Land Parade**
+On the main day, Sunday, May 31, a land parade is held on the main street of Aioi City. Local student bands, dance groups, and various organizations perform, adding excitement to the festival from the land side. The parade proceeds from the front of Minsato Bank through Chuo-dori to the Aioi City Gymnasium parking lot, a distance of approximately two kilometers, with the streets lined with spectators. This parade complements the maritime races and completes the festival as a comprehensive entertainment event.
+
+**Stage Events and Community Plaza**
+A special stage set up at the Aioi City Gymnasium parking lot hosts various performances and entertainments from 9:50 AM to 3:00 PM. Additionally, a Community Plaza is established in front of the Aioi City Hall and Port Park, featuring bazaars and food stalls, attracting many visitors. These events function as a place for interaction between local residents and tourists, enhancing the sense of unity of the festival.
+
+**Peron Boat Exhibition and Historical Learning**
+Near Port Park, actual Peron boats are on display, allowing visitors to observe their intricate craftsmanship up close. The dragon-head-shaped bow and the curved hull that inherits the tradition of wooden Japanese boats demonstrate the high skill of the craftsmen. Furthermore, the Aioi City Museum of History and Folklore and the Peron Kai Hall display historical Peron boats and related materials, providing visitors with a deep understanding of the history and culture of Peron.
+
+## Event Information and Access
+
+- **Event Dates**: May 30 (Saturday), 2026, for the pre-festival evening fireworks; May 31 (Sunday), 2026, for the main Peron Festival including maritime and land programs[aioi-peron.jp](https://aioi-peron.jp/)
+- **Venue**: Aioi Bay (Port Park area) and Aioi city center
+- **Pre-Festival Fireworks**: May 30 (Saturday), signal cannon at 7:30 PM, launch from 7:50 PM to 8:40 PM, approximately 5,000 fireworks
+- **Peron Boat Race Schedule (May 31)**: Tenpaku Shrine Maritime Procession at 9:00 AM, Open Race A Block at 9:30 AM, Division 1 and 2 Races (first preliminaries) at 9:40 AM, Women''s Race (first preliminaries) at 10:10 AM, Open Race B Block at 1:00 PM, Finals (Division 2 at 3:30 PM, Women''s at 3:40 PM, Division 1 at 3:50 PM), Winning Run at 4:05 PM, Closing Ceremony at 4:15 PM[aioi-peron.jp](https://aioi-peron.jp/)
+- **Land Parade**: May 31 (Sunday), 11:00 AM to 1:00 PM, from Minsato Bank front through Chuo-dori to Aioi City Gymnasium parking lot
+- **Access**: About a 15-minute walk from Aioi Station on the JR Sanyo Shinkansen and Sanyo Main Line (toward Port Park). Traffic restrictions are in place in the station area and around the venue during the festival, so using public transportation is recommended. Parking lots are expected to be congested, and temporary parking may be available, but visitors should check the official website for details.
+- **Viewing Tickets**: A cooperation admission ticket is required for viewing the fireworks from within Port Park. Reserved seating tickets are available at a discounted price for advance purchase through local sales outlets and Ticket Pia. Visitors should check the official website for the latest sales information.
+
+## Surrounding Information
+
+Aioi City is a port town facing the Seto Inland Sea, which developed as a company town for the Harima Shipyard (now IHI). The city center is home to JR Aioi Station, near which are the Aioi City Museum of History and Folklore, which introduces the history of Peron, and the Peron Kai Hall, where Peron boats are exhibited and experiential programs are offered. At the Peron Kai Hall, visitors can sometimes participate in programs to actually ride a Peron boat, allowing them to experience the charm of Peron even outside the festival period. The second-generation Peron boat Unryu is displayed and preserved in the station square, delighting the eyes of visitors.
+
+The area around Aioi Bay contains the main festival venues, including Port Park and the Aioi City Gymnasium. Port Park is a waterfront green space that provides an excellent vantage point for viewing the maritime races of the Peron Festival. Tenpaku Shrine, located within the city, serves as the starting point for the maritime procession and is a focus of local faith. This shrine was established as the guardian deity of the Harima Shipyard and symbolizes the connection between the region''s industry and culture.
+
+Tourist attractions in Aioi City include the Aioi Bay Viewpoint, which offers panoramic views of the Seto Inland Sea, and various restaurants serving local seafood. Fresh seafood caught in Aioi Bay is popular among visitors who stop by after the festival. Additionally, nearby tourist destinations such as Ako City and Himeji City offer opportunities to deepen the experience of Banshu region''s history and culture, making them ideal to combine with a visit to the Aioi Peron Festival.
+
+## Related Information
+
+1. **National Distribution of Peron Boat Racing**: In Japan, Peron boat racing is held only in limited areas, including Nagasaki City in Nagasaki Prefecture, Aioi City in Hyogo Prefecture, and Naha City in Okinawa Prefecture. Nagasaki''s Peron is said to have begun in 1655, and Aioi''s Peron inherits this tradition[city.aioi.lg.jp](https://www.city.aioi.lg.jp/site/pe-ron/peronrekishi.html).
+
+2. **Characteristics of Peron Boats**: The Peron boats currently in use are approximately 13 meters long and 1.58 meters wide, featuring a bow shaped like a dragon''s head. While inheriting the tradition of wooden Japanese boats, they have been improved for lighter weight and greater strength. Ten generations of Peron boats have been built, and some retired boats are preserved and displayed at facilities within the city.
+
+3. **Aioi Peron Festival Association**: Established in 1962 by Aioi City, the Chamber of Commerce and Industry, and Ishikawajima-Harima Heavy Industries (now IHI), this organization manages and plans the festival. The association handles a wide range of tasks, including maintaining Peron boats, organizing the fireworks display, and coordinating the land parade.
+
+4. **100th Anniversary of the Peron Festival**: In 2022, Aioi Peron marked its 100th anniversary since its introduction. Special commemorative events and exhibitions were held to mark this milestone. The centennial has reinforced the importance of passing on the tradition to the next generation.
+
+5. **Activities of the Peron Kai Hall**: The Peron Kai Hall in Aioi City exhibits Peron boats and also offers experiential learning programs and historical lectures on Peron boat racing. Various events throughout the year, such as the Marine Sports Festival, are held as cooperation events for the Peron Festival.
+
+6. **Related Events**: On the same day as the Peron Festival, various cooperation events are held, including the Aioi Nagisa Short Film Festival at the Aioi City Cultural Hall and a soccer clinic by INAC Kobe Leonessa at the City Gymnasium. These events provide additional enjoyment for festival visitors and contribute to the revitalization of the entire region[aioi-peron.jp](https://aioi-peron.jp/archives/2410).
+
+7. **Confirmation of Latest Information**: The schedule and content of the Peron Festival may change each year. Visitors should always check the official website of the Aioi Peron Festival Association (https://aioi-peron.jp/) for the latest information, especially regarding cancellations due to bad weather, schedule changes, and ticket sales. Information on parking lot congestion and traffic restrictions will also be provided on the official website on the day of the event.','aioi-peron-matsuri','aioi-peron-matsuri',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11621265','蒲原まつり','Kanbara Matsuri','新潟市の祭事',NULL,'Q63148107','蒲原神社','Kanbara Shrine',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11596149','秩父神社御田植祭','Chichibu Shrine Otauesai','埼玉県秩父市の秩父神社で催される御田植祭',NULL,'Q2963366','秩父神社','Chichibu Shrine','埼玉県','kanto',NULL,NULL,1659,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E7%A5%9E%E7%A4%BE%E5%BE%A1%E7%94%B0%E6%A4%8D%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
 INSERT INTO "festivals" VALUES('Q11620393','萩夏まつり','Hagi Summer Festival',NULL,NULL,NULL,NULL,NULL,'山口県','chugoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%90%A9%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata');
