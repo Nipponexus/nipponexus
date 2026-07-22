@@ -119,6 +119,22 @@ def detect_meta_preamble(text, expected):
     first = next((l for l in lines if l.strip()), "")
     return first.strip() != expected
 
+# ---- インライン出典装飾除去(2026-07-22追加/DeepSeekが地の文に[ラベル](URL)を乱発する問題) ----
+_CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
+def strip_citations(s):
+    """地の文の[ラベル](URL)装飾を除去。ただし'公式情報'/'Official Information'行の
+       公式サイトリンク1個は有用要素として保持する(手作りモデル記事の標準構成に準拠)。"""
+    out=[]
+    for ln in (s or '').split('\n'):
+        if ('公式情報' in ln) or ('Official Information' in ln):
+            out.append(ln); continue      # 公式リンク行はそのまま保持
+        out.append(_CITE.sub('', ln))
+    r='\n'.join(out)
+    r=re.sub(r'[ \t]+\n','\n',r)
+    r=re.sub(r'[ \t]{2,}',' ',r)
+    r=re.sub(r'\n{3,}','\n\n',r)
+    return r.strip()
+
 def clen(t): return len(re.sub(r'\s','',t))
 def headings(t): return len(re.findall(r'^##\s', t, re.M))
 def bolds(t): return len(re.findall(r'\*\*[^*]+\*\*', t))
@@ -204,6 +220,7 @@ def main():
     msg=data["choices"][0]["message"]; content=msg.get("content","")
     content=content or ""
     ja,en,fb=split_ja_en(content)
+    ja,en=strip_citations(ja),strip_citations(en)  # 出典装飾除去
     if fb: print("  [警告] ===EN===欠落→Overview見出しでフォールバック分割+H1正規化を適用")
     cites=[x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
            if x.get("type")=="url_citation"]
