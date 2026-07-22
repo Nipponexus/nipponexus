@@ -54,7 +54,9 @@ RULES_TMPL = """あなたは日本の祭り・年中行事の多言語データ�
 
 def _post(prompt, key):
     body = {"model": MODEL,
-            "plugins": [{"id": "web", "max_results": 6}],
+            "plugins": [{"id": "web", "max_results": 6,
+                         "search_prompts": [],
+                         "exclude_domains": ["nipponexus.com"]}],
             "max_tokens": 16000,
             "messages": [{"role": "user", "content": prompt}]}
     req = urllib.request.Request(
@@ -196,6 +198,19 @@ def review(qid, label, ja, en, cites, vr, usage):
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
     L += [f"- {u}" for u in cites] or ["- (0件=Braveフォールバック検討)"]
+    # 偽/自ドメイン警告(2026-07-22追加: 44/67/70の循環参照・wikid偽ドメイン再発対策)
+    bad = []
+    for u in cites:
+        lu = (u or "").lower()
+        if "nipponexus.com" in lu: bad.append(("自サイト循環参照", u))
+        elif "wikid.org" in lu: bad.append(("偽ドメインwikid.org", u))
+        elif "wikipedia" in lu and "wikipedia.org" not in lu: bad.append(("偽wikipedia類似", u))
+    # 本文中の出典装飾はstrip済みだが素のURL文字列が残る可能性も走査
+    for tag, pat in [("自サイト循環参照(本文)","nipponexus.com"), ("偽ドメインwikid(本文)","wikid.org")]:
+        if pat in ja or pat in en: bad.append((tag, pat))
+    if bad:
+        L.append("\n## ★要是正: 偽/自ドメイン検出 (投入前に必ず除去・正規化)")
+        L += [f"- [{t}] {u}" for t, u in bad]
     L.append("\n## 要照合: 年号 (出典に実在するか現物確認)")
     L += [f"- {y}" for y in years]
     L.append("\n## 要照合: 電話番号 (裏取り不能なら削除)")
