@@ -50,6 +50,8 @@ RULES_TMPL = """あなたは日本の祭り・年中行事の多言語データ�
 
 【ハルシネーション厳禁(最重要)】Webで確認できない事実は書かない。起源等が不確かなら「言い伝えによれば」「一説では」等の留保を付ける。創作で字数を埋めない。裏取り不能な電話番号・不確かな数値は書かない。中止・休止のあった祭りは開催情報に「最新の開催日程・実施可否は公式サイトで確認」と明記。終了した祭りは過去形で歴史的事実として記述。
 
+【将来陳腐化の回避(必須)】記事は長期間掲載されるため、その年限りで古くなる情報を本文に書かない。具体的には(1)特定年の開催日程(「2026年2月6日〜11日」等)や回数(「第67回」等)、(2)その年のテーマキャラクター名・コラボ企業名・出演者やアーティスト名・楽曲名、(3)単年限りの特別企画は書かない。開催時期は「例年2月上旬」「例年○月○旬の△曜」等の相対表現にし、「最新の日程・実施可否は公式サイトで確認」と注記する。ただし毎年同じ固定日(例:5月15日)や、過去の歴史的事実(創始年・文化財指定年・記録樹立年等)は正確な年で書いてよい(これらは相対化しない)。
+
 【出力形式】まず日本語本文(2,400字以上・目安3,500〜4,500字。事実が濃い題材でも冗長な一般論や美辞麗句で水増しせず、固有事実の3段展開で厚みを出す)、次に区切り線 ===EN=== 、続けて英語本文(日本語の2倍以上かつ2,400字以上)。英語本文に半角ダブルクォートを使わない。前置き・後書き・メタ発言は書かず本文のみ出力。"""
 
 def _post(prompt, key):
@@ -120,6 +122,43 @@ def detect_meta_preamble(text, expected):
     lines = text.strip().splitlines()
     first = next((l for l in lines if l.strip()), "")
     return first.strip() != expected
+
+def detect_future_ephemeral(ja, en, now_year=None):
+    """将来陳腐化する単年情報の混入検出(True=候補あり)。戻り:(bool, 候補リスト)。
+       過去(生成時点以前)の西暦・日付・回数は史実/既往事実として警告から除外し、
+       将来・現在寄りの単年情報(未来日程/未来の回/相対語/単年コラボ)のみ警告する。
+       最終判断は人/Claudeが行う警告用だが、過去日付の自動除外で人的仕分けを削減。"""
+    import datetime
+    if now_year is None: now_year = datetime.date.today().year
+    text = (ja or "") + "\n" + (en or "")
+    hits = []
+    def near_year(pos, span=30):
+        # 近傍テキストから4桁西暦を拾い、最大値を文脈年とみなす(なければNone)
+        seg = text[max(0,pos-span):pos+span]
+        ys = [int(y) for y in re.findall(r'(?:19|20)\d{2}', seg)]
+        return max(ys) if ys else None
+    # (1) 特定年の具体日程: その西暦が未来/当年なら警告(過去は史実として除外)
+    for m in re.finditer(r'((?:19|20)\d{2})\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日', text):
+        if int(m.group(1)) >= now_year:
+            s=max(0,m.start()-15); hits.append(f"[特定年の具体日程] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
+    # (2) 「○年は」単年言及: 未来/当年のみ
+    for m in re.finditer(r'((?:19|20)\d{2})\s*年は', text):
+        if int(m.group(1)) >= now_year:
+            s=max(0,m.start()-15); hits.append(f"[「○年は」単年言及] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
+    # (3) 回数(第N回): 近傍西暦が未来/当年、または近傍に西暦が無く「予定」等を伴う場合のみ警告
+    for m in re.finditer(r'第\s*\d+\s*回', text):
+        ny = near_year(m.start())
+        seg = text[max(0,m.start()-20):m.end()+20]
+        future_ctx = bool(re.search(r'予定|開催され(る|ます)|今年|来年', seg))
+        if (ny is not None and ny >= now_year) or (ny is None and future_ctx):
+            s=max(0,m.start()-15); hits.append(f"[回数(第N回・将来/予定)] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
+    # (4) 相対的単年語: 常に警告(絶対年に依存せず陳腐化する)
+    for m in re.finditer(r'今年|来年|本年度', text):
+        s=max(0,m.start()-15); hits.append(f"[相対的単年語] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
+    # (5) 単年コラボ表現: 常に警告
+    for m in re.finditer(r'テーマキャラクター|コラボレーション企画として登場', text):
+        s=max(0,m.start()-15); hits.append(f"[単年コラボ表現] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
+    return (len(hits)>0, hits[:12])
 
 # ---- インライン出典装飾除去(2026-07-22追加/DeepSeekが地の文に[ラベル](URL)を乱発する問題) ----
 _CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
@@ -194,6 +233,10 @@ def review(qid, label, ja, en, cites, vr, usage):
              f"EN見出しレベル={'NG(タイトルH2/H3ずれ→##統一要)' if enlv else 'OK'} "
              f"先頭見出し(JA)={'NG(## 概要前に混入→除去要)' if metaja else 'OK'} "
              f"先頭見出し(EN)={'NG(## Overview前に混入→除去要)' if metaen else 'OK'}")
+    fe, fe_hits = detect_future_ephemeral(ja, en)
+    L.append(f"将来陳腐化: {'NG候補あり→相対化要('+str(len(fe_hits))+'件)' if fe else 'OK'}")
+    if fe:
+        L += [f"  - {h}" for h in fe_hits]
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
