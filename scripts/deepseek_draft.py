@@ -222,7 +222,12 @@ def split_ja_en(content):
                 if l.strip() in ("# Overview","## Overview")), None)
     if sep is None:
         return content.strip(), "", False
-    ja = strip_leading_h1(_normalize_h1("\n".join(lines[:sep])))
+    ja_lines = lines[:sep]
+    # 還元F(2026-07-23・お旅まつり85本目): フォールバック時JA末尾の'==='区切り行
+    # 以降(ENタイトル巻き込み)を切り落とす。35/37/41/85で手動クリーンしていた両端汚れを自動化。
+    cut = next((i for i,l in enumerate(ja_lines) if l.strip()=="==="), len(ja_lines))
+    ja_lines = ja_lines[:cut]
+    ja = strip_leading_h1(_normalize_h1("\n".join(ja_lines)))
     en = strip_leading_h1(_normalize_h1("\n".join(lines[sep:])))
     return ja, en, True
 
@@ -291,9 +296,22 @@ def apply_fixes(text, pairs):
                 raise AssertionError(f"[{label}] new に未確定痕跡'{b}'混入→停止(是正の幻覚防止)")
         cnt=text.count(old)
         if cnt!=expect:
-            raise AssertionError(f"[{label}] 期待{expect}件/実{cnt}件不一致→停止")
+            # 還元G(2026-07-23・85本目): 未マッチ時oldの先頭12字を含む近傍行を列挙し差分特定を即座化。
+            key=old.strip()[:12]
+            near=[l for l in text.splitlines() if key and key in l][:3]
+            hint=("  近傍: "+" / ".join(repr(l[:60]) for l in near)) if near else "  近傍該当なし(oldの語句自体が本文に無い)"
+            raise AssertionError(f"[{label}] 期待{expect}件/実{cnt}件不一致→停止\n{hint}")
         text=text.replace(old,new)
     return text
+
+
+def assert_total_absent(text, words):
+    """還元H(2026-07-23・85本目お旅=マルシェお旅を小見出し+本文で数え漏れ):
+       置換後に『消したはずの旧語』の総出現をゼロ検証する。全カウント義務のコード化。
+       words=[旧語,...] を渡し、1件でも残れば停止(目についた箇所だけ置換して残る同型ミスを封じる)。"""
+    for w in words:
+        c=text.count(w)
+        assert c==0, f"[全カウント義務] 旧語'{w}'が{c}件残存→数え漏れ(小見出し/別表記を確認)"
 
 
 def main():
