@@ -196,21 +196,34 @@ def _normalize_h1(block):
         out.append('## '+l[2:] if re.match(r'^# (?!#)', l) else l)
     return '\n'.join(out).strip()
 
+def strip_leading_h1(block):
+    """還元B(2026-07-23・82本目まで毎回手書き除去していたH1混入を自動化):
+       先頭付近の H1タイトル行(# xxx / ## Xxx でない単一# 見出し)を削除し
+       ## 概要 / ## Overview から始まるよう整える。本文中の ## 小見出しは不変。
+       H1除去は無損失で安全なため『警告のみ』から『自動修正』へ格上げ。"""
+    lines=block.splitlines()
+    out=[]
+    for l in lines:
+        if re.match(r'^# (?!#)', l):   # 単一# のH1行 = タイトル → 削除
+            continue
+        out.append(l)
+    return '\n'.join(out).strip()
+
 def split_ja_en(content):
     """(ja, en, fallback) を返す。===EN===があれば通常2分割(正規化なし=既存挙動維持)。
        無ければ # Overview / ## Overview 行でフォールバック分割しH1→H2正規化。
        境界が無ければ en='' で返し検算NGで安全停止。"""
     if "===EN===" in content:
         ja, en = (content.split("===EN===",1)+[""])[:2]
-        return ja.strip(), en.strip(), False
+        return strip_leading_h1(ja), strip_leading_h1(en), False
     # フォールバック: EN先頭見出し(# Overview or ## Overview)を探す
     lines = content.splitlines()
     sep = next((i for i,l in enumerate(lines)
                 if l.strip() in ("# Overview","## Overview")), None)
     if sep is None:
         return content.strip(), "", False
-    ja = _normalize_h1("\n".join(lines[:sep]))
-    en = _normalize_h1("\n".join(lines[sep:]))
+    ja = strip_leading_h1(_normalize_h1("\n".join(lines[:sep])))
+    en = strip_leading_h1(_normalize_h1("\n".join(lines[sep:])))
     return ja, en, True
 
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
@@ -228,7 +241,7 @@ def review(qid, label, ja, en, cites, vr, usage):
     mm, only_ja = detect_ja_en_year_mismatch(ja, en)
     enlv = detect_en_heading_level(en)
     metaja = detect_meta_preamble(ja, "## 概要"); metaen = detect_meta_preamble(en, "## Overview")
-    L.append(f"形式チェック: H1混入(JA)={'NG除去要' if h1 else 'OK'} H1混入(EN)={'NG除去要' if h1e else 'OK'} "
+    L.append(f"形式チェック: H1自動除去済(JA)={'NG除去要' if h1 else 'OK'} H1自動除去済(EN)={'NG除去要' if h1e else 'OK'} "
              f"日英年号整合={'NG['+','.join(sorted(only_ja))+']がENに欠落' if mm else 'OK'} "
              f"EN見出しレベル={'NG(タイトルH2/H3ずれ→##統一要)' if enlv else 'OK'} "
              f"先頭見出し(JA)={'NG(## 概要前に混入→除去要)' if metaja else 'OK'} "
@@ -261,6 +274,27 @@ def review(qid, label, ja, en, cites, vr, usage):
     L.append("\n## 要照合: アクセス実務系 (最寄り/料金/開催日程=重点)")
     L += [f"- {a}" for a in access]
     return "\n".join(L)
+
+def apply_fixes(text, pairs):
+    """還元D(2026-07-23・82本目EN破損事故): 固定文字列の是正を安全に適用する共通ヘルパ。
+       pairs=[(old,new,expect,label),...]。各ペアで:
+        - new に未確定痕跡('...'/…/TODO/仮/xxx)が含まれたら即停止(是正コード自体の
+          幻覚=書きかけ文字列の実行経路混入を封じる=EN破損事故の再発防止)。
+        - 実置換数≠expect なら即停止(DB更新前に落とす=金沢/旭川/潮来/豊橋/八尾の
+          同型漏れ・過剰置換を構造的に防ぐ)。
+       Block1のheredocから `from deepseek_draft import apply_fixes` で使い、
+       手書き置換をやめる。"""
+    BAD=("...","\u2026","TODO","仮","xxx","XXX")
+    for old,new,expect,label in pairs:
+        for b in BAD:
+            if b in new:
+                raise AssertionError(f"[{label}] new に未確定痕跡'{b}'混入→停止(是正の幻覚防止)")
+        cnt=text.count(old)
+        if cnt!=expect:
+            raise AssertionError(f"[{label}] 期待{expect}件/実{cnt}件不一致→停止")
+        text=text.replace(old,new)
+    return text
+
 
 def main():
     ap = argparse.ArgumentParser()
