@@ -160,6 +160,20 @@ def detect_future_ephemeral(ja, en, now_year=None):
         s=max(0,m.start()-15); hits.append(f"[単年コラボ表現] ...{text[s:m.end()+15]}...".replace(chr(10)," "))
     return (len(hits)>0, hits[:12])
 
+def detect_en_cjk(en):
+    """還元(2026-07-24・86灘): EN本文へのCJK漢字混入を機械検出(DeepSeekが相关人员/临时等の
+       中国語簡体字をEN側に紛れ込ませる新種形式エラー)。CJK統合漢字(\u4e00-\u9fff)+拡張A
+       (\u3400-\u4dbf)を全数検出。ひらがな/カタカナは対象外(別問題)。戻り:(bool, 該当行リスト)。
+       原理的に見逃し0・無料・確実。Proの再現率に依存させず機械で弾く。"""
+    hits=[]
+    pat=re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff]')
+    for i, ln in enumerate(en.splitlines()):
+        ms=pat.findall(ln)
+        if ms:
+            chars="".join(sorted(set(ms)))
+            hits.append(f"L{i}[{chars}] ...{ln.strip()[:70]}...")
+    return (len(hits)>0, hits[:20])
+
 # ---- インライン出典装飾除去(2026-07-22追加/DeepSeekが地の文に[ラベル](URL)を乱発する問題) ----
 _CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
 def strip_citations(s):
@@ -318,6 +332,10 @@ def review(qid, label, ja, en, cites, vr, usage):
     L.append(f"将来陳腐化: {'NG候補あり→相対化要('+str(len(fe_hits))+'件)' if fe else 'OK'}")
     if fe:
         L += [f"  - {h}" for h in fe_hits]
+    encjk, encjk_hits = detect_en_cjk(en)
+    L.append(f"EN他言語混入(CJK漢字): {'NG('+str(len(encjk_hits))+'行に混入→英語是正要)' if encjk else 'OK'}")
+    if encjk:
+        L += [f"  - {h}" for h in encjk_hits]
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
