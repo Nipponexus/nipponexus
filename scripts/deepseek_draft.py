@@ -6,7 +6,7 @@
   python3 scripts/deepseek_draft.py --auto        # 最優先の薄記事1件
   python3 scripts/deepseek_draft.py --qid Q123456 # qid指定
 """
-import os, re, json, time, sqlite3, argparse, pathlib, urllib.request, urllib.error
+import os, re, json, time, sqlite3, argparse, pathlib, urllib.request, urllib.error, socket, http.client
 
 DB   = os.path.expanduser("~/nipponexus/data/sqlite/nipponexus.db")
 ENV  = os.path.expanduser("~/.openclaw/.env")
@@ -74,8 +74,15 @@ def _post(prompt, key, model=None, search_prompts=None, max_tokens=16000):
 def call(prompt, key, use_brave=False, model=None, search_prompts=None, max_tokens=16000):
     """content Noneガード付き。最大3回試行。本文が取れなければ例外で安全停止。"""
     last=None
+    _NETERR=(urllib.error.URLError, http.client.IncompleteRead, http.client.HTTPException,
+             socket.timeout, ConnectionError, TimeoutError, OSError)
     for i in range(3):
-        data=_post(prompt, key, model=model, search_prompts=search_prompts, max_tokens=max_tokens)
+        try:
+            data=_post(prompt, key, model=model, search_prompts=search_prompts, max_tokens=max_tokens)
+        except _NETERR as e:
+            # 通信例外(IncompleteRead/接続断/タイムアウト等)も再試行対象(2026-07-25・八戸で判明)
+            print(f"  [警告] 試行{i+1}: 通信例外({type(e).__name__}: {e})・再試行")
+            last=None; time.sleep(5); continue
         msg=data.get("choices",[{}])[0].get("message",{})
         content=msg.get("content")
         fr=data.get("choices",[{}])[0].get("finish_reason")
@@ -331,8 +338,8 @@ def pro_proofread(qid, label, pref, ja, en, key):
     sp = [f"{label} 公式", f"{label} 文化財 指定", f"{label} 由来 起源", f"{label} {pref}"]
     try:
         data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=16000)
-    except SystemExit as e:
-        return (f"(Pro校正失敗: {e})", [], {})
+    except (SystemExit, Exception) as e:
+        return (f"(Pro校正失敗: {type(e).__name__}: {e})", [], {})
     msg = data["choices"][0]["message"]
     txt = (msg.get("content") or "").strip()
     cites = [x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
@@ -457,6 +464,9 @@ def main():
     (OUT/f"{qid}_deepseek_full.md").write_text(content)
     vr=verify(ja,en); usage=data.get("usage",{})
     rep=review(qid,label,ja,en,cites,vr,usage)
+    # ★防波堤(2026-07-25・八戸): Pro校正の前に機械検出までのreview.mdを必ず書き出す。
+    #   Pro校正が通信例外等で落ちても本体(生成+機械検出)は失われない。
+    (OUT/f"{qid}_review.md").write_text(rep)
     # ---- Pro校正工程(2026-07-24・86灘で確立: 短クエリ検索接地・C-3bで要一次照合) ----
     print("Pro校正中(deepseek-v4-pro・短クエリ検索接地)...")
     pro_txt, pro_cites, pro_usage = pro_proofread(qid, label, pref, ja, en, key)
