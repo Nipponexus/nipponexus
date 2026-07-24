@@ -231,6 +231,69 @@ def split_ja_en(content):
     en = strip_leading_h1(_normalize_h1("\n".join(lines[sep:])))
     return ja, en, True
 
+# ---- 段階③アシスト(2026-07-23・85本目お旅で頭脳がやった年号一次照合の機械化) ----
+def _fetch_text(url, timeout=12):
+    """citation本文を単発GETしプレーンテキスト化(タグ簡易除去)。失敗はNone(防波堤=生成本体に影響させない)。"""
+    import urllib.request, re as _re
+    try:
+        req=urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0 (NipponexusReview)"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            raw=r.read(600000).decode(r.headers.get_content_charset() or "utf-8","ignore")
+    except Exception:
+        return None
+    raw=_re.sub(r"(?is)<(script|style).*?</\1>"," ",raw)
+    raw=_re.sub(r"(?s)<[^>]+>"," ",raw)
+    return _re.sub(r"\s+"," ",raw)
+
+# 元号開始西暦(和暦照合用・江戸中期以降を網羅)
+_GENGO={"令和":2019,"平成":1989,"昭和":1926,"大正":1912,"明治":1868,
+        "慶応":1865,"元治":1864,"文久":1861,"万延":1860,"安政":1854,"嘉永":1848,
+        "弘化":1844,"天保":1830,"文政":1818,"文化":1804,"享和":1801,"寛政":1789,
+        "天明":1781,"安永":1772,"明和":1764,"宝暦":1751,"寛延":1748,"延享":1744,
+        "寛保":1741,"元文":1736,"享保":1716}
+_KANSU={1:"元",2:"二",3:"三",4:"四",5:"五",6:"六",7:"七",8:"八",9:"九",10:"十"}
+def _wareki_variants(y):
+    """西暦yを含みうる和暦表記の候補集合(元号N年/元号元年/漢数字)を返す。"""
+    out=set()
+    for g,s in _GENGO.items():
+        n=y-s+1
+        if 1<=n<64:
+            out.add(f"{g}{n}年"); out.add(f"{g}{n}")
+            if n==1: out.add(f"{g}元年"); out.add(f"{g}元")
+            # 漢数字(1〜30程度を簡易対応)
+            if n<=10: out.add(f"{g}{_KANSU[n]}年")
+            elif n<20: out.add(f"{g}十{_KANSU.get(n-10,'')}年".replace('十元','十一'))
+    return out
+
+def audit_years_against_citations(ja, cites):
+    """記事中の西暦4桁を抽出し、citation本文群に西暦または和暦(元号/元年/漢数字)で
+       実在するか照合。返り値=[(西暦, 判定, 出典ドメイン列)]。
+       ★判定の定義(2026-07-24・条件B再設計): 
+         実在=西暦or和暦がcitation本文にある。
+         ×人的確認=どの表記でもcitationに無い。★これは『削除指示』ではない=
+           幻覚の可能性と『出典に明示ないが正しい背景/派生年号』(例:起源の前年凶作・
+           電線敷設時期)の両方を含むため、頭脳が幻覚か正当補足かを最終判断する対象。
+         取得不可=全citation取得失敗。
+       真偽の材料提示のみ・修正LLMへ×人的確認をそのまま削除指示として渡さない。"""
+    import re as _re
+    from urllib.parse import urlparse
+    yrs=sorted(set(_re.findall(r'(?<!\d)(1[5-9]\d{2}|20[0-4]\d)(?!\d)', ja)))
+    if not yrs or not cites: return []
+    texts={}
+    for u in cites:
+        if not u: continue
+        t=_fetch_text(u)
+        if t: texts[u]=t
+    out=[]
+    for y in yrs:
+        yi=int(y); variants={y}|_wareki_variants(yi)
+        hits=[urlparse(u).netloc for u,t in texts.items()
+              if any(v in t for v in variants)]
+        if hits: out.append((y,"実在",sorted(set(hits))))
+        elif texts: out.append((y,"×人的確認(幻覚 or 出典外の正当補足)",[]))
+        else: out.append((y,"取得不可(全citation取得失敗)",[]))
+    return out
+
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
 def review(qid, label, ja, en, cites, vr, usage):
     years=[]
@@ -274,6 +337,15 @@ def review(qid, label, ja, en, cites, vr, usage):
         L += [f"- [{t}] {u}" for t, u in bad]
     L.append("\n## 要照合: 年号 (出典に実在するか現物確認)")
     L += [f"- {y}" for y in years]
+    # 段階③アシスト: citation本文と西暦の自動照合(真偽の材料提示・GOは頭脳)
+    try:
+        audit=audit_years_against_citations(ja, cites)
+    except Exception as e:
+        audit=[]; L.append(f"\n## 段階③citation年号照合: スキップ({e})")
+    if audit:
+        L.append("\n## 段階③citation年号照合 (自動・×不在は頭脳が最終確認)")
+        for y,verdict,doms in audit:
+            L.append(f"- {y}: {verdict}" + (f"  出典={','.join(sorted(set(doms))[:3])}" if doms else ""))
     L.append("\n## 要照合: 電話番号 (裏取り不能なら削除)")
     L += [f"- {t}" for t in tels] or ["- なし"]
     L.append("\n## 要照合: アクセス実務系 (最寄り/料金/開催日程=重点)")
