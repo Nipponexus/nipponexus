@@ -12,6 +12,7 @@ DB   = os.path.expanduser("~/nipponexus/data/sqlite/nipponexus.db")
 ENV  = os.path.expanduser("~/.openclaw/.env")
 OUT  = pathlib.Path(os.path.expanduser("~/nexus_data/llm_sim"))
 MODEL = "deepseek/deepseek-v4-flash"
+MODEL_PRO = "deepseek/deepseek-v4-pro"
 
 def get_key():
     m = re.search(r'^OPENROUTER_API_KEY=(.+)$', pathlib.Path(ENV).read_text(), re.M)
@@ -54,12 +55,12 @@ RULES_TMPL = """あなたは日本の祭り・年中行事の多言語データ�
 
 【出力形式】まず日本語本文(2,400字以上・目安3,500〜4,500字。事実が濃い題材でも冗長な一般論や美辞麗句で水増しせず、固有事実の3段展開で厚みを出す)、次に区切り線 ===EN=== 、続けて英語本文(日本語の2倍以上かつ2,400字以上)。英語本文に半角ダブルクォートを使わない。前置き・後書き・メタ発言は書かず本文のみ出力。"""
 
-def _post(prompt, key):
-    body = {"model": MODEL,
+def _post(prompt, key, model=None, search_prompts=None, max_tokens=16000):
+    body = {"model": model or MODEL,
             "plugins": [{"id": "web", "max_results": 6,
-                         "search_prompts": [],
+                         "search_prompts": search_prompts or [],
                          "exclude_domains": ["nipponexus.com"]}],
-            "max_tokens": 16000,
+            "max_tokens": max_tokens,
             "messages": [{"role": "user", "content": prompt}]}
     req = urllib.request.Request(
         "https://openrouter.ai/api/v1/chat/completions",
@@ -70,11 +71,11 @@ def _post(prompt, key):
     with urllib.request.urlopen(req, timeout=420) as r:
         return json.loads(r.read())
 
-def call(prompt, key, use_brave=False):
+def call(prompt, key, use_brave=False, model=None, search_prompts=None, max_tokens=16000):
     """content Noneガード付き。最大3回試行。本文が取れなければ例外で安全停止。"""
     last=None
     for i in range(3):
-        data=_post(prompt, key)
+        data=_post(prompt, key, model=model, search_prompts=search_prompts, max_tokens=max_tokens)
         msg=data.get("choices",[{}])[0].get("message",{})
         content=msg.get("content")
         fr=data.get("choices",[{}])[0].get("finish_reason")
@@ -309,6 +310,35 @@ def audit_years_against_citations(ja, cites):
     return out
 
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
+def pro_proofread(qid, label, pref, ja, en, key):
+    """還元(2026-07-24・86灘): DeepSeek V4 Proによる校正アシスト工程。
+       ★原稿丸投げ禁止(86灘でExaクエリ暴走の主因)→論点を短クエリで検索接地。
+       ★C-3b堅持: Proの回答は正解データとして採用せず人が一次照合する前提でreviewへ追記。
+       戻り: (回答テキスト, url_citationリスト, usage)。失敗時は('(Pro校正失敗)', [], {})。"""
+    # 記事本文は確認対象の抜粋のみ最小限で渡す(丸投げ回避)。JAは冒頭2000字/ENは冒頭1500字。
+    ja_ex = ja[:2000]; en_ex = en[:1500]
+    prompt = (
+        "あなたは日本の祭り記事のファクトチェッカーです。"
+        "以下の記事について、(1)正式名称、(2)文化財指定の有無と年月日、(3)起源・由来、"
+        "(4)主要な固有名詞(人名/地名/神社名)の4点だけをWeb検索で公式情報から確認し、"
+        "記事の記述と食い違う箇所・裏取りできない箇所・欠落している核心情報を箇条書きで指摘してください。"
+        "★あなたの回答は正解データとして自動採用されず必ず人間が一次照合します。断定せず、"
+        "各指摘に根拠URL(可能な限り公式=神社/自治体/文化庁)を添えてください。確認できない項目は「確認不可」と明記。"
+        "★長い思考・推論過程は不要。確認結果の箇条書きを直ちに出力してください(前置き禁止)。\n\n"
+        f"【対象】{pref}の「{label}」\n\n【記事(日本語冒頭抜粋)】\n{ja_ex}\n\n【記事(英語冒頭抜粋)】\n{en_ex}"
+    )
+    # 検索プラグインへ短クエリを明示注入しExa暴走を封じる(86灘の重要発見)
+    sp = [f"{label} 公式", f"{label} 文化財 指定", f"{label} 由来 起源", f"{label} {pref}"]
+    try:
+        data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=16000)
+    except SystemExit as e:
+        return (f"(Pro校正失敗: {e})", [], {})
+    msg = data["choices"][0]["message"]
+    txt = (msg.get("content") or "").strip()
+    cites = [x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
+             if x.get("type")=="url_citation"]
+    return (txt, [c for c in cites if c], data.get("usage",{}))
+
 def review(qid, label, ja, en, cites, vr, usage):
     years=[]
     for mm in re.finditer(r'(?:明暦|文化|文政|明治|大正|昭和|平成|令和|西暦)?\s*\d{3,4}\s*年', ja):
@@ -427,7 +457,15 @@ def main():
     (OUT/f"{qid}_deepseek_full.md").write_text(content)
     vr=verify(ja,en); usage=data.get("usage",{})
     rep=review(qid,label,ja,en,cites,vr,usage)
+    # ---- Pro校正工程(2026-07-24・86灘で確立: 短クエリ検索接地・C-3bで要一次照合) ----
+    print("Pro校正中(deepseek-v4-pro・短クエリ検索接地)...")
+    pro_txt, pro_cites, pro_usage = pro_proofread(qid, label, pref, ja, en, key)
+    rep += "\n\n## 【Pro校正・要一次照合(C-3b: Proの正解データは信用せず必ず人が一次照合)】\n"
+    rep += f"(model=deepseek-v4-pro / cost=${pro_usage.get('cost')} / tokens {pro_usage.get('total_tokens')})\n\n"
+    rep += pro_txt + "\n\n### Pro参照URL(要実在確認)\n"
+    rep += ("\n".join(f"- {u}" for u in pro_cites) if pro_cites else "- (0件=検索接地失敗の可能性・要確認)")
     (OUT/f"{qid}_review.md").write_text(rep)
+    print(f"  Pro校正完了 cost=${pro_usage.get('cost')} 参照URL{len(pro_cites)}件")
     print(f"完了 {el:.0f}秒 cost=${usage.get('cost')}")
     print(f"検算 ja{vr['ja_len']} en{vr['en_len']} 見出し{vr['h']} 太字{vr['b']} => {'OK' if vr['ok'] else 'NG'}")
     print(f"出力: llm_sim/{qid}_deepseek_full.md / {qid}_review.md")
