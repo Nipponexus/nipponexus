@@ -323,7 +323,12 @@ def pro_proofread(qid, label, pref, ja, en, key):
        ★C-3b堅持: Proの回答は正解データとして採用せず人が一次照合する前提でreviewへ追記。
        戻り: (回答テキスト, url_citationリスト, usage)。失敗時は('(Pro校正失敗)', [], {})。"""
     # 記事本文は確認対象の抜粋のみ最小限で渡す(丸投げ回避)。JAは冒頭2000字/ENは冒頭1500字。
-    ja_ex = ja[:2000]; en_ex = en[:3000]  # EN抜粋拡大(2026-07-25・八戸: 見どころ内の打毬誤訳が1500字外で見えなかった)
+    # 抜粋は最小限(2026-07-25今宮: en3000字化がExa暴走の引き金→ja1200/en1200へ短縮し暴走回避を最優先)。
+    # 打毬型の見どころ内誤訳はEN見どころ周辺も別途少量付す(見出し##以降の先頭を追加)。
+    ja_ex = ja[:1200]
+    import re as _re
+    _m = _re.search(r'##[^\n]*(?:見どころ|Highlights|Attractions|Features)', en)
+    en_ex = en[:1000] + (("\n...\n" + en[_m.start():_m.start()+800]) if _m else "")
     prompt = (
         "あなたは日本の祭り記事のファクトチェッカーです。"
         "以下の記事について、(1)正式名称、(2)文化財指定の有無と年月日、(3)起源・由来、"
@@ -335,7 +340,7 @@ def pro_proofread(qid, label, pref, ja, en, key):
         f"【対象】{pref}の「{label}」\n\n【記事(日本語冒頭抜粋)】\n{ja_ex}\n\n【記事(英語冒頭抜粋)】\n{en_ex}"
     )
     # 検索プラグインへ短クエリを明示注入しExa暴走を封じる(86灘の重要発見)
-    sp = [f"{label} 公式", f"{label} 文化財 指定", f"{label} 由来 起源", f"{label} {pref}"]
+    sp = [f"{label} {pref} 公式", f"{label} 文化財 指定", f"{label} 由来 起源 神社", f"{label} {pref} 例祭"]
     try:
         data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=16000)
     except (SystemExit, Exception) as e:
