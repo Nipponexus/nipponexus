@@ -86,6 +86,7 @@ def call(prompt, key, use_brave=False, model=None, search_prompts=None, max_toke
         msg=data.get("choices",[{}])[0].get("message",{})
         content=msg.get("content")
         fr=data.get("choices",[{}])[0].get("finish_reason")
+        print(f"  [生成] 試行{i+1}: finish_reason={fr} content_len={len(content or '')}")
         if content and content.strip():
             return data
         # 本文が空: finish_reason=length等の可能性。ログ出して再試行
@@ -466,7 +467,9 @@ def main():
     if fb: print("  [警告] ===EN===欠落→Overview見出しでフォールバック分割+H1正規化を適用")
     cites=[x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
            if x.get("type")=="url_citation"]
-    (OUT/f"{qid}_deepseek_full.md").write_text(content)
+    # 還元(2026-07-25・89山鹿): full.mdはstrip_leading_h1+strip_citations適用後の
+    # ja/enから再構成して書き出す(照合用生出力にH1/出典装飾を残さずBlock1のH1除去手当てを廃止)
+    (OUT/f"{qid}_deepseek_full.md").write_text(ja + "\n\n===EN===\n\n" + en)
     vr=verify(ja,en); usage=data.get("usage",{})
     rep=review(qid,label,ja,en,cites,vr,usage)
     # ★防波堤(2026-07-25・八戸): Pro校正の前に機械検出までのreview.mdを必ず書き出す。
