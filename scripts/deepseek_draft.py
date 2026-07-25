@@ -219,6 +219,20 @@ def _normalize_h1(block):
         out.append('## '+l[2:] if re.match(r'^# (?!#)', l) else l)
     return '\n'.join(out).strip()
 
+def strip_meta_preamble(block, expected):
+    """還元(2026-07-25・93本目角館): 先頭のメタ前置き文(『以下は/以下の記事は…』等)と
+       それに続く水平線(---)を、最初の期待見出し(expected='## 概要'/'## Overview')まで
+       削除する。detect_meta_preamble(検出専用)に対する自動修正版。H1除去(strip_leading_h1)と
+       同じく無損失で安全なため自動修正へ格上げ。期待見出しが無ければ無変更で返す(安全側)。"""
+    lines=block.splitlines()
+    idx=next((i for i,l in enumerate(lines) if l.strip()==expected), None)
+    if idx is None:
+        return block.strip()
+    # 期待見出しより前の行はメタ前置き/区切り線とみなし全削除
+    if idx==0:
+        return block.strip()
+    return "\n".join(lines[idx:]).strip()
+
 def strip_leading_h1(block):
     """還元B(2026-07-23・82本目まで毎回手書き除去していたH1混入を自動化):
        先頭付近の H1タイトル行(# xxx / ## Xxx でない単一# 見出し)を削除し
@@ -238,7 +252,7 @@ def split_ja_en(content):
        境界が無ければ en='' で返し検算NGで安全停止。"""
     if "===EN===" in content:
         ja, en = (content.split("===EN===",1)+[""])[:2]
-        return strip_leading_h1(ja), strip_leading_h1(en), False
+        return strip_meta_preamble(strip_leading_h1(ja),"## 概要"), strip_meta_preamble(strip_leading_h1(en),"## Overview"), False
     # フォールバック: EN先頭見出し(# Overview or ## Overview)を探す
     lines = content.splitlines()
     sep = next((i for i,l in enumerate(lines)
@@ -250,8 +264,8 @@ def split_ja_en(content):
     # 以降(ENタイトル巻き込み)を切り落とす。35/37/41/85で手動クリーンしていた両端汚れを自動化。
     cut = next((i for i,l in enumerate(ja_lines) if l.strip()=="==="), len(ja_lines))
     ja_lines = ja_lines[:cut]
-    ja = strip_leading_h1(_normalize_h1("\n".join(ja_lines)))
-    en = strip_leading_h1(_normalize_h1("\n".join(lines[sep:])))
+    ja = strip_meta_preamble(strip_leading_h1(_normalize_h1("\n".join(ja_lines))),"## 概要")
+    en = strip_meta_preamble(strip_leading_h1(_normalize_h1("\n".join(lines[sep:]))),"## Overview")
     return ja, en, True
 
 # ---- 段階③アシスト(2026-07-23・85本目お旅で頭脳がやった年号一次照合の機械化) ----
@@ -315,6 +329,31 @@ def audit_years_against_citations(ja, cites):
         if hits: out.append((y,"実在",sorted(set(hits))))
         elif texts: out.append((y,"×人的確認(幻覚 or 出典外の正当補足)",[]))
         else: out.append((y,"取得不可(全citation取得失敗)",[]))
+    return out
+
+def audit_dates_against_citations(ja, cites):
+    """還元(2026-07-25・93本目角館・指定日の月誤り3月→2月が年単体照合をすり抜けた):
+       本文の『YYYY年…M月D日』(元号併記可)を抽出し、月日までcitation本文に在るか照合。
+       年は実在でも月日がcitation不在なら×人的確認(月日の誤り疑い)を出す。削除指示でなく材料提示。"""
+    import re as _re
+    from urllib.parse import urlparse
+    # 例: 1991年（平成3年）2月21日 / 1991年2月21日 / 2016年12月1日
+    dates=_re.findall(r'(1[5-9]\d{2}|20[0-4]\d)年[^。\n]{0,12}?(\d{1,2})月(\d{1,2})日', ja)
+    dates=sorted(set(dates))
+    if not dates or not cites: return []
+    texts={}
+    for u in cites:
+        if not u: continue
+        t=_fetch_text(u)
+        if t: texts[u]=t
+    out=[]
+    for (y,m,d) in dates:
+        mi,di=int(m),int(d)
+        # 月日の表記ゆれ(M月D日 / M/D / M-D / ゼロ埋め)
+        pats={f"{mi}月{di}日", f"{mi}/{di}", f"{mi}-{di}", f"{int(m):02d}.{int(d):02d}", f"{mi}.{di}"}
+        hits=[urlparse(u).netloc for u,t in texts.items() if any(pp in t for pp in pats)]
+        tag="実在" if hits else ("×人的確認(月日がcitation不在=月日誤りの疑い)" if texts else "取得不可")
+        out.append((f"{y}年{mi}月{di}日", tag, sorted(set(hits))))
     return out
 
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
@@ -407,6 +446,15 @@ def review(qid, label, ja, en, cites, vr, usage):
         L.append("\n## 段階③citation年号照合 (自動・×不在は頭脳が最終確認)")
         for y,verdict,doms in audit:
             L.append(f"- {y}: {verdict}" + (f"  出典={','.join(sorted(set(doms))[:3])}" if doms else ""))
+    # 段階③月日照合(2026-07-25・93本目角館: 指定日の月誤り3月→2月が年単体照合をすり抜けた)
+    try:
+        audit_d=audit_dates_against_citations(ja, cites)
+    except Exception as e:
+        audit_d=[]; L.append(f"\n## 段階③citation月日照合: スキップ({e})")
+    if audit_d:
+        L.append("\n## 段階③citation月日照合 (自動・×は月日誤りの疑い=頭脳が最終確認)")
+        for d,verdict,doms in audit_d:
+            L.append(f"- {d}: {verdict}" + (f"  出典={','.join(sorted(set(doms))[:3])}" if doms else ""))
     L.append("\n## 要照合: 電話番号 (裏取り不能なら削除)")
     L += [f"- {t}" for t in tels] or ["- なし"]
     L.append("\n## 要照合: アクセス実務系 (最寄り/料金/開催日程=重点)")
