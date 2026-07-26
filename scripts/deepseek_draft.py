@@ -114,15 +114,17 @@ def detect_ja_en_year_mismatch(ja, en):
     return (len(only_ja)>0, only_ja)
 
 def detect_en_heading_level(en):
-    """EN見出しレベルずれ検出(True=ずれあり)。責務分離: H1混入はdetect_h1に委ね
-       ここでは判定回避。ずれ条件=先頭非空行が## Overviewでない、または本文中に### あり。
-       既存記事はEN先頭## Overview・全セクション##で統一(26本目でタイトルH2+H3ずれを検出)。"""
+    """EN見出しレベルずれ検出(True=ずれあり)。責務分離: H1混入はdetect_h1に委ね判定回避。
+       正しい構造=先頭## Overview + 6大セクションが##(Overview/History/Highlights/Event/
+       Surrounding/Related)。見どころ内の###小見出しは正常(103博多松囃子の誤検知修正)。
+       真のNG=先頭が## Overviewでない(タイトル混入/1段下げ)、または##大セクションが6未満
+       (セクションがH3に落ちている=26本目型の1段下げ)。###の有無単独ではNGにしない。"""
     if detect_h1(en): return False
     lines = en.strip().splitlines()
     first = next((l for l in lines if l.strip()), "")
     head_ng = first.strip() != "## Overview"
-    has_h3 = any(l.strip().startswith("### ") for l in lines)
-    return head_ng or has_h3
+    big_sections = sum(1 for l in lines if l.strip().startswith("## "))
+    return head_ng or big_sections < 6
 
 def detect_meta_preamble(text, expected):
     """先頭見出しチェック(True=メタ前置き等の混入あり)。先頭の非空行がexpected見出し
