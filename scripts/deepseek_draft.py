@@ -178,8 +178,12 @@ def detect_en_cjk(en):
        原理的に見逃し0・無料・確実。Proの再現率に依存させず機械で弾く。"""
     hits=[]
     pat=re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff]')
+    # 還元I(2026-07-26・104カセ鳥): ローマ字表記の直後の括弧内原語併記は英語記事として
+    # 正当な用法(例 "Kasedori" (加勢鳥) / Kendai (蓑))。これを除いた残余のみをNGとする。
+    paren = re.compile(r'[\(（]\s*[\u3000-\u9fff\u3400-\u4dbf]{1,12}\s*[\)）]')
     for i, ln in enumerate(en.splitlines()):
-        ms=pat.findall(ln)
+        residual = paren.sub('', ln)
+        ms=pat.findall(residual)
         if ms:
             chars="".join(sorted(set(ms)))
             hits.append(f"L{i}[{chars}] ...{ln.strip()[:70]}...")
@@ -486,6 +490,29 @@ def apply_fixes(text, pairs):
             raise AssertionError(f"[{label}] 期待{expect}件/実{cnt}件不一致→停止\n{hint}")
         text=text.replace(old,new)
     return text
+
+
+def count_targets(ja, en, keys, ctx=90):
+    """還元J(2026-07-26・104カセ鳥/全カウント義務違反5回目の構造対処):
+       是正ペアを組む【前】に、対象語の日英全出現を行番号+前後文脈つきで列挙する。
+       目についた1箇所だけをペア化して数え漏れる事故(金沢/旭川/潮来/81豊橋/104カセ鳥)を
+       構造的に防ぐ。既存assert_total_absentが『消し残り』を守るのに対し、本関数は
+       『数え始める前の網羅』を守る。戻り:{tag:{key:件数}}。"""
+    res={}
+    for tag, text in (('JA', ja), ('EN', en)):
+        res[tag]={}
+        lines=(text or '').split('\n')
+        print(f"\n########## {tag} ##########")
+        for k in keys:
+            n=(text or '').count(k)
+            res[tag][k]=n
+            print(f"\n--- [{tag}] '{k}' 総出現 {n} 件 ---")
+            for i, l in enumerate(lines, 1):
+                if k in l:
+                    for m in re.finditer(re.escape(k), l):
+                        a=max(0, m.start()-ctx); b=min(len(l), m.end()+ctx)
+                        print(f"  L{i}: ...{l[a:b]}...")
+    return res
 
 
 def assert_total_absent(text, words):
