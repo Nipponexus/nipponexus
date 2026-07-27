@@ -7,6 +7,11 @@
   python3 scripts/deepseek_draft.py --qid Q123456 # qid指定
 """
 import os, re, json, time, sqlite3, argparse, pathlib, urllib.request, urllib.error, socket, http.client
+try:
+    from term_check import detect_en_term_mismatch
+except Exception:
+    detect_en_term_mismatch = None
+
 
 DB   = os.path.expanduser("~/nipponexus/data/sqlite/nipponexus.db")
 ENV  = os.path.expanduser("~/.openclaw/.env")
@@ -422,6 +427,13 @@ def review(qid, label, ja, en, cites, vr, usage):
         L += [f"  - {h}" for h in fe_hits]
     encjk, encjk_hits = detect_en_cjk(en)
     L.append(f"EN他言語混入(CJK漢字): {'NG('+str(len(encjk_hits))+'行に混入→英語是正要)' if encjk else 'OK'}")
+    if detect_en_term_mismatch is not None:
+        _thit, _titems = detect_en_term_mismatch(ja, en)
+        lines.append('- 固有名詞の訳語照合: ' + ('NG' if _thit else 'OK'))
+        for _it in _titems:
+            lines.append('    - [%s] %s : %s / 期待=%s'
+                         % (_it['level'], _it['term'],
+                            _it['found'] or _it['reason'], _it['expected']))
     if encjk:
         L += [f"  - {h}" for h in encjk_hits]
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
