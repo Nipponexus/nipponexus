@@ -6,6 +6,8 @@
   python3 scripts/deepseek_draft.py --auto        # 最優先の薄記事1件
   python3 scripts/deepseek_draft.py --qid Q123456 # qid指定
 """
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
 import os, re, json, time, sqlite3, argparse, pathlib, urllib.request, urllib.error, socket, http.client
 try:
     from term_check import detect_en_term_mismatch
@@ -427,15 +429,15 @@ def review(qid, label, ja, en, cites, vr, usage):
         L += [f"  - {h}" for h in fe_hits]
     encjk, encjk_hits = detect_en_cjk(en)
     L.append(f"EN他言語混入(CJK漢字): {'NG('+str(len(encjk_hits))+'行に混入→英語是正要)' if encjk else 'OK'}")
-    if detect_en_term_mismatch is not None:
-        _thit, _titems = detect_en_term_mismatch(ja, en)
-        lines.append('- 固有名詞の訳語照合: ' + ('NG' if _thit else 'OK'))
-        for _it in _titems:
-            lines.append('    - [%s] %s : %s / 期待=%s'
-                         % (_it['level'], _it['term'],
-                            _it['found'] or _it['reason'], _it['expected']))
     if encjk:
         L += [f"  - {h}" for h in encjk_hits]
+    if detect_en_term_mismatch is not None:
+        _thit, _titems = detect_en_term_mismatch(ja, en)
+        L.append("固有名詞の訳語照合: " + ("NG(誤訳語がENに出現→是正要)" if _thit else "OK"))
+        for _it in _titems:
+            L.append("  - [%s] %s : %s / 期待=%s"
+                     % (_it["level"], _it["term"],
+                        _it["found"] or _it["reason"], _it["expected"]))
     L.append("  ※start_monthは投入ブロックで必須セット(本スクリプト対象外)")
     L.append(f"コスト: ${usage.get('cost')}  tokens {usage.get('total_tokens')}\n")
     L.append("## 出典 url_citation (実在確認対象)")
@@ -477,6 +479,32 @@ def review(qid, label, ja, en, cites, vr, usage):
     L += [f"- {t}" for t in tels] or ["- なし"]
     L.append("\n## 要照合: アクセス実務系 (最寄り/料金/開催日程=重点)")
     L += [f"- {a}" for a in access]
+    # 接ぎ木/現況/メタ矛盾の決定論検出(2026-07-27・111深大寺の実データで条件B成立)
+    try:
+        import graft_check as _gc
+        inc, sm, _lb = _gc.load_meta(qid)
+        L.append("\n## 機械検出(接ぎ木・現況・メタ) 4項目")
+        hit, subj, ev = _gc.detect_origin_conflict(ja)
+        L.append(f"- 起源主体の自己矛盾: {'NG' if hit else 'OK'} {subj}")
+        for i, sj in (ev if hit else []):
+            L.append(f"    - L{i} {sj}")
+        hit, ng = _gc.detect_meta_year_conflict(ja, inc, sm)
+        L.append(f"- DBメタ突合(開始年/周年/開催月): {'NG' if hit else 'OK'}"
+                 + ("  [WARN] start_month=None (投入時に必須セット)" if not sm else ""))
+        for i, k, v in ng:
+            L.append(f"    - L{i} [{k}] {v}")
+        hit, ng = _gc.detect_status_assertion(ja, en)
+        L.append(f"- 現況断定ガード(公式確認注記の有無): {'NG' if hit else 'OK'}")
+        for t, i, v in ng:
+            L.append(f"    - {t} L{i} {v}")
+        hit, ng, warn = _gc.detect_reading_mismatch(ja, en)
+        L.append(f"- 訳語の読み照合: {'NG' if hit else 'OK'}")
+        for a, b, c in ng:
+            L.append(f"    - NG {a} {b}: {c}")
+        for a, b, c in warn:
+            L.append(f"    - WARN {a} {b}: {c}")
+    except Exception as e:
+        L.append(f"\n## 機械検出(接ぎ木・現況・メタ): スキップ({e})")
     return "\n".join(L)
 
 def apply_fixes(text, pairs):
@@ -559,6 +587,8 @@ def main():
     # 還元(2026-07-25・89山鹿): full.mdはstrip_leading_h1+strip_citations適用後の
     # ja/enから再構成して書き出す(照合用生出力にH1/出典装飾を残さずBlock1のH1除去手当てを廃止)
     (OUT/f"{qid}_deepseek_full.md").write_text(ja + "\n\n===EN===\n\n" + en)
+    (OUT/f"{qid}_cites.txt").write_text("\n".join(cites))
+    print(f"  cites保存 {len(cites)}件 -> {qid}_cites.txt")
     vr=verify(ja,en); usage=data.get("usage",{})
     rep=review(qid,label,ja,en,cites,vr,usage)
     # ★防波堤(2026-07-25・八戸): Pro校正の前に機械検出までのreview.mdを必ず書き出す。
