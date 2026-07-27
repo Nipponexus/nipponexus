@@ -370,6 +370,52 @@ def audit_dates_against_citations(ja, cites):
     return out
 
 # ---- 工程4: 照合レポート(要照合箇所=実務系を重点抽出) ----
+import datetime as _dt
+
+_STATUS_RX = re.compile(r"再開|中止|休止|見送ら|現在も|年現在|継続して開催")
+_HOST_NG = ("staging", "proxy", "mirror", "translate.", "webcache", "todaiinews")
+_DENIAL_RX = re.compile(r"確認(?:でき|が取れ)ない|確認不可|裏付け(?:が)?(?:取れ|得られ)ない|"
+                        r"情報源(?:なし|が見当たら)|検索結果に(?:一切)?含まれ|該当する情報源なし")
+
+def build_dynamic_queries(label, ja):
+    """記事本文から検証すべき論点を決定論的に抽出しクエリ化。
+       固定4本(日本語の由緒/文化財)に時間軸・主催の軸が無いのが過剰否定の構造的原因
+       (2026-07-28・112夜梅祭でPro過剰否定8例目/111深大寺の現況誤りと同根)。"""
+    qs, now = [], _dt.date.today().year
+    if _STATUS_RX.search(ja):
+        qs.append(f"{label} 中止 休止 {now}")
+    yrs = [int(y) for y in re.findall(r"(20[0-4]\d)年", ja)]
+    if yrs and max(yrs) >= now:
+        qs.append(f"{label} {max(yrs)} 開催")
+    if re.search(r"主催|主管|実行委員会", ja):
+        qs.append(f"{label} 主催 実行委員会")
+    return qs
+
+def classify_pro_findings(txt):
+    """Pro出力を(具体的な誤り指摘/確認不可)に分類。確認不可は是正候補に混ぜない。
+       Proの否定は『Proの検索に一次公式が入らなかった』だけのことが多い(過剰否定8例)。"""
+    blocks, cur = [], []
+    for line in (txt or "").split("\n"):
+        if line.startswith("- **") and cur:
+            blocks.append("\n".join(cur)); cur = [line]
+        else:
+            cur.append(line)
+    if cur: blocks.append("\n".join(cur))
+    concrete, denial = [], []
+    for b in blocks:
+        if not b.strip(): continue
+        (denial if _DENIAL_RX.search(b) else concrete).append(b.strip())
+    return concrete, denial
+
+def audit_pro_sources(urls):
+    """Pro参照URLの一次ソース判定(ステージング/プロキシ/転載を警告)。"""
+    bad = []
+    for u in urls or []:
+        host = re.sub(r"^https?://", "", u).split("/")[0].lower()
+        if any(k in host for k in _HOST_NG):
+            bad.append((host, u))
+    return bad
+
 def pro_proofread(qid, label, pref, ja, en, key):
     """還元(2026-07-24・86灘): DeepSeek V4 Proによる校正アシスト工程。
        ★原稿丸投げ禁止(86灘でExaクエリ暴走の主因)→論点を短クエリで検索接地。
@@ -378,10 +424,10 @@ def pro_proofread(qid, label, pref, ja, en, key):
     # 記事本文は確認対象の抜粋のみ最小限で渡す(丸投げ回避)。JAは冒頭2000字/ENは冒頭1500字。
     # 抜粋は最小限(2026-07-25今宮: en3000字化がExa暴走の引き金→ja1200/en1200へ短縮し暴走回避を最優先)。
     # 打毬型の見どころ内誤訳はEN見どころ周辺も別途少量付す(見出し##以降の先頭を追加)。
-    ja_ex = ja[:1200]
+    ja_ex = ja[:900]
     import re as _re
     _m = _re.search(r'##[^\n]*(?:見どころ|Highlights|Attractions|Features)', en)
-    en_ex = en[:1000] + (("\n...\n" + en[_m.start():_m.start()+800]) if _m else "")
+    en_ex = en[:800] + (("\n...\n" + en[_m.start():_m.start()+600]) if _m else "")
     prompt = (
         "あなたは日本の祭り記事のファクトチェッカーです。"
         "以下の記事について、(1)正式名称、(2)文化財指定の有無と年月日、(3)起源・由来、"
@@ -394,6 +440,9 @@ def pro_proofread(qid, label, pref, ja, en, key):
     )
     # 検索プラグインへ短クエリを明示注入しExa暴走を封じる(86灘の重要発見)
     sp = [f"{label} {pref} 公式", f"{label} 文化財 指定", f"{label} 由来 起源 神社", f"{label} {pref} 例祭"]
+    sp += build_dynamic_queries(label, ja)   # 時間軸/主催の論点を記事から自動生成
+    sp = sp[:7]
+    print(f"  Pro search_prompts {len(sp)}本: {sp[4:]}")
     try:
         data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=16000)
     except (SystemExit, Exception) as e:
@@ -601,6 +650,16 @@ def main():
     rep += f"(model=deepseek-v4-pro / cost=${pro_usage.get('cost')} / tokens {pro_usage.get('total_tokens')})\n\n"
     rep += pro_txt + "\n\n### Pro参照URL(要実在確認)\n"
     rep += ("\n".join(f"- {u}" for u in pro_cites) if pro_cites else "- (0件=検索接地失敗の可能性・要確認)")
+    _bad = audit_pro_sources(pro_cites)
+    if _bad:
+        rep += "\n\n### ★Pro参照URLの一次ソース警告(ステージング/プロキシ/転載)\n"
+        rep += "\n".join(f"- {h}  {u}" for h, u in _bad)
+    _con, _den = classify_pro_findings(pro_txt)
+    rep += f"\n\n### Pro指摘の分類: 具体指摘{len(_con)}件 / 確認不可{len(_den)}件"
+    if _den:
+        rep += ("\n※確認不可はProの検索に一次公式が入らなかっただけの可能性が高い"
+                "(過剰否定8例)。是正候補に入れず『要再検索の論点』として扱う。\n")
+        rep += "\n".join(f"- (確認不可) {b.splitlines()[0][:70]}" for b in _den)
     (OUT/f"{qid}_review.md").write_text(rep)
     print(f"  Pro校正完了 cost=${pro_usage.get('cost')} 参照URL{len(pro_cites)}件")
     print(f"完了 {el:.0f}秒 cost=${usage.get('cost')}")
