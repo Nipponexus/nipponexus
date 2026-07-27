@@ -566,11 +566,11 @@ def main():
     print(f"出力: llm_sim/{qid}_deepseek_full.md / {qid}_review.md")
     print("\n>>> 次: review.md を人/Claudeが照合 -> OKなら既存投入ブロックへ手動接続(本番投入は不可逆・別途確認)")
 
+from orphan_fix import absorb_orphan_attribution, detect_orphan_attribution, absorb_attribution_frames  # 還元K
+def strip_citations(s, *a, **k):
+    return absorb_orphan_attribution(_strip_citations_base(absorb_attribution_frames(s), *a, **k))
+
+
 if __name__=="__main__":
     main()
 
-
-from orphan_fix import absorb_orphan_attribution, detect_orphan_attribution  # 還元K
-
-def strip_citations(*a, **k):
-    return absorb_orphan_attribution(_strip_citations_base(*a, **k))
