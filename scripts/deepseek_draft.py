@@ -191,7 +191,7 @@ def detect_en_cjk(en):
 
 # ---- インライン出典装飾除去(2026-07-22追加/DeepSeekが地の文に[ラベル](URL)を乱発する問題) ----
 _CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
-def strip_citations(s):
+def _strip_citations_base(s):
     """地の文の[ラベル](URL)装飾を除去。ただし'公式情報'/'Official Information'行の
        公式サイトリンク1個は有用要素として保持する(手作りモデル記事の標準構成に準拠)。"""
     out=[]
@@ -568,3 +568,9 @@ def main():
 
 if __name__=="__main__":
     main()
+
+
+from orphan_fix import absorb_orphan_attribution, detect_orphan_attribution  # 還元K
+
+def strip_citations(*a, **k):
+    return absorb_orphan_attribution(_strip_citations_base(*a, **k))
