@@ -638,6 +638,11 @@ def review(qid, label, ja, en, cites, vr, usage):
             L.append(f"    - NG {a} {b}: {c}")
         for a, b, c in warn:
             L.append(f"    - WARN {a} {b}: {c}")
+    except (AttributeError, TypeError, NameError, ImportError) as e:
+        # 還元O(2026-07-28・114/115でgraft_checkが2本連続で空回りしていた事故):
+        # 検出器の『呼び出し側の誤り』(関数名・引数・import)はWARNで素通りさせない。
+        # try/exceptで続行してよいのは検出器が正常動作した上で結果を出せない場合のみ。
+        raise AssertionError('[FATAL] 接ぎ木検出器の呼び出しに失敗(検査未実施のまま進行禁止): %r' % (e,))
     except Exception as e:
         L.append(f"\n## 機械検出(接ぎ木・現況・メタ): スキップ({e})")
     return "\n".join(L)
