@@ -642,30 +642,53 @@ def review(qid, label, ja, en, cites, vr, usage):
         L.append(f"\n## 機械検出(接ぎ木・現況・メタ): スキップ({e})")
     return "\n".join(L)
 
-def apply_fixes(text, pairs):
-    """還元D(2026-07-23・82本目EN破損事故): 固定文字列の是正を安全に適用する共通ヘルパ。
-       pairs=[(old,new,expect,label),...]。各ペアで:
-        - new に未確定痕跡('...'/…/TODO/仮/xxx)が含まれたら即停止(是正コード自体の
-          幻覚=書きかけ文字列の実行経路混入を封じる=EN破損事故の再発防止)。
-        - 実置換数≠expect なら即停止(DB更新前に落とす=金沢/旭川/潮来/豊橋/八尾の
-          同型漏れ・過剰置換を構造的に防ぐ)。
-       Block1のheredocから `from deepseek_draft import apply_fixes` で使い、
-       手書き置換をやめる。"""
-    BAD=("...","\u2026","TODO","仮","xxx","XXX")
-    for old,new,expect,label in pairs:
+def _unescape_literal(s):
+    """還元M(2026-07-28・115鉱山祭): DeepSeek出力にリテラルの \' \" が混入すると
+       固定文字列も正規表現も当たらず置換が空振りし、本番に children\'s と露出する。
+       是正適用の前段で必ず正規化する(『カウント0を不在と読まない』の構造対処)。"""
+    if not s:
+        return s
+    return s.replace("\\'", "'").replace('\\"', '"')
+
+
+def apply_fixes(text, pairs, strict=False):
+    """還元D(2026-07-23・82八尾)+還元L(2026-07-28・116本町の八月踊り)。
+       pairs=[(old,new,expect,label),...]
+       ★expectは『人が数えた正解』ではなく『最低これだけは当たるはずの下限』。
+       116で count_targets が every other year:2 と出力済みだったのに expect へ 1 と
+       手書きして停止した=数え漏れではなく『実測値を使わず目視を優先した』事故。
+       →実測ヒット数を出力し、当たった全件を置換し、残存0をassertする方式へ変更。
+       人が書くのは下限だけなので、数え間違いが原理的に起きない。
+       strict=Trueの時だけ従来の完全一致判定(件数を意図的に固定したい場合のみ)。"""
+    BAD = ("...", "\u2026", "TODO", "(仮)", "（仮）", "xxx", "XXX")
+    text = _unescape_literal(text)
+    for old, new, expect, label in pairs:
         for b in BAD:
             if b in new:
                 raise AssertionError(f"[{label}] new に未確定痕跡'{b}'混入→停止(是正の幻覚防止)")
-        cnt=text.count(old)
-        if cnt!=expect:
-            # 還元G(2026-07-23・85本目): 未マッチ時oldの先頭12字を含む近傍行を列挙し差分特定を即座化。
-            key=old.strip()[:12]
-            near=[l for l in text.splitlines() if key and key in l][:3]
-            hint=("  近傍: "+" / ".join(repr(l[:60]) for l in near)) if near else "  近傍該当なし(oldの語句自体が本文に無い)"
-            raise AssertionError(f"[{label}] 期待{expect}件/実{cnt}件不一致→停止\n{hint}")
-        text=text.replace(old,new)
+        old = _unescape_literal(old)
+        cnt = text.count(old)
+        floor = 1 if expect in (None, 0) else int(expect)
+        if strict and expect is not None and cnt != expect:
+            raise AssertionError(f"[{label}] strict: 期待{expect}件/実{cnt}件不一致→停止")
+        if cnt < floor:
+            key = old.strip()[:12]
+            near = [l for l in text.splitlines() if key and key in l][:3]
+            hint = ("  近傍: " + " / ".join(repr(l[:60]) for l in near)) if near else \
+                   "  近傍なし=oldの語句自体が本文に無い。repr()で表記違いを確認せよ(115鉱山祭)"
+            raise AssertionError(f"[{label}] 下限{floor}件/実{cnt}件→停止(空振り)\n{hint}")
+        print(f"  [fix] {label}: 実測{cnt}件を置換(下限{floor})")
+        # 還元N(2026-07-28): oldがnewの部分文字列である追記型是正(仮宮→仮宮(御旅所))で
+        # 単純replace後の残存検査は必ず誤爆する。term_check._mask_expected(2026-07-27)と
+        # 同一の『部分文字列包含』パターン。センチネル経由にして包含に非依存化する。
+        sent = "\x00FIXSLOT\x00"
+        if sent in text:
+            raise AssertionError(f"[{label}] センチネル衝突→停止")
+        text = text.replace(old, sent)
+        if old in text:
+            raise AssertionError(f"[{label}] 置換後に残存{text.count(old)}件→停止")
+        text = text.replace(sent, new)
     return text
-
 
 def count_targets(ja, en, keys, ctx=90):
     """還元J(2026-07-26・104カセ鳥/全カウント義務違反5回目の構造対処):
