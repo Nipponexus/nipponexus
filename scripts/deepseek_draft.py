@@ -59,6 +59,7 @@ RULES_TMPL = """あなたは日本の祭り・年中行事の多言語データ�
 【ハルシネーション厳禁(最重要)】Webで確認できない事実は書かない。起源等が不確かなら「言い伝えによれば」「一説では」等の留保を付ける。創作で字数を埋めない。裏取り不能な電話番号・不確かな数値は書かない。中止・休止のあった祭りは開催情報に「最新の開催日程・実施可否は公式サイトで確認」と明記。終了した祭りは過去形で歴史的事実として記述。
 
 【将来陳腐化の回避(必須)】記事は長期間掲載されるため、その年限りで古くなる情報を本文に書かない。具体的には(1)特定年の開催日程(「2026年2月6日〜11日」等)や回数(「第67回」等)、(2)その年のテーマキャラクター名・コラボ企業名・出演者やアーティスト名・楽曲名、(3)単年限りの特別企画は書かない。開催時期は「例年2月上旬」「例年○月○旬の△曜」等の相対表現にし、「最新の日程・実施可否は公式サイトで確認」と注記する。ただし毎年同じ固定日(例:5月15日)や、過去の歴史的事実(創始年・文化財指定年・記録樹立年等)は正確な年で書いてよい(これらは相対化しない)。
+・その年限定の企画名/出演者/タレント名/スポーツ大会連動事業/コラボ名は書かない(例: 『アジア大会フレンドシップ事業』『○○トークショー』)。恒常的な行事のみ記述する。単年の協賛企業も同様。
 
 【出力形式】まず日本語本文(2,400字以上・目安3,500〜4,500字。事実が濃い題材でも冗長な一般論や美辞麗句で水増しせず、固有事実の3段展開で厚みを出す)、次に区切り線 ===EN=== 、続けて英語本文(日本語の2倍以上かつ2,400字以上)。英語本文に半角ダブルクォートを使わない。日本の祭事固有の行事名を英訳する際は意味を取り違えないこと(特に打毬=mounted ball game/polo系 と 流鏑馬=horseback archery、神楽/田楽/田植神事、神幸祭 と 還幸祭 など混同しやすい語)。原語の意味を確認してから訳す。前置き・後書き・メタ発言は書かず本文のみ出力。"""
 
@@ -198,6 +199,15 @@ def detect_en_cjk(en):
 
 # ---- インライン出典装飾除去(2026-07-22追加/DeepSeekが地の文に[ラベル](URL)を乱発する問題) ----
 _CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
+_BARE_CITE = re.compile(r'\s*\[[\w.\-]+\.(?:com|jp|org|net|info|co|go|lg|or|ne|ac)(?:\.[a-z]{2,3})?\]')
+
+def strip_bare_citations(s):
+    """還元(2026-07-28・113相模川): DeepSeekは回によって出典を[ラベル](URL)でなく
+       [incloop.com]のような裸ブラケットで書く。_CITEはリンク形式のみ対象のため
+       この形式が素通りし本番本文にドメイン名が露出した(66箇所)。装飾形式差に非依存化。"""
+    return re.sub(r'[ \t]{2,}', ' ', _BARE_CITE.sub('', s or ''))
+
+
 def _strip_citations_base(s):
     """地の文の[ラベル](URL)装飾を除去。ただし'公式情報'/'Official Information'行の
        公式サイトリンク1個は有用要素として保持する(手作りモデル記事の標準構成に準拠)。"""
@@ -416,42 +426,118 @@ def audit_pro_sources(urls):
             bad.append((host, u))
     return bad
 
+_SEC_JA = ["## 概要", "## 歴史", "## 見どころ", "## 開催情報", "## 周辺情報", "## 関連情報"]
+
+def split_sections(ja):
+    """C-1の必須6セクションで本文を分割(見出しが欠ける場合も落とさない)"""
+    pos = []
+    for h in _SEC_JA:
+        i = ja.find(h)
+        if i >= 0:
+            pos.append((i, h))
+    pos.sort()
+    out = {}
+    for k, (i, h) in enumerate(pos):
+        j = pos[k+1][0] if k+1 < len(pos) else len(ja)
+        out[h] = ja[i:j].strip()
+    return out
+
+def build_pro_blocks(ja, en):
+    """還元(2026-07-28・113相模川): 抜粋900字=本文の21.9%しかProに渡らず
+       周辺情報(3208字目)が構造的死角だった。1回を長くするとExa暴走(88今宮)するため
+       『長さ』でなく『回数』で解決する=同じ長さを複数回に分割送付。"""
+    s = split_sections(ja)
+    g = lambda *hs: "\n\n".join(s.get(h, "") for h in hs if s.get(h)).strip()
+    blocks = [
+        ("概要・歴史", g("## 概要", "## 歴史")[:1100]),
+        ("見どころ",   g("## 見どころ")[:1100]),
+        ("開催情報",   g("## 開催情報")[:1100]),
+        ("周辺・関連", g("## 周辺情報", "## 関連情報")[:1100]),
+    ]
+    return [(n, t) for n, t in blocks if len(t) >= 80]
+
+_ORG = re.compile(r'[一-龥ァ-ヶA-Za-z][一-龥ァ-ヶA-Za-zー・]{1,11}(?:市|町|村|寺|神社|大社|宮|城|大学|協会|クラブ|会館|博物館|科学館|公園|駅)(?![一-龥])')
+
+def build_block_queries(label, pref, name, text):
+    """ブロック内の固有名詞から検証クエリを作る。周辺情報の回では
+       施設名・自治体名そのものを投げる(113の『相模原市 姉妹都市』型を捕捉)。"""
+    if name == "概要・歴史":
+        return [f"{label} {pref} 公式", f"{label} 由来 起源", f"{label} 主催"]
+    if name == "見どころ":
+        return [f"{label} 見どころ 内容", f"{label} {pref}"]
+    if name == "開催情報":
+        return [f"{label} 開催 日程 会場", f"{label} アクセス 最寄り"]
+    names = []
+    for m in _ORG.findall(text):
+        if m not in names and m not in label:
+            names.append(m)
+    qs = [f"{n} {pref}" for n in names[:2]]
+    if "姉妹都市" in text or "友好都市" in text:
+        qs.append(f"{pref} 姉妹都市 友好都市")
+    return qs or [f"{label} {pref} 周辺"]
+
+
+_EPHEMERAL_PAT = re.compile(
+    r'第\d+回|20[2-9]\d年|フレンドシップ|コラボ|トークショー|ゲスト|出演|タレント|'
+    r'アーティスト|ライブ|コンテスト20|今年の|本年度の|competition|guest|talk show')
+
+def classify_ephemeral(txt):
+    """還元(2026-07-28・114一宮): Proは『公式発表との差分』で欠落を判定するため、
+       公式発表=その年の情報である以上、指摘は構造的に単年ネタへ偏る。
+       分割送付でカバレッジが上がるほどこの要求は増える→機械で不採用へ仕分ける。"""
+    keep, drop = [], []
+    for ln in (txt or "").split("\n"):
+        (drop if (ln.strip().startswith("-") and _EPHEMERAL_PAT.search(ln)) else keep).append(ln)
+    return "\n".join(keep), drop
+
+
 def pro_proofread(qid, label, pref, ja, en, key):
-    """還元(2026-07-24・86灘): DeepSeek V4 Proによる校正アシスト工程。
-       ★原稿丸投げ禁止(86灘でExaクエリ暴走の主因)→論点を短クエリで検索接地。
-       ★C-3b堅持: Proの回答は正解データとして採用せず人が一次照合する前提でreviewへ追記。
-       戻り: (回答テキスト, url_citationリスト, usage)。失敗時は('(Pro校正失敗)', [], {})。"""
-    # 記事本文は確認対象の抜粋のみ最小限で渡す(丸投げ回避)。JAは冒頭2000字/ENは冒頭1500字。
-    # 抜粋は最小限(2026-07-25今宮: en3000字化がExa暴走の引き金→ja1200/en1200へ短縮し暴走回避を最優先)。
-    # 打毬型の見どころ内誤訳はEN見どころ周辺も別途少量付す(見出し##以降の先頭を追加)。
-    ja_ex = ja[:900]
-    import re as _re
-    _m = _re.search(r'##[^\n]*(?:見どころ|Highlights|Attractions|Features)', en)
-    en_ex = en[:800] + (("\n...\n" + en[_m.start():_m.start()+600]) if _m else "")
-    prompt = (
-        "あなたは日本の祭り記事のファクトチェッカーです。"
-        "以下の記事について、(1)正式名称、(2)文化財指定の有無と年月日、(3)起源・由来、"
-        "(4)主要な固有名詞(人名/地名/神社名)、(5)英訳が日本語原語の意味と一致しているか(固有行事名の誤訳=例:打毬をhorseback archery/流鏑馬と誤訳する類)の5点をWeb検索で公式情報から確認し、"
-        "記事の記述と食い違う箇所・裏取りできない箇所・欠落している核心情報を箇条書きで指摘してください。"
-        "★あなたの回答は正解データとして自動採用されず必ず人間が一次照合します。断定せず、"
-        "各指摘に根拠URL(可能な限り公式=神社/自治体/文化庁)を添えてください。確認できない項目は「確認不可」と明記。"
-        "★長い思考・推論過程は不要。確認結果の箇条書きを直ちに出力してください(前置き禁止)。\n\n"
-        f"【対象】{pref}の「{label}」\n\n【記事(日本語冒頭抜粋)】\n{ja_ex}\n\n【記事(英語冒頭抜粋)】\n{en_ex}"
-    )
-    # 検索プラグインへ短クエリを明示注入しExa暴走を封じる(86灘の重要発見)
-    sp = [f"{label} {pref} 公式", f"{label} 文化財 指定", f"{label} 由来 起源 神社", f"{label} {pref} 例祭"]
-    sp += build_dynamic_queries(label, ja)   # 時間軸/主催の論点を記事から自動生成
-    sp = sp[:7]
-    print(f"  Pro search_prompts {len(sp)}本: {sp[4:]}")
-    try:
-        data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=16000)
-    except (SystemExit, Exception) as e:
-        return (f"(Pro校正失敗: {type(e).__name__}: {e})", [], {})
-    msg = data["choices"][0]["message"]
-    txt = (msg.get("content") or "").strip()
-    cites = [x.get("url_citation",{}).get("url") for x in (msg.get("annotations") or [])
-             if x.get("type")=="url_citation"]
-    return (txt, [c for c in cites if c], data.get("usage",{}))
+    """Pro校正(2026-07-28改修: セクション分割送付)。
+       ★1回あたりの長さは従来どおり短く保ちExa暴走(88今宮)を回避しつつ、
+         回数を分けて本文全体をカバーする(113で周辺情報が死角=捏造を見逃した還元)。
+       ★C-3b堅持: Proの回答は正解データとして採用せず人が一次照合する前提。"""
+    blocks = build_pro_blocks(ja, en)
+    if not blocks:
+        blocks = [("冒頭", ja[:1100])]
+    _m = re.search(r'##[^\n]*(?:見どころ|Highlights|Attractions)', en)
+    en_ex = (en[_m.start():_m.start()+600] if _m else en[:600])
+
+    facts, texts, allc, tot = [], [], [], {}
+    for idx, (name, body) in enumerate(blocks, 1):
+        pre = ("\n【前ブロックまでの確定事項(整合を確認)】\n" + "\n".join(facts[-4:])) if facts else ""
+        extra = f"\n\n【英語(見どころ抜粋・訳語照合用)】\n{en_ex}" if name == "見どころ" else ""
+        prompt = (
+            "日本の祭り記事のファクトチェッカーです。以下は記事の一部です。"
+            "Web検索で公式情報を確認し、(a)事実と食い違う箇所 (b)裏取りできない箇所 (c)欠落した核心情報 を箇条書きで指摘してください。"
+            "特に、記事内の固有名詞(自治体名/施設名/団体名)と、その主体に関する断定(提携/指定/主催など)が実在するかを確認してください。"
+            "★回答は自動採用されず人が一次照合します。断定せず根拠URL(公式優先)を添え、確認できない項目は「確認不可」と明記。"
+            "★【重要】その年限定の情報(単年の企画名/出演者/タレント名/コラボ/大会連動事業/特定年の日程)は""記事の陳腐化を招くため意図的に除外している。これらを『欠落』として指摘しないこと。""毎年恒常的に成立する事実(正式名称/由緒/神格/中核行事/会場/主催)のみを対象とせよ。\n""★長い思考は不要。箇条書きを直ちに出力(前置き禁止)。\n\n"
+            f"【対象】{pref}の「{label}」 / 検査対象セクション: {name}{pre}\n\n【本文】\n{body}{extra}"
+        )
+        sp = build_block_queries(label, pref, name, body)
+        if name == "概要・歴史":
+            sp += build_dynamic_queries(label, ja)
+        sp = sp[:5]
+        print(f"  Pro[{idx}/{len(blocks)}] {name} ({len(body)}字) queries={sp}")
+        try:
+            data = call(prompt, key, model=MODEL_PRO, search_prompts=sp, max_tokens=8000)
+        except (SystemExit, Exception) as e:
+            texts.append(f"### {name}\n(校正失敗: {type(e).__name__}: {e})")
+            continue
+        msg = data["choices"][0]["message"]
+        t = (msg.get("content") or "").strip()
+        texts.append(f"### {name}\n{t}")
+        for x in (msg.get("annotations") or []):
+            u = x.get("url_citation", {}).get("url")
+            if u and u not in allc:
+                allc.append(u)
+        u_ = data.get("usage", {}) or {}
+        for k_ in ("prompt_tokens", "completion_tokens", "total_tokens", "cost"):
+            if k_ in u_:
+                tot[k_] = tot.get(k_, 0) + u_[k_]
+        if name == "概要・歴史" and t:
+            facts.append(t[:300])
+    return ("\n\n".join(texts), allc, tot)
 
 def review(qid, label, ja, en, cites, vr, usage):
     years=[]
@@ -669,7 +755,7 @@ def main():
 
 from orphan_fix import absorb_orphan_attribution, detect_orphan_attribution, absorb_attribution_frames  # 還元K
 def strip_citations(s, *a, **k):
-    return absorb_orphan_attribution(_strip_citations_base(absorb_attribution_frames(s), *a, **k))
+    return strip_bare_citations(absorb_orphan_attribution(_strip_citations_base(absorb_attribution_frames(s), *a, **k)))
 
 
 if __name__=="__main__":
