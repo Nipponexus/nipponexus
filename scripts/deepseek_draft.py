@@ -727,6 +727,43 @@ def assert_total_absent(text, words):
         assert c==0, f"[全カウント義務] 旧語'{w}'が{c}件残存→数え漏れ(小見出し/別表記を確認)"
 
 
+
+def run_all_checks(qid, ja, en, strict=True):
+    """還元Q(2026-07-28・117伊勢えび祭): 検出器の呼び出しをBlock1で手書きしない。
+       同一ターンで3回(run_all誤名/run引数順/detect_en_term_mismatchの戻り値数)、
+       いずれも『シグネチャを確認せず推測で呼んだ』事故を起こした。原因が同じである以上
+       注意では止まらない→呼び出しを一度テストした単一入口に固定し、推測の余地を消す。
+       戻り: (ng_flag, lines)。strict=Trueなら呼び出し誤り(AttributeError/TypeError)は
+       握りつぶさず送出する(還元O)。"""
+    import graft_check as gc, term_check as tc
+    L = []
+    ng_any = False
+    inc, sm, label = gc.load_meta(qid)
+    L.append(f"== {qid} {label} (inception={inc} start_month={sm}) ==")
+    hit, subj, ev = gc.detect_origin_conflict(ja)
+    ng_any |= hit
+    L.append(f"1 起源主体の自己矛盾 : {'NG' if hit else 'OK'}  {subj}")
+    L += [f"     L{i} {s}" for i, s in ev]
+    hit, ng = gc.detect_meta_year_conflict(ja, inc, sm)
+    ng_any |= hit
+    L.append(f"2 DBメタ突合         : {'NG' if hit else 'OK'}"
+             + ("  [WARN] start_month=None (投入時に必須セット)" if not sm else ""))
+    L += [f"     L{i} [{k}] {v}" for i, k, v in ng]
+    hit, ng = gc.detect_status_assertion(ja, en)
+    ng_any |= hit
+    L.append(f"3 現況断定ガード     : {'NG' if hit else 'OK'}")
+    L += [f"     {t} L{i} {v}" for t, i, v in ng]
+    hit, ng, warn = gc.detect_reading_mismatch(ja, en)
+    ng_any |= hit
+    L.append(f"4 訳語の読み照合     : {'NG' if hit else 'OK'}")
+    L += [f"     NG   {a} {b}: {c}" for a, b, c in ng]
+    L += [f"     WARN {a} {b}: {c}" for a, b, c in warn]
+    hit, items = tc.detect_en_term_mismatch(ja, en)
+    ng_any |= hit
+    L.append(f"5 固有名詞の訳語照合 : {'NG' if hit else 'OK'}")
+    L += [f"     {it}" for it in items]
+    return ng_any, L
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--qid"); ap.add_argument("--auto", action="store_true")
