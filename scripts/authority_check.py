@@ -7,7 +7,10 @@ import re
 FIELDS_JA = ['主催','共催','後援','主管','問い合わせ','問合せ','正式名称','指定名称']
 FIELDS_EN = ['Organizer','Co-organizer','Sponsor','Contact','Official name']
 _ORG_TAIL = r'(?:実行委員会|委員会|協会|振興会|保存会|商工会議所|観光協会|振興協会|奉賛会|組合|連合会|神社|寺|市役所|市|町|村)'
-_ORG = re.compile(r'[一般社団法人|公益財団法人|財団法人|社団法人]*[ぁ-んァ-ヴ一-龥ー]{2,20}' + _ORG_TAIL)
+_PRE = r'(?:株式会社|有限会社|一般社団法人|公益社団法人|一般財団法人|公益財団法人|特定非営利活動法人|NPO法人)'
+_ORG = re.compile(_PRE + r'[ぁ-んァ-ヴ一-龥A-Za-zー・]{2,20}'
+                  r'|[ぁ-んァ-ヴ一-龥ー]{2,20}(?:事務局|実行委員会)'
+                  r'|[ぁ-んァ-ヴ一-龥ー]{2,20}' + _ORG_TAIL)
 
 def extract_authority_orgs(ja):
     out = []
