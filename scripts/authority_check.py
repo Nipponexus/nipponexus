@@ -24,8 +24,16 @@ def extract_authority_orgs(ja):
             seen.add(n); uniq.append((ln, n))
     return uniq
 
-def check(ja, sources_text):
-    """sources_text = citesの出典本文を連結した文字列。戻り値 (ng, lines)"""
+def check(ja, sources_text, label=""):
+    """sources_text = citesの出典本文を連結した文字列。戻り値 (ng, lines)。
+       還元S(2026-07-29・120神戸): coreフォールバックの誤爆/誤殺を是正。
+       coreが(1)3文字以上 (2)祭りlabelの部分文字列でない (3)地名のみでない、
+       の全条件を満たす場合のみ証拠とする。
+       『神戸まつり実行委員会』(core=神戸まつり=labelと一致)はフォールバック不可で
+       full不在=×(正しく赤字)、『神戸商工会議所』(core=神戸=2文字かつ地名)も
+       フォールバック不可=full不在=×(×だがPro照合で実在の正しい団体と判定される想定)。"""
+    # 地名のみのcoreを弾く(都道府県+主要市・祭り開催地で頻出するもの)
+    _PLACE = re.compile(r'^(神戸|東京|大阪|京都|名古屋|横浜|福岡|札幌|仙台|広島|那覇|神戸市|川崎|埼玉|千葉|堺|静岡|浜松|新潟|岡山|熊本|鹿児島|相模原|姫路|金沢|高松|松山|高知|長崎|大分|宮崎|青森|秋田|山形|福島|盛岡|水戸|宇都宮|前橋|甲府|長野|富山|福井|岐阜|大津|奈良|和歌山|鳥取|松江|山口|徳島|高知|佐賀|長野|富山|石川)$')
     orgs = extract_authority_orgs(ja)
     lines, ng = [], False
     if not orgs:
@@ -34,7 +42,10 @@ def check(ja, sources_text):
         hit = name in sources_text
         if not hit:
             core = re.sub(_ORG_TAIL + r'$', '', name)
-            hit = bool(core) and len(core) >= 3 and core in sources_text
+            ok_core = (bool(core) and len(core) >= 3
+                       and (not label or core not in label)
+                       and not _PLACE.match(core))
+            hit = ok_core and core in sources_text
         if hit:
             lines.append('  L%-3d %s : 出典に出現' % (ln, name))
         else:

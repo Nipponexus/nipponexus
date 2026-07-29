@@ -14,6 +14,11 @@ try:
 except Exception:
     detect_en_term_mismatch = None
 
+try:
+    import pro_verify_loop as pvl
+except Exception:
+    pvl = None
+
 
 DB   = os.path.expanduser("~/nipponexus/data/sqlite/nipponexus.db")
 ENV  = os.path.expanduser("~/.openclaw/.env")
@@ -821,6 +826,25 @@ def main():
     # ---- Pro校正工程(2026-07-24・86灘で確立: 短クエリ検索接地・C-3bで要一次照合) ----
     print("Pro校正中(deepseek-v4-pro・短クエリ検索接地)...")
     pro_txt, pro_cites, pro_usage = pro_proofread(qid, label, pref, ja, en, key)
+
+    # ---- Pro照合ループ(2026-07-29・還元T: 赤字→候補抽出→Pro選択→evidence照合) ----
+    if pvl:
+        print("Pro照合ループ中(赤字の候補選択)...")
+        try:
+            ng_any, run_lines = run_all_checks(qid, ja, en, strict=True)
+            pvl_payload, pvl_report = pvl.run(qid, label, pref, ja, en, cites, run_lines,
+                                              key, call, MODEL_PRO, fetch_sources=True)
+            rep += "\n\n## 【Pro照合ループ結果(還元T・赤字の候補選択)】\n"
+            rep += pvl_report
+            (OUT/f"{qid}_pro_verify.json").write_text(
+                json.dumps(pvl_payload, ensure_ascii=False, indent=2))
+            print(f"  Pro照合ループ完了: 赤字{pvl_payload['defect_count']}件 / "
+                  f"検証通過{len(pvl_payload['verified_fixes'])}件")
+        except Exception as e:
+            rep += f"\n\n## 【Pro照合ループ: スキップ({type(e).__name__}: {e})】\n"
+            print(f"  [警告] Pro照合ループ失敗: {type(e).__name__}: {e}")
+    else:
+        rep += "\n\n## 【Pro照合ループ: pro_verify_loop未importのためスキップ】\n"
     rep += "\n\n## 【Pro校正・要一次照合(C-3b: Proの正解データは信用せず必ず人が一次照合)】\n"
     rep += f"(model=deepseek-v4-pro / cost=${pro_usage.get('cost')} / tokens {pro_usage.get('total_tokens')})\n\n"
     rep += pro_txt + "\n\n### Pro参照URL(要実在確認)\n"
