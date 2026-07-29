@@ -656,7 +656,30 @@ def _unescape_literal(s):
     return s.replace("\\'", "'").replace('\\"', '"')
 
 
-def apply_fixes(text, pairs, strict=False):
+_FW_CITE = re.compile(r"【[^】]{2,40}\.(?:com|jp|org|net|info|co\.jp|go\.jp|lg\.jp|or\.jp|ne\.jp)[^】]{0,20}】")
+
+def strip_fullwidth_citations(s):
+    """還元S(2026-07-29・119こまねこまつり)。113で潰した裸出典は半角[incloop.com]形式
+       だったが、DeepSeekは全角【wikid.org】でも書く(出力装飾は回ごとに揺れる)。
+       ★無条件に【】を消してはならない=119で【2020年以降は非開催】(本文の非開催告知)を
+       消す事故を起こした。ドメイン形式に限定する。"""
+    return _FW_CITE.sub("", s or "")
+
+def _norm_pairs(pairs, label=None):
+    """還元T(2026-07-29)。apply_fixesの引数形を推測して落とすミスを今日5回起こした。
+       (old,new) の2要素も受け付け、期待件数は人が書かず内部で実測する(還元Lの実装)。"""
+    out = []
+    for p in pairs:
+        if len(p) == 2:
+            out.append((p[0], p[1], None, label or "fix"))
+        elif len(p) == 3:
+            out.append((p[0], p[1], p[2], label or "fix"))
+        else:
+            out.append(tuple(p))
+    return out
+
+
+def apply_fixes(text, pairs, strict=False, label=None):
     """還元D(2026-07-23・82八尾)+還元L(2026-07-28・116本町の八月踊り)。
        pairs=[(old,new,expect,label),...]
        ★expectは『人が数えた正解』ではなく『最低これだけは当たるはずの下限』。
@@ -666,6 +689,7 @@ def apply_fixes(text, pairs, strict=False):
        人が書くのは下限だけなので、数え間違いが原理的に起きない。
        strict=Trueの時だけ従来の完全一致判定(件数を意図的に固定したい場合のみ)。"""
     BAD = ("...", "\u2026", "TODO", "(仮)", "（仮）", "xxx", "XXX")
+    pairs = _norm_pairs(pairs, label)
     text = _unescape_literal(text)
     for old, new, expect, label in pairs:
         for b in BAD:
