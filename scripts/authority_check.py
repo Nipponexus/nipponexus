@@ -12,13 +12,20 @@ _ORG = re.compile(_PRE + r'[ぁ-んァ-ヴ一-龥A-Za-zー・]{2,20}'
                   r'|[ぁ-んァ-ヴ一-龥ー]{2,20}(?:事務局|実行委員会)'
                   r'|[ぁ-んァ-ヴ一-龥ー]{2,20}' + _ORG_TAIL)
 
+def _trim_particles(name):
+    """助詞の巻き込みを除去(『運営はゲームマーケット事務局』『株式会社アークライトで』)。
+       『の』は名称内に頻出(みなとの祭実行委員会)のため先頭剥がしの対象にしない。"""
+    name = re.sub(r'^.*?[はがも](?=[ァ-ヴA-Za-z一-龥])', '', name)
+    name = re.sub(r'[でにをはがともへや、。]+$', '', name)
+    return name
+
 def extract_authority_orgs(ja):
     out = []
     for i, line in enumerate(ja.split('\n'), 1):
         if not any(f in line for f in FIELDS_JA):
             continue
         for m in _ORG.finditer(line):
-            name = m.group(0).lstrip('・-* 　')
+            name = _trim_particles(m.group(0).lstrip('・-* 　'))
             if len(name) >= 3:
                 out.append((i, name))
     seen, uniq = set(), []
