@@ -26,6 +26,17 @@ OUT  = pathlib.Path(os.path.expanduser("~/nexus_data/llm_sim"))
 MODEL = "deepseek/deepseek-v4-flash"
 MODEL_PRO = "deepseek/deepseek-v4-pro"
 
+# 除外題材(2026-07-30・Opusレビューで判明): pick()で機械的に弾く。
+# キューに書くだけでは守られなかった(123東京国際映画祭=見本qid・125ゲームマーケット=
+# skipped_offtopic相当を連続で引いた)。コード化しないと次のチャットでも再発する。
+EXCLUDE_QIDS = frozenset({
+    "Q1046742",   # コミックマーケット(C-1のfew-shot見本qid)
+    "Q1043431",   # 東京国際映画祭(C-1のfew-shot見本qid)
+    "Q903645",    # 国際花と緑の博覧会(博覧会/見本市=オフトピック相当)
+    "Q116056816", # 2027年国際園芸博覧会(博覧会/見本市=オフトピック相当)
+    "Q11301756",  # ゲームマーケット(C-3fでskipped_offtopic相当と明記)
+})
+
 def get_key():
     m = re.search(r'^OPENROUTER_API_KEY=(.+)$', pathlib.Path(ENV).read_text(), re.M)
     if not m: raise SystemExit("NG: OPENROUTER_API_KEY 未設定")
@@ -35,12 +46,18 @@ def get_key():
 def pick(qid=None, auto=False):
     con = sqlite3.connect(DB); con.row_factory = sqlite3.Row
     if qid:
+        if qid in EXCLUDE_QIDS:
+            con.close()
+            raise SystemExit(f"NG: {qid} は除外題材(EXCLUDE_QIDS)。見本qid/博覧会/オフトピック相当は生成対象外")
         row = con.execute("SELECT * FROM festivals WHERE qid=?", (qid,)).fetchone()
     else:
+        placeholders = ",".join("?" * len(EXCLUDE_QIDS))
         row = con.execute(
             "SELECT * FROM festivals WHERE status='drafted' "
             "AND LENGTH(COALESCE(manual_content_ja,''))<2400 "
-            "ORDER BY COALESCE(priority_score,0) DESC LIMIT 1").fetchone()
+            f"AND qid NOT IN ({placeholders}) "
+            "ORDER BY COALESCE(priority_score,0) DESC LIMIT 1",
+            tuple(EXCLUDE_QIDS)).fetchone()
     con.close()
     if not row: raise SystemExit("NG: 対象記事なし")
     return dict(row)
@@ -758,7 +775,9 @@ def assert_total_absent(text, words):
 
 
 def run_all_checks(qid, ja, en, strict=True):
-    """還元Q(2026-07-28・117伊勢えび祭): 検出器の呼び出しをBlock1で手書きしない。
+    """検出器のfail-closed一般化（2026-07-30・Opusレビューで判明）。
+       NGが0より大きい場合にDB投入をブロックする。
+       還元Q(2026-07-28・117伊勢えび祭): 検出器の呼び出しをBlock1で手書きしない。
        同一ターンで3回(run_all誤名/run引数順/detect_en_term_mismatchの戻り値数)、
        いずれも『シグネチャを確認せず推測で呼んだ』事故を起こした。原因が同じである以上
        注意では止まらない→呼び出しを一度テストした単一入口に固定し、推測の余地を消す。
@@ -791,6 +810,8 @@ def run_all_checks(qid, ja, en, strict=True):
     ng_any |= hit
     L.append(f"5 固有名詞の訳語照合 : {'NG' if hit else 'OK'}")
     L += [f"     {it}" for it in items]
+    if ng_any:
+        raise AssertionError(f"検出器NG: {qid} で {sum(1 for l in L if 'NG' in l)}件のNGを検出")
     return ng_any, L
 
 def main():
@@ -865,6 +886,20 @@ def main():
     print(f"検算 ja{vr['ja_len']} en{vr['en_len']} 見出し{vr['h']} 太字{vr['b']} => {'OK' if vr['ok'] else 'NG'}")
     print(f"出力: llm_sim/{qid}_deepseek_full.md / {qid}_review.md")
     print("\n>>> 次: review.md を人/Claudeが照合 -> OKなら既存投入ブロックへ手動接続(本番投入は不可逆・別途確認)")
+    
+    # ハッシュ一致の担保（2026-07-30・Opusレビューで判明）:
+    # 検証した文字列と出荷した文字列が別物だったことの証拠。
+    # 投入前にfileとDBの文字列一致をassertする。
+    import hashlib
+    full_path = OUT/f"{qid}_deepseek_full.md"
+    with open(full_path) as f:
+        full = f.read()
+    parts = full.split("\n\n===EN===\n\n")
+    ja_file, en_file = parts[0], (parts[1] if len(parts) > 1 else "")
+    ja_file_hash = hashlib.sha256(ja_file.encode()).hexdigest()[:16]
+    en_file_hash = hashlib.sha256(en_file.encode()).hexdigest()[:16]
+    print(f"ハッシュ: JA={ja_file_hash} EN={en_file_hash}")
+    print(">>> 投入前にfileとDBの文字列一致をassertする（deploy_article.pyで担保）")
 
 from orphan_fix import absorb_orphan_attribution, detect_orphan_attribution, absorb_attribution_frames  # 還元K
 def strip_citations(s, *a, **k):

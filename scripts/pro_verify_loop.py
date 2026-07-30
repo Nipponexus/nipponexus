@@ -27,6 +27,28 @@ def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
         elif ln.strip().startswith("L") and cur:
             defects.append({"detector": "run_all_checks", "field": cur,
                             "excerpt": ln.strip(), "detail": cur + " / " + ln.strip()})
+    # 還元(2026-07-30・127本目しばれフェス): audit_years_against_citations/
+    # detect_future_ephemeralはreview.md出力のみでcollect_defectsに未接続だった。
+    # Pro照合ループの監査対象は run_all_checks5項目+authority_check+ephemeral_srcの
+    # 7項目に限定され、年号照合と将来陳腐化はClaude一次照合に依存していた
+    # (Proループがdefect_count:0を返したのは正しい判定だが、対象範囲が狭すぎた)。
+    try:
+        from deepseek_draft import audit_years_against_citations, detect_future_ephemeral
+        for y, verdict, doms in audit_years_against_citations(ja, cites or []):
+            if "×人的確認" in verdict:
+                defects.append({"detector": "audit_years_against_citations",
+                                "field": "年号(要人的確認)",
+                                "excerpt": f"{y}年", "detail": f"{y}: {verdict}"})
+        fe, fe_hits = detect_future_ephemeral(ja, en)
+        if fe:
+            for h in fe_hits:
+                defects.append({"detector": "detect_future_ephemeral",
+                                "field": "将来陳腐化候補",
+                                "excerpt": h[:120], "detail": h})
+    except Exception as e:
+        defects.append({"detector": "collect_defects_ext", "field": "接続エラー",
+                        "excerpt": f"{type(e).__name__}: {e}",
+                        "detail": "audit_years_against_citations/detect_future_ephemeral接続失敗"})
     sources_text = ""
     if fetch_sources:
         docs = []
