@@ -155,21 +155,29 @@ a:hover { color: var(--color-shu-dark); }
    スクロールアニメーション
    ============================================ */
 .reveal {
+  opacity: 1;
+  transform: none;
+}
+.reveal.js-reveal {
   opacity: 0;
   transform: translateY(40px);
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
-.reveal.is-visible {
+.reveal.js-reveal.is-visible {
   opacity: 1;
   transform: translateY(0);
 }
 
 .reveal-left {
+  opacity: 1;
+  transform: none;
+}
+.reveal-left.js-reveal {
   opacity: 0;
   transform: translateX(-40px);
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
-.reveal-left.is-visible {
+.reveal-left.js-reveal.is-visible {
   opacity: 1;
   transform: translateX(0);
 }
