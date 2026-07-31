@@ -810,7 +810,7 @@ def run_all_checks(qid, ja, en, strict=True):
     ng_any |= hit
     L.append(f"5 固有名詞の訳語照合 : {'NG' if hit else 'OK'}")
     L += [f"     {it}" for it in items]
-    if ng_any:
+    if ng_any and strict:
         raise AssertionError(f"検出器NG: {qid} で {sum(1 for l in L if 'NG' in l)}件のNGを検出")
     return ng_any, L
 
