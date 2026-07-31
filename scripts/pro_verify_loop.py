@@ -21,12 +21,20 @@ def _fetch(url, timeout=12):
 def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
     defects = []
     cur = ""
+    # 還元(2026-08-01・129フジロック): 旧実装は(a)NG見出しの後にcurをリセットせず
+    # 後続のOK節の詳細行まで巻き込み、(b)詳細行を「L」始まりに限定していたため
+    # 訳語照合のdict形式の赤字を取りこぼしていた。見出し行(先頭が数字+空白)で
+    # 状態を切り替え、NG節の配下にある詳細行だけを拾う方式へ変更する。
     for ln in (run_all_lines or []):
-        if "NG" in ln and "OK" not in ln:
-            cur = ln.strip()
-        elif ln.strip().startswith("L") and cur:
+        s = ln.strip()
+        if not s:
+            continue
+        if re.match(r"^\d+\s", s) or s.startswith("=="):
+            cur = s if ": NG" in s else ""
+            continue
+        if cur:
             defects.append({"detector": "run_all_checks", "field": cur,
-                            "excerpt": ln.strip(), "detail": cur + " / " + ln.strip()})
+                            "excerpt": s, "detail": cur + " / " + s})
     # 還元(2026-07-30・127本目しばれフェス): audit_years_against_citations/
     # detect_future_ephemeralはreview.md出力のみでcollect_defectsに未接続だった。
     # Pro照合ループの監査対象は run_all_checks5項目+authority_check+ephemeral_srcの

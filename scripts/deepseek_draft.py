@@ -852,7 +852,11 @@ def main():
     if pvl:
         print("Pro照合ループ中(赤字の候補選択)...")
         try:
-            ng_any, run_lines = run_all_checks(qid, ja, en, strict=True)
+            # 還元(2026-08-01・129フジロック): strict=Trueだと検出器NG時に例外となり
+            # Pro照合ループが起動しない=『赤字を入力として照合する』設計目的の逆転。
+            # 生成工程では停止せず材料として渡す(不可逆投入のfail-closedはBlock1/
+            # deploy_article側で担保される)。
+            ng_any, run_lines = run_all_checks(qid, ja, en, strict=False)
             pvl_payload, pvl_report = pvl.run(qid, label, pref, ja, en, cites, run_lines,
                                               key, call, MODEL_PRO, fetch_sources=True)
             rep += "\n\n## 【Pro照合ループ結果(還元T・赤字の候補選択)】\n"
