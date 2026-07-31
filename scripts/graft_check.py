@@ -69,10 +69,8 @@ def detect_meta_year_conflict(ja, inception, start_month):
     for i, line in enumerate(ja.split("\n"), 1):
         if not START_CTX.search(line):
             continue
-        pos = 0
         for clause in re.split("([、。])", line):
             if clause in ("、", "。"):
-                pos += len(clause)
                 continue
             if FIRST_CTX.search(clause):
                 cands = []
@@ -89,7 +87,6 @@ def detect_meta_year_conflict(ja, inception, start_month):
                         item = (i, "開始年", "本文%s / DB inception_year %s" % (best, inception))
                         if item not in ng:
                             ng.append(item)
-            pos += len(clause)
     for m in ANNIV.finditer(ja):
         y, n = int(m.group(1)), int(m.group(2))
         implied = y - n + 1
