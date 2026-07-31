@@ -60,36 +60,36 @@ def detect_meta_year_conflict(ja, inception, start_month):
     # START_CTXに当たった行の全西暦を開始年候補にすると、同じ行にある背景年号
     # (カープ優勝1975・第49回2026等)まで inception と比較してしまう。
     # 初回を示す語の近傍(前後20字)にある西暦だけを開始年とみなす。
-    # 最近傍対応(2026-07-31・120神戸/128フラワーフェスティバルの偽陽性を受けた還元):
-    # 距離の閾値では分離できない(「1977年（昭和52年）に第1回」=8字、
-    # 「第1回が開催されて以来、2026年」=9字でほぼ同距離)。判別すべきは距離でなく
-    # 対応関係なので、初回語ごとに最も近い西暦を1つだけ開始年候補とする。
+    # 節内対応(2026-07-31・129フジロックで最近傍方式の弱点が判明した再還元):
+    # 距離では判別できない。「1997年に山梨県富士天神山スキー場で第1回が開催され、
+    # 1999年から…」では会場名が長いため1997年が14字、読点をまたいだ1999年が6字となり
+    # 最近傍が誤答する。開始年と初回語は同一の節(読点・句点で区切られた単位)にあるはず
+    # なので、節を単位に対応させる。節内に複数あるときのみ最近傍を採る。
     FIRST_CTX = re.compile("第1回|第一回|初開催|初めて開催|創始|創設|始まった|始まり|スタートした")
     for i, line in enumerate(ja.split("\n"), 1):
         if not START_CTX.search(line):
             continue
-        years = []
-        for m in YEAR.finditer(line):
-            d = "".join(ch for ch in (m.group(1) if m.groups() else m.group(0)) if ch.isdigit())
-            if d:
-                years.append((m.start(), m.end(), d))
-        if not years:
-            continue
-        for c in FIRST_CTX.finditer(line):
-            cs, ce = c.span()
-            best, bestd = None, None
-            for ys, ye, d in years:
-                dist = cs - ye if ye <= cs else ys - ce
-                if dist < 0 or dist > 15:
-                    continue
-                if bestd is None or dist < bestd:
-                    best, bestd = d, dist
-            if best is None:
+        pos = 0
+        for clause in re.split("([、。])", line):
+            if clause in ("、", "。"):
+                pos += len(clause)
                 continue
-            if inception and abs(int(best) - int(inception)) >= 1:
-                item = (i, "開始年", "本文%s / DB inception_year %s" % (best, inception))
-                if item not in ng:
-                    ng.append(item)
+            if FIRST_CTX.search(clause):
+                cands = []
+                for c in FIRST_CTX.finditer(clause):
+                    for m in YEAR.finditer(clause):
+                        d = "".join(ch for ch in (m.group(1) if m.groups() else m.group(0)) if ch.isdigit())
+                        if not d:
+                            continue
+                        dist = c.start() - m.end() if m.end() <= c.start() else m.start() - c.end()
+                        cands.append((abs(dist), d))
+                if cands:
+                    best = min(cands)[1]
+                    if inception and abs(int(best) - int(inception)) >= 1:
+                        item = (i, "開始年", "本文%s / DB inception_year %s" % (best, inception))
+                        if item not in ng:
+                            ng.append(item)
+            pos += len(clause)
     for m in ANNIV.finditer(ja):
         y, n = int(m.group(1)), int(m.group(2))
         implied = y - n + 1
