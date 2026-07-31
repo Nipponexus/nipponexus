@@ -56,11 +56,40 @@ def detect_origin_conflict(ja):
 
 def detect_meta_year_conflict(ja, inception, start_month):
     ng = []
+    # 近傍限定(2026-07-31・120神戸/128フラワーフェスティバルの偽陽性を受けた還元):
+    # START_CTXに当たった行の全西暦を開始年候補にすると、同じ行にある背景年号
+    # (カープ優勝1975・第49回2026等)まで inception と比較してしまう。
+    # 初回を示す語の近傍(前後20字)にある西暦だけを開始年とみなす。
+    # 最近傍対応(2026-07-31・120神戸/128フラワーフェスティバルの偽陽性を受けた還元):
+    # 距離の閾値では分離できない(「1977年（昭和52年）に第1回」=8字、
+    # 「第1回が開催されて以来、2026年」=9字でほぼ同距離)。判別すべきは距離でなく
+    # 対応関係なので、初回語ごとに最も近い西暦を1つだけ開始年候補とする。
+    FIRST_CTX = re.compile("第1回|第一回|初開催|初めて開催|創始|創設|始まった|始まり|スタートした")
     for i, line in enumerate(ja.split("\n"), 1):
-        if START_CTX.search(line):
-            for y in YEAR.findall(line):
-                if inception and abs(int(y) - int(inception)) >= 1:
-                    ng.append((i, "開始年", "本文%s / DB inception_year %s" % (y, inception)))
+        if not START_CTX.search(line):
+            continue
+        years = []
+        for m in YEAR.finditer(line):
+            d = "".join(ch for ch in (m.group(1) if m.groups() else m.group(0)) if ch.isdigit())
+            if d:
+                years.append((m.start(), m.end(), d))
+        if not years:
+            continue
+        for c in FIRST_CTX.finditer(line):
+            cs, ce = c.span()
+            best, bestd = None, None
+            for ys, ye, d in years:
+                dist = cs - ye if ye <= cs else ys - ce
+                if dist < 0 or dist > 15:
+                    continue
+                if bestd is None or dist < bestd:
+                    best, bestd = d, dist
+            if best is None:
+                continue
+            if inception and abs(int(best) - int(inception)) >= 1:
+                item = (i, "開始年", "本文%s / DB inception_year %s" % (best, inception))
+                if item not in ng:
+                    ng.append(item)
     for m in ANNIV.finditer(ja):
         y, n = int(m.group(1)), int(m.group(2))
         implied = y - n + 1

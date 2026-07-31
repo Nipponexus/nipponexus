@@ -60,12 +60,43 @@ def _mask_expected(en, expected):
     return masked
 
 
+def _en_scope(ja, en, term):
+    """JA側で term を含む段落に対応する EN 段落を返す。
+    局所化の理由(2026-07-31・128ひろしまフラワーフェスティバル):
+    JAが山車(=float)と屋台(=食の出店)を併用する題材で、文書全体の共起判定が
+    正しい food stall を誤訳と判定した。両者は同じ##ブロック(見どころ)内の
+    別の太字小見出しに属するため、ブロック単位では粗く段落単位まで下ろす。
+    対応が取れない場合は None を返し、呼び出し側は文書全体を対象にする
+    (フォールバックにより検出力は落とさない)。"""
+    try:
+        import pair_check as pc
+        jb, eb = pc._blocks(ja), pc._blocks(en)
+    except Exception:
+        return None
+    if not jb or len(jb) != len(eb):
+        return None
+    out = []
+    for i, b in enumerate(jb):
+        jtext = "\n".join(l for _, l in b[1])
+        etext = "\n".join(l for _, l in eb[i][1])
+        if term not in (b[0] or "") and term not in jtext:
+            continue
+        jp = [x for x in jtext.split("\n\n") if x.strip()]
+        ep = [x for x in etext.split("\n\n") if x.strip()]
+        if len(jp) > 1 and len(jp) == len(ep):
+            out += [ep[k] for k, x in enumerate(jp) if term in x]
+        else:
+            out.append(etext)
+    return "\n".join(out) if out else None
+
+
 def _scan(ja, en, table):
     out = []
     for term, (expected, forbidden) in table.items():
         if term not in ja:
             continue
-        probe = _mask_expected(en, expected) if expected else en
+        scope = _en_scope(ja, en, term) or en
+        probe = _mask_expected(scope, expected) if expected else scope
         bad = [f for f in forbidden if f in probe]
         if bad:
             out.append({"term": term, "level": "NG",
