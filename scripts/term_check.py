@@ -96,7 +96,29 @@ def _scan(ja, en, table):
         if term not in ja:
             continue
         scope = _en_scope(ja, en, term) or en
-        probe = _mask_expected(scope, expected) if expected else scope
+        # テーブル横断マスク(2026-08-01・偽陽性走査で判明):
+        # 日立風流物やたてもん祭りは有形と無形の両方の指定を持ち、正しい
+        # 「Important Tangible Folk Cultural Property」が無形側の禁止語
+        # 「Tangible Folk Cultural Property」として拾われていた。自エントリの
+        # 期待語だけでなく全テーブルの期待語をマスクしてから禁止語を探す
+        # (82本目の還元C『正しいEN表記を機械適用で壊さない』のテーブル横断版)。
+        # 条件付き横断マスク: 他エントリの期待語をマスクするのは、その語が
+        # JA本文に実在する場合のみ。一律マスクすると『打毬の禁止語horseback
+        # archeryは流鏑馬の期待語』のような相互参照で検出力が落ちる(回帰で捕捉)。
+        all_expected = list(expected)
+        for _tbl in (TERM_TABLE, HERITAGE_TABLE):
+            for _t, (_e, _f) in _tbl.items():
+                # 核語一致(2026-08-01): 犬山祭やたてもん祭りはJA側が
+                # 「県指定有形民俗文化財」と書くためキー完全一致では
+                # マスクが効かない。「有形民俗文化財」等の核部分で判定する。
+                _core = _t.replace("重要", "")
+                if _t != term and (_t in ja or (len(_core) >= 4 and _core in ja)):
+                    # 接頭辞なし形も併せてマスク(2026-08-01): JAが「県指定有形民俗
+                    # 文化財」の場合、EN側も Important を伴わない Tangible Folk
+                    # Cultural Property と書かれるため、Important 付きだけを
+                    # マスクしても禁止語判定を素通りできない。
+                    all_expected += _e + [x.replace("Important ", "") for x in _e]
+        probe = _mask_expected(scope, all_expected) if all_expected else scope
         bad = [f for f in forbidden if f in probe]
         if bad:
             out.append({"term": term, "level": "NG",

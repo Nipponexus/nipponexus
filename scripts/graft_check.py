@@ -98,21 +98,55 @@ def detect_meta_year_conflict(ja, inception, start_month):
     for m in ANNIV.finditer(ja):
         y, n = int(m.group(1)), int(m.group(2))
         implied = y - n + 1
-        if inception and implied != int(inception):
+        # off-by-one許容(2026-08-01・弘前さくらまつり2018年100周年→1919 vs DB1918):
+        # 周年は初回を1年目と数えるか0年目と数えるかで1年ずれる。1年差は
+        # 数え方の差であり矛盾ではない。
+        if inception and abs(implied - int(inception)) > 1:
             ng.append((0, "周年逆算", "%s年%s周年→初回%s / DB %s" % (y, n, implied, inception)))
     if start_month:
         months = set(int(x) for x in re.findall(r"例年(\d{1,2})月", ja))
-        if months and int(start_month) not in months:
+        # 開催月の判定緩和(2026-08-01・偽陽性走査): 「例年N月」は十日えびすの
+        # 大福初詣のように別行事の期間を指すことがあり、それだけで開催月を
+        # 断ずるのは粗い。DBの月が本文に「N月」として現れていれば整合とみなす。
+        if months and int(start_month) not in months \
+                and ("%d月" % int(start_month)) not in ja:
             ng.append((0, "開催月", "本文%s / DB start_month %s" % (sorted(months), start_month)))
     return (len(ng) > 0), ng
 
+_HIST_CTX = re.compile("(?:1[5-9]\\d{2}|20\\d{2})年|明治\\d+年|大正\\d+年|昭和\\d+年|平成\\d+年|令和\\d+年"
+                       "|明治時代|大正時代|昭和時代|江戸時代|戦後|戦時中|終戦|\\d+年ぶり"
+                       "|[明大昭平令][治正和成]期|[明大昭平令][治正和成](?:初|中|後|前)期")
+_HIST_CTX_EN = re.compile(r"\b(?:1[5-9]\d{2}|20\d{2})\b")
+# 現在形の断定(常に要注記)と過去形の叙述(歴史文脈なら許容)を分離する
+# (2026-08-01・偽陽性走査の第二次還元): 「復活を遂げた」「開催されることとなり」は
+# 過去の事実叙述であり、無根拠の現況主張ではない。読者に誤りが届く危険は
+# 「現在も開催されている」型に集中する。
+_NOW_JA = re.compile("現在も(?:毎年)?(?:開催|続)|毎年開催されて(?:いる|おり)|継続して開催されて(?:いる|おり)")
+_PAST_JA = re.compile("再開され|再開した|復活を遂げ")
+_NOW_EN = re.compile("continues to be held annually|is still held annually")
+_PAST_EN = re.compile("has (?:since )?resumed|resumed (?:since|after)|has (?:since )?been held again")
+
+
 def detect_status_assertion(ja, en):
+    """現況断定ガード。文単位で判定し、現在形と過去形で扱いを分ける。
+    現在形の断定は公式確認注記が無ければ常にNG。過去形の叙述は同じ文に
+    年号や時代表現があれば歴史記述とみなして許容する。底上げ済み236本の
+    走査で17件あった偽陽性を減らすための還元。"""
     ng = []
-    for tag, text, rx, note in (("JA", ja, STATUS_ASSERT, OFFICIAL_NOTE),
-                                ("EN", en, STATUS_ASSERT_EN, OFFICIAL_NOTE_EN)):
+    for tag, text, now, past, note, hist, sep in (
+            ("JA", ja, _NOW_JA, _PAST_JA, OFFICIAL_NOTE, _HIST_CTX, "。"),
+            ("EN", en, _NOW_EN, _PAST_EN, OFFICIAL_NOTE_EN, _HIST_CTX_EN, ".")):
         for i, line in enumerate(text.split("\n"), 1):
-            if rx.search(line) and not note.search(line):
-                ng.append((tag, i, line.strip()[:60]))
+            if note.search(line):
+                continue
+            for sent in line.split(sep):
+                s = sent.strip()
+                if not s:
+                    continue
+                if now.search(s):
+                    ng.append((tag, i, s[:60]))
+                elif past.search(s) and not hist.search(s):
+                    ng.append((tag, i, s[:60]))
     return (len(ng) > 0), ng
 
 def detect_reading_mismatch(ja, en):
