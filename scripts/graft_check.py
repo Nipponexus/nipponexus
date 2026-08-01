@@ -66,8 +66,16 @@ def detect_meta_year_conflict(ja, inception, start_month):
     # 最近傍が誤答する。開始年と初回語は同一の節(読点・句点で区切られた単位)にあるはず
     # なので、節を単位に対応させる。節内に複数あるときのみ最近傍を採る。
     FIRST_CTX = re.compile("第1回|第一回|初開催|初めて開催|創始|創設|始まった|始まり|スタートした")
+    # 派生行事の開始年による偽陽性の抑制(2026-08-01・130霧島国際音楽祭):
+    # 本文が「ホームビジットは1992年に始まった」のように派生プログラムの開始年を
+    # 書いている場合、旧実装はそれを本体の開始年としてinceptionと比較しNGを出した。
+    # Pro照合ループは検出器の赤字を疑わず「本文が誤り」と断定するため、偽陽性が
+    # そのまま誤った修正案として増幅される(130で実測)。本文にinception_yearと
+    # 一致する年が明記されているなら、他の初回語は派生行事の開始であって本体の
+    # 誤りではないとみなし、開始年判定を行わない。
+    skip_start = bool(inception) and str(inception) in ja
     for i, line in enumerate(ja.split("\n"), 1):
-        if not START_CTX.search(line):
+        if skip_start or not START_CTX.search(line):
             continue
         for clause in re.split("([、。])", line):
             if clause in ("、", "。"):
