@@ -22,7 +22,11 @@ def _clean_subj(s):
 
 START_CTX = re.compile(r"開始|始まっ|第1回|第一回|創始|発足|立ち上げ|ようになった")
 YEAR = re.compile(r"(1[5-9]\d{2}|20[0-4]\d)年")
-ANNIV = re.compile(r"(20[0-4]\d)年.{0,20}?(\d{1,3})周年")
+# 別主体の周年ガード(2026-08-01・132ひらかた大菊人形): 本文の「2012年にはひらかたパーク
+# 開業100周年」は遊園地の周年であって本行事の周年ではない。年と『周年』の間に別主体を示す
+# 語があれば逆算しない(pro_verify_loop._is_subject_yearと同じ設計思想の横展開)。
+_ANNIV_OTHER = "パーク|園|駅|鉄道|電車|電鉄|会社|大学|ホール|美術館|博物館|神社|神宮|寺|音楽祭|交響楽団|球団|空港|市制"
+ANNIV = re.compile(r"(20[0-4]\d)年(?:(?!" + _ANNIV_OTHER + r").){0,20}?(\d{1,3})周年")
 
 STATUS_ASSERT = re.compile(r"再開され|再開した|現在も(?:毎年)?(?:開催|続)|毎年開催されて|継続して開催|復活を遂げ")
 STATUS_ASSERT_EN = re.compile(r"has (?:since )?resumed|resumed (?:since|after)|has (?:since )?been held again|continues to be held annually", re.I)
