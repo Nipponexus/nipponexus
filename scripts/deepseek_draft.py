@@ -223,6 +223,21 @@ def detect_en_cjk(en):
 _CITE = re.compile(r'\[[^\]]*\]\(https?://[^\)]*\)')
 _BARE_CITE = re.compile(r'\s*\[[\w.\-]+\.(?:com|jp|org|net|info|co|go|lg|or|ne|ac)(?:\.[a-z]{2,3})?\]')
 
+def detect_ascii_artifacts(ja, en):
+    # 2026-08-01 131本目PMF: EN側に21件のバックティック(Bernstein`s)が発生。
+    # 英文として自然に見えるためEN-CJKにも訳語照合にも掛からず、本番では ` がそのまま表示される。
+    # 113の裸ブラケット569箇所・115のリテラル \' と同型のASCII表記崩れ。
+    marks = ((chr(96), 'backtick'), (chr(92) + chr(39), 'escaped-quote'), (chr(92) + chr(34), 'escaped-dquote'))
+    hits = []
+    for tag, txt in (('JA', ja or ''), ('EN', en or '')):
+        for n, line in enumerate(txt.split(chr(10)), 1):
+            for mark, name in marks:
+                c = line.count(mark)
+                if c:
+                    hits.append((tag, n, name, c, line.strip()[:60]))
+    return (bool(hits), hits)
+
+
 def strip_bare_citations(s):
     """還元(2026-07-28・113相模川): DeepSeekは回によって出典を[ラベル](URL)でなく
        [incloop.com]のような裸ブラケットで書く。_CITEはリンク形式のみ対象のため
@@ -586,6 +601,8 @@ def review(qid, label, ja, en, cites, vr, usage):
         L += [f"  - {h}" for h in fe_hits]
     encjk, encjk_hits = detect_en_cjk(en)
     L.append(f"EN他言語混入(CJK漢字): {'NG('+str(len(encjk_hits))+'行に混入→英語是正要)' if encjk else 'OK'}")
+    art, art_hits = detect_ascii_artifacts(ja, en)
+    L.append('ASCII表記崩れ(バックティック等): ' + ('NG(%d件→是正要)' % len(art_hits) if art else 'OK'))
     if encjk:
         L += [f"  - {h}" for h in encjk_hits]
     if detect_en_term_mismatch is not None:
