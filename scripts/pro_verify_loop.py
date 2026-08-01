@@ -18,6 +18,50 @@ def _fetch(url, timeout=12):
     except Exception:
         return ""
 
+# --- 還元(2026-08-01・131PMF): Pro照合ループの型崩壊対策 ---
+# 候補集合が1つしかなく検出器の種別を問わず全defectへ渡っていたため、年号targetに
+# 団体名の候補が渡り、Proが4/4で『1940年→組織委員会』という修正案を返した。
+# evidence_gateが型を見ないため団体名は出典に実在し全件『検証通過』になった(130霧島と同型)。
+_YEAR_DETECTORS = ('audit_years_against_citations', 'audit_dates_against_citations')
+_ORG_DETECTORS = ('authority_check',)
+_YEAR_FORM = re.compile(r'^(1[5-9]\d{2}|20[0-4]\d)年?(\d{1,2}月(\d{1,2}日)?)?$')
+_FIRST_CTX = re.compile(r'第1回|第一回|初開催|初めて開催')
+_FOUND_CTX = re.compile(r'創設|創始|創立|始まった|スタートした|発足')
+_OTHER_ENT = re.compile(r'[^\s、。]{2,}?(音楽祭|オーケストラ|交響楽団|ホール|美術館|博物館|大学|協会|財団|神社|寺)')
+
+def _is_subject_year(ja, y, label=''):
+    """その西暦が本祭自身の初回・創設を述べているか。他団体の創立年やホール開館年などの
+       背景年をProループへ渡さないための絞り込み(review.mdには従来どおり×人的確認で残る)。
+       節の単位は129で確立した読点・句点区切り(距離では分離できないため)。
+       第1回・初開催は主語が本祭で確定するため無条件に対象、創設語は同じ節に別主体
+       (◯◯音楽祭/◯◯交響楽団/◯◯ホール等)があれば背景年とみなして除外する。"""
+    for seg in re.split(r'[。、\n]', ja or ''):
+        if y not in seg:
+            continue
+        if _FIRST_CTX.search(seg):
+            return True
+        if _FOUND_CTX.search(seg):
+            ent = _OTHER_ENT.search(seg)
+            if not ent or ent.group(0) in (label or ''):
+                return True
+    return False
+
+def extract_year_candidates(docs, limit=12):
+    """年号defect用の型一致した候補集合=出典本文に実在する西暦のみを候補にする。"""
+    cnt = {}
+    for u, t in (docs or {}).items():
+        for y in set(re.findall(r'(?<!\d)(1[5-9]\d{2}|20[0-4]\d)(?!\d)', t or '')):
+            cnt[y] = cnt.get(y, 0) + 1
+    top = sorted(cnt.items(), key=lambda kv: -kv[1])[:limit]
+    return [(y + '年', n) for y, n in top]
+
+def _pick_candidates(detector, org_cands, year_cands):
+    if detector in _YEAR_DETECTORS:
+        return year_cands or None
+    if detector in _ORG_DETECTORS:
+        return org_cands or None
+    return None
+
 def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
     defects = []
     cur = ""
@@ -43,7 +87,7 @@ def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
     try:
         from deepseek_draft import audit_years_against_citations, detect_future_ephemeral
         for y, verdict, doms in audit_years_against_citations(ja, cites or []):
-            if "×人的確認" in verdict:
+            if "×人的確認" in verdict and _is_subject_year(ja, y):
                 defects.append({"detector": "audit_years_against_citations",
                                 "field": "年号(要人的確認)",
                                 "excerpt": f"{y}年", "detail": f"{y}: {verdict}"})
@@ -151,6 +195,11 @@ def evidence_gate(fixes, fetch=True):
     for f in fixes:
         f2 = dict(f)
         core = f2.get("selected_candidate", "").strip()
+        det = f2.get('detector', '')
+        if det in _YEAR_DETECTORS and core and not _YEAR_FORM.match(core):
+            f2['evidence_verified'] = False
+            f2['note'] = (f2.get('note', '') + ' ／[型ガード]年号targetに非年号candidate=棄却').strip()
+            out.append(f2); continue
         if f2.get("verdict") != "confirmed_wrong" or not core:
             f2["evidence_verified"] = False
             out.append(f2); continue
@@ -191,13 +240,14 @@ def run(qid, label, pref, ja, en, cites, run_all_lines, key, call_fn, model_pro,
         for u in cites or []:
             t = _fetch(u)
             if t: docs[u] = t
-    candidates = extract_source_candidates(docs) if docs else []
+    org_cands = extract_source_candidates(docs) if docs else []
+    year_cands = extract_year_candidates(docs) if docs else []
     fixes = []
     for i, d in enumerate(defects, 1):
         print(f"  Pro照合[{i}/{len(defects)}] {d['detector']}: {d['excerpt'][:40]}")
         try:
             obj, raw = pro_verify(qid, label, pref, d, key, call_fn, model_pro,
-                                  candidates=candidates if candidates else None)
+                                  candidates=_pick_candidates(d.get('detector', ''), org_cands, year_cands))
             fixes.append(obj)
         except Exception as e:
             fixes.append({"detector": d["detector"], "target_excerpt": d["excerpt"][:80],
