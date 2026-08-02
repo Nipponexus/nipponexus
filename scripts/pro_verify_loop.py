@@ -205,7 +205,29 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
     obj["candidates"] = [name for name, _ in (candidates or [])]
     return obj, txt
 
-def evidence_gate(fixes, fetch=True):
+def _subject_alts(subject):
+    """還元(2026-08-02・135): evidence_gateは候補が出典本文に在るかだけを見ており、
+       その出典が本題材を扱っているかを見ていなかった。別イベントの公式が出典に混ざると
+       候補は当然実在するため接ぎ木の修正案が検証通過する(133の生HTML是正で消えたのは
+       タグ内文字列を数える緩さで、『どの出典か』を見ない緩さは残っていた)。"""
+    if not subject:
+        return []
+    s = str(subject).strip()
+    alts = {s, s.replace('\u30fb', ''), s.replace(' ', '')}
+    for m in re.findall(r'[\u4e00-\u9fff]{2,}', s):
+        alts.add(m)
+    return [a for a in alts if len(a) >= 2]
+
+
+def _subject_near(text, core, alts, win=400):
+    for m in re.finditer(re.escape(core), text):
+        seg = text[max(0, m.start() - win): m.end() + win]
+        if any(a in seg for a in alts):
+            return True
+    return False
+
+
+def evidence_gate(fixes, fetch=True, subject=None, docs=None):
     """決定論ゲート: verdict=confirmed_wrong かつ selected_candidate非空の修正案について、
        evidence_urlsの本文にselected_candidateが実在するかを共起照合する。
        実在すれば evidence_verified=True、しなければ False で unresolved へ降格。
@@ -224,11 +246,18 @@ def evidence_gate(fixes, fetch=True):
             f2["evidence_verified"] = False
             out.append(f2); continue
         verified = False
-        if fetch:
-            for u in (f2.get("evidence_urls") or [])[:2]:
-                t = _fetch(u)
-                if t and core in t:
-                    verified = True; break
+        note_extra = ""
+        subj_alts = _subject_alts(subject)
+        for u in (f2.get("evidence_urls") or []):
+            t = (docs or {}).get(u) or (_fetch(u) if fetch else "")
+            if not t or core not in t:
+                continue
+            if subj_alts and not _subject_near(t, core, subj_alts):
+                note_extra = " ／[主題束縛]候補は出典に在るが本題材への言及と結び付かない=別主体の出典混入の疑い"
+                continue
+            verified = True; break
+        if note_extra and not verified:
+            f2["note"] = (f2.get("note", "") + note_extra).strip()
         f2["evidence_verified"] = verified
         out.append(f2)
     return out
@@ -274,7 +303,7 @@ def run(qid, label, pref, ja, en, cites, run_all_lines, key, call_fn, model_pro,
                           "verdict": "unverifiable", "selected_candidate": "",
                           "evidence_urls": [], "confidence": "low",
                           "note": f"Pro照合失敗({type(e).__name__})", "evidence_verified": False})
-    fixes = evidence_gate(fixes, fetch=fetch_sources)
+    fixes = evidence_gate(fixes, fetch=fetch_sources, subject=label, docs=docs)
     return build_report(qid, label, defects, fixes, sources_text)
 
 _SRC_MARKERS = ("主催", "共催", "後援", "主管", "お問い合わせ", "問い合わせ",
