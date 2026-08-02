@@ -242,7 +242,8 @@ def strip_bare_citations(s):
     """還元(2026-07-28・113相模川): DeepSeekは回によって出典を[ラベル](URL)でなく
        [incloop.com]のような裸ブラケットで書く。_CITEはリンク形式のみ対象のため
        この形式が素通りし本番本文にドメイン名が露出した(66箇所)。装飾形式差に非依存化。"""
-    return re.sub(r'[ \t]{2,}', ' ', _BARE_CITE.sub('', s or ''))
+    # 2026-08-03: 全域の空白正規化はマークダウンの字下げを壊すため撤去(nx.selftestが検出)。
+    return _BARE_CITE.sub('', s or '')
 
 
 def _strip_citations_base(s):
@@ -255,7 +256,8 @@ def _strip_citations_base(s):
         out.append(_CITE.sub('', ln))
     r='\n'.join(out)
     r=re.sub(r'[ \t]+\n','\n',r)
-    r=re.sub(r'[ \t]{2,}',' ',r)
+    # 2026-08-03: 行頭の字下げを保護(全域collapseが入れ子リストを壊していた/nx.selftestが検出)
+    r=re.sub(r'(?<=\S)[ \t]{2,}(?=\S)',' ',r)
     r=re.sub(r'\n{3,}','\n\n',r)
     return r.strip()
 
