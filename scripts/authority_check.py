@@ -13,11 +13,36 @@ _ORG = re.compile(_PRE + r'[ぁ-んァ-ヴ一-龥A-Za-zー・]{2,20}'
                   r'|[ぁ-んァ-ヴ一-龥ー]{2,20}' + _ORG_TAIL)
 
 def _trim_particles(name):
-    """助詞の巻き込みを除去(『運営はゲームマーケット事務局』『株式会社アークライトで』)。
-       『の』は名称内に頻出(みなとの祭実行委員会)のため先頭剥がしの対象にしない。"""
+    """助詞の巻き込みを除去。『の』は名称内に頻出(みなとの祭実行委員会)のため対象にしない。
+       2026-08-02: 生HTML照合をやめた途端に『主催はこまねこまつり実行委員会』『日に浜島町観光協会』
+       のような文頭巻き込みが×出典に不在として大量に出たため、漢字+助詞で終わる接頭を剥がす。
+       『はままつ祭り実行委員会』のような名称先頭の助詞を壊さないよう、助詞の直前が漢字の場合に限る。"""
+    name = re.sub(r'^.{0,8}?[一-龥][はがもをにでと](?=[ぁ-んァ-ヴA-Za-z一-龥])', '', name)
     name = re.sub(r'^.*?[はがも](?=[ァ-ヴA-Za-z一-龥])', '', name)
     name = re.sub(r'[でにをはがともへや、。]+$', '', name)
     return name
+
+_JUNK = ('なか', 'という', 'ため', 'こと', 'もの', 'など', 'ほか', '以外', '以降', '以上',
+         'した', 'する', 'され', 'れた', 'として', 'および', '場合', '構成')
+_HEAD_NG = re.compile(r'^[はがもをにでとへやのりるれた、。・]')
+_TAIL_ONLY = re.compile(r'^[市町村所寺社会]')
+_PREFIX_NG = ('開催', '中心', '近隣', '地元', '同', '当', '本', '各', '全', '都', '終戦', '境内')
+_JOINED = re.compile(r'(?<=[一-龥ァ-ヴ])と(?=[一-龥ァ-ヴ])')
+_PARTICLE_TAIL = re.compile(r'[やとはがをに](?:市|町|村|所|会|社|寺)$')
+
+def plausible_org(name):
+    """抽出崩れの断片を落とす(2026-08-02)。生HTML照合では『どこかに文字列がある』で
+       通っていたため露呈しなかったが、本文抽出へ切替えたところ23本中9本(39.1%)が
+       『終戦後の混乱のなかで市』『という特異な都市』のような断片で×になった。"""
+    if len(name) < 3 or any(j in name for j in _JUNK):
+        return False
+    if _HEAD_NG.match(name) or _TAIL_ONLY.match(name):
+        return False
+    if any(name.startswith(p) for p in _PREFIX_NG):
+        return False
+    if _JOINED.search(name) or _PARTICLE_TAIL.search(name):
+        return False
+    return True
 
 def extract_authority_orgs(ja):
     out = []
@@ -26,7 +51,7 @@ def extract_authority_orgs(ja):
             continue
         for m in _ORG.finditer(line):
             name = _trim_particles(m.group(0).lstrip('・-* 　'))
-            if len(name) >= 3:
+            if plausible_org(name):
                 out.append((i, name))
     seen, uniq = set(), []
     for ln, n in out:
@@ -62,3 +87,77 @@ def check(ja, sources_text, label=""):
             ng = True
             lines.append('  L%-3d %s : ×出典に不在(要一次照合・定型流し込みの疑い)' % (ln, name))
     return ng, lines
+
+
+# --- 2026-08-02・133諏訪湖: 権威属性の『役割』共起照合(WARN専用) ---
+# checkは団体名が出典に在るかしか見ないため、実在する団体に誤った役割を割り当てた
+# 誤り(『諏訪市観光協会が協力している』=公式に不在の役割)を構造的に素通りさせた。
+# 真偽は判定せず、記事が与えた役割語が出典で同じ団体と共起するかだけを見る。
+ROLE_WORDS = ['主催', '共催', '後援', '主管', '協力', '協賛', '運営']
+
+_ROLE_RE = re.compile('(' + '|'.join(ROLE_WORDS) + ')')
+
+def authority_pairs(line):
+    """役割語を起点に近接だけを見る(2026-08-02 v2)。v1は行内に役割語があると
+       _ORGを行全体へ当てたため『広島県広島市』『愛川町』など平文の地名を拾い
+       偽陽性47.8%になった。また『主催は諏訪市観光協会』のように役割が前置される
+       列挙形を後方探索だけで解こうとして誤ペアリングしていた。
+       採る形は2つに限定する: 『主催：X』『主催はX』(後置)と『Xが主催』(前置)。"""
+    pairs, seen = [], set()
+    for m in _ROLE_RE.finditer(line):
+        role = m.group(1)
+        name = None
+        a = re.match(r'^[\s：:＝=はがのも、・\-]{0,3}(' + _ORG.pattern + ')',
+                     line[m.end(): m.end() + 40])
+        if a:
+            name = a.group(1)
+        else:
+            before = line[max(0, m.start() - 40): m.start()]
+            bm = list(_ORG.finditer(before))
+            if bm and len(before) - bm[-1].end() <= 2:
+                name = bm[-1].group(0)
+        if not name:
+            continue
+        name = _trim_particles(name.lstrip('・-* 　'))
+        if plausible_org(name) and (role, name) not in seen:
+            seen.add((role, name))
+            pairs.append((role, name))
+    return pairs
+
+def check_roles(ja, sources_text, window=80, skip_names=(), label=""):
+    """記事が与えた役割語が、出典本文中の同じ団体名の近傍に現れるかを見る(WARN専用)。
+       checkは団体名の存在しか見ないため、実在団体への誤った役割の割り当て
+       (133諏訪湖『諏訪市観光協会が協力している』)を素通りさせた。真偽は判定しない。"""
+    lines, warn = [], False
+    if not sources_text:
+        return False, ['  役割共起: 出典本文なしでスキップ']
+    core_label = re.sub(r'(まつり|祭り|祭|大会|フェスティバル)$', '', label or '')
+    seen = set()
+    for i, line in enumerate(ja.split('\n'), 1):
+        for role, name in authority_pairs(line):
+            if name in skip_names or (name, role) in seen:
+                continue
+            seen.add((name, role))
+            j = line.find(name)
+            if j >= 0 and re.match(r'[^）]{0,10}内[）\)]', line[j + len(name): j + len(name) + 12]):
+                lines.append('  L%-3d %s : 所在表記のため対象外' % (i, name))
+                continue
+            if role in ('主催', '運営') and name.endswith(('実行委員会', '委員会')) \
+               and core_label and core_label[:3] in name:
+                lines.append('  L%-3d %s = %s : 同義反復のためINFO' % (i, name, role))
+                continue
+            if name not in sources_text:
+                lines.append('  L%-3d %s = %s : 名称不在(check側の担当)' % (i, name, role))
+                continue
+            ok = False
+            for m2 in re.finditer(re.escape(name), sources_text):
+                s0, s1 = max(0, m2.start() - window), min(len(sources_text), m2.end() + window)
+                if role in sources_text[s0:s1]:
+                    ok = True
+                    break
+            if ok:
+                lines.append('  L%-3d %s = %s : 出典で共起' % (i, name, role))
+            else:
+                warn = True
+                lines.append('  L%-3d %s = %s : ▲出典で役割が共起せず(要一次照合)' % (i, name, role))
+    return warn, (lines or ['  役割共起: 対象なし'])

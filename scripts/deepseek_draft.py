@@ -827,6 +827,22 @@ def run_all_checks(qid, ja, en, strict=True):
     ng_any |= hit
     L.append(f"5 固有名詞の訳語照合 : {'NG' if hit else 'OK'}")
     L += [f"     {it}" for it in items]
+    # 6-7 権威属性(2026-08-02・133諏訪湖)。checkは団体名の存在、check_rolesは役割の共起を見る。
+    # どちらもWARN専用でng_anyへ寄与させない(93角館『×は削除指示でなく人的確認フラグ』)。
+    # 出典本文はキャッシュのみ参照しネットワークを踏まない(238本の偽陽性走査から呼ばれるため)。
+    import authority_check as ac, pathlib
+    _bp = pathlib.Path.home() / "nexus_data" / "llm_sim" / f"{qid}_cites_body.txt"
+    _src = _bp.read_text(encoding="utf-8") if _bp.exists() else ""
+    if len(_src) >= 500:
+        _ah, _al = ac.check(ja, _src, label)
+        L.append(f"6 権威属性の出典共起 : {'WARN' if _ah else 'OK'}")
+        L += _al
+        _rh, _rl = ac.check_roles(ja, _src, label=label)
+        L.append(f"7 権威属性の役割共起 : {'WARN' if _rh else 'OK'}")
+        L += _rl
+    else:
+        L.append("6 権威属性の出典共起 : SKIP (出典本文キャッシュなし)")
+        L.append("7 権威属性の役割共起 : SKIP (出典本文キャッシュなし)")
     if ng_any and strict:
         raise AssertionError(f"検出器NG: {qid} で {sum(1 for l in L if 'NG' in l)}件のNGを検出")
     return ng_any, L
@@ -856,6 +872,9 @@ def main():
     (OUT/f"{qid}_deepseek_full.md").write_text(ja + "\n\n===EN===\n\n" + en)
     (OUT/f"{qid}_cites.txt").write_text("\n".join(cites))
     print(f"  cites保存 {len(cites)}件 -> {qid}_cites.txt")
+    _bodies = [t for t in (_fetch_text(u) for u in cites) if t]
+    (OUT/f"{qid}_cites_body.txt").write_text("\n".join(_bodies))
+    print(f"  出典本文キャッシュ {sum(len(t) for t in _bodies)}字 -> {qid}_cites_body.txt")
     vr=verify(ja,en); usage=data.get("usage",{})
     rep=review(qid,label,ja,en,cites,vr,usage)
     # ★防波堤(2026-07-25・八戸): Pro校正の前に機械検出までのreview.mdを必ず書き出す。

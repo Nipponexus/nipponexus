@@ -8,15 +8,22 @@ import authority_check as ac
 import ephemeral_src as es
 
 def _fetch(url, timeout=12):
+    """2026-08-02・133諏訪湖: 生HTMLを返していたためマークアップ上の近接で誤判定していた。
+       『諏訪市観光協会』と『協力』がナビ/フッタのタグ内で±80字に同居し役割共起が○になり、
+       ac.checkも script や メニュー内の文字列を『出典に出現』と数えうる(生HTML473,925字 vs
+       本文20,040字)。段階③の年号照合で実績のある deepseek_draft._fetch_text と同方式に揃える。"""
     import urllib.request
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            raw = r.read()
+            raw = r.read(600000)
             enc = r.headers.get_content_charset() or "utf-8"
-            return raw.decode(enc, errors="replace")
+            html = raw.decode(enc, errors="replace")
     except Exception:
         return ""
+    html = re.sub(r"(?is)<(script|style).*?</\1>", " ", html)
+    html = re.sub(r"(?s)<[^>]+>", " ", html)
+    return re.sub(r"\s+", " ", html)
 
 # --- 還元(2026-08-01・131PMF): Pro照合ループの型崩壊対策 ---
 # 候補集合が1つしかなく検出器の種別を問わず全defectへ渡っていたため、年号targetに
@@ -124,6 +131,19 @@ def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
                     n = m.group(1) if m else ln.strip()
                     defects.append({"detector": "ephemeral_src", "field": "単年候補",
                                     "excerpt": n, "detail": ln.strip()})
+        # 2026-08-02・133諏訪湖: 実在する団体への誤った役割の割り当ては
+        # ac.check(名称の共起のみ)を素通りする。役割共起はWARN専用で赤字に載せる
+        # (条件B回帰6/6・既存23本のWARN率0%を確認してから接続)。
+        try:
+            import graft_check as _gc
+            _lb = _gc.load_meta(qid)[2] or ""
+        except Exception:
+            _lb = ""
+        _rw, _rlines = ac.check_roles(ja, sources_text, label=_lb)
+        for ln in _rlines:
+            if "▲" in ln:
+                defects.append({"detector": "authority_role", "field": "権威属性の役割",
+                                "excerpt": ln.strip()[:140], "detail": ln.strip()})
     return defects, sources_text
 
 def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
