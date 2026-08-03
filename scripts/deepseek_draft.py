@@ -878,6 +878,11 @@ def main():
     (OUT/f"{qid}_cites_body.txt").write_text("\n".join(_bodies))
     print(f"  出典本文キャッシュ {sum(len(t) for t in _bodies)}字 -> {qid}_cites_body.txt")
     vr=verify(ja,en); usage=data.get("usage",{})
+    # 還元(2026-08-03・136嵐山花灯路): 6セクション見出しが1つも出ない生成事故が発生し
+    #   手作業で6見出しを挿入して救済した(35セパレータ欠落/40EN欠落に続く新パターン)。
+    #   段落は揃っているため字数検算だけは通ってしまう=構造の欠落を明示警告する。
+    if vr.get("h",0)==0:
+        print("  [警告] 見出し(##)が0件=6セクション構造の欠落。投入前に見出しの補完が必要。")
     rep=review(qid,label,ja,en,cites,vr,usage)
     # ★防波堤(2026-07-25・八戸): Pro校正の前に機械検出までのreview.mdを必ず書き出す。
     #   Pro校正が通信例外等で落ちても本体(生成+機械検出)は失われない。
