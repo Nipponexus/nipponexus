@@ -118,6 +118,18 @@ def fix(text, pairs, min_hits=1):
         assert old not in out or old in new, '残存 old=%r' % old[:40]
         out = out.replace(s, new)
         log.append((old[:24], n))
+    # 2026-08-03・140おぢや: Global Balloon Festivalを4件置換したのに、指定しなかった
+    # 同族表記(Hirasa Venue/Hirasa Shinden)が残った。nx.fixは渡された文字列しか置換しない
+    # ため『全カウントを人が思いつく』穴が残る(114一宮の再演)。置換したoldの先頭語が
+    # 別の形で本文に残っていれば警告する(判定はせず提示のみ)。
+    resid = []
+    for old, _n in [(o, 0) for o, _ in pairs]:
+        head = re.split(r'[\s（(]', old.strip())[0]
+        if len(head) >= 4 and head in out:
+            ctx = out[max(0, out.find(head) - 30): out.find(head) + len(head) + 30]
+            resid.append((head, out.count(head), ctx.replace('\n', ' ')))
+    if resid:
+        print('  [残存警告] 置換語の先頭語が別表記で残存: %s' % resid[:5])
     return out, log
 
 
