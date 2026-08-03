@@ -35,6 +35,12 @@ def _gen(qid):
     dd.OUT.mkdir(parents=True, exist_ok=True)
     (dd.OUT / f"{qid}_deepseek_full.md").write_text(ja + "\n\n===EN===\n\n" + en)
     (dd.OUT / f"{qid}_cites.txt").write_text("\n".join(cites))
+    # ★2026-08-03・139湯涌: 既存mainにある出典本文キャッシュの生成を_genへ写していなかった。
+    #   結果『権威属性の出典共起/役割共起』がSKIPし、Proループの赤字が0件になった。
+    #   赤字0件は品質が良いのではなく検査が走っていない状態=最も危険な偽の合格。
+    bodies = [t for t in (dd._fetch_text(u) for u in cites) if t]
+    (dd.OUT / f"{qid}_cites_body.txt").write_text("\n".join(bodies))
+    print(f"  出典本文キャッシュ {sum(len(t) for t in bodies)}字 / {len(bodies)}件")
     return dict(key=key, label=label, pref=pref, ja=ja, en=en, cites=cites, fb=fb)
 
 
@@ -62,6 +68,8 @@ def run(qid, deploy=False, reuse=False, write=True):
 
     ng, lines = nx.checks(qid, ja, en)
     print("\n".join(lines))
+    # ★検査未実行(SKIP)を合格として扱わない(139湯涌)
+    skipped = [l.strip() for l in lines if "SKIP" in l]
 
     _, run_lines = dd.run_all_checks(qid, ja, en, strict=False)
     payload, report = pv.run(qid, g["label"], g["pref"], ja, en, g["cites"], run_lines,
@@ -92,6 +100,8 @@ def run(qid, deploy=False, reuse=False, write=True):
                  for u in unresolved]
     if ng:
         stop.append("検出器NGが残存")
+    if skipped:
+        stop += ["検査未実行(SKIP)=合格ではない: " + s for s in skipped]
 
     # ★2026-08-03: --reuseで是正前の生成物を読み、是正済みの本番本文(ja4693)を
     #   生成時点の版(ja4591)へ上書きする事故を起こした。生成物は常に是正前なので、
