@@ -71,7 +71,10 @@ def run(qid, deploy=False, reuse=False, write=True):
     # ★検査未実行(SKIP)を合格として扱わない(139湯涌)
     skipped = [l.strip() for l in lines if "SKIP" in l]
 
-    _, run_lines = dd.run_all_checks(qid, ja, en, strict=False)
+    # ★2026-08-04: 戻り値の第一要素(ng_any)を捨てていたため、run_all_checksへ
+    #   8番として接続したfield_check(必須フィールドの欠落)が停止に寄与していなかった。
+    #   nx.checksのngとは対象項目が異なるので両方を停止条件に使う(139のSKIP同型の穴)。
+    checks_ng, run_lines = dd.run_all_checks(qid, ja, en, strict=False)
     payload, report = pv.run(qid, g["label"], g["pref"], ja, en, g["cites"], run_lines,
                              g["key"], dd.call, dd.MODEL_PRO, fetch_sources=True)
     (dd.OUT / f"{qid}_pro_verify.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2))
@@ -100,6 +103,8 @@ def run(qid, deploy=False, reuse=False, write=True):
                  for u in unresolved]
     if ng:
         stop.append("検出器NGが残存")
+    if checks_ng:
+        stop.append("run_all_checks NGが残存(必須フィールドの欠落等)")
     if skipped:
         stop += ["検査未実行(SKIP)=合格ではない: " + s for s in skipped]
 
