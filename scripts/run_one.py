@@ -38,7 +38,7 @@ def _gen(qid):
     return dict(key=key, label=label, pref=pref, ja=ja, en=en, cites=cites, fb=fb)
 
 
-def run(qid, deploy=False, reuse=False):
+def run(qid, deploy=False, reuse=False, write=True):
     if reuse:
         p = dd.OUT / f"{qid}_deepseek_full.md"
         ja, en = p.read_text().split("\n\n===EN===\n\n")
@@ -93,12 +93,24 @@ def run(qid, deploy=False, reuse=False):
     if ng:
         stop.append("検出器NGが残存")
 
+    # ★2026-08-03: --reuseで是正前の生成物を読み、是正済みの本番本文(ja4693)を
+    #   生成時点の版(ja4591)へ上書きする事故を起こした。生成物は常に是正前なので、
+    #   DB側が長い/是正済み語を持つ場合は上書きを禁じる(不可逆に近い破壊のため)。
+    _row = dd.pick(qid, False)
+    _dbja = _row.get("manual_content_ja") or ""
+    if len(_dbja) > len(ja):
+        stop.append("DB現本文(ja%d)が生成物(ja%d)より長い=是正済みの上書きの疑い"
+                    % (len(_dbja), len(ja)))
+
     if stop:
         print("\n===== 停止(人へ回す) =====")
         for s in stop:
             print(" -", s)
         return {"qid": qid, "status": "stopped", "reasons": stop}
 
+    if reuse and not write:
+        print("[reuse] --write未指定のためDB書込みを行わない(経路確認モード)")
+        return {"qid": qid, "status": "dry"}
     print(nx.write(qid, ja, en))
     row = dd.pick(qid, False)
     if not row.get("start_month"):
@@ -117,5 +129,6 @@ if __name__ == "__main__":
     ap.add_argument("--qid", required=True)
     ap.add_argument("--deploy", action="store_true")
     ap.add_argument("--reuse", action="store_true")
+    ap.add_argument("--write", action="store_true", help="--reuse時にDBへ書く")
     a = ap.parse_args()
-    print(json.dumps(run(a.qid, a.deploy, a.reuse), ensure_ascii=False, indent=2))
+    print(json.dumps(run(a.qid, a.deploy, a.reuse, a.write or not a.reuse), ensure_ascii=False, indent=2))
