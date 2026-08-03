@@ -845,6 +845,14 @@ def run_all_checks(qid, ja, en, strict=True):
     else:
         L.append("6 権威属性の出典共起 : SKIP (出典本文キャッシュなし)")
         L.append("7 権威属性の役割共起 : SKIP (出典本文キャッシュなし)")
+    try:
+        import field_check as _fc
+        _fng, _fl = _fc.run(qid, ja, en, inc)
+        ng_any |= _fng
+        L.append(f"8 必須フィールド存在   : {'NG' if _fng else 'OK'}")
+        L += ['  ' + x for x in _fl]
+    except Exception as _e:
+        raise AssertionError('field_check 呼び出し失敗(還元O): %s: %s' % (type(_e).__name__, _e))
     if ng_any and strict:
         raise AssertionError(f"検出器NG: {qid} で {sum(1 for l in L if 'NG' in l)}件のNGを検出")
     return ng_any, L
