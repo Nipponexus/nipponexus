@@ -31,6 +31,25 @@ def _fetch(url, timeout=12):
 # evidence_gateが型を見ないため団体名は出典に実在し全件『検証通過』になった(130霧島と同型)。
 _YEAR_DETECTORS = ('audit_years_against_citations', 'audit_dates_against_citations')
 _ORG_DETECTORS = ('authority_check',)
+# 2026-08-03・140おぢや: 単年系の赤字を渡しながら『その年限定の情報は対象外』と指示する
+# 自己矛盾があり、Proは実在確認で答えて論点がずれた。単年系は事実性でなく陳腐化回避の
+# ルール違反を問う(実在しても削除/相対化が正解)ため、専用の判定基準を末尾に添える。
+_EPHEMERAL_DETECTORS = ('detect_future_ephemeral', 'ephemeral_src')
+_EPH_RULE = ('\n★重要: これは特定年限定の情報を書いていないかを見る検出器の赤字です。'
+             '事実として実在するかは問いません。特定年の回数(第N回)・日程・来場者数・出演者・'
+             '単年企画・N年ぶり等が書かれていれば、公式に実在しても陳腐化回避のため削除または'
+             '相対表現化が正解です。その場合 verdict=confirmed_wrong とし、noteに削除と相対表現化の'
+             'どちらが適切かを書いてください。恒常的事実(初回開催年や毎年の会期の目安)なら'
+             'detector_false_positive とします。')
+# 2026-08-03・140おぢや: 単年系の赤字を渡しながらプロンプトに『その年限定の情報は対象外』と
+# 書いていたため、Proは『公式に第50回が明記されている』と実在確認で答え論点がずれた。
+# 単年系は事実性でなくC-1の陳腐化回避ルール違反を問う=実在しても削除/相対化が正解。
+_EPHEMERAL_DETECTORS = ('detect_future_ephemeral', 'ephemeral_src')
+_EPH_RULE = ("★これは『特定年限定の情報を書いていないか』を見る検出器の赤字です。事実として実在するかは問いません。"
+             "特定年の回数(第N回)・日程・来場者数・出演者・単年企画・N年ぶり等が書かれていれば、公式に実在しても"
+             "陳腐化回避のため削除または相対表現化が正解=verdict=confirmed_wrong とし、noteに『削除』か『相対表現化』の"
+             "どちらが適切かを書いてください。恒常的事実(初回開催年・毎年の会期の目安等)なら detector_false_positive とします。\n")
+_STD_RULE = "★その年限定の情報(単年企画/出演者/特定年日程)は対象外。恒常的事実のみ。\n"
 _YEAR_FORM = re.compile(r'^(1[5-9]\d{2}|20[0-4]\d)年?(\d{1,2}月(\d{1,2}日)?)?$')
 _FIRST_CTX = re.compile(r'第1回|第一回|初開催|初めて開催')
 _FOUND_CTX = re.compile(r'創設|創始|創立|始まった|スタートした|発足')
@@ -176,7 +195,7 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
             "日本の祭り記事のファクトチェッカーです。検出器が以下の箇所に『出典に不在/定型流し込みの疑い』の赤字を出しました。"
             "Web検索で公式情報(自治体/主催団体/文化庁DB等の一次ソース優先)を確認し、この箇所が正しいか誤りかを判定してください。\n"
             "★出力は必ず次のJSONのみ(前置き・説明・コードフェンス禁止):\n"
-            '{"verdict":"confirmed_wrong か unverifiable か confirmed_correct",'
+            '{"verdict":"confirmed_wrong か unverifiable か confirmed_correct か detector_false_positive",'
             '"evidence_urls":["根拠URL(公式優先)"],'
             '"confidence":"high か medium か low",'
             '"note":"判定理由を1文で"}\n'
@@ -185,6 +204,8 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
             "★長い思考は不要。JSONを直ちに出力。\n\n"
             f"【対象】{pref}の「{label}」/ 検出器: {det}\n【赤字の箇所】\n{exc}"
         )
+        if det in _EPHEMERAL_DETECTORS:
+            prompt += _EPH_RULE
         sp = [f"{label} {exc[:20]} 公式", f"{label} {pref} 主催 問い合わせ"][:5]
     data = call_fn(prompt, key, model=model_pro, search_prompts=sp, max_tokens=4000)
     msg = data["choices"][0]["message"]

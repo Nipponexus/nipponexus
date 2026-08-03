@@ -224,6 +224,17 @@ def patch_file(path, old, new, expect=1):
     out = src.replace(old, new, expect)
     lost = _symbols(src) - _symbols(out)
     assert not lost, '巻き添えで消えた定義: %s' % sorted(lost)
+    # 2026-08-03: 旧実装は『書いてからpy_compile』の順序だったため、構文エラーの変更でも
+    # 壊れたファイルが残った(pro_verify_loop.pyを実際に壊した)。一時ファイルで構文を検証し、
+    # 通ってから本体へ書く。失敗時は本体を一切触らない。
+    tmp = p + '.patchtmp'
+    open(tmp, 'w', encoding='utf-8').write(out)
+    try:
+        py_compile.compile(tmp, doraise=True)
+    except Exception:
+        os.remove(tmp)
+        raise
+    os.remove(tmp)
     shutil.copy(p, os.path.join(BK, os.path.basename(p) + '.bak_' + ts()))
     open(p, 'w', encoding='utf-8').write(out)
     py_compile.compile(p, doraise=True)
