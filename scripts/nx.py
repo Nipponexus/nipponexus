@@ -72,19 +72,34 @@ def audit(ja, en):
             'ja': len(ja), 'en': len(en), 'ratio': round(len(en) / max(1, len(ja)), 2)}
 
 
-def invariants(old, new, allow_line_delta=0):
+def invariants(old, new, allow_line_delta=0, allow_deleted=None):
     '''編集の副作用を禁じる不変条件。違反の一覧を返す(空なら健全)。'''
     v = []
     ol, nl = old.split('\n'), new.split('\n')
     d = len(ol) - len(nl)
-    if abs(d) > allow_line_delta:
+    if allow_deleted is None and abs(d) > allow_line_delta:
         v.append('行数 %d -> %d (許容差%d)' % (len(ol), len(nl), allow_line_delta))
         return v
-    for a, b in zip(ol, nl):
-        ia = a[:len(a) - len(a.lstrip())]
-        ib = b[:len(b) - len(b.lstrip())]
-        if ia != ib:
-            v.append('字下げ変化 %r -> %r' % (ia, ib)); break
+    import difflib
+    ok = tuple(allow_deleted or ())
+    okline = lambda s: (not s.strip()) or any(w in s for w in ok)
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, ol, nl).get_opcodes():
+        if op == 'delete':
+            for s in ol[i1:i2]:
+                if not okline(s):
+                    v.append('意図しない行削除 %r' % s[:60])
+        elif op == 'insert':
+            for s in nl[j1:j2]:
+                if not okline(s):
+                    v.append('意図しない行挿入 %r' % s[:60])
+        elif op == 'replace':
+            if (i2 - i1) != (j2 - j1):
+                v.append('置換で行数変化 %d -> %d' % (i2 - i1, j2 - j1))
+            for a, b in zip(ol[i1:i2], nl[j1:j2]):
+                ia = a[:len(a) - len(a.lstrip())]
+                ib = b[:len(b) - len(b.lstrip())]
+                if ia != ib:
+                    v.append('字下げ変化 %r -> %r' % (ia, ib)); break
     if re.search(r'\S  +\S', new) and not re.search(r'\S  +\S', old):
         v.append('二重空白が新規発生')
     return v
@@ -213,6 +228,18 @@ def patch_file(path, old, new, expect=1):
     open(p, 'w', encoding='utf-8').write(out)
     py_compile.compile(p, doraise=True)
     return {'replaced': expect, 'lost': sorted(lost)}
+
+
+def shapes():
+    """戻り値の形を実測して固定する。_bindは引数のみを検査し戻り値の形を見ていなかった
+       (2026-08-03: nx.fixを単数と推測し、nx.invariantsを例外送出と推測して落ちた)。"""
+    t = '## a\n- x\n'
+    r = fix(t, [('- x', '- y')])
+    assert isinstance(r, tuple) and len(r) == 2 and isinstance(r[0], str), 'nx.fix は(text, log)を返す'
+    assert isinstance(invariants(t, t), list), 'nx.invariants は違反リストを返す(例外でない)'
+    assert isinstance(clean(t), str), 'nx.clean は str'
+    return {'fix': '(text, log)', 'invariants': 'list(違反)', 'clean': 'str',
+            'write': 'dict', 'checks': '(ng, lines)', 'audit': 'dict', 'deploy': 'dict'}
 
 
 def selftest():

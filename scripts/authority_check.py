@@ -30,6 +30,14 @@ _PREFIX_NG = ('開催', '中心', '近隣', '地元', '同', '当', '本', '各'
 _JOINED = re.compile(r'(?<=[一-龥ァ-ヴ])と(?=[一-龥ァ-ヴ])')
 _PARTICLE_TAIL = re.compile(r'[やとはがをに](?:市|町|村|所|会|社|寺)$')
 
+_HIRA_OK = ()  # 廃止(下記_FRAG_HEADへ移行・patch_fileの定義消失ガードのため名前は残す)
+# 2026-08-03・138姫路: 当初『頭が全ひらがななら断片』としたが、ひらがなの祭事名を持つ
+# 正しい団体(ゆかたまつり奉賛会等)を落とした=82還元Cの『正しい表記を機械適用で破壊』の
+# 再演。辞書で承認する設計をやめ、助詞・動詞活用で始まる断片という文法特徴で落とす。
+_FRAG_HEAD = re.compile(r'^(して|され|した|する|とし|であ|になっ|により|による|という|といった|'
+                        r'ながら|つつ|ため|ほか|など|また|そして|しかし|なお|ただ|より|から|まで)')
+
+
 def plausible_org(name):
     """抽出崩れの断片を落とす(2026-08-02)。生HTML照合では『どこかに文字列がある』で
        通っていたため露呈しなかったが、本文抽出へ切替えたところ23本中9本(39.1%)が
@@ -41,6 +49,10 @@ def plausible_org(name):
     if any(name.startswith(p) for p in _PREFIX_NG):
         return False
     if _JOINED.search(name) or _PARTICLE_TAIL.search(name):
+        return False
+    # 2026-08-03・138姫路: 『して市』が末尾『市』のため通っていた(134で除去したはずの型)。
+    # 組織名の頭が全てひらがなの断片を落とす(ひらがな自治体名は_HIRA_OKで保護)。
+    if _FRAG_HEAD.match(name):
         return False
     return True
 

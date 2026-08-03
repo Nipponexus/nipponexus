@@ -159,9 +159,10 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
         cand_list = "\n".join(f"- {name}" for name, _ in candidates[:5])
         prompt = (
             "日本の祭り記事のファクトチェッカーです。検出器が以下の箇所に『出典に不在/定型流し込みの疑い』の赤字を出しました。"
-            "以下の候補団体名の中から、正しい主催/団体名を選択してください。候補は出典本文から決定論で抽出したもので、いずれかが正解です。\n"
+            "★検出器は誤検出(偽陽性)を出すことがあります。まず赤字が真の誤りか検出器の偽陽性かを判定し、真の誤りである場合にのみ候補から正しい団体名を選んでください。候補に正解が無い場合も選ばないでください。\n"
+            "偽陽性の典型=(1)助詞や動詞を跨いだ抽出断片(例『して市』)(2)出典本文キャッシュに無いだけで公式には実在する表記(3)候補が実在しても記事の役割(主催/共催/後援)とは別の役割の団体である場合。\n"
             "★出力は必ず次のJSONのみ(前置き・説明・コードフェンス禁止):\n"
-            '{"verdict":"confirmed_wrong(赤字箇所が誤りで候補が正解) か confirmed_correct(赤字箇所が正しく候補は別団体)",'
+            '{"verdict":"confirmed_wrong(赤字が誤りで候補が正解) か confirmed_correct(赤字は正しい) か detector_false_positive(赤字自体が検出器の偽陽性)",'
             '"selected_candidate":"選択した候補団体名(該当なしなら空)",'
             '"evidence_urls":["根拠URL(公式優先)"],'
             '"note":"判定理由を1文で"}\n'
@@ -227,6 +228,22 @@ def _subject_near(text, core, alts, win=400):
     return False
 
 
+_ROLE_NEAR = re.compile(r'主催|共催|主管|後援|運営|事務局|問い合わせ|お問い合わせ')
+
+
+def _role_near(text, core, win=80):
+    """138姫路: 候補が出典本文のどこかに在れば通る緩さを狭める。
+       ★限界の明記=本件の『ゆかたまつり奉賛会』は別行事(地域ふれあいステージ)の主催として
+       同じ公式頁に主催語つきで実在するため本ゲートでは分離できない。分離の主役は
+       Proへ与えた detector_false_positive の分岐であり、本ゲートは役割語と無縁な
+       文脈だけに現れる候補を落とす補助である。"""
+    for m in re.finditer(re.escape(core), text):
+        seg = text[max(0, m.start() - win): m.end() + win]
+        if _ROLE_NEAR.search(seg):
+            return True
+    return False
+
+
 def evidence_gate(fixes, fetch=True, subject=None, docs=None):
     """決定論ゲート: verdict=confirmed_wrong かつ selected_candidate非空の修正案について、
        evidence_urlsの本文にselected_candidateが実在するかを共起照合する。
@@ -254,6 +271,9 @@ def evidence_gate(fixes, fetch=True, subject=None, docs=None):
                 continue
             if subj_alts and not _subject_near(t, core, subj_alts):
                 note_extra = " ／[主題束縛]候補は出典に在るが本題材への言及と結び付かない=別主体の出典混入の疑い"
+                continue
+            if det in _ORG_DETECTORS and not _role_near(t, core):
+                note_extra = " ／[役割束縛]候補は出典に在るが役割語と共起しない=別役割団体の疑い(138姫路)"
                 continue
             verified = True; break
         if note_extra and not verified:
