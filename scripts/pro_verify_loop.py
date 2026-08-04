@@ -31,16 +31,6 @@ def _fetch(url, timeout=12):
 # evidence_gateが型を見ないため団体名は出典に実在し全件『検証通過』になった(130霧島と同型)。
 _YEAR_DETECTORS = ('audit_years_against_citations', 'audit_dates_against_citations')
 _ORG_DETECTORS = ('authority_check',)
-# 2026-08-03・140おぢや: 単年系の赤字を渡しながら『その年限定の情報は対象外』と指示する
-# 自己矛盾があり、Proは実在確認で答えて論点がずれた。単年系は事実性でなく陳腐化回避の
-# ルール違反を問う(実在しても削除/相対化が正解)ため、専用の判定基準を末尾に添える。
-_EPHEMERAL_DETECTORS = ('detect_future_ephemeral', 'ephemeral_src')
-_EPH_RULE = ('\n★重要: これは特定年限定の情報を書いていないかを見る検出器の赤字です。'
-             '事実として実在するかは問いません。特定年の回数(第N回)・日程・来場者数・出演者・'
-             '単年企画・N年ぶり等が書かれていれば、公式に実在しても陳腐化回避のため削除または'
-             '相対表現化が正解です。その場合 verdict=confirmed_wrong とし、noteに削除と相対表現化の'
-             'どちらが適切かを書いてください。恒常的事実(初回開催年や毎年の会期の目安)なら'
-             'detector_false_positive とします。')
 # 2026-08-03・140おぢや: 単年系の赤字を渡しながらプロンプトに『その年限定の情報は対象外』と
 # 書いていたため、Proは『公式に第50回が明記されている』と実在確認で答え論点がずれた。
 # 単年系は事実性でなくC-1の陳腐化回避ルール違反を問う=実在しても削除/相対化が正解。
@@ -49,6 +39,19 @@ _EPH_RULE = ("★これは『特定年限定の情報を書いていないか』
              "特定年の回数(第N回)・日程・来場者数・出演者・単年企画・N年ぶり等が書かれていれば、公式に実在しても"
              "陳腐化回避のため削除または相対表現化が正解=verdict=confirmed_wrong とし、noteに『削除』か『相対表現化』の"
              "どちらが適切かを書いてください。恒常的事実(初回開催年・毎年の会期の目安等)なら detector_false_positive とします。\n")
+# 2026-08-04: JA漢字固有名とENローマ字表記の対応確認。★判定済みの赤字ではなく『確認依頼』。
+# 音写の正誤は音写距離/DF/読み/提示型の4方式すべてで機械判定が不成立(02)。対応の列挙のみ
+# 決定論で行い、正誤の確定はProの検索接地に委ねる=142三国花火でClaudeが手でやった工程の移管。
+_TRANSLIT_DETECTORS = ('translit_check',)
+_TRL_RULE = ("★これは判定済みの誤りではなく『確認依頼』です。JA本文の固有名とEN本文のローマ字表記が同一の対象を指し、"
+             "かつENの表記が公式表記(鉄道事業者/自治体/施設の公式サイトの英字表記)と一致しているかを検索で確認してください。\n"
+             "★一致していれば verdict=detector_false_positive (確認の結果、問題なし)とします。\n"
+             "★食い違っていれば verdict=confirmed_wrong とし、note に『記事の誤表記→公式の正表記』を明記してください"
+             "(候補リストは無いので公式表記を自分で書く)。\n"
+             "★神社→Shrine・寺→Temple・公園→Park のような意味翻訳は一致とみなします(誤りではありません)。\n"
+             "★JA側とEN側で件数が違っても、それ自体は誤りではありません(片方だけ言及される場合があります)。\n"
+             "★英語検索は表記の確認にのみ用い、記事内容の補充には使わないでください"
+             "(情報の薄い対象では別の祭りを拾い接ぎ木の元になるため)。\n")
 _STD_RULE = "★その年限定の情報(単年企画/出演者/特定年日程)は対象外。恒常的事実のみ。\n"
 _YEAR_FORM = re.compile(r'^(1[5-9]\d{2}|20[0-4]\d)年?(\d{1,2}月(\d{1,2}日)?)?$')
 _FIRST_CTX = re.compile(r'第1回|第一回|初開催|初めて開催')
@@ -127,6 +130,19 @@ def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
         defects.append({"detector": "collect_defects_ext", "field": "接続エラー",
                         "excerpt": f"{type(e).__name__}: {e}",
                         "detail": "audit_years_against_citations/detect_future_ephemeral接続失敗"})
+    # 2026-08-04: translit_check(JA固有名とEN音写の対応確認)を接続。出典本文に依存しないため
+    # fetch_sourcesの外に置く(139湯涌=出典キャッシュ欠落でSKIPし赤字0件になった事故を踏まえ、
+    # 外部依存の少ない位置で必ず走らせる)。
+    try:
+        import translit_check as _tc
+        for d in _tc.as_defects(ja, en):
+            defects.append({"detector": "translit_check",
+                            "field": "訳語の対応確認(%s)" % d["kind"],
+                            "excerpt": d["target"], "detail": d["target"]})
+    except Exception as e:
+        defects.append({"detector": "collect_defects_ext", "field": "接続エラー",
+                        "excerpt": "%s: %s" % (type(e).__name__, e),
+                        "detail": "translit_check接続失敗"})
     sources_text = ""
     if fetch_sources:
         docs = []
@@ -206,6 +222,8 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
         )
         if det in _EPHEMERAL_DETECTORS:
             prompt += _EPH_RULE
+        elif det in _TRANSLIT_DETECTORS:
+            prompt += _TRL_RULE
         sp = [f"{label} {exc[:20]} 公式", f"{label} {pref} 主催 問い合わせ"][:5]
     data = call_fn(prompt, key, model=model_pro, search_prompts=sp, max_tokens=4000)
     msg = data["choices"][0]["message"]
@@ -265,6 +283,52 @@ def _role_near(text, core, win=80):
     return False
 
 
+
+_WALL = re.compile(r"(?i)(password|\u30d1\u30b9\u30ef\u30fc\u30c9|\u8a8d\u8a3c\u304c\u5fc5\u8981|"
+                   r"\u30ed\u30b0\u30a4\u30f3\u3057\u3066|sign in to continue|access denied|"
+                   r"\u95b2\u89a7\u3059\u308b\u306b\u306f)")
+_NEW_STOP = {"Festival","Japan","Japanese","City","Town","Station","River","Shrine","Temple",
+             "Prefecture","Important","Intangible","Cultural","Property","The","This",
+             "Port","Bay","Bridge","Park","Beach","Coast","Hall","Museum",
+             "Line","Road","Avenue","Street","Mountain","Lake","Valley","Island",
+             "Castle","Gate","Hill","Pond","Village","Hot","Spring","Park"}
+
+def _is_walled(t):
+    """還元(2026-08-04): パスワード壁/認証要求は200で本文も返るため到達性だけでは弾けない。
+       三国でProがこの型のページを根拠に挙げ存在しない表記を作った。"""
+    return bool(_WALL.search(t[:4000]))
+
+def _new_tokens(new):
+    """newから検証対象のラテン語トークンを取る(音写の是正が主対象)。判定はせず抽出のみ。"""
+    toks = [w for w in re.findall(r"\b[A-Z][A-Za-z]{3,}(?:-[A-Za-z]{2,})*\b", new or "")
+            if w not in _NEW_STOP]
+    return sorted(set(toks))
+
+def _verify_new_literal(f2, fetch=True, docs=None):
+    """還元(2026-08-04): evidence_gateは候補選択型しか検証できず、newに文字列を書く型
+       (音写の是正等)は構造上いつまでもunresolvedのまま人手に残っていた。
+       newの中核トークンが到達可能かつ非パスワード壁の出典にliteralで在るかを見る。"""
+    toks = _new_tokens(f2.get("new", ""))
+    if not toks:
+        f2["evidence_verified"] = False
+        f2["note"] = (f2.get("note", "") + " ／[new検証]検証対象トークンなし=要人手").strip()
+        return f2
+    for u in (f2.get("evidence_urls") or []):
+        t = (docs or {}).get(u) or (_fetch(u) if fetch else "")
+        if not t:
+            f2["note"] = (f2.get("note", "") + " ／[new検証]根拠URLが到達不能").strip()
+            continue
+        if _is_walled(t):
+            f2["note"] = (f2.get("note", "") + " ／[new検証]パスワード壁/認証要求ページは根拠に採らない").strip()
+            continue
+        tn = re.sub(r"\s+", " ", t)
+        if all(re.sub(r"\s+", " ", w) in tn for w in toks):
+            f2["evidence_verified"] = True
+            return f2
+    f2["evidence_verified"] = False
+    f2["note"] = (f2.get("note", "") + " ／[new検証]newの中核が出典にliteralで不在=捏造の疑い").strip()
+    return f2
+
 def evidence_gate(fixes, fetch=True, subject=None, docs=None):
     """決定論ゲート: verdict=confirmed_wrong かつ selected_candidate非空の修正案について、
        evidence_urlsの本文にselected_candidateが実在するかを共起照合する。
@@ -280,9 +344,11 @@ def evidence_gate(fixes, fetch=True, subject=None, docs=None):
             f2['evidence_verified'] = False
             f2['note'] = (f2.get('note', '') + ' ／[型ガード]年号targetに非年号candidate=棄却').strip()
             out.append(f2); continue
-        if f2.get("verdict") != "confirmed_wrong" or not core:
+        if f2.get("verdict") != "confirmed_wrong":
             f2["evidence_verified"] = False
             out.append(f2); continue
+        if not core:
+            out.append(_verify_new_literal(f2, fetch=fetch, docs=docs)); continue
         verified = False
         note_extra = ""
         subj_alts = _subject_alts(subject)
