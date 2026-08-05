@@ -355,6 +355,34 @@ def augment(old, new):
     return v
 
 
+def docfix(path, old, new, backup_dir='~/nexus_data/_backup'):
+    """運営三書など文書の置換。2026-08-05: 同日に冪等チェックを3回間違えた
+       (部分一致 NEW[:20] が別文に当たり『既に反映済み』と誤報告 / copy(p,p) /
+       エスケープ済み文字列の検索失敗)。判定を人の書く式に委ねず実測カウントで行う。
+       戻り値 dict(status, old_before, new_before, old_after, new_after)。"""
+    import os, shutil, datetime
+    p = os.path.expanduser(path)
+    s = open(p, encoding='utf-8').read()
+    ob, nb = s.count(old), s.count(new)
+    if ob == 0 and nb > 0:
+        return {'status': 'already', 'old_before': ob, 'new_before': nb,
+                'old_after': ob, 'new_after': nb}
+    if ob == 0 and nb == 0:
+        raise AssertionError('置換対象も置換後も不在=対象文を確認せよ: %r' % old[:60])
+    d = os.path.expanduser(backup_dir)
+    os.makedirs(d, exist_ok=True)
+    bk = os.path.join(d, os.path.basename(p) + '.bak_' +
+                      datetime.datetime.now().strftime('%Y%m%d_%H%M%S'))
+    shutil.copy(p, bk)
+    open(p, 'w', encoding='utf-8').write(s.replace(old, new))
+    t = open(p, encoding='utf-8').read()
+    oa, na = t.count(old), t.count(new)
+    if oa != 0:
+        raise AssertionError('置換後も旧文が残存 %d件' % oa)
+    return {'status': 'done', 'old_before': ob, 'new_before': nb,
+            'old_after': oa, 'new_after': na, 'backup': os.path.basename(bk)}
+
+
 def selftest():
     '''nx自身の回帰。'''
     r = []

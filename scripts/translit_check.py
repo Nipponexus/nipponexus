@@ -29,13 +29,21 @@ EN_RE = {
 }
 # JA側の抽出崩れ(種別語の直前が普通名詞)。正誤判定ではなく列挙ノイズの除去のみ。
 _JA_NG = ('最寄', '各', '同', '当', '本', '複数', '臨時', '有料', '無料', '会場', '周辺', '河')
+# 2026-08-05: 県名(神奈川/石川/香川/旭川市等)と広域道路の断片(圏央道相模原愛+川)を誤って
+# 『川』として拾っていた。存在しない地名の確認をProへ投げるため過剰捕捉は害になる。
+_PREF_KAWA = ('神奈', '石', '香')          # 神奈川県/石川県/香川県
+_ROAD_FRAG = re.compile(r'(道|自動車|高速|国道)')  # 『央道相模原愛』型の断片
+def _drop_ja(kind, w):
+    if w in _JA_NG or len(w) < 2: return True
+    if kind == '川' and (w in _PREF_KAWA or _ROAD_FRAG.search(w)): return True
+    return False
 
 
 def collect(ja, en):
     """種別ごとに {kind, ja[], en[]} を返す。判定は行わない。"""
     out = []
     for k in JA_RE:
-        js = sorted({m for m in JA_RE[k].findall(ja or '') if m not in _JA_NG})
+        js = sorted({m for m in JA_RE[k].findall(ja or '') if not _drop_ja(k, m)})
         es = sorted(set(EN_RE[k].findall(en or '')))
         if js or es:
             out.append({'kind': k, 'ja': js, 'en': es})
