@@ -94,7 +94,13 @@ def invariants(old, new, allow_line_delta=0, allow_deleted=None):
                     v.append('意図しない行挿入 %r' % s[:60])
         elif op == 'replace':
             if (i2 - i1) != (j2 - j1):
-                v.append('置換で行数変化 %d -> %d' % (i2 - i1, j2 - j1))
+                # 置換区間の先頭 (i2-i1) 行は既存行の置換後とみなし、
+                # それを超えて増えた行だけを「追記」として宣言の有無を見る。
+                extra = nl[j1 + (i2 - i1):j2] if (j2 - j1) > (i2 - i1) else []
+                gone = ol[i1 + (j2 - j1):i2] if (i2 - i1) > (j2 - j1) else []
+                bad = [s for s in extra + gone if not okline(s)]
+                if bad:
+                    v.append('置換で行数変化 %d -> %d (未宣言 %r)' % (i2 - i1, j2 - j1, bad[0][:40]))
             for a, b in zip(ol[i1:i2], nl[j1:j2]):
                 ia = a[:len(a) - len(a.lstrip())]
                 ib = b[:len(b) - len(b.lstrip())]
@@ -141,10 +147,30 @@ def _near(text, old):
     return ''
 
 
-def write(qid, ja, en, old_ja=None, old_en=None, allow_line_delta=0, min_ja=2400):
+def write(qid, ja, en, old_ja=None, old_en=None, allow_line_delta=0, min_ja=2400, allow_deleted=None, mode='replace'):
     '''DBへ書く。バックアップ->不変条件->検出器->字数->書込み->読み直し照合まで一括。'''
+    assert mode in ('replace', 'augment'), "mode は 'replace' か 'augment'"
+    if mode == 'augment':
+        # 増補モード: 既存の全行が順序を保ち一字も変わらず残ることを要求する。
+        # DBの現本文を正として突合し、引数のold_ja任せにしない(省略による検査回避を防ぐ)。
+        ca = sqlite3.connect(DB)
+        ra = ca.execute('SELECT manual_content_ja,manual_content_en FROM festivals WHERE qid=?', (qid,)).fetchone()
+        ca.close()
+        assert ra, 'qid不明 %s' % qid
+        v = augment(ra[0] or '', ja) + augment(ra[1] or '', en)
+        assert not v, '増補条件違反: %s' % v
+    elif old_ja is None:
+        c0 = sqlite3.connect(DB)
+        r0 = c0.execute('SELECT manual_content_ja,manual_content_en FROM festivals WHERE qid=?', (qid,)).fetchone()
+        c0.close()
+        assert r0, 'qid不明 %s' % qid
+        if r0[0] and len(r0[0]) >= min_ja:
+            raise AssertionError(
+                'old_ja省略は不可: DB現本文が既に%d字(是正済みの疑い)。'
+                'old_ja/old_enを明示するか、意図的な全面差替なら old_ja=DB現本文 を渡すこと' % len(r0[0]))
     if old_ja is not None:
-        v = invariants(old_ja, ja, allow_line_delta) + invariants(old_en or '', en, allow_line_delta)
+        v = invariants(old_ja, ja, allow_line_delta, allow_deleted) + \
+            invariants(old_en or '', en, allow_line_delta, allow_deleted)
         assert not v, '不変条件違反: %s' % v
     assert len(ja) >= min_ja, '字数不足 ja=%d' % len(ja)
     assert len(en) >= len(ja) * 2 or (len(en) >= 8000 and len(en) / len(ja) >= 1.7), 'en不足 %d/%d' % (len(en), len(ja))
@@ -263,6 +289,70 @@ def shapes():
     assert isinstance(clean(t), str), 'nx.clean は str'
     return {'fix': '(text, log)', 'invariants': 'list(違反)', 'clean': 'str',
             'write': 'dict', 'checks': '(ng, lines)', 'audit': 'dict', 'deploy': 'dict'}
+
+
+def cols(qid, *names):
+    '''festivals の列を名前で取り出す。位置で受け取る事故(2026-08-04: enをNoneと誤報告)を防ぐ。
+       戻りは dict なので添字の取り違えが起きない。'''
+    c = sqlite3.connect(DB)
+    cur = c.execute('SELECT * FROM festivals WHERE qid=?', (qid,))
+    head = [d[0] for d in cur.description]
+    row = cur.fetchone()
+    c.close()
+    assert row, 'qid不明 %s' % qid
+    d = dict(zip(head, row))
+    bad = [n for n in names if n not in d]
+    assert not bad, '存在しない列 %s (実在=%s)' % (bad, head)
+    return {n: d[n] for n in names} if names else d
+
+
+def lens(qid):
+    '''本文の実測長。字数を語るときは必ずこれを通す(推測で述べない)。'''
+    d = cols(qid, 'manual_content_ja', 'manual_content_en', 'label_ja', 'slug_ja', 'slug_en')
+    return {'ja': len(d['manual_content_ja'] or ''), 'en': len(d['manual_content_en'] or ''),
+            'label_ja': d['label_ja'], 'slug_ja': d['slug_ja'], 'slug_en': d['slug_en']}
+
+
+def pairs(ja_fixes, ja, en):
+    '''JA是正ペアのEN対応段落を提示。曖昧/不在があればTrueを返す(要対処)。'''
+    import pair_check as _pc
+    rs = _pc.require_pairs(ja_fixes, ja, en)
+    bad = [r for r in rs if not r['found']]
+    if bad:
+        print('  [要対処] 対応を確定できないJA是正が %d 件' % len(bad))
+    return rs, bool(bad)
+
+
+def augment(old, new):
+    '''増補モードの不変条件。既存の全行が順序を保ち一字も変えずに残り、
+       追加のみが起きていることを検証する。違反の一覧を返す(空なら健全)。
+       全面差替(invariants)と違い replace/delete は常に違反=宣言で通す道がない。'''
+    import difflib
+    v, ol, nl = [], old.split('\n'), new.split('\n')
+    add = 0
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, ol, nl).get_opcodes():
+        if op == 'equal':
+            continue
+        if op == 'insert':
+            add += (j2 - j1)
+            continue
+        if op == 'delete':
+            for s in ol[i1:i2]:
+                if s.strip():
+                    v.append('既存行の削除 %r' % s[:50])
+        elif op == 'replace':
+            for a, b in zip(ol[i1:i2], nl[j1:j2]):
+                if a.strip() and a != b:
+                    v.append('既存行の改変 %r -> %r' % (a[:34], b[:34]))
+            if (i2 - i1) > (j2 - j1):
+                for s in ol[i1 + (j2 - j1):i2]:
+                    if s.strip():
+                        v.append('既存行の削除 %r' % s[:50])
+            else:
+                add += (j2 - j1) - (i2 - i1)
+    if add == 0 and not v:
+        v.append('増補なし(追加行が0)')
+    return v
 
 
 def selftest():

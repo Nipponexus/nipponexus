@@ -40,12 +40,45 @@ def en_counterpart(ja, en, ja_snippet, ctx=200):
     print(f"  [NG] '{ja_snippet}' を含むJA段落が見つからない(表記を確認)")
     return {"found": False, "ja_head": None, "en_head": None, "en_text": ""}
 
+def _match_blocks(ja, snippet):
+    """snippetを含むJAブロックの索引を全部返す(曖昧検出のため複数返す)。"""
+    out = []
+    for idx, (head, body, _s) in enumerate(_blocks(ja)):
+        if snippet in "\n".join(l for _i, l in body):
+            out.append((idx, head))
+    return out
+
+
 def require_pairs(ja_fixes, ja, en):
-    """JA是正ペアのリストを受け、各是正のEN対応段落を列挙する。
-       人はこの出力を見てEN側ペアを作る=『英語で思いつく』工程を機械が代替。"""
+    """JA是正ペア(old,new)を受け、各是正のEN対応段落を列挙する。
+       ★oldは切り詰めず全文で照合する(30字丸めは別ブロックへの誤対応を生む)。
+       ★複数ブロックに一致したら曖昧として警告し、対応を確定させない。"""
     print("=== JA是正に対応するEN段落(ここからENペアを作る) ===")
+    jb, eb = _blocks(ja), _blocks(en)
+    if len(jb) != len(eb):
+        print(f"  [WARN] 段落数不一致 JA={len(jb)} EN={len(eb)} =対応が崩れている可能性")
     res = []
-    for old, *_ in ja_fixes:
-        print(f"\n--- JA是正: {old[:40]}...")
-        res.append(en_counterpart(ja, en, old[:30]))
+    for item in ja_fixes:
+        old = item[0] if isinstance(item, (tuple, list)) else item
+        hits = _match_blocks(ja, old)
+        print(f"\n--- JA是正: {old[:46]}...")
+        if not hits:
+            print(f"  [NG] 本文に該当なし(表記を確認・カウント0を不在と読まない)")
+            res.append({"found": False, "ambiguous": False, "ja_head": None,
+                        "en_head": None, "en_text": ""}); continue
+        if len(hits) > 1:
+            print(f"  [曖昧] {len(hits)}ブロックに一致 {[h for _i,h in hits]} =oldを一意になるまで伸ばすこと")
+            res.append({"found": False, "ambiguous": True, "ja_head": None,
+                        "en_head": None, "en_text": ""}); continue
+        idx, head = hits[0]
+        if idx >= len(eb):
+            print(f"  [NG] JA第{idx+1}ブロックに対応するEN段落が存在しない")
+            res.append({"found": False, "ambiguous": False, "ja_head": head,
+                        "en_head": None, "en_text": ""}); continue
+        ehead, ebody, _es = eb[idx]
+        etext = "\n".join(l for _i, l in ebody).strip()
+        print(f"  [対応] JA{head} -> EN{ehead}")
+        print(f"  [EN段落] {etext[:600]}")
+        res.append({"found": True, "ambiguous": False, "ja_head": head,
+                    "en_head": ehead, "en_text": etext})
     return res
