@@ -41,6 +41,16 @@ def run(qid, ja, en, inception=None):
     if not meta_tel and _META_TEL_EN.search(en) and not _TEL_NUM.search(en): meta_tel=True
     if meta_tel:
         ng=True; lines.append('[NG] 電話番号のメタ的但し書き(公式で確認/割愛)=実番号か記載なしのどちらかにする')
-    miss=[n for n,p in _FIELDS if not re.search(p, ja)]
+    # 2026-08-07: 終了イベント(event_end)は現行の料金・連絡先が存在しないため必須から外す。
+    # 実測5件中4件が料金、3件が問い合わせでWARNを出しており、記事の欠陥ではない。
+    # 開催時期は「かつていつ開催されたか」を書けるため除外しない(両国花火の欠落は実質的)。
+    _skip = set()
+    try:
+        import nxend as _ne
+        if _ne.get(qid):
+            _skip = {'料金', '問い合わせ'}
+    except Exception:
+        pass
+    miss=[n for n,p in _FIELDS if n not in _skip and not re.search(p, ja)]
     if miss: lines.append('[WARN] 開催情報の項目が見当たらない: '+','.join(miss))
     return ng, lines
