@@ -1,7 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import type { Festival } from '../lib/festivals';
-import { getRelatedByPrefecture, getRelatedBySeason } from '../lib/festivals';
+import { getRelatedByPrefecture, getRelatedBySeason, getEventEnd } from '../lib/festivals';
 
 interface Props {
   festival: Festival;
@@ -21,6 +21,22 @@ const otherLocale = isJa ? 'en' : 'ja';
 const otherSlug = isJa ? festival.slug_en : festival.slug_ja;
 const otherUrl = otherSlug ? `https://nipponexus.com/${otherLocale === 'ja' ? '' : 'en/'}${otherSlug}/` : null;
 const selfUrl = `https://nipponexus.com/${isJa ? '' : 'en/'}${isJa ? festival.slug_ja : festival.slug_en}/`;
+const ee = getEventEnd(festival.qid);
+const KIND: Record<string, [string, string]> = {
+  '終了': ['終了', 'Ended'], '休止': ['休止', 'Suspended'], '改称': ['改称', 'Renamed'],
+};
+const kj = ee?.kind ? (KIND[ee.kind] ?? [ee.kind, ee.kind]) : null;
+let periodLabel: string | null = null;
+if (festival.inception_year && ee?.end_year) {
+  periodLabel = isJa
+    ? `${festival.inception_year}年〜${ee.end_year}年（${kj![0]}）`
+    : `${festival.inception_year}–${ee.end_year} (${kj![1]})`;
+} else if (ee?.end_year) {
+  periodLabel = isJa ? `${ee.end_year}年${kj![0]}` : `${kj![1]} ${ee.end_year}`;
+} else if (festival.inception_year) {
+  periodLabel = isJa ? `${festival.inception_year}年〜` : `Since ${festival.inception_year}`;
+}
+
 const pageTitle = `${title} | ${siteName}`;
 
 // JSON-LD Event schema
@@ -98,7 +114,7 @@ const seasonLinkLabel = seasonLabel;
         {locationLabel && <span>📍 {locationLabel}</span>}
         {prefectureLabel && prefectureLabel !== locationLabel && <span>🗾 {prefectureLabel}</span>}
         {seasonLabel && <span>🍃 {seasonLabel}</span>}
-        {festival.inception_year && <span>📜 {isJa ? `${festival.inception_year}年〜` : `Since ${festival.inception_year}`}</span>}
+        {periodLabel && <span>📜 {periodLabel}</span>}
       </div>
     </div>
   </section>

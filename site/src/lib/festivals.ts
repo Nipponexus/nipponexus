@@ -206,3 +206,20 @@ export function getRelatedBySeason(
   db.close();
   return rows;
 }
+
+export interface EventEnd {
+  qid: string; end_year: number | null; kind: string | null;
+  successor_qid: string | null; successor_label: string | null;
+}
+
+export function getEventEnd(qid: string): EventEnd | null {
+  const db = open();
+  try {
+    const t = db.prepare(
+      "SELECT name FROM sqlite_master WHERE type='table' AND name='event_end'"
+    ).get();
+    if (!t) return null;
+    const row = db.prepare('SELECT * FROM event_end WHERE qid = ?').get(qid) as EventEnd | undefined;
+    return row ?? null;
+  } catch { return null; } finally { db.close(); }
+}
