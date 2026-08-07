@@ -22,6 +22,6 @@ git add data/festivals_dump.sql
 git commit -m "chore: nightly DB dump update ($(date '+%Y-%m-%d'))" >> "$LOG_FILE" 2>&1
 
 source ~/.openclaw/.env
-git push "https://${GITHUB_TOKEN_NIPPONEXUS}@github.com/donki2015-web/nipponexus.git" main >> "$LOG_FILE" 2>&1
+git push "https://${GITHUB_TOKEN_NIPPONEXUS}@github.com/Nipponexus/nipponexus.git" main >> "$LOG_FILE" 2>&1
 
 echo "[OK] Pushed nightly DB update" >> "$LOG_FILE"

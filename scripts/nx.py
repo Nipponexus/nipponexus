@@ -258,6 +258,14 @@ def patch_file(path, old, new, expect=1):
     p = os.path.expanduser(path)
     src = open(p, encoding='utf-8').read()
     n = src.count(old)
+    # 2026-08-06: 自律駆動では同一パッチが再実行されうる(field_check接続時に二重適用の
+    # 構造だった)。newが既に在りoldが無い=適用済みとみなしskip。両方在る場合は判断できない
+    # ので従来どおりassertで止める。
+    # ★初版は n==0 のみを見ており、oldがnewに含まれる追記型パッチ(『def shapes():』の前へ
+    #   関数を挿入する型)では適用後もoldが1件残り n==1==expect が成立して再挿入されていた
+    #   =冪等化のコード自体が二重適用を通す穴を持っていた(回帰で検出・2026-08-06)。
+    if new and src.count(new) >= 1 and (n == 0 or old in new):
+        return {'replaced': 0, 'skipped': 'already applied', 'lost': []}
     assert n == expect, '出現%d件(期待%d) old=%r' % (n, expect, old[:60])
     out = src.replace(old, new, expect)
     lost = _symbols(src) - _symbols(out)
@@ -277,6 +285,54 @@ def patch_file(path, old, new, expect=1):
     open(p, 'w', encoding='utf-8').write(out)
     py_compile.compile(p, doraise=True)
     return {'replaced': expect, 'lost': sorted(lost)}
+
+
+_REGION = {'北海道':'hokkaido',
+ '青森県':'tohoku','岩手県':'tohoku','宮城県':'tohoku','秋田県':'tohoku','山形県':'tohoku','福島県':'tohoku',
+ '茨城県':'kanto','栃木県':'kanto','群馬県':'kanto','埼玉県':'kanto','千葉県':'kanto','東京都':'kanto','神奈川県':'kanto',
+ '新潟県':'chubu','富山県':'chubu','石川県':'chubu','福井県':'chubu','山梨県':'chubu','長野県':'chubu',
+ '岐阜県':'chubu','静岡県':'chubu','愛知県':'chubu',
+ '三重県':'kinki','滋賀県':'kinki','京都府':'kinki','大阪府':'kinki','兵庫県':'kinki','奈良県':'kinki','和歌山県':'kinki',
+ '鳥取県':'chugoku','島根県':'chugoku','岡山県':'chugoku','広島県':'chugoku','山口県':'chugoku',
+ '徳島県':'shikoku','香川県':'shikoku','愛媛県':'shikoku','高知県':'shikoku',
+ '福岡県':'kyushu','佐賀県':'kyushu','長崎県':'kyushu','熊本県':'kyushu','大分県':'kyushu','宮崎県':'kyushu','鹿児島県':'kyushu',
+ '沖縄県':'okinawa'}
+
+
+def _region_of(pref):
+    return _REGION.get((pref or '').strip())
+
+
+def _season_of(m):
+    try:
+        m = int(m)
+    except (TypeError, ValueError):
+        return None
+    return {3:'spring',4:'spring',5:'spring',6:'summer',7:'summer',8:'summer',
+            9:'autumn',10:'autumn',11:'autumn',12:'winter',1:'winter',2:'winter'}.get(m)
+
+
+def autometa(qid, start_month=None, inception_year=None, apply=True):
+    '''prefecture->region / start_month->season を決定論で埋める(2026-08-06)。
+       既存の非NULL値は上書きせず不一致のみ conflict として報告する(不可逆な取り違えの防止)。
+       底上げ済み248本のうち119本でメタが欠落し、検出器2(DBメタ突合)が機能していなかった。'''
+    r = dict(row(qid))
+    sm = start_month if start_month is not None else r.get('start_month')
+    want = {'start_month': start_month, 'inception_year': inception_year,
+            'region': _region_of(r.get('prefecture')), 'season': _season_of(sm)}
+    out, conflict = {}, []
+    for k, v in want.items():
+        if v is None:
+            continue
+        cur = r.get(k)
+        if cur in (None, ''):
+            out[k] = v
+        elif str(cur) != str(v):
+            conflict.append((k, cur, v))
+    if apply and out:
+        setmeta(qid, **out)
+    return {'set': out, 'conflict': conflict, 'derived_region': want['region'],
+            'derived_season': want['season'], 'start_month': sm}
 
 
 def shapes():

@@ -184,6 +184,40 @@ def collect_defects(qid, ja, en, cites, run_all_lines, fetch_sources=False):
                                 "excerpt": ln.strip()[:140], "detail": ln.strip()})
     return defects, sources_text
 
+_TRL_TARGET = re.compile(r"JA\[(.*?)\]\s*/\s*EN\[(.*?)\]", re.S)
+
+
+def _translit_queries(label, pref, exc, limit=5):
+    """2026-08-06: translit_checkの赤字はEN公式表記の確認が要るのに、既定のsearch_promptsは
+       日本語の主催/問い合わせクエリ2本のみで英語表記を確認するクエリが1本も無かった。
+       検出器は08-04に接続済みだったが、クエリ側が未配線のままだった(『見逃しているのでなく
+       渡されていない』のクエリ側の残り)。JA/ENの実語をクエリへ載せる。"""
+    m = _TRL_TARGET.search(exc or "")
+    jas = [x.strip() for x in (m.group(1).split("、") if m else []) if x.strip()]
+    ens = [x.strip() for x in (m.group(2).split(",") if m else []) if x.strip()]
+    q = [f"{j} 英語表記 公式" for j in jas[:2]]
+    q += [f"{e} {label} official English name" for e in ens[:2]]
+    q.append(f"{label} {pref} official site English")
+    out = []
+    for x in q:
+        if x not in out:
+            out.append(x)
+    return out[:limit]
+
+
+
+# QCLEAN_v1: 検出器の出力断片(L番号/記号/定型注記)を剥がして検索クエリを清浄化
+_QNOISE = re.compile(r"(出典に不在|出典で役割が共起せず|要一次照合|定型流し込みの疑い|出典に出現|同義反復のためINFO|検出器|偽陽性)")
+def _clean_q(s, label=""):
+    s = re.sub(r"L\s*\d+", " ", s or "")
+    s = re.sub(r"\[[^\]]*\]", " ", s)
+    s = _QNOISE.sub(" ", s)
+    s = re.sub(r"[▲×○◯…\.\u3000=:：/|、。「」『』()（）]+", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()[:40]
+    if label and label not in s:
+        s = f"{label} {s}".strip()
+    return re.sub(r"\s+", " ", s).strip()
+
 def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
     """赤字1件に対しProを呼び判定する。還元T(2026-07-29): 候補がある場合は
        Proは正解を生成せず候補から選択するのみ(幻覚の余地なし)。
@@ -227,7 +261,10 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
             prompt += _EPH_RULE
         elif det in _TRANSLIT_DETECTORS:
             prompt += _TRL_RULE
-        sp = [f"{label} {exc[:20]} 公式", f"{label} {pref} 主催 問い合わせ"][:5]
+        sp = (_translit_queries(label, pref, exc) if det in _TRANSLIT_DETECTORS
+              else [f"{label} {exc[:20]} 公式", f"{label} {pref} 主催 問い合わせ"][:5])
+    sp = [q for q in ( _clean_q(x, label) for x in (sp or []) ) if q and q != label][:5]  # QCLEAN_v1
+    if not sp: sp = [f"{label} {pref} 公式"]
     data = call_fn(prompt, key, model=model_pro, search_prompts=sp, max_tokens=4000)
     msg = data["choices"][0]["message"]
     txt = (msg.get("content") or "").strip()
@@ -446,3 +483,49 @@ def extract_source_candidates(docs, min_len=4):
                         c["count"] += 1
                         c["urls"].add(u)
     return sorted(cands.items(), key=lambda x: -x[1]["count"])
+
+
+# PRO_CACHE_v2  キャッシュ障害は握りつぶし、判定には一切影響させない
+import sqlite3 as _c3, json as _cj, os as _co, time as _ct
+_CDB=_co.path.expanduser("~/nipponexus/data/sqlite/nipponexus.db")
+def _ckey(qid,defect):
+    return "%s|%s|%s"%(qid, defect.get('detector'), (defect.get('excerpt') or '')[:200])
+def _cget(k):
+    try:
+        c=_c3.connect(_CDB, timeout=10)
+        r=c.execute("SELECT payload FROM pro_cache WHERE tkey=?",(k,)).fetchone(); c.close()
+        return _cj.loads(r[0]) if r else None
+    except Exception as e:
+        print("  [cache] 読込スキップ(%s)"%type(e).__name__); return None
+def _cput(k,qid,obj):
+    try:
+        c=_c3.connect(_CDB, timeout=10)
+        c.execute("""CREATE TABLE IF NOT EXISTS pro_cache(tkey TEXT PRIMARY KEY,
+          qid TEXT,payload TEXT,created_at TEXT)""")
+        c.execute("INSERT OR REPLACE INTO pro_cache VALUES(?,?,?,?)",
+                  (k,qid,_cj.dumps(obj,ensure_ascii=False),_ct.strftime("%Y-%m-%dT%H:%M:%S")))
+        c.commit(); c.close()
+    except Exception as e:
+        print("  [cache] 保存スキップ(%s)"%type(e).__name__)
+_raw_pro_verify = pro_verify
+def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
+    k=_ckey(qid,defect)
+    hit=_cget(k)
+    if hit is not None:
+        print("  [cache] Pro呼び出しを再利用:", k[:70]); return hit, '[cache]'
+    obj, raw = _raw_pro_verify(qid,label,pref,defect,key,call_fn,model_pro,candidates)
+    if isinstance(obj,dict) and obj.get('verdict'): _cput(k,qid,obj)
+    return obj, raw
+
+
+# SP_GROUND_v1  Proの再検索が別の祭りを引く事故の防止(全クエリに記事名を接地)
+_pv_cached = pro_verify
+def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
+    def _grounded(prompt, k, model=None, search_prompts=None, max_tokens=16000, **kw):
+        sp=[]
+        for q in (search_prompts or []):
+            q=str(q)
+            sp.append(q if (label and label[:4] in q) else ("%s %s"%(label, q)).strip())
+        if sp: print("    [sp] %s"%(" / ".join(sp[:3])[:110]))
+        return call_fn(prompt, k, model=model, search_prompts=sp, max_tokens=max_tokens, **kw)
+    return _pv_cached(qid, label, pref, defect, key, _grounded, model_pro, candidates)

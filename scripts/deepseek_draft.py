@@ -117,8 +117,12 @@ def call(prompt, key, use_brave=False, model=None, search_prompts=None, max_toke
         content=msg.get("content")
         fr=data.get("choices",[{}])[0].get("finish_reason")
         print(f"  [生成] 試行{i+1}: finish_reason={fr} content_len={len(content or '')}")
-        if content and content.strip():
+        if content and content.strip() and not (fr=="length" and i<2):   # LENGTH_RETRY_v2
+            if fr=="length": print(f"  [警告] 途中切れのまま採用(試行{i+1}/3・max_tokens要見直し)")
             return data
+        if content and content.strip() and fr=="length":
+            print(f"  [警告] 試行{i+1}: 途中切れ(len={len(content)})・再試行")
+            last=data; time.sleep(3); continue
         # 本文が空: finish_reason=length等の可能性。ログ出して再試行
         print(f"  [警告] 試行{i+1}: content空(finish_reason={fr})・再試行")
         last=data
@@ -312,8 +316,9 @@ def split_ja_en(content):
     """(ja, en, fallback) を返す。===EN===があれば通常2分割(正規化なし=既存挙動維持)。
        無ければ # Overview / ## Overview 行でフォールバック分割しH1→H2正規化。
        境界が無ければ en='' で返し検算NGで安全停止。"""
-    if "===EN===" in content:
-        ja, en = (content.split("===EN===",1)+[""])[:2]
+    _m = re.search(r"\n\s*=+\s*EN\s*=+\s*\n", content)
+    if _m:
+        ja, en = content[:_m.start()].strip(), content[_m.end():].strip()
         return strip_meta_preamble(strip_leading_h1(ja),"## 概要"), strip_meta_preamble(strip_leading_h1(en),"## Overview"), False
     # フォールバック: EN先頭見出し(# Overview or ## Overview)を探す
     lines = content.splitlines()
@@ -802,7 +807,8 @@ def run_all_checks(qid, ja, en, strict=True):
        注意では止まらない→呼び出しを一度テストした単一入口に固定し、推測の余地を消す。
        戻り: (ng_flag, lines)。strict=Trueなら呼び出し誤り(AttributeError/TypeError)は
        握りつぶさず送出する(還元O)。"""
-    import graft_check as gc, term_check as tc
+    import graft_check as gc, nxend as _nxend
+    import term_check as tc
     L = []
     ng_any = False
     inc, sm, label = gc.load_meta(qid)
@@ -820,6 +826,13 @@ def run_all_checks(qid, ja, en, strict=True):
     ng_any |= hit
     L.append(f"3 現況断定ガード     : {'NG' if hit else 'OK'}")
     L += [f"     {t} L{i} {v}" for t, i, v in ng]
+    _hit, _ng, _nw = _nxend.check_body(qid, ja, en)
+    ng_any |= _hit
+    if _nxend.get(qid):
+        L.append(f"3b 終了注記ガード    : {'NG' if _hit else 'OK'}"
+                 f"  [{_nxend.label(qid)}]")
+        L += [f"     NG   {t} {v}" for t, v in _ng]
+        L += [f"     WARN {t} {v}" for t, v in _nw]
     hit, ng, warn = gc.detect_reading_mismatch(ja, en)
     ng_any |= hit
     L.append(f"4 訳語の読み照合     : {'NG' if hit else 'OK'}")

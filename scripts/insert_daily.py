@@ -39,6 +39,9 @@ for qid, data in ITEMS.items():
     if not row:
         missing.append(qid)
         continue
+    # NXPREF_v1 (2026-08-07): 県名整合ガード
+    import nxpref as _nxp
+    _nxp.assert_ok(conn, qid)
     conn.execute("""
         UPDATE festivals
         SET manual_content_ja=?, manual_content_en=?,

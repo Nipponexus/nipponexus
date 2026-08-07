@@ -9,13 +9,17 @@
   (4) 不変条件違反(nx.write内)
 ★verdict=detector_false_positive はProが偽陽性と判定した赤字=停止理由にしない
   (138姫路: 赤字を誤りと決めつける契約だったためProが偽陽性を弾けなかったことの是正)。
-★pushは不可逆(00-A12)のため既定で行わない。--deploy 指定時のみ。
+★【2026-08-07訂正】draftedにした時点で公開される。site/src/lib/festivals.ts:41 が
+  status IN ('drafted','published') で引くため、--deploy を付けなくても当夜23時のcron
+  (nightly_rebuild.sh)がdump差分をpushし公開される。投入=公開として扱うこと。
+  --deploy は「即座にpushするか」の違いに過ぎず、公開の可否ゲートではない。
 """
 import os, sys, json, argparse, subprocess
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import deepseek_draft as dd
 import pro_verify_loop as pv
 import nx
+import re
 
 FP = "detector_false_positive"
 
@@ -47,7 +51,10 @@ def _gen(qid):
 def run(qid, deploy=False, reuse=False, write=True):
     if reuse:
         p = dd.OUT / f"{qid}_deepseek_full.md"
-        ja, en = p.read_text().split("\n\n===EN===\n\n")
+        _t = p.read_text()
+        _m = re.search(r"\n\s*={2,}\s*EN\s*={2,}\s*\n", _t)
+        if not _m: raise AssertionError(f"区切りなし: {p}")
+        ja, en = _t[:_m.start()].strip(), _t[_m.end():].strip()
         row = dd.pick(qid, False)
         g = dict(key=dd.get_key(), label=row.get("label_ja") or "", pref=row.get("prefecture") or "",
                  ja=ja, en=en, fb=False,
@@ -91,13 +98,20 @@ def run(qid, deploy=False, reuse=False, write=True):
     if pairs:
         ja2, log = nx.fix(ja, pairs, min_hits=1)
         print(f"[自動是正] {log}")
-        import pair_check as pc
-        for o, _ in pairs:
-            r = pc.en_counterpart(ja, en, o[:40])
-            print(f"  [EN対応要確認] {o[:24]} -> {str(r)[:110]}")
-            stop.append(f"EN側の対応是正が未確定(還元R): {o[:24]}")
+        # 2026-08-06: nx.pairs(全文照合+複数一致を曖昧として確定させない)へ昇格済みなのに
+        # run_oneは旧経路 pc.en_counterpart(o[:40]) を呼び続けていた=昇格の未配線。
+        # ★EN側の是正自体は音写と意訳が混在し機械適用が成立しないため人へ戻す設計は変えない。
+        #   ここでの改善は誤対応の防止であって自動化の前進ではない。
+        rs, bad = nx.pairs(pairs, ja, en)
+        for (o, _), r in zip(pairs, rs):
+            tag = "確定" if r.get("found") else ("曖昧" if r.get("ambiguous") else "不在")
+            print(f"  [EN対応/{tag}] {o[:24]} -> {r.get('en_head')}")
+        stop.append("EN側の対応是正が未適用(JA是正%d件 / EN対応%s)"
+                    % (len(pairs), "全件確定" if not bad else "未確定あり=表記要確認"))
         ja = ja2
 
+    import nxgate  # 2026-08-06: 誰も誤りと言っていない項目で停止しない(決定論トリアージ)
+    unresolved = nxgate.triage(qid, unresolved, ja, en)
     if unresolved:
         stop += [f"未解決赤字: {u.get('detector')} {u.get('target_excerpt','')[:40]} / {u.get('note','')[:60]}"
                  for u in unresolved]
@@ -123,7 +137,7 @@ def run(qid, deploy=False, reuse=False, write=True):
             print(" -", s)
         return {"qid": qid, "status": "stopped", "reasons": stop}
 
-    if reuse and not write:
+    if not write:
         print("[reuse] --write未指定のためDB書込みを行わない(経路確認モード)")
         return {"qid": qid, "status": "dry"}
     print(nx.write(qid, ja, en))
@@ -131,7 +145,7 @@ def run(qid, deploy=False, reuse=False, write=True):
     if not row.get("start_month"):
         print("[WARN] start_month未設定=setmetaで要指定")
     if not deploy:
-        print("[投入完了・push未実施] --deploy 指定時のみpush(不可逆・00-A12)")
+        print("[投入完了] status=drafted=公開対象。--deploy 無指定でも当夜23時のcronで公開される(2026-08-07訂正)")
         return {"qid": qid, "status": "written"}
     probes = {}
     for w in ("特典", "会場"):
