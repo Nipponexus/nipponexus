@@ -71,6 +71,7 @@ def deploy(qid, start_month, season, prefecture, region):
     conn.commit()
     ja_len, en_len = len(ja_db), len(en_db)
     conn.close()
+    import nxbak; nxbak.snapshot("post_deploy")
     print(f"[OK] 投入完了 ja={ja_len}字 en={en_len}字 / ハッシュ照合OK JA={ja_db_hash} EN={en_db_hash}")
     
     # 5. デプロイ

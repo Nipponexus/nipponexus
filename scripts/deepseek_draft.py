@@ -329,7 +329,8 @@ def split_ja_en(content):
     ja_lines = lines[:sep]
     # 還元F(2026-07-23・お旅まつり85本目): フォールバック時JA末尾の'==='区切り行
     # 以降(ENタイトル巻き込み)を切り落とす。35/37/41/85で手動クリーンしていた両端汚れを自動化。
-    cut = next((i for i,l in enumerate(ja_lines) if l.strip()=="==="), len(ja_lines))
+    cut = next((i for i,l in enumerate(ja_lines)
+            if re.fullmatch(r"=+\s*EN\s*=+|={3,}", l.strip())), len(ja_lines))
     ja_lines = ja_lines[:cut]
     ja = strip_meta_preamble(strip_leading_h1(_normalize_h1("\n".join(ja_lines))),"## 概要")
     en = strip_meta_preamble(strip_leading_h1(_normalize_h1("\n".join(lines[sep:]))),"## Overview")
