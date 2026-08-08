@@ -119,6 +119,20 @@ const seasonLinkLabel = seasonLabel;
     </div>
   </section>
 
+  {festival.image_url && (
+    <p style="max-width:var(--content-width,760px);margin:0.6rem auto 0;padding:0 1rem;font-size:0.78rem;color:var(--color-sumi-light);line-height:1.6;">
+      {isJa ? '見出し画像: ' : 'Header image: '}
+      <a href={festival.image_credit_url || '#'} target="_blank" rel="noopener noreferrer"
+         style="color:inherit;">Wikimedia Commons</a>
+      {' / '}
+      {festival.image_author && festival.image_author !== '不明'
+        ? festival.image_author
+        : (isJa ? '作者不明' : 'Unknown author')}
+      {' / '}
+      {festival.image_license || (isJa ? 'ライセンス不明' : 'Unknown license')}
+    </p>
+  )}
+
   <article class="article-body bg-asanoha">
     {contentHtml ? (
       <div set:html={contentHtml}></div>

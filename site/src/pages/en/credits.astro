@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getAllFestivalsForIndex } from '../../lib/festivals';
+
+const all = getAllFestivalsForIndex('en').filter(f => f.image_url);
+const seen = new Set<string>();
+const items: typeof all = [];
+for (const f of all) {
+  if (seen.has(f.image_url!)) continue;
+  seen.add(f.image_url!);
+  items.push(f);
+}
+items.sort((a, b) => (a.label_en || '').localeCompare(b.label_en || '', 'en'));
+---
+<BaseLayout
+  title="Image Credits | Nipponexus"
+  description="Photographers and licenses for all images used on this site."
+  locale="en"
+  canonical="https://nipponexus.com/en/credits/"
+  altLang="https://nipponexus.com/credits/"
+>
+  <article class="article-body bg-asanoha">
+    <h1>Image Credits</h1>
+    <p>
+      All images on this site are sourced from Wikimedia Commons. Copyright remains with the
+      respective photographers, and each image is used under its stated license.
+      Below is the full list of images in use ({items.length} items).
+    </p>
+    <p style="font-size:0.9rem;color:var(--color-sumi-light);">
+      If any attribution is incorrect, or if you would like an image removed, please
+      <a href="/en/contact/">contact us</a> and we will respond promptly.
+    </p>
+    <table style="width:100%;border-collapse:collapse;font-size:0.85rem;margin-top:2rem;">
+      <thead>
+        <tr style="border-bottom:2px solid var(--color-shu);text-align:left;">
+          <th style="padding:0.5rem;">Subject</th>
+          <th style="padding:0.5rem;">Author</th>
+          <th style="padding:0.5rem;">License</th>
+          <th style="padding:0.5rem;">Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {items.map(f => (
+          <tr style="border-bottom:1px solid rgba(0,0,0,0.08);">
+            <td style="padding:0.5rem;">{f.label_en || f.label_ja}</td>
+            <td style="padding:0.5rem;">
+              {f.image_author && f.image_author !== '不明' ? f.image_author : 'Unknown author'}
+            </td>
+            <td style="padding:0.5rem;">{f.image_license || 'Unknown'}</td>
+            <td style="padding:0.5rem;">
+              <a href={f.image_credit_url || '#'} target="_blank" rel="noopener noreferrer">File page</a>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </article>
+</BaseLayout>

@@ -19,6 +19,9 @@ export interface Festival {
   start_month: number | null;
   season: string | null;
   image_url: string | null;
+  image_author: string | null;
+  image_license: string | null;
+  image_credit_url: string | null;
   wikipedia_ja: string | null;
   wikipedia_en: string | null;
   manual_content_ja: string | null;

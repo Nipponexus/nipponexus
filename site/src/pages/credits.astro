@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAllFestivalsForIndex } from '../lib/festivals';
+
+const all = getAllFestivalsForIndex('ja').filter(f => f.image_url);
+const seen = new Set<string>();
+const items: typeof all = [];
+for (const f of all) {
+  if (seen.has(f.image_url!)) continue;
+  seen.add(f.image_url!);
+  items.push(f);
+}
+items.sort((a, b) => (a.label_ja || '').localeCompare(b.label_ja || '', 'ja'));
+---
+<BaseLayout
+  title="画像クレジット | Nipponexus"
+  description="当サイトで使用している画像の撮影者・ライセンス一覧です。"
+  locale="ja"
+  canonical="https://nipponexus.com/credits/"
+  altLang="https://nipponexus.com/en/credits/"
+>
+  <article class="article-body bg-asanoha">
+    <h1>画像クレジット</h1>
+    <p>
+      当サイトで使用している画像は、すべて Wikimedia Commons から取得したものです。
+      各画像の著作権は撮影者に帰属し、それぞれのライセンス条件に従って利用しています。
+      以下に、使用しているすべての画像の撮影者・ライセンス・出典ページを掲載します（{items.length} 点）。
+    </p>
+    <p style="font-size:0.9rem;color:var(--color-sumi-light);">
+      記載内容に誤りがある場合や、画像の削除をご希望の場合は
+      <a href="/contact/">お問い合わせ</a>よりご連絡ください。速やかに対応いたします。
+    </p>
+    <table style="width:100%;border-collapse:collapse;font-size:0.85rem;margin-top:2rem;">
+      <thead>
+        <tr style="border-bottom:2px solid var(--color-shu);text-align:left;">
+          <th style="padding:0.5rem;">対象</th>
+          <th style="padding:0.5rem;">撮影者</th>
+          <th style="padding:0.5rem;">ライセンス</th>
+          <th style="padding:0.5rem;">出典</th>
+        </tr>
+      </thead>
+      <tbody>
+        {items.map(f => (
+          <tr style="border-bottom:1px solid rgba(0,0,0,0.08);">
+            <td style="padding:0.5rem;">{f.label_ja}</td>
+            <td style="padding:0.5rem;">
+              {f.image_author && f.image_author !== '不明' ? f.image_author : '作者不明'}
+            </td>
+            <td style="padding:0.5rem;">{f.image_license || '不明'}</td>
+            <td style="padding:0.5rem;">
+              <a href={f.image_credit_url || '#'} target="_blank" rel="noopener noreferrer">ファイルページ</a>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </article>
+</BaseLayout>
