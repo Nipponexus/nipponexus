@@ -5,6 +5,10 @@
 真偽判定を伴わない純粋な存在検査なので決定論で書ける。
 """
 import re
+import os as _os
+# 2026-08-08: 全国行事判定でDBを引くため。cwd非依存にする(nightly等から呼ばれるため)
+_DB = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                    'data', 'sqlite', 'nipponexus.db')
 _ORG_JA = re.compile(r'主催|主催者')
 _ORG_EN = re.compile(r'\b(organiz|organis|hosted by|host(s)? the)', re.I)
 # 電話番号を書かずに「公式で確認」と逃げるメタ的但し書き(130霧島/141たけふ)
@@ -14,7 +18,7 @@ _TEL_NUM = re.compile(r'0\d{1,4}[-(]\d{2,4}[-)]\d{3,4}')
 # 神社主体の例祭はJAが「主催神社」と書きENは訳し方が異なる(多度/くらやみ/采女/潮来で偽陽性)
 _ORG_SHRINE = re.compile(r'主催神社|主催[：:]\s*\S{0,12}(神社|大社|神宮|寺)')
 _META_TEL_EN = re.compile(r'(telephone|phone)[^.\n]{0,40}(official (web)?site|omitted)', re.I)
-_FIELDS = [('開催時期', r'開催時期|開催期間|会期|開催年|開催日'), ('開催場所', r'開催場所|会場|開催地'),
+_FIELDS = [('開催時期', r'開催時期|開催期間|会期|開催年|開催日'), ('開催場所', r'開催場所|会場|開催地|鑑賞スポット|観覧場所|実施場所'),
            ('料金', r'入場料|料金|観覧料|参加費|無料'), ('アクセス', r'アクセス|交通|最寄|駅|バス'),
            ('問い合わせ', r'問い合わせ|問合|連絡先')]
 
@@ -49,6 +53,17 @@ def run(qid, ja, en, inception=None):
         import nxend as _ne
         if _ne.get(qid):
             _skip = {'料金', '問い合わせ'}
+    except Exception:
+        pass
+    # 2026-08-08: 全国行事(prefecture NULL)は特定会場が存在しないため開催場所を必須から外す。
+    # 実測17件中6件(七五三/半夏生/新嘗祭/日本の七夕/裸祭り/初午)が該当。迎え火・送り火は
+    # NULLだが会場記述を持ち検出できているため、除外による取りこぼしは生じない。
+    try:
+        import sqlite3 as _s
+        _c=_s.connect(_DB); _r=_c.execute(
+            'SELECT prefecture FROM festivals WHERE qid=?', (qid,)).fetchone(); _c.close()
+        if _r and not (_r[0] or '').strip():
+            _skip = _skip | {'開催場所'}
     except Exception:
         pass
     miss=[n for n,p in _FIELDS if n not in _skip and not re.search(p, ja)]
