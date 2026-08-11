@@ -8,10 +8,10 @@ PY3=/usr/bin/python3
 say(){ echo "[$(date '+%F %T')] $*" >> "$LOG"; }
 notify(){
   source ~/.openclaw/.env 2>/dev/null
-  [ -z "$DISCORD_WEBHOOK" ] && return 0
+  [ -z "$DISCORD_WEBHOOK_URL" ] && return 0
   curl -s -H 'Content-Type: application/json' \
     -d "$($PY3 -c 'import json,sys;print(json.dumps({"content":sys.argv[1][:1800]}))' "$1")" \
-    "$DISCORD_WEBHOOK" > /dev/null
+    "$DISCORD_WEBHOOK_URL" > /dev/null
 }
 say "===== daily start ====="
 
@@ -21,8 +21,11 @@ if [ -z "$QID" ]; then
 fi
 say "[pick] $QID"
 
-$PY3 scripts/run_one.py --qid "$QID" --write >> "$LOG" 2>&1
+OUT="/tmp/nxdaily_${QID}.out"
+$PY3 scripts/run_one.py --qid "$QID" --write > "$OUT" 2>&1
 RC=$?
+cat "$OUT" >> "$LOG"
+UNRES=$(grep -E "^\[未解決" "$OUT" | cut -c1-200)
 if [ $RC -ne 0 ]; then
   say "[STOP] run_one 異常終了 rc=$RC"; notify "Nipponexus daily [STOP] $QID run_one rc=$RC"; exit 1
 fi
@@ -55,4 +58,10 @@ ls -1t data/sqlite/nipponexus.db.bak_* 2>/dev/null | tail -n +31 | while read f;
 rm -f "$HOME/nexus_data/llm_sim/${QID}_"* 2>/dev/null && say "[clean] llm_sim/$QID"
 
 say "[DONE] $QID 投入完了。push/公開は23:00のnightlyに委任"
-notify "Nipponexus daily [OK] $QID 投入完了"
+if [ -n "$UNRES" ]; then
+  say "[REVIEW] 未解決あり"
+  notify "Nipponexus daily [OK] $QID 投入完了 / 要目視の未解決あり
+$UNRES"
+else
+  notify "Nipponexus daily [OK] $QID 投入完了 (未解決なし)"
+fi
