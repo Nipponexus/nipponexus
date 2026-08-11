@@ -195,8 +195,11 @@ def _translit_queries(label, pref, exc, limit=5):
     m = _TRL_TARGET.search(exc or "")
     jas = [x.strip() for x in (m.group(1).split("、") if m else []) if x.strip()]
     ens = [x.strip() for x in (m.group(2).split(",") if m else []) if x.strip()]
+    # NXAPPLY_v3(2026-08-10): EN側トークンを単独でクエリ化していたため、JA対象と無関係な
+    # 施設(例: 首里城公園の照合でNaminoue Umisora Park)を引きProが照合対象を取り違えた。
+    # 検索の主語は常にJA側の対象語とし、EN候補は確認材料として併記するに留める。
     q = [f"{j} 英語表記 公式" for j in jas[:2]]
-    q += [f"{e} {label} official English name" for e in ens[:2]]
+    q += [f"{j} official English name {pref}" for j in jas[:1]]
     q.append(f"{label} {pref} official site English")
     out = []
     for x in q:
@@ -218,7 +221,25 @@ def _clean_q(s, label=""):
         s = f"{label} {s}".strip()
     return re.sub(r"\s+", " ", s).strip()
 
-def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
+def _body_excerpt(exc, ja, en, limit=900):
+    """NXAPPLY_v3: Proに記事本文を見せる。従来pro_verifyは本文を持たず【赤字の箇所】の
+       合成表示(JA[..]/EN[..])しか渡していないため、oldを本文から写すことが原理的に不可能だった。"""
+    import re as _r
+    def toks(tag, s):
+        m = _r.search(tag + r'\[(.*?)\]', s or '')
+        return [x.strip() for x in _r.split(r'[、,/]', m.group(1)) if x.strip()] if m else []
+    def pick(text, ts, ja_side):
+        if not text or not ts: return []
+        ss = [x for x in _r.split(r'[。\n]' if ja_side else r'(?<=[.!?])\s+|\n', text) if x.strip()]
+        return [x.strip() for x in ss if any(t in x for t in ts)][:4]
+    jl = pick(ja, toks('JA', exc), True); el = pick(en, toks('EN', exc), False)
+    if not jl and not el: return ""
+    out = "\n\n【記事本文の該当箇所(oldはこの中の文字列を一字一句そのまま写すこと)】\n"
+    if jl: out += "JA本文:\n" + "\n".join("  " + s for s in jl) + "\n"
+    if el: out += "EN本文:\n" + "\n".join("  " + s for s in el) + "\n"
+    return out[:limit]
+
+def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None, ja='', en=''):
     """赤字1件に対しProを呼び判定する。還元T(2026-07-29): 候補がある場合は
        Proは正解を生成せず候補から選択するのみ(幻覚の余地なし)。
        candidates=Noneの場合は従来通り生成モード(候補抽出が空の場合のフォールバック)。
@@ -261,11 +282,13 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
             prompt += _EPH_RULE
         elif det in _TRANSLIT_DETECTORS:
             prompt += _TRL_RULE
+            prompt += _TRL_OLDNEW  # NXAPPLY_v2
+            prompt += _body_excerpt(exc, ja, en)  # NXAPPLY_v3
         sp = (_translit_queries(label, pref, exc) if det in _TRANSLIT_DETECTORS
               else [f"{label} {exc[:20]} 公式", f"{label} {pref} 主催 問い合わせ"][:5])
     sp = [q for q in ( _clean_q(x, label) for x in (sp or []) ) if q and q != label][:5]  # QCLEAN_v1
     if not sp: sp = [f"{label} {pref} 公式"]
-    data = call_fn(prompt, key, model=model_pro, search_prompts=sp, max_tokens=4000)
+    data = call_fn(prompt, key, model=model_pro, search_prompts=sp, max_tokens=8000)  # NXAPPLY_v3: 本文抜粋分
     msg = data["choices"][0]["message"]
     txt = (msg.get("content") or "").strip()
     urls = [x.get("url_citation", {}).get("url") for x in (msg.get("annotations") or [])
@@ -275,7 +298,7 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
         obj = json.loads(m.group(0)) if m else {}
     except Exception:
         obj = {}
-    for k in ("verdict", "confidence", "note", "selected_candidate"):
+    for k in ("verdict", "confidence", "note", "selected_candidate", "old", "new"):
         obj.setdefault(k, "")
     obj.setdefault("evidence_urls", [])
     if not obj["evidence_urls"]:
@@ -284,6 +307,14 @@ def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=Non
     obj["target_excerpt"] = exc
     obj["candidates"] = [name for name, _ in (candidates or [])]
     return obj, txt
+
+_TRL_OLDNEW = (  # NXAPPLY_v2: 列挙型に修正欄を持たせる
+    "★この検出器では上のJSONに次の2キーを必ず追加する:\n"
+    '  "old":"記事本文に実際に出現する誤り文字列を改変せずそのまま1つだけ写す",\n'
+    '  "new":"出典にliteralで存在する正しい表記",\n'
+    "★oldは【赤字の箇所】の表示形式(JA[..]/EN[..])ではなく本文中の実在文字列を写すこと。\n"
+    "★本文の該当箇所を一意に特定できない、または出典で確認できない場合はoldとnewを空にする(推測禁止)。\n"
+)
 
 def _subject_alts(subject):
     """還元(2026-08-02・135): evidence_gateは候補が出典本文に在るかだけを見ており、
@@ -344,14 +375,130 @@ def _new_tokens(new):
             if w not in _NEW_STOP]
     return sorted(set(toks))
 
+# --- WIKIDATA_EVIDENCE_v1 (2026-08-10) ---
+# 還元: 河川/施設の英字表記は公式サイトに載らないことが多く、Proの検索では
+# evidence_urlsが埋まらない(七北田川で登米市の無関係ページを拾った)。
+# Proに生成させるのでなく構造化データ(Wikidata)から英語ラベルを引いて照合する。
+# 判定はProでなくこちらの決定論照合が行うためC-3b(生成値の無検証採用の禁止)は保たれる。
+import json as _wj, urllib.request as _wr, urllib.parse as _wp
+_WD_CACHE = {}
+_WD_UA = {"User-Agent": "nipponexus-verify/1.0 (contact: local)"}
+
+def _wd_get(url):
+    """WDNET_v1 2026-08-10: 429(Too Many Requests)を無言でNoneにしていたため、
+    取得失敗が『項目なし』に化け、_entity_okのfail-open時に破壊的置換を通す恐れがあった。
+    バックオフ再試行とディスクキャッシュで、失敗と不在を区別する。"""
+    import hashlib, os as _o, time as _t
+    cd = _o.path.expanduser('~/nipponexus/data/wdcache')
+    _o.makedirs(cd, exist_ok=True)
+    fp = _o.path.join(cd, hashlib.md5(url.encode()).hexdigest() + '.json')
+    if _o.path.exists(fp) and _t.time() - _o.path.getmtime(fp) < 86400 * 30:
+        try: return _wj.loads(open(fp, encoding='utf-8').read())
+        except Exception: pass
+    last = None
+    for i in range(4):
+        try:
+            req = _wr.Request(url, headers=_WD_UA)
+            with _wr.urlopen(req, timeout=20) as r:
+                d = _wj.loads(r.read().decode("utf-8"))
+            try: open(fp, 'w', encoding='utf-8').write(_wj.dumps(d))
+            except Exception: pass
+            return d
+        except Exception as e:
+            last = e
+            code = getattr(e, 'code', None)
+            if code in (429, 503) or code is None:
+                _t.sleep(1.5 * (2 ** i))
+                continue
+            break
+    print('[wd] 取得失敗 %r' % (last,))
+    return None
+
+_KYU = str.maketrans('國圓體澤櫻藝廣壽龍萬', '国円体沢桜芸広寿竜万')
+def _wd_tier(term, label, aliases):
+    """2=JAラベル完全一致, 1=エイリアス完全一致, 0=不採用。字体差(靖國/靖国)は吸収する。"""
+    def k(x): return (x or '').translate(_KYU).replace('ヶ','ケ').replace('ヵ','カ').strip()
+    t = k(term)
+    if label and t == k(label): return 2
+    if any(t == k(a) for a in (aliases or [])): return 1
+    if not label and not aliases: return 1
+    return 0
+
+def wikidata_en_label(ja_term):
+    """JA固有名からWikidataの英語ラベル(+URL)を引く。無ければ(None,None)。
+    EXACTFIRST_v2 2026-08-10: JAラベル完全一致を最優先。エイリアス一致は完全一致が
+    ゼロのときの次善に留め、次善が複数の英名に割れる場合は曖昧として棄却する。
+    (完全一致のみだと靖國/靖国で取りこぼし、エイリアスを同格にすると
+     東京駅→JR Central Tokyo Station の同名別物混入が起きるため。)"""
+    if not ja_term: return None, None
+    if ja_term in _WD_CACHE: return _WD_CACHE[ja_term]
+    q = _wp.urlencode({"action": "wbsearchentities", "search": ja_term, "language": "ja",
+                       "uselang": "ja", "format": "json", "limit": 5, "type": "item"})
+    d = _wd_get("https://www.wikidata.org/w/api.php?" + q)
+    cands = []
+    for it in ((d or {}).get("search") or []):
+        qid = it.get("id")
+        if not qid: continue
+        q2 = _wp.urlencode({"action": "wbgetentities", "ids": qid, "props": "labels|aliases",
+                            "languages": "en|ja", "format": "json"})
+        d2 = _wd_get("https://www.wikidata.org/w/api.php?" + q2)
+        ent = ((d2 or {}).get("entities") or {}).get(qid) or {}
+        lab = ent.get("labels") or {}
+        ja_l = (lab.get("ja") or {}).get("value", "")
+        en_l = (lab.get("en") or {}).get("value", "")
+        if not en_l: continue
+        al = [x.get("value", "") for x in ((ent.get("aliases") or {}).get("ja") or [])]
+        tier = _wd_tier(ja_term, ja_l, al)
+        if tier:
+            cands.append((tier, en_l, "https://www.wikidata.org/wiki/" + qid))
+    out = (None, None)
+    if cands:
+        top = max(x[0] for x in cands)
+        best = [x for x in cands if x[0] == top]
+        uniq = {x[1] for x in best}
+        if len(uniq) == 1:
+            out = (best[0][1], best[0][2])
+        else:
+            print("[wd] 曖昧につき棄却 %s -> %s" % (ja_term, sorted(uniq)[:3]))
+    _WD_CACHE[ja_term] = out
+    return out
+
+def _verify_by_wikidata(f2):
+    """translit系のnewを Wikidata英語ラベルと照合する。通ればevidence_verified=True。"""
+    exc = f2.get("target_excerpt") or ""
+    m = re.search(r"JA\[(.*?)\]", exc)
+    jas = [x.strip() for x in re.split(r"[、,/]", m.group(1)) if x.strip()] if m else []
+    toks = _new_tokens(f2.get("new", ""))
+    if not jas or not toks: return False
+    for j in jas:
+        en_l, url = wikidata_en_label(j)
+        if not en_l: continue
+        norm = re.sub(r"\s+", " ", en_l)
+        if all(t in norm for t in toks):
+            f2["evidence_verified"] = True
+            f2["evidence_urls"] = list(dict.fromkeys((f2.get("evidence_urls") or []) + [url]))
+            f2["note"] = (f2.get("note", "") + " ／[WD照合]Wikidata英語ラベル『%s』と一致=検証通過" % en_l).strip()
+            return True
+        f2["note"] = (f2.get("note", "") + " ／[WD照合]Wikidata『%s』と不一致" % en_l).strip()
+    return False
+
 def _verify_new_literal(f2, fetch=True, docs=None):
     """還元(2026-08-04): evidence_gateは候補選択型しか検証できず、newに文字列を書く型
        (音写の是正等)は構造上いつまでもunresolvedのまま人手に残っていた。
        newの中核トークンが到達可能かつ非パスワード壁の出典にliteralで在るかを見る。"""
     toks = _new_tokens(f2.get("new", ""))
+    if toks and f2.get("detector") == "translit_check" and not (f2.get("evidence_urls") or []):
+        if _verify_by_wikidata(f2): return f2  # 根拠URLが無い型もWDで救う
     if not toks:
         f2["evidence_verified"] = False
-        f2["note"] = (f2.get("note", "") + " ／[new検証]検証対象トークンなし=要人手").strip()
+        # NXAPPLY_v3: 「削除」が正解の型はnewが原理的に空になり、従来は理由が
+        # 「検証対象トークンなし」と表示され性能不足に見えていた。実際は設計判断。
+        # 削除は範囲境界(文の途中/全文/段落)を機械で保証できず不可逆なため自動反映しない。
+        _nt = str(f2.get("note", ""))
+        if re.search(r"削除|除去|不要|落とす", _nt):
+            f2["note"] = (_nt + " ／[設計]削除指示は自動反映の対象外(範囲境界が不定・不可逆)=人手").strip()
+        else:
+            f2["note"] = (_nt + " ／[new検証]検証対象トークンなし=要人手").strip()
         return f2
     for u in (f2.get("evidence_urls") or []):
         t = (docs or {}).get(u) or (_fetch(u) if fetch else "")
@@ -365,6 +512,8 @@ def _verify_new_literal(f2, fetch=True, docs=None):
         if all(re.sub(r"\s+", " ", w) in tn for w in toks):
             f2["evidence_verified"] = True
             return f2
+    if f2.get("detector") == "translit_check" and _verify_by_wikidata(f2):
+        return f2  # WIKIDATA_EVIDENCE_v1
     f2["evidence_verified"] = False
     f2["note"] = (f2.get("note", "") + " ／[new検証]newの中核が出典にliteralで不在=捏造の疑い").strip()
     return f2
@@ -443,7 +592,8 @@ def run(qid, label, pref, ja, en, cites, run_all_lines, key, call_fn, model_pro,
         print(f"  Pro照合[{i}/{len(defects)}] {d['detector']}: {d['excerpt'][:40]}")
         try:
             obj, raw = pro_verify(qid, label, pref, d, key, call_fn, model_pro,
-                                  candidates=_pick_candidates(d.get('detector', ''), org_cands, year_cands))
+                                  candidates=_pick_candidates(d.get('detector', ''), org_cands, year_cands),
+                                  ja=ja, en=en)  # NXAPPLY_v3: 本文を渡さないとoldを写せない
             fixes.append(obj)
         except Exception as e:
             fixes.append({"detector": d["detector"], "target_excerpt": d["excerpt"][:80],
@@ -508,24 +658,35 @@ def _cput(k,qid,obj):
     except Exception as e:
         print("  [cache] 保存スキップ(%s)"%type(e).__name__)
 _raw_pro_verify = pro_verify
-def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
+def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None, ja='', en=''):
     k=_ckey(qid,defect)
     hit=_cget(k)
+    # NXAPPLY_v3: old/newを持たない旧キャッシュは列挙型では使わない(空返しの固着を防ぐ)
+    if hit is not None and defect.get('detector')=='translit_check' and not (hit.get('old') or hit.get('new')):
+        print("  [cache] 旧形式(old/new無し)のため破棄:", k[:60]); hit=None
     if hit is not None:
         print("  [cache] Pro呼び出しを再利用:", k[:70]); return hit, '[cache]'
-    obj, raw = _raw_pro_verify(qid,label,pref,defect,key,call_fn,model_pro,candidates)
+    obj, raw = _raw_pro_verify(qid,label,pref,defect,key,call_fn,model_pro,candidates,ja=ja,en=en)
     if isinstance(obj,dict) and obj.get('verdict'): _cput(k,qid,obj)
     return obj, raw
 
 
 # SP_GROUND_v1  Proの再検索が別の祭りを引く事故の防止(全クエリに記事名を接地)
 _pv_cached = pro_verify
-def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None):
+def pro_verify(qid, label, pref, defect, key, call_fn, model_pro, candidates=None, ja='', en=''):
     def _grounded(prompt, k, model=None, search_prompts=None, max_tokens=16000, **kw):
+        # NXAPPLY_v3(2026-08-10): SP_GROUND_v1の記事名接地は「別の祭りを引く事故」の防止策だが、
+        # translit_check(地名/施設名の公式英字表記の確認)では祭り名が邪魔をして対象そのものの
+        # 公式ページに到達できず、無関係な自治体(例: 七北田川の照合で登米市)を根拠に拾っていた。
+        # 表記確認は対象語だけで検索し、接地は他の検出器に限る。
+        _skip_ground = (defect.get('detector') == 'translit_check')
         sp=[]
         for q in (search_prompts or []):
             q=str(q)
-            sp.append(q if (label and label[:4] in q) else ("%s %s"%(label, q)).strip())
+            if _skip_ground:
+                sp.append(q if not (label and q.startswith(label)) else q[len(label):].strip() or q)
+            else:
+                sp.append(q if (label and label[:4] in q) else ("%s %s"%(label, q)).strip())
         if sp: print("    [sp] %s"%(" / ".join(sp[:3])[:110]))
         return call_fn(prompt, k, model=model, search_prompts=sp, max_tokens=max_tokens, **kw)
-    return _pv_cached(qid, label, pref, defect, key, _grounded, model_pro, candidates)
+    return _pv_cached(qid, label, pref, defect, key, _grounded, model_pro, candidates, ja=ja, en=en)

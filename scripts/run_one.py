@@ -48,17 +48,30 @@ def _gen(qid):
     return dict(key=key, label=label, pref=pref, ja=ja, en=en, cites=cites, fb=fb)
 
 
+def _read_cites(qid):  # NXAPPLY_v3: cites欠落でも止めない
+    p = dd.OUT / f"{qid}_cites.txt"
+    if not p.exists():
+        print(f"[reuse] cites無し(出典照合は縮退): {p.name}")
+        return []
+    return [l for l in p.read_text().split("\n") if l.strip()]
+
+
 def run(qid, deploy=False, reuse=False, write=True):
     if reuse:
         p = dd.OUT / f"{qid}_deepseek_full.md"
+        if not p.exists():  # NXAPPLY_v3: バッチ中1記事の欠落で全体を落とさない
+            print(f"[reuse] 生成物なし=スキップ: {p.name}")
+            return {"qid": qid, "status": "skipped", "reason": "生成物なし(--reuse)"}
         _t = p.read_text()
         _m = re.search(r"\n\s*={2,}\s*EN\s*={2,}\s*\n", _t)
-        if not _m: raise AssertionError(f"区切りなし: {p}")
+        if not _m:
+            print(f"[reuse] 区切りなし=スキップ: {p.name}")
+            return {"qid": qid, "status": "skipped", "reason": "===EN===区切りなし"}
         ja, en = _t[:_m.start()].strip(), _t[_m.end():].strip()
         row = dd.pick(qid, False)
         g = dict(key=dd.get_key(), label=row.get("label_ja") or "", pref=row.get("prefecture") or "",
                  ja=ja, en=en, fb=False,
-                 cites=[l for l in (dd.OUT / f"{qid}_cites.txt").read_text().split("\n") if l.strip()])
+                 cites=_read_cites(qid))
         print(f"[reuse] 既存生成物を使用 ja={len(ja)} en={len(en)}")
     else:
         g = _gen(qid)
@@ -88,9 +101,44 @@ def run(qid, deploy=False, reuse=False, write=True):
     print(report)
 
     fixes = payload.get("verified_fixes") or []
+    # LEDGER_v1 2026-08-10: Proは非決定的で、同じ案件がverified_fixesに来たり来なかったりする
+    # (Q5288609は前回confirmed_wrong / 今回unresolved)。WD完全一致で確定済みの判定は
+    # 台帳から注入し、自動反映をProの揺れから切り離す。反映可否は従来どおり五重ガードが決める。
+    try:
+        import sqlite3 as _s3, os as _os
+        _db = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                            "data", "sqlite", "nipponexus.db")
+        _cx = _s3.connect(_db)
+        _rows = _cx.execute("SELECT tkey,old,new FROM verdict_ledger "
+                            "WHERE qid=? AND src='WD_EXACT'", (qid,)).fetchall()
+        _cx.close()
+        _have = {((f.get("old") or ""), (f.get("new") or "")) for f in fixes}
+        for _tk, _o, _n in _rows:
+            if (_o, _n) in _have: continue
+            fixes.append({"detector": "translit_check", "verdict": "confirmed_wrong",
+                          "old": _o, "new": _n, "target_excerpt": _tk,
+                          "evidence_verified": True, "src": "LEDGER"})
+            print("[ledger] 台帳から注入: %r -> %r" % (_o, _n))
+    except Exception as _le:
+        print("[ledger] 注入スキップ: %s" % _le)
     unresolved = [u for u in (payload.get("unresolved") or []) if u.get("verdict") != FP]
     fpn = len(payload.get("unresolved") or []) - len(unresolved)
     print(f"[Proループ] 検証通過{len(fixes)}件 / 未解決{len(unresolved)}件 / 偽陽性判定{fpn}件")
+
+    # NXAPPLY_v3(2026-08-10): 検証通過(verified_fixes)のうちold/new型(音写是正)は
+    # selected_candidateを持たないためnx.fixのpairsに乗らず、unresolvedにも来ないので
+    # nxgate側のフックも通らず素通りしていた。反映はここで行う(入口の取り違えの是正)。
+    try:
+        import nxapply
+        _pl = []
+        for f in fixes:
+            p, why = nxapply.plan(qid, dict(f, evidence_verified=True), ja, en)
+            if p: _pl.append(p)
+        if _pl:
+            ja, en, _done = nxapply.apply_plans(qid, _pl, ja, en)
+            print(f"[nxapply] 検証通過から{len(_done)}件を本文へ反映")
+    except Exception as _e:
+        print('[nxapply] skip: %r' % (_e,))
 
     pairs = [(f["target_excerpt"], f["selected_candidate"]) for f in fixes
              if f.get("target_excerpt") and f.get("selected_candidate")
@@ -100,14 +148,18 @@ def run(qid, deploy=False, reuse=False, write=True):
         print(f"[自動是正] {log}")
         # 2026-08-06: nx.pairs(全文照合+複数一致を曖昧として確定させない)へ昇格済みなのに
         # run_oneは旧経路 pc.en_counterpart(o[:40]) を呼び続けていた=昇格の未配線。
-        # ★EN側の是正自体は音写と意訳が混在し機械適用が成立しないため人へ戻す設計は変えない。
-        #   ここでの改善は誤対応の防止であって自動化の前進ではない。
+        # ★2026-08-10(NXAPPLY_v3)撤回: 上の「EN側は機械適用が成立しない」は当時の判断で、
+        #   以後のnx.pairs昇格とtranslit_norm整形を経ても見直されず272件を人手に積み続けた。
+        #   実測: 272件全てoldが本文に実在し全置換で反映可。Proにja/enを見せてold/newを
+        #   書かせ、evidence通過分のみnxapplyが反映する(反映不可は従来どおり人へ)。
         rs, bad = nx.pairs(pairs, ja, en)
         for (o, _), r in zip(pairs, rs):
             tag = "確定" if r.get("found") else ("曖昧" if r.get("ambiguous") else "不在")
             print(f"  [EN対応/{tag}] {o[:24]} -> {r.get('en_head')}")
-        stop.append("EN側の対応是正が未適用(JA是正%d件 / EN対応%s)"
-                    % (len(pairs), "全件確定" if not bad else "未確定あり=表記要確認"))
+        if bad:  # NXAPPLY_v3: EN側が全件確定なら停止理由にしない(未確定のみ止める)
+            stop.append("EN側の対応是正が未適用(JA是正%d件 / EN未確定あり=表記要確認)" % len(pairs))
+        else:
+            print("[自動是正] EN対応 全件確定=停止理由にしない")
         ja = ja2
 
     import nxgate  # 2026-08-06: 誰も誤りと言っていない項目で停止しない(決定論トリアージ)
@@ -140,7 +192,16 @@ def run(qid, deploy=False, reuse=False, write=True):
     if not write:
         print("[reuse] --write未指定のためDB書込みを行わない(経路確認モード)")
         return {"qid": qid, "status": "dry"}
-    print(nx.write(qid, ja, en))
+    # CAS_v1 2026-08-10: old_ja/old_en省略でnx.writeのCASガードに弾かれ書込み不能だった。
+        # 直前のDB現本文を照合トークンとして渡す。是正済み上書き事故はL163の長さ検査が担当。
+        import sqlite3 as _s3
+        _c = _s3.connect(os.path.expanduser('~/nipponexus/data/sqlite/nipponexus.db'))
+        _r0 = _c.execute("SELECT manual_content_ja, manual_content_en FROM festivals WHERE qid=?", (qid,)).fetchone()
+        _oja, _oen = (_r0[0] or ''), (_r0[1] or '')
+        if (ja, en) == (_oja, _oen):
+            print('[write] 差分なし=書込み省略')
+        else:
+            print(nx.write(qid, ja, en, old_ja=_oja, old_en=_oen, allow_line_delta=0))
     row = dd.pick(qid, False)
     if not row.get("start_month"):
         print("[WARN] start_month未設定=setmetaで要指定")

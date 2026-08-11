@@ -504,22 +504,37 @@ def build_pro_blocks(ja, en):
 _ORG = re.compile(r'[一-龥ァ-ヶA-Za-z][一-龥ァ-ヶA-Za-zー・]{1,11}(?:市|町|村|寺|神社|大社|宮|城|大学|協会|クラブ|会館|博物館|科学館|公園|駅)(?![一-龥])')
 
 def build_block_queries(label, pref, name, text):
-    """ブロック内の固有名詞から検証クエリを作る。周辺情報の回では
-       施設名・自治体名そのものを投げる(113の『相模原市 姉妹都市』型を捕捉)。"""
-    if name == "概要・歴史":
-        return [f"{label} {pref} 公式", f"{label} 由来 起源", f"{label} 主催"]
-    if name == "見どころ":
-        return [f"{label} 見どころ 内容", f"{label} {pref}"]
-    if name == "開催情報":
-        return [f"{label} 開催 日程 会場", f"{label} アクセス 最寄り"]
-    names = []
-    for m in _ORG.findall(text):
-        if m not in names and m not in label:
-            names.append(m)
-    qs = [f"{n} {pref}" for n in names[:2]]
+    """ブロック内の固有名詞から検証クエリを作る。2026-08-10改修:
+    (a) ブロック名判定を前方一致へ(「概要」「開催情報・アクセス」が旧==で外れ退化分岐へ落ちていた)
+    (b) 最終分岐の f"{n} {pref}" を claim_probe.queries_for_block へ委譲し本文スライス混入を遮断。"""
+    import claim_probe as _cp
+    base = []
+    if name.startswith("概要") or "歴史" in name or "由来" in name:
+        base = [f"{label} {pref} 公式", f"{label} 由来 起源", f"{label} 主催"]
+    elif "見どころ" in name:
+        base = [f"{label} 見どころ 内容", f"{label} {pref}"]
+    elif "開催情報" in name or "アクセス" in name:
+        base = [f"{label} 開催 日程 会場", f"{label} アクセス 最寄り"]
+    try:
+        dyn = _cp.queries_for_block(label, pref, name, text)
+    except Exception:
+        dyn = []
     if "姉妹都市" in text or "友好都市" in text:
-        qs.append(f"{pref} 姉妹都市 友好都市")
-    return qs or [f"{label} {pref} 周辺"]
+        dyn.append(f"{pref} 姉妹都市 友好都市")
+    out = []
+    for q in base + dyn:
+        try:
+            ok = _cp.query_ok(q, pref)
+        except Exception:
+            ok = bool(q)
+        if ok and q not in out:
+            out.append(q)
+    if not out:
+        fb = re.sub(r"[*_`#]", "", f"{label} {pref} 公式").strip()
+        fb = re.sub(r"\s+", " ", fb)
+        out = [fb] if _cp.query_ok(fb, pref) else [f"{pref} 祭り 公式"]
+    return out
+
 
 
 _EPHEMERAL_PAT = re.compile(

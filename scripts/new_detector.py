@@ -44,12 +44,12 @@ def register(spec, db_rows):
         return {"registered":False,"retro_ng":len(ng),"retro_rate":round(rate,3),
                 "errors":[f"E違反: 遡及NG率{rate:.1%}が上限25%超。検出器でなく仕様誤読の疑い"]}
     d=_load()
-    d["detectors"]=[x for x in d["detectors"] if x["no"]!=spec["no"]]
+    d["detectors"]=[x for x in d["detectors"] if x.get("no")!=spec["no"]]
     d["detectors"].append({
         "no":spec["no"],"name":spec["name"],"origin_defect":spec["origin_defect"],
         "registered_at":datetime.datetime.now().isoformat(timespec="seconds"),
         "cases":len(spec["cases"]),"real_cases":len(real),
         "retro_scanned":len(db_rows),"retro_ng":len(ng),"retro_rate":round(rate,3),"retro_ng_qids":ng[:50]})
-    d["detectors"].sort(key=lambda x:x["no"])
+    d["detectors"].sort(key=lambda x:str(x.get("no") or x.get("id") or ""))
     _save(d)
     return {"registered":True,"retro_scanned":len(db_rows),"retro_ng":len(ng),"retro_rate":round(rate,3),"ng_qids":ng}

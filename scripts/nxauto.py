@@ -216,6 +216,7 @@ def run_full(n=1, deploy=False):
             hold(qid,'想定外status',str(out)[:300]); res['held'].append((qid,st)); continue
         try: set_month(qid)
         except Exception as e: print("  [warn] set_month:",e)
+        ensure_label_en(qid, apply=True)  # LABEL_EN_FROM_BODY_20260810
         s=ensure_slug(qid, apply=True)
         f=finalize(qid, apply=True)
         if f['ok']: res['done'].append({'qid':qid,'slug':s,'ja':f.get('ja'),'en':f.get('en')})
@@ -233,10 +234,41 @@ def pick_safe(n, exclude_qids=()):
         r=c.execute("SELECT label_ja,label_en FROM festivals WHERE qid=?",(qid,)).fetchone(); c.close()
         if not r: continue
         if not (r['label_ja'] or '').strip(): skipped['label_ja']+=1; continue
-        if not (r['label_en'] or '').strip(): skipped['label_en']+=1; continue
+        # LABEL_EN_FROM_BODY_20260810: label_en は生成後に本文から確定するため選題条件から除外
+        # (旧: ここで271本を落としていた。label_ja のみ必須)
         got.append(q)
         if len(got)>=n: break
-    if skipped['label_ja'] or skipped['label_en']:
-        print("  [pick_safe] ラベル欠落でスキップ: ja=%d en=%d"%(skipped['label_ja'],skipped['label_en']))
+    if skipped['label_ja']:
+        print("  [pick_safe] label_ja 欠落でスキップ: %d 件"%skipped['label_ja'])
     return got
 
+
+
+# ===== LABEL_EN_FROM_BODY_20260810 =====
+# label_en は slug 生成にしか使われず(227行の注記どおり)、記事内容には影響しない。
+# Wikidata に無い271本(prefecture有109本)が選題から外れていたため、生成済み英語本文の
+# Overview 直後1文目から英題を確定する。実測: 抽出成功96.6% / 既存slug一致50% /
+# 類似0.8以上を含め約74%。差異の多くは既存slugが人手短縮されたもので抽出側が正式名称。
+# 既存 label_en は上書きしない(Expo '90 のような良質な短縮を壊さないため)。
+def extract_en_title(en):
+    if not en: return None
+    body = _re2.sub(r'^\s*#+\s*\w[\w \'-]*\s*$', '', en, flags=_re2.M)
+    body = _re2.sub(r'^[\s\n]+', '', body)
+    first = _re2.split(r'(?<=[.!?])\s', body.strip())[0] if body.strip() else ''
+    m = _re2.match(r'^(?:The\s+)?([A-Z][A-Za-z0-9\u00C0-\u024F\'\u2019 .&-]{2,60}?)'
+                   r'\s*(?:\(|,|\s(?:is|was|are|were|takes|has|refers))', first)
+    if m:
+        t = m.group(1).strip(' .,&')
+        if len(t.split()) <= 8 and _re2.search(r'[A-Za-z]', t): return t
+    return None
+
+def ensure_label_en(qid, apply=False):
+    """英語本文から label_en を確定する。既存値がある場合は触らない。"""
+    c = _s3.connect(DB); c.row_factory = _s3.Row
+    r = c.execute("SELECT label_en, manual_content_en FROM festivals WHERE qid=?", (qid,)).fetchone()
+    if not r: c.close(); return None
+    if (r['label_en'] or '').strip(): c.close(); return r['label_en']
+    t = extract_en_title(r['manual_content_en'])
+    if t and apply:
+        c.execute("UPDATE festivals SET label_en=? WHERE qid=?", (t, qid)); c.commit()
+    c.close(); return t

@@ -35,6 +35,11 @@ def _present(s, text):
 import re as _re
 
 def triage(qid, unresolved, ja='', en=''):
+    try:  # NXAPPLY_v2: 立証済みの列挙型は人手に回さず本文へ反映
+        import nxapply
+        unresolved = nxapply.consume(qid, unresolved, ja, en)
+    except Exception as _e:
+        print('[nxapply] skip: %r' % (_e,))
     keep=[]
     for u in (unresolved or []):
         det=(u.get('detector') or '')
@@ -45,7 +50,9 @@ def triage(qid, unresolved, ja='', en=''):
                       str(u.get('note') or '')+str(u.get('new') or '')):   # INFRA_SPLIT_v1
             _log(qid,u,'照合基盤の障害(内容の判定ではない)。停止しない'); continue
         if det in ENUM_ONLY:   # ORDER_FIX_v1 列挙型を先に判定(理由の取り違え防止)
-            _log(qid,u,'列挙型かつevidence未通過=立証なし。停止しない'); continue
+            _log(qid,u,('列挙型: evidence通過だが本文位置を一意特定できず自動反映不可'
+                        if u.get('evidence_verified')
+                        else '列挙型かつevidence未通過=立証なし。停止しない')); continue
         if cand and _present(cand, body) and old and not _present(old, body):
             _log(qid,u,'no-op(候補が語境界で存在し置換対象は不在)'); continue
         if False:
