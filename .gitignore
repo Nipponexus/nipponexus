@@ -62,3 +62,5 @@ out/calendar.md
 out/calendar.json
 out/corrections.md
 out/corrections.json
+data/canon_cache.json
+data/entitle_cache.json
