@@ -193,20 +193,23 @@ def run(qid, deploy=False, reuse=False, write=True):
         print("[reuse] --write未指定のためDB書込みを行わない(経路確認モード)")
         return {"qid": qid, "status": "dry"}
     # CAS_v1 2026-08-10: old_ja/old_en省略でnx.writeのCASガードに弾かれ書込み不能だった。
-        # 直前のDB現本文を照合トークンとして渡す。是正済み上書き事故はL163の長さ検査が担当。
-        import sqlite3 as _s3
-        _c = _s3.connect(os.path.expanduser('~/nipponexus/data/sqlite/nipponexus.db'))
-        _r0 = _c.execute("SELECT manual_content_ja, manual_content_en FROM festivals WHERE qid=?", (qid,)).fetchone()
-        _oja, _oen = (_r0[0] or ''), (_r0[1] or '')
-        if (ja, en) == (_oja, _oen):
-            print('[write] 差分なし=書込み省略')
-        else:
-            print(nx.write(qid, ja, en, old_ja=_oja, old_en=_oen, allow_line_delta=0))
+    # 直前のDB現本文を照合トークンとして渡す。是正済み上書き事故はL163の長さ検査が担当。
+    import sqlite3 as _s3
+    _c = _s3.connect(os.path.expanduser('~/nipponexus/data/sqlite/nipponexus.db'))
+    _r0 = _c.execute("SELECT manual_content_ja, manual_content_en FROM festivals WHERE qid=?", (qid,)).fetchone()
+    _oja, _oen = (_r0[0] or ''), (_r0[1] or '')
+    if (ja, en) == (_oja, _oen):
+        print('[write] 差分なし=書込み省略')
+    elif not _oja:   # NEWROW_v1 2026-08-11: 新規投入はold_ja=Noneが正規入口(行数検査は対象外)
+        print('[write] 新規投入(DB現本文なし)')
+        print(nx.write(qid, ja, en))
+    else:
+        print(nx.write(qid, ja, en, old_ja=_oja, old_en=_oen, allow_line_delta=0))
     row = dd.pick(qid, False)
     if not row.get("start_month"):
         print("[WARN] start_month未設定=setmetaで要指定")
     if not deploy:
-        print("[投入完了] status=drafted=公開対象。--deploy 無指定でも当夜23時のcronで公開される(2026-08-07訂正)")
+        print("[書込完了] DBへ本文を投入。status遷移は未実施(nxauto.ensure_slug+finalizeが必要)")
         return {"qid": qid, "status": "written"}
     probes = {}
     for w in ("特典", "会場"):
