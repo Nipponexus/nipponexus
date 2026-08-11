@@ -155,10 +155,17 @@ def slugify(en):
     w=[x for x in _re2.split(r'[^a-z0-9]+',s) if x and x not in _STOP]
     return '-'.join(w)
 def ensure_slug(qid, apply=False):
+    # ENLABEL_v1 2026-08-11: label_en(Wikidata由来)は無検査でURLになる。EN本文と照合してから発行
+    import nxenchk
     c=_s3.connect(DB); c.row_factory=_s3.Row
-    r=c.execute("SELECT qid,label_ja,label_en,slug_ja FROM festivals WHERE qid=?",(qid,)).fetchone()
-    if not r: return None
+    r=c.execute("SELECT qid,label_ja,label_en,slug_ja,manual_content_en FROM festivals WHERE qid=?",(qid,)).fetchone()
+    if not r: c.close(); return None
     if r['slug_ja']: c.close(); return r['slug_ja']
+    v=nxenchk.check(r['label_en'], r['manual_content_en'] or '')
+    if not v['ok']:
+        c.close()
+        print('[HOLD] slug未発行 label_en=%r why=%s missing=%s' % (r['label_en'], v['why'], v['missing']))
+        return None
     base=slugify(r['label_en'])
     if not base: c.close(); return None
     s=base; i=2
