@@ -11,7 +11,7 @@ const months = Array.from({ length: 12 }, (_, i) => {
 const fmt = (s, e) => { const f = (x) => x.slice(5, 7) + "/" + x.slice(8, 10); return e ? f(s) + "〜" + f(e) : f(s); };
 const link = (r) => (r.slug ? "/" + r.slug + "/" : r.wiki);
 ---
-<BaseLayout title="祭りカレンダー | Nipponexus" description="日本各地の祭りの開催日を、各記事に記載された開催規則から算出した一覧です。" locale="ja" altLang="https://nipponexus.com/en/calendar/">
+<BaseLayout title="祭りカレンダー | Nipponexus" description="日本各地の祭りの開催日を、各記事に記載された開催規則から算出した一覧です。" locale="ja">
   <h1>祭りカレンダー</h1>
   <p>収録 {d.annual.length} 件 / 更新 {d.generated}</p>
   <p>開催日は記事に記載された規則（例「7月第3土曜日」）から算出した推定値です。旧暦基準・隔年開催・過去の規則にあたるものは除外しています。実際の日程は主催者の発表をご確認ください。</p>

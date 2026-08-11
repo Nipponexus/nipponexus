@@ -6,7 +6,7 @@ let d = { generated: "", rows: [] };
 try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_corrections.json"), "utf-8")); } catch (e) {}
 const kinds = [...new Set(d.rows.map((r) => r.kind))];
 ---
-<BaseLayout title="訂正と検証の記録 | Nipponexus" description="掲載前の照合で見つかった誤りと、確証が得られず掲載を見送った項目の記録です。" locale="ja" altLang="https://nipponexus.com/en/corrections/">
+<BaseLayout title="訂正と検証の記録 | Nipponexus" description="掲載前の照合で見つかった誤りと、確証が得られず掲載を見送った項目の記録です。" locale="ja">
   <h1>訂正と検証の記録</h1>
   <p>{d.rows.length} 件 / 更新 {d.generated}</p>
   <p>掲載前に記事本文とウィキデータの二経路で照合し、一方でしか裏が取れない場合は採用せず記録しています。</p>
