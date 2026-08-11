@@ -55,8 +55,9 @@ def triage(qid, unresolved, ja='', en=''):
                         else '列挙型かつevidence未通過=立証なし。停止しない')); continue
         if cand and _present(cand, body) and old and not _present(old, body):
             _log(qid,u,'no-op(候補が語境界で存在し置換対象は不在)'); continue
-        if False:
-            _log(qid,u,'列挙型かつevidence未通過=立証なし。停止しない'); continue
+        if (u.get('verdict')=='unverifiable' and not u.get('evidence_verified')
+                and old.startswith('[OK]')):   # UNVERIF_OK_v1 2026-08-11
+            _log(qid,u,'検出器OK項目の確認不可=誤りの立証なし。停止しない'); continue
         if nxallow.is_allowed(qid, det, old):
             _log(qid,u,'人手却下(NXALLOW_v1)=偽陽性として通過'); continue
         keep.append(u)
