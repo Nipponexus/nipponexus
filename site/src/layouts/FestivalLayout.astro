@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import type { Festival } from '../lib/festivals';
 import { getRelatedByPrefecture, getRelatedBySeason, getEventEnd } from '../lib/festivals';
+import { prefEn } from '../data/pref_en';
 
 interface Props {
   festival: Festival;
@@ -74,7 +75,7 @@ const seasonLabel = festival.season && seasonLabels[festival.season]
   : null;
 
 const locationLabel = isJa ? festival.location_label_ja : (festival.location_label_en || festival.location_label_ja);
-const prefectureLabel = festival.prefecture;
+const prefectureLabel = isJa ? festival.prefecture : prefEn(festival.prefecture);
 
 // 関連祭り（内部リンク・回遊強化）
 const relatedPref = getRelatedByPrefecture(festival.prefecture, festival.qid, locale, 6);
