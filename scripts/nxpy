@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# SAFEPASTE_v1 : py_compile を通らないスクリプトは実行させない
+set -euo pipefail
+f="${1:-}"; if [ -z "$f" ]; then echo "usage: nxpy <file.py> [args]"; exit 64; fi
+shift
+if ! python3 -m py_compile "$f" 2>/tmp/nxpy_err.txt; then
+  echo "[nxpy] 構文NG: $f"; cat /tmp/nxpy_err.txt; exit 2
+fi
+exec python3 "$f" "$@"

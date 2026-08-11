@@ -51,3 +51,14 @@ data/sqlite/
 _staging/
 scripts/_tmp/
 data/slug_review_*.tsv
+
+# 作業成果物（2026-08-11）
+snapshots/
+data/oracache/
+data/wdcache/
+data/prewrite_*.json
+data/stale_*.json
+out/calendar.md
+out/calendar.json
+out/corrections.md
+out/corrections.json

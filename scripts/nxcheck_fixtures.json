@@ -1,0 +1,58 @@
+[
+ {
+  "tkey": "Q21653791|translit_check|JA[七北田川] / EN[Shichikashuku]",
+  "old": "Shichikashuku",
+  "new": "Nanakita River",
+  "expect": true,
+  "reason": "台帳WD_EXACT"
+ },
+ {
+  "tkey": "Q210150|translit_check|JA[ポトマック川] / EN[Arakawa River, Potomac River]",
+  "old": "from Arakawa",
+  "new": "from the Arakawa River embankment",
+  "expect": false,
+  "reason": "ガードで却下されるべき"
+ },
+ {
+  "tkey": "Q2276034|translit_check|JA[首里城公園] / EN[Naminoue Umisora Park, Shuri Castle]",
+  "old": "Naminoue Umisora Park",
+  "new": "Naminoue Shrine",
+  "expect": false,
+  "reason": "ガードで却下されるべき"
+ },
+ {
+  "tkey": "Q11638353|translit_check|JA[菩提寺] / EN[Daisho-in Temple]",
+  "old": "Daisho-in Temple",
+  "new": "Daishoin Temple",
+  "expect": false,
+  "reason": "ガードで却下されるべき"
+ },
+ {
+  "tkey": "Q11457148|translit_check|JA[十四川] / EN[Jushi River]",
+  "old": "Jushi River",
+  "new": "Jusse River",
+  "expect": false,
+  "reason": "ガードで却下されるべき"
+ },
+ {
+  "tkey": "Q5288609|translit_check|JA[伊予土居駅] / EN[Iyodoi Station]",
+  "old": "Iyodoi Station",
+  "new": "Iyo-Doi Station",
+  "expect": true,
+  "reason": "台帳WD_EXACT"
+ },
+ {
+  "tkey": "Q5288609|translit_check|JA[伊太祁神社、北野天満神社、土居神社] / EN[Doi Shrine, Itakishi Shrine]",
+  "old": "Itakishi Shrine",
+  "new": "Idaki jinja",
+  "expect": false,
+  "reason": "ガードで却下されるべき"
+ },
+ {
+  "tkey": "Q11259476|translit_check|JA[高島平駅] / EN[Takashimadaira Station]",
+  "old": "Accordingly, the nearest station for free viewing has been consolidated to Takashimadaira Station on the Toei Mita Line, while the downstream baseball fields and embankment slopes have been converted into paid free-seating zones.",
+  "new": "About 20 minutes on foot from Ukima",
+  "expect": false,
+  "reason": "段落書換はPHRASE_v1で却下"
+ }
+]
