@@ -1,7 +1,18 @@
 {
- "generated": "2026-08-11 12:14",
+ "generated": "2026-08-11 13:44",
  "today": "2026-08-11",
  "next": [
+  {
+   "qid": "Q18235534",
+   "name": "三国花火大会",
+   "pref": "福井県",
+   "start": "2026-08-11",
+   "end": "",
+   "rule": "毎年8月11日",
+   "conf": "rule_only",
+   "slug": "mikuni-fireworks-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
   {
    "qid": "Q97171491",
    "name": "亀岡平和祭保津川市民花火大会",
@@ -47,6 +58,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%AF%8E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
+   "qid": "Q11457148",
+   "name": "富田の石取祭",
+   "pref": "三重県",
+   "start": "2026-08-13",
+   "end": "",
+   "rule": "毎年8月13日",
+   "conf": "rule_only",
+   "slug": "tomida-ishidori-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
+  },
+  {
    "qid": "Q11465151",
    "name": "尾島ねぷた",
    "pref": "群馬県",
@@ -56,6 +78,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F"
+  },
+  {
+   "qid": "Q11487200",
+   "name": "弘前ねぷた",
+   "pref": "青森県",
+   "start": "2026-08-14",
+   "end": "",
+   "rule": "毎年8月14日",
+   "conf": "rule_only",
+   "slug": "hirosaki-neputa",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
    "qid": "Q11278373",
@@ -100,39 +133,6 @@
    "conf": "fixed_rule",
    "slug": "fukagawa-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD"
-  },
-  {
-   "qid": "Q11471245",
-   "name": "山鹿灯籠まつり",
-   "pref": "熊本県",
-   "start": "2026-08-15",
-   "end": "2026-08-17",
-   "rule": "毎年8月15日〜8月17日",
-   "conf": "fixed_rule",
-   "slug": "yamaga-toro-matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q11447411",
-   "name": "姫島盆踊り",
-   "pref": "大分県",
-   "start": "2026-08-15",
-   "end": "2026-08-17",
-   "rule": "毎年8月15日〜8月17日",
-   "conf": "rule_only",
-   "slug": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E7%9B%86%E8%B8%8A%E3%82%8A"
-  },
-  {
-   "qid": "Q11631901",
-   "name": "諏訪湖祭湖上花火大会",
-   "pref": "長野県",
-   "start": "2026-08-15",
-   "end": "",
-   "rule": "毎年8月15日",
-   "conf": "fixed_rule",
-   "slug": "lake-suwa-fireworks-festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   }
  ],
  "annual": [
@@ -157,6 +157,50 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A"
+  },
+  {
+   "qid": "Q11673429",
+   "name": "鬼夜",
+   "pref": "",
+   "start": "2026-01-07",
+   "end": "",
+   "rule": "毎年1月7日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%A4%9C"
+  },
+  {
+   "qid": "Q75021413",
+   "name": "新野の雪まつり",
+   "pref": "",
+   "start": "2026-01-13",
+   "end": "",
+   "rule": "毎年1月13日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%87%8E%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11518232",
+   "name": "木古内町寒中みそぎ祭り",
+   "pref": "北海道",
+   "start": "2026-01-13",
+   "end": "",
+   "rule": "毎年1月13日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8F%A4%E5%86%85%E7%94%BA%E5%AF%92%E4%B8%AD%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q63795744",
+   "name": "加悦谷祭",
+   "pref": "",
+   "start": "2026-01-15",
+   "end": "",
+   "rule": "毎年1月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%82%A6%E8%B0%B7%E7%A5%AD"
   },
   {
    "qid": "Q11447740",
@@ -214,6 +258,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%91%82%E3%81%AE%E7%94%B0%E3%81%AE%E7%A5%9E%E7%A5%AD"
   },
   {
+   "qid": "Q86740734",
+   "name": "しばれフェスティバル",
+   "pref": "北海道",
+   "start": "2026-02-07",
+   "end": "",
+   "rule": "毎年2月第1土曜日",
+   "conf": "rule_only",
+   "slug": "shibare-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%B0%E3%82%8C%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+  },
+  {
    "qid": "Q64539503",
    "name": "鳥羽の火祭り",
    "pref": "愛知県",
@@ -247,6 +302,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD"
   },
   {
+   "qid": "Q24877085",
+   "name": "梅宮神社の甘酒祭り",
+   "pref": "埼玉県",
+   "start": "2026-02-10",
+   "end": "",
+   "rule": "毎年2月10日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%AE%AE%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%98%E9%85%92%E7%A5%AD%E3%82%8A"
+  },
+  {
    "qid": "Q11599004",
    "name": "竹割り祭り",
    "pref": "石川県",
@@ -278,6 +344,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8C%85%E3%83%BB%E5%A4%A7%E8%A5%BF%E3%81%AE%E5%BE%A1%E7%B6%B1"
+  },
+  {
+   "qid": "Q11285021",
+   "name": "アメッコ市",
+   "pref": "秋田県",
+   "start": "2026-02-14",
+   "end": "",
+   "rule": "毎年2月第2土曜日",
+   "conf": "rule_only",
+   "slug": "odate-amekko-ichi",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%83%E3%82%B3%E5%B8%82"
   },
   {
    "qid": "Q65247980",
@@ -324,6 +401,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B9%B4%E7%A5%AD_(%E7%94%B0%E7%B8%A3%E7%A5%9E%E7%A4%BE)"
   },
   {
+   "qid": "Q55524579",
+   "name": "古河桃まつり",
+   "pref": "茨城県",
+   "start": "2026-03-20",
+   "end": "",
+   "rule": "毎年3月20日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E6%A1%83%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11611950",
    "name": "能地春祭り",
    "pref": "広島県",
@@ -346,6 +434,28 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E5%85%AB%E6%B9%AF%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q11642088",
+   "name": "三熊野神社大祭",
+   "pref": "静岡県",
+   "start": "2026-04-03",
+   "end": "",
+   "rule": "毎年4月第1金曜日",
+   "conf": "rule_only",
+   "slug": "mikumano-jinja-taisai",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD"
+  },
+  {
+   "qid": "Q11471288",
+   "name": "岐阜まつり",
+   "pref": "",
+   "start": "2026-04-04",
+   "end": "",
+   "rule": "毎年4月第1土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11571216",
    "name": "犬山祭",
    "pref": "愛知県",
@@ -355,6 +465,28 @@
    "conf": "rule_only",
    "slug": "inuyama-festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E7%A5%AD"
+  },
+  {
+   "qid": "Q17214479",
+   "name": "美濃まつり",
+   "pref": "",
+   "start": "2026-04-11",
+   "end": "",
+   "rule": "毎年4月第2土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11496921",
+   "name": "手力の火祭",
+   "pref": "",
+   "start": "2026-04-11",
+   "end": "",
+   "rule": "毎年4月第2土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%8A%9B%E3%81%AE%E7%81%AB%E7%A5%AD"
   },
   {
    "qid": "Q3562464",
@@ -401,6 +533,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E6%9C%AC%E5%AE%AE%E5%A4%A7%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD"
   },
   {
+   "qid": "Q11653306",
+   "name": "長浜曳山祭",
+   "pref": "滋賀県",
+   "start": "2026-04-15",
+   "end": "",
+   "rule": "毎年4月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E6%9B%B3%E5%B1%B1%E7%A5%AD"
+  },
+  {
    "qid": "Q11662899",
    "name": "静岡まつり",
    "pref": "静岡県",
@@ -445,6 +588,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
+   "qid": "Q11487199",
+   "name": "弘前さくらまつり",
+   "pref": "青森県",
+   "start": "2026-04-23",
+   "end": "",
+   "rule": "毎年4月23日",
+   "conf": "rule_only",
+   "slug": "hirosaki-cherry-blossom",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11510844",
    "name": "日高火防祭",
    "pref": "岩手県",
@@ -454,6 +608,28 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E7%81%AB%E9%98%B2%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11646842",
+   "name": "金子神社祭礼",
+   "pref": "埼玉県",
+   "start": "2026-04-25",
+   "end": "",
+   "rule": "毎年4月最終土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%AD%90%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC"
+  },
+  {
+   "qid": "Q6404141",
+   "name": "吉祥寺音楽祭",
+   "pref": "東京都",
+   "start": "2026-04-29",
+   "end": "",
+   "rule": "毎年4月29日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E9%9F%B3%E6%A5%BD%E7%A5%AD"
   },
   {
    "qid": "Q11390862",
@@ -542,6 +718,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E9%87%8E%E5%A4%9C%E9%AB%98%E7%A5%AD"
+  },
+  {
+   "qid": "Q11622981",
+   "name": "藤原まつり",
+   "pref": "",
+   "start": "2026-05-01",
+   "end": "",
+   "rule": "毎年5月1日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11661913",
@@ -687,6 +874,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%BA%A6%E7%A5%AD"
   },
   {
+   "qid": "Q199831",
+   "name": "舞鶴つつじまつり",
+   "pref": "京都府",
+   "start": "2026-05-04",
+   "end": "",
+   "rule": "毎年5月4日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%88%9E%E9%B6%B4%E3%81%A4%E3%81%A4%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q24887792",
    "name": "やんさんま祭り",
    "pref": "富山県",
@@ -742,6 +940,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E7%A5%AD"
   },
   {
+   "qid": "Q30928413",
+   "name": "城端むぎや祭",
+   "pref": "",
+   "start": "2026-05-05",
+   "end": "",
+   "rule": "毎年5月5日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E7%AB%AF%E3%82%80%E3%81%8E%E3%82%84%E7%A5%AD"
+  },
+  {
    "qid": "Q11263112",
    "name": "お旅まつり",
    "pref": "石川県",
@@ -764,6 +973,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A6%8B%E7%A5%9E%E6%98%8E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
   },
   {
+   "qid": "Q17193576",
+   "name": "今宮祭",
+   "pref": "京都府",
+   "start": "2026-05-09",
+   "end": "",
+   "rule": "毎年5月9日",
+   "conf": "rule_only",
+   "slug": "imamiya-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD"
+  },
+  {
    "qid": "Q11455045",
    "name": "宮津祭",
    "pref": "",
@@ -784,6 +1004,17 @@
    "conf": "fixed_rule",
    "slug": "aoi-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%91%B5%E7%A5%AD"
+  },
+  {
+   "qid": "Q11280345",
+   "name": "やすらい祭",
+   "pref": "",
+   "start": "2026-05-15",
+   "end": "",
+   "rule": "毎年5月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%99%E3%82%89%E3%81%84%E7%A5%AD"
   },
   {
    "qid": "Q11433804",
@@ -841,6 +1072,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E6%9B%B3%E5%B1%B1%E8%BB%8A%E7%A5%AD"
   },
   {
+   "qid": "Q17211667",
+   "name": "三国祭",
+   "pref": "福井県",
+   "start": "2026-05-19",
+   "end": "",
+   "rule": "毎年5月19日",
+   "conf": "rule_only",
+   "slug": "mikuni-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E7%A5%AD"
+  },
+  {
    "qid": "Q11644361",
    "name": "酒田祭",
    "pref": "山形県",
@@ -850,6 +1092,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%85%92%E7%94%B0%E7%A5%AD"
+  },
+  {
+   "qid": "Q11278128",
+   "name": "まいづる細川幽斎田辺城まつり",
+   "pref": "京都府",
+   "start": "2026-05-31",
+   "end": "",
+   "rule": "毎年5月最終日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A5%E3%82%8B%E7%B4%B0%E5%B7%9D%E5%B9%BD%E6%96%8E%E7%94%B0%E8%BE%BA%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11582264",
@@ -995,6 +1248,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E3%82%86%E3%81%8B%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q21015433",
+   "name": "多賀城跡あやめまつり",
+   "pref": "宮城県",
+   "start": "2026-06-24",
+   "end": "",
+   "rule": "毎年6月24日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E8%B3%80%E5%9F%8E%E8%B7%A1%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11256803",
    "name": "愛染まつり",
    "pref": "大阪府",
@@ -1004,6 +1268,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%9F%93%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11477022",
+   "name": "島立裸まつり",
+   "pref": "長野県",
+   "start": "2026-06-30",
+   "end": "",
+   "rule": "毎年6月30日",
+   "conf": "rule_only",
+   "slug": "shimadachi-hadaka-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%AB%8B%E8%A3%B8%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11621265",
@@ -1028,6 +1303,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0"
   },
   {
+   "qid": "Q11549648",
+   "name": "氷見祇園祭",
+   "pref": "富山県",
+   "start": "2026-07-01",
+   "end": "",
+   "rule": "毎年7月1日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B0%B7%E8%A6%8B%E7%A5%87%E5%9C%92%E7%A5%AD"
+  },
+  {
    "qid": "Q4663470",
    "name": "あばれ祭り",
    "pref": "石川県",
@@ -1050,6 +1336,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%87%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q48748728",
+   "name": "江差かもめ島祭り",
+   "pref": "北海道",
+   "start": "2026-07-04",
+   "end": "",
+   "rule": "毎年7月第1土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%AE%E3%81%8B%E3%82%82%E3%82%81%E5%B3%B6%E7%A5%AD%E3%82%8A"
+  },
+  {
    "qid": "Q11522760",
    "name": "村上大祭",
    "pref": "",
@@ -1070,6 +1367,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%B3%A2%E5%A4%A7%E7%A5%AD"
+  },
+  {
+   "qid": "Q11657228",
+   "name": "阿佐谷七夕まつり",
+   "pref": "東京都",
+   "start": "2026-07-07",
+   "end": "",
+   "rule": "毎年7月7日",
+   "conf": "rule_only",
+   "slug": "asagaya-tanabata-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q21653307",
@@ -1116,6 +1424,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%9C%8B%E9%AD%82%E7%A5%AD"
   },
   {
+   "qid": "Q774193",
+   "name": "久喜の提灯祭り・天王様",
+   "pref": "埼玉県",
+   "start": "2026-07-12",
+   "end": "",
+   "rule": "毎年7月12日",
+   "conf": "rule_only",
+   "slug": "kuki-chochin-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98"
+  },
+  {
    "qid": "Q3334755",
    "name": "扇祭",
    "pref": "和歌山県",
@@ -1127,6 +1446,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%A5%AD"
   },
   {
+   "qid": "Q11371526",
+   "name": "二島祇園",
+   "pref": "",
+   "start": "2026-07-14",
+   "end": "",
+   "rule": "毎年7月14日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%B3%B6%E7%A5%87%E5%9C%92"
+  },
+  {
    "qid": "Q11538304",
    "name": "桶川祇園祭",
    "pref": "埼玉県",
@@ -1136,6 +1466,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A1%B6%E5%B7%9D%E7%A5%87%E5%9C%92%E7%A5%AD"
+  },
+  {
+   "qid": "Q11614771",
+   "name": "芦別健夏山笠",
+   "pref": "",
+   "start": "2026-07-18",
+   "end": "",
+   "rule": "毎年7月第3土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%88%A5%E5%81%A5%E5%A4%8F%E5%B1%B1%E7%AC%A0"
   },
   {
    "qid": "Q11568692",
@@ -1215,6 +1556,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
+   "qid": "Q11360142",
+   "name": "上越まつり",
+   "pref": "新潟県",
+   "start": "2026-07-23",
+   "end": "",
+   "rule": "毎年7月23日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11581191",
    "name": "益子祇園祭",
    "pref": "栃木県",
@@ -1224,6 +1576,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AD%90%E7%A5%87%E5%9C%92%E7%A5%AD"
+  },
+  {
+   "qid": "Q5371810",
+   "name": "天神祭",
+   "pref": "大阪府",
+   "start": "2026-07-24",
+   "end": "",
+   "rule": "毎年7月24日",
+   "conf": "rule_only",
+   "slug": "tenjin-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E7%A5%AD"
   },
   {
    "qid": "Q86727428",
@@ -1237,6 +1600,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD"
   },
   {
+   "qid": "Q28682646",
+   "name": "ぎおん柏崎まつり",
+   "pref": "",
+   "start": "2026-07-24",
+   "end": "",
+   "rule": "毎年7月24日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8E%E3%81%8A%E3%82%93%E6%9F%8F%E5%B4%8E%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q3119229",
    "name": "隅田川花火大会",
    "pref": "東京都",
@@ -1246,6 +1620,17 @@
    "conf": "verified",
    "slug": "sumidagawa-fireworks-festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
+  {
+   "qid": "Q11262075",
+   "name": "おのみち住吉花火まつり",
+   "pref": "広島県",
+   "start": "2026-07-25",
+   "end": "",
+   "rule": "毎年7月最終土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AE%E3%81%BF%E3%81%A1%E4%BD%8F%E5%90%89%E8%8A%B1%E7%81%AB%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11258475",
@@ -1268,6 +1653,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%91%E7%94%B0%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q18458829",
+   "name": "渋川へそ祭り",
+   "pref": "群馬県",
+   "start": "2026-07-25",
+   "end": "",
+   "rule": "毎年7月25日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E5%B7%9D%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A"
   },
   {
    "qid": "Q112632326",
@@ -1303,6 +1699,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E9%83%B7%E3%83%8E%E6%B5%A6%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0"
   },
   {
+   "qid": "Q21652311",
+   "name": "辻堂諏訪神社例大祭",
+   "pref": "神奈川県",
+   "start": "2026-07-26",
+   "end": "",
+   "rule": "毎年7月26日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%A0%82%E8%AB%8F%E8%A8%AA%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD"
+  },
+  {
    "qid": "Q11573331",
    "name": "珠洲デカ曳山",
    "pref": "石川県",
@@ -1312,6 +1719,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E3%83%87%E3%82%AB%E6%9B%B3%E5%B1%B1"
+  },
+  {
+   "qid": "Q11249715",
+   "name": "TOKYO IDOL FESTIVAL",
+   "pref": "東京都",
+   "start": "2026-07-27",
+   "end": "",
+   "rule": "毎年7月27日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL"
   },
   {
    "qid": "Q11402390",
@@ -1378,6 +1796,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11565005",
+   "name": "ネブタ流し",
+   "pref": "",
+   "start": "2026-07-31",
+   "end": "",
+   "rule": "毎年7月31日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E3%81%AE%E3%83%8D%E3%83%96%E3%82%BF%E6%B5%81%E3%81%97"
   },
   {
    "qid": "Q11257721",
@@ -1611,6 +2040,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%81%AD%E3%81%B6%E3%81%9F"
   },
   {
+   "qid": "Q6080166",
+   "name": "石取祭",
+   "pref": "三重県",
+   "start": "2026-08-02",
+   "end": "",
+   "rule": "毎年8月第1日曜日",
+   "conf": "rule_only",
+   "slug": "ishidori-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD"
+  },
+  {
    "qid": "Q4701224",
    "name": "竿燈",
    "pref": "秋田県",
@@ -1642,6 +2082,17 @@
    "conf": "fixed_rule",
    "slug": "sendai-tanabata",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95"
+  },
+  {
+   "qid": "Q56026191",
+   "name": "吉野川市納涼花火大会",
+   "pref": "徳島県",
+   "start": "2026-08-06",
+   "end": "",
+   "rule": "毎年8月6日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
    "qid": "Q11466617",
@@ -1677,6 +2128,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95"
   },
   {
+   "qid": "Q10860740",
+   "name": "八王子まつり",
+   "pref": "東京都",
+   "start": "2026-08-07",
+   "end": "",
+   "rule": "毎年8月第1金曜日",
+   "conf": "rule_only",
+   "slug": "hachioji-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11271139",
    "name": "たてもん祭り",
    "pref": "富山県",
@@ -1699,6 +2161,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%98%E3%82%83%E3%82%93%E3%81%A8%E3%81%93%E3%81%84%E9%AD%9A%E6%B4%A5%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q11432637",
+   "name": "大分七夕まつり",
+   "pref": "",
+   "start": "2026-08-07",
+   "end": "",
+   "rule": "毎年8月第1金曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11452522",
    "name": "宝塚観光花火大会",
    "pref": "兵庫県",
@@ -1708,6 +2181,28 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%A1%9A%E8%A6%B3%E5%85%89%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
+  {
+   "qid": "Q11486080",
+   "name": "府内戦紙",
+   "pref": "",
+   "start": "2026-08-07",
+   "end": "",
+   "rule": "毎年8月第1金曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%BA%9C%E5%86%85%E6%88%A6%E7%B4%99"
+  },
+  {
+   "qid": "Q11537271",
+   "name": "桐生八木節まつり",
+   "pref": "群馬県",
+   "start": "2026-08-07",
+   "end": "",
+   "rule": "毎年8月第1金曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11590283",
@@ -1765,6 +2260,28 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q24896695",
+   "name": "姥神大神宮渡御祭",
+   "pref": "北海道",
+   "start": "2026-08-09",
+   "end": "",
+   "rule": "毎年8月9日",
+   "conf": "rule_only",
+   "slug": "ubagami-daijingu-togyosai",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%A5%E7%A5%9E%E5%A4%A7%E7%A5%9E%E5%AE%AE%E6%B8%A1%E5%BE%A1%E7%A5%AD"
+  },
+  {
+   "qid": "Q18235534",
+   "name": "三国花火大会",
+   "pref": "福井県",
+   "start": "2026-08-11",
+   "end": "",
+   "rule": "毎年8月11日",
+   "conf": "rule_only",
+   "slug": "mikuni-fireworks-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
+  {
    "qid": "Q97171491",
    "name": "亀岡平和祭保津川市民花火大会",
    "pref": "京都府",
@@ -1809,6 +2326,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%AF%8E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
+   "qid": "Q11457148",
+   "name": "富田の石取祭",
+   "pref": "三重県",
+   "start": "2026-08-13",
+   "end": "",
+   "rule": "毎年8月13日",
+   "conf": "rule_only",
+   "slug": "tomida-ishidori-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
+  },
+  {
    "qid": "Q11465151",
    "name": "尾島ねぷた",
    "pref": "群馬県",
@@ -1818,6 +2346,17 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F"
+  },
+  {
+   "qid": "Q11487200",
+   "name": "弘前ねぷた",
+   "pref": "青森県",
+   "start": "2026-08-14",
+   "end": "",
+   "rule": "毎年8月14日",
+   "conf": "rule_only",
+   "slug": "hirosaki-neputa",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
    "qid": "Q11278373",
@@ -1862,6 +2401,28 @@
    "conf": "fixed_rule",
    "slug": "fukagawa-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD"
+  },
+  {
+   "qid": "Q11265746",
+   "name": "くろほね夏まつり",
+   "pref": "",
+   "start": "2026-08-15",
+   "end": "",
+   "rule": "毎年8月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8D%E3%81%BB%E3%81%AD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11442147",
+   "name": "天ヶ須賀の石取祭",
+   "pref": "",
+   "start": "2026-08-15",
+   "end": "",
+   "rule": "毎年8月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%B6%E9%A0%88%E8%B3%80%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
    "qid": "Q11471245",
@@ -2007,6 +2568,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B9%E3%81%A3%E3%81%95%E3%82%93"
   },
   {
+   "qid": "Q11563560",
+   "name": "湯布院映画祭",
+   "pref": "大分県",
+   "start": "2026-08-20",
+   "end": "",
+   "rule": "毎年8月第3木曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B8%83%E9%99%A2%E6%98%A0%E7%94%BB%E7%A5%AD"
+  },
+  {
    "qid": "Q11547768",
    "name": "毛馬内の盆踊",
    "pref": "秋田県",
@@ -2095,6 +2667,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q720663",
+   "name": "浅草サンバカーニバル",
+   "pref": "東京都",
+   "start": "2026-08-29",
+   "end": "",
+   "rule": "毎年8月最終土曜日",
+   "conf": "rule_only",
+   "slug": "asakusa-samba-carnival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%B5%E3%83%B3%E3%83%90%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB"
+  },
+  {
    "qid": "Q11579109",
    "name": "登別地獄まつり",
    "pref": "",
@@ -2128,6 +2711,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86"
   },
   {
+   "qid": "Q6416609",
+   "name": "岸和田だんじり祭",
+   "pref": "大阪府",
+   "start": "2026-09-01",
+   "end": "",
+   "rule": "毎年9月1日",
+   "conf": "rule_only",
+   "slug": "kishiwada-danjiri-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
+  },
+  {
    "qid": "Q18337572",
    "name": "中条祭り",
    "pref": "新潟県",
@@ -2148,6 +2742,17 @@
    "conf": "fixed_rule",
    "slug": "kakunodate-no-omatsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11414198",
+   "name": "吉祥寺秋まつり",
+   "pref": "",
+   "start": "2026-09-12",
+   "end": "",
+   "rule": "毎年9月第2土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q67704099",
@@ -2249,6 +2854,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BD%86%E9%A6%AC%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q48745443",
+   "name": "尾張横須賀まつり",
+   "pref": "",
+   "start": "2026-09-27",
+   "end": "",
+   "rule": "毎年9月第4日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%A8%AA%E9%A0%88%E8%B3%80%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q28684776",
    "name": "安積国造神社秋季例大祭",
    "pref": "福島県",
@@ -2282,6 +2898,50 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
+   "qid": "Q11277692",
+   "name": "ほうらい祭り",
+   "pref": "石川県",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月2日",
+   "conf": "rule_only",
+   "slug": "horai-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%82%89%E3%81%84%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q114874856",
+   "name": "津久野だんじり祭",
+   "pref": "大阪府",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月第1金曜日",
+   "conf": "rule_only",
+   "slug": "tsukuno-danjiri-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
+  },
+  {
+   "qid": "Q11675240",
+   "name": "鳳だんじり祭り",
+   "pref": "",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月第1金曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%B3%B3%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q22130964",
+   "name": "こうのす花火大会",
+   "pref": "",
+   "start": "2026-10-03",
+   "end": "",
+   "rule": "毎年10月第1土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%86%E3%81%AE%E3%81%99%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
+  {
    "qid": "Q11419969",
    "name": "四日市祭",
    "pref": "三重県",
@@ -2291,6 +2951,39 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E7%A5%AD"
+  },
+  {
+   "qid": "Q28686206",
+   "name": "尾張津島秋まつり",
+   "pref": "愛知県",
+   "start": "2026-10-04",
+   "end": "",
+   "rule": "毎年10月第1日曜日",
+   "conf": "rule_only",
+   "slug": "owari-tsushima-autumn-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q28686179",
+   "name": "大田まつり",
+   "pref": "",
+   "start": "2026-10-04",
+   "end": "",
+   "rule": "毎年10月第1日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q136779585",
+   "name": "棚野の千両祭",
+   "pref": "",
+   "start": "2026-10-05",
+   "end": "",
+   "rule": "毎年10月5日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%A3%9A%E9%87%8E%E3%81%AE%E5%8D%83%E4%B8%A1%E7%A5%AD"
   },
   {
    "qid": "Q28685070",
@@ -2348,6 +3041,39 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
+   "qid": "Q11633921",
+   "name": "豊浜ちょうさ祭",
+   "pref": "香川県",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "toyohama-chosa-festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD"
+  },
+  {
+   "qid": "Q11679207",
+   "name": "龍勢祭り",
+   "pref": "",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2"
+  },
+  {
+   "qid": "Q5288609",
+   "name": "土居太鼓祭り",
+   "pref": "愛媛県",
+   "start": "2026-10-13",
+   "end": "",
+   "rule": "毎年10月13日",
+   "conf": "rule_only",
+   "slug": "doi-taiko-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
+  },
+  {
    "qid": "Q11301198",
    "name": "ケベス祭",
    "pref": "大分県",
@@ -2368,6 +3094,17 @@
    "conf": "fixed_rule",
    "slug": "nada-no-kenka-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11523928",
+   "name": "東予祭り",
+   "pref": "",
+   "start": "2026-10-15",
+   "end": "",
+   "rule": "毎年10月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%88%E7%A5%AD%E3%82%8A"
   },
   {
    "qid": "Q11568981",
@@ -2447,6 +3184,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E7%A5%AD"
   },
   {
+   "qid": "Q11408922",
+   "name": "博多おくんち",
+   "pref": "長崎県",
+   "start": "2026-10-23",
+   "end": "",
+   "rule": "毎年10月23日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%8A%E3%81%8F%E3%82%93%E3%81%A1"
+  },
+  {
    "qid": "Q11368913",
    "name": "久世祭り",
    "pref": "岡山県",
@@ -2480,6 +3228,28 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
   },
   {
+   "qid": "Q493695",
+   "name": "唐津くんち",
+   "pref": "佐賀県",
+   "start": "2026-11-03",
+   "end": "",
+   "rule": "毎年11月3日",
+   "conf": "rule_only",
+   "slug": "karatsu-kunchi",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1"
+  },
+  {
+   "qid": "Q11455969",
+   "name": "富士宮まつり",
+   "pref": "静岡県",
+   "start": "2026-11-03",
+   "end": "",
+   "rule": "毎年11月3日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
    "qid": "Q11524909",
    "name": "東京時代まつり",
    "pref": "東京都",
@@ -2489,6 +3259,17 @@
    "conf": "fixed_rule",
    "slug": "tokyo-jidai-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q21654307",
+   "name": "ひぬまあじさいまつり",
+   "pref": "",
+   "start": "2026-11-04",
+   "end": "",
+   "rule": "毎年11月4日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11260406",
@@ -2511,6 +3292,28 @@
    "conf": "rule_only",
    "slug": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%BD%E5%8F%A4%E5%A2%B3%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11423732",
+   "name": "土浦全国花火競技大会",
+   "pref": "茨城県",
+   "start": "2026-11-07",
+   "end": "",
+   "rule": "毎年11月第1土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B5%A6%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A"
+  },
+  {
+   "qid": "Q65279849",
+   "name": "芝山はにわ祭",
+   "pref": "千葉県",
+   "start": "2026-11-08",
+   "end": "",
+   "rule": "毎年11月第2日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E5%B1%B1%E3%81%AF%E3%81%AB%E3%82%8F%E7%A5%AD"
   },
   {
    "qid": "Q11458640",
@@ -2557,6 +3360,17 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
+   "qid": "Q11501518",
+   "name": "新嘗祭",
+   "pref": "",
+   "start": "2026-11-23",
+   "end": "",
+   "rule": "毎年11月23日",
+   "conf": "rule_only",
+   "slug": "niiname-no-matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD"
+  },
+  {
    "qid": "Q11356768",
    "name": "三田祭",
    "pref": "東京都",
@@ -2601,6 +3415,39 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8D%E3%81%84%E7%A5%AD%E3%82%8A"
   },
   {
+   "qid": "Q21654085",
+   "name": "日本一はっとフェスティバル",
+   "pref": "宮城県",
+   "start": "2026-12-06",
+   "end": "",
+   "rule": "毎年12月第1日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AF%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+  },
+  {
+   "qid": "Q122353106",
+   "name": "大湯祭",
+   "pref": "",
+   "start": "2026-12-10",
+   "end": "",
+   "rule": "毎年12月10日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%AF%E7%A5%AD"
+  },
+  {
+   "qid": "Q22123263",
+   "name": "十二日まち",
+   "pref": "埼玉県",
+   "start": "2026-12-12",
+   "end": "",
+   "rule": "毎年12月12日",
+   "conf": "rule_only",
+   "slug": "juninichi-machi",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A1"
+  },
+  {
    "qid": "Q28688423",
    "name": "義士祭",
    "pref": "東京都",
@@ -2632,6 +3479,17 @@
    "conf": "fixed_rule",
    "slug": "kasuga-wakamiya-on-matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD"
+  },
+  {
+   "qid": "Q11193741",
+   "name": "COUNTDOWN JAPAN",
+   "pref": "",
+   "start": "2026-12-31",
+   "end": "",
+   "rule": "毎年12月31日",
+   "conf": "rule_only",
+   "slug": "",
+   "wiki": "https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN"
   }
  ]
 }
