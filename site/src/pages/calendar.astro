@@ -1,0 +1,26 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import BaseLayout from "../layouts/BaseLayout.astro";
+let d = { generated: "", next: [], annual: [] };
+try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_calendar.json"), "utf-8")); } catch (e) {}
+const months = Array.from({ length: 12 }, (_, i) => {
+  const m = String(i + 1).padStart(2, "0");
+  return { m: i + 1, rows: d.annual.filter((r) => (r.start || "").slice(5, 7) === m) };
+});
+const fmt = (s, e) => { const f = (x) => x.slice(5, 7) + "/" + x.slice(8, 10); return e ? f(s) + "〜" + f(e) : f(s); };
+const link = (r) => (r.slug ? "/" + r.slug + "/" : r.wiki);
+---
+<BaseLayout title="祭りカレンダー | Nipponexus" description="日本各地の祭りの開催日を、各記事に記載された開催規則から算出した一覧です。" locale="ja" altLang="https://nipponexus.com/en/calendar/">
+  <h1>祭りカレンダー</h1>
+  <p>収録 {d.annual.length} 件 / 更新 {d.generated}</p>
+  <p>開催日は記事に記載された規則（例「7月第3土曜日」）から算出した推定値です。旧暦基準・隔年開催・過去の規則にあたるものは除外しています。実際の日程は主催者の発表をご確認ください。</p>
+  <h2>次に来る祭り</h2>
+  <ul>
+    {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> <a href={link(r)}>{r.name}</a> {r.pref && <span>（{r.pref}）</span>} <small>{r.rule}</small></li>))}
+  </ul>
+  {months.map((mo) => mo.rows.length > 0 && (
+    <section><h2>{mo.m}月（{mo.rows.length}件）</h2>
+      <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} <a href={link(r)}>{r.name}</a> {r.pref && <span>（{r.pref}）</span>}</li>))}</ul>
+    </section>))}
+</BaseLayout>

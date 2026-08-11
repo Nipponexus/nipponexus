@@ -1,0 +1,1049 @@
+{
+ "generated": "2026-08-11 10:57",
+ "rows": [
+  {
+   "kind": "所在地の訂正",
+   "name": "さいすくい",
+   "old": "三重県",
+   "new": "大分県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11267368",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "富士山御神火まつり",
+   "old": "山梨県",
+   "new": "静岡県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 山梨県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11455990",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "津屋崎祇園山笠",
+   "old": "三重県",
+   "new": "福岡県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11556000",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "滝山寺鬼まつり",
+   "old": "山形県",
+   "new": "愛知県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 山形県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q28691756",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "日本幻野祭",
+   "old": "福岡県",
+   "new": "千葉県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 福岡県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q38277378",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "猪名川花火大会",
+   "old": "京都府",
+   "new": "兵庫県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q56010148",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "鳥羽の火祭り",
+   "old": "三重県",
+   "new": "愛知県",
+   "note": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q64539503",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "下館祇園祭",
+   "old": "京都府",
+   "new": "茨城県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11361495",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "南越谷阿波踊り",
+   "old": "徳島県",
+   "new": "埼玉県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 徳島県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11408464",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "坂戸よさこい",
+   "old": "高知県",
+   "new": "埼玉県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 高知県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11425142",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "小見川祇園祭",
+   "old": "京都府",
+   "new": "千葉県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11463659",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "尾島ねぷた",
+   "old": "青森県",
+   "new": "群馬県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 青森県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11465151",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "山口天神祭",
+   "old": "大阪府",
+   "new": "山口県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 大阪府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11466745",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "山口祇園祭",
+   "old": "京都府",
+   "new": "山口県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11467395",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "桶川祇園祭",
+   "old": "京都府",
+   "new": "埼玉県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11538304",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "氷見祇園祭",
+   "old": "京都府",
+   "new": "富山県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11549648",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "浦安三社祭",
+   "old": "東京都",
+   "new": "千葉県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 東京都 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q11558195",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "萩姫まつり",
+   "old": "山口県",
+   "new": "福島県",
+   "note": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 山口県 は祭名から本家所在地を引き当てた推測誤り。",
+   "url": "https://www.wikidata.org/wiki/Q30928431",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "会津田島祇園祭",
+   "old": "京都府",
+   "new": "福島県",
+   "note": "jawiki導入部『福島県南会津郡南会津町』。郡名を剥がした照会経路 南会津町 -> Q1205058 -> P131 で帰属県 福島県 を確認。旧値 京都府 は推測誤り。",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "大淀祇園祭",
+   "old": "京都府",
+   "new": "三重県",
+   "note": "jawiki導入部『三重県多気郡明和町』。郡名を剥がした照会経路 明和町 (三重県) -> Q1203258 -> P131 で帰属県 三重県 を確認。旧値 京都府 は推測誤り。",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B7%80%E7%A5%87%E5%9C%92%E7%A5%AD",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "小鶴祇園祭",
+   "old": "京都府",
+   "new": "茨城県",
+   "note": "jawiki導入部『茨城県東茨城郡茨城町』。郡名を剥がした照会経路 茨城町 -> Q1203390 -> P131 で帰属県 茨城県 を確認。旧値 京都府 は推測誤り。",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%B6%B4%E7%A5%87%E5%9C%92%E7%A5%AD",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "所在地の訂正",
+   "name": "小川町七夕まつり",
+   "old": "群馬県",
+   "new": "埼玉県",
+   "note": "jawiki導入部『埼玉県比企郡小川町』。郡名を剥がした照会経路 小川町 -> Q935037 -> P131 で帰属県 埼玉県 を確認。旧値 群馬県 は推測誤り。",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E7%94%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "20260811_0"
+  },
+  {
+   "kind": "名称の照合",
+   "name": "東大寺",
+   "old": "Todaiji",
+   "new": "Tōdai-ji",
+   "note": "REFERENCE_APPOSITIVE_v1: 『Roben of Todaiji』=人物の所属先 || Its source is said to lie in the Shushoe rite founded by Jitchu Shonin, a high disciple of the priest Roben of Todaiji.",
+   "url": "https://en.wikipedia.org/wiki/Tōdai-ji",
+   "at": "20260810_1"
+  },
+  {
+   "kind": "名称の照合",
+   "name": "興福寺",
+   "old": "Kofukuji",
+   "new": "Kōfuku-ji",
+   "note": "SIBLING_COHERENCE_v1: 同一文に正式形 Tōdai-ji,Kasuga-taisha || Within walking distance of the park lie world heritage-listed temples and shrines such as Tōdai-ji Temple, Kofukuji Temple, and Kasuga-taisha Shrine, making this an ideal area for immersing oneself in ancient Japanese culture.",
+   "url": "https://en.wikipedia.org/wiki/Kōfuku-ji",
+   "at": "20260810_1"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "アマチュア無線の日",
+   "old": "毎年7月29日",
+   "new": "",
+   "note": "記念日であり祭りではない",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E7%84%A1%E7%B7%9A%E3%81%AE%E6%97%A5",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "漢字の日",
+   "old": "毎年12月12日",
+   "new": "",
+   "note": "記念日であり祭りではない",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E3%81%AE%E6%97%A5",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "迎え火",
+   "old": "毎年7月13日",
+   "new": "",
+   "note": "盆の風習の総称であり個別の祭りではない",
+   "url": "https://ja.wikipedia.org/wiki/%E8%BF%8E%E3%81%88%E7%81%AB",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "東流",
+   "old": "毎年7月11日",
+   "new": "",
+   "note": "祭りの参加団体（流）であり祭りではない",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%81",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "十日えびす",
+   "old": "毎年10月20日",
+   "new": "",
+   "note": "記事内容がえびす講（年中行事の総称）でラベルと不一致",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "松上げ",
+   "old": "毎年8月24日",
+   "new": "",
+   "note": "地域一帯の火祭りの総称で開催日が一定でない",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8A%E3%81%92",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "開催日の訂正",
+   "name": "胡子講",
+   "old": "毎年11月17日〜11月4日",
+   "new": "毎年11月17日〜11月20日",
+   "note": "根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
+   "url": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "起きよ祭り",
+   "old": "（記録なし）",
+   "new": "宮崎県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E8%B5%B7%E3%81%8D%E3%82%88%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "お船祭り (須々岐水神社)",
+   "old": "（記録なし）",
+   "new": "長野県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%88%B9%E7%A5%AD%E3%82%8A_(%E9%A0%88%E3%80%85%E5%B2%90%E6%B0%B4%E7%A5%9E%E7%A4%BE)",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "あつぎ鮎まつり",
+   "old": "（記録なし）",
+   "new": "神奈川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A4%E3%81%8E%E9%AE%8E%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "うすき竹宵",
+   "old": "（記録なし）",
+   "new": "大分県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%99%E3%81%8D%E7%AB%B9%E5%AE%B5",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "おしろい祭り",
+   "old": "（記録なし）",
+   "new": "福岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8D%E3%81%84%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "きらきらフェスティバル",
+   "old": "（記録なし）",
+   "new": "長崎県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "はんだ山車まつり",
+   "old": "（記録なし）",
+   "new": "愛知県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%93%E3%81%A0%E5%B1%B1%E8%BB%8A%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "にいはま納涼花火大会",
+   "old": "（記録なし）",
+   "new": "愛媛県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%84%E3%81%AF%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "あやべ水無月まつり",
+   "old": "（記録なし）",
+   "new": "京都府",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%B9%E6%B0%B4%E7%84%A1%E6%9C%88%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "八屋祇園",
+   "old": "（記録なし）",
+   "new": "福岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B1%8B%E7%A5%87%E5%9C%92",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "北國大花火川北大会",
+   "old": "（記録なし）",
+   "new": "石川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%9C%8B%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%B7%9D%E5%8C%97%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "ケベス祭",
+   "old": "（記録なし）",
+   "new": "大分県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "やぎの花火大会",
+   "old": "（記録なし）",
+   "new": "京都府",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "サマーフェスタ イン ひさい",
+   "old": "（記録なし）",
+   "new": "三重県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B1%85%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "久世祭り",
+   "old": "（記録なし）",
+   "new": "岡山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B8%96%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "七日堂裸まいり",
+   "old": "（記録なし）",
+   "new": "福島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "竹鼻祭り",
+   "old": "（記録なし）",
+   "new": "岐阜県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%BC%BB%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "牧山の松明",
+   "old": "（記録なし）",
+   "new": "京都府",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E3%81%AE%E6%9D%BE%E6%98%8E",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "おべっさん",
+   "old": "（記録なし）",
+   "new": "京都府",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B9%E3%81%A3%E3%81%95%E3%82%93",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "こいこい祭り",
+   "old": "（記録なし）",
+   "new": "石川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%84%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "信夫三山暁まいり",
+   "old": "（記録なし）",
+   "new": "福島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%A4%AB%E4%B8%89%E5%B1%B1%E6%9A%81%E3%81%BE%E3%81%84%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "沼田町夜高あんどん祭り",
+   "old": "（記録なし）",
+   "new": "北海道",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%94%BA%E5%A4%9C%E9%AB%98%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "中条祭り",
+   "old": "（記録なし）",
+   "new": "新潟県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%A1%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "安倍川花火大会",
+   "old": "（記録なし）",
+   "new": "静岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "甲子秋まつり",
+   "old": "（記録なし）",
+   "new": "静岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "上杉雪灯篭まつり",
+   "old": "（記録なし）",
+   "new": "山形県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E9%9B%AA%E7%81%AF%E7%AF%AD%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "大石田まつり最上川花火大会",
+   "old": "（記録なし）",
+   "new": "山形県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A%E6%9C%80%E4%B8%8A%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "むらやま徳内まつり",
+   "old": "（記録なし）",
+   "new": "山形県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "大文字まつり",
+   "old": "（記録なし）",
+   "new": "秋田県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "山口七夕ちょうちんまつり",
+   "old": "（記録なし）",
+   "new": "山口県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E4%B8%83%E5%A4%95%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%93%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "大門曳山まつり",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "川内川花火大会",
+   "old": "（記録なし）",
+   "new": "鹿児島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "幌武者行列",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "姫島盆踊り",
+   "old": "（記録なし）",
+   "new": "大分県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E7%9B%86%E8%B8%8A%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "富山まつり",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "四方子供曳山祭り",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%96%B9%E5%AD%90%E4%BE%9B%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "やんさんま祭り",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%95%E3%82%93%E3%81%BE%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "宇佐八幡宮春季祭礼",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E5%85%AB%E5%B9%A1%E5%AE%AE%E6%98%A5%E5%AD%A3%E7%A5%AD%E7%A4%BC",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "よいやさ祭り",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%84%E3%82%84%E3%81%95%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "安積国造神社秋季例大祭",
+   "old": "（記録なし）",
+   "new": "福島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%A9%8D%E5%9B%BD%E9%80%A0%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "戸出七夕まつり",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%87%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "放生津曳山祭",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "日高火防祭",
+   "old": "（記録なし）",
+   "new": "岩手県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E7%81%AB%E9%98%B2%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "池ノ上みそぎ祭",
+   "old": "（記録なし）",
+   "new": "岐阜県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E3%83%8E%E4%B8%8A%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "水口曳山祭",
+   "old": "（記録なし）",
+   "new": "滋賀県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E6%9B%B3%E5%B1%B1%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "柳まつり",
+   "old": "（記録なし）",
+   "new": "兵庫県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "海老江曳山祭",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%80%81%E6%B1%9F%E6%9B%B3%E5%B1%B1%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "源平火牛まつり",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E7%81%AB%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "瀬高町納涼花火大会",
+   "old": "（記録なし）",
+   "new": "福岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%84%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "珠洲デカ曳山",
+   "old": "（記録なし）",
+   "new": "石川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E3%83%87%E3%82%AB%E6%9B%B3%E5%B1%B1",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "甲山廿日えびす",
+   "old": "（記録なし）",
+   "new": "広島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%B1%B1%E5%BB%BF%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "福野夜高祭",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E9%87%8E%E5%A4%9C%E9%AB%98%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "能地春祭り",
+   "old": "（記録なし）",
+   "new": "広島県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%9C%B0%E6%98%A5%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "竹割り祭り",
+   "old": "（記録なし）",
+   "new": "石川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "筒井町出来町天王祭",
+   "old": "（記録なし）",
+   "new": "愛知県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E7%94%BA%E5%87%BA%E6%9D%A5%E7%94%BA%E5%A4%A9%E7%8E%8B%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "相模原納涼花火大会",
+   "old": "（記録なし）",
+   "new": "神奈川県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "篠田の花火",
+   "old": "（記録なし）",
+   "new": "滋賀県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%8A%B1%E7%81%AB",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "蒲原まつり",
+   "old": "（記録なし）",
+   "new": "新潟県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "能代役七夕",
+   "old": "（記録なし）",
+   "new": "秋田県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "静岡まつり",
+   "old": "（記録なし）",
+   "new": "静岡県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "岩瀬曳山車祭",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E6%9B%B3%E5%B1%B1%E8%BB%8A%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "所在地の補完",
+   "name": "高砂山願念坊祭り",
+   "old": "（記録なし）",
+   "new": "富山県",
+   "note": "記事の本文から一意に特定",
+   "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%A0%82%E5%B1%B1%E9%A1%98%E5%BF%B5%E5%9D%8A%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "山王祭",
+   "old": "毎年6月15日",
+   "new": "",
+   "note": "毎年開催ではない（隔年・数年に一度）",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E7%A5%AD_(%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA)",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "神田祭",
+   "old": "毎年9月15日",
+   "new": "",
+   "note": "抽出元が過去の開催日を述べている（旧暦記述あり）",
+   "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "雛祭り",
+   "old": "毎年3月3日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E9%9B%9B%E7%A5%AD%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "節分",
+   "old": "毎年2月4日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "七夕",
+   "old": "毎年7月7日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "端午の節句",
+   "old": "毎年5月5日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "日本の七夕",
+   "old": "毎年7月7日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95_(%E6%97%A5%E6%9C%AC)",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "はんだ山車まつり",
+   "old": "毎年10月第4日曜日",
+   "new": "",
+   "note": "毎年開催ではない（隔年・数年に一度）",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%93%E3%81%A0%E5%B1%B1%E8%BB%8A%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "元始祭",
+   "old": "毎年1月3日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%83%E5%A7%8B%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "二百二十日",
+   "old": "毎年9月11日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E4%BA%8C%E5%8D%81%E6%97%A5",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "入梅",
+   "old": "毎年6月11日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%A5%E6%A2%85",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "二百十日",
+   "old": "毎年9月1日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "半夏生",
+   "old": "毎年7月2日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%A4%8F%E7%94%9F",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "三条まつり",
+   "old": "毎年3月15日",
+   "new": "",
+   "note": "抽出元が過去の開催日を述べている（旧暦記述あり）",
+   "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "地蔵盆",
+   "old": "毎年7月24日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%94%B5%E7%9B%86",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "横手の雪まつり",
+   "old": "毎年2月第2金曜日",
+   "new": "",
+   "note": "期間限定・試験的な日程",
+   "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "小津安二郎記念蓼科高原映画祭",
+   "old": "毎年9月26日",
+   "new": "",
+   "note": "特定年の告知のみで毎年性の根拠なし",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B4%A5%E5%AE%89%E4%BA%8C%E9%83%8E%E8%A8%98%E5%BF%B5%E8%93%BC%E7%A7%91%E9%AB%98%E5%8E%9F%E6%98%A0%E7%94%BB%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "本町の八月踊り",
+   "old": "毎年9月第4土曜日",
+   "new": "",
+   "note": "毎年開催ではない（隔年・数年に一度）",
+   "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E3%81%AE%E5%85%AB%E6%9C%88%E8%B8%8A%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "小正月",
+   "old": "毎年1月15日",
+   "new": "",
+   "note": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%AD%A3%E6%9C%88",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "大正天皇祭",
+   "old": "毎年1月7日",
+   "new": "",
+   "note": "途中で開催日が変更された記述あり",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E5%A4%A9%E7%9A%87%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "掲載見送り",
+   "name": "富山まつり",
+   "old": "毎年8月第1土曜日",
+   "new": "",
+   "note": "抽出元が過去の開催日を述べている",
+   "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "開催日の訂正",
+   "name": "扇祭",
+   "old": "毎年6月14日〜6月18日",
+   "new": "毎年7月14日",
+   "note": "根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
+   "url": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%A5%AD",
+   "at": "2026-08-11"
+  },
+  {
+   "kind": "開催日の訂正",
+   "name": "大文字まつり",
+   "old": "毎年8月16日",
+   "new": "毎年8月11日",
+   "note": "根拠文が2018年より8月11日へ変更と明記",
+   "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A",
+   "at": "2026-08-11"
+  }
+ ]
+}

@@ -1,27 +1,26 @@
 #!/bin/bash
-# Nipponexus nightly build: SQLite に変更があれば dump→commit→push で Cloudflare Pages を再ビルド
+# Nipponexus nightly: 生成 -> ダンプ -> 差分があれば commit -> push
 set -e
-
 cd ~/nipponexus
-LOG_FILE="$HOME/.openclaw/logs/nipponexus_nightly.log"
-mkdir -p "$(dirname "$LOG_FILE")"
+LOG="$HOME/.openclaw/logs/nipponexus_nightly.log"
+mkdir -p "$(dirname "$LOG")"
+echo "===== $(date '+%F %T') nightly start =====" >> "$LOG"
 
-echo "===== $(date '+%Y-%m-%d %H:%M:%S') nightly_rebuild start =====" >> "$LOG_FILE"
+/usr/bin/python3 steps/daily_cal.py >> "$LOG" 2>&1
+/usr/bin/python3 steps/step92.py   >> "$LOG" 2>&1
+/usr/bin/python3 scripts/dump_festivals.py >> "$LOG" 2>&1
 
-# SQLダンプを再生成
-python3 scripts/dump_festivals.py >> "$LOG_FILE" 2>&1
-
-# git に変更があるか確認
-if git diff --quiet data/festivals_dump.sql; then
-  echo "[INFO] No DB changes, skip push" >> "$LOG_FILE"
-  exit 0
+T="data/festivals_dump.sql out/site_calendar.json out/site_corrections.json"
+CH=0
+git diff --quiet -- $T || CH=1
+UP=$(git rev-list --count origin/main..HEAD 2>/dev/null || echo 0)
+if [ "$CH" = "0" ] && [ "$UP" = "0" ]; then
+  echo "[INFO] no changes, skip push" >> "$LOG"; exit 0
 fi
-
-# 変更がある場合のみコミット&push
-git add data/festivals_dump.sql
-git commit -m "chore: nightly DB dump update ($(date '+%Y-%m-%d'))" >> "$LOG_FILE" 2>&1
-
+if [ "$CH" = "1" ]; then
+  git add $T
+  git commit -m "chore: nightly update ($(date '+%F'))" >> "$LOG" 2>&1
+fi
 source ~/.openclaw/.env
-git push "https://${GITHUB_TOKEN_NIPPONEXUS}@github.com/Nipponexus/nipponexus.git" main >> "$LOG_FILE" 2>&1
-
-echo "[OK] Pushed nightly DB update" >> "$LOG_FILE"
+git push "https://${GITHUB_TOKEN_NIPPONEXUS}@github.com/Nipponexus/nipponexus.git" main >> "$LOG" 2>&1
+echo "[OK] pushed" >> "$LOG"
