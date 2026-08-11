@@ -13,8 +13,14 @@ def _code_text(src):
         out.append(tok.string)
     return ' '.join(out)
 def count_code(path, needle):
-    """コード部分だけを対象にneedleの出現数を数える。"""
-    return _code_text(pathlib.Path(path).read_text(encoding='utf-8')).count(needle)
+    """コード部分だけを対象にneedleの出現数を数える。
+    needleも同じトークナイザに通す(nxenchk.check 等のドット名が空振りするため)。"""
+    hay = _code_text(pathlib.Path(path).read_text(encoding='utf-8'))
+    try:
+        pat = _code_text(needle)
+    except Exception:
+        pat = needle
+    return hay.count(pat) if pat else 0
 def assert_once(path, needle):
     n = count_code(path, needle)
     assert n == 1, 'count_code(%s, %r) = %d (expected 1)' % (path, needle, n)
