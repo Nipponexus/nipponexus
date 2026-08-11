@@ -24,3 +24,4 @@ fi
 source ~/.openclaw/.env
 git push "https://${GITHUB_TOKEN_NIPPONEXUS}@github.com/Nipponexus/nipponexus.git" main >> "$LOG" 2>&1
 echo "[OK] pushed" >> "$LOG"
+git fetch -q origin >> "$LOG" 2>&1
