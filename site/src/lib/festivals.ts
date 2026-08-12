@@ -1,3 +1,4 @@
+import { prefEn } from './i18n_geo';
 import Database from 'better-sqlite3';
 import path from 'path';
 
@@ -153,7 +154,7 @@ export function groupByPrefecture(festivals: Festival[], locale: 'ja' | 'en'): G
   };
   return [...map.entries()]
     .sort((a, b) => idx(a[0]) - idx(b[0]))
-    .map(([k, v]) => ({ key: k, label: k, festivals: v }));
+    .map(([k, v]) => ({ key: locale === 'en' ? prefEn(k).toLowerCase().replace(/\s+/g, '-') : k, label: locale === 'en' ? prefEn(k) : k, festivals: v }));
 }
 
 /**

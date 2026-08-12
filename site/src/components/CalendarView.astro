@@ -1,0 +1,31 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import { prefEn } from "../lib/i18n_geo";
+const { locale = "ja" } = Astro.props;
+const en = locale === "en";
+let d = { generated: "", next: [], annual: [] };
+try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_calendar.json"), "utf-8")); } catch (e) {}
+const months = Array.from({ length: 12 }, (_, i) => {
+  const m = String(i + 1).padStart(2, "0");
+  return { m: i + 1, rows: d.annual.filter((r) => (r.start || "").slice(5, 7) === m) };
+});
+const MON = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const fmt = (s, e) => { const f = (x) => x.slice(5, 7) + "/" + x.slice(8, 10); return e ? f(s) + "\u301c" + f(e) : f(s); };
+const nm = (r) => (en ? (r.name_en || r.name) : r.name);
+const link = (r) => { const s = en ? (r.slug_en || r.slug) : r.slug; return s ? (en ? "/en/" + s + "/" : "/" + s + "/") : null; };
+const pf = (r) => (en ? ` (${prefEn(r.pref)})` : `\uff08${r.pref}\uff09`);
+---
+<h1>{en ? "Festival Calendar" : "\u796d\u308a\u30ab\u30ec\u30f3\u30c0\u30fc"}</h1>
+<p>{en ? `${d.annual.length} entries / updated ${d.generated}` : `\u53ce\u9332 ${d.annual.length} \u4ef6 / \u66f4\u65b0 ${d.generated}`}</p>
+<p>{en
+  ? "Dates are calculated from the recurrence rule stated in each article (e.g. \u201cthird Saturday of July\u201d) and are estimates. Events based on the lunar calendar, held biennially, or following discontinued rules are excluded. Please check the organiser\u2019s announcement for actual dates."
+  : "\u958b\u50ac\u65e5\u306f\u8a18\u4e8b\u306b\u8a18\u8f09\u3055\u308c\u305f\u898f\u5247\uff08\u4f8b\u300c7\u6708\u7b2c3\u571f\u66dc\u65e5\u300d\uff09\u304b\u3089\u7b97\u51fa\u3057\u305f\u63a8\u5b9a\u5024\u3067\u3059\u3002\u65e7\u66a6\u57fa\u6e96\u30fb\u9694\u5e74\u958b\u50ac\u30fb\u904e\u53bb\u306e\u898f\u5247\u306b\u3042\u305f\u308b\u3082\u306e\u306f\u9664\u5916\u3057\u3066\u3044\u307e\u3059\u3002\u5b9f\u969b\u306e\u65e5\u7a0b\u306f\u4e3b\u50ac\u8005\u306e\u767a\u8868\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002"}</p>
+<h2>{en ? "Coming up next" : "\u6b21\u306b\u6765\u308b\u796d\u308a"}</h2>
+<ul>
+  {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> {link(r) ? <a href={link(r)}>{nm(r)}</a> : <span>{nm(r)}</span>} {r.pref && <span>{pf(r)}</span>} <small>{en ? "estimated from annual schedule" : r.rule}</small></li>))}
+</ul>
+{months.map((mo) => mo.rows.length > 0 && (
+  <section><h2>{en ? `${MON[mo.m - 1]} (${mo.rows.length})` : `${mo.m}\u6708\uff08${mo.rows.length}\u4ef6\uff09`}</h2>
+    <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} {link(r) ? <a href={link(r)}>{nm(r)}</a> : <span>{nm(r)}</span>} {r.pref && <span>{pf(r)}</span>}</li>))}</ul>
+  </section>))}

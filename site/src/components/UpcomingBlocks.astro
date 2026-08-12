@@ -1,0 +1,54 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import { prefEn } from "../lib/i18n_geo";
+const { locale = "ja" } = Astro.props;
+const en = locale === "en";
+let d = { generated: "", annual: [] };
+try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_calendar.json"), "utf-8")); } catch (e) {}
+const iso = (x) => x.toISOString().slice(0, 10);
+const now = new Date();
+const t0 = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()));
+const add = (n) => { const x = new Date(t0); x.setUTCDate(x.getUTCDate() + n); return x; };
+const today = iso(t0), week = iso(add(6));
+const ym = today.slice(0, 7);
+const nm = new Date(Date.UTC(t0.getUTCFullYear(), t0.getUTCMonth() + 1, 1));
+const nym = iso(nm).slice(0, 7);
+const rows = (d.annual || []).filter((r) => r.start && (!en || r.name_en));
+const between = (r, a, b) => { const s = r.start, e = r.end || r.start; return s <= b && e >= a; };
+const groups = [
+  { key: "today", ja: "今日の祭り", en: "Festivals Today", rows: rows.filter((r) => between(r, today, today)) },
+  { key: "week", ja: "今週の祭り", en: "This Week", rows: rows.filter((r) => between(r, today, week) && !between(r, today, today)) },
+  { key: "month", ja: "今月の祭り", en: "This Month", rows: rows.filter((r) => (r.start || "").slice(0, 7) === ym && r.start > week) },
+  { key: "next", ja: "来月の祭り", en: "Next Month", rows: rows.filter((r) => (r.start || "").slice(0, 7) === nym) },
+];
+const nm2 = (r) => (en ? (r.name_en || r.name) : r.name);
+const href = (r) => { const s = en ? (r.slug_en || r.slug) : r.slug; return s ? (en ? "/en/" + s + "/" : "/" + s + "/") : null; };
+const md = (s) => { if (!s) return ""; const [, m, dd] = s.split("-"); return en ? `${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+m - 1]} ${+dd}` : `${+m}月${+dd}日`; };
+const span = (r) => (r.end && r.end !== r.start ? `${md(r.start)}\u301c${md(r.end)}` : md(r.start));
+---
+<section class="section">
+  <div class="container-narrow reveal">
+    <h2>{en ? "Upcoming Festivals" : "これからの祭り"}</h2>
+    {groups.map((g) => (
+      <div style="margin-top:1.5rem;">
+        <h3>{en ? g.en : g.ja}<span style="font-size:0.8rem;font-weight:normal;margin-left:0.5rem;">{g.rows.length}{en ? (g.rows.length === 1 ? " festival" : " festivals") : "件"}</span></h3>
+        {g.rows.length === 0 ? (
+          <p>{en ? "No festivals in this period." : "この期間の登録はありません。"}</p>
+        ) : (
+          <ul>
+            {g.rows.slice(0, 12).map((r) => (
+              <li>
+                <b>{span(r)}</b>{" "}
+                {href(r) ? <a href={href(r)}>{nm2(r)}</a> : <span>{nm2(r)}</span>}
+                {r.pref && <span>{en ? ` (${prefEn(r.pref)})` : `（${r.pref}）`}</span>}
+                {r.conf === "rule_only" && <small style="margin-left:0.4rem;">{en ? "estimated from annual schedule" : "例年の開催規則から算出"}</small>}
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    ))}
+    <p style="margin-top:1rem;"><a href={en ? "/en/calendar/" : "/calendar/"}>{en ? "See full calendar" : "年間カレンダーを見る"}</a></p>
+  </div>
+</section>

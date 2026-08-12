@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getDraftedFestivals } from '../../lib/festivals';
 
 const festivals = getDraftedFestivals('en');
+import UpcomingBlocks from '../../components/UpcomingBlocks.astro';
+import { metaText } from "../../lib/i18n_geo";
 ---
 <BaseLayout
   title="Nipponexus - Japanese Festivals & Culture"
@@ -69,7 +71,7 @@ const festivals = getDraftedFestivals('en');
             <div class="festival-card-body">
               <h3 class="festival-card-title">{f.label_en || f.label_ja}</h3>
               <p class="festival-card-meta">
-                {f.prefecture || 'Japan'} · {f.season || 'Year-round'}
+                {metaText(f.prefecture, f.season, "en")}
               </p>
             </div>
           </a>
@@ -95,4 +97,5 @@ const festivals = getDraftedFestivals('en');
       <a href="/" class="btn btn-outline" style="margin-top:1rem;">日本語版 →</a>
     </div>
   </section>
+  <UpcomingBlocks locale="en" />
 </BaseLayout>

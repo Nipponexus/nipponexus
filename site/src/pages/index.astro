@@ -3,6 +3,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getDraftedFestivals } from '../lib/festivals';
 
 const festivals = getDraftedFestivals('ja');
+import UpcomingBlocks from '../components/UpcomingBlocks.astro';
+import { metaText } from "../lib/i18n_geo";
 ---
 <BaseLayout
   title="Nipponexus - 日本の祭りと文化"
@@ -69,7 +71,7 @@ const festivals = getDraftedFestivals('ja');
             <div class="festival-card-body">
               <h3 class="festival-card-title">{f.label_ja}</h3>
               <p class="festival-card-meta">
-                {f.prefecture || '日本'} · {f.season || '通年'}
+                {metaText(f.prefecture, f.season, "ja")}
               </p>
             </div>
           </a>
@@ -90,9 +92,10 @@ const festivals = getDraftedFestivals('ja');
         Nipponexus は、Wikidata と Wikipedia の協働データを基盤に、日本の祭礼・年中行事・伝統文化を体系的に記録・公開するデータベースです。
       </p>
       <p>
-        記事本文は <strong>CC BY-SA 4.0</strong> ライセンスで提供しています（掲載画像は各提供元のライセンスに従います）。、研究・教育・観光に自由にご活用いただけます。
+        記事本文は <strong>CC BY-SA 4.0</strong> ライセンスで提供しています（掲載画像は各提供元のライセンスに従います）。研究・教育・観光に自由にご活用いただけます。
       </p>
       <a href="/en/" class="btn btn-outline" style="margin-top:1rem;">English Version →</a>
     </div>
   </section>
+  <UpcomingBlocks locale="ja" />
 </BaseLayout>

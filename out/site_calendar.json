@@ -1,40 +1,7 @@
 {
- "generated": "2026-08-11 23:00",
- "today": "2026-08-11",
+ "generated": "2026-08-12 09:04",
+ "today": "2026-08-12",
  "next": [
-  {
-   "qid": "Q18235534",
-   "name": "三国花火大会",
-   "pref": "福井県",
-   "start": "2026-08-11",
-   "end": "",
-   "rule": "毎年8月11日",
-   "conf": "rule_only",
-   "slug": "mikuni-fireworks-festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
-  },
-  {
-   "qid": "Q97171491",
-   "name": "亀岡平和祭保津川市民花火大会",
-   "pref": "京都府",
-   "start": "2026-08-11",
-   "end": "",
-   "rule": "毎年8月11日",
-   "conf": "rule_only",
-   "slug": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E4%BF%9D%E6%B4%A5%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
-  },
-  {
-   "qid": "Q11435600",
-   "name": "大文字まつり",
-   "pref": "秋田県",
-   "start": "2026-08-11",
-   "end": "",
-   "rule": "毎年8月11日",
-   "conf": "rule_only",
-   "slug": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q11268205",
    "name": "さぬき高松まつり",
@@ -44,6 +11,8 @@
    "rule": "毎年8月12日〜8月14日",
    "conf": "fixed_rule",
    "slug": "sanuki-takamatsu-matsuri",
+   "slug_en": "sanuki-takamatsu-matsuri",
+   "name_en": "Sanuki Takamatsu Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -55,6 +24,8 @@
    "rule": "毎年8月13日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kachimai Fireworks",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%AF%8E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -66,6 +37,8 @@
    "rule": "毎年8月13日",
    "conf": "rule_only",
    "slug": "tomida-ishidori-matsuri",
+   "slug_en": "tomida-ishidori-matsuri",
+   "name_en": "Tomida Ishidori Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
@@ -77,6 +50,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ojima Neputa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
@@ -88,6 +63,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "hirosaki-neputa",
+   "slug_en": "hirosaki-neputa",
+   "name_en": "Hirosaki Neputa",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
@@ -99,6 +76,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E9%81%8A%E3%81%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -110,6 +89,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -121,6 +102,8 @@
    "rule": "毎年8月14日",
    "conf": "fixed_rule",
    "slug": "tomida-kujirabune-festival",
+   "slug_en": "tomida-kujirabune-festival",
+   "name_en": "Kujirabune Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B"
   },
   {
@@ -132,7 +115,48 @@
    "rule": "毎年8月15日",
    "conf": "fixed_rule",
    "slug": "fukagawa-matsuri",
+   "slug_en": "fukagawa-matsuri",
+   "name_en": "Fukagawa Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD"
+  },
+  {
+   "qid": "Q11265746",
+   "name": "くろほね夏まつり",
+   "pref": "",
+   "start": "2026-08-15",
+   "end": "",
+   "rule": "毎年8月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8D%E3%81%BB%E3%81%AD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11442147",
+   "name": "天ヶ須賀の石取祭",
+   "pref": "",
+   "start": "2026-08-15",
+   "end": "",
+   "rule": "毎年8月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%B6%E9%A0%88%E8%B3%80%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
+  },
+  {
+   "qid": "Q11471245",
+   "name": "山鹿灯籠まつり",
+   "pref": "熊本県",
+   "start": "2026-08-15",
+   "end": "2026-08-17",
+   "rule": "毎年8月15日〜8月17日",
+   "conf": "fixed_rule",
+   "slug": "yamaga-toro-matsuri",
+   "slug_en": "yamaga-toro-matsuri",
+   "name_en": "Yamaga Lantern Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
@@ -145,6 +169,8 @@
    "rule": "毎年1月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%99%BA%E5%85%89%E8%B7%AF%E3%81%AE%E5%BC%B7%E9%A3%AF%E5%BC%8F"
   },
   {
@@ -156,6 +182,8 @@
    "rule": "毎年1月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Nanokado Hadaka Mairi",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A"
   },
   {
@@ -167,6 +195,8 @@
    "rule": "毎年1月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Oniyo",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%A4%9C"
   },
   {
@@ -178,6 +208,8 @@
    "rule": "毎年1月13日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E9%87%8E%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -189,6 +221,8 @@
    "rule": "毎年1月13日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kanchu Misogi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8F%A4%E5%86%85%E7%94%BA%E5%AF%92%E4%B8%AD%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD%E3%82%8A"
   },
   {
@@ -200,6 +234,8 @@
    "rule": "毎年1月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "A feast day of Kayadani",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E6%82%A6%E8%B0%B7%E7%A5%AD"
   },
   {
@@ -211,6 +247,8 @@
    "rule": "毎年1月15日",
    "conf": "fixed_rule",
    "slug": "mukonage-suminuri",
+   "slug_en": "mukonage-suminuri",
+   "name_en": "Mukonage and Suminuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A9%BF%E6%8A%95%E3%81%92%E3%83%BB%E5%A2%A8%E5%A1%97%E3%82%8A"
   },
   {
@@ -222,6 +260,8 @@
    "rule": "毎年1月17日",
    "conf": "fixed_rule",
    "slug": "kobe-luminarie",
+   "slug_en": "kobe-luminarie",
+   "name_en": "Kobe Luminarie",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E3%83%AB%E3%83%9F%E3%83%8A%E3%83%AA%E3%82%A8"
   },
   {
@@ -233,6 +273,8 @@
    "rule": "毎年1月26日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Atagosya no Hi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%84%9B%E5%AE%95%E7%A4%BE%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A"
   },
   {
@@ -244,6 +286,8 @@
    "rule": "毎年2月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Setsubunkai Hadaka Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86%E4%BC%9A%E3%81%AF%E3%81%A0%E3%81%8B%E7%A5%AD%E3%82%8A"
   },
   {
@@ -255,6 +299,8 @@
    "rule": "毎年2月7日〜2月14日",
    "conf": "fixed_rule",
    "slug": "gero-no-ta-no-kami-matsuri",
+   "slug_en": "gero-no-ta-no-kami-matsuri",
+   "name_en": "Gero Ta-no-Kami Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%91%82%E3%81%AE%E7%94%B0%E3%81%AE%E7%A5%9E%E7%A5%AD"
   },
   {
@@ -266,6 +312,8 @@
    "rule": "毎年2月第1土曜日",
    "conf": "rule_only",
    "slug": "shibare-festival",
+   "slug_en": "shibare-festival",
+   "name_en": "Shibare Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%B0%E3%82%8C%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -277,6 +325,8 @@
    "rule": "毎年2月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Toba Fire Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E7%BE%BD%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A"
   },
   {
@@ -288,6 +338,8 @@
    "rule": "毎年2月10日〜2月11日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Shinobu Sanzan Akatsuki Mairi",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%A4%AB%E4%B8%89%E5%B1%B1%E6%9A%81%E3%81%BE%E3%81%84%E3%82%8A"
   },
   {
@@ -299,6 +351,8 @@
    "rule": "毎年2月10日〜2月11日",
    "conf": "fixed_rule",
    "slug": "toyohashi-oni-matsuri",
+   "slug_en": "toyohashi-oni-matsuri",
+   "name_en": "Toyohashi Oni Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD"
   },
   {
@@ -310,6 +364,8 @@
    "rule": "毎年2月10日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A2%85%E5%AE%AE%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%98%E9%85%92%E7%A5%AD%E3%82%8A"
   },
   {
@@ -321,6 +377,8 @@
    "rule": "毎年2月10日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Takewari Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A"
   },
   {
@@ -332,6 +390,8 @@
    "rule": "毎年2月11日",
    "conf": "fixed_rule",
    "slug": "kasedori",
+   "slug_en": "kasedori",
+   "name_en": "Kasedori",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BB%E9%B3%A5"
   },
   {
@@ -343,6 +403,8 @@
    "rule": "毎年2月11日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8C%85%E3%83%BB%E5%A4%A7%E8%A5%BF%E3%81%AE%E5%BE%A1%E7%B6%B1"
   },
   {
@@ -354,6 +416,8 @@
    "rule": "毎年2月第2土曜日",
    "conf": "rule_only",
    "slug": "odate-amekko-ichi",
+   "slug_en": "odate-amekko-ichi",
+   "name_en": "Odate Amekko-ichi",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%83%E3%82%B3%E5%B8%82"
   },
   {
@@ -365,6 +429,8 @@
    "rule": "毎年2月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E9%9B%AA%E7%81%AF%E7%AF%AD%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -376,6 +442,8 @@
    "rule": "毎年2月14日",
    "conf": "fixed_rule",
    "slug": "hiburi-kamakura",
+   "slug_en": "hiburi-kamakura",
+   "name_en": "Hiburi Kamakura",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%81%AB%E6%8C%AF%E3%82%8A%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89"
   },
   {
@@ -387,6 +455,8 @@
    "rule": "毎年3月12日",
    "conf": "fixed_rule",
    "slug": "omizutori",
+   "slug_en": "omizutori",
+   "name_en": "Omizutori",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A"
   },
   {
@@ -398,6 +468,8 @@
    "rule": "毎年3月15日",
    "conf": "fixed_rule",
    "slug": "honensai-tagata-jinja",
+   "slug_en": "honensai-tagata-jinja",
+   "name_en": "Hōnen Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B9%B4%E7%A5%AD_(%E7%94%B0%E7%B8%A3%E7%A5%9E%E7%A4%BE)"
   },
   {
@@ -409,6 +481,8 @@
    "rule": "毎年3月20日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Koga Peach Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E6%A1%83%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -420,6 +494,8 @@
    "rule": "毎年3月第4土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Nochi Spring Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%9C%B0%E6%98%A5%E7%A5%AD%E3%82%8A"
   },
   {
@@ -431,6 +507,8 @@
    "rule": "毎年4月1日〜4月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Beppu Hatto Onsen Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%BA%9C%E5%85%AB%E6%B9%AF%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -442,6 +520,8 @@
    "rule": "毎年4月第1金曜日",
    "conf": "rule_only",
    "slug": "mikumano-jinja-taisai",
+   "slug_en": "mikumano-jinja-taisai",
+   "name_en": "Mikumano Jinja Taisai",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%81%A0%E5%B7%9E%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%89%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -453,6 +533,8 @@
    "rule": "毎年4月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Gifu Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -464,6 +546,8 @@
    "rule": "毎年4月第1土曜日",
    "conf": "rule_only",
    "slug": "inuyama-festival",
+   "slug_en": "inuyama-festival",
+   "name_en": "Inuyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -475,6 +559,8 @@
    "rule": "毎年4月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%BF%83%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -486,6 +572,8 @@
    "rule": "毎年4月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Tejikara Fire Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%89%8B%E5%8A%9B%E3%81%AE%E7%81%AB%E7%A5%AD"
   },
   {
@@ -497,6 +585,8 @@
    "rule": "毎年4月12日",
    "conf": "fixed_rule",
    "slug": "shingen-ko-festival",
+   "slug_en": "shingen-ko-festival",
+   "name_en": "Shingen-ko Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E7%8E%84%E5%85%AC%E7%A5%AD%E3%82%8A"
   },
   {
@@ -508,6 +598,8 @@
    "rule": "毎年4月12日〜4月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hiyoshi Sannō-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%90%89%E5%B1%B1%E7%8E%8B%E7%A5%AD"
   },
   {
@@ -519,6 +611,8 @@
    "rule": "毎年4月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%A0%82%E5%B1%B1%E9%A1%98%E5%BF%B5%E5%9D%8A%E7%A5%AD%E3%82%8A"
   },
   {
@@ -530,6 +624,8 @@
    "rule": "毎年4月13日〜4月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kumano Hongū Taisha Reitaisha",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E6%9C%AC%E5%AE%AE%E5%A4%A7%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -541,6 +637,8 @@
    "rule": "毎年4月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Nagahama Hikiyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B5%9C%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -552,6 +650,8 @@
    "rule": "毎年4月17日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Shizuoka Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -563,6 +663,8 @@
    "rule": "毎年4月19日",
    "conf": "fixed_rule",
    "slug": "furukawa-festival",
+   "slug_en": "furukawa-festival",
+   "name_en": "Furukawa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E7%A5%AD"
   },
   {
@@ -574,6 +676,8 @@
    "rule": "毎年4月第3日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E5%85%AB%E5%B9%A1%E5%AE%AE%E6%98%A5%E5%AD%A3%E7%A5%AD%E7%A4%BC"
   },
   {
@@ -585,6 +689,8 @@
    "rule": "毎年4月20日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Minakuchi Hikiyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -596,6 +702,8 @@
    "rule": "毎年4月23日",
    "conf": "rule_only",
    "slug": "hirosaki-cherry-blossom",
+   "slug_en": "hirosaki-cherry-blossom",
+   "name_en": "Hirosaki Cherry Blossom Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -607,6 +715,8 @@
    "rule": "毎年4月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hitaka Hibuse Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E7%81%AB%E9%98%B2%E7%A5%AD%E3%82%8A"
   },
   {
@@ -618,6 +728,8 @@
    "rule": "毎年4月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%AD%90%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC"
   },
   {
@@ -629,6 +741,8 @@
    "rule": "毎年4月29日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kichijōji Music Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E9%9F%B3%E6%A5%BD%E7%A5%AD"
   },
   {
@@ -640,6 +754,8 @@
    "rule": "毎年4月29日〜5月1日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B1%8B%E7%A5%87%E5%9C%92"
   },
   {
@@ -651,6 +767,8 @@
    "rule": "毎年4月29日",
    "conf": "fixed_rule",
    "slug": "tsurumi-no-tamatsuri",
+   "slug_en": "tsurumi-no-tamatsuri",
+   "name_en": "Tsurumi no Tamatsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E3%81%AE%E7%94%B0%E7%A5%AD%E3%82%8A"
   },
   {
@@ -662,6 +780,8 @@
    "rule": "毎年4月29日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%96%B9%E5%AD%90%E4%BE%9B%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A"
   },
   {
@@ -673,6 +793,8 @@
    "rule": "毎年4月29日〜5月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E9%96%93%E3%81%AE%E9%99%B6%E7%82%8E%E7%A5%AD"
   },
   {
@@ -684,6 +806,8 @@
    "rule": "毎年4月29日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Takaoka Tode Nanohana Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E3%81%A8%E3%81%84%E3%81%A7%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -695,6 +819,8 @@
    "rule": "毎年4月30日〜5月6日",
    "conf": "fixed_rule",
    "slug": "kurayami-matsuri",
+   "slug_en": "kurayami-matsuri",
+   "name_en": "Kurayami Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%89%E3%82%84%E3%81%BF%E7%A5%AD"
   },
   {
@@ -706,6 +832,8 @@
    "rule": "毎年5月1日",
    "conf": "fixed_rule",
    "slug": "takaoka-mikurumayama-matsuri",
+   "slug_en": "takaoka-mikurumayama-matsuri",
+   "name_en": "Takaoka Mikurumayama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%BE%A1%E8%BB%8A%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -717,6 +845,8 @@
    "rule": "毎年5月1日〜5月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Fukuno Yotaka Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E9%87%8E%E5%A4%9C%E9%AB%98%E7%A5%AD"
   },
   {
@@ -728,6 +858,8 @@
    "rule": "毎年5月1日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Fujiwara Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -739,6 +871,8 @@
    "rule": "毎年5月1日〜5月5日",
    "conf": "fixed_rule",
    "slug": "seihaku-festival",
+   "slug_en": "seihaku-festival",
+   "name_en": "Seihaku Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%8F%E7%A5%AD"
   },
   {
@@ -750,6 +884,8 @@
    "rule": "毎年5月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Takehana Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%BC%BB%E7%A5%AD%E3%82%8A"
   },
   {
@@ -761,6 +897,8 @@
    "rule": "毎年5月2日〜5月3日",
    "conf": "fixed_rule",
    "slug": "ome-grand-festival",
+   "slug_en": "ome-grand-festival",
+   "name_en": "Ōme Grand Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A2%85%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -772,6 +910,8 @@
    "rule": "毎年5月3日〜5月5日",
    "conf": "fixed_rule",
    "slug": "hiroshima-flower-festival",
+   "slug_en": "hiroshima-flower-festival",
+   "name_en": "Hiroshima Flower Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%8D%E3%81%97%E3%81%BE%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -783,6 +923,8 @@
    "rule": "毎年5月3日",
    "conf": "fixed_rule",
    "slug": "hakata-dontaku",
+   "slug_en": "hakata-dontaku",
+   "name_en": "Hakata Dontaku",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%A9%E3%82%93%E3%81%9F%E3%81%8F"
   },
   {
@@ -794,6 +936,8 @@
    "rule": "毎年5月3日〜5月4日",
    "conf": "fixed_rule",
    "slug": "kamezaki-shiohi-matsuri",
+   "slug_en": "kamezaki-shiohi-matsuri",
+   "name_en": "Kamezaki Shiohi Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B4%8E%E6%BD%AE%E5%B9%B2%E7%A5%AD"
   },
   {
@@ -805,6 +949,8 @@
    "rule": "毎年5月3日",
    "conf": "fixed_rule",
    "slug": "hakata-matsubayashi",
+   "slug_en": "hakata-matsubayashi",
+   "name_en": "Hakata Matsubayashi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%9D%BE%E5%9B%83%E5%AD%90"
   },
   {
@@ -816,6 +962,8 @@
    "rule": "毎年5月3日〜5月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Akiba Film Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E6%98%A0%E7%94%BB%E7%A5%AD"
   },
   {
@@ -827,6 +975,8 @@
    "rule": "毎年5月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%84%E3%82%84%E3%81%95%E7%A5%AD%E3%82%8A"
   },
   {
@@ -838,6 +988,8 @@
    "rule": "毎年5月3日〜5月5日",
    "conf": "fixed_rule",
    "slug": "shinkawa-ichi-matsuri",
+   "slug_en": "shinkawa-ichi-matsuri",
+   "name_en": "Shinkawa-ichi Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B7%9D%E5%B8%82%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -849,6 +1001,8 @@
    "rule": "毎年5月3日〜5月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Suitengū Spring Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%A4%A9%E5%AE%AE%E6%98%A5%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -860,6 +1014,8 @@
    "rule": "毎年5月3日",
    "conf": "fixed_rule",
    "slug": "etchu-yatsuo-hikiyama-matsuri",
+   "slug_en": "etchu-yatsuo-hikiyama-matsuri",
+   "name_en": "Etchuyatsuo parade float festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B6%8A%E4%B8%AD%E5%85%AB%E5%B0%BE%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -871,6 +1027,8 @@
    "rule": "毎年5月4日",
    "conf": "fixed_rule",
    "slug": "tado-festival",
+   "slug_en": "tado-festival",
+   "name_en": "Tado Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%BA%A6%E7%A5%AD"
   },
   {
@@ -882,6 +1040,8 @@
    "rule": "毎年5月4日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%88%9E%E9%B6%B4%E3%81%A4%E3%81%A4%E3%81%98%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -893,6 +1053,8 @@
    "rule": "毎年5月4日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Yansanma Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%95%E3%82%93%E3%81%BE%E7%A5%AD%E3%82%8A"
   },
   {
@@ -904,6 +1066,8 @@
    "rule": "毎年5月4日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%8A%B1%E7%81%AB"
   },
   {
@@ -915,6 +1079,8 @@
    "rule": "毎年5月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ship Festival (Susukigisui Shrine)",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%88%B9%E7%A5%AD%E3%82%8A_(%E9%A0%88%E3%80%85%E5%B2%90%E6%B0%B4%E7%A5%9E%E7%A4%BE)"
   },
   {
@@ -926,6 +1092,8 @@
    "rule": "毎年5月5日",
    "conf": "fixed_rule",
    "slug": "johana-hikiyama-festival",
+   "slug_en": "johana-hikiyama-festival",
+   "name_en": "Johana Hikiyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E7%AB%AF%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -937,6 +1105,8 @@
    "rule": "毎年5月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kokufu-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E7%A5%AD"
   },
   {
@@ -948,6 +1118,8 @@
    "rule": "毎年5月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E7%AB%AF%E3%82%80%E3%81%8E%E3%82%84%E7%A5%AD"
   },
   {
@@ -959,6 +1131,8 @@
    "rule": "毎年5月第2金曜日",
    "conf": "rule_only",
    "slug": "otabi-matsuri",
+   "slug_en": "otabi-matsuri",
+   "name_en": "Otabi Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E6%97%85%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -970,6 +1144,8 @@
    "rule": "毎年5月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Nomi Shinmeigū Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A6%8B%E7%A5%9E%E6%98%8E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -981,6 +1157,8 @@
    "rule": "毎年5月9日",
    "conf": "rule_only",
    "slug": "imamiya-matsuri",
+   "slug_en": "imamiya-matsuri",
+   "name_en": "Imamiya Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%AE%AE%E7%A5%AD"
   },
   {
@@ -992,6 +1170,8 @@
    "rule": "毎年5月13日〜5月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Miyazu Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%B4%A5%E7%A5%AD"
   },
   {
@@ -1003,6 +1183,8 @@
    "rule": "毎年5月15日",
    "conf": "fixed_rule",
    "slug": "aoi-matsuri",
+   "slug_en": "aoi-matsuri",
+   "name_en": "Aoi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%91%B5%E7%A5%AD"
   },
   {
@@ -1014,6 +1196,8 @@
    "rule": "毎年5月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Yasurai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%99%E3%82%89%E3%81%84%E7%A5%AD"
   },
   {
@@ -1025,6 +1209,8 @@
    "rule": "毎年5月15日",
    "conf": "fixed_rule",
    "slug": "ogaki-festival",
+   "slug_en": "ogaki-festival",
+   "name_en": "Ōgaki Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E7%A5%AD"
   },
   {
@@ -1036,6 +1222,8 @@
    "rule": "毎年5月第3金曜日",
    "conf": "rule_only",
    "slug": "shimoda-black-ship-festival",
+   "slug_en": "shimoda-black-ship-festival",
+   "name_en": "Shimoda Black Ship Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%BB%92%E8%88%B9%E7%A5%AD"
   },
   {
@@ -1047,6 +1235,8 @@
    "rule": "毎年5月第3土曜日",
    "conf": "rule_only",
    "slug": "fushiki-hikiyama-festival",
+   "slug_en": "fushiki-hikiyama-festival",
+   "name_en": "Fushiki Hikiyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -1058,6 +1248,8 @@
    "rule": "毎年5月第3日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Sendai Aoba Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E3%83%BB%E9%9D%92%E8%91%89%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1069,6 +1261,8 @@
    "rule": "毎年5月17日〜5月18日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E6%9B%B3%E5%B1%B1%E8%BB%8A%E7%A5%AD"
   },
   {
@@ -1080,6 +1274,8 @@
    "rule": "毎年5月19日",
    "conf": "rule_only",
    "slug": "mikuni-matsuri",
+   "slug_en": "mikuni-matsuri",
+   "name_en": "Mikuni Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E7%A5%AD"
   },
   {
@@ -1091,6 +1287,8 @@
    "rule": "毎年5月19日〜5月21日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Sakata Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%85%92%E7%94%B0%E7%A5%AD"
   },
   {
@@ -1102,6 +1300,8 @@
    "rule": "毎年5月最終日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%84%E3%81%A5%E3%82%8B%E7%B4%B0%E5%B7%9D%E5%B9%BD%E6%96%8E%E7%94%B0%E8%BE%BA%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1113,6 +1313,8 @@
    "rule": "毎年5月最終日曜日",
    "conf": "rule_only",
    "slug": "aioi-peron-matsuri",
+   "slug_en": "aioi-peron-matsuri",
+   "name_en": "Aioi Peron Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E7%94%9F%E3%83%9A%E3%83%BC%E3%83%AD%E3%83%B3%E7%A5%AD"
   },
   {
@@ -1124,6 +1326,8 @@
    "rule": "毎年5月31日〜6月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Sannō Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%AF%8C%E5%B1%B1%E5%B8%82)"
   },
   {
@@ -1135,6 +1339,8 @@
    "rule": "毎年6月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Yokohama Port Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%96%8B%E6%B8%AF%E7%A5%AD"
   },
   {
@@ -1146,6 +1352,8 @@
    "rule": "毎年6月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E6%B2%A2%E5%A4%9C%E9%AB%98%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E7%A5%AD"
   },
   {
@@ -1157,6 +1365,8 @@
    "rule": "毎年6月5日",
    "conf": "fixed_rule",
    "slug": "agata-matsuri",
+   "slug_en": "agata-matsuri",
+   "name_en": "Agata Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1168,6 +1378,8 @@
    "rule": "毎年6月第1土曜日",
    "conf": "rule_only",
    "slug": "ise-lobster-festival",
+   "slug_en": "ise-lobster-festival",
+   "name_en": "Ise Lobster Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E3%81%88%E3%81%B3%E7%A5%AD"
   },
   {
@@ -1179,6 +1391,8 @@
    "rule": "毎年6月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Tsutsui-chō Deki-machi Tennō-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E7%94%BA%E5%87%BA%E6%9D%A5%E7%94%BA%E5%A4%A9%E7%8E%8B%E7%A5%AD"
   },
   {
@@ -1190,6 +1404,8 @@
    "rule": "毎年6月第1日曜日",
    "conf": "rule_only",
    "slug": "mibu-no-hana-taue",
+   "slug_en": "mibu-no-hana-taue",
+   "name_en": "Mibu no Hana Taue",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E3%81%AE%E8%8A%B1%E7%94%B0%E6%A4%8D"
   },
   {
@@ -1201,6 +1417,8 @@
    "rule": "毎年6月第2土曜日",
    "conf": "verified",
    "slug": "chagu-chagu-umakko",
+   "slug_en": "chagu-chagu-umakko",
+   "name_en": "Chagu Chagu Umakko",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B0%E3%83%81%E3%83%A3%E3%82%B0%E9%A6%AC%E3%82%B3"
   },
   {
@@ -1212,6 +1430,8 @@
    "rule": "毎年6月第2土曜日",
    "conf": "rule_only",
    "slug": "yoshiwara-gion-sai",
+   "slug_en": "yoshiwara-gion-sai",
+   "name_en": "Yoshiwara Gion-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%8E%9F%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1223,6 +1443,8 @@
    "rule": "毎年6月14日〜6月16日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%88%E3%82%93%E3%81%BE%E5%B8%82"
   },
   {
@@ -1234,6 +1456,8 @@
    "rule": "毎年6月14日",
    "conf": "fixed_rule",
    "slug": "sumiyoshi-no-otaue-shinji",
+   "slug_en": "sumiyoshi-no-otaue-shinji",
+   "name_en": "Otaue Shinto Service",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E3%81%AE%E5%BE%A1%E7%94%B0%E6%A4%8D"
   },
   {
@@ -1245,6 +1469,8 @@
    "rule": "毎年6月22日〜6月24日",
    "conf": "fixed_rule",
    "slug": "himeji-yukata-matsuri",
+   "slug_en": "himeji-yukata-matsuri",
+   "name_en": "Himeji Yukata Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E3%82%86%E3%81%8B%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1256,6 +1482,8 @@
    "rule": "毎年6月24日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E8%B3%80%E5%9F%8E%E8%B7%A1%E3%81%82%E3%82%84%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1267,6 +1495,8 @@
    "rule": "毎年6月30日〜7月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Aizen Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%9F%93%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1278,6 +1508,8 @@
    "rule": "毎年6月30日",
    "conf": "rule_only",
    "slug": "shimadachi-hadaka-matsuri",
+   "slug_en": "shimadachi-hadaka-matsuri",
+   "name_en": "Shimadachi Hadaka Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E7%AB%8B%E8%A3%B8%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1289,6 +1521,8 @@
    "rule": "毎年6月30日〜7月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kanbara Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1300,6 +1534,8 @@
    "rule": "毎年7月1日〜7月15日",
    "conf": "fixed_rule",
    "slug": "hakata-gion-yamakasa",
+   "slug_en": "hakata-gion-yamakasa",
+   "name_en": "Hakata Gion Yamakasa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0"
   },
   {
@@ -1311,6 +1547,8 @@
    "rule": "毎年7月1日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Himi Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B0%B7%E8%A6%8B%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1322,6 +1560,8 @@
    "rule": "毎年7月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Abare Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B0%E3%82%8C%E7%A5%AD"
   },
   {
@@ -1333,6 +1573,8 @@
    "rule": "毎年7月3日〜7月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Toide Tanabata Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%87%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1344,6 +1586,8 @@
    "rule": "毎年7月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Esashi Kamomejima Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%AE%E3%81%8B%E3%82%82%E3%82%81%E5%B3%B6%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1355,6 +1599,8 @@
    "rule": "毎年7月6日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -1366,6 +1612,8 @@
    "rule": "毎年7月6日〜7月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Senami Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%B3%A2%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -1377,6 +1625,8 @@
    "rule": "毎年7月7日",
    "conf": "rule_only",
    "slug": "asagaya-tanabata-festival",
+   "slug_en": "asagaya-tanabata-festival",
+   "name_en": "Asagaya Tanabata Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1388,6 +1638,8 @@
    "rule": "毎年7月11日",
    "conf": "fixed_rule",
    "slug": "shirongo-matsuri",
+   "slug_en": "shirongo-matsuri",
+   "name_en": "Shirongo Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%8D%E3%82%93%E3%81%94%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1399,6 +1651,8 @@
    "rule": "毎年7月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Otebi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E6%89%8B%E7%81%AB%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1410,6 +1664,8 @@
    "rule": "毎年7月第2土曜日",
    "conf": "rule_only",
    "slug": "nanao-gion-matsuri",
+   "slug_en": "nanao-gion-matsuri",
+   "name_en": "Nanao Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1421,6 +1677,8 @@
    "rule": "毎年7月11日〜7月12日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ikutama Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%9C%8B%E9%AD%82%E7%A5%AD"
   },
   {
@@ -1432,6 +1690,8 @@
    "rule": "毎年7月12日",
    "conf": "rule_only",
    "slug": "kuki-chochin-matsuri",
+   "slug_en": "kuki-chochin-matsuri",
+   "name_en": "Lantern Festival of Kuki",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%96%9C%E3%81%AE%E6%8F%90%E7%81%AF%E7%A5%AD%E3%82%8A%E3%83%BB%E5%A4%A9%E7%8E%8B%E6%A7%98"
   },
   {
@@ -1443,6 +1703,8 @@
    "rule": "毎年7月14日",
    "conf": "fixed_rule",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ōgi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%A5%AD"
   },
   {
@@ -1454,6 +1716,8 @@
    "rule": "毎年7月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%B3%B6%E7%A5%87%E5%9C%92"
   },
   {
@@ -1465,6 +1729,8 @@
    "rule": "毎年7月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Okegawa Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A1%B6%E5%B7%9D%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1476,6 +1742,8 @@
    "rule": "毎年7月第3土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ashibetsu Kenka Yamakasa",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%A6%E5%88%A5%E5%81%A5%E5%A4%8F%E5%B1%B1%E7%AC%A0"
   },
   {
@@ -1487,6 +1755,8 @@
    "rule": "毎年7月19日〜7月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kumagaya Uchiwa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD"
   },
   {
@@ -1498,6 +1768,8 @@
    "rule": "毎年7月19日",
    "conf": "fixed_rule",
    "slug": "chichibu-kawase-matsuri",
+   "slug_en": "chichibu-kawase-matsuri",
+   "name_en": "Chichibu Kawase Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%B7%9D%E7%80%AC%E7%A5%AD"
   },
   {
@@ -1509,6 +1781,8 @@
    "rule": "毎年7月20日",
    "conf": "fixed_rule",
    "slug": "tsuchizaki-shinmei-sha-matsuri",
+   "slug_en": "tsuchizaki-shinmei-sha-matsuri",
+   "name_en": "Tsuchizaki Shinmei Shrine Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B4%8E%E7%A5%9E%E6%98%8E%E7%A4%BE%E7%A5%AD%E3%81%AE%E6%9B%B3%E5%B1%B1%E8%A1%8C%E4%BA%8B"
   },
   {
@@ -1520,6 +1794,8 @@
    "rule": "毎年7月20日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%84%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1531,6 +1807,8 @@
    "rule": "毎年7月20日〜7月21日",
    "conf": "fixed_rule",
    "slug": "iida-machi-toroyama-festival",
+   "slug_en": "iida-machi-toroyama-festival",
+   "name_en": "Iida-machi Toroyama Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E7%94%BA%E7%87%88%E7%B1%A0%E5%B1%B1%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1542,6 +1820,8 @@
    "rule": "毎年7月22日〜7月24日",
    "conf": "fixed_rule",
    "slug": "warei-taisai",
+   "slug_en": "warei-taisai",
+   "name_en": "Uwajima Ushi-oni Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%92%8C%E9%9C%8A%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -1553,6 +1833,8 @@
    "rule": "毎年7月22日〜7月24日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Aizu Tajima Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1564,6 +1846,8 @@
    "rule": "毎年7月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Jōetsu Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1575,6 +1859,8 @@
    "rule": "毎年7月23日〜7月25日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Mashiko Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E5%AD%90%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1586,6 +1872,8 @@
    "rule": "毎年7月24日",
    "conf": "rule_only",
    "slug": "tenjin-matsuri",
+   "slug_en": "tenjin-matsuri",
+   "name_en": "Tenjin Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A5%9E%E7%A5%AD"
   },
   {
@@ -1597,6 +1885,8 @@
    "rule": "毎年7月24日",
    "conf": "fixed_rule",
    "slug": "tanabe-matsuri",
+   "slug_en": "tanabe-matsuri",
+   "name_en": "Tanabe Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B0%E8%BE%BA%E7%A5%AD"
   },
   {
@@ -1608,6 +1898,8 @@
    "rule": "毎年7月24日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Gion Kashiwazaki Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8E%E3%81%8A%E3%82%93%E6%9F%8F%E5%B4%8E%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1619,6 +1911,8 @@
    "rule": "毎年7月最終土曜日",
    "conf": "verified",
    "slug": "sumidagawa-fireworks-festival",
+   "slug_en": "sumidagawa-fireworks-festival",
+   "name_en": "Sumidagawa Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1630,6 +1924,8 @@
    "rule": "毎年7月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AE%E3%81%BF%E3%81%A1%E4%BD%8F%E5%90%89%E8%8A%B1%E7%81%AB%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1641,6 +1937,8 @@
    "rule": "毎年7月第4土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ayabe Minazuki Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%B9%E6%B0%B4%E7%84%A1%E6%9C%88%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1652,6 +1950,8 @@
    "rule": "毎年7月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kōda no Himatsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%91%E7%94%B0%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1663,6 +1963,8 @@
    "rule": "毎年7月25日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B8%8B%E5%B7%9D%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1674,6 +1976,8 @@
    "rule": "毎年7月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Abe River Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1685,6 +1989,8 @@
    "rule": "毎年7月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E7%81%AB%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1696,6 +2002,8 @@
    "rule": "毎年7月第4土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%83%B7%E3%83%8E%E6%B5%A6%E7%A5%87%E5%9C%92%E5%B1%B1%E7%AC%A0"
   },
   {
@@ -1707,6 +2015,8 @@
    "rule": "毎年7月26日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%A0%82%E8%AB%8F%E8%A8%AA%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -1718,6 +2028,8 @@
    "rule": "毎年7月最終日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E3%83%87%E3%82%AB%E6%9B%B3%E5%B1%B1"
   },
   {
@@ -1729,6 +2041,8 @@
    "rule": "毎年7月27日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Tokyo Idol Festival",
    "wiki": "https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL"
   },
   {
@@ -1740,6 +2054,8 @@
    "rule": "毎年7月28日〜7月29日",
    "conf": "fixed_rule",
    "slug": "hokkai-heso-matsuri",
+   "slug_en": "hokkai-heso-matsuri",
+   "name_en": "Hokkaido Belly Button Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E3%81%B8%E3%81%9D%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1751,6 +2067,8 @@
    "rule": "毎年7月最終木曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Shimodate Gion Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%A4%A8%E7%A5%87%E5%9C%92%E7%A5%AD"
   },
   {
@@ -1762,6 +2080,8 @@
    "rule": "毎年7月最終金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%84%E3%81%AF%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1773,6 +2093,8 @@
    "rule": "毎年7月31日〜8月4日",
    "conf": "fixed_rule",
    "slug": "hachinohe-sansha-taisai",
+   "slug_en": "hachinohe-sansha-taisai",
+   "name_en": "Hachinohe Sansha Taisai",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%88%B8%E4%B8%89%E7%A4%BE%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -1784,6 +2106,8 @@
    "rule": "毎年7月31日",
    "conf": "fixed_rule",
    "slug": "sumiyoshi-matsuri",
+   "slug_en": "sumiyoshi-matsuri",
+   "name_en": "Sumiyoshi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E7%A5%AD"
   },
   {
@@ -1795,6 +2119,8 @@
    "rule": "毎年7月最終金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kō Natsu Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%BA%9C%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1806,6 +2132,8 @@
    "rule": "毎年7月31日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Namerikawa Nebuta Nagashi",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%BB%91%E5%B7%9D%E3%81%AE%E3%83%8D%E3%83%96%E3%82%BF%E6%B5%81%E3%81%97"
   },
   {
@@ -1817,6 +2145,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A4%E3%81%8E%E9%AE%8E%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1828,6 +2158,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%93%E3%81%BE%E3%81%8F"
   },
   {
@@ -1839,6 +2171,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "kitakami-michinoku-geino-matsuri",
+   "slug_en": "kitakami-michinoku-geino-matsuri",
+   "name_en": "Kitakami Michinoku Traditional Dance Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B8%8A%E3%83%BB%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8F%E8%8A%B8%E8%83%BD%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1850,6 +2184,8 @@
    "rule": "毎年8月1日",
    "conf": "fixed_rule",
    "slug": "pl-art-of-fireworks",
+   "slug_en": "pl-art-of-fireworks",
+   "name_en": "PL Art of Fireworks",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%95%99%E7%A5%96%E7%A5%ADPL%E8%8A%B1%E7%81%AB%E8%8A%B8%E8%A1%93"
   },
   {
@@ -1861,6 +2197,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%9C%8B%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%B7%9D%E5%8C%97%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1872,6 +2210,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B1%85%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1883,6 +2223,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Edogawa Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A_(%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E3%83%BB%E5%B8%82%E5%B7%9D%E5%B8%82)"
   },
   {
@@ -1894,6 +2236,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Fujisan Gojinka Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E5%BE%A1%E7%A5%9E%E7%81%AB%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1905,6 +2249,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E5%9F%8E%E4%B8%8B%E5%AE%B6%E5%BA%B7%E5%85%AC%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1916,6 +2262,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E6%A9%8B%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -1927,6 +2275,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "matsumoto-bonbon",
+   "slug_en": "matsumoto-bonbon",
+   "name_en": "Matsumoto-Bonbon Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E3%81%BC%E3%82%93%E3%81%BC%E3%82%93"
   },
   {
@@ -1938,6 +2288,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%8B%AD%E5%B1%B1%E5%B8%82%E5%85%A5%E9%96%93%E5%B7%9D%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1949,6 +2301,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1960,6 +2314,8 @@
    "rule": "毎年8月1日〜8月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -1971,6 +2327,8 @@
    "rule": "毎年8月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Issaki Hōtō Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B4%8E%E5%A5%89%E7%87%88%E7%A5%AD"
   },
   {
@@ -1982,6 +2340,8 @@
    "rule": "毎年8月1日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B7%9D%E9%96%8B%E3%81%8D%E7%A5%AD%E3%82%8A"
   },
   {
@@ -1993,6 +2353,8 @@
    "rule": "毎年8月1日〜8月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2004,6 +2366,8 @@
    "rule": "毎年8月1日〜8月4日",
    "conf": "fixed_rule",
    "slug": "morioka-sansa-odori",
+   "slug_en": "morioka-sansa-odori",
+   "name_en": "Morioka Sansa Odori",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B2%A1%E3%81%95%E3%82%93%E3%81%95%E8%B8%8A%E3%82%8A"
   },
   {
@@ -2015,6 +2379,8 @@
    "rule": "毎年8月1日〜8月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hagi Summer Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2026,6 +2392,8 @@
    "rule": "毎年8月1日〜8月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Nagaoka Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2037,6 +2405,8 @@
    "rule": "毎年8月2日〜8月7日",
    "conf": "fixed_rule",
    "slug": "aomori-nebuta",
+   "slug_en": "aomori-nebuta",
+   "name_en": "Aomori Nebuta Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E3%81%AD%E3%81%B6%E3%81%9F"
   },
   {
@@ -2048,6 +2418,8 @@
    "rule": "毎年8月第1日曜日",
    "conf": "rule_only",
    "slug": "ishidori-matsuri",
+   "slug_en": "ishidori-matsuri",
+   "name_en": "Ishidori Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
@@ -2059,6 +2431,8 @@
    "rule": "毎年8月3日〜8月6日",
    "conf": "fixed_rule",
    "slug": "kanto-matsuri-akita",
+   "slug_en": "kanto-matsuri-akita",
+   "name_en": "Akita Kantō",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%AB%BF%E7%87%88"
   },
   {
@@ -2070,6 +2444,8 @@
    "rule": "毎年8月5日",
    "conf": "fixed_rule",
    "slug": "sendai-tanabata-fireworks-festival",
+   "slug_en": "sendai-tanabata-fireworks-festival",
+   "name_en": "Sendai Tanabata Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%E8%8A%B1%E7%81%AB%E7%A5%AD"
   },
   {
@@ -2081,6 +2457,8 @@
    "rule": "毎年8月6日〜8月8日",
    "conf": "fixed_rule",
    "slug": "sendai-tanabata",
+   "slug_en": "sendai-tanabata",
+   "name_en": "Sendai Tanabata",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95"
   },
   {
@@ -2092,6 +2470,8 @@
    "rule": "毎年8月6日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2103,6 +2483,8 @@
    "rule": "毎年8月6日〜8月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E4%B8%83%E5%A4%95%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%93%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2114,6 +2496,8 @@
    "rule": "毎年8月6日〜8月8日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Taira Tanabata Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2125,6 +2509,8 @@
    "rule": "毎年8月6日〜8月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Noshiro Yakutanabata",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95"
   },
   {
@@ -2136,6 +2522,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "hachioji-matsuri",
+   "slug_en": "hachioji-matsuri",
+   "name_en": "Hachioji Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%8E%8B%E5%AD%90%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2147,6 +2535,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "verified",
    "slug": "uozu-tatemon-matsuri",
+   "slug_en": "uozu-tatemon-festival",
+   "name_en": "Uozu Tatemon Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%A6%E3%82%82%E3%82%93%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2158,6 +2548,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "jantokoi-uozu-matsuri",
+   "slug_en": "jantokoi-uozu-festival",
+   "name_en": "Jantokoi Uozu Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%98%E3%82%83%E3%82%93%E3%81%A8%E3%81%93%E3%81%84%E9%AD%9A%E6%B4%A5%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2169,6 +2561,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2180,6 +2574,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%A1%9A%E8%A6%B3%E5%85%89%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2191,6 +2587,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%BA%9C%E5%86%85%E6%88%A6%E7%B4%99"
   },
   {
@@ -2202,6 +2600,8 @@
    "rule": "毎年8月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kiryū Yagibushi festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2213,6 +2613,8 @@
    "rule": "毎年8月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Shinmei Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%98%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2224,6 +2626,8 @@
    "rule": "毎年8月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Aomori Fireworks Display",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2235,6 +2639,8 @@
    "rule": "毎年8月9日",
    "conf": "fixed_rule",
    "slug": "yosakoi-matsuri",
+   "slug_en": "yosakoi-matsuri",
+   "name_en": "Yosakoi Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%95%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2246,6 +2652,8 @@
    "rule": "毎年8月第2日曜日",
    "conf": "rule_only",
    "slug": "yassa-festival",
+   "slug_en": "yassa-festival",
+   "name_en": "Yassa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%A3%E3%81%95%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2257,6 +2665,8 @@
    "rule": "毎年8月9日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hagi Hime Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2268,6 +2678,8 @@
    "rule": "毎年8月9日",
    "conf": "rule_only",
    "slug": "ubagami-daijingu-togyosai",
+   "slug_en": "ubagami-daijingu-togyosai",
+   "name_en": "Ubagami Daijingū Togyosai",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%A5%E7%A5%9E%E5%A4%A7%E7%A5%9E%E5%AE%AE%E6%B8%A1%E5%BE%A1%E7%A5%AD"
   },
   {
@@ -2279,6 +2691,8 @@
    "rule": "毎年8月11日",
    "conf": "rule_only",
    "slug": "mikuni-fireworks-festival",
+   "slug_en": "mikuni-fireworks-festival",
+   "name_en": "Mikuni Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2290,6 +2704,8 @@
    "rule": "毎年8月11日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E3%83%BB%E4%BF%9D%E6%B4%A5%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2301,6 +2717,8 @@
    "rule": "毎年8月11日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Odate Daimonji Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2312,6 +2730,8 @@
    "rule": "毎年8月12日〜8月14日",
    "conf": "fixed_rule",
    "slug": "sanuki-takamatsu-matsuri",
+   "slug_en": "sanuki-takamatsu-matsuri",
+   "name_en": "Sanuki Takamatsu Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%AC%E3%81%8D%E9%AB%98%E6%9D%BE%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2323,6 +2743,8 @@
    "rule": "毎年8月13日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kachimai Fireworks",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%AF%8E%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2334,6 +2756,8 @@
    "rule": "毎年8月13日",
    "conf": "rule_only",
    "slug": "tomida-ishidori-matsuri",
+   "slug_en": "tomida-ishidori-matsuri",
+   "name_en": "Tomida Ishidori Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
@@ -2345,6 +2769,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ojima Neputa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%B3%B6%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
@@ -2356,6 +2782,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "hirosaki-neputa",
+   "slug_en": "hirosaki-neputa",
+   "name_en": "Hirosaki Neputa",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F"
   },
   {
@@ -2367,6 +2795,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A1%E9%81%8A%E3%81%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -2378,6 +2808,8 @@
    "rule": "毎年8月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2389,6 +2821,8 @@
    "rule": "毎年8月14日",
    "conf": "fixed_rule",
    "slug": "tomida-kujirabune-festival",
+   "slug_en": "tomida-kujirabune-festival",
+   "name_en": "Kujirabune Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B"
   },
   {
@@ -2400,6 +2834,8 @@
    "rule": "毎年8月15日",
    "conf": "fixed_rule",
    "slug": "fukagawa-matsuri",
+   "slug_en": "fukagawa-matsuri",
+   "name_en": "Fukagawa Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD"
   },
   {
@@ -2411,6 +2847,8 @@
    "rule": "毎年8月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8D%E3%81%BB%E3%81%AD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2422,6 +2860,8 @@
    "rule": "毎年8月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%B6%E9%A0%88%E8%B3%80%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
@@ -2433,6 +2873,8 @@
    "rule": "毎年8月15日〜8月17日",
    "conf": "fixed_rule",
    "slug": "yamaga-toro-matsuri",
+   "slug_en": "yamaga-toro-matsuri",
+   "name_en": "Yamaga Lantern Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E9%B9%BF%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2444,6 +2886,8 @@
    "rule": "毎年8月15日〜8月17日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Himeshima Bon odori",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E7%9B%86%E8%B8%8A%E3%82%8A"
   },
   {
@@ -2455,6 +2899,8 @@
    "rule": "毎年8月15日",
    "conf": "fixed_rule",
    "slug": "lake-suwa-fireworks-festival",
+   "slug_en": "lake-suwa-fireworks-festival",
+   "name_en": "Lake Suwa Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2466,6 +2912,8 @@
    "rule": "毎年8月16日",
    "conf": "fixed_rule",
    "slug": "gozan-no-okuribi",
+   "slug_en": "gozan-no-okuribi",
+   "name_en": "Gozan no Okuribi",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B1%B1%E9%80%81%E3%82%8A%E7%81%AB"
   },
   {
@@ -2477,6 +2925,8 @@
    "rule": "毎年8月16日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%86%E3%82%8D%E3%81%86%E6%B5%81%E3%81%97%E3%81%A8%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2488,6 +2938,8 @@
    "rule": "毎年8月16日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A%E6%9C%80%E4%B8%8A%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2499,6 +2951,8 @@
    "rule": "毎年8月16日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2510,6 +2964,8 @@
    "rule": "毎年8月16日〜8月18日",
    "conf": "fixed_rule",
    "slug": "nishimonai-no-bon-odori",
+   "slug_en": "nishimonai-no-bon-odori",
+   "name_en": "Nishimonai no Bon-odori",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%A6%AC%E9%9F%B3%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A"
   },
   {
@@ -2521,6 +2977,8 @@
    "rule": "毎年8月17日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kumano Great Fireworks Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2532,6 +2990,8 @@
    "rule": "毎年8月18日〜8月20日",
    "conf": "fixed_rule",
    "slug": "hitoichi-no-bon-odori",
+   "slug_en": "hitoichi-no-bon-odori",
+   "name_en": "Hitoichi no Bon-odori",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%97%A5%E5%B8%82%E3%81%AE%E7%9B%86%E8%B8%8A"
   },
   {
@@ -2543,6 +3003,8 @@
    "rule": "毎年8月19日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%B1%B1%E5%BB%BF%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99"
   },
   {
@@ -2554,6 +3016,8 @@
    "rule": "毎年8月19日〜8月20日",
    "conf": "fixed_rule",
    "slug": "hanawa-bayashi",
+   "slug_en": "hanawa-bayashi",
+   "name_en": "Hanawa Bayashi",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%BC%AA%E3%81%B0%E3%82%84%E3%81%97"
   },
   {
@@ -2565,6 +3029,8 @@
    "rule": "毎年8月20日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B9%E3%81%A3%E3%81%95%E3%82%93"
   },
   {
@@ -2576,6 +3042,8 @@
    "rule": "毎年8月第3木曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Yufuin Film Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B8%83%E9%99%A2%E6%98%A0%E7%94%BB%E7%A5%AD"
   },
   {
@@ -2587,6 +3055,8 @@
    "rule": "毎年8月21日〜8月23日",
    "conf": "fixed_rule",
    "slug": "kemanai-no-bon-odori",
+   "slug_en": "kemanai-no-bon-odori",
+   "name_en": "Kemanai no Bon-odori",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%AF%9B%E9%A6%AC%E5%86%85%E3%81%AE%E7%9B%86%E8%B8%8A"
   },
   {
@@ -2598,6 +3068,8 @@
    "rule": "毎年8月23日〜8月24日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%83%E7%81%AF%E7%B1%A0%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2609,6 +3081,8 @@
    "rule": "毎年8月24日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E3%81%AE%E6%9D%BE%E6%98%8E"
   },
   {
@@ -2620,6 +3094,8 @@
    "rule": "毎年8月26日",
    "conf": "fixed_rule",
    "slug": "yoshida-no-himatsuri",
+   "slug_en": "yoshida-no-himatsuri",
+   "name_en": "Yoshida Fire Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E3%81%AE%E7%81%AB%E7%A5%AD"
   },
   {
@@ -2631,6 +3107,8 @@
    "rule": "毎年8月27日",
    "conf": "fixed_rule",
    "slug": "guzuyaki-festival",
+   "slug_en": "guzuyaki-festival",
+   "name_en": "Guzuyaki Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%90%E3%81%9A%E7%84%BC%E3%81%8D%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2642,6 +3120,8 @@
    "rule": "毎年8月27日〜8月29日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9F%8E%E4%B8%8B%E7%94%BA%E6%96%B0%E7%99%BA%E7%94%B0%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2653,6 +3133,8 @@
    "rule": "毎年8月第4金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Numata Yotaka Andon Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%94%BA%E5%A4%9C%E9%AB%98%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2664,6 +3146,8 @@
    "rule": "毎年8月第4金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Murayama Tokunai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2675,6 +3159,8 @@
    "rule": "毎年8月最終土曜日",
    "conf": "rule_only",
    "slug": "asakusa-samba-carnival",
+   "slug_en": "asakusa-samba-carnival",
+   "name_en": "Samba Carnival of Asakusa",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%B5%E3%83%B3%E3%83%90%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB"
   },
   {
@@ -2686,6 +3172,8 @@
    "rule": "毎年8月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Noboribetsu Jigoku Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%99%BB%E5%88%A5%E5%9C%B0%E7%8D%84%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2697,6 +3185,8 @@
    "rule": "毎年8月最終土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2708,6 +3198,8 @@
    "rule": "毎年9月1日〜9月3日",
    "conf": "fixed_rule",
    "slug": "owara-kaze-no-bon",
+   "slug_en": "owara-kaze-no-bon",
+   "name_en": "Kaze no bon",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86"
   },
   {
@@ -2719,6 +3211,8 @@
    "rule": "毎年9月1日",
    "conf": "rule_only",
    "slug": "kishiwada-danjiri-matsuri",
+   "slug_en": "kishiwada-danjiri-matsuri",
+   "name_en": "Kishiwada Danjiri Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E5%92%8C%E7%94%B0%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
   },
   {
@@ -2730,6 +3224,8 @@
    "rule": "毎年9月3日〜9月6日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%A1%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2741,6 +3237,8 @@
    "rule": "毎年9月7日〜9月9日",
    "conf": "fixed_rule",
    "slug": "kakunodate-no-omatsuri",
+   "slug_en": "kakunodate-no-omatsuri",
+   "name_en": "Kakunodate Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A7%92%E9%A4%A8%E3%81%AE%E3%81%8A%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2752,6 +3250,8 @@
    "rule": "毎年9月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kichijoji Autumn Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%A5%A5%E5%AF%BA%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2763,6 +3263,8 @@
    "rule": "毎年9月12日〜9月18日",
    "conf": "fixed_rule",
    "slug": "hojoya",
+   "slug_en": "hojoya",
+   "name_en": "Hōjōya",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E4%BC%9A_(%E7%AD%A5%E5%B4%8E%E5%AE%AE)"
   },
   {
@@ -2774,6 +3276,8 @@
    "rule": "毎年9月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Jozenji Street Jazz Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%A6%85%E5%AF%BA%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -2785,6 +3289,8 @@
    "rule": "毎年9月20日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Okuma Kabuto Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E7%86%8A%E7%94%B2%E7%A5%AD"
   },
   {
@@ -2796,6 +3302,8 @@
    "rule": "毎年9月第3月曜日",
    "conf": "rule_only",
    "slug": "fujisaki-hachimangu-reitaisai",
+   "slug_en": "fujisaki-hachimangu-reitaisai",
+   "name_en": "Boshita Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -2807,6 +3315,8 @@
    "rule": "毎年9月第3月曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Katsuura Autumn Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E5%A4%A7%E6%BC%81%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2818,6 +3328,8 @@
    "rule": "毎年9月22日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%84%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2829,6 +3341,8 @@
    "rule": "毎年9月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ohara Hadaka Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8E%9F%E3%81%AF%E3%81%A0%E3%81%8B%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2840,6 +3354,8 @@
    "rule": "毎年9月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%80%81%E6%B1%9F%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -2851,6 +3367,8 @@
    "rule": "毎年9月第4日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Tajima Beef Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BD%86%E9%A6%AC%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2862,6 +3380,8 @@
    "rule": "毎年9月第4日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Owari Yokosuka Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%A8%AA%E9%A0%88%E8%B3%80%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2873,6 +3393,8 @@
    "rule": "毎年9月27日〜9月29日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%A9%8D%E5%9B%BD%E9%80%A0%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -2884,6 +3406,8 @@
    "rule": "毎年10月1日",
    "conf": "fixed_rule",
    "slug": "miare-festival",
+   "slug_en": "miare-festival",
+   "name_en": "Miare Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%82%E3%82%8C%E7%A5%AD"
   },
   {
@@ -2895,6 +3419,8 @@
    "rule": "毎年10月1日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hōjōzu Hikiyama Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD"
   },
   {
@@ -2906,6 +3432,8 @@
    "rule": "毎年10月2日",
    "conf": "rule_only",
    "slug": "horai-matsuri",
+   "slug_en": "horai-matsuri",
+   "name_en": "Hōrai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%82%89%E3%81%84%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2917,6 +3445,8 @@
    "rule": "毎年10月第1金曜日",
    "conf": "rule_only",
    "slug": "tsukuno-danjiri-matsuri",
+   "slug_en": "tsukuno-danjiri-matsuri",
+   "name_en": "Tsukuno Danjiri Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
   },
   {
@@ -2928,6 +3458,8 @@
    "rule": "毎年10月第1金曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%B3%B3%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A"
   },
   {
@@ -2939,6 +3471,8 @@
    "rule": "毎年10月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%86%E3%81%AE%E3%81%99%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -2950,6 +3484,8 @@
    "rule": "毎年10月第1日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E7%A5%AD"
   },
   {
@@ -2961,6 +3497,8 @@
    "rule": "毎年10月第1日曜日",
    "conf": "rule_only",
    "slug": "owari-tsushima-autumn-festival",
+   "slug_en": "owari-tsushima-autumn-festival",
+   "name_en": "Owari Tsushima Autumn Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2972,6 +3510,8 @@
    "rule": "毎年10月第1日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -2983,6 +3523,8 @@
    "rule": "毎年10月5日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%A3%9A%E9%87%8E%E3%81%AE%E5%8D%83%E4%B8%A1%E7%A5%AD"
   },
   {
@@ -2994,6 +3536,8 @@
    "rule": "毎年10月5日〜10月7日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Matsuyama Aki Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E7%A7%8B%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3005,6 +3549,8 @@
    "rule": "毎年10月7日〜10月9日",
    "conf": "fixed_rule",
    "slug": "nagasaki-kunchi",
+   "slug_en": "nagasaki-kunchi",
+   "name_en": "Nagasaki Kunchi",
    "wiki": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1"
   },
   {
@@ -3016,6 +3562,8 @@
    "rule": "毎年10月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97"
   },
   {
@@ -3027,6 +3575,8 @@
    "rule": "毎年10月第2日曜日",
    "conf": "rule_only",
    "slug": "ogaki-jumangoku-matsuri",
+   "slug_en": "ogaki-jumangoku-matsuri",
+   "name_en": "Ōgaki Jūmangoku Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3038,6 +3588,8 @@
    "rule": "毎年10月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3049,6 +3601,8 @@
    "rule": "毎年10月第2日曜日",
    "conf": "rule_only",
    "slug": "toyohama-chosa-festival",
+   "slug_en": "toyohama-chosa-festival",
+   "name_en": "Toyohama Chōsa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD"
   },
   {
@@ -3060,6 +3614,8 @@
    "rule": "毎年10月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Ryusei Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2"
   },
   {
@@ -3071,6 +3627,8 @@
    "rule": "毎年10月13日",
    "conf": "rule_only",
    "slug": "doi-taiko-matsuri",
+   "slug_en": "doi-taiko-matsuri",
+   "name_en": "Doi taikomatsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3082,6 +3640,8 @@
    "rule": "毎年10月14日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kebesu Sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD"
   },
   {
@@ -3093,6 +3653,8 @@
    "rule": "毎年10月14日〜10月15日",
    "conf": "fixed_rule",
    "slug": "nada-no-kenka-matsuri",
+   "slug_en": "nada-no-kenka-matsuri",
+   "name_en": "Nada no kenka matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3104,6 +3666,8 @@
    "rule": "毎年10月15日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%88%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3115,6 +3679,8 @@
    "rule": "毎年10月15日〜10月16日",
    "conf": "fixed_rule",
    "slug": "kumano-hayatama-matsuri",
+   "slug_en": "kumano-hayatama-matsuri",
+   "name_en": "Kumano Hayatama Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E9%80%9F%E7%8E%89%E7%A5%AD"
   },
   {
@@ -3126,6 +3692,8 @@
    "rule": "毎年10月16日〜10月18日",
    "conf": "fixed_rule",
    "slug": "niihama-taiko-festival",
+   "slug_en": "niihama-taiko-festival",
+   "name_en": "Niihama Taiko Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3137,6 +3705,8 @@
    "rule": "毎年10月第3土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Kinoene Aki Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3148,6 +3718,8 @@
    "rule": "毎年10月18日〜10月19日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%B9%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -3159,6 +3731,8 @@
    "rule": "毎年10月18日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%B0%E6%A5%BD"
   },
   {
@@ -3170,6 +3744,8 @@
    "rule": "毎年10月19日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Imari Ton-Ten-Ton Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E9%87%8C%E3%83%88%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88%E3%83%B3%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3181,6 +3757,8 @@
    "rule": "毎年10月22日",
    "conf": "fixed_rule",
    "slug": "jidai-matsuri",
+   "slug_en": "jidai-matsuri",
+   "name_en": "Jidai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E7%A5%AD"
   },
   {
@@ -3192,6 +3770,8 @@
    "rule": "毎年10月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Hakata Okunchi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%8A%E3%81%8F%E3%82%93%E3%81%A1"
   },
   {
@@ -3203,6 +3783,8 @@
    "rule": "毎年10月24日〜10月26日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B8%96%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3214,6 +3796,8 @@
    "rule": "毎年10月24日〜10月25日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B2%A1%E7%A5%AD"
   },
   {
@@ -3225,6 +3809,8 @@
    "rule": "毎年10月26日",
    "conf": "fixed_rule",
    "slug": "miyazaki-shrine-grand-festival",
+   "slug_en": "miyazaki-shrine-grand-festival",
+   "name_en": "Miyazaki Shrine Grand Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
   },
   {
@@ -3236,6 +3822,8 @@
    "rule": "毎年11月3日",
    "conf": "rule_only",
    "slug": "karatsu-kunchi",
+   "slug_en": "karatsu-kunchi",
+   "name_en": "Karatsu Kunchi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1"
   },
   {
@@ -3247,6 +3835,8 @@
    "rule": "毎年11月3日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Fujinomiya Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3258,6 +3848,8 @@
    "rule": "毎年11月3日",
    "conf": "fixed_rule",
    "slug": "tokyo-jidai-matsuri",
+   "slug_en": "tokyo-jidai-matsuri",
+   "name_en": "Tokyo Jidai Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3269,6 +3861,8 @@
    "rule": "毎年11月4日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3280,6 +3874,8 @@
    "rule": "毎年11月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%99%E3%81%8D%E7%AB%B9%E5%AE%B5"
   },
   {
@@ -3291,6 +3887,8 @@
    "rule": "毎年11月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Saito Kofun Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%BD%E5%8F%A4%E5%A2%B3%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3302,6 +3900,8 @@
    "rule": "毎年11月第1土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Tsuchiura All Japan Fireworks Competition",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B5%A6%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A"
   },
   {
@@ -3313,6 +3913,8 @@
    "rule": "毎年11月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Shibayama Haniwa Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E5%B1%B1%E3%81%AF%E3%81%AB%E3%82%8F%E7%A5%AD"
   },
   {
@@ -3324,6 +3926,8 @@
    "rule": "毎年11月第2日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Masakado Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%86%E9%96%80%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
@@ -3335,6 +3939,8 @@
    "rule": "毎年11月第2土曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Taimatsu Akashi",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%98%8E%E3%81%82%E3%81%8B%E3%81%97"
   },
   {
@@ -3346,6 +3952,8 @@
    "rule": "毎年11月17日〜11月20日",
    "conf": "fixed_rule",
    "slug": "ebisuko",
+   "slug_en": "ebisuko",
+   "name_en": "Ebisukō",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B"
   },
   {
@@ -3357,6 +3965,8 @@
    "rule": "毎年11月第3木曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -3368,6 +3978,8 @@
    "rule": "毎年11月23日",
    "conf": "rule_only",
    "slug": "niiname-no-matsuri",
+   "slug_en": "niiname-no-matsuri",
+   "name_en": "Niiname-no-Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD"
   },
   {
@@ -3379,6 +3991,8 @@
    "rule": "毎年11月23日",
    "conf": "fixed_rule",
    "slug": "mita-festival",
+   "slug_en": "mita-festival",
+   "name_en": "Mita festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%A5%AD"
   },
   {
@@ -3390,6 +4004,8 @@
    "rule": "毎年11月23日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%A4%A9%E7%A5%9E%E7%A5%AD"
   },
   {
@@ -3401,6 +4017,8 @@
    "rule": "毎年12月1日〜12月6日",
    "conf": "fixed_rule",
    "slug": "chichibu-night-festival",
+   "slug_en": "chichibu-night-festival",
+   "name_en": "Chichibu Night Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD"
   },
   {
@@ -3412,6 +4030,8 @@
    "rule": "毎年12月2日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8D%E3%81%84%E7%A5%AD%E3%82%8A"
   },
   {
@@ -3423,6 +4043,8 @@
    "rule": "毎年12月第1日曜日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AF%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
   },
   {
@@ -3434,6 +4056,8 @@
    "rule": "毎年12月10日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Daitōsai",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%AF%E7%A5%AD"
   },
   {
@@ -3445,6 +4069,8 @@
    "rule": "毎年12月12日",
    "conf": "rule_only",
    "slug": "juninichi-machi",
+   "slug_en": "juninichi-machi",
+   "name_en": "Jūninichi-machi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E6%97%A5%E3%81%BE%E3%81%A1"
   },
   {
@@ -3456,6 +4082,8 @@
    "rule": "毎年12月14日",
    "conf": "fixed_rule",
    "slug": "sengakuji-gishi-sai",
+   "slug_en": "sengakuji-gishi-sai",
+   "name_en": "Gishi-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%BE%A9%E5%A3%AB%E7%A5%AD_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA)"
   },
   {
@@ -3467,6 +4095,8 @@
    "rule": "毎年12月14日",
    "conf": "fixed_rule",
    "slug": "ako-gishi-festival",
+   "slug_en": "ako-gishi-festival",
+   "name_en": "Akō Gishi Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD"
   },
   {
@@ -3478,6 +4108,8 @@
    "rule": "毎年12月17日",
    "conf": "fixed_rule",
    "slug": "kasuga-wakamiya-on-matsuri",
+   "slug_en": "kasuga-wakamiya-on-matsuri",
+   "name_en": "Kasuga Wakamiya On-Matsuri Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD"
   },
   {
@@ -3489,6 +4121,8 @@
    "rule": "毎年12月31日",
    "conf": "rule_only",
    "slug": "",
+   "slug_en": "",
+   "name_en": "Countdown Japan",
    "wiki": "https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN"
   }
  ]

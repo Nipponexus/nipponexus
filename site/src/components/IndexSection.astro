@@ -4,6 +4,7 @@ interface Props {
   groups: GroupedFestivals[];
   locale: 'ja' | 'en';
 }
+import { prefEn } from '../lib/i18n_geo';
 const { groups, locale } = Astro.props;
 const isJa = locale === 'ja';
 ---
@@ -26,14 +27,14 @@ const isJa = locale === 'ja';
     <h2 style="display:flex;align-items:baseline;gap:1rem;margin-bottom:1rem;border-bottom:3px solid var(--color-shu);padding-bottom:0.5rem;">
       {g.label}
       <span style="font-size:1rem;color:var(--color-sumi-light);font-weight:normal;">
-        {g.festivals.length} {isJa ? '件' : 'festivals'}
+        {isJa ? `${g.festivals.length} 件` : `${g.festivals.length} ${g.festivals.length === 1 ? 'festival' : 'festivals'}`}
       </span>
     </h2>
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:0.8rem;">
       {g.festivals.map(f => {
         const slug = locale === 'ja' ? f.slug_ja : f.slug_en;
         const name = locale === 'ja' ? f.label_ja : (f.label_en || f.label_ja);
-        const sub = f.prefecture || (locale === 'ja' ? '日本' : 'Japan');
+        const sub = f.prefecture ? (isJa ? f.prefecture : prefEn(f.prefecture)) : (isJa ? '日本' : 'Japan');
         const isPublished = !!slug && (f.status === 'drafted' || f.status === 'published');
         const href = isPublished ? (locale === 'ja' ? `/${slug}/` : `/en/${slug}/`) : null;
         return href ? (
@@ -44,7 +45,7 @@ const isJa = locale === 'ja';
         ) : (
           <div style="padding:0.8rem 1rem;background:#f5f5f4;border-radius:6px;opacity:0.65;">
             <div style="font-family:var(--font-serif);font-size:1rem;font-weight:500;color:var(--color-sumi);">
-              {name} <span style="font-size:0.7rem;color:var(--color-sumi-light);">({isJa ? '準備中' : 'coming'})</span>
+              {name}
             </div>
             <div style="font-size:0.8rem;color:var(--color-sumi-light);margin-top:0.2rem;">{sub}</div>
           </div>

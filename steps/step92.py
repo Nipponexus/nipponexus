@@ -9,14 +9,14 @@ TODAY=datetime.date.today().isoformat()
 raw=json.load(open(os.path.join(OUT,'calendar.json'),encoding='utf-8'))
 items=raw.get('items') or []
 con=sqlite3.connect(DB); con.row_factory=sqlite3.Row
-meta={r['qid']:dict(r) for r in con.execute("select qid,prefecture,slug_ja,wikipedia_ja,status from festivals")}
+meta={r['qid']:dict(r) for r in con.execute("select qid,prefecture,slug_ja,slug_en,label_en,wikipedia_ja,status from festivals")}
 def conv(it):
     m=meta.get(it.get('qid',''),{})
     s=it.get('date_start') or ''; e=it.get('date_end') or ''
     return {'qid':it.get('qid',''),'name':it.get('label_ja') or '',
             'pref':(it.get('prefecture') or m.get('prefecture') or ''),
             'start':s,'end':e if e and e!=s else '','rule':it.get('rule') or '',
-            'conf':it.get('confidence') or '','slug':m.get('slug_ja') or '','wiki':m.get('wikipedia_ja') or ''}
+            'conf':it.get('confidence') or '','slug':m.get('slug_ja') or '','slug_en':m.get('slug_en') or '','name_en':m.get('label_en') or '','wiki':m.get('wikipedia_ja') or ''}
 annual=sorted([conv(i) for i in items],key=lambda x:x['start'])
 nxt=[c for c in annual if c['start']>=TODAY][:12]
 if len(nxt)<12: nxt+=annual[:12-len(nxt)]
@@ -54,7 +54,7 @@ const months = Array.from({ length: 12 }, (_, i) => {
   return { m: i + 1, rows: d.annual.filter((r) => (r.start || "").slice(5, 7) === m) };
 });
 const fmt = (s, e) => { const f = (x) => x.slice(5, 7) + "/" + x.slice(8, 10); return e ? f(s) + "〜" + f(e) : f(s); };
-const link = (r) => (r.slug ? "/" + r.slug + "/" : r.wiki);
+const link = (r) => (r.slug ? "/" + r.slug + "/" : null);
 ---
 <BaseLayout title="祭りカレンダー | Nipponexus" description="日本各地の祭りの開催日を、各記事に記載された開催規則から算出した一覧です。" locale="ja" altLang="https://nipponexus.com/en/calendar/">
   <h1>祭りカレンダー</h1>
@@ -62,11 +62,11 @@ const link = (r) => (r.slug ? "/" + r.slug + "/" : r.wiki);
   <p>開催日は記事に記載された規則（例「7月第3土曜日」）から算出した推定値です。旧暦基準・隔年開催・過去の規則にあたるものは除外しています。実際の日程は主催者の発表をご確認ください。</p>
   <h2>次に来る祭り</h2>
   <ul>
-    {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> <a href={link(r)}>{r.name}</a> {r.pref && <span>（{r.pref}）</span>} <small>{r.rule}</small></li>))}
+    {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> {r.slug ? <a href={link(r)}>{r.name}</a> : <span>{r.name}</span>} {r.pref && <span>（{r.pref}）</span>} <small>{r.rule}</small></li>))}
   </ul>
   {months.map((mo) => mo.rows.length > 0 && (
     <section><h2>{mo.m}月（{mo.rows.length}件）</h2>
-      <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} <a href={link(r)}>{r.name}</a> {r.pref && <span>（{r.pref}）</span>}</li>))}</ul>
+      <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} {r.slug ? <a href={link(r)}>{r.name}</a> : <span>{r.name}</span>} {r.pref && <span>（{r.pref}）</span>}</li>))}</ul>
     </section>))}
 </BaseLayout>
 '''

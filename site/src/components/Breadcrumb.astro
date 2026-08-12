@@ -1,0 +1,37 @@
+---
+import { prefEn } from "../lib/i18n_geo";
+const { festival, locale } = Astro.props;
+const isJa = locale === "ja";
+const base = isJa ? "" : "/en";
+const name = isJa ? festival.label_ja : (festival.label_en || festival.label_ja);
+const pref = festival.prefecture
+  ? (isJa ? festival.prefecture : prefEn(festival.prefecture)) : null;
+const items = [
+  { n: isJa ? "ホーム" : "Home", u: `${base}/` },
+  { n: isJa ? "都道府県から探す" : "Browse by Prefecture", u: `${base}/index/prefecture/` },
+];
+
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    ...items.map((it, i) => ({
+      "@type": "ListItem", position: i + 1, name: it.n,
+      item: `https://nipponexus.com${it.u}`,
+    })),
+    ...(pref ? [{ "@type": "ListItem", position: items.length + 1, name: pref }] : []),
+    { "@type": "ListItem", position: items.length + (pref ? 2 : 1), name },
+  ],
+};
+---
+<nav class="breadcrumb" aria-label={isJa ? "パンくず" : "Breadcrumb"}>
+  {items.map((it) => (<><a href={it.u}>{it.n}</a><span> / </span></>))}
+  {pref && <><span>{pref}</span><span> / </span></>}
+  <span>{name}</span>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(ld)} />
+<style>
+.breadcrumb{font-size:.82rem;color:#666;padding:.6rem 1rem;max-width:900px;margin:0 auto}
+.breadcrumb a{color:#666;text-decoration:none}
+.breadcrumb a:hover{text-decoration:underline}
+</style>
