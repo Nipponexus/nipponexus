@@ -5,6 +5,7 @@ import { seoTitle, seoDesc } from '../lib/seo_meta';
 import type { Festival } from '../lib/festivals';
 import { getRelatedByPrefecture, getRelatedBySeason, getEventEnd } from '../lib/festivals';
 import { prefEn } from '../data/pref_en';
+import { eventLd } from '../lib/event_ld';
 
 interface Props {
   festival: Festival;
@@ -41,27 +42,7 @@ if (festival.inception_year && ee?.end_year) {
 const pageTitle = seoTitle(festival, locale);
 
 // JSON-LD Event schema
-const jsonLd: any = {
-  "@context": "https://schema.org",
-  "@type": "Event",
-  "name": title,
-  "description": desc,
-  "url": selfUrl,
-};
-if (festival.image_url) jsonLd.image = festival.image_url;
-if (festival.location_label_ja || festival.location_label_en) {
-  jsonLd.location = {
-    "@type": "Place",
-    "name": isJa ? festival.location_label_ja : (festival.location_label_en || festival.location_label_ja),
-  };
-  if (festival.latitude && festival.longitude) {
-    jsonLd.location.geo = {
-      "@type": "GeoCoordinates",
-      "latitude": festival.latitude,
-      "longitude": festival.longitude,
-    };
-  }
-}
+const jsonLd = eventLd(festival as any, isJa, selfUrl, desc);
 
 // 季節ラベル
 const seasonLabels: Record<string, { ja: string; en: string }> = {
@@ -95,7 +76,7 @@ const seasonLinkLabel = seasonLabel;
   ogImage={festival.image_url || undefined}
 >
   <Breadcrumb festival={festival} locale={locale} />
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
+  {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />}
 
   <section
     class="article-hero"
