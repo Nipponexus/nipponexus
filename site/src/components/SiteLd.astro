@@ -1,0 +1,18 @@
+---
+// SiteLd.astro 2026-08-13  トップ用 WebSite / Organization 構造化データ
+interface Props { locale: 'ja' | 'en' }
+const { locale } = Astro.props;
+const isJa = locale === 'ja';
+const ld = [
+  { "@context": "https://schema.org", "@type": "WebSite",
+    name: "Nipponexus", alternateName: isJa ? "ニッポネクサス" : "Nipponexus - Festivals of Japan",
+    url: `https://nipponexus.com/${isJa ? '' : 'en/'}`, inLanguage: isJa ? 'ja' : 'en',
+    description: isJa ? "日本各地の祭りを、由来と見どころとアクセスから紹介する事典です。"
+                      : "A reference on festivals across Japan: origins, highlights and access.",
+    publisher: { "@id": "https://nipponexus.com/#org" } },
+  { "@context": "https://schema.org", "@type": "Organization", "@id": "https://nipponexus.com/#org",
+    name: "Nipponexus", url: "https://nipponexus.com/",
+    logo: { "@type": "ImageObject", url: "https://nipponexus.com/icon-512.png", width: 512, height: 512 } },
+];
+---
+<script type="application/ld+json" set:html={JSON.stringify(ld)} slot="head" />

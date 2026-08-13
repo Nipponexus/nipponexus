@@ -5,6 +5,7 @@ import { getDraftedFestivals } from '../../lib/festivals';
 const festivals = getDraftedFestivals('en');
 import UpcomingBlocks from '../../components/UpcomingBlocks.astro';
 import { metaText } from "../../lib/i18n_geo";
+import SiteLd from '../../components/SiteLd.astro';
 ---
 <BaseLayout
   title="Nipponexus - Japanese Festivals & Culture"
@@ -12,6 +13,7 @@ import { metaText } from "../../lib/i18n_geo";
   locale="en"
   altLang="https://nipponexus.com/"
 >
+  <SiteLd locale="en" />
   <section class="hero">
     <div class="hero-content">
       <h1 class="hero-title">Where Japan's Festivals Converge.</h1>

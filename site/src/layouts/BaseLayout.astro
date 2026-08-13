@@ -39,6 +39,7 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString(
   {altLang && <link rel="alternate" hreflang={locale === 'ja' ? 'en' : 'ja'} href={altLang} />}
   <link rel="alternate" hreflang="x-default" href={siteUrl} />
 
+  <meta property="og:site_name" content="Nipponexus" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalUrl} />
