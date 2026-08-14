@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import { valueEn } from '../../lib/i18n_value';
 let d = { generated: "", rows: [] };
 try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_corrections.json"), "utf-8")); } catch (e) {}
 const rows = d.rows.filter((r) => r.note_en);
@@ -15,7 +16,7 @@ const kinds = [...new Set(rows.map((r) => r.kind_en))];
     <section><h2>{k} ({rows.filter((r) => r.kind_en === k).length})</h2>
       <table><thead><tr><th>Subject</th><th>Before</th><th>After</th><th>Reason</th></tr></thead>
         <tbody>{rows.filter((r) => r.kind_en === k).map((r) => (
-          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "-"}</td><td>{r.new || "-"}</td><td>{r.note_en}</td></tr>))}
+          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{valueEn(r.old) || "-"}</td><td>{valueEn(r.new) || "-"}</td><td>{r.note_en}</td></tr>))}
         </tbody></table>
     </section>))}
 </BaseLayout>

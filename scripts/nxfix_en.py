@@ -11,6 +11,12 @@ KIND_EN = {
 }
 
 NOTE_EN = {
+    '根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正':
+        'The source gave the range "17 November to 4 November", which is inconsistent; the end date was corrected using the number of days stated in the article.',
+    '根拠文が現行日を7月14日と明記。古い6月の日付を採用していた':
+        'The article states that the festival is now held on July 14; the earlier value used an outdated June date.',
+    '根拠文が2018年より8月11日へ変更と明記':
+        'The article states that the date was changed to August 11 in 2018.',
     "記事の本文から一意に特定":
         "Identified unambiguously from the article text.",
     "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り":
@@ -55,13 +61,9 @@ _PREFIX = [
 ]
 
 def note_en(ja):
-    t = (ja or "").strip()
-    if t in NOTE_EN:
-        return NOTE_EN[t]
-    for a, b in _PREFIX:
-        if t.startswith(a):
-            return b + t
-    return None
+    """既知の定型文のみ英訳する。未知の文は None を返し、呼び出し側で英語行を出さない。
+    前置きだけを付けて日本語本文を残す旧フォールバックは日本語混入を生んだため撤去した。"""
+    return NOTE_EN.get((ja or "").strip())
 
 def kind_en(ja):
     return KIND_EN.get(ja, ja)

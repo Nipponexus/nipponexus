@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14 19:06",
+ "generated": "2026-08-14 19:47",
  "rows": [
   {
    "kind": "所在地の訂正",
@@ -368,7 +368,7 @@
    "new": "毎年11月17日〜11月20日",
    "note": "根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
    "note_src": "根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
-   "note_en": "Corrected from the source passage: 根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
+   "note_en": "The source gave the range \"17 November to 4 November\", which is inconsistent; the end date was corrected using the number of days stated in the article.",
    "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B",
    "at": "2026-08-11"
@@ -1376,7 +1376,7 @@
    "new": "毎年7月14日",
    "note": "根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
    "note_src": "根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
-   "note_en": "The source passage states: 根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
+   "note_en": "The article states that the festival is now held on July 14; the earlier value used an outdated June date.",
    "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%A5%AD",
    "at": "2026-08-11"
@@ -1388,7 +1388,7 @@
    "new": "毎年8月11日",
    "note": "根拠文が2018年より8月11日へ変更と明記",
    "note_src": "根拠文が2018年より8月11日へ変更と明記",
-   "note_en": "The source passage states: 根拠文が2018年より8月11日へ変更と明記",
+   "note_en": "The article states that the date was changed to August 11 in 2018.",
    "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
