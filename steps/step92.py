@@ -29,13 +29,14 @@ for c in nxt[:3]: print('   ',c['start'],c['name'],c['pref'],c['rule'])
 site={'generated':datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),'today':TODAY,'next':nxt,'annual':annual}
 json.dump(site,open(os.path.join(OUT,'site_calendar.json'),'w',encoding='utf-8'),ensure_ascii=False,indent=1)
 
+import os as _o, sys as _s; _s.path.insert(0,_o.path.join(_o.path.expanduser('~'),'nipponexus','scripts')); import nxfix
 L={'PREFFILL':'所在地の補完','DATEFIX':'開催日の訂正','DATEGUARD':'掲載見送り','pref':'所在地の訂正','canon':'名称の照合'}
 def kind(t): 
     for k,v in L.items():
         if t.startswith(k): return v
     return 'その他'
 rows=[{'kind':kind(r['tkey']),'name':r['ja'] or '','old':r['old'] or '','new':r['new'] or '',
-       'note':r['note'] or '','url':r['url'] or '','at':(r['decided_at'] or '')[:10]}
+       'note':nxfix.humanize(r['note'] or ''),'note_src':r['note'] or '','url':r['url'] or '','at':(r['decided_at'] or '')[:10]}
       for r in con.execute("select tkey,ja,old,new,note,url,decided_at from verdict_ledger order by decided_at desc")]
 rows=[r for r in rows if r['kind']!='その他' and r['name']]
 json.dump({'generated':site['generated'],'rows':rows},open(os.path.join(OUT,'site_corrections.json'),'w',encoding='utf-8'),ensure_ascii=False,indent=1)

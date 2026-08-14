@@ -14,7 +14,7 @@ const kinds = [...new Set(d.rows.map((r) => r.kind))];
     <section><h2>{k}（{d.rows.filter((r) => r.kind === k).length}件）</h2>
       <table><thead><tr><th>対象</th><th>修正前</th><th>修正後</th><th>理由</th></tr></thead>
         <tbody>{d.rows.filter((r) => r.kind === k).map((r) => (
-          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "—"}</td><td>{r.new || "—"}</td><td>{r.note}</td></tr>))}
+          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "—"}</td><td>{r.new || "—"}</td><td>{r.note}{r.note_src && r.note_src !== r.note ? <details style="margin-top:.3rem"><summary style="cursor:pointer;font-size:.85em;color:#777">照合の根拠</summary><span style="font-size:.85em;color:#777">{r.note_src}</span></details> : null}</td></tr>))}
         </tbody></table>
     </section>))}
 </BaseLayout>
