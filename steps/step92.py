@@ -36,8 +36,8 @@ def kind(t):
         if t.startswith(k): return v
     return 'その他'
 rows=[{'kind':kind(r['tkey']),'name':r['ja'] or '','old':r['old'] or '','new':r['new'] or '',
-       'note':nxfix.humanize(r['note'] or ''),'note_src':r['note'] or '','note_en':nxfix_en.note_en(nxfix.humanize(r['note'] or '')),'kind_en':nxfix_en.kind_en(kind(r['tkey'])),'url':r['url'] or '','at':(r['decided_at'] or '')[:10]}
-      for r in con.execute("select tkey,ja,old,new,note,url,decided_at from verdict_ledger order by decided_at desc")]
+       'note':nxfix.humanize(r['note'] or ''),'note_src':r['note'] or '','note_en':nxfix_en.note_en(nxfix.humanize(r['note'] or '')),'kind_en':nxfix_en.kind_en(kind(r['tkey'])),'url':(r['url'] or r['wd_url'] or (('https://www.wikidata.org/wiki/'+r['qid']) if r['qid'] else '')),'at':(r['decided_at'] or '')[:10]}
+      for r in con.execute("select tkey,ja,old,new,note,url,wd_url,qid,decided_at from verdict_ledger order by decided_at desc")]
 rows=[r for r in rows if r['kind']!='その他' and r['name']]
 json.dump({'generated':site['generated'],'rows':rows},open(os.path.join(OUT,'site_corrections.json'),'w',encoding='utf-8'),ensure_ascii=False,indent=1)
 from collections import Counter
