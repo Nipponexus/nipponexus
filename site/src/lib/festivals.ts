@@ -1,4 +1,5 @@
 import { prefEn } from './i18n_geo';
+import { withThumb } from './img_thumb';
 import Database from 'better-sqlite3';
 import path from 'path';
 
@@ -48,7 +49,7 @@ export function getDraftedFestivals(locale: 'ja' | 'en'): Festival[] {
   `);
   const rows = stmt.all() as Festival[];
   db.close();
-  return rows;
+  return withThumb(rows);
 }
 
 export function getFestivalBySlug(slug: string, locale: 'ja' | 'en'): Festival | null {
@@ -74,7 +75,7 @@ export function getAllFestivalsForIndex(locale: 'ja' | 'en'): Festival[] {
   `);
   const rows = stmt.all() as Festival[];
   db.close();
-  return rows;
+  return withThumb(rows);
 }
 
 export interface GroupedFestivals {
@@ -181,7 +182,7 @@ export function getRelatedByPrefecture(
   `);
   const rows = stmt.all(prefecture, excludeQid, limit) as Festival[];
   db.close();
-  return rows;
+  return withThumb(rows);
 }
 
 /**
@@ -208,7 +209,7 @@ export function getRelatedBySeason(
   `);
   const rows = stmt.all(season, excludeQid, limit) as Festival[];
   db.close();
-  return rows;
+  return withThumb(rows);
 }
 
 export interface EventEnd {

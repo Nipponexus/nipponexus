@@ -1,8 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getDraftedFestivals } from '../lib/festivals';
+import { getFeaturedFestivals } from '../lib/featured';
 
-const festivals = getDraftedFestivals('ja');
+const festivals = getFeaturedFestivals('ja', 3);
 import UpcomingBlocks from '../components/UpcomingBlocks.astro';
 import { metaText } from "../lib/i18n_geo";
 import SiteLd from '../components/SiteLd.astro';
@@ -27,6 +27,8 @@ import SiteLd from '../components/SiteLd.astro';
     </div>
     <div class="hero-scroll">↓ Scroll</div>
   </section>
+
+  <UpcomingBlocks locale="ja" />
 
   <section class="section bg-seigaiha">
     <div class="container">
@@ -99,5 +101,4 @@ import SiteLd from '../components/SiteLd.astro';
       <a href="/en/" class="btn btn-outline" style="margin-top:1rem;">English Version →</a>
     </div>
   </section>
-  <UpcomingBlocks locale="ja" />
 </BaseLayout>
