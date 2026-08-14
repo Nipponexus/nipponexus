@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14 12:57",
+ "generated": "2026-08-14 19:06",
  "today": "2026-08-14",
  "next": [
   {
@@ -480,8 +480,8 @@
    "end": "",
    "rule": "毎年3月20日",
    "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
+   "slug": "koga-peach-festival",
+   "slug_en": "koga-peach-festival",
    "name_en": "Koga Peach Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E6%A1%83%E3%81%BE%E3%81%A4%E3%82%8A"
   },

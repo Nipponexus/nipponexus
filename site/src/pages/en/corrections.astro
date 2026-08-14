@@ -1,0 +1,21 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+let d = { generated: "", rows: [] };
+try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_corrections.json"), "utf-8")); } catch (e) {}
+const rows = d.rows.filter((r) => r.note_en);
+const kinds = [...new Set(rows.map((r) => r.kind_en))];
+---
+<BaseLayout title="Corrections and verification log | Nipponexus" description="Errors found during pre-publication checks, and entries withheld because no confirmation could be obtained." locale="en" altLang="https://nipponexus.com/corrections/">
+  <h1>Corrections and verification log</h1>
+  <p>{rows.length} entries / updated {d.generated}</p>
+  <p>Before publishing we cross-check each entry against both the article text and Wikidata. Where only one of the two confirms a value, we do not use it and record the case here.</p>
+  {kinds.map((k) => (
+    <section><h2>{k} ({rows.filter((r) => r.kind_en === k).length})</h2>
+      <table><thead><tr><th>Subject</th><th>Before</th><th>After</th><th>Reason</th></tr></thead>
+        <tbody>{rows.filter((r) => r.kind_en === k).map((r) => (
+          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "-"}</td><td>{r.new || "-"}</td><td>{r.note_en}</td></tr>))}
+        </tbody></table>
+    </section>))}
+</BaseLayout>

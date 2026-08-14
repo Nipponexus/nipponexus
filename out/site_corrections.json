@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14 12:57",
+ "generated": "2026-08-14 19:06",
  "rows": [
   {
    "kind": "所在地の訂正",
@@ -8,6 +8,8 @@
    "new": "大分県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11267368",
    "at": "20260811_0"
   },
@@ -18,6 +20,8 @@
    "new": "静岡県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 山梨県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11455990",
    "at": "20260811_0"
   },
@@ -28,6 +32,8 @@
    "new": "福岡県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11556000",
    "at": "20260811_0"
   },
@@ -38,6 +44,8 @@
    "new": "愛知県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 山形県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q28691756",
    "at": "20260811_0"
   },
@@ -48,6 +56,8 @@
    "new": "千葉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 福岡県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q38277378",
    "at": "20260811_0"
   },
@@ -58,6 +68,8 @@
    "new": "兵庫県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q56010148",
    "at": "20260811_0"
   },
@@ -68,6 +80,8 @@
    "new": "愛知県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+Wikidata P131 による二系統確認。旧値 三重県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q64539503",
    "at": "20260811_0"
   },
@@ -78,6 +92,8 @@
    "new": "茨城県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11361495",
    "at": "20260811_0"
   },
@@ -88,6 +104,8 @@
    "new": "埼玉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 徳島県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11408464",
    "at": "20260811_0"
   },
@@ -98,6 +116,8 @@
    "new": "埼玉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 高知県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11425142",
    "at": "20260811_0"
   },
@@ -108,6 +128,8 @@
    "new": "千葉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11463659",
    "at": "20260811_0"
   },
@@ -118,6 +140,8 @@
    "new": "群馬県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 青森県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11465151",
    "at": "20260811_0"
   },
@@ -128,6 +152,8 @@
    "new": "山口県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 大阪府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11466745",
    "at": "20260811_0"
   },
@@ -138,6 +164,8 @@
    "new": "山口県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11467395",
    "at": "20260811_0"
   },
@@ -148,6 +176,8 @@
    "new": "埼玉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11538304",
    "at": "20260811_0"
   },
@@ -158,6 +188,8 @@
    "new": "富山県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 京都府 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11549648",
    "at": "20260811_0"
   },
@@ -168,6 +200,8 @@
    "new": "千葉県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 東京都 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q11558195",
    "at": "20260811_0"
   },
@@ -178,6 +212,8 @@
    "new": "福島県",
    "note": "記事冒頭の記述とウィキデータの二経路で所在地を確認。旧来の値は祭りの名称から推測された誤り",
    "note_src": "jawiki導入部+市区町村の独立照会(CITYCHAIN) による二系統確認。旧値 山口県 は祭名から本家所在地を引き当てた推測誤り。",
+   "note_en": "Location confirmed via two independent routes: the opening passage of the article and Wikidata. The earlier value was an error inferred from the festival's name.",
+   "kind_en": "Location corrections",
    "url": "https://www.wikidata.org/wiki/Q30928431",
    "at": "20260811_0"
   },
@@ -188,6 +224,8 @@
    "new": "福島県",
    "note": "記事冒頭に郡を含む住所が記されているため、郡名を除いた自治体名で照合し、その自治体が属する県を確認",
    "note_src": "jawiki導入部『福島県南会津郡南会津町』。郡名を剥がした照会経路 南会津町 -> Q1205058 -> P131 で帰属県 福島県 を確認。旧値 京都府 は推測誤り。",
+   "note_en": "The article's opening gives an address including the district (gun); we matched on the municipality name with the district removed and confirmed the prefecture that municipality belongs to.",
+   "kind_en": "Location corrections",
    "url": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD",
    "at": "20260811_0"
   },
@@ -198,6 +236,8 @@
    "new": "三重県",
    "note": "記事冒頭に郡を含む住所が記されているため、郡名を除いた自治体名で照合し、その自治体が属する県を確認",
    "note_src": "jawiki導入部『三重県多気郡明和町』。郡名を剥がした照会経路 明和町 (三重県) -> Q1203258 -> P131 で帰属県 三重県 を確認。旧値 京都府 は推測誤り。",
+   "note_en": "The article's opening gives an address including the district (gun); we matched on the municipality name with the district removed and confirmed the prefecture that municipality belongs to.",
+   "kind_en": "Location corrections",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B7%80%E7%A5%87%E5%9C%92%E7%A5%AD",
    "at": "20260811_0"
   },
@@ -208,6 +248,8 @@
    "new": "茨城県",
    "note": "記事冒頭に郡を含む住所が記されているため、郡名を除いた自治体名で照合し、その自治体が属する県を確認",
    "note_src": "jawiki導入部『茨城県東茨城郡茨城町』。郡名を剥がした照会経路 茨城町 -> Q1203390 -> P131 で帰属県 茨城県 を確認。旧値 京都府 は推測誤り。",
+   "note_en": "The article's opening gives an address including the district (gun); we matched on the municipality name with the district removed and confirmed the prefecture that municipality belongs to.",
+   "kind_en": "Location corrections",
    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%B6%B4%E7%A5%87%E5%9C%92%E7%A5%AD",
    "at": "20260811_0"
   },
@@ -218,6 +260,8 @@
    "new": "埼玉県",
    "note": "記事冒頭に郡を含む住所が記されているため、郡名を除いた自治体名で照合し、その自治体が属する県を確認",
    "note_src": "jawiki導入部『埼玉県比企郡小川町』。郡名を剥がした照会経路 小川町 -> Q935037 -> P131 で帰属県 埼玉県 を確認。旧値 群馬県 は推測誤り。",
+   "note_en": "The article's opening gives an address including the district (gun); we matched on the municipality name with the district removed and confirmed the prefecture that municipality belongs to.",
+   "kind_en": "Location corrections",
    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E7%94%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "20260811_0"
   },
@@ -228,6 +272,8 @@
    "new": "Tōdai-ji",
    "note": "人物の所属先を示す表記のため、正式表記に統一",
    "note_src": "REFERENCE_APPOSITIVE_v1: 『Roben of Todaiji』=人物の所属先 || Its source is said to lie in the Shushoe rite founded by Jitchu Shonin, a high disciple of the priest Roben of Todaiji.",
+   "note_en": "The wording indicates a person's affiliation, so the official romanisation is used.",
+   "kind_en": "Name verification",
    "url": "https://en.wikipedia.org/wiki/Tōdai-ji",
    "at": "20260810_1"
   },
@@ -238,6 +284,8 @@
    "new": "Kōfuku-ji",
    "note": "同一文中の他の寺社が正式表記のため、表記を統一",
    "note_src": "SIBLING_COHERENCE_v1: 同一文に正式形 Tōdai-ji,Kasuga-taisha || Within walking distance of the park lie world heritage-listed temples and shrines such as Tōdai-ji Temple, Kofukuji Temple, and Kasuga-taisha Shrine, making this an ideal area for immersing oneself in ancient Japanese culture.",
+   "note_en": "Other temples and shrines in the same sentence use the official romanisation, so it was made consistent.",
+   "kind_en": "Name verification",
    "url": "https://en.wikipedia.org/wiki/Kōfuku-ji",
    "at": "20260810_1"
   },
@@ -248,6 +296,8 @@
    "new": "",
    "note": "記念日であり祭りではない",
    "note_src": "記念日であり祭りではない",
+   "note_en": "A commemorative day, not a festival.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%81%E3%83%A5%E3%82%A2%E7%84%A1%E7%B7%9A%E3%81%AE%E6%97%A5",
    "at": "2026-08-11"
   },
@@ -258,6 +308,8 @@
    "new": "",
    "note": "記念日であり祭りではない",
    "note_src": "記念日であり祭りではない",
+   "note_en": "A commemorative day, not a festival.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E3%81%AE%E6%97%A5",
    "at": "2026-08-11"
   },
@@ -268,6 +320,8 @@
    "new": "",
    "note": "盆の風習の総称であり個別の祭りではない",
    "note_src": "盆の風習の総称であり個別の祭りではない",
+   "note_en": "A general term for Bon customs rather than a specific festival.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E8%BF%8E%E3%81%88%E7%81%AB",
    "at": "2026-08-11"
   },
@@ -278,6 +332,8 @@
    "new": "",
    "note": "祭りの参加団体（流）であり祭りではない",
    "note_src": "祭りの参加団体（流）であり祭りではない",
+   "note_en": "A participating group (nagare) within a festival, not a festival itself.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%81",
    "at": "2026-08-11"
   },
@@ -288,6 +344,8 @@
    "new": "",
    "note": "記事内容がえびす講（年中行事の総称）でラベルと不一致",
    "note_src": "記事内容がえびす講（年中行事の総称）でラベルと不一致",
+   "note_en": "The article covers Ebisu-ko, a general annual observance, which does not match the label.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99",
    "at": "2026-08-11"
   },
@@ -298,6 +356,8 @@
    "new": "",
    "note": "地域一帯の火祭りの総称で開催日が一定でない",
    "note_src": "地域一帯の火祭りの総称で開催日が一定でない",
+   "note_en": "A collective term for fire festivals across a region, with no fixed date.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E4%B8%8A%E3%81%92",
    "at": "2026-08-11"
   },
@@ -308,6 +368,8 @@
    "new": "毎年11月17日〜11月20日",
    "note": "根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
    "note_src": "根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
+   "note_en": "Corrected from the source passage: 根拠文の「11月17日〜11月4日」を「N日間」の記述から訂正",
+   "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B",
    "at": "2026-08-11"
   },
@@ -318,6 +380,8 @@
    "new": "宮崎県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E8%B5%B7%E3%81%8D%E3%82%88%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -328,6 +392,8 @@
    "new": "長野県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%88%B9%E7%A5%AD%E3%82%8A_(%E9%A0%88%E3%80%85%E5%B2%90%E6%B0%B4%E7%A5%9E%E7%A4%BE)",
    "at": "2026-08-11"
   },
@@ -338,6 +404,8 @@
    "new": "神奈川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A4%E3%81%8E%E9%AE%8E%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -348,6 +416,8 @@
    "new": "大分県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%99%E3%81%8D%E7%AB%B9%E5%AE%B5",
    "at": "2026-08-11"
   },
@@ -358,6 +428,8 @@
    "new": "福岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8D%E3%81%84%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -368,6 +440,8 @@
    "new": "長崎県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB",
    "at": "2026-08-11"
   },
@@ -378,6 +452,8 @@
    "new": "愛知県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%93%E3%81%A0%E5%B1%B1%E8%BB%8A%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -388,6 +464,8 @@
    "new": "愛媛県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%84%E3%81%AF%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -398,6 +476,8 @@
    "new": "京都府",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%84%E3%81%B9%E6%B0%B4%E7%84%A1%E6%9C%88%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -408,6 +488,8 @@
    "new": "福岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B1%8B%E7%A5%87%E5%9C%92",
    "at": "2026-08-11"
   },
@@ -418,6 +500,8 @@
    "new": "石川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%9C%8B%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%B7%9D%E5%8C%97%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -428,6 +512,8 @@
    "new": "大分県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -438,6 +524,8 @@
    "new": "京都府",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8E%E3%81%AE%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -448,6 +536,8 @@
    "new": "三重県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%B1%85%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -458,6 +548,8 @@
    "new": "岡山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B8%96%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -468,6 +560,8 @@
    "new": "福島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E6%97%A5%E5%A0%82%E8%A3%B8%E3%81%BE%E3%81%84%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -478,6 +572,8 @@
    "new": "岐阜県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E9%BC%BB%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -488,6 +584,8 @@
    "new": "京都府",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B1%B1%E3%81%AE%E6%9D%BE%E6%98%8E",
    "at": "2026-08-11"
   },
@@ -498,6 +596,8 @@
    "new": "京都府",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B9%E3%81%A3%E3%81%95%E3%82%93",
    "at": "2026-08-11"
   },
@@ -508,6 +608,8 @@
    "new": "石川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%84%E3%81%93%E3%81%84%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -518,6 +620,8 @@
    "new": "福島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E5%A4%AB%E4%B8%89%E5%B1%B1%E6%9A%81%E3%81%BE%E3%81%84%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -528,6 +632,8 @@
    "new": "北海道",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%94%BA%E5%A4%9C%E9%AB%98%E3%81%82%E3%82%93%E3%81%A9%E3%82%93%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -538,6 +644,8 @@
    "new": "新潟県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%A1%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -548,6 +656,8 @@
    "new": "静岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -558,6 +668,8 @@
    "new": "静岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -568,6 +680,8 @@
    "new": "山形県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E9%9B%AA%E7%81%AF%E7%AF%AD%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -578,6 +692,8 @@
    "new": "山形県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A%E6%9C%80%E4%B8%8A%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -588,6 +704,8 @@
    "new": "山形県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -598,6 +716,8 @@
    "new": "秋田県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -608,6 +728,8 @@
    "new": "山口県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E4%B8%83%E5%A4%95%E3%81%A1%E3%82%87%E3%81%86%E3%81%A1%E3%82%93%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -618,6 +740,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -628,6 +752,8 @@
    "new": "鹿児島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%86%85%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -638,6 +764,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97",
    "at": "2026-08-11"
   },
@@ -648,6 +776,8 @@
    "new": "大分県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%A7%AB%E5%B3%B6%E7%9B%86%E8%B8%8A%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -658,6 +788,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -668,6 +800,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%96%B9%E5%AD%90%E4%BE%9B%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -678,6 +812,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%81%95%E3%82%93%E3%81%BE%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -688,6 +824,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E5%85%AB%E5%B9%A1%E5%AE%AE%E6%98%A5%E5%AD%A3%E7%A5%AD%E7%A4%BC",
    "at": "2026-08-11"
   },
@@ -698,6 +836,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%84%E3%82%84%E3%81%95%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -708,6 +848,8 @@
    "new": "福島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%A9%8D%E5%9B%BD%E9%80%A0%E7%A5%9E%E7%A4%BE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -718,6 +860,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%87%BA%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -728,6 +872,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -738,6 +884,8 @@
    "new": "岩手県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E7%81%AB%E9%98%B2%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -748,6 +896,8 @@
    "new": "岐阜県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E3%83%8E%E4%B8%8A%E3%81%BF%E3%81%9D%E3%81%8E%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -758,6 +908,8 @@
    "new": "滋賀県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E6%9B%B3%E5%B1%B1%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -768,6 +920,8 @@
    "new": "兵庫県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -778,6 +932,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%80%81%E6%B1%9F%E6%9B%B3%E5%B1%B1%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -788,6 +944,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E7%81%AB%E7%89%9B%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -798,6 +956,8 @@
    "new": "福岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%84%E3%81%BE%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -808,6 +968,8 @@
    "new": "石川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E3%83%87%E3%82%AB%E6%9B%B3%E5%B1%B1",
    "at": "2026-08-11"
   },
@@ -818,6 +980,8 @@
    "new": "広島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%B1%B1%E5%BB%BF%E6%97%A5%E3%81%88%E3%81%B3%E3%81%99",
    "at": "2026-08-11"
   },
@@ -828,6 +992,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E9%87%8E%E5%A4%9C%E9%AB%98%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -838,6 +1004,8 @@
    "new": "広島県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E5%9C%B0%E6%98%A5%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -848,6 +1016,8 @@
    "new": "石川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -858,6 +1028,8 @@
    "new": "愛知県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E7%94%BA%E5%87%BA%E6%9D%A5%E7%94%BA%E5%A4%A9%E7%8E%8B%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -868,6 +1040,8 @@
    "new": "神奈川県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A",
    "at": "2026-08-11"
   },
@@ -878,6 +1052,8 @@
    "new": "滋賀県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%8A%B1%E7%81%AB",
    "at": "2026-08-11"
   },
@@ -888,6 +1064,8 @@
    "new": "新潟県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -898,6 +1076,8 @@
    "new": "秋田県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E4%BB%A3%E5%BD%B9%E4%B8%83%E5%A4%95",
    "at": "2026-08-11"
   },
@@ -908,6 +1088,8 @@
    "new": "静岡県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -918,6 +1100,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%80%AC%E6%9B%B3%E5%B1%B1%E8%BB%8A%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -928,6 +1112,8 @@
    "new": "富山県",
    "note": "記事の本文から一意に特定",
    "note_src": "記事の本文から一意に特定",
+   "note_en": "Identified unambiguously from the article text.",
+   "kind_en": "Location added",
    "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%A0%82%E5%B1%B1%E9%A1%98%E5%BF%B5%E5%9D%8A%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -938,6 +1124,8 @@
    "new": "",
    "note": "毎年開催ではない（隔年・数年に一度）",
    "note_src": "毎年開催ではない（隔年・数年に一度）",
+   "note_en": "Not held every year (biennial or once every few years).",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E7%A5%AD_(%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA)",
    "at": "2026-08-11"
   },
@@ -948,6 +1136,8 @@
    "new": "",
    "note": "抽出元が過去の開催日を述べている（旧暦記述あり）",
    "note_src": "抽出元が過去の開催日を述べている（旧暦記述あり）",
+   "note_en": "The source passage describes a past date (stated on the lunar calendar).",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%94%B0%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -958,6 +1148,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E9%9B%9B%E7%A5%AD%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -968,6 +1160,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86",
    "at": "2026-08-11"
   },
@@ -978,6 +1172,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95",
    "at": "2026-08-11"
   },
@@ -988,6 +1184,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "",
    "at": "2026-08-11"
   },
@@ -998,6 +1196,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E5%A4%95_(%E6%97%A5%E6%9C%AC)",
    "at": "2026-08-11"
   },
@@ -1008,6 +1208,8 @@
    "new": "",
    "note": "毎年開催ではない（隔年・数年に一度）",
    "note_src": "毎年開催ではない（隔年・数年に一度）",
+   "note_en": "Not held every year (biennial or once every few years).",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%93%E3%81%A0%E5%B1%B1%E8%BB%8A%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -1018,6 +1220,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%85%83%E5%A7%8B%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -1028,6 +1232,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E4%BA%8C%E5%8D%81%E6%97%A5",
    "at": "2026-08-11"
   },
@@ -1038,6 +1244,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%85%A5%E6%A2%85",
    "at": "2026-08-11"
   },
@@ -1048,6 +1256,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5",
    "at": "2026-08-11"
   },
@@ -1058,6 +1268,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%A4%8F%E7%94%9F",
    "at": "2026-08-11"
   },
@@ -1068,6 +1280,8 @@
    "new": "",
    "note": "抽出元が過去の開催日を述べている（旧暦記述あり）",
    "note_src": "抽出元が過去の開催日を述べている（旧暦記述あり）",
+   "note_en": "The source passage describes a past date (stated on the lunar calendar).",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -1078,6 +1292,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%94%B5%E7%9B%86",
    "at": "2026-08-11"
   },
@@ -1088,6 +1304,8 @@
    "new": "",
    "note": "期間限定・試験的な日程",
    "note_src": "期間限定・試験的な日程",
+   "note_en": "A limited-run or trial schedule.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%89%8B%E3%81%AE%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -1098,6 +1316,8 @@
    "new": "",
    "note": "特定年の告知のみで毎年性の根拠なし",
    "note_src": "特定年の告知のみで毎年性の根拠なし",
+   "note_en": "Only an announcement for a specific year; no evidence that it recurs annually.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B4%A5%E5%AE%89%E4%BA%8C%E9%83%8E%E8%A8%98%E5%BF%B5%E8%93%BC%E7%A7%91%E9%AB%98%E5%8E%9F%E6%98%A0%E7%94%BB%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -1108,6 +1328,8 @@
    "new": "",
    "note": "毎年開催ではない（隔年・数年に一度）",
    "note_src": "毎年開催ではない（隔年・数年に一度）",
+   "note_en": "Not held every year (biennial or once every few years).",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E3%81%AE%E5%85%AB%E6%9C%88%E8%B8%8A%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -1118,6 +1340,8 @@
    "new": "",
    "note": "暦の行事・まとめ記事で個別の開催日を持たない",
    "note_src": "暦の行事・まとめ記事で個別の開催日を持たない",
+   "note_en": "A calendrical observance or overview article with no single date of its own.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%AD%A3%E6%9C%88",
    "at": "2026-08-11"
   },
@@ -1128,6 +1352,8 @@
    "new": "",
    "note": "途中で開催日が変更された記述あり",
    "note_src": "途中で開催日が変更された記述あり",
+   "note_en": "The article notes that the date was changed at some point.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E5%A4%A9%E7%9A%87%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -1138,6 +1364,8 @@
    "new": "",
    "note": "抽出元が過去の開催日を述べている",
    "note_src": "抽出元が過去の開催日を述べている",
+   "note_en": "The source passage describes a past date.",
+   "kind_en": "Withheld from publication",
    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   },
@@ -1148,6 +1376,8 @@
    "new": "毎年7月14日",
    "note": "根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
    "note_src": "根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
+   "note_en": "The source passage states: 根拠文が現行日を7月14日と明記。古い6月の日付を採用していた",
+   "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E6%89%87%E7%A5%AD",
    "at": "2026-08-11"
   },
@@ -1158,6 +1388,8 @@
    "new": "毎年8月11日",
    "note": "根拠文が2018年より8月11日へ変更と明記",
    "note_src": "根拠文が2018年より8月11日へ変更と明記",
+   "note_en": "The source passage states: 根拠文が2018年より8月11日へ変更と明記",
+   "kind_en": "Date corrections",
    "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%96%87%E5%AD%97%E3%81%BE%E3%81%A4%E3%82%8A",
    "at": "2026-08-11"
   }

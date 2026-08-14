@@ -6,7 +6,7 @@ let d = { generated: "", rows: [] };
 try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_corrections.json"), "utf-8")); } catch (e) {}
 const kinds = [...new Set(d.rows.map((r) => r.kind))];
 ---
-<BaseLayout title="訂正と検証の記録 | Nipponexus" description="掲載前の照合で見つかった誤りと、確証が得られず掲載を見送った項目の記録です。" locale="ja">
+<BaseLayout title="訂正と検証の記録 | Nipponexus" description="掲載前の照合で見つかった誤りと、確証が得られず掲載を見送った項目の記録です。" locale="ja" altLang="https://nipponexus.com/en/corrections/">
   <h1>訂正と検証の記録</h1>
   <p>{d.rows.length} 件 / 更新 {d.generated}</p>
   <p>掲載前に記事本文とウィキデータの二経路で照合し、一方でしか裏が取れない場合は採用せず記録しています。</p>
@@ -14,7 +14,7 @@ const kinds = [...new Set(d.rows.map((r) => r.kind))];
     <section><h2>{k}（{d.rows.filter((r) => r.kind === k).length}件）</h2>
       <table><thead><tr><th>対象</th><th>修正前</th><th>修正後</th><th>理由</th></tr></thead>
         <tbody>{d.rows.filter((r) => r.kind === k).map((r) => (
-          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "—"}</td><td>{r.new || "—"}</td><td>{r.note}{r.note_src && r.note_src !== r.note ? <details style="margin-top:.3rem"><summary style="cursor:pointer;font-size:.85em;color:#777">照合の根拠</summary><span style="font-size:.85em;color:#777">{r.note_src}</span></details> : null}</td></tr>))}
+          <tr><td>{r.url ? <a href={r.url}>{r.name}</a> : r.name}</td><td>{r.old || "—"}</td><td>{r.new || "—"}</td><td>{r.note}</td></tr>))}
         </tbody></table>
     </section>))}
 </BaseLayout>

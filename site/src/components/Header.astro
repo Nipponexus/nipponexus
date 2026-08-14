@@ -14,7 +14,7 @@ const altLangPath = isJa ? '/en/' : '/';
     <nav class="site-nav">
       <a href={indexPath}>{isJa ? '索引' : 'Index'}</a>
       <a href={isJa ? '/calendar/' : '/en/calendar/'}>{isJa ? 'カレンダー' : 'Calendar'}</a>
-      {isJa && <a href="/corrections/">訂正記録</a>}
+      <a href={isJa ? '/corrections/' : '/en/corrections/'}>{isJa ? '訂正記録' : 'Corrections'}</a>
       <a href={homePath}>{isJa ? 'ホーム' : 'Home'}</a>
       <a href={altLangPath} class="lang-switch">{isJa ? 'EN' : '日本語'}</a>
     </nav>
