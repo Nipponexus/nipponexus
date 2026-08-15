@@ -4,7 +4,7 @@ import Breadcrumb from '../components/Breadcrumb.astro';
 import { seoTitle, seoDesc } from '../lib/seo_meta';
 import type { Festival } from '../lib/festivals';
 import { getRelatedByPrefecture, getRelatedBySeason, getEventEnd } from '../lib/festivals';
-import { prefEn } from '../data/pref_en';
+import { prefEn } from '../lib/i18n_geo';
 import { eventLd } from '../lib/event_ld';
 
 interface Props {
