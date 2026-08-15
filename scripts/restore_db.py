@@ -18,8 +18,8 @@ if not DUMP_FILE.exists():
 import os
 if DB_FILE.exists() and DUMP_FILE.exists() and not os.environ.get("NX_FORCE_RESTORE"):
     if DB_FILE.stat().st_mtime > DUMP_FILE.stat().st_mtime:
-        print("[ABORT] DB is newer than dump. Set NX_FORCE_RESTORE=1 to override.", file=sys.stderr)
-        sys.exit(1)
+        print("[SKIP] DB is newer than dump; keeping the local DB (no restore needed).")
+        sys.exit(0)
 
 if DB_FILE.exists():
     DB_FILE.unlink()

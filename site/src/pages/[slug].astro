@@ -1,7 +1,7 @@
 ---
 import FestivalLayout from '../layouts/FestivalLayout.astro';
 import { getDraftedFestivals, getFestivalBySlug } from '../lib/festivals';
-import { marked } from 'marked';
+import { mdToHtml } from '../lib/md';
 
 export async function getStaticPaths() {
   const festivals = getDraftedFestivals('ja');
@@ -11,6 +11,6 @@ export async function getStaticPaths() {
 const { slug } = Astro.params;
 const festival = getFestivalBySlug(slug!, 'ja');
 if (!festival) return Astro.redirect('/404');
-const contentHtml = festival.manual_content_ja ? marked.parse(festival.manual_content_ja) : '';
+const contentHtml = festival.manual_content_ja ? mdToHtml(festival.manual_content_ja) : '';
 ---
 <FestivalLayout festival={festival} locale="ja" contentHtml={contentHtml as string} />
