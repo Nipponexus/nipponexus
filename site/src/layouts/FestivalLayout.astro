@@ -27,14 +27,29 @@ const ee = getEventEnd(festival.qid);
 const KIND: Record<string, [string, string]> = {
   '終了': ['終了', 'Ended'], '休止': ['休止', 'Suspended'], '改称': ['改称', 'Renamed'],
 };
-const kj = ee?.kind ? (KIND[ee.kind] ?? [ee.kind, ee.kind]) : null;
+const kj = ee?.kind ? (KIND[ee.kind] ?? [ee.kind, ee.kind]) : ['', ''];
+const eeNote: string | null = (() => {
+  if (!ee?.kind) return null;
+  const y = ee.end_year ?? null;
+  const su = (ee as any).successor_label || null;
+  if (ee.kind === '終了') return isJa
+    ? `このイベントは${y ? y + '年をもって' : ''}終了しています。以下は開催当時の記録です。`
+    : `This event ended${y ? ' in ' + y : ''}. The following describes it as it was held.`;
+  if (ee.kind === '休止') return isJa
+    ? `このイベントは${y ? y + '年以降' : '現在'}休止しています。最新の開催可否は公式発表をご確認ください。`
+    : `This event has been suspended${y ? ' since ' + y : ''}. Please check official announcements for the latest status.`;
+  if (ee.kind === '改称') return isJa
+    ? `このイベントは${y ? y + '年に' : ''}${su ? su + 'へ' : ''}改称されました。`
+    : `This event was renamed${su ? ' to ' + su : ''}${y ? ' in ' + y : ''}.`;
+  return null;
+})();
 let periodLabel: string | null = null;
 if (festival.inception_year && ee?.end_year) {
   periodLabel = isJa
-    ? `${festival.inception_year}年〜${ee.end_year}年（${kj![0]}）`
-    : `${festival.inception_year}–${ee.end_year} (${kj![1]})`;
+    ? `${festival.inception_year}年〜${ee.end_year}年（${kj[0]}）`
+    : `${festival.inception_year}–${ee.end_year} (${kj[1]})`;
 } else if (ee?.end_year) {
-  periodLabel = isJa ? `${ee.end_year}年${kj![0]}` : `${kj![1]} ${ee.end_year}`;
+  periodLabel = isJa ? `${ee.end_year}年${kj[0]}` : `${kj[1]} ${ee.end_year}`;
 } else if (festival.inception_year) {
   periodLabel = isJa ? `${festival.inception_year}年〜` : `Since ${festival.inception_year}`;
 }
@@ -98,6 +113,16 @@ const seasonLinkLabel = seasonLabel;
         {prefectureLabel && prefectureLabel !== locationLabel && <span>🗾 {prefectureLabel}</span>}
         {seasonLabel && <span>🍃 {seasonLabel}</span>}
         {periodLabel && <span>📜 {periodLabel}</span>}
+      </div>
+    </div>
+  </section>
+  {eeNote && (
+    <aside class="ee-note" role="note" style="max-width:var(--content-width,760px);margin:1rem auto 0;padding:0.8rem 1rem;border-left:4px solid #c0392b;background:#fdf3f2;font-size:0.9rem;line-height:1.7;">
+      <strong>{isJa ? 'ご注意' : 'Please note'}</strong>: {eeNote}
+    </aside>
+  )}
+  <section style="display:none;">
+    <div><div>
       </div>
     </div>
   </section>

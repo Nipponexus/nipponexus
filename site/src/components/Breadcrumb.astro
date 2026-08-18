@@ -19,8 +19,8 @@ const ld = {
       "@type": "ListItem", position: i + 1, name: it.n,
       item: `https://nipponexus.com${it.u}`,
     })),
-    ...(pref ? [{ "@type": "ListItem", position: items.length + 1, name: pref }] : []),
-    { "@type": "ListItem", position: items.length + (pref ? 2 : 1), name },
+    // pref omitted from JSON-LD: no canonical URL (item required for non-last items)
+    { "@type": "ListItem", position: items.length + 1, name },
   ],
 };
 ---
