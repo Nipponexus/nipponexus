@@ -1,20 +1,7 @@
 {
- "generated": "2026-08-18 23:00",
- "today": "2026-08-18",
+ "generated": "2026-08-19 23:00",
+ "today": "2026-08-19",
  "next": [
-  {
-   "qid": "Q11352731",
-   "name": "一日市の盆踊",
-   "pref": "秋田県",
-   "start": "2026-08-18",
-   "end": "2026-08-20",
-   "rule": "毎年8月18日〜8月20日",
-   "conf": "fixed_rule",
-   "slug": "hitoichi-no-bon-odori",
-   "slug_en": "hitoichi-no-bon-odori",
-   "name_en": "Hitoichi no Bon-odori",
-   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%97%A5%E5%B8%82%E3%81%AE%E7%9B%86%E8%B8%8A"
-  },
   {
    "qid": "Q11577736",
    "name": "甲山廿日えびす",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Murayama Tokunai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%82%89%E3%82%84%E3%81%BE%E5%BE%B3%E5%86%85%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q720663",
+   "name": "浅草サンバカーニバル",
+   "pref": "東京都",
+   "start": "2026-08-29",
+   "end": "",
+   "rule": "毎年8月最終土曜日",
+   "conf": "rule_only",
+   "slug": "asakusa-samba-carnival",
+   "slug_en": "asakusa-samba-carnival",
+   "name_en": "Samba Carnival of Asakusa",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%B5%E3%83%B3%E3%83%90%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB"
   }
  ],
  "annual": [
