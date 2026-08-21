@@ -1,33 +1,7 @@
 {
- "generated": "2026-08-20 23:00",
- "today": "2026-08-20",
+ "generated": "2026-08-21 23:00",
+ "today": "2026-08-21",
  "next": [
-  {
-   "qid": "Q17225609",
-   "name": "おべっさん",
-   "pref": "京都府",
-   "start": "2026-08-20",
-   "end": "",
-   "rule": "毎年8月20日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B9%E3%81%A3%E3%81%95%E3%82%93"
-  },
-  {
-   "qid": "Q11563560",
-   "name": "湯布院映画祭",
-   "pref": "大分県",
-   "start": "2026-08-20",
-   "end": "",
-   "rule": "毎年8月第3木曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Yufuin Film Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B8%83%E9%99%A2%E6%98%A0%E7%94%BB%E7%A5%AD"
-  },
   {
    "qid": "Q11547768",
    "name": "毛馬内の盆踊",
@@ -157,6 +131,32 @@
    "slug_en": "",
    "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
+  },
+  {
+   "qid": "Q2071242",
+   "name": "おわら風の盆",
+   "pref": "富山県",
+   "start": "2026-09-01",
+   "end": "2026-09-03",
+   "rule": "毎年9月1日〜9月3日",
+   "conf": "fixed_rule",
+   "slug": "owara-kaze-no-bon",
+   "slug_en": "owara-kaze-no-bon",
+   "name_en": "Kaze no bon",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%8F%E3%82%89%E9%A2%A8%E3%81%AE%E7%9B%86"
+  },
+  {
+   "qid": "Q18337572",
+   "name": "中条祭り",
+   "pref": "新潟県",
+   "start": "2026-09-03",
+   "end": "2026-09-06",
+   "rule": "毎年9月3日〜9月6日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%A1%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
