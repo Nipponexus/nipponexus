@@ -1,20 +1,7 @@
 {
- "generated": "2026-09-20 23:00",
- "today": "2026-09-20",
+ "generated": "2026-09-21 23:00",
+ "today": "2026-09-21",
  "next": [
-  {
-   "qid": "Q109598617",
-   "name": "お熊甲祭",
-   "pref": "石川県",
-   "start": "2026-09-20",
-   "end": "",
-   "rule": "毎年9月20日",
-   "conf": "rule_only",
-   "slug": "okuma-kabuto-festival",
-   "slug_en": "okuma-kabuto-festival",
-   "name_en": "Okuma Kabuto Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E7%86%8A%E7%94%B2%E7%A5%AD"
-  },
   {
    "qid": "Q4947265",
    "name": "藤崎八旛宮秋季例大祭",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Hōjōzu Hikiyama Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD"
+  },
+  {
+   "qid": "Q11277692",
+   "name": "ほうらい祭り",
+   "pref": "石川県",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月2日",
+   "conf": "rule_only",
+   "slug": "horai-matsuri",
+   "slug_en": "horai-matsuri",
+   "name_en": "Hōrai Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%82%89%E3%81%84%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
