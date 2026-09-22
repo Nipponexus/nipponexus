@@ -1,33 +1,7 @@
 {
- "generated": "2026-09-21 23:00",
- "today": "2026-09-21",
+ "generated": "2026-09-22 23:00",
+ "today": "2026-09-22",
  "next": [
-  {
-   "qid": "Q4947265",
-   "name": "藤崎八旛宮秋季例大祭",
-   "pref": "熊本県",
-   "start": "2026-09-21",
-   "end": "",
-   "rule": "毎年9月第3月曜日",
-   "conf": "rule_only",
-   "slug": "fujisaki-hachimangu-reitaisai",
-   "slug_en": "fujisaki-hachimangu-reitaisai",
-   "name_en": "Boshita Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B4%8E%E5%85%AB%E6%97%9B%E5%AE%AE%E7%A7%8B%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD"
-  },
-  {
-   "qid": "Q11400381",
-   "name": "勝浦大漁まつり",
-   "pref": "千葉県",
-   "start": "2026-09-21",
-   "end": "",
-   "rule": "毎年9月第3月曜日",
-   "conf": "rule_only",
-   "slug": "katsuura-autumn-festival",
-   "slug_en": "katsuura-autumn-festival",
-   "name_en": "Katsuura Autumn Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E6%B5%A6%E5%A4%A7%E6%BC%81%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q17228411",
    "name": "こいこい祭り",
@@ -157,6 +131,32 @@
    "slug_en": "horai-matsuri",
    "name_en": "Hōrai Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%82%89%E3%81%84%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q114874856",
+   "name": "津久野だんじり祭",
+   "pref": "大阪府",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月第1金曜日",
+   "conf": "rule_only",
+   "slug": "tsukuno-danjiri-matsuri",
+   "slug_en": "tsukuno-danjiri-matsuri",
+   "name_en": "Tsukuno Danjiri Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
+  },
+  {
+   "qid": "Q11675240",
+   "name": "鳳だんじり祭り",
+   "pref": "",
+   "start": "2026-10-02",
+   "end": "",
+   "rule": "毎年10月第1金曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%B3%B3%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
