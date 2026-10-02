@@ -1,46 +1,7 @@
 {
- "generated": "2026-10-01 23:00",
- "today": "2026-10-01",
+ "generated": "2026-10-02 23:00",
+ "today": "2026-10-02",
  "next": [
-  {
-   "qid": "Q11278738",
-   "name": "みあれ祭",
-   "pref": "福岡県",
-   "start": "2026-10-01",
-   "end": "",
-   "rule": "毎年10月1日",
-   "conf": "fixed_rule",
-   "slug": "miare-festival",
-   "slug_en": "miare-festival",
-   "name_en": "Miare Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%82%E3%82%8C%E7%A5%AD"
-  },
-  {
-   "qid": "Q30925655",
-   "name": "矢作神社秋の大祭",
-   "pref": "愛知県",
-   "start": "2026-10-01",
-   "end": "",
-   "rule": "毎年10月1日",
-   "conf": "rescue_rule",
-   "slug": "yahagi-shrine-autumn-festival",
-   "slug_en": "yahagi-shrine-autumn-festival",
-   "name_en": "Yahagi Shrine Autumn Grand Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E4%BD%9C%E7%A5%9E%E7%A4%BE%E7%A7%8B%E3%81%AE%E5%A4%A7%E7%A5%AD"
-  },
-  {
-   "qid": "Q11498963",
-   "name": "放生津曳山祭",
-   "pref": "富山県",
-   "start": "2026-10-01",
-   "end": "",
-   "rule": "毎年10月1日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Hōjōzu Hikiyama Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%94%9F%E6%B4%A5%E6%9B%B3%E5%B1%B1%E7%A5%AD"
-  },
   {
    "qid": "Q11277692",
    "name": "ほうらい祭り",
@@ -157,6 +118,45 @@
    "slug_en": "",
    "name_en": "Matsuyama Aki Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E7%A7%8B%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q114712",
+   "name": "長崎くんち",
+   "pref": "長崎県",
+   "start": "2026-10-07",
+   "end": "2026-10-09",
+   "rule": "毎年10月7日〜10月9日",
+   "conf": "fixed_rule",
+   "slug": "nagasaki-kunchi",
+   "slug_en": "nagasaki-kunchi",
+   "name_en": "Nagasaki Kunchi",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E3%81%8F%E3%82%93%E3%81%A1"
+  },
+  {
+   "qid": "Q11481774",
+   "name": "幌武者行列",
+   "pref": "富山県",
+   "start": "2026-10-10",
+   "end": "",
+   "rule": "毎年10月第2土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97"
+  },
+  {
+   "qid": "Q48748967",
+   "name": "大垣十万石まつり",
+   "pref": "岐阜県",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "ogaki-jumangoku-matsuri",
+   "slug_en": "ogaki-jumangoku-matsuri",
+   "name_en": "Ōgaki Jūmangoku Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
