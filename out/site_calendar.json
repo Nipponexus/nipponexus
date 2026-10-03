@@ -1,46 +1,7 @@
 {
- "generated": "2026-10-02 23:00",
- "today": "2026-10-02",
+ "generated": "2026-10-03 23:00",
+ "today": "2026-10-03",
  "next": [
-  {
-   "qid": "Q11277692",
-   "name": "ほうらい祭り",
-   "pref": "石川県",
-   "start": "2026-10-02",
-   "end": "",
-   "rule": "毎年10月2日",
-   "conf": "rule_only",
-   "slug": "horai-matsuri",
-   "slug_en": "horai-matsuri",
-   "name_en": "Hōrai Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%86%E3%82%89%E3%81%84%E7%A5%AD%E3%82%8A"
-  },
-  {
-   "qid": "Q114874856",
-   "name": "津久野だんじり祭",
-   "pref": "大阪府",
-   "start": "2026-10-02",
-   "end": "",
-   "rule": "毎年10月第1金曜日",
-   "conf": "rule_only",
-   "slug": "tsukuno-danjiri-matsuri",
-   "slug_en": "tsukuno-danjiri-matsuri",
-   "name_en": "Tsukuno Danjiri Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E4%B9%85%E9%87%8E%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD"
-  },
-  {
-   "qid": "Q11675240",
-   "name": "鳳だんじり祭り",
-   "pref": "",
-   "start": "2026-10-02",
-   "end": "",
-   "rule": "毎年10月第1金曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E9%B3%B3%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A"
-  },
   {
    "qid": "Q22130964",
    "name": "こうのす花火大会",
@@ -157,6 +118,45 @@
    "slug_en": "ogaki-jumangoku-matsuri",
    "name_en": "Ōgaki Jūmangoku Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11439837",
+   "name": "大門曳山まつり",
+   "pref": "富山県",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11633921",
+   "name": "豊浜ちょうさ祭",
+   "pref": "香川県",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "toyohama-chosa-festival",
+   "slug_en": "toyohama-chosa-festival",
+   "name_en": "Toyohama Chōsa Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD"
+  },
+  {
+   "qid": "Q11679207",
+   "name": "龍勢祭り",
+   "pref": "",
+   "start": "2026-10-11",
+   "end": "",
+   "rule": "毎年10月第2日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Ryusei Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2"
   }
  ],
  "annual": [
