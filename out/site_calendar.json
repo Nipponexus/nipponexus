@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-03 23:00",
- "today": "2026-10-03",
+ "generated": "2026-10-04 23:00",
+ "today": "2026-10-04",
  "next": [
-  {
-   "qid": "Q22130964",
-   "name": "こうのす花火大会",
-   "pref": "",
-   "start": "2026-10-03",
-   "end": "",
-   "rule": "毎年10月第1土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%86%E3%81%AE%E3%81%99%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A"
-  },
   {
    "qid": "Q11419969",
    "name": "四日市祭",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Ryusei Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2"
+  },
+  {
+   "qid": "Q5288609",
+   "name": "土居太鼓祭り",
+   "pref": "愛媛県",
+   "start": "2026-10-13",
+   "end": "",
+   "rule": "毎年10月13日",
+   "conf": "rule_only",
+   "slug": "doi-taiko-matsuri",
+   "slug_en": "doi-taiko-matsuri",
+   "name_en": "Doi taikomatsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
