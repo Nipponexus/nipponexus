@@ -1,46 +1,7 @@
 {
- "generated": "2026-10-04 23:00",
- "today": "2026-10-04",
+ "generated": "2026-10-05 23:00",
+ "today": "2026-10-05",
  "next": [
-  {
-   "qid": "Q11419969",
-   "name": "四日市祭",
-   "pref": "三重県",
-   "start": "2026-10-04",
-   "end": "",
-   "rule": "毎年10月第1日曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E7%A5%AD"
-  },
-  {
-   "qid": "Q28686206",
-   "name": "尾張津島秋まつり",
-   "pref": "愛知県",
-   "start": "2026-10-04",
-   "end": "",
-   "rule": "毎年10月第1日曜日",
-   "conf": "rule_only",
-   "slug": "owari-tsushima-autumn-festival",
-   "slug_en": "owari-tsushima-autumn-festival",
-   "name_en": "Owari Tsushima Autumn Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E5%BC%B5%E6%B4%A5%E5%B3%B6%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q28686179",
-   "name": "大田まつり",
-   "pref": "",
-   "start": "2026-10-04",
-   "end": "",
-   "rule": "毎年10月第1日曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q136779585",
    "name": "棚野の千両祭",
@@ -157,6 +118,45 @@
    "slug_en": "doi-taiko-matsuri",
    "name_en": "Doi taikomatsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%B1%85%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11301198",
+   "name": "ケベス祭",
+   "pref": "大分県",
+   "start": "2026-10-14",
+   "end": "",
+   "rule": "毎年10月14日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Kebesu Sai",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD"
+  },
+  {
+   "qid": "Q11566794",
+   "name": "灘のけんか祭り",
+   "pref": "兵庫県",
+   "start": "2026-10-14",
+   "end": "2026-10-15",
+   "rule": "毎年10月14日〜10月15日",
+   "conf": "fixed_rule",
+   "slug": "nada-no-kenka-matsuri",
+   "slug_en": "nada-no-kenka-matsuri",
+   "name_en": "Nada no kenka matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11523928",
+   "name": "東予祭り",
+   "pref": "",
+   "start": "2026-10-15",
+   "end": "",
+   "rule": "毎年10月15日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%88%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
