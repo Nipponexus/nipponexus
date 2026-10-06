@@ -1,33 +1,7 @@
 {
- "generated": "2026-10-05 23:00",
- "today": "2026-10-05",
+ "generated": "2026-10-06 23:00",
+ "today": "2026-10-06",
  "next": [
-  {
-   "qid": "Q136779585",
-   "name": "棚野の千両祭",
-   "pref": "",
-   "start": "2026-10-05",
-   "end": "",
-   "rule": "毎年10月5日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%A3%9A%E9%87%8E%E3%81%AE%E5%8D%83%E4%B8%A1%E7%A5%AD"
-  },
-  {
-   "qid": "Q28685070",
-   "name": "松山秋祭り",
-   "pref": "愛媛県",
-   "start": "2026-10-05",
-   "end": "2026-10-07",
-   "rule": "毎年10月5日〜10月7日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Matsuyama Aki Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E7%A7%8B%E7%A5%AD%E3%82%8A"
-  },
   {
    "qid": "Q114712",
    "name": "長崎くんち",
@@ -157,6 +131,32 @@
    "slug_en": "",
    "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%88%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11568981",
+   "name": "熊野速玉祭",
+   "pref": "和歌山県",
+   "start": "2026-10-15",
+   "end": "2026-10-16",
+   "rule": "毎年10月15日〜10月16日",
+   "conf": "fixed_rule",
+   "slug": "kumano-hayatama-matsuri",
+   "slug_en": "kumano-hayatama-matsuri",
+   "name_en": "Kumano Hayatama Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E9%80%9F%E7%8E%89%E7%A5%AD"
+  },
+  {
+   "qid": "Q11501940",
+   "name": "新居浜太鼓祭り",
+   "pref": "愛媛県",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "rule": "毎年10月16日〜10月18日",
+   "conf": "fixed_rule",
+   "slug": "niihama-taiko-festival",
+   "slug_en": "niihama-taiko-festival",
+   "name_en": "Niihama Taiko Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
   }
  ],
  "annual": [
