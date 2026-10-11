@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-10 23:00",
- "today": "2026-10-10",
+ "generated": "2026-10-11 23:00",
+ "today": "2026-10-11",
  "next": [
-  {
-   "qid": "Q11481774",
-   "name": "幌武者行列",
-   "pref": "富山県",
-   "start": "2026-10-10",
-   "end": "",
-   "rule": "毎年10月第2土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E6%AD%A6%E8%80%85%E8%A1%8C%E5%88%97"
-  },
   {
    "qid": "Q48748967",
    "name": "大垣十万石まつり",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Kinoene Aki Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11475588",
+   "name": "岩船大祭",
+   "pref": "新潟県",
+   "start": "2026-10-18",
+   "end": "2026-10-19",
+   "rule": "毎年10月18日〜10月19日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%B9%E5%A4%A7%E7%A5%AD"
   }
  ],
  "annual": [
