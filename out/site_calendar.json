@@ -1,59 +1,7 @@
 {
- "generated": "2026-10-11 23:00",
- "today": "2026-10-11",
+ "generated": "2026-10-12 23:00",
+ "today": "2026-10-12",
  "next": [
-  {
-   "qid": "Q48748967",
-   "name": "大垣十万石まつり",
-   "pref": "岐阜県",
-   "start": "2026-10-11",
-   "end": "",
-   "rule": "毎年10月第2日曜日",
-   "conf": "rule_only",
-   "slug": "ogaki-jumangoku-matsuri",
-   "slug_en": "ogaki-jumangoku-matsuri",
-   "name_en": "Ōgaki Jūmangoku Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9E%A3%E5%8D%81%E4%B8%87%E7%9F%B3%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q11439837",
-   "name": "大門曳山まつり",
-   "pref": "富山県",
-   "start": "2026-10-11",
-   "end": "",
-   "rule": "毎年10月第2日曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q11633921",
-   "name": "豊浜ちょうさ祭",
-   "pref": "香川県",
-   "start": "2026-10-11",
-   "end": "",
-   "rule": "毎年10月第2日曜日",
-   "conf": "rule_only",
-   "slug": "toyohama-chosa-festival",
-   "slug_en": "toyohama-chosa-festival",
-   "name_en": "Toyohama Chōsa Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%B5%9C%E3%81%A1%E3%82%87%E3%81%86%E3%81%95%E7%A5%AD"
-  },
-  {
-   "qid": "Q11679207",
-   "name": "龍勢祭り",
-   "pref": "",
-   "start": "2026-10-11",
-   "end": "",
-   "rule": "毎年10月第2日曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Ryusei Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%90%89%E7%94%B0%E3%81%AE%E9%BE%8D%E5%8B%A2"
-  },
   {
    "qid": "Q5288609",
    "name": "土居太鼓祭り",
@@ -157,6 +105,58 @@
    "slug_en": "",
    "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%B9%E5%A4%A7%E7%A5%AD"
+  },
+  {
+   "qid": "Q11580506",
+   "name": "白鬚神社の田楽",
+   "pref": "佐賀県",
+   "start": "2026-10-18",
+   "end": "",
+   "rule": "毎年10月18日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%B0%E6%A5%BD"
+  },
+  {
+   "qid": "Q6003417",
+   "name": "伊万里トンテントン祭り",
+   "pref": "佐賀県",
+   "start": "2026-10-19",
+   "end": "",
+   "rule": "毎年10月19日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Imari Ton-Ten-Ton Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E9%87%8C%E3%83%88%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88%E3%83%B3%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q912124",
+   "name": "時代祭",
+   "pref": "京都府",
+   "start": "2026-10-22",
+   "end": "",
+   "rule": "毎年10月22日",
+   "conf": "fixed_rule",
+   "slug": "jidai-matsuri",
+   "slug_en": "jidai-matsuri",
+   "name_en": "Jidai Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%99%82%E4%BB%A3%E7%A5%AD"
+  },
+  {
+   "qid": "Q11663900",
+   "name": "鞍馬の火祭",
+   "pref": "京都府",
+   "start": "2026-10-22",
+   "end": "",
+   "rule": "毎年10月22日",
+   "conf": "rescue_rule",
+   "slug": "kurama-himatsuri",
+   "slug_en": "kurama-himatsuri",
+   "name_en": "Kurama Himatsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD"
   }
  ],
  "annual": [
