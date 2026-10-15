@@ -1,33 +1,7 @@
 {
- "generated": "2026-10-14 23:00",
- "today": "2026-10-14",
+ "generated": "2026-10-15 23:00",
+ "today": "2026-10-15",
  "next": [
-  {
-   "qid": "Q11301198",
-   "name": "ケベス祭",
-   "pref": "大分県",
-   "start": "2026-10-14",
-   "end": "",
-   "rule": "毎年10月14日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Kebesu Sai",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%82%B9%E7%A5%AD"
-  },
-  {
-   "qid": "Q11566794",
-   "name": "灘のけんか祭り",
-   "pref": "兵庫県",
-   "start": "2026-10-14",
-   "end": "2026-10-15",
-   "rule": "毎年10月14日〜10月15日",
-   "conf": "fixed_rule",
-   "slug": "nada-no-kenka-matsuri",
-   "slug_en": "nada-no-kenka-matsuri",
-   "name_en": "Nada no kenka matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%81%98%E3%81%AE%E3%81%91%E3%82%93%E3%81%8B%E7%A5%AD%E3%82%8A"
-  },
   {
    "qid": "Q11523928",
    "name": "東予祭り",
@@ -157,6 +131,32 @@
    "slug_en": "hakata-okunchi",
    "name_en": "Hakata Okunchi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%8A%E3%81%8F%E3%82%93%E3%81%A1"
+  },
+  {
+   "qid": "Q11368913",
+   "name": "久世祭り",
+   "pref": "岡山県",
+   "start": "2026-10-24",
+   "end": "2026-10-26",
+   "rule": "毎年10月24日〜10月26日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B8%96%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q11370928",
+   "name": "亀岡祭",
+   "pref": "京都府",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "rule": "毎年10月24日〜10月25日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B2%A1%E7%A5%AD"
   }
  ],
  "annual": [
