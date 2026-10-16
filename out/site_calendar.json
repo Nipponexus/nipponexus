@@ -1,33 +1,7 @@
 {
- "generated": "2026-10-15 23:00",
- "today": "2026-10-15",
+ "generated": "2026-10-16 23:00",
+ "today": "2026-10-16",
  "next": [
-  {
-   "qid": "Q11523928",
-   "name": "東予祭り",
-   "pref": "",
-   "start": "2026-10-15",
-   "end": "",
-   "rule": "毎年10月15日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%88%E7%A5%AD%E3%82%8A"
-  },
-  {
-   "qid": "Q11568981",
-   "name": "熊野速玉祭",
-   "pref": "和歌山県",
-   "start": "2026-10-15",
-   "end": "2026-10-16",
-   "rule": "毎年10月15日〜10月16日",
-   "conf": "fixed_rule",
-   "slug": "kumano-hayatama-matsuri",
-   "slug_en": "kumano-hayatama-matsuri",
-   "name_en": "Kumano Hayatama Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E9%80%9F%E7%8E%89%E7%A5%AD"
-  },
   {
    "qid": "Q11501940",
    "name": "新居浜太鼓祭り",
@@ -157,6 +131,32 @@
    "slug_en": "",
    "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E4%BA%80%E5%B2%A1%E7%A5%AD"
+  },
+  {
+   "qid": "Q11454559",
+   "name": "宮崎神宮大祭",
+   "pref": "宮崎県",
+   "start": "2026-10-26",
+   "end": "",
+   "rule": "毎年10月26日",
+   "conf": "fixed_rule",
+   "slug": "miyazaki-shrine-grand-festival",
+   "slug_en": "miyazaki-shrine-grand-festival",
+   "name_en": "Miyazaki Shrine Grand Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
+  },
+  {
+   "qid": "Q11262273",
+   "name": "おはら祭",
+   "pref": "鹿児島県",
+   "start": "2026-11-02",
+   "end": "",
+   "rule": "毎年11月2日",
+   "conf": "rescue_rule",
+   "slug": "ohara-matsuri",
+   "slug_en": "ohara-festival",
+   "name_en": "Ohara Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD"
   }
  ],
  "annual": [
