@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-16 23:00",
- "today": "2026-10-16",
+ "generated": "2026-10-17 23:00",
+ "today": "2026-10-17",
  "next": [
-  {
-   "qid": "Q11501940",
-   "name": "新居浜太鼓祭り",
-   "pref": "愛媛県",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "rule": "毎年10月16日〜10月18日",
-   "conf": "fixed_rule",
-   "slug": "niihama-taiko-festival",
-   "slug_en": "niihama-taiko-festival",
-   "name_en": "Niihama Taiko Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%A4%AA%E9%BC%93%E7%A5%AD%E3%82%8A"
-  },
   {
    "qid": "Q86735439",
    "name": "甲子秋まつり",
@@ -157,6 +144,19 @@
    "slug_en": "ohara-festival",
    "name_en": "Ohara Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD"
+  },
+  {
+   "qid": "Q493695",
+   "name": "唐津くんち",
+   "pref": "佐賀県",
+   "start": "2026-11-03",
+   "end": "",
+   "rule": "毎年11月3日",
+   "conf": "rule_only",
+   "slug": "karatsu-kunchi",
+   "slug_en": "karatsu-kunchi",
+   "name_en": "Karatsu Kunchi",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1"
   }
  ],
  "annual": [
