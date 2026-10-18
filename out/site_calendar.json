@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-17 23:00",
- "today": "2026-10-17",
+ "generated": "2026-10-18 23:00",
+ "today": "2026-10-18",
  "next": [
-  {
-   "qid": "Q86735439",
-   "name": "甲子秋まつり",
-   "pref": "静岡県",
-   "start": "2026-10-17",
-   "end": "",
-   "rule": "毎年10月第3土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Kinoene Aki Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q11475588",
    "name": "岩船大祭",
@@ -157,6 +144,19 @@
    "slug_en": "karatsu-kunchi",
    "name_en": "Karatsu Kunchi",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1"
+  },
+  {
+   "qid": "Q11455969",
+   "name": "富士宮まつり",
+   "pref": "静岡県",
+   "start": "2026-11-03",
+   "end": "",
+   "rule": "毎年11月3日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Fujinomiya Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
