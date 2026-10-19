@@ -1,33 +1,7 @@
 {
- "generated": "2026-10-18 23:00",
- "today": "2026-10-18",
+ "generated": "2026-10-19 23:00",
+ "today": "2026-10-19",
  "next": [
-  {
-   "qid": "Q11475588",
-   "name": "岩船大祭",
-   "pref": "新潟県",
-   "start": "2026-10-18",
-   "end": "2026-10-19",
-   "rule": "毎年10月18日〜10月19日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E8%88%B9%E5%A4%A7%E7%A5%AD"
-  },
-  {
-   "qid": "Q11580506",
-   "name": "白鬚神社の田楽",
-   "pref": "佐賀県",
-   "start": "2026-10-18",
-   "end": "",
-   "rule": "毎年10月18日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AC%9A%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%94%B0%E6%A5%BD"
-  },
   {
    "qid": "Q6003417",
    "name": "伊万里トンテントン祭り",
@@ -157,6 +131,32 @@
    "slug_en": "",
    "name_en": "Fujinomiya Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11524909",
+   "name": "東京時代まつり",
+   "pref": "東京都",
+   "start": "2026-11-03",
+   "end": "",
+   "rule": "毎年11月3日",
+   "conf": "fixed_rule",
+   "slug": "tokyo-jidai-matsuri",
+   "slug_en": "tokyo-jidai-matsuri",
+   "name_en": "Tokyo Jidai Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q21654307",
+   "name": "ひぬまあじさいまつり",
+   "pref": "",
+   "start": "2026-11-04",
+   "end": "",
+   "rule": "毎年11月4日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
   }
  ],
  "annual": [
