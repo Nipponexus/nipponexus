@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-19 23:00",
- "today": "2026-10-19",
+ "generated": "2026-10-20 23:00",
+ "today": "2026-10-20",
  "next": [
-  {
-   "qid": "Q6003417",
-   "name": "伊万里トンテントン祭り",
-   "pref": "佐賀県",
-   "start": "2026-10-19",
-   "end": "",
-   "rule": "毎年10月19日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Imari Ton-Ten-Ton Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%B8%87%E9%87%8C%E3%83%88%E3%83%B3%E3%83%86%E3%83%B3%E3%83%88%E3%83%B3%E7%A5%AD%E3%82%8A"
-  },
   {
    "qid": "Q912124",
    "name": "時代祭",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "",
    "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
+  },
+  {
+   "qid": "Q11260406",
+   "name": "うすき竹宵",
+   "pref": "大分県",
+   "start": "2026-11-07",
+   "end": "",
+   "rule": "毎年11月第1土曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%99%E3%81%8D%E7%AB%B9%E5%AE%B5"
   }
  ],
  "annual": [
