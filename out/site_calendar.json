@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-23 23:00",
- "today": "2026-10-23",
+ "generated": "2026-10-24 23:00",
+ "today": "2026-10-24",
  "next": [
-  {
-   "qid": "Q11408922",
-   "name": "博多おくんち",
-   "pref": "福岡県",
-   "start": "2026-10-23",
-   "end": "",
-   "rule": "毎年10月23日",
-   "conf": "rule_only",
-   "slug": "hakata-okunchi",
-   "slug_en": "hakata-okunchi",
-   "name_en": "Hakata Okunchi",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E3%81%8A%E3%81%8F%E3%82%93%E3%81%A1"
-  },
   {
    "qid": "Q11368913",
    "name": "久世祭り",
@@ -157,6 +144,19 @@
    "slug_en": "tsuchiura-all-japan-fireworks-competition",
    "name_en": "Tsuchiura All Japan Fireworks Competition",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B5%A6%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A"
+  },
+  {
+   "qid": "Q65279849",
+   "name": "芝山はにわ祭",
+   "pref": "千葉県",
+   "start": "2026-11-08",
+   "end": "",
+   "rule": "毎年11月第2日曜日",
+   "conf": "rule_only",
+   "slug": "shibayama-haniwa-festival",
+   "slug_en": "shibayama-haniwa-festival",
+   "name_en": "Shibayama Haniwa Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E5%B1%B1%E3%81%AF%E3%81%AB%E3%82%8F%E7%A5%AD"
   }
  ],
  "annual": [
