@@ -1,20 +1,7 @@
 {
- "generated": "2026-10-26 23:00",
- "today": "2026-10-26",
+ "generated": "2026-10-27 23:00",
+ "today": "2026-10-27",
  "next": [
-  {
-   "qid": "Q11454559",
-   "name": "宮崎神宮大祭",
-   "pref": "宮崎県",
-   "start": "2026-10-26",
-   "end": "",
-   "rule": "毎年10月26日",
-   "conf": "fixed_rule",
-   "slug": "miyazaki-shrine-grand-festival",
-   "slug_en": "miyazaki-shrine-grand-festival",
-   "name_en": "Miyazaki Shrine Grand Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%A5%9E%E5%AE%AE%E5%A4%A7%E7%A5%AD"
-  },
   {
    "qid": "Q11262273",
    "name": "おはら祭",
@@ -157,6 +144,19 @@
    "slug_en": "",
    "name_en": "Taimatsu Akashi",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%98%8E%E3%81%82%E3%81%8B%E3%81%97"
+  },
+  {
+   "qid": "Q11611763",
+   "name": "胡子講",
+   "pref": "広島県",
+   "start": "2026-11-17",
+   "end": "2026-11-20",
+   "rule": "毎年11月17日〜11月20日",
+   "conf": "fixed_rule",
+   "slug": "ebisuko",
+   "slug_en": "ebisuko",
+   "name_en": "Ebisukō",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B"
   }
  ],
  "annual": [
