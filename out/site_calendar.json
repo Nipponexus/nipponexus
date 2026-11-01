@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01 23:00",
- "today": "2026-11-01",
+ "generated": "2026-11-02 07:35",
+ "today": "2026-11-02",
  "next": [
   {
    "qid": "Q11262273",
@@ -2486,32 +2486,6 @@
    "slug_en": "ishidori-matsuri",
    "name_en": "Ishidori Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD"
-  },
-  {
-   "qid": "Q106943951",
-   "name": "浅虫ねぶた祭",
-   "pref": "青森県",
-   "start": "2026-08-02",
-   "end": "2026-08-07",
-   "rule": "毎年8月2日〜8月7日",
-   "conf": "rescue_rule",
-   "slug": "asamushi-onsen-nebuta",
-   "slug_en": "asamushi-onsen-nebuta",
-   "name_en": "Asamushi Onsen Nebuta Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%99%AB%E6%B8%A9%E6%B3%89%E3%81%AD%E3%81%B6%E3%81%9F%E7%A5%AD%E3%82%8A"
-  },
-  {
-   "qid": "Q11437523",
-   "name": "大湊ネブタ",
-   "pref": "青森県",
-   "start": "2026-08-02",
-   "end": "2026-08-07",
-   "rule": "毎年8月2日〜8月7日",
-   "conf": "rescue_rule",
-   "slug": "ominato-nebuta",
-   "slug_en": "ominato-nebuta",
-   "name_en": "Ōminato Nebuta",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%8A%E3%83%8D%E3%83%96%E3%82%BF"
   },
   {
    "qid": "Q4701224",

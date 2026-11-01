@@ -23762,14 +23762,8 @@ INSERT INTO "festivals" VALUES('Q106943951','浅虫ねぶた祭','Asamushi Onsen
 浅虫ねぶた祭は、地域住民と観光客が一体となって作り上げる祭りである。地元の商店や宿泊施設が協力して衣装の貸出や休憩所の提供を行う。祭り期間中は、温泉街のあちこちで住民と観光客の自然な交流が生まれる。このような温かい雰囲気が、リピーターを増やす要因の一つとなっている。
 
 ## 開催情報・アクセス
-
-- **開催時期**：例年7月中旬の3連休の土日（午後6時30分頃〜9時頃）と8月中旬（午後7時頃〜9時頃）の年2回（最新の日程・実施可否は公式サイトで確認）
-- **開催場所**：青森県青森市浅虫温泉街（旧浅虫小学校～浅虫温泉駅前）
-- **アクセス（電車）**：青い森鉄道「浅虫温泉駅」から徒歩約5分
-- **アクセス（車）**：青森自動車道「青森東IC」から約8キロメートル
-- **問い合わせ先**：浅虫温泉観光協会（TEL：017-752-3250／FAX：017-752-3111）
-- **注意事項**：天候により運行が中止となる場合あり。路上駐車は厳禁。最新情報は必ず公式サイトで確認すること。
-- **衣装貸出**：宿泊施設での無料貸出あり（事前予約推奨）
+- **開催時期**: 7月中旬の3連休の土日（18:30頃〜21:00頃）と8月中旬（お盆・19:00頃〜21:00頃）の年2回運行（青森市公式・確認日 2026-11-02）。温泉街での運行のため、宿泊客向けにねぶた衣装の無料貸し出しがある（青森市公式）。
+- **問い合わせ先**: 浅虫ねぶた祭実行委員会（電話：017-752-3250・青森市公式）。
 
 ## 周辺情報
 
@@ -23851,7 +23845,7 @@ Aomori City center is about a 20-minute drive from Asamushi Onsen. When the sche
 4. **Asamushi Onsen Tourism Association**: The organizing body of the festival, which provides comprehensive tourism information about the area. The official website offers the latest festival details and accommodation information.
 5. **Asamushi Nebuta Winter Festival**: A separate winter event featuring giant goldfish-shaped nebuta parading through the hot spring town, culminating in a fireworks display. This winter version offers a different atmosphere from the summer festival.
 6. **Nebuta Production Techniques**: Nebuta floats are made using traditional methods: bamboo and wire frames are covered with washi paper and painted. The Asamushi Nebuta Festival features works by local nebuta artisans.
-7. **Transportation Information**: Updates on the Aoimori Railway schedule and Aomori Expressway traffic regulations are posted on the official website during the festival period. As parking is limited, using public transportation is recommended.','asamushi-onsen-nebuta','asamushi-onsen-nebuta','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','663highland','CC BY 2.5','https://commons.wikimedia.org/wiki/File:Asamushi_Onsen_Nebuta_Matsuri_Aomori_Japan11n.jpg','毎年8月2日〜8月7日','{"type": "range_fixed", "month": 8, "day": 2, "raw": "8月2日〜8月7日", "ctx": "。## 関連情報1. **青森ねぶた祭**：青森市で毎年8月2日から7日まで開催される日本最大級", "src": "rescue_20260813", "end_month": 8, "end_day": 7}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+7. **Transportation Information**: Updates on the Aoimori Railway schedule and Aomori Expressway traffic regulations are posted on the official website during the festival period. As parking is limited, using public transportation is recommended.','asamushi-onsen-nebuta','asamushi-onsen-nebuta','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-02 06:17:48','663highland','CC BY 2.5','https://commons.wikimedia.org/wiki/File:Asamushi_Onsen_Nebuta_Matsuri_Aomori_Japan11n.jpg','7月中旬3連休の土日＋8月中旬（お盆）・青森市公式','{"fix": "誤帰属是正後・青森市公式ページ(更新2025-11-17)の規則を採用", "src": "NX4_CORRECTION_20261102", "evidence": "https://www.city.aomori.aomori.jp/bunka_sports_kankou/kankou/1005278/1005284/1005287.html", "checked_at": "2026-11-02"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','fixed_rule','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q108373656','ベトナムフェスティバル','Vietnam Festival in Japan',NULL,NULL,'Q1204253','代々木公園','Yoyogi Park',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q108376146','NAMIMONOGATARI','NAMIMONOGATARI','毎年8月に日本の愛知県で開催される野外音楽イベント','Outdoor music festival held in Aichi prefecture, Japan',NULL,NULL,NULL,'愛知県','chubu',NULL,NULL,2005,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/NAMIMONOGATARI',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q114045450','送り盆まつり','Okuribon Festival','秋田県横手市で行われる行事',NULL,'Q496479','横手市','Yokote','秋田県','tohoku',39.317611111,140.565221944,NULL,8,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Butsuke-ai%20at%20Okuribon-Festival%20B.jpg','https://ja.wikipedia.org/wiki/%E9%80%81%E3%82%8A%E7%9B%86%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
@@ -27143,7 +27137,7 @@ INSERT INTO "festivals" VALUES('Q11477022','島立裸まつり','Shimadachi Hada
 
 ## 開催情報・アクセス
 
-島立堀米の裸祭りは、例年7月初旬（資料により7月1日、または7月7日頃）に、松本市島立堀米地区の津島社を中心に行われる夏祭りである。地域の氏神の祭りとして、地元の子どもたちを中心に営まれる。
+島立堀米の裸祭りは、例年7月の第一土曜日・日曜日に宵祭り・本祭りが行われる（かつては宵祭りが6月30日、本祭りが7月1日だった。松本市公式・確認日2026-11-02）。祭りは、松本市島立堀米地区の津島社を中心に行われる夏祭りである。地域の氏神の祭りとして、地元の子どもたちを中心に営まれる。
 
 アクセスは、JR篠ノ井線・大糸線などが乗り入れる松本駅が玄関口となる。島立地区は松本市の市街地西部に位置し、松本駅から路線バスや車で向かうことができる。松本空港（信州まつもと空港）にも近いエリアである。地域に根ざした神事であるため、見学の際は祭りの妨げにならないよう配慮し、地元の方々への礼を忘れないことが大切である。正確な開催日や時間は年によって異なる場合があるため、松本市や地元の観光関連の公式発表で事前に確認するとよい。
 
@@ -27175,7 +27169,7 @@ The festival is also known for the purification ritual (misogi) performed in a m
 
 ## Event Information and Access
 
-The Shimadachi Horigome Naked Festival is a summer festival held generally in early July (around July 1, or around July 7 depending on the source), centered on Tsushima-sha in the Horigome district of Shimadachi, Matsumoto City. As the festival of the local guardian deity, it is carried out chiefly by local children.
+The Shimadachi Horigome Naked Festival is a summer festival centered on Tsushima-sha in the Horigome district of Shimadachi, Matsumoto City, now held on the first Saturday and Sunday of July (eve festival and main festival; formerly the eve festival was held on June 30 and the main festival on July 1, per the official Matsumoto City page, checked 2026-11-02). As the festival of the local guardian deity, it is carried out chiefly by local children.
 
 For access, the gateway is Matsumoto Station, served by the JR Shinonoi Line, Oito Line, and others. The Shimadachi district lies in the western part of Matsumoto City''s urban area, and can be reached from Matsumoto Station by local bus or car. It is also an area close to Matsumoto Airport (Shinshu-Matsumoto Airport). As this is a ritual rooted in the community, visitors should be considerate not to disturb the festival and should not forget courtesy toward local people. Because exact dates and times may differ from year to year, it is best to confirm in advance through official announcements by Matsumoto City or local tourism sources.
 
@@ -27187,7 +27181,7 @@ Heading out from the western part of Matsumoto City where the Shimadachi distric
 
 ## Related Information
 
-The latest information on the Shimadachi Horigome Naked Festival can be found in official announcements by Matsumoto City and local tourism sources. Designated an Intangible Folk Cultural Property of Nagano Prefecture, it is a children''s ritual rooted in the Tsushima faith continuing since the Edo period, a valuable event both academically and culturally. Across Japan, many naked festivals praying for good health and protection from misfortune have been handed down, but the form in which boys take the leading role, hold up paper banners, and undergo purification in a muddy pond is a distinctive feature unique to this festival. The efforts of the Horigome district to preserve and transmit a simple folk event amid advancing urbanization are an endeavor to pass local traditional culture on to the next generation, and are expected to be carefully carried on in the years to come.','shimadachi-hadaka-matsuri','shimadachi-hadaka-matsuri','2026-05-20T15:07:52.470287+00:00','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-14 05:49:10',NULL,NULL,NULL,'毎年6月30日','{"type": "fixed", "month": 6, "day": 30, "raw": "6月30日", "ctx": "しており、短パン・Tシャツ姿の女子児童も参加している。   == 日程 == 宵祭り（例年6月30日） 本祭り（例年7月1日）   == 関連項目 == 裸祭り", "pos": 444}','しており、短パン・Tシャツ姿の女子児童も参加している。   == 日程 == 宵祭り（例年6月30日） 本祭り（例年7月1日）   == 関連項目 == 裸祭り','rule_only','review','20260814 本文に開催日の裏付けなし。抽出元が開催日以外の文脈の疑い');
+The latest information on the Shimadachi Horigome Naked Festival can be found in official announcements by Matsumoto City and local tourism sources. Designated an Intangible Folk Cultural Property of Nagano Prefecture, it is a children''s ritual rooted in the Tsushima faith continuing since the Edo period, a valuable event both academically and culturally. Across Japan, many naked festivals praying for good health and protection from misfortune have been handed down, but the form in which boys take the leading role, hold up paper banners, and undergo purification in a muddy pond is a distinctive feature unique to this festival. The efforts of the Horigome district to preserve and transmit a simple folk event amid advancing urbanization are an endeavor to pass local traditional culture on to the next generation, and are expected to be carefully carried on in the years to come.','shimadachi-hadaka-matsuri','shimadachi-hadaka-matsuri','2026-05-20T15:07:52.470287+00:00','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-02 06:19:36',NULL,NULL,NULL,'7月第一土曜日・日曜日（宵祭り・本祭り）・松本市公式','{"type": "fixed", "month": 6, "day": 30, "raw": "6月30日", "ctx": "しており、短パン・Tシャツ姿の女子児童も参加している。   == 日程 == 宵祭り（例年6月30日） 本祭り（例年7月1日）   == 関連項目 == 裸祭り", "pos": 444}','松本市ホームページ「島立堀米の裸祭り」city.matsumoto.nagano.jp/soshiki/134/3744.html 確認日2026-11-02','fixed_rule','fixed_rule','20261102 旧規則「毎年6月30日」は宵祭りの旧日付で誤帰属。現行は7月第一土・日曜（松本市公式・同ページ2021-12-20更新）。本祭り7月1日説(82bunka)は旧日付の記述。');
 INSERT INTO "festivals" VALUES('Q11455993','富士山河口湖音楽祭','Mt. Fuji Kawaguchiko Music Festival','富士河口湖町を中心とした地域で毎年7・8月に開かれる音楽祭',NULL,NULL,NULL,NULL,'山梨県','chubu',NULL,NULL,2002,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%B2%B3%E5%8F%A3%E6%B9%96%E9%9F%B3%E6%A5%BD%E7%A5%AD',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11457147','富田の鯨船行事','Kujirabune Festival','三重県四日市市の行事',NULL,'Q85884751','鳥出神社','Toride Shrine','三重県','kinki',NULL,NULL,NULL,8,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Kujirabune01.jpg','https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B',NULL,85,'drafted','## 概要
 
@@ -27467,12 +27461,13 @@ INSERT INTO "festivals" VALUES('Q11437523','大湊ネブタ','Ōminato Nebuta','
 
 ## 開催情報・アクセス
 
-- **開催時期**: 例年8月上旬（第1金曜日から日曜日にかけて）。最新の開催日程・実施可否はむつ市公式サイトで確認のこと。
-- **開催場所**: 青森県むつ市大湊地区（主な運行ルート：宇田町〜大湊駅付近、市運動公園〜大湊駅前商店街など）
+- **開催時期**: 毎年8月上旬に開催（むつ市公式）。開催日・出発時刻は年ごとに異なるため、最新の確定情報はむつ市公式サイトの「大湊ネブタ」ページで確認のこと。
+- **令和8年度（2026）の実施例**（むつ市公式・運行案内PDF、確認日 2026-11-02）: 合同運行は8月8日・9日の2日間。8日: 出発式17:50、ネブタ出発18:30（出発点: 大湊上町 兵主神社前、審査会場: カメラのみなみや横 20:10通過）。9日: 表彰式17:50、出発式18:20、ネブタ出発19:00（出発点: JRバス東北大湊支所前）。
+- **開催場所**: 青森県むつ市大湊地区。運行は日ごとに出発点が異なる（令和8年度: 初日=大湊上町 兵主神社前 / 最終日=JRバス東北大湊支所前・むつ市公式）。沿道での観覧が主な形式。
 - **観覧料**: 無料
-- **交通アクセス（電車）**: 青森駅から青い森鉄道八戸行きで約50分、「野辺地駅」で大湊線大湊行きに乗り換えて約1時間、「大湊駅」下車。JR大湊駅から会場までは徒歩1分である。
+- **交通アクセス（電車）**: 青い森鉄道「野辺地駅」でJR大湊線に乗り換え、「大湊駅」下車（むつ市・大湊地区の会場最寄駅）。乗換所要時間の正確な目安は公共交通の最新時刻表で確認のこと。
 - **交通アクセス（車）**: JR青森駅から国道279号経由で約2時間。JR下北駅から約10分。
-- **問い合わせ先**: むつ市産業政策部観光・シティプロモーション課（電話番号：0175-22-1111）。最新情報はむつ市ホームページでも確認可能。
+- **問い合わせ先**: むつ市商工観光部観光・シティプロモーション課（電話番号：0175-22-1111・むつ市公式）。最新情報はむつ市ホームページでも確認可能。
 - **備考**: 運行は17:50頃から開始されることが多い。
 
 ## 周辺情報
@@ -27530,13 +27525,11 @@ The Ominato district is home to a Japan Maritime Self-Defense Force (JMSDF) base
 
 ## Event Information and Access
 
-- **Event Period**: Annually in early August (from the first Friday to Sunday). Please check the official Mutsu City website for the latest schedule and availability.
-- **Location**: Ominato district, Mutsu City, Aomori Prefecture (Main parade routes: Udacho to Ominato Station area, City Sports Park to Ominato Station shopping district, etc.)
-- **Admission**: Free
-- **Access (Train)**: From Aomori Station, take the Aoimori Railway toward Hachinohe (approx. 50 minutes), transfer at Noheji Station to the Ominato Line toward Ominato (approx. 1 hour), then get off at Ominato Station. It is a 1-minute walk from JR Ominato Station to the venue.
-- **Access (Car)**: Approximately 2 hours from JR Aomori Station via National Route 279. Approximately 10 minutes from JR Shimokita Station.
-- **Contact**: Mutsu City Industrial Policy Department, Tourism and City Promotion Section (Phone: 0175-22-1111). Up-to-date information is also available on the Mutsu City website.
-- **Note**: Parades often begin around 17:50.
+- **Schedule**: Held every year in early August (Mutsu City official). Dates and departure times differ by year; check the official Mutsu City "Ominato Nebuta" page for the latest confirmed schedule.
+- **Example from Reiwa 8 (2026)** (Mutsu City official and the official parade guide PDF, checked 2026-11-02): joint parades ran on Aug 8-9. Aug 8: departure ceremony 17:50, nebuta depart 18:30 (start: in front of Hyosu Shrine, Ominato-Kamimachi; judging point: beside Camera Minamiya, passing at 20:10). Aug 9: award ceremony 17:50, departure ceremony 18:20, nebuta depart 19:00 (start: in front of the JR Bus Tohoku Ominato depot).
+- **Admission**: The official pages do not state any admission fee (unconfirmed whether any paid seating exists).
+- **Access (train)**: Take the JR Ominato Line to Ominato Station, the nearest station to the Ominato district (transfer at Noheji Station from the Aoimori Railway line). Exact travel times should be checked against current timetables.
+- **Contact**: Mutsu City, Tourism & City Promotion Division (Commerce, Industry and Tourism Dept.), tel 0175-22-1111 (per the official city page).
 
 ## Surrounding Area Information
 
@@ -27555,7 +27548,7 @@ Additionally, facilities of the JMSDF are located within Mutsu City and are occa
 - **Nebuta Origin Legends**: In Aomori City, there are legends of nebuta''s origin at Oishi Shrine, Sogawa-ku, and Namioka-ku. Records also exist in Ohata on the Shimokita Peninsula.
 - **Sugae Masumi**: An 18th-century traveler whose diary records nebuta activities in the Shimokita region, providing valuable resources for studying nebuta history.
 - **Mutsu City Official Website**: Provides the latest information on Ominato Nebuta and tourist information for Mutsu City.
-- **Aomori Tourism Official Website Amazing AOMORI**: Provides information on festivals and tourist spots throughout Aomori Prefecture, including Ominato Nebuta.','ominato-nebuta','ominato-nebuta','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Waka moana','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Ominatonebuta.jpg','毎年8月2日〜8月7日','{"type": "range_fixed", "month": 8, "day": 2, "raw": "8月2日〜8月7日", "ctx": "。## 関連情報- **青森ねぶた祭**: 青森市で毎年8月2日〜7日に開催される、日本三大火祭", "src": "rescue_20260813", "end_month": 8, "end_day": 7}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+- **Aomori Tourism Official Website Amazing AOMORI**: Provides information on festivals and tourist spots throughout Aomori Prefecture, including Ominato Nebuta.','ominato-nebuta','ominato-nebuta','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-02 06:17:48','Waka moana','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Ominatonebuta.jpg','規則なし（2026実績=8月8日〜9日・むつ市公式）','{"fix": "抽出元ctxが関連情報節の青森ねぶた祭=誤帰属。単年実績から毎年規則を作らない", "src": "NX4_CORRECTION_20261102", "old": "毎年8月2日〜8月7日", "old_guard": "ok"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','rule_only','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11442078','大黒流','Daikoku-nagare','博多祇園山笠や博多松囃子（博多どんたく）の運営における構成単位である流の一つ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BB%92%E6%B5%81',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11462179','小樽雪あかりの路','Otaru Snow Light Path','北海道小樽市で開催される祭典',NULL,NULL,NULL,NULL,'北海道','hokkaido',NULL,NULL,1999,2,'winter','https://commons.wikimedia.org/wiki/Special:FilePath/Otaru%20Yuki%20Akari%20no%20Michi.jpg','https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E9%9B%AA%E3%81%82%E3%81%8B%E3%82%8A%E3%81%AE%E8%B7%AF',NULL,85,'drafted','## 概要
 
