@@ -1,20 +1,7 @@
 {
- "generated": "2026-11-02 23:00",
- "today": "2026-11-02",
+ "generated": "2026-11-03 08:52",
+ "today": "2026-11-03",
  "next": [
-  {
-   "qid": "Q11262273",
-   "name": "おはら祭",
-   "pref": "鹿児島県",
-   "start": "2026-11-02",
-   "end": "",
-   "rule": "毎年11月2日",
-   "conf": "rescue_rule",
-   "slug": "ohara-matsuri",
-   "slug_en": "ohara-festival",
-   "name_en": "Ohara Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD"
-  },
   {
    "qid": "Q493695",
    "name": "唐津くんち",
@@ -53,19 +40,6 @@
    "slug_en": "tokyo-jidai-matsuri",
    "name_en": "Tokyo Jidai Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q21654307",
-   "name": "ひぬまあじさいまつり",
-   "pref": "",
-   "start": "2026-11-04",
-   "end": "",
-   "rule": "毎年11月4日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
    "qid": "Q11260406",
@@ -157,6 +131,32 @@
    "slug_en": "ebisuko",
    "name_en": "Ebisukō",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B"
+  },
+  {
+   "qid": "Q11265104",
+   "name": "きらきらフェスティバル",
+   "pref": "長崎県",
+   "start": "2026-11-19",
+   "end": "",
+   "rule": "毎年11月第3木曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+  },
+  {
+   "qid": "Q11501518",
+   "name": "新嘗祭",
+   "pref": "",
+   "start": "2026-11-23",
+   "end": "",
+   "rule": "毎年11月23日",
+   "conf": "rule_only",
+   "slug": "niiname-no-matsuri",
+   "slug_en": "niiname-no-matsuri",
+   "name_en": "Niiname-no-Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD"
   }
  ],
  "annual": [
@@ -3983,19 +3983,6 @@
    "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
   },
   {
-   "qid": "Q21654307",
-   "name": "ひぬまあじさいまつり",
-   "pref": "",
-   "start": "2026-11-04",
-   "end": "",
-   "rule": "毎年11月4日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%AC%E3%81%BE%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
    "qid": "Q11260406",
    "name": "うすき竹宵",
    "pref": "大分県",
@@ -4241,19 +4228,6 @@
    "slug_en": "kasuga-wakamiya-on-matsuri",
    "name_en": "Kasuga Wakamiya On-Matsuri Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD"
-  },
-  {
-   "qid": "Q11524427",
-   "name": "東京ミレナリオ",
-   "pref": "東京都",
-   "start": "2026-12-24",
-   "end": "",
-   "rule": "毎年12月24日",
-   "conf": "rescue_rule",
-   "slug": "tokyo-millenario",
-   "slug_en": "tokyo-millenario",
-   "name_en": "Tokyo Millenario",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%AC%E3%83%8A%E3%83%AA%E3%82%AA"
   },
   {
    "qid": "Q11193741",
