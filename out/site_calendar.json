@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02 12:53",
+ "generated": "2026-11-02 20:54",
  "today": "2026-11-02",
  "next": [
   {
@@ -2915,6 +2915,19 @@
    "slug_en": "tomida-kujirabune-festival",
    "name_en": "Kujirabune Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E9%AF%A8%E8%88%B9%E8%A1%8C%E4%BA%8B"
+  },
+  {
+   "qid": "Q11457148",
+   "name": "富田の石取祭",
+   "pref": "三重県",
+   "start": "2026-08-14",
+   "end": "2026-08-15",
+   "rule": "毎年8月14日〜8月15日",
+   "conf": "rule_only",
+   "slug": "tomida-ishidori-matsuri",
+   "slug_en": "tomida-ishidori-matsuri",
+   "name_en": "Tomida Ishidori Matsuri",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E7%94%B0%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD"
   },
   {
    "qid": "Q11265746",
