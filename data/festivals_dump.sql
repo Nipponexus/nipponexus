@@ -27968,6 +27968,23 @@ INSERT INTO "festivals" VALUES('Q11457148','富田の石取祭','Tomida Ishidori
 
 最大の見どころは、太鼓と鉦を力いっぱい打ち鳴らしながら、祭車が町を練り歩く勇壮な光景です。「ゴンチキチキ」と響く鉦の音と、腹に響く太鼓の音が一体となった迫力ある演奏は、石取祭ならではの醍醐味。提灯で美しく飾られた祭車が夜の町を進む様は幻想的で、囃子方の熱気と相まって祭りを盛り上げます。豪華に飾られた祭車そのものの美しさも見どころのひとつ。北勢の夏を彩る、賑やかで活気あふれる祭りを体感できます。
 
+**太鼓と鉦（かに）の競演**
+祭車の町練りで最も耳を引くのが、太鼓と鉦を力いっぱい打ち鳴らす囃子の音です。「ゴンチキチキ」と響く鉦の音が腹に響く太鼓の音と重なり、石取祭ならではの迫力ある演奏を生み出します。お盆の時期にその音が町に響き渡ること自体が、北勢地方の夏を代表する風物詩となっています。
+
+**三町三様の祭車の装飾**
+祭車には、十四川の桜をモチーフにした漆塗りの装飾や、天幕に描かれた唐獅子や麒麟といった豪華な意匠が施されています。三町がそれぞれ祭車を所有し、茂福の祭車は文政9年（1826）制作の古い形式を今に残します。提灯に灯された夜の祭車と、日差しの中で映える昼の祭車とでは、同じ車でも印象が大きく変わります。
+
+**町ごとに異なる拍子と節回し**
+各町の保存会が受け継いできた拍子や節回しには、町ごとの特色があると伝わります。四日市市の解説でも、儀式や囃子、歌などに各町の特色が見られると紹介されています。同じ石取祭の系譜に連なりながらも、町によって響きが異なる様子を見比べるのも、この祭りならではの楽しみです。
+
+**提灯の灯る夜の町練り**
+山形に掛けられた提灯のゆれる明かりの下、鉦と太鼓の音がお盆の夜の町に響きます。祭車の運行は夜間が中心で、灯りに浮かぶ祭車が町を進む様子は昼間とは異なる趣があります。石取祭がお盆の時期の行事として地域に根付いてきたことを、この夜の光景は物語っています。
+
+**花車を先頭にした叩き出し**
+町練りの先頭を進む祭車は「花車」と呼ばれ、どの町が務めるかは例年持ち回りとされています。祭りは提灯の合図で一斉に叩き出しが始まり、各町の祭車がそれぞれの拍子で打ち鳴らしながら町を練り歩きます。その年の花車を担う保存会の会長が、叩き出しの合図役を務める慣行も見られます。
+
+**最終日の三町揃い叩き**
+祭りを締めくくる見どころが、三台の祭車が一か所に集まって行う揃い叩きです。最終日には鳥出神社を中心に三町合同の石取祭が行われ、近鉄富田駅前に三台の祭車が集まって揃い叩きが行われると伝わります。集合場所や時刻は年によって変動する可能性があるため、最新の日程は主催団体や四日市市の公式発表でご確認ください。
 ## 開催情報
 
 例年夏（8月）に、三重県四日市市富田地区で開催されます。夏祭りであり、季節は夏。祭車の運行は夜間が中心です。日程やルートの詳細は年によって異なるため、四日市市および地元の主催団体の公式発表で事前に確認することをおすすめします。
@@ -28016,6 +28033,23 @@ The Ishidori Matsuri is said to derive originally from the rite of "ishidori," i
 
 The greatest attraction is the spirited sight of festival carts parading through the town while drums and gongs are beaten with all one''s might. The powerful playing, in which the ringing of the gongs and the belly-shaking sound of the drums become one, is the real charm of the Ishidori Matsuri. The sight of festival carts beautifully adorned with lanterns advancing through the town at night is magical, enlivening the festival together with the fervor of the musicians. The beauty of the lavishly decorated festival carts themselves is also a highlight. Visitors can experience a lively and energetic festival that colors the summer of Hokusei.
 
+**Drums and gongs in full voice**
+The most striking sound of the parade comes from the drums and gongs beaten at full force on the festival floats. The high ring of the gongs, described as gon-chiki-chiki, blends with the deep pulse of the drums into a performance that could only come from the Ishidori tradition. When this sound fills the town during the Bon season, it becomes the very soundtrack of summer in the Hokusei region.
+
+**Three floats, three styles of decoration**
+Each float is dressed in lavish ornaments: lacquerwork with cherry-blossom motifs and curtains painted with lions and qilin. All three towns own their own float, and the Mofuku float, made in 1826 (Bunsei 9), still preserves an old-fashioned form. Lit by lanterns at night and shining in the daylight, the same float shows two entirely different faces.
+
+**Rhythms that differ town by town**
+The rhythms and melodies handed down by each town''s preservation society are said to carry their own local character. The city''s description likewise notes that the rituals, music and songs of each town show distinctive features. Hearing how the same Ishidori tradition sounds different in each town is one of the quiet pleasures of this festival.
+
+**A night parade under swaying lanterns**
+Beneath the wavering light of paper lanterns hung on the floats, the sound of gongs and drums echoes through the town on Bon nights. The floats mainly parade at night, and lantern-lit floats moving through the dark streets have a mood all their own. The scene quietly tells how deeply the Ishidori festival has taken root as an observance of the Bon season.
+
+**The flower float and the opening beat**
+The float that leads each town''s parade is known as the flower float, and the role rotates among the towns from year to year. With lanterns as the signal, the beating starts all at once, and each float parades through its town playing its own rhythm. It is also the custom that the head of the society chosen for that year''s flower float gives the signal to begin.
+
+**The joint finale of the three towns**
+The closing highlight is the soroibiki, the unison beating performed when the three floats gather at one place. On the final day the towns hold their joint Ishidori festival centering on Toride Shrine, and the three floats are said to gather in front of Kintetsu Tomida Station for the closing performance. As gathering places and times can change from year to year, please check the latest schedule in announcements by the organizers and the City of Yokkaichi.
 ## When It Takes Place
 
 The festival is typically held in summer (August) in the Tomida district of Yokkaichi, Mie Prefecture. As a summer festival, its season is summer. The operation of the festival carts is centered on the night. Because the details of dates and routes vary from year to year, visitors are advised to confirm in advance through official announcements from Yokkaichi City and the local organizers.
@@ -28052,7 +28086,7 @@ The musical patterns of the Ishidori festival differ from one neighborhood to an
 
 ## Nearby Festivals at the Same Time of Year
 
-Toride Shrine is also known for a second festival, the Kujirabune or whaling-boat event, which is an Important Intangible Folk Cultural Property of Japan and was inscribed on the UNESCO list of intangible cultural heritage in December 2016 as one of the thirty-three "Yama, Hoko, Yatai float festivals." According to the guidance of the City of Yokkaichi, however, from fiscal 2025 it is held on the Saturday and Sunday following 23 September, so it now falls in a different season from the Ishidori festival in August. On 14 and 15 August, meanwhile, the neighbouring town of Tomida-isshiki holds the Kenka Matsuri of Asuka Shrine, and Amagasuka holds the Ishidori festival of Sumiyoshi Shrine. All of these reflect the custom of the coastal towns of the Hokusei region, which hold their festivals during Bon. The Ishidori festival of Kuwana, the home of this festival type, centres on the first Sunday of August with the eve held the previous day, and was designated an Important Intangible Folk Cultural Property of Japan in March 2007; it is, however, a separate festival from the one in Tomida, so check both the dates and the location before visiting.','tomida-ishidori-matsuri','tomida-ishidori-matsuri','2026-08-09 12:22:14','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-02 12:39:48','Bigben1979','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Tomida_ishidori.JPG','毎年8月14日〜15日（8月14日:各町町練り・8月15日:鳥出神社中心の3町合同祭）',NULL,'鳥出神社のお盆の祭りの一部である。平成期に「富田の夏祭り」と呼称されるようになった。毎年8月13日には四日市市立富田小学校で盆踊りが開催される。8月14日～8','rule_only','ok','20260814 本文に開催日の裏付けなし。抽出元が開催日以外の文脈の疑い');
+Toride Shrine is also known for a second festival, the Kujirabune or whaling-boat event, which is an Important Intangible Folk Cultural Property of Japan and was inscribed on the UNESCO list of intangible cultural heritage in December 2016 as one of the thirty-three "Yama, Hoko, Yatai float festivals." According to the guidance of the City of Yokkaichi, however, from fiscal 2025 it is held on the Saturday and Sunday following 23 September, so it now falls in a different season from the Ishidori festival in August. On 14 and 15 August, meanwhile, the neighbouring town of Tomida-isshiki holds the Kenka Matsuri of Asuka Shrine, and Amagasuka holds the Ishidori festival of Sumiyoshi Shrine. All of these reflect the custom of the coastal towns of the Hokusei region, which hold their festivals during Bon. The Ishidori festival of Kuwana, the home of this festival type, centres on the first Sunday of August with the eve held the previous day, and was designated an Important Intangible Folk Cultural Property of Japan in March 2007; it is, however, a separate festival from the one in Tomida, so check both the dates and the location before visiting.','tomida-ishidori-matsuri','tomida-ishidori-matsuri','2026-08-09 12:22:14','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-02 12:51:37','Bigben1979','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Tomida_ishidori.JPG','毎年8月14日〜15日（8月14日:各町町練り・8月15日:鳥出神社中心の3町合同祭）',NULL,'鳥出神社のお盆の祭りの一部である。平成期に「富田の夏祭り」と呼称されるようになった。毎年8月13日には四日市市立富田小学校で盆踊りが開催される。8月14日～8','rule_only','ok','20260814 本文に開催日の裏付けなし。抽出元が開催日以外の文脈の疑い');
 INSERT INTO "festivals" VALUES('Q11438786','大蛇山 (祭り)',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%9B%87%E5%B1%B1_(%E7%A5%AD%E3%82%8A)',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11439837','大門曳山まつり',NULL,NULL,NULL,NULL,NULL,NULL,'富山県',NULL,NULL,NULL,NULL,NULL,'spring',NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80%E6%9B%B3%E5%B1%B1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 10:43:07',NULL,NULL,NULL,'毎年10月第2日曜日','{"type": "nth_dow", "month": 10, "nth": 2, "dow": 6, "raw": "10月第2日曜日", "ctx": "大門曳山まつり（だいもんひきやままつり）は富山県射水市大門地区にて、毎年10月第2日曜日に行われる明治時代初めより続く大門神社・枇杷首（びわくび）神社の秋季祭礼で、4基", "pos": 36}','大門曳山まつり（だいもんひきやままつり）は富山県射水市大門地区にて、毎年10月第2日曜日に行われる明治時代初めより続く大門神社・枇杷首（びわくび）神社の秋季祭礼で、4基','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11442147','天ヶ須賀の石取祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%B6%E9%A0%88%E8%B3%80%E3%81%AE%E7%9F%B3%E5%8F%96%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 13:44:56',NULL,NULL,NULL,'毎年8月15日','{"type": "fixed", "month": 8, "day": 15, "raw": "8月15日", "ctx": "本七ッ拍子であり、唯一住吉町は五ッ拍子である。毎年8月14日は町練り（各組の練り）をして、8月15日は本練りで天ヶ須賀住吉神社へ参拝する。 8月15日の夕方の時", "pos": 1238}','本七ッ拍子であり、唯一住吉町は五ッ拍子である。毎年8月14日は町練り（各組の練り）をして、8月15日は本練りで天ヶ須賀住吉神社へ参拝する。 8月15日の夕方の時','rule_only','ok','全文抽出(step97)');
