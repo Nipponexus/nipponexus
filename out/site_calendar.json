@@ -1,46 +1,7 @@
 {
- "generated": "2026-11-03 23:00",
- "today": "2026-11-03",
+ "generated": "2026-11-04 07:32",
+ "today": "2026-11-04",
  "next": [
-  {
-   "qid": "Q493695",
-   "name": "唐津くんち",
-   "pref": "佐賀県",
-   "start": "2026-11-03",
-   "end": "",
-   "rule": "毎年11月3日",
-   "conf": "rule_only",
-   "slug": "karatsu-kunchi",
-   "slug_en": "karatsu-kunchi",
-   "name_en": "Karatsu Kunchi",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%94%90%E6%B4%A5%E3%81%8F%E3%82%93%E3%81%A1"
-  },
-  {
-   "qid": "Q11455969",
-   "name": "富士宮まつり",
-   "pref": "静岡県",
-   "start": "2026-11-03",
-   "end": "",
-   "rule": "毎年11月3日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Fujinomiya Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%AE%AE%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q11524909",
-   "name": "東京時代まつり",
-   "pref": "東京都",
-   "start": "2026-11-03",
-   "end": "",
-   "rule": "毎年11月3日",
-   "conf": "fixed_rule",
-   "slug": "tokyo-jidai-matsuri",
-   "slug_en": "tokyo-jidai-matsuri",
-   "name_en": "Tokyo Jidai Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
   {
    "qid": "Q11260406",
    "name": "うすき竹宵",
@@ -157,6 +118,45 @@
    "slug_en": "niiname-no-matsuri",
    "name_en": "Niiname-no-Matsuri",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD"
+  },
+  {
+   "qid": "Q11356768",
+   "name": "三田祭",
+   "pref": "東京都",
+   "start": "2026-11-23",
+   "end": "",
+   "rule": "毎年11月23日",
+   "conf": "fixed_rule",
+   "slug": "mita-festival",
+   "slug_en": "mita-festival",
+   "name_en": "Mita festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%A5%AD"
+  },
+  {
+   "qid": "Q11466745",
+   "name": "山口天神祭",
+   "pref": "山口県",
+   "start": "2026-11-23",
+   "end": "",
+   "rule": "毎年11月23日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%A4%A9%E7%A5%9E%E7%A5%AD"
+  },
+  {
+   "qid": "Q11596116",
+   "name": "秩父夜祭",
+   "pref": "埼玉県",
+   "start": "2026-12-02",
+   "end": "2026-12-03",
+   "rule": "毎年12月2日〜12月3日",
+   "conf": "body_fix",
+   "slug": "chichibu-night-festival",
+   "slug_en": "chichibu-night-festival",
+   "name_en": "Chichibu Night Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD"
   }
  ],
  "annual": [
