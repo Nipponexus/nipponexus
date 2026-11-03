@@ -1366,7 +1366,7 @@ From the middle of the Heian period, the scale grew larger, and dengaku and saru
 
 The capital was reduced to ashes by the Onin War (1467), and the Gion Matsuri was suspended for a time, but it was revived in 1500 (Meio 9). At this time, the kuji-tori-shiki, the ceremony to decide the order of the yamahoko procession, began. Thereafter, through the efforts of the townspeople, the decoration of the yamahoko came to be lavished with great luxury. In early modern times, many yamahoko were lost to repeated fires, but each time they were restored through the spirit of the townspeople and have been handed down to the present.
 
-Living within the festival is also the faith surrounding the amulet inscribed Descendant of Somin Shorai. It derives from the tale, preserved in a fragment of the Bingo no Kuni Fudoki, of Somin Shorai, who welcomed the deity Susanoo-no-Mikoto. The legend that one who calls himself a descendant of Somin Shorai and wears a chi-no-wa reed ring will be spared from epidemic flows at the root of the festival.
+Living within the festival is also the faith surrounding the amulet inscribed Descendant of Somin Shorai. It derives from the tale, preserved in a fragment of the Bingo no Kuni Fudoki, of Somin Shorai, who welcomed the deity Susanoo-no-Mikoto. The legend that one who calls himself a descendant of Somin Shorai and wears a chi-no-wa reed ring will be spared from epidemic lies at the root of the festival.
 
 ## Highlights
 
@@ -1396,7 +1396,7 @@ Living within the festival is also the faith surrounding the amulet inscribed De
 
 ## Surrounding Area
 
-Kyoto City, where the Gion Matsuri takes place, is a historic city that was the capital of Japan for more than a thousand years since the relocation of the capital in the Heian period, and countless shrines, temples, and traditional cultures live on there today. Yasaka Shrine, the center of the festival, sits at the foot of Higashiyama in Kyoto, at the eastern edge of the Gion district, and has long attracted deep faith as a deity that wards off epidemic.
+Kyoto City, where the Gion Matsuri takes place, is a historic city that was the capital of Japan for more than a thousand years since the relocation of the capital in the Heian period, and countless shrines, temples, and traditional cultures live on there today. Yasaka Shrine, the center of the festival, sits at the foot of Higashiyama in Kyoto, at the eastern edge of the Gion district, and has long attracted deep faith as a deity that wards off epidemics.
 
 Before the gate of Yasaka Shrine spreads the townscape of Gion, with its stone-paved streets and machiya townhouses preserved, where one can savor the atmosphere characteristic of Kyoto. Even outside the festival season, a visit to Yasaka Shrine can be combined with a tour of nearby famous sites such as Kiyomizu-dera, the Yasaka Pagoda, and Hanamikoji.
 
@@ -1412,7 +1412,7 @@ Kyoto is home to the Three Great Festivals of Kyoto, together with the Aoi Matsu
 - Character: One of the Three Great Festivals of Japan; the festival of Yasaka Shrine
 - Cultural Property: The Yamahoko Float Ceremony of the Kyoto Gion Festival is a UNESCO Intangible Cultural Heritage
 - Main Highlights: The yamahoko procession, tsujimawashi, yoiyama, Gion-bayashi, and chimaki
-','gion-matsuri','gion-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','江戸村のとくぞう','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg','毎年7月1日〜31日','{"type": "range_fixed", "month": 7, "day": 1, "raw": "7月1日〜31日", "ctx": "ています。## 開催情報・アクセス**開催期間**　毎年7月1日から31日までの約1か月間。", "src": "rescue_20260813", "end_month": 7, "end_day": 31}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+','gion-matsuri','gion-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 08:14:53','江戸村のとくぞう','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg','毎年7月1日〜31日','{"type": "range_fixed", "month": 7, "day": 1, "raw": "7月1日〜31日", "ctx": "ています。## 開催情報・アクセス**開催期間**　毎年7月1日から31日までの約1か月間。", "src": "rescue_20260813", "end_month": 7, "end_day": 31}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q911345','CON-CANムービーフェスティバル','CON-CAN Movie Festival',NULL,'film festival',NULL,NULL,NULL,'千葉県','kanto',35.67659,139.70793,2005,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/CON-CAN%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB','https://en.wikipedia.org/wiki/CON-CAN_Movie_Festival',70,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q901495','ゆうばり国際ファンタスティック映画祭','Yubari International Fantastic Film Festival','日本の北海道夕張市で開かれている映画祭','film festival','Q637145','夕張市','Yūbari-shi','北海道','hokkaido',NULL,NULL,1990,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%86%E3%81%B0%E3%82%8A%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yubari_International_Fantastic_Film_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q903645','国際花と緑の博覧会','Expo ''90','1990年に大阪府の鶴見緑地で行われた国際博覧会','international gardening exposition held in Tsurumi Ryokuchi, Osaka','Q11615139','花博記念公園鶴見緑地','Tsurumiryokuchi Expo ''90 Commemorative Park','大阪府','kinki',34.71216667,135.57416667,NULL,NULL,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/EXPO%201990.JPG','https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%8A%B1%E3%81%A8%E7%B7%91%E3%81%AE%E5%8D%9A%E8%A6%A7%E4%BC%9A','https://en.wikipedia.org/wiki/Expo_%2790',95,'skipped_offtopic','## 概要
@@ -38108,7 +38108,7 @@ INSERT INTO "festivals" VALUES('Q11675240','鳳だんじり祭り',NULL,NULL,NUL
 INSERT INTO "festivals" VALUES('Q11669460','高岡といで菜の花フェスティバル','Takaoka Tode Nanohana Festival',NULL,'flower festival in Japan',NULL,NULL,NULL,'富山県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E3%81%A8%E3%81%84%E3%81%A7%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年4月29日','{"type": "fixed", "month": 4, "day": 29, "raw": "4月29日", "ctx": "高岡といで菜の花フェスティバル（たかおかといでなのはなフェスティバル）は、毎年4月29日ごろに富山県高岡市戸出（北般若地区）の高岡オフィスパーク地区周辺で行われる小規模", "pos": 39}','高岡といで菜の花フェスティバル（たかおかといでなのはなフェスティバル）は、毎年4月29日ごろに富山県高岡市戸出（北般若地区）の高岡オフィスパーク地区周辺で行われる小規模','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri','京都府京都市左京区鞍馬にある由岐神社例祭の一つ','Festival in Japan','Q11577577','由岐神社','Yuki Shrine','京都府','kinki',NULL,NULL,NULL,10,'autumn','https://commons.wikimedia.org/wiki/Special:FilePath/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','https://ja.wikipedia.org/wiki/%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD',NULL,85,'drafted','## 概要
 
-鞍馬の火祭（くらまのひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りである。京都三大奇祭のひとつに数えられ、大小あわせて約300本の松明が鞍馬の里を練り歩き、燃え盛る炎と「サイレイ、サイリョウ」の掛け声、男たちの熱気が夜の山里を包む。狭い鞍馬街道沿いの集落全域を舞台とし、火の粉が舞うなかで神輿が急な石段を下る様は、京都の数ある祭りのなかでも随一の迫力と神秘性を誇る。
+鞍馬の火祭（くらまのひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りである。京都三大奇祭のひとつに数えられ、大小あわせて約300本の松明が鞍馬の里を練り歩き、燃え盛る炎と「サイレイヤ、サイリョウ」の掛け声、男たちの熱気が夜の山里を包む。狭い鞍馬街道沿いの集落全域を舞台とし、火の粉が舞うなかで神輿が急な石段を下る様は、京都の数ある祭りのなかでも随一の迫力と神秘性を誇る。
 
 祭りの起源は平安時代にさかのぼる。天慶3年（940年）に平安京の内裏で祀られていた由岐明神を鞍馬へ遷座した際、里人たちが松明を灯して夜道を照らしながら神霊を迎えた松明行列が、この火祭の原型とされる。10月22日は京都市街で行われる時代祭と同日にあたるが、両者が同日となったのは偶然である。鞍馬の火祭は地域住民が主体となって守り伝えてきた祭りであり、松明づくりから当日の運営まで、すべてが鞍馬の里人たちの手によって担われている。
 
@@ -38120,17 +38120,17 @@ INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri',
 
 由岐神社は明治の神仏分離までは鞍馬寺の一部であり、鞍馬の火祭もかつては鞍馬寺の祭礼として行われていた。祭りの日付も時代とともに変わっている。もとは旧暦9月9日（由岐明神遷座の日）に行われていたが、明治6年（1873年）ごろから新暦10月22日に行われるようになった。旧暦9月9日が新暦では10月22日前後にあたるためとみられ、時代祭が始まる22年も前のことである。時代祭と同じ日になったのは、双方が別々の事情で10月22日に落ち着いた結果の偶然にすぎない。
 
-戦後は、氏子の生業が山林業から会社員へと移り変わったことなどに伴い、昭和34年（1959年）に祭りは一時中断された。しかし祭礼の一部を縮小するかたちで昭和38年（1963年）に復活した。以後も斎行が重ねられてきたが、開催可否は年によって変わるため、最新の情報は公式サイトで確認したい。復活にあたっては、翌朝まで続いていた祭礼を深夜に終えるようにするなど、担い手の負担を軽減する変更が加えられた。時代の変化とともに形態は変わってきたが、その根底にある信仰心と地域への愛着は変わることなく受け継がれている。
+戦後は、氏子の生業が山林業から会社員へと移り変わったことなどに伴い、昭和34年（1959年）に祭りは一時中断されたとされる。しかし祭礼の一部を縮小するかたちで昭和38年（1963年）に復活した。以後も斎行が重ねられてきたが、開催可否は年によって変わるため、最新の情報は公式サイトで確認したい。復活にあたっては、翌朝まで続いていた祭礼を深夜に終えるようにするなど、担い手の負担を軽減する変更が加えられた。時代の変化とともに形態は変わってきたが、その根底にある信仰心と地域への愛着は変わることなく受け継がれている。
 
 ## 見どころ
 
 **男たちが担ぐ巨大な松明**　火祭最大の見どころは、里人たちが担ぐ松明である。小さな子どもが運ぶ「トックリ松明」に始まり、小学生・中学生が担ぐ大きな松明へと進み、最後には若者たちが数人がかりで担ぎ上げる巨大な「甲斐性松明（かいしょうたいまつ）」が登場する。甲斐性松明は最大で100kgを超えるといわれ、かつて山林作業を生業としていた頃は一人で担いだと伝わる。松明は住民たちの手作りで、近隣の山から刈った柴を藤のつるや根で束ねてつくられる。
 
-**「サイレイ、サイリョウ」の掛け声**　18時頃、狩衣姿の触れ歩き役が「神事にまいらっしゃーれ」と叫んで里を巡る「神事触れ」を合図に、各家の篝（かがり火）に火が入り、火祭が本格的に始まる。以後、「サイレイ、サイリョウ」という独特の掛け声とともに、点火された松明や剣鉾を持った若者たちが由岐神社の御旅所へと集まってくる。この掛け声は「祭礼、祭礼」あるいは「祭礼、最良」を意味するといわれ、夜の山里に響き渡る。
+**「サイレイヤ、サイリョウ」の掛け声**　18時頃、狩衣姿の触れ歩き役が「神事にまいらっしゃーれ」と叫んで里を巡る「神事触れ」を合図に、各家の篝（かがり火）に火が入り、火祭が本格的に始まる。以後、「サイレイヤ、サイリョウ」という独特の掛け声とともに、点火された松明や剣鉾を持った若者たちが由岐神社の御旅所へと集まってくる。この掛け声は「祭礼、祭礼」あるいは「祭礼、最良」を意味するといわれ、夜の山里に響き渡る。
 
-**剣鉾の巡行**　鞍馬の火祭では松明だけでなく、7本の剣鉾も巡行する。京都の他の祭礼と同様に、本来の主役は松明ではなく剣鉾であったと考えられている。この剣鉾がさらに発展したものが、祇園祭の山鉾であるとされる。置いたまま揺らして鳴らす剣鉾の澄んだ音は魔を祓うとされ、炎の祭りのなかに古式の神事の面影を伝えている。
+**剣鉾の巡行**　鞍馬の火祭では松明だけでなく、剣鉾（一本鉾と四本鉾の2種）も巡行する。京都の他の祭礼と同様に、本来の主役は松明ではなく剣鉾であったと考えられている。この剣鉾がさらに発展したものが、祇園祭の山鉾であるとされる。置いたまま揺らして鳴らす剣鉾の澄んだ音は魔を祓うとされ、炎の祭りのなかに古式の神事の面影を伝えている。
 
-**鞍馬寺山門前の大松明とハイライト**　21時頃、大小あわせて約300本の松明が鞍馬寺の山門前に集結する。全ての大松明が揃うと山門前の石段に立てられ、多数の松明が並ぶ火祭最大のハイライトを迎える。山門前は熱気と火の粉に覆われ、「サイレイ、サイリョウ」の大合唱が響き渡る。役目を終えた大松明は山門前に投げ入れられ、大きな炎を上げて燃え尽きていく。
+**鞍馬寺山門前の大松明とハイライト**　21時頃、大小あわせて約300本の松明が鞍馬寺の山門前に集結する。全ての大松明が揃うと山門前の石段に立てられ、多数の松明が並ぶ火祭最大のハイライトを迎える。山門前は熱気と火の粉に覆われ、「サイレイヤ、サイリョウ」の大合唱が響き渡る。役目を終えた大松明は山門前に投げ入れられ、大きな炎を上げて燃え尽きていく。
 
 **急坂を下る神輿と「チョッペンの儀」**　注連縄切りの儀を経て、由岐明神と八所明神を祀る二基の神輿が急な参道の石段を下ってくる。神輿には鎧武者が乗り、後方の綱を女性たちが引いて転落を防ぐ。この綱を引くと安産の御利益があるとされ、女性の参加が多いのも火祭の特徴である。このとき神輿の担い棒の先端に2名の若者が逆さ大の字でつかまる「チョッペンの儀」が行われる。これは鞍馬に伝わる成人儀礼のひとつである。
 
@@ -38141,7 +38141,7 @@ INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri',
 - **開催地**：京都府京都市左京区鞍馬（鞍馬街道沿いの鞍馬の里一帯）
 - **会場**：由岐神社・鞍馬寺山門前・御旅所ほか
 - **開催日**：毎年10月22日（神幸祭。翌日に還幸祭）
-- **主な時間帯**：18時頃 神事触れ・点火／20時30分頃 御旅所集結／21時頃 山門前ハイライト／22時前後 神輿渡御・チョッペンの儀
+- **主な時間帯**：18時頃 神事触れ・点火／20時30分頃 御旅所集結／21時頃 山門前ハイライト／22時前後 神輿渡御・チョッペンの儀（時間は目安で年により前後する）
 - **アクセス**：叡山電鉄鞍馬線「鞍馬」駅下車。当日は大混雑し自家用車の進入も制限されるため公共交通機関の利用が必須
 - **観覧**：無料。ただし狭い山間部のため場所取りは基本的にできず、警備員・関係者の誘導に従う必要がある。終電時刻に注意
 
@@ -38158,13 +38158,13 @@ INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri',
 - **開催月**：10月（22日）
 - **所在地**：京都府京都市左京区・近畿地方
 - **起源**：天慶3年（940年）の由岐明神遷座の際の松明行列が原型。現在の火祭の形は江戸末期以降に発展
-- **規模**：大小あわせて約300本の松明（最大100kg超の甲斐性松明を含む）と7本の剣鉾が巡行
+- **規模**：大小あわせて約300本の松明（最大100kg超の甲斐性松明を含む）と剣鉾（一本鉾と四本鉾）が巡行
 - **主な神事**：神事触れ、注連縄切りの儀、神輿渡御、成人儀礼「チョッペンの儀」
 - **位置づけ**：京都三大奇祭のひとつ。由岐神社の例祭。昭和34年（1959年）中断、昭和38年（1963年）復活
 - **主催・保護団体**：由岐神社／鞍馬の里の氏子（七仲間ほか）
 ','## Overview
 
-The Kurama Fire Festival (Kurama no Hi-matsuri) is the annual rite of Yuki Shrine, which stands in Kurama in the Sakyo Ward of Kyoto City, held on the night of October 22 each year. Counted among the three great eccentric festivals of Kyoto, it sees some 300 torches, large and small, carried in procession through the village of Kurama, and the blazing flames, the distinctive cry of "Sairei, Sairyo," and the fervor of the men fill the mountain village by night. Staged throughout the settlement along the narrow Kurama road, the sight of the portable shrines descending the steep stone steps amid showering sparks boasts a power and mystery unrivaled among Kyoto''s many festivals.
+The Kurama Fire Festival (Kurama no Hi-matsuri) is the annual rite of Yuki Shrine, which stands in Kurama in the Sakyo Ward of Kyoto City, held on the night of October 22 each year. Counted among the three great eccentric festivals of Kyoto, it sees some 300 torches, large and small, carried in procession through the village of Kurama, and the blazing flames, the distinctive cry of "Saireiya, Sairyo," and the fervor of the men fill the mountain village by night. Staged throughout the settlement along the narrow Kurama road, the sight of the portable shrines descending the steep stone steps amid showering sparks boasts a power and mystery unrivaled among Kyoto''s many festivals.
 
 The festival''s origins go back to the Heian period. When Yuki Myojin, enshrined in the imperial palace of Heian-kyo, was transferred to Kurama in 940 (Tengyo 3), the villagers are said to have lit torches to illuminate the night road as they welcomed the deity, and this torchlight procession is regarded as the prototype of the fire festival. October 22 falls on the same day as the Jidai Festival held in central Kyoto, but that the two coincide is mere chance. The Kurama Fire Festival is a festival that the local residents themselves have preserved and handed down, with everything from the making of the torches to the running of the day borne by the hands of the villagers of Kurama.
 
@@ -38176,17 +38176,17 @@ That said, the large-scale form of the fire festival as it exists today is thoug
 
 Until the separation of Shinto and Buddhism in the Meiji era, Yuki Shrine was part of Kurama-dera, and the Kurama Fire Festival was once held as a rite of Kurama-dera. The date of the festival has also changed over time. It was originally held on the ninth day of the ninth lunar month (the day of Yuki Myojin''s transfer), but from around 1873 (Meiji 6) it came to be held on October 22 by the new calendar, apparently because the ninth day of the ninth lunar month falls around October 22 in the new calendar. This was fully twenty-two years before the Jidai Festival began. That it falls on the same day as the Jidai Festival is nothing more than a coincidence resulting from each settling on October 22 for its own separate reasons.
 
-After the war, along with the shift of the parishioners'' livelihoods from forestry to salaried work and other changes, the festival was suspended once in 1959 (Showa 34). It was revived in 1963 (Showa 38) in a somewhat reduced form and has been held in the years since, although whether it goes ahead in a given year can change, so check the official website for the latest information. Upon its revival, changes were made to ease the burden on those who carry it out, such as ending by late night a rite that had once continued until the following morning. Though its form has changed with the times, the faith and attachment to the region at its root have been handed down unchanged.
+After the war, along with the shift of the parishioners'' livelihoods from forestry to salaried work and other changes, the festival is said to have been suspended once in 1959 (Showa 34). It was revived in 1963 (Showa 38) in a somewhat reduced form and has been held in the years since, although whether it goes ahead in a given year can change, so check the official website for the latest information. Upon its revival, changes were made to ease the burden on those who carry it out, such as ending by late night a rite that had once continued until the following morning. Though its form has changed with the times, the faith and attachment to the region at its root have been handed down unchanged.
 
 ## Highlights
 
 **The Enormous Torches Carried by the Men**　The greatest highlight of the fire festival is the torches carried by the villagers. They begin with the "tokkuri torches" carried by small children, progress to the large torches shouldered by elementary and junior high school students, and finally the enormous "kaisho torches" that young men lift together in groups of several appear. The kaisho torches are said to weigh more than 100 kilograms at most, and it is told that in the days when forestry was the livelihood, a single person carried them. The torches are handmade by the residents, made by bundling brushwood cut from the nearby mountains with wisteria vines and roots.
 
-**The Cry of "Sairei, Sairyo"**　Around 6 p.m., a herald in hunting-robe attire makes the rounds of the village crying "Come to the rite," and at this signal, called the "shinji-bure," the beacon fires at each house are lit and the fire festival begins in earnest. Thereafter, with the distinctive cry of "Sairei, Sairyo," young men bearing lit torches and ceremonial halberds gather toward the resting place (otabisho) of Yuki Shrine. This cry is said to mean "rite, rite" or "rite, the best," and it echoes through the mountain village by night.
+**The Cry of "Saireiya, Sairyo"**　Around 6 p.m., a herald in hunting-robe attire makes the rounds of the village crying "Come to the rite," and at this signal, called the "shinji-bure," the beacon fires at each house are lit and the fire festival begins in earnest. Thereafter, with the distinctive cry of "Saireiya, Sairyo," young men bearing lit torches and ceremonial halberds gather toward the resting place (otabisho) of Yuki Shrine. This cry is said to mean "rite, rite" or "rite, the best," and it echoes through the mountain village by night.
 
-**The Procession of the Ceremonial Halberds**　In the Kurama Fire Festival, not only torches but seven ceremonial halberds (kenboko) are carried in procession. As in other Kyoto festivals, it is thought that the true protagonists were originally not the torches but the ceremonial halberds. It is said that these halberds, developed further, became the yamahoko floats of the Gion Festival. The clear sound of the halberds, swayed and rung while set in place, is believed to ward off evil, conveying the vestige of an ancient rite within the festival of flame.
+**The Procession of the Ceremonial Halberds**　In the Kurama Fire Festival, not only torches but also ceremonial halberds (kenboko) are carried in procession, of two types: the one-pronged ippon-boko and the large yonhon-boko. As in other Kyoto festivals, it is thought that the true protagonists were originally not the torches but the ceremonial halberds. It is said that these halberds, developed further, became the yamahoko floats of the Gion Festival. The clear sound of the halberds, swayed and rung while set in place, is believed to ward off evil, conveying the vestige of an ancient rite within the festival of flame.
 
-**The Great Torches Before the Kurama-dera Gate and the Climax**　Around 9 p.m., some 300 torches, large and small, gather before the gate of Kurama-dera. When all the great torches are assembled, they are stood on the stone steps before the gate, reaching the greatest climax of the fire festival, with numerous torches standing in rows. The area before the gate is covered in heat and sparks, and the great chorus of "Sairei, Sairyo" resounds. The great torches that have finished their role are thrown down before the gate and burn out in great flames.
+**The Great Torches Before the Kurama-dera Gate and the Climax**　Around 9 p.m., some 300 torches, large and small, gather before the gate of Kurama-dera. When all the great torches are assembled, they are stood on the stone steps before the gate, reaching the greatest climax of the fire festival, with numerous torches standing in rows. The area before the gate is covered in heat and sparks, and the great chorus of "Saireiya, Sairyo" resounds. The great torches that have finished their role are thrown down before the gate and burn out in great flames.
 
 **The Portable Shrines Descending the Steep Slope and the "Choppen" Rite**　After the rite of cutting the sacred rope (shimenawa), two portable shrines enshrining Yuki Myojin and Hassho Myojin descend the steep stone steps of the approach. Armored warriors ride on the shrines, and women pull ropes attached at the rear to prevent them from falling. Pulling these ropes is said to bring the blessing of safe childbirth, and the large participation of women is another feature of the fire festival. At this moment two young men cling in an inverted spread-eagle position to the tip of the shrine''s carrying poles, in the "Choppen" rite. This is one of the coming-of-age rites handed down in Kurama.
 
@@ -38197,7 +38197,7 @@ After the war, along with the shift of the parishioners'' livelihoods from fores
 - **Location**: Kurama, Sakyo Ward, Kyoto City, Kyoto Prefecture (throughout the village of Kurama along the Kurama road)
 - **Venue**: Yuki Shrine, the front of the Kurama-dera gate, the resting place (otabisho), and elsewhere
 - **Date**: October 22 each year (the shinko-sai; the return rite is held the following day)
-- **Main Times**: Around 6 p.m. the herald and lighting; around 8:30 p.m. gathering at the resting place; around 9 p.m. the climax before the gate; around 10 p.m. the shrine procession and the Choppen rite
+- **Main Times**: Around 6 p.m. the herald and lighting; around 8:30 p.m. gathering at the resting place; around 9 p.m. the climax before the gate; around 10 p.m. the shrine procession and the Choppen rite (times are approximate and vary by year)
 - **Access**: Alight at "Kurama" Station on the Eizan Railway Kurama Line. Public transport is essential, as the day is extremely crowded and private cars are restricted from entering
 - **Viewing**: Free, but as it takes place in a narrow mountain area, staking out a spot is basically impossible, and one must follow the guidance of guards and officials. Note the time of the last train
 
@@ -38214,11 +38214,11 @@ The Kurama Line of the Eizan Railway is known for the "maple tunnel" along its r
 - **Month**: October (the 22nd)
 - **Location**: Sakyo Ward, Kyoto City, Kyoto Prefecture, Kinki region
 - **Origins**: The torchlight procession at the transfer of Yuki Myojin in 940 (Tengyo 3) is the prototype; the present form of the fire festival developed from the late Edo period onward
-- **Scale**: Some 300 torches large and small (including kaisho torches weighing more than 100 kilograms) and seven ceremonial halberds are carried in procession
+- **Scale**: Some 300 torches large and small (including kaisho torches weighing more than 100 kilograms) and ceremonial halberds (of two types, the one-pronged and the large four-pronged) are carried in procession
 - **Main Rites**: The herald (shinji-bure), the rite of cutting the sacred rope, the shrine procession, and the coming-of-age "Choppen" rite
 - **Status**: One of the three great eccentric festivals of Kyoto; the annual rite of Yuki Shrine. Suspended in 1959 (Showa 34), revived in 1963 (Showa 38)
 - **Organizer / Preservation Body**: Yuki Shrine / the parishioners of the village of Kurama (the seven groups, and others)
-','kurama-himatsuri','kurama-himatsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Indiana jo','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','毎年10月22日','{"type": "fixed", "month": 10, "day": 22, "raw": "10月22日", "ctx": "ひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りであ", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+','kurama-himatsuri','kurama-himatsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 08:15:14','Indiana jo','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','毎年10月22日','{"type": "fixed", "month": 10, "day": 22, "raw": "10月22日", "ctx": "ひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りであ", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q17210171','山王まつり','Sannō Matsuri','富山県富山市にある日枝神社の例大祭','festival in Toyama, Japan','Q11509530','日枝神社','Hie Shrine','富山県','chubu',NULL,NULL,1690,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%AF%8C%E5%B1%B1%E5%B8%82)',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年5月31日〜6月2日','{"type": "range_fixed", "month": 5, "day": 31, "end_month": 6, "end_day": 2, "raw": "5月31日から6月2日", "ctx": "(富山市)（さんのうまつり） - 富山県富山市にある日枝神社の春季例大祭であり、5月31日から6月2日にかけて行われる。 山王祭 (高山市)（さんのうまつり）  - 岐阜県高山市城山", "pos": 111}','(富山市)（さんのうまつり） - 富山県富山市にある日枝神社の春季例大祭であり、5月31日から6月2日にかけて行われる。 山王祭 (高山市)（さんのうまつり）  - 岐阜県高山市城山','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11643131','郡山うねめまつり','Kōriyama Uneme Festival',NULL,'festival in Kōriyama, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E3%81%86%E3%81%AD%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11632182','謙信公祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
