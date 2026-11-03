@@ -38160,7 +38160,7 @@ INSERT INTO "festivals" VALUES('Q11663900','鞍馬の火祭','Kurama Himatsuri',
 - **起源**：天慶3年（940年）の由岐明神遷座の際の松明行列が原型。現在の火祭の形は江戸末期以降に発展
 - **規模**：大小あわせて約300本の松明（最大100kg超の甲斐性松明を含む）と剣鉾（一本鉾と四本鉾）が巡行
 - **主な神事**：神事触れ、注連縄切りの儀、神輿渡御、成人儀礼「チョッペンの儀」
-- **位置づけ**：京都三大奇祭のひとつ。由岐神社の例祭。昭和34年（1959年）中断、昭和38年（1963年）復活
+- **位置づけ**：京都三大奇祭のひとつ。由岐神社の例祭。昭和38年（1963年）復活
 - **主催・保護団体**：由岐神社／鞍馬の里の氏子（七仲間ほか）
 ','## Overview
 
@@ -38214,9 +38214,9 @@ The Kurama Line of the Eizan Railway is known for the "maple tunnel" along its r
 - **Origins**: The torchlight procession at the transfer of Yuki Myojin in 940 (Tengyo 3) is the prototype; the present form of the fire festival developed from the late Edo period onward
 - **Scale**: Some 300 torches large and small (including kaisho torches weighing more than 100 kilograms) and ceremonial halberds (of two types, the one-pronged and the large four-pronged) are carried in procession
 - **Main Rites**: The herald (shinji-bure), the rite of cutting the sacred rope, the shrine procession, and the coming-of-age "Choppen" rite
-- **Status**: One of the three great eccentric festivals of Kyoto; the annual rite of Yuki Shrine. Suspended in 1959 (Showa 34), revived in 1963 (Showa 38)
+- **Status**: One of the three great eccentric festivals of Kyoto; the annual rite of Yuki Shrine. revived in 1963 (Showa 38)
 - **Organizer / Preservation Body**: Yuki Shrine / the parishioners of the village of Kurama (the seven groups, and others)
-','kurama-himatsuri','kurama-himatsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 08:47:58','Indiana jo','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','毎年10月22日','{"type": "fixed", "month": 10, "day": 22, "raw": "10月22日", "ctx": "ひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りであ", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+','kurama-himatsuri','kurama-himatsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 08:56:24','Indiana jo','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:%E9%9E%8D%E9%A6%AC%E3%81%AE%E7%81%AB%E7%A5%AD4.jpg','毎年10月22日','{"type": "fixed", "month": 10, "day": 22, "raw": "10月22日", "ctx": "ひまつり）は、京都市左京区の鞍馬に鎮座する由岐神社の例祭で、毎年10月22日の夜に行われる勇壮な火の祭りであ", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q17210171','山王まつり','Sannō Matsuri','富山県富山市にある日枝神社の例大祭','festival in Toyama, Japan','Q11509530','日枝神社','Hie Shrine','富山県','chubu',NULL,NULL,1690,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%8E%8B%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%AF%8C%E5%B1%B1%E5%B8%82)',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年5月31日〜6月2日','{"type": "range_fixed", "month": 5, "day": 31, "end_month": 6, "end_day": 2, "raw": "5月31日から6月2日", "ctx": "(富山市)（さんのうまつり） - 富山県富山市にある日枝神社の春季例大祭であり、5月31日から6月2日にかけて行われる。 山王祭 (高山市)（さんのうまつり）  - 岐阜県高山市城山", "pos": 111}','(富山市)（さんのうまつり） - 富山県富山市にある日枝神社の春季例大祭であり、5月31日から6月2日にかけて行われる。 山王祭 (高山市)（さんのうまつり）  - 岐阜県高山市城山','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11643131','郡山うねめまつり','Kōriyama Uneme Festival',NULL,'festival in Kōriyama, Japan',NULL,NULL,NULL,'福島県','tohoku',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%83%A1%E5%B1%B1%E3%81%86%E3%81%AD%E3%82%81%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11632182','謙信公祭',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
