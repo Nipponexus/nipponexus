@@ -34602,7 +34602,7 @@ INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社
 
 **枡形での三匝（さんそう）**　祭りのクライマックスは、嚴島神社の廻廊に囲まれた狭い枡形（ますがた）に御座船が入り、水竿を使って三回まわりながら管絃を奉奏する場面である。最小の水域で船を巧みに回す技は圧巻で、参拝客の歓声と拍手が廻廊にこだまする。
 
-**満月に照らされた夜の海**　管絃祭が旧暦6月17日に行われるのは、満月に近く海面が明るいことも理由の一つである。満潮の海に浮かぶ御座船と、その上空に輝く月が織りなす情景は、この祭りならではの美しさである。
+**満月に照らされた夜の海**　満潮の海に浮かぶ御座船と、その上空に輝く月が織りなす情景は、この祭りならではの美しさである。
 
 **管絃の音色**　祭りの名の由来となった管絃の奉奏は、船上と各神社前で繰り返される。潮の香りのする海上に響く雅な楽の音は、平安の雅を今に伝える貴重な体験である。
 
@@ -34659,7 +34659,7 @@ There is also a reason for the date of the 17th day of the sixth lunar month. Be
 
 **The Triple Turn in the Masugata**　The climax of the festival comes when the ceremonial boat enters the narrow masugata surrounded by the corridors of Itsukushima Shrine and turns three times using poles while court music is performed. The skill of maneuvering the boat in the smallest possible space is spectacular, and the cheers and applause of the worshippers echo through the corridors.
 
-**The Sea Illuminated by the Full Moon**　One reason the Kangensai is held on the 17th day of the sixth lunar month is that the moon is near full and the sea surface is bright. The scene of the ceremonial boat floating on the high tide beneath the shining moon is a beauty unique to this festival.
+**The Sea Illuminated by the Full Moon**　
 
 **The Sound of Court Music**　The performance of court music, from which the festival takes its name, is repeated on the boat and in front of each shrine. The elegant strains of music echoing over the salt-scented sea offer a precious experience that conveys the refinement of the Heian period to the present day.
 
@@ -34692,7 +34692,7 @@ Along the Omotesando shopping street, visitors can enjoy Miyajima specialties su
 - The Towing by Aga and Eba: A tradition that began with the rescue of the ceremonial boat in 1701, now carried out by the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative.
 - World Heritage Site: Itsukushima Shrine, the venue of the festival, was registered as a UNESCO World Heritage Site in 1996.
 - Lunar Calendar Scheduling: The festival is fixed to the 17th day of the sixth lunar month based on tide levels, moonlight, and the low risk of typhoons, so its date on the modern calendar varies each year.
-','kangensai','kangensai','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 12:49:14','hiro','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Kangen_jigozen2.jpg','毎年6月17日','{"type": "fixed", "month": 6, "day": 17, "raw": "6月17日", "ctx": "管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ", "pos": 15}','jawiki導入部: 管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ','fixed_rule','lunar','旧暦基準 (旧暦/src)');
+','kangensai','kangensai','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 13:06:47','hiro','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Kangen_jigozen2.jpg','毎年6月17日','{"type": "fixed", "month": 6, "day": 17, "raw": "6月17日", "ctx": "管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ", "pos": 15}','jawiki導入部: 管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ','fixed_rule','lunar','旧暦基準 (旧暦/src)');
 INSERT INTO "festivals" VALUES('Q11599004','竹割り祭り','Takewari Festival',NULL,NULL,'Q11619342','菅生石部神社','Sugō Isobe Shrine','石川県',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 10:43:07',NULL,NULL,NULL,'毎年2月10日','{"type": "fixed", "month": 2, "day": 10, "raw": "2月10日", "ctx": "竹割り祭り（たけわりまつり）とは、石川県加賀市の菅生石部神社で毎年2月10日に行われる例祭。「竹割り祭り」は俗称であり、正しくは御願神事（ごんがんしんじ）と", "pos": 33}','竹割り祭り（たけわりまつり）とは、石川県加賀市の菅生石部神社で毎年2月10日に行われる例祭。「竹割り祭り」は俗称であり、正しくは御願神事（ごんがんしんじ）と','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11582690','県祭り','Agata Matsuri','京都府宇治市の祭',NULL,'Q11608139','縣神社','Agata Shrine','京都府','kinki',NULL,NULL,NULL,6,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Bonten%20togyo.jpg','https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
