@@ -21,7 +21,6 @@ const {
   locale = 'ja',
   canonical,
   altLang,
-  ogImage = '/og-default.jpg',
 } = Astro.props;
 
 const siteUrl = 'https://nipponexus.com';
@@ -44,8 +43,8 @@ const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString(
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content={ogImage} />
-  <meta name="twitter:card" content="summary_large_image" />
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  {ogImage && <meta name="twitter:card" content="summary_large_image" />}
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
