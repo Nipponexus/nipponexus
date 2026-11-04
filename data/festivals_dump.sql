@@ -3946,7 +3946,7 @@ INSERT INTO "festivals" VALUES('Q30924149','豊年祭','Hōnen Matsuri','愛知�
 
 江戸時代には、裃を着て太刀を持った約2尺（約60センチ）の大きさの藁人形を、1尺8寸（約54センチ）の朱色の大男茎形に乗せて担ぐ形態が確認されています。行列の規模は数名程度と小規模で、その後ろを数名が木製の男茎形を一つずつ担いでいたと記録されています。この時代の祭りは、現在よりもはるかに控えめで、地域の限られた参加者によって執り行われていました。
 
-戦前の豊年祭では、行列の規模は約20名ほどでした。裃姿に刀を差した1尺5寸（約45センチ）程度の大きさの藁人形を、2尺3寸（約70センチ）の朱塗りの大男茎形に乗せていたことが記録されています。祭りの観光化に伴って特に男根だけが強調されて巨大化し、昭和24年（1949年）から約2メートルの大男茎形が作られるようになりました。その後、行列の規模も大きくなり、現在の形へと拡大していきました。なお、平成28年（2016年）3月24日には小牧市の無形民俗文化財に指定されましたが、籤取式、斧入祭、献餅行列、祭当日の田縣神社例大祭、餅投げが文化財指定の対象に含まれています。
+戦前の豊年祭では、行列の規模は約20名ほどでした。裃姿に刀を差した1尺5寸（約45センチ）程度の大きさの藁人形を、2尺3寸（約70センチ）の朱塗りの大男茎形に乗せていたことが記録されています。祭りの観光化に伴って特に男根だけが強調されて巨大化し、昭和24年（1949年）から約2メートルの大男茎形が作られるようになりました。その後、行列の規模も大きくなり、現在の形へと拡大していきました。なお、平成28年（2016年）3月24日には小牧市の無形民俗文化財に指定され、籤取式、斧入祭、献餅行列、祭当日の田縣神社例大祭、餅投げがその対象に含まれています。
 
 ## 見どころ
 **御輿行列と大男茎形**
@@ -3968,7 +3968,7 @@ INSERT INTO "festivals" VALUES('Q30924149','豊年祭','Hōnen Matsuri','愛知�
 例大祭の後には、境内の餅棚から大量の奉納餅が撒かれ、祭りのフィナーレを飾ります。餅撒きには「危険なので子供と老人は参加不可」「下に落ちた餅を拾うのは不可」「餅を投げるときは下投げのみOK」という厳格なルールが設けられています。参拝者らは餅を受け取り、豊かな年の実りを願うと共に祭の成功を皆で喜び合います。2023年には20年ぶりの大雨に見舞われましたが、大男茎形が奉納された直後に雨が止み、餅撒きも予定通り行われました。
 
 ## 開催情報・アクセス
-- 開催日: 3月15日（日曜日）
+- 開催日: 3月15日
 - 開催時間: 10:00～16:00
 - 開催場所: 田縣神社（愛知県小牧市田県町152番地）
 - 入場料: 無料（事前予約不要）
@@ -3993,7 +3993,7 @@ INSERT INTO "festivals" VALUES('Q30924149','豊年祭','Hōnen Matsuri','愛知�
 - この祭りは「天下の奇祭」として海外メディアでも紹介され、海外からの観光客が増加傾向にあります。
 - 姫の宮（犬山市）の豊年祭は「陰の祭り」、田縣神社の豊年祭は「陽の祭り」と呼ばれることがありますが、両者は別々の神社による独立した祭りです。
 - 英語案内を希望する場合、小牧通訳ボランティア会に事前連絡することで、当日に本殿前で英語ガイドを受けることが可能です。','## Overview
-The Hounen Matsuri is a traditional festival held annually on March 15 at Tagata Shrine in Komaki City, Aichi Prefecture. This festival prays for abundant harvests, growth of all things, prosperity of descendants, and world peace. The festival''s main feature is a large phallic symbol called "Ooowasegata" (male genital shape), made from Kiso cypress, measuring approximately 60 centimeters in diameter and over 2 meters in length, placed on a portable shrine carried through the streets by men in their unlucky years.
+The Hounen Matsuri is a traditional festival held annually on March 15 at Tagata Shrine in Komaki City, Aichi Prefecture. This festival prays for abundant harvests, growth of all things, prosperity of descendants, and world peace. The festival''s main feature is a large phallic symbol (a male symbol), made from Kiso cypress, measuring approximately 60 centimeters in diameter and over 2 meters in length, placed on a portable shrine carried through the streets by men in their unlucky years.
 
 This festival is known as a "strange festival of the world" and attracts many domestic and international tourists. In 2023, approximately 50,000 spectators visited the event. The festival is designated as an Intangible Folk Cultural Property by the Komaki City Board of Education, making it a source of local pride. On the day, female attendants called "Gonin-shu" dressed in ancient costumes participate in the procession holding smaller phallic symbols, and the ceremony concludes with a solemn Shinto ritual and a lively mochi tossing ceremony.
 
@@ -4004,17 +4004,17 @@ Originally, the festival was a type of field play held on the first full moon of
 
 In the Edo period, the festival featured a straw doll approximately 2 shaku (about 60 centimeters) tall, dressed in traditional kamishimo attire and carrying a sword, riding on a vermillion-colored large phallic symbol about 1 shaku 8 sun (about 54 centimeters) long. The procession was small, with only a few participants, and several men carried wooden phallic symbols one by one behind the main float. Records from this time indicate that the festival was much more modest than its current form, limited to local participants.
 
-Before World War II, the festival procession consisted of about 20 people. They carried a straw doll about 1 shaku 5 sun (about 45 centimeters) tall, dressed in kamishimo with a sword, placed on a vermillion large phallic symbol about 2 shaku 3 sun (about 70 centimeters) long. The festival''s transformation into a tourist attraction led to the phallic symbol being emphasized and enlarged. From 1949 (Showa 24), the large phallic symbol was made about 2 meters long. The scale of the procession also expanded, growing into its current form. On March 24, 2016 (Heisei 28), the festival was designated as an Intangible Folk Cultural Property by Komaki City, but only specific rituals like the Kujitori-shiki, Ono-ire-sai, Kenmochi-gyoretsu, main festival on the day, and mochi tossing are included in the designation.
+Before World War II, the festival procession consisted of about 20 people. They carried a straw doll about 1 shaku 5 sun (about 45 centimeters) tall, dressed in kamishimo with a sword, placed on a vermillion large phallic symbol about 2 shaku 3 sun (about 70 centimeters) long. The festival''s transformation into a tourist attraction led to the phallic symbol being emphasized and enlarged. From 1949 (Showa 24), the large phallic symbol was made about 2 meters long. The scale of the procession also expanded, growing into its current form. On March 24, 2016 (Heisei 28), the festival was designated as an Intangible Folk Cultural Property by Komaki City, with the Kujitori-shiki, Ono-ire-sai, Kenmochi-gyoretsu, the main festival on the day, and the mochi tossing included in the designation.
 
 ## Highlights
-**The Mikoshi Procession and the Great Phallic Symbol (Ooowasegata)**
+**The Mikoshi Procession and the Great Phallic Symbol**
 The mikoshi procession departs from the Otabisho (usually a local shrine like Shinmeisha or Kumanosha) at 2:00 PM and continues to Tagata Shrine. The main highlight is the "Yobutsu Mikoshi" carrying the great phallic symbol made from Kiso cypress, measuring 60 centimeters in diameter and over 2 meters in length. This symbol is newly crafted each year, starting eight days before the festival, and is carried by 42-year-old men in their unlucky year. The procession includes a total of three portable shrines: "Goren" carrying the goddess statue, "Gozen Mikoshi" carrying the image of the main deity, and the "Yobutsu Mikoshi" with the phallic symbol, forming a grand parade of about 200 people.
 
 **Ono-ire-sai (Ax-Insertion Ceremony)**
 Held on March 3, the Ono-ire-sai is a Shinto ritual celebrating the start of carving the new giant phallic symbol. A representative strikes the first ax blow into a raw Kiso cypress log measuring 2.5 to 3 meters in length and 50 to 80 centimeters in diameter, signifying the determination to pray for a good harvest. Carvers, representatives of the unlucky-year mikoshi carriers, and the Gonin-shu female attendants attend this solemn ceremony. This ritual embodies a strong prayer for the safety of the entire festival and future prosperity.
 
 **Kujitori-shiki (Lot-Drawing Ceremony)**
-Held on February 20, the Kujitori-shiki is an important ceremony to determine the female attendants "Gonin-shu" who will participate in the procession. The chief priest draws paper lots one by one before the gods, strictly selecting the year''s attendants by divine will. The chosen women add elegance to the festival by holding small phallic symbols while joining the mikoshi procession. This fair and tradition-respecting ceremony also obligates the selected women to participate in the Ono-ire-sai. The selection is considered a sacred duty and a great honor for the community.
+Held on February 20, the Kujitori-shiki is an important ceremony to determine the female attendants "Gonin-shu" who will participate in the procession. The chief priest draws paper lots one by one before the gods, strictly selecting the year''s attendants by divine will. The chosen women add elegance to the festival by holding small phallic symbols while joining the mikoshi procession. This fair and tradition-respecting ceremony also obligates the selected women to participate in the Ono-ire-sai.
 
 **Procession of the Five Female Attendants (Gonin-shu)**
 The Gonin-shu dress in ancient costumes and hold small phallic symbols as they join the mikoshi procession. Each woman walks with her own personal wish, such as for children or a good marriage. The procession is led by a man dressed as a tengu (mountain goblin) named Sarutahiko, with the five women following behind in a dignified formation. This elegant participation of women adds a unique grace and solemnity to the festival, balancing the masculine energy of the main phallic symbol.
@@ -4026,7 +4026,7 @@ The biggest challenge for the mikoshi procession is crossing the railway crossin
 After the main Shinto ceremony, large quantities of offering mochi are thrown from a platform in the shrine grounds, marking the festival''s finale. The mochi tossing has strict rules: "Children and elderly are not allowed to participate due to danger," "Do not pick up mochi that has fallen on the ground," and "Only underhand throws are allowed." Spectators catch the mochi to pray for a bountiful harvest and celebrate the festival''s success together. In 2023, despite the heaviest rain in 20 years, the rain stopped just after the great phallic symbol was offered, allowing the mochi tossing to proceed as planned.
 
 ## Event Information and Access
-- Date: March 15 (Sunday)
+- Date: March 15
 - Time: 10:00 AM to 4:00 PM
 - Venue: Tagata Shrine (152 Tagata-cho, Komaki City, Aichi Prefecture)
 - Admission: Free (no reservation required)
@@ -4053,7 +4053,7 @@ As for local cuisine, the Komaki area offers Nagoya-region specialties such as "
 - For those requesting English guidance, the Komaki Interpretation Volunteer Group can be contacted in advance, and English guides are available at the main hall reception on the day from 10:00 AM.
 - The festival day typically sees crowds of several tens of thousands, so visitors are advised to arrive early and use public transportation.
 - The festival features three types of portable shrines: Goren (with the goddess statue), Gozen Mikoshi (with the deity image), and Yobutsu Mikoshi (with the phallic symbol).
-- The procession includes Gagaku musicians, shrine priests, and local community representatives, making it a comprehensive display of traditional Japanese culture.','honensai-tagata-jinja','honensai-tagata-jinja','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-17 12:16:55','KKPCW','CC BY 3.0','https://commons.wikimedia.org/wiki/File:H%C5%8Dnen_Matsuri_2.JPG','毎年3月15日','{"type": "fixed", "month": 3, "day": 15, "raw": "3月15日", "ctx": "乃固祭り（へのこまつり）の別称がある。道祖神祭と田楽祭の要素が合体した祭で、毎年3月15日に子孫繁栄と五穀豊穣を祈願する市指定の無形民俗文化財。", "pos": 101}','jawiki導入部: 乃固祭り（へのこまつり）の別称がある。道祖神祭と田楽祭の要素が合体した祭で、毎年3月15日に子孫繁栄と五穀豊穣を祈願する市指定の無形民俗文化財。','fixed_rule','ok','');
+- The procession includes Gagaku musicians, shrine priests, and local community representatives, making it a comprehensive display of traditional Japanese culture.','honensai-tagata-jinja','honensai-tagata-jinja','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 18:32:53','KKPCW','CC BY 3.0','https://commons.wikimedia.org/wiki/File:H%C5%8Dnen_Matsuri_2.JPG','毎年3月15日','{"type": "fixed", "month": 3, "day": 15, "raw": "3月15日", "ctx": "乃固祭り（へのこまつり）の別称がある。道祖神祭と田楽祭の要素が合体した祭で、毎年3月15日に子孫繁栄と五穀豊穣を祈願する市指定の無形民俗文化財。", "pos": 101}','jawiki導入部: 乃固祭り（へのこまつり）の別称がある。道祖神祭と田楽祭の要素が合体した祭で、毎年3月15日に子孫繁栄と五穀豊穣を祈願する市指定の無形民俗文化財。','fixed_rule','ok','');
 INSERT INTO "festivals" VALUES('Q23044788','イメージフォーラム・フェスティバル','Image Forum Festival',NULL,NULL,'Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,1987,NULL,NULL,NULL,NULL,'https://en.wikipedia.org/wiki/Image_Forum_Festival',45,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q21652601','大阪アジアン映画祭','Osaka Asian Film Festival',NULL,'film festival','Q35765','大阪市','Osaka','大阪府','kinki',NULL,NULL,2005,NULL,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Asahi%20Broadcasting%20Corporation%20headquarter.JPG','https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Osaka_Asian_Film_Festival',80,'drafted','## 概要
 
