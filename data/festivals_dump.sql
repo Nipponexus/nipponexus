@@ -29541,7 +29541,7 @@ INSERT INTO "festivals" VALUES('Q22127131','ひょうげ祭り','Hyōge Matsuri'
 INSERT INTO "festivals" VALUES('Q28691802','丸岡古城まつり','Maruoka Kojō Matsuri','福井県坂井市で開催される祭り',NULL,'Q1143892','丸岡城','Maruoka Castle','福井県','chubu',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B2%A1%E5%8F%A4%E5%9F%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q24887619','入谷朝顔まつり','Iriya Asagao festival','入谷鬼子母神とその界隈で開催される朝顔祭り',NULL,'Q11583299','真源寺','Shingen-ji Temple','東京都','kanto',35.71988889,139.78268889,NULL,7,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Iriyaasagaomatsuri-tag-july8-2016.jpg','https://ja.wikipedia.org/wiki/%E5%85%A5%E8%B0%B7%E6%9C%9D%E9%A1%94%E3%81%BE%E3%81%A4%E3%82%8A',NULL,95,'drafted','## 概要
 
-入谷朝顔まつり（いりやあさがおまつり）は、東京都台東区の入谷鬼子母神（真源寺）とその周辺で毎年7月6日から8日までの3日間にわたって開催される、朝顔市を中心とした夏の祭りである。江戸時代から続く下町の夏の風物詩として知られ、色とりどりの朝顔の鉢が言問通りに立ち並ぶ光景は、東京に本格的な夏の訪れを告げる。
+入谷朝顔まつり（いりやあさがおまつり）は、東京都台東区の入谷鬼子母神（真源寺）とその周辺で毎年7月6日から8日までの3日間にわたって開催される、朝顔市を中心とした夏の祭りである。江戸時代からの伝統を受け継ぐ下町の夏の風物詩として知られ、色とりどりの朝顔の鉢が言問通りに立ち並ぶ光景は、東京に本格的な夏の訪れを告げる。
 
 会期中は約30軒の朝顔業者と約100軒近い露店が軒を連ね、毎年およそ10万人もの人出でにぎわう。早朝から多くの来場者が訪れ、家族連れや外国人観光客が思い思いに朝顔の鉢を吟味する姿が見られる。花の美しさと下町らしい縁日の活気が一体となった、東京を代表する初夏の年中行事である。
 
@@ -29555,7 +29555,7 @@ INSERT INTO "festivals" VALUES('Q24887619','入谷朝顔まつり','Iriya Asagao
 
 入谷で朝顔が名物となった背景には、江戸から続く庶民の豊かな園芸文化があった。限られた土地でも鉢植えで花を育て、変化朝顔と呼ばれる珍しい咲き方の品種を競い合う園芸は、武士から町人まで幅広い層に親しまれていた。入谷の朝顔市は、こうした人々が朝顔の美しさを愛で、季節の移ろいを暮らしのなかで楽しんできた江戸庶民の感性を、今に伝える行事でもある。
 
-その後、都市化の進展などによって朝顔栽培は一時途絶えた時期もあったが、地元の人々の尽力によって朝顔市は復興を遂げ、現在まで受け継がれている。江戸から明治、そして現代へと形を変えながらも、下町の夏を彩る行事として絶えることなく続いてきた点に、この祭りの息の長い魅力がある。
+その後、朝顔栽培は一時途絶えた時期もあったが、地元の人々の尽力によって朝顔市は復興を遂げ、現在まで受け継がれている。江戸から明治、そして現代へと形を変えながらも、下町の夏を彩る行事として絶えることなく続いてきた点に、この祭りの息の長い魅力がある。
 
 ## 見どころ
 
@@ -29589,7 +29589,7 @@ INSERT INTO "festivals" VALUES('Q24887619','入谷朝顔まつり','Iriya Asagao
 - アクセス: 東京メトロ入谷駅から徒歩約1分、JR鶯谷駅から徒歩約5分
 ','## Overview
 
-The Iriya Asagao Matsuri (Iriya Morning Glory Festival) is a summer festival centered on a morning glory market, held over three days from July 6 to 8 each year at Iriya Kishimojin (Shingenji Temple) and its surroundings in Taito Ward, Tokyo. Known as a summer tradition of the shitamachi (old downtown) district that has continued since the Edo period, the sight of pots of colorful morning glories lining Kototoi-dori Avenue announces the true arrival of summer in Tokyo.
+The Iriya Asagao Matsuri (Iriya Morning Glory Festival) is a summer festival centered on a morning glory market, held over three days from July 6 to 8 each year at Iriya Kishimojin (Shingenji Temple) and its surroundings in Taito Ward, Tokyo. Known as a summer tradition of the shitamachi (old downtown) district with roots in the Edo period, the sight of pots of colorful morning glories lining Kototoi-dori Avenue announces the true arrival of summer in Tokyo.
 
 During the festival, about 30 morning glory vendors and nearly 100 street stalls line the streets, drawing crowds of roughly 100,000 people each year. Many visitors come from early morning, and families and foreign tourists can be seen carefully examining the pots of morning glories. Combining the beauty of the flowers with the lively atmosphere of a shitamachi fair, it is one of Tokyo''s most representative annual events of early summer.
 
@@ -29601,7 +29601,7 @@ The temple''s principal image of Kishimojin has been affectionately known by the
 
 The origin of the morning glory market itself is said to lie in the display of morning glories cultivated actively in this area in the late Edo period. At that time, gardeners selling morning glories lined the streets of the Iriya area in Shitaya-Sakamoto Village. The morning glories of Iriya became widely known only after entering the Meiji era, when a dozen or so gardeners cultivated morning glories on vast plots of several hundred tsubo each, which established the flower''s status as a local specialty.
 
-Afterward, there was a period when morning glory cultivation was temporarily discontinued due to urbanization and other factors, but through the efforts of local people the morning glory market was revived and has been carried on to the present day. The enduring appeal of this festival lies in the fact that, while changing its form from Edo to Meiji and into the modern age, it has continued without interruption as an event that colors the shitamachi summer.
+Afterward, there was a period when morning glory cultivation was temporarily discontinued, but through the efforts of local people the morning glory market was revived and has been carried on to the present day. The enduring appeal of this festival lies in the fact that, while changing its form from Edo to Meiji and into the modern age, it has continued without interruption as an event that colors the shitamachi summer.
 
 ## Highlights
 
@@ -29633,7 +29633,7 @@ A little further on foot, one can also reach Asakusa, one of Tokyo''s leading to
 - Scale: About 30 morning glory vendors and nearly 100 street stalls, with about 100,000 visitors each year
 - Origin: Display of morning glory cultivation in the late Edo period; became a specialty through gardeners'' cultivation in the Meiji era
 - Access: About 1 minute on foot from Iriya Station (Tokyo Metro), about 5 minutes from Uguisudani Station (JR)
-','iriya-asagao-matsuri','iriya-asagao-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Nesnad','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:Iriyaasagaomatsuri-tag-july8-2016.jpg','毎年7月6日〜7月8日','{"type": "range_fixed", "month": 7, "day": 6, "raw": "7月6日〜7月8日", "ctx": "まつり）は、東京都台東区の入谷鬼子母神（真源寺）とその周辺で毎年7月6日から8日までの3日間にわたって開", "src": "rescue_20260813", "end_month": 7, "end_day": 8}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+','iriya-asagao-matsuri','iriya-asagao-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 20:30:12','Nesnad','CC BY-SA 4.0','https://commons.wikimedia.org/wiki/File:Iriyaasagaomatsuri-tag-july8-2016.jpg','毎年7月6日〜7月8日','{"type": "range_fixed", "month": 7, "day": 6, "raw": "7月6日〜7月8日", "ctx": "まつり）は、東京都台東区の入谷鬼子母神（真源寺）とその周辺で毎年7月6日から8日までの3日間にわたって開", "src": "rescue_20260813", "end_month": 7, "end_day": 8}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q28691419','六ツ美悠紀斎田お田植えまつり','Mutsumi Yukisaiden Otaue Festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%85%AD%E3%83%84%E7%BE%8E%E6%82%A0%E7%B4%80%E6%96%8E%E7%94%B0%E3%81%8A%E7%94%B0%E6%A4%8D%E3%81%88%E3%81%BE%E3%81%A4%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q22130088','水戸まちなかフェスティバル',NULL,NULL,NULL,NULL,NULL,NULL,'茨城県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q22130298','本庄まつり',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%BA%84%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
