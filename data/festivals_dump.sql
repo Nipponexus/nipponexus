@@ -34588,7 +34588,7 @@ INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社
 
 宮島は古くから島全体が神として崇められ、人が住むことを許されない神域であった。そのため、対岸の地御前（じごぜん）から神を迎え、管絃を奉奏して慰めたことが管絃祭のはじまりと伝えられている。平清盛が嚴島神社を厚く崇敬し、平安京で流行していた貴族の船遊びの風習を神事として持ち込んだことで、海上を舞台とする独特の祭礼が成立した。
 
-由緒となった「管絃の遊び」とは、貴族が池や河川に船を浮かべ、管楽器を奏でて雅を楽しむ平安時代の遊興である。これが神事として形を変えて宮島へ伝わった際、舞台は瀬戸の海へと大きくスケールを変え、遊興の域を超えたダイナミックな神事へと発展した。神を乗せた御座船が海を渡る様式は、山や川を舞台とする他の多くの祭礼とは一線を画すものである。
+由緒となった「管絃の遊び」とは、貴族が池や河川に船を浮かべ、管弦（管楽器と弦楽器）を奏でて雅を楽しむ平安時代の遊興である。これが神事として形を変えて宮島へ伝わった際、舞台は瀬戸の海へと大きくスケールを変え、遊興の域を超えたダイナミックな神事へと発展した。神を乗せた御座船が海を渡る様式は、山や川を舞台とする他の多くの祭礼とは一線を画すものである。
 
 御座船はかつて櫓を6丁備えた大きな船一艘で、自力で航行していたと伝えられている。しかし1701年（元禄14年）、地御前神社から宮島の長浜神社へ帰る途中に御座船が暴風雨に遭い、転覆寸前の危機に陥った。このとき、鯛網漁に出ていた阿賀（あが）村の岡野喜右衛門の船と、嚴島参拝に訪れていた江波（えば）村の古川屋伝蔵の伝馬船が、二次災害を顧みず勇気ある行動で御座船を救助したと伝えられている。
 
@@ -34613,7 +34613,7 @@ INSERT INTO "festivals" VALUES('Q11603286','管絃祭','Kangensai','厳島神社
 ## 開催情報・アクセス
 
 - 正式名称: 管絃祭（嚴島神社管絃祭）
-- 開催日: 毎年旧暦6月17日（新暦では毎年変動。
+- 開催日: 毎年旧暦6月17日（新暦の日付は毎年変動する）
 - 会場: 嚴島神社（広島県廿日市市宮島町）および地御前神社ほか周辺海上
 - 主な神事: 発輦祭、大鳥居前の儀、地御前神社・長浜神社・大元神社・火焼前・客神社前での祭典と管絃奉奏、枡形での三匝、本殿還御
 - 拝観: 嚴島神社への昇殿には昇殿料が必要（管絃祭当日は開門時間が延長される）。潮位や潮流により進行時刻が大幅に変わる場合がある
@@ -34645,7 +34645,7 @@ The origin of the festival traces back to Taira no Kiyomori, the powerful warrio
 
 Since ancient times, the entire island of Miyajima was revered as a deity, and people were not permitted to live on this sacred ground. For this reason, it is said that the origin of the Kangensai lies in welcoming the deities from Jigozen on the opposite shore and performing court music to console them. Because Taira no Kiyomori deeply revered Itsukushima Shrine and introduced the aristocratic custom of boating that was popular in the Heian capital as a sacred rite, a distinctive festival staged on the sea came into being.
 
-The kangen no asobi from which the festival takes its name was a Heian-period pastime in which aristocrats floated boats on ponds and rivers and played wind instruments to enjoy refined elegance. When this was transformed into a Shinto rite and transmitted to Miyajima, its stage shifted dramatically to the Seto Inland Sea, and it developed into a dynamic sacred rite that went far beyond mere entertainment. The form in which a boat carrying the deities crosses the sea sets it apart from the many other festivals staged on mountains or rivers.
+The kangen no asobi from which the festival takes its name was a Heian-period pastime in which aristocrats floated boats on ponds and rivers and played wind and string instruments to enjoy refined elegance. When this was transformed into a Shinto rite and transmitted to Miyajima, its stage shifted dramatically to the Seto Inland Sea, and it developed into a dynamic sacred rite that went far beyond mere entertainment. The form in which a boat carrying the deities crosses the sea sets it apart from the many other festivals staged on mountains or rivers.
 
 The ceremonial boat was once a single large vessel equipped with six oars, and it is said to have sailed under its own power. However, in 1701 (the 14th year of the Genroku era), the ceremonial boat was caught in a violent storm on its way back from Jigozen Shrine to Nagahama Shrine on Miyajima and was on the verge of capsizing. At that time, a boat belonging to Okano Kiemon of Aga village, which was out fishing for sea bream, and a transport boat belonging to Furukawaya Denzo of Eba village, which had come to worship at Itsukushima, are said to have bravely rescued the ceremonial boat without regard for the danger to themselves.
 
@@ -34692,7 +34692,7 @@ Along the Omotesando shopping street, visitors can enjoy Miyajima specialties su
 - The Towing by Aga and Eba: A tradition that began with the rescue of the ceremonial boat in 1701, now carried out by the Eba Kogidenma Preservation Society and the Aga Fisheries Cooperative.
 - World Heritage Site: Itsukushima Shrine, the venue of the festival, was registered as a UNESCO World Heritage Site in 1996.
 - Lunar Calendar Scheduling: The festival is fixed to the 17th day of the sixth lunar month based on tide levels, moonlight, and the low risk of typhoons, so its date on the modern calendar varies each year.
-','kangensai','kangensai','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-18 17:31:12','hiro','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Kangen_jigozen2.jpg','毎年6月17日','{"type": "fixed", "month": 6, "day": 17, "raw": "6月17日", "ctx": "管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ", "pos": 15}','jawiki導入部: 管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ','fixed_rule','lunar','旧暦基準 (旧暦/src)');
+','kangensai','kangensai','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-04 12:49:14','hiro','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Kangen_jigozen2.jpg','毎年6月17日','{"type": "fixed", "month": 6, "day": 17, "raw": "6月17日", "ctx": "管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ", "pos": 15}','jawiki導入部: 管絃祭（かんげんさい）は、旧暦6月17日夕方に行われる厳島神社の祭礼行事である。 大阪市の天神祭と松江市のホーランエンヤ','fixed_rule','lunar','旧暦基準 (旧暦/src)');
 INSERT INTO "festivals" VALUES('Q11599004','竹割り祭り','Takewari Festival',NULL,NULL,'Q11619342','菅生石部神社','Sugō Isobe Shrine','石川県',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%89%B2%E3%82%8A%E7%A5%AD%E3%82%8A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 10:43:07',NULL,NULL,NULL,'毎年2月10日','{"type": "fixed", "month": 2, "day": 10, "raw": "2月10日", "ctx": "竹割り祭り（たけわりまつり）とは、石川県加賀市の菅生石部神社で毎年2月10日に行われる例祭。「竹割り祭り」は俗称であり、正しくは御願神事（ごんがんしんじ）と", "pos": 33}','竹割り祭り（たけわりまつり）とは、石川県加賀市の菅生石部神社で毎年2月10日に行われる例祭。「竹割り祭り」は俗称であり、正しくは御願神事（ごんがんしんじ）と','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11582690','県祭り','Agata Matsuri','京都府宇治市の祭',NULL,'Q11608139','縣神社','Agata Shrine','京都府','kinki',NULL,NULL,NULL,6,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Bonten%20togyo.jpg','https://ja.wikipedia.org/wiki/%E7%9C%8C%E7%A5%AD%E3%82%8A',NULL,85,'drafted','## 概要
 
