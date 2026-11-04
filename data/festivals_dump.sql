@@ -24339,17 +24339,15 @@ INSERT INTO "festivals" VALUES('Q109598617','お熊甲祭','Okuma Kabuto Festiva
 
 「お熊甲祭（おくまかぶとまつり）」は、石川県七尾市中島町に鎮座する久麻加夫都阿良加志比古神社（くまかぶとあらかしひこじんじゃ）の大祭である。毎年9月20日に行われることから「熊甲二十日祭」とも呼ばれ、1981年（昭和56年）1月21日に国の重要無形民俗文化財に指定された。この行事は「神輿の渡御に合わせて、若者たちが山鉾形をなす10間余におよぶ長大な深紅の羅紗製枠旗を舁いて練り回るもの」と解説されている。本社と19の末社が参加する寄り合い祭の形態をとり、中世以来の伝統を連綿と受け継いでいる。
 
-この祭りは、大陸の渡来神を祀る神社の祭典として特異な性格を持つ。この祭りを「大陸の渡来神を祀る久麻加夫都阿良加志比古神社の大祭」。各集落の産土神社の祭礼である小祭と、惣社を中心に集まる寄り合い祭である大祭の二層構造を持ち、江戸時代以降も途切れることなく継承されてきた。実りの秋を迎える9月の初めから終わりまで、町内のどこからともなく鉦や太鼓の音が聞こえ、この地域一帯が文字通り「祭」一色となる。
+この祭りは、大陸の渡来神を祀る神社の祭典として特異な性格を持つ。お熊甲祭の公式サイトは、この祭りを「大陸の渡来神を祀る久麻加夫都阿良加志比古神社の大祭」と説明している。各集落の産土神社の祭礼である小祭と、惣社を中心に集まる寄り合い祭である大祭の二層構造を持ち、江戸時代以降も途切れることなく継承されてきた。実りの秋を迎える9月の初めから終わりまで、町内のどこからともなく鉦や太鼓の音が聞こえ、この地域一帯が文字通り「祭」一色となる。
 
 ## 歴史・由来
 
 お熊甲祭の起源は、久麻加夫都阿良加志比古神社の創建に遡る。この神社は古代朝鮮半島からの渡来神を祀る社であり、大陸からもたらされた文化や信仰がこの地に根付いたものと考えられている。この祭りは「中島地区19の神社の神霊が年に一度久麻加夫都阿良比加志比古神社の古代朝鮮の渡来人格神に参拝するもの」と説明されている。渡来神を中心に周辺の集落が寄り合うこの形態は、日本独自の祭礼構造として注目される。
 
-「二十日祭」の名称は、祭りが毎年9月20日に行われることに由来する。この日付は、旧暦の時期と深く関わっていると考えられるが、詳細な文献は現存していない。この祭りが「中世以来の由緒ある惣社を中心に各集落がよりより集う“寄り合い祭”」である。江戸時代以降、この伝統は連綿として受け継がれ、現代に至るまで途絶えることなく継承されてきた。
+「二十日祭」の名称は、祭りが毎年9月20日に行われることに由来する。この日付は、旧暦の時期と深く関わっていると考えられるが、詳細な文献は現存していない。七尾市の公式サイトは、この祭りを「中世以来の由緒ある惣社を中心に各集落がよりより集う『寄り合い祭』」と説明している。江戸時代以降、この伝統は連綿として受け継がれ、現代に至るまで途絶えることなく継承されてきた。
 
-祭りの最大の見せ場である「島田くずし」の名称には、一つの伝承が残されている。かつて大きく張り出したサイカチの木を枠旗がくぐる際、倒した旗が祭りを見物していた集落の娘の頭に当たり、島田髷を崩したことに由来するとされる。この故事から「島田くずし」という名称が生まれ、かつてはこの技が上手にできない集落には嫁をやらないと言われていたほどである。
-
-戦後も中断することなく続けられてきたが、自然災害による中止も経験している。2022年（令和4年）は台風第14号の接近により、9月19日に奉賛会が正式に中止を決定した。2022年9月20日の祭りが中止となったことを報告している。しかし、2025年（令和7年）9月20日には通常通り開催される予定であり、令和7年版のパンフレットも完成している。
+祭りの最大の見せ場である「島田くずし」の名称には、一つの伝承が残されている。かつて大きく張り出したサイカチの木を枠旗がくぐる際、倒した旗が祭りを見物していた集落の娘の頭に当たり、島田髷を崩したことに由来するとされる。この故事から「島田くずし」という名称が生まれ、かつてはこの技が上手にできない集落には嫁をやらないと言われていたほどである。戦後も長く続けられてきたが、自然災害による中止も経験している。2022年（令和4年）は台風第14号の接近により、9月19日に奉賛会が正式に中止を決定した。2022年9月20日の祭りが中止となったことを報告している。
 
 ## 見どころ
 
@@ -24360,16 +24358,16 @@ INSERT INTO "festivals" VALUES('Q109598617','お熊甲祭','Okuma Kabuto Festiva
 各末社の先導役として、天狗面をつけた猿田彦が登場する。拝殿に全神輿が参入すると奉幣式が始まり、各末社の猿田彦が境内いっぱいに乱舞する。この舞を「若衆が鉦・太鼓を打ち鳴らし、それに合わせて猿田彦が境内いっぱいに乱舞します」と描写している。38組の鉦・太鼓が2列になって打ち鳴らしながら進む中、猿田彦の軽妙な舞と揃い打ちの迫力が祭りの見所の一つである。
 
 **真紅の大枠旗**
-高さ20メートルばかりある真紅の羅紗製枠旗は、この祭りの象徴的存在である。この枠旗を「山鉾形をなす10間余におよぶ長大な深紅の羅紗製枠旗」と記述している。全国でもこの地域にしか見られない枠旗祭りとして知られ、屈強の若者たちがこの大旗を担いで練り歩く姿は壮観である。
+高さ20メートルばかりある真紅の羅紗製枠旗は、この祭りの象徴的存在である。文化遺産オンラインは、この枠旗を「山鉾形をなす10間余におよぶ長大な深紅の羅紗製枠旗」と記述している。全国でもこの地域にしか見られない枠旗祭りとして知られ、屈強の若者たちがこの大旗を担いで練り歩く姿は壮観である。
 
 **島田くずし**
-お旅所である加茂原では、枠旗を地上すれすれまで傾ける大技「島田くずし」が披露される。この技を「早回りや枠旗を地上すれすれまで傾ける」と説明し、祭りが最高潮に達する瞬間と位置づけている。数十本の深紅の枠旗が緑の山々に映え、金色に輝く神輿が一列に並ぶ情景は豪華絢爛である。
+お旅所である加茂原では、枠旗を地上すれすれまで傾ける大技「島田くずし」が披露される。七尾市の公式サイトはこの技を「早回りや枠旗を地上すれすれまで傾ける」と説明し、祭りが最高潮に達する瞬間と位置づけている。数十本の深紅の枠旗が緑の山々に映え、金色に輝く神輿が一列に並ぶ情景は豪華絢爛である。
 
 **お旅所でのお練り**
 午後2時頃から午後5時頃まで、加茂原のお旅所でお練りが行われる。このお練りは2グループに分けて左廻りに行われる。本社神輿が出発した後、各末社の行列が続き、最後の末社が境内を出るのは午後2時頃である。枠旗が緑の山々に映える光景は、訪れる者に深い印象を残す。
 
 **鉦と太鼓の響き**
-祭りの随所で鉦と太鼓の音が響き渡る。各末社の行列が「「イヤサカサー」の掛け声と鉦、太鼓の音も賑やかに」本社に参入すると描写されている。38組もの鉦・太鼓が一斉に打ち鳴らされる迫力は、祭りの最も重要な要素の一つである。特に奉幣式では、2列に分かれた鉦・太鼓の間を献幣使が縫って進む様子が見どころである。
+祭りの随所で鉦と太鼓の音が響き渡る。お熊甲祭の公式サイトは、各末社の行列が「イヤサカサー」の掛け声と鉦、太鼓の音も賑やかに本社に参入すると記述している。38組もの鉦・太鼓が一斉に打ち鳴らされる迫力は、祭りの最も重要な要素の一つである。特に奉幣式では、2列に分かれた鉦・太鼓の間を献幣使が縫って進む様子が見どころである。
 
 ## 開催情報・アクセス
 
@@ -24387,7 +24385,7 @@ INSERT INTO "festivals" VALUES('Q109598617','お熊甲祭','Okuma Kabuto Festiva
 
 ## 周辺情報
 
-七尾市中島町は、能登半島の中央部に位置する自然豊かな地域である。お熊甲祭の舞台となる熊木川流域は、緑豊かな山々に囲まれ、秋には彼岸花（曼珠沙華）が咲き乱れる風景が広がる。「曼珠沙華ごしにその風情を眺めれば、独特な趣が」と表現している。この地域は、のと鉄道七尾線が通り、能登中島駅を中心にコンパクトにまとまった街並みが広がっている。
+七尾市中島町は、能登半島の中央部に位置する自然豊かな地域である。お熊甲祭の舞台となる熊木川流域は、緑豊かな山々に囲まれ、秋には彼岸花（曼珠沙華）が咲き乱れる風景が広がる。NPO法人日本祭礼ネットワークは、曼珠沙華ごしにその風情を眺めれば独特な趣があると表現している。この地域は、のと鉄道七尾線が通り、能登中島駅を中心にコンパクトにまとまった街並みが広がっている。
 
 中島町周辺には、能登半島を代表する観光スポットが点在する。特に能登島は、和倉温泉や能登島大橋で結ばれた観光地であり、水族館やガラス工芸体験などが楽しめる。また、七尾市街地には七尾城跡や七尾美術館などの文化施設があり、能登の歴史と文化に触れることができる。祭りと合わせて能登半島の秋の風情を満喫する観光客も多い。
 
@@ -24395,13 +24393,13 @@ INSERT INTO "festivals" VALUES('Q109598617','お熊甲祭','Okuma Kabuto Festiva
 
 ## 関連情報
 
-1. **文化財指定**：1981年（昭和56年）1月21日、国の重要無形民俗文化財に「熊甲二十日祭の枠旗行事」として指定された。確認できる。保護団体は「お熊甲祭奉賛会」である。
+1. **文化財指定**：1981年（昭和56年）1月21日、国の重要無形民俗文化財に「熊甲二十日祭の枠旗行事」として指定された（文化遺産オンラインで確認できる）。保護団体は「お熊甲祭奉賛会」である。
 
 2. **類似の祭り**：石川県能登地方には、お熊甲祭と同様の枠旗祭りが複数存在する。特に能登半島各地で行われる「キリコ祭り」は、巨大な灯籠を担ぐ点で類似性があるが、お熊甲祭は昼間に行われる枠旗行事として独自の位置を占めている。
 
 3. **島田くずしの由来**：「島田くずし」の名称は、かつて大きく張り出したサイカチの木を枠旗がくぐる際、倒した旗が祭りを見物していた集落の娘の頭に当たり、島田髷を崩したことに由来するという言い伝えがある。この故事が「昔は「島田くずし」が上手にできない集落には嫁をやらないと言われていたほど」と伝えられている。
 
-4. **寄り合い祭の構造**：お熊甲祭は、19の末社から本社に神輿が参入する「寄り合い祭」の形式をとる。これを「中世以来の由緒ある惣社を中心に各集落がよりより集う“寄り合い祭”」。この形式は、日本の中世以来の神社組織の在り方を現代に伝える貴重な事例である。
+4. **寄り合い祭の構造**：お熊甲祭は、19の末社から本社に神輿が参入する「寄り合い祭」の形式をとる。この形式は、日本の中世以来の神社組織の在り方を現代に伝える貴重な事例である。
 
 5. **中止の事例**：2022年（令和4年）は台風第14号の影響により、祭りが中止となった。9月19日にお熊甲祭奉賛会が正式に中止を決定したと報告している。このように、自然災害による中止が発生することもあるため、最新の情報確認が推奨される。
 
@@ -24419,7 +24417,7 @@ The name "20th Day Festival" derives from the fact that the festival is held ann
 
 One tradition is preserved regarding the name of the festival''s highlight, "Shimada-kuzushi." According to the NPO Japan Festival Network, the name originated from an incident where a flag, as it was lowered while passing under a large honey locust tree, struck the head of a village girl watching the festival, causing her Shimada hairstyle to collapse. From this story, the name "Shimada-kuzushi" was born, and it is said that in the past, it was even said that a village that could not perform this technique well would not be given a bride.
 
-The festival continued without interruption even after the war, but it has experienced cancellations due to natural disasters. In 2022, the festival was officially canceled on September 19th due to the approach of Typhoon No. 14. The official Okumakabuto Matsuri website reported the cancellation of the September 20, 2022 festival. However, the festival was scheduled to be held as usual on September 20, 2025, and the pamphlet for the 2025 edition has been completed.
+The festival has continued into the postwar era, but it has experienced cancellations due to natural disasters. In 2022, the festival was officially canceled on September 19th due to the approach of Typhoon No. 14. The official Okumakabuto Matsuri website reported the cancellation of the September 20, 2022 festival. 
 
 ## Highlights
 
@@ -24475,7 +24473,7 @@ The otabisho, Kamo-para, is a square located on the riverbed of the Kumaki River
 
 5. **Cases of Cancellation**: In 2022, the festival was canceled due to the influence of Typhoon No. 14. The official Okumakabuto Matsuri website reported that the Okumakabuto Matsuri Hōsankai officially decided to cancel on September 19th. As cancellations due to natural disasters can occur, checking the latest information is recommended.
 
-6. **Sources of Official Information**: The latest event information can be confirmed on the official Okumakabuto Matsuri website (https://okumakabuto.jp/) or the Nanao City official website (https://www.city.nanao.lg.jp/). The Nanao City Tourism and Exchange Promotion Division (Phone: 0767-53-8424) also provides information.','okuma-kabuto-festival','okuma-kabuto-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 14:54:37',NULL,NULL,NULL,'毎年9月20日','{"type": "fixed", "month": 9, "day": 20, "raw": "9月20日", "ctx": "鎮座する久麻加夫都阿良加志比古神社（くまかぶとあらかしひこじんじゃ）の例祭。毎年9月20日に行われることから「二十日祭（はつかまつり・はつかさい）」ともいう。青柏祭、能登", "pos": 69}','鎮座する久麻加夫都阿良加志比古神社（くまかぶとあらかしひこじんじゃ）の例祭。毎年9月20日に行われることから「二十日祭（はつかまつり・はつかさい）」ともいう。青柏祭、能登','rule_only','ok','');
+6. **Sources of Official Information**: The latest event information can be confirmed on the official Okumakabuto Matsuri website (https://okumakabuto.jp/) or the Nanao City official website (https://www.city.nanao.lg.jp/). The Nanao City Tourism and Exchange Promotion Division (Phone: 0767-53-8424) also provides information.','okuma-kabuto-festival','okuma-kabuto-festival',NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 06:16:43',NULL,NULL,NULL,'毎年9月20日','{"type": "fixed", "month": 9, "day": 20, "raw": "9月20日", "ctx": "鎮座する久麻加夫都阿良加志比古神社（くまかぶとあらかしひこじんじゃ）の例祭。毎年9月20日に行われることから「二十日祭（はつかまつり・はつかさい）」ともいう。青柏祭、能登", "pos": 69}','鎮座する久麻加夫都阿良加志比古神社（くまかぶとあらかしひこじんじゃ）の例祭。毎年9月20日に行われることから「二十日祭（はつかまつり・はつかさい）」ともいう。青柏祭、能登','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q109603119','熱海海上花火大会','Atami Fireworks Festival',NULL,NULL,NULL,NULL,NULL,'静岡県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B5%B7%E6%B5%B7%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q109359912','福知山音頭',NULL,'福知山市の盆踊り',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%9F%A5%E5%B1%B1%E9%9F%B3%E9%A0%AD',NULL,40,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q86728616','ボンクリ・フェス','Born Creative Festival','東京都で開催されている現代音楽の音楽祭','Contemporary classical music festival in Tokyo, Japan','Q1956181','東京芸術劇場','Tokyo Metropolitan Theatre','東京都','kanto',NULL,NULL,2017,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
