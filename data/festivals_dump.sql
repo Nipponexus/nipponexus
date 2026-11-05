@@ -1892,7 +1892,7 @@ INSERT INTO "festivals" VALUES('Q11501518','新嘗祭','Niiname-no-Matsuri','日
 
 新嘗祭と深く結びつく祭祀に、伊勢神宮の神嘗祭があります。神嘗祭は十月に伊勢神宮で行われ、その年の新穀を天照大神に捧げる祭りで、新嘗祭と対をなす重要な収穫感謝の祭儀です。新嘗祭当日には伊勢神宮でも大御饌の儀と奉幣の儀が営まれ、宮中と伊勢が呼応するように実りへの感謝を捧げます。
 
-出雲大社では、新嘗祭と同じ日の夜に古伝新嘗祭（こでんしんじょうさい）が斎行されます。祭典に用いるすべての食事が熊野大社から鑽り出された神聖な火で調理され、神職が「オジャレマウ」と唱えると出雲国造が参進します。歯固め神事や百番の舞、釜の神事などの重儀が受け継がれており、古代の新嘗の姿を今に伝える貴重な祭祀として知られています。
+出雲大社では、新嘗祭と同じ日の夜に古伝新嘗祭（こでんしんじょうさい）が斎行されます。祭典に用いるすべての食事が熊野大社から鑽り出された神聖な火で調理され、神職が「オジャレマウ」と唱えると出雲国造が参進します。歯固め神事や百番の舞、御釜神事などの重儀が受け継がれており、古代の新嘗の姿を今に伝える貴重な祭祀として知られています。
 
 十一月二十三日は「勤労感謝の日」として広く親しまれていますが、その背景に新嘗祭があることを知ると、この祝日の意味が一段と豊かに感じられます。全国の神社では一般の参拝者も新嘗祭の日に足を運ぶことができ、実りへの感謝という日本古来の祈りに、身近に触れることができます。
 
@@ -1957,7 +1957,7 @@ While November 23 is widely enjoyed as Labor Thanksgiving Day, knowing that Niin
 - Origin: Described in the ancient chronicles; the prototype is said to trace back to Yayoi-period rice rituals
 - Transition: Interrupted in the medieval period, revived and restored in the Edo period (Genroku, Genbun, and Kansei eras), and continuing to the present
 - Present Holiday: Became Labor Thanksgiving Day under the Holiday Law of 1948
-- Related Rites: Daijosai (the first Niinamesai after enthronement), Kannamesai (Ise, October), Chinkonsai (the previous day)','niiname-no-matsuri','niiname-no-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-18 17:31:12','No machine-readable author provided. N yotarou assumed (based on copyright claims).','CC BY 2.5','https://commons.wikimedia.org/wiki/File:Omike%28Yamatohime-no-miya%29_01.JPG','毎年11月23日','{"type": "fixed", "month": 11, "day": 23, "raw": "11月23日", "ctx": "供えて感謝の奉告を行い、これらの供え物を神からの賜りものとして自らも食する儀式である。毎年11月23日に宮中三殿の近くにある神嘉殿にて執り行われる。同日には全国の", "pos": 144}','供えて感謝の奉告を行い、これらの供え物を神からの賜りものとして自らも食する儀式である。毎年11月23日に宮中三殿の近くにある神嘉殿にて執り行われる。同日には全国の','rule_only','ok','全文抽出(step97)');
+- Related Rites: Daijosai (the first Niinamesai after enthronement), Kannamesai (Ise, October), Chinkonsai (the previous day)','niiname-no-matsuri','niiname-no-matsuri','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 14:03:20','No machine-readable author provided. N yotarou assumed (based on copyright claims).','CC BY 2.5','https://commons.wikimedia.org/wiki/File:Omike%28Yamatohime-no-miya%29_01.JPG','毎年11月23日','{"type": "fixed", "month": 11, "day": 23, "raw": "11月23日", "ctx": "供えて感謝の奉告を行い、これらの供え物を神からの賜りものとして自らも食する儀式である。毎年11月23日に宮中三殿の近くにある神嘉殿にて執り行われる。同日には全国の", "pos": 144}','供えて感謝の奉告を行い、これらの供え物を神からの賜りものとして自らも食する儀式である。毎年11月23日に宮中三殿の近くにある神嘉殿にて執り行われる。同日には全国の','rule_only','ok','全文抽出(step97)');
 INSERT INTO "festivals" VALUES('Q11487199','弘前さくらまつり','Hirosaki Cherry Blossom Festival',NULL,'cherry blossom festival in Hirosaki, Japan','Q11288816','弘前公園','Hirosaki Park','青森県','tohoku',40.6039,140.4649,1918,4,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Hirosaki%20castle.jpg','https://ja.wikipedia.org/wiki/%E5%BC%98%E5%89%8D%E3%81%95%E3%81%8F%E3%82%89%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Hirosaki_Cherry_Blossom_Festival',90,'drafted','## 概要
 
 弘前さくらまつりは、青森県弘前市の弘前公園（国指定史跡「弘前城跡」）で毎年春に開催される、日本屈指の桜の祭典である。例年4月中旬から5月上旬にかけて開催され（桜の開花状況により会期が変更されるため、最新の開催日程は公式サイトで確認すること）、期間中はソメイヨシノを中心にシダレザクラや八重桜など52種類約2,600本の桜が咲き誇る。会期中の夜間は日没から22時まで特別ライトアップが行われ、露店は9時から21時まで営業する（時期により変動あり）。
