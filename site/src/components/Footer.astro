@@ -1,8 +1,10 @@
 ---
+import { getLanguageSwitch } from '../lib/language_switch';
 interface Props { locale?: 'ja' | 'en'; }
 const { locale = 'ja' } = Astro.props;
 const isJa = locale === 'ja';
 const year = new Date().getFullYear();
+const languageSwitch = getLanguageSwitch(Astro.url.pathname, locale);
 ---
 <footer class="site-footer">
   <div class="site-footer-inner">
@@ -22,7 +24,7 @@ const year = new Date().getFullYear();
     </div>
     <div>
       <h4>{isJa ? 'リンク' : 'Links'}</h4>
-      <a href={isJa ? '/en/' : '/'}>{isJa ? 'English' : '日本語'}</a>
+      <a href={languageSwitch.href}>{languageSwitch.label}</a>
       <a href={isJa ? '/privacy/' : '/en/privacy/'}>{isJa ? 'プライバシーポリシー' : 'Privacy Policy'}</a>
       <a href={isJa ? '/contact/' : '/en/contact/'}>{isJa ? 'お問い合わせ' : 'Contact'}</a>
       <a href={isJa ? '/credits/' : '/en/credits/'}>{isJa ? '画像クレジット' : 'Image Credits'}</a>

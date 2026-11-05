@@ -1,10 +1,11 @@
 ---
+import { getLanguageSwitch } from '../lib/language_switch';
 interface Props { locale?: 'ja' | 'en'; }
 const { locale = 'ja' } = Astro.props;
 const isJa = locale === 'ja';
 const homePath = isJa ? '/' : '/en/';
 const indexPath = isJa ? '/index/region/' : '/en/index/region/';
-const altLangPath = isJa ? '/en/' : '/';
+const languageSwitch = getLanguageSwitch(Astro.url.pathname, locale);
 ---
 <header class="site-header" id="siteHeader">
   <div class="site-header-inner">
@@ -16,7 +17,7 @@ const altLangPath = isJa ? '/en/' : '/';
       <a href={isJa ? '/calendar/' : '/en/calendar/'}>{isJa ? 'カレンダー' : 'Calendar'}</a>
       <a href={isJa ? '/corrections/' : '/en/corrections/'}>{isJa ? '訂正記録' : 'Corrections'}</a>
       <a href={homePath}>{isJa ? 'ホーム' : 'Home'}</a>
-      <a href={altLangPath} class="lang-switch">{isJa ? 'EN' : '日本語'}</a>
+      <a href={languageSwitch.href} class="lang-switch">{languageSwitch.headerLabel}</a>
     </nav>
   </div>
 </header>
