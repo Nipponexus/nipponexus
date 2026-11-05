@@ -36939,7 +36939,7 @@ INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の
 
 誕生仏は、生まれたばかりの釈迦の姿をかたどった像で、右手を天に、左手を地に向けて立つ独特の姿をしている。これは、釈迦が誕生してすぐに七歩歩み、右手で天を、左手で地を指して「天上天下唯我独尊（てんじょうてんげゆいがどくそん）」と唱えたという伝説に基づいている。この言葉は、すべての人間が等しく尊い存在であることを説いたものと解釈されている。
 
-「花祭り」という親しみやすい呼び名が一般に用いられるようになったのは、明治期以降とされる。それ以前は、灌仏会や仏生会といった呼称が使われていた。花御堂を花で美しく飾ることから「花祭り」と呼ばれるようになり、この名が広く定着した。江戸時代には民衆の間にも広まり、人々に親しまれてきた仏教行事である。
+「花祭り」という親しみやすい呼び名が一般に用いられるようになったのは、明治期以降とされる。それ以前は、灌仏会や仏生会といった呼称が使われていた。江戸時代には民衆の間にも広まり、人々に親しまれてきた仏教行事である。
 
 ## 見どころ
 
@@ -36963,19 +36963,26 @@ INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の
 
 ## 開催情報・アクセス
 
-花祭り（灌仏会）は、例年4月8日に、全国の多くの寺院で営まれる。ただし、地域や寺院によっては、月遅れの5月8日など、別の日に行うところもある。釈迦の誕生を祝うこの行事は、宗派を問わず多くの仏教寺院で行われており、特定の一つの会場で行われるものではない。お近くの寺院でも花御堂が設けられ、甘茶をいただける場合が多い。
+全国共通の一会場・一日程を探すのではなく、まず「灌仏に参拝したいのか」「白象や稚児行列を見たいのか」を分けて訪問先を選ぶ。同じ地域でも、寺院の法要と門前の催しは開催日や会場が異なることがある。
 
-花祭りに参加したい場合は、お住まいの地域の寺院や、有名な寺院の情報を調べてみるとよい。大きな寺院では、花御堂の設置に加え、稚児行列や法要、甘茶のふるまいなど、さまざまな行事が行われることがある。アクセスや開催時間、稚児行列の有無などは寺院によって異なるため、訪れる前にそれぞれの寺院の情報を確認することが望ましい。4月上旬は桜の季節とも重なることが多く、寺院の境内に咲く花々とあわせて、春らしい風情を楽しむことができる。なお、参拝にあたっては、仏教行事であることをふまえ、静かに敬意をもって臨みたい。
+**日程を取り違えないための具体例**
+[永平寺門前の年中行事案内](https://zen-eiheiji.jp/annual_events/)では、釈尊降誕会は4月8日、門前参道の花まつりは5月連休最終日と別に紹介されている。一方、[正壽院の2021年の記録](https://shojuin.jp/blog/574)は、亀岡では月遅れの5月8日に行うと説明する。したがって「花祭りは必ず4月8日」「5月開催なら必ず5月8日」と決めて移動すると、目的の行事に合わないおそれがある。年中行事や過去の記録は候補選びに使い、訪問年の開催告知で日付と時刻を確かめる。
+
+**訪問前に確認する順序**
+灌仏を希望するなら、訪問先寺院の「花まつり」「灌仏会」「降誕会」の案内で、一般参拝ができる時間と場所を確認する。行列を希望するなら、法要の日時だけでなく、行列自体の開催日・会場・見学場所を確認する。子どもを行列に参加させたい場合は、見学と参加を区別し、募集の有無・申込方法・費用を当年の主催者案内で確認する。本記事では、全国一律の参加条件や料金は示せない。駅からの経路も、寺院境内を目指すのか門前参道を目指すのかを確定してから調べる。
 
 ## 周辺の見どころ
 
-花祭りは全国の寺院で行われる行事であるため、特定の地域に限らず、各地の名刹（めいさつ）を訪ねながらこの行事に触れることができる。歴史ある古寺で花祭りに参加すれば、荘厳な伽藍（がらん）と、春の花で飾られた花御堂とがあいまって、いっそう趣深い体験となるだろう。京都や奈良といった古都には、釈迦の誕生を祝う行事を古くから伝える由緒ある寺院が数多くあり、春の観光とあわせて訪れるのに最適である。
-
-4月8日前後は、ちょうど桜の見頃と重なる地域も多い。寺院の境内に咲く桜や春の花々を愛でながら、花祭りの行事に参加すれば、日本の春の美しさを存分に味わうことができる。また、花祭りにちなんで甘茶をいただいたり、稚児行列を見物したりするのも、この季節ならではの楽しみである。寺院の周辺には、その土地ならではの名所や、精進料理を供する店、和菓子の老舗などもあり、花祭りの参拝とあわせて、ゆったりとした春の一日を過ごすことができるだろう。仏教文化と春の自然が調和した花祭りは、日本の年中行事の豊かさを感じさせてくれる。
+周辺観光を組み合わせるときも、最初に目的の法要や行列の場所・時刻を確定したい。例えば永平寺門前の案内では、4月8日の降誕会と5月の門前参道の催しが区別されているため、寺院名だけで旅程を組まないことが重要である。花祭りは桜の開花予想ではなく行事の開催告知で日程を選び、花の見頃も楽しみたい場合は別に開花情報を確認する。全国の寺院を対象とする本記事では、特定の飲食店・駐車場・徒歩時間を一律には案内しない。
 
 ## 関連情報
 
-花祭りの詳細は、各寺院の情報や、仏教行事に関する資料で確認できる。本行事は釈迦の誕生を祝う仏教行事「灌仏会」の通称で、毎年4月8日（地域により5月8日）に全国の寺院で営まれる。花で飾った花御堂に誕生仏を安置し、参拝者が甘茶をそそいで祝うのが中心で、甘茶をそそぐのは釈迦誕生時に天から甘露の雨が降ったという伝説に由来する。「花祭り」の名称は明治期に生まれたとされ、それ以前は灌仏会・仏生会などと呼ばれていた。白い象（白象）の登場は、釈迦の母・摩耶夫人が白象の夢を見て懐妊したという伝説にちなむものである。なお、福井県の永平寺門前で行われる花まつりなど、地域ごとに特色ある花祭りの行事もあるが、それらは各地域の催しとして個別に営まれている。仏教の開祖の誕生を、春の花とともに祝うこの行事は、日本に深く根づいた仏教文化の一端を今に伝える、心和む年中行事である。','## Overview
+**意味を理解する資料と、訪問日を決める資料は使い分ける**
+[浄土宗の灌仏会の解説](https://jodo.or.jp/event/kanbutue/)は、花御堂・誕生仏・甘茶をそそぐ意味を知るための資料であり、各寺院の当年の開催時刻を示すものではない。[永平寺門前の年中行事](https://zen-eiheiji.jp/annual_events/)は法要と地域の催しの違いを調べる手がかりになる。[正壽院の記録](https://shojuin.jp/blog/574)は月遅れの開催や筆上達の言い伝えを知る資料だが、過去の記事を訪問年の募集案内として使わない。
+
+**甘茶について確認する場合**
+[厚生労働省のアマチャ解説](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000082119.html)には、植物の分類、飲用後の嘔吐事例、濃い甘茶を避ける対策が掲載されている。ご利益の言い伝えと飲用上の注意は別の情報として読む。飲用を目的に普通のアジサイの葉で代用せず、[東邦大学の薬用植物園の解説](https://www.lab.toho-u.ac.jp/phar/yakusou/amatya.html)が、近縁のアジサイを口にしないよう注意していることも確認したい。
+','## Overview
 
 Hana Matsuri is a Buddhist event celebrating the birth of Shakyamuni Buddha, formally called Kanbutsue. It is held each year on April 8 (in some regions and temples on May 8) at temples throughout the country. The center of this event is placing a tanjobutsu (birth statue), shaped in the form of the newly born Shakyamuni, inside a small hall called a hanamido (flower hall) decorated with colorful flowers, and having worshipers celebrate by pouring amacha (sweet hydrangea tea) over that birth statue. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, Gotanne, and the like. It is a heartwarming event celebrating, together with flowers, the birth of Shakyamuni, the founder of Buddhism, in the season when spring flowers bloom in profusion.
 
@@ -36987,7 +36994,7 @@ The custom of pouring amacha, the center of the event, derives from the legend t
 
 The birth statue is an image shaped in the form of the newly born Shakyamuni, standing in a distinctive posture with the right hand toward the heavens and the left hand toward the earth. This is based on the legend that Shakyamuni, immediately after birth, walked seven steps and, pointing with his right hand to the heavens and his left hand to the earth, proclaimed Tenjo Tenge Yuiga Dokuson. This phrase is interpreted as teaching that all human beings are equally precious existences.
 
-It is said that the approachable name Hana Matsuri came to be generally used from the Meiji period onward. Before that, designations such as Kanbutsue and Busshoe were used. Because the hanamido is beautifully decorated with flowers, it came to be called Hana Matsuri, and this name became widely established. The observance spread among ordinary people during the Edo period and became a familiar Buddhist event.
+It is said that the approachable name Hana Matsuri came to be generally used from the Meiji period onward. Before that, designations such as Kanbutsue and Busshoe were used. The observance spread among ordinary people during the Edo period and became a familiar Buddhist event.
 
 ## Highlights
 
@@ -37011,19 +37018,26 @@ Some local celebrations include a white-elephant float and a children''s process
 
 ## Event Information and Access
 
-Hana Matsuri (Kanbutsue) is held, usually on April 8, at many temples throughout the country. However, depending on the region and temple, there are places that hold it on other dates, such as May 8, one month later. This event celebrating the birth of Shakyamuni is held at many Buddhist temples regardless of sect and is not held at one specific venue. At a nearby temple too, a hanamido is often set up and one can receive amacha.
+Choose a venue according to what you want to do: take part in pouring tea over the Buddha image, or watch a white-elephant float and children''s procession. There is no single national venue or timetable. A temple service and a celebration in its surrounding streets can have different dates and locations.
 
-If one wishes to participate in Hana Matsuri, it is best to look into information on temples in one''s area of residence or on famous temples. At large temples, in addition to setting up the hanamido, various events such as a chigo procession, memorial services, and the serving of amacha may be held. As access, holding times, and whether there is a chigo procession differ by temple, it is advisable to confirm the information of each temple before visiting. Early April often overlaps with the cherry-blossom season, and together with the flowers blooming in the temple precincts, one can enjoy a springlike atmosphere. When worshiping, bearing in mind that it is a Buddhist event, one should approach it quietly and with respect.
+**Dates that should not be treated as interchangeable**
+The [annual-events guide for the Eihei-ji temple-front area](https://zen-eiheiji.jp/annual_events/) lists the Buddha''s birth observance on April 8, but places the street celebration on the final day of the May holiday period. In contrast, [Shojuin''s account from 2021](https://shojuin.jp/blog/574) describes Kameoka''s observance on May 8, one month later. Assuming that every celebration is on April 8, or that every May celebration is on May 8, can therefore lead to choosing the wrong date. Use annual guides and past reports to identify possibilities, then check the announcement for the year of your visit for the actual date and time.
+
+**What to check before travelling**
+For pouring tea over the image, consult the chosen temple''s Hana Matsuri, Kanbutsue or Gotanne announcement for public visiting times and the location. For a procession, check its own date, route or venue and viewing location rather than relying only on the service timetable. If a child is to join a procession, distinguish participation from watching: check that year''s organizer notice for recruitment, applications and fees. This article cannot give a single nationwide price or participation rule. Establish whether your destination is the temple precinct or the temple-front street before planning the route from the station.
 
 ## Around the Area
 
-As Hana Matsuri is an event held at temples throughout the country, one can touch this event while visiting noted temples in various places, not limited to a specific region. Participating in Hana Matsuri at a historic old temple, the solemn temple buildings and the hanamido decorated with spring flowers combine to make an even more profound experience. Ancient capitals such as Kyoto and Nara have many venerable temples that have conveyed the event celebrating Shakyamuni''s birth since old times, making them ideal to visit together with spring sightseeing.
-
-Around April 8, many regions overlap just with the peak of cherry blossoms. Participating in the Hana Matsuri event while admiring the cherry blossoms and spring flowers blooming in the temple precincts, one can fully savor the beauty of spring in Japan. Also, receiving amacha after Hana Matsuri or viewing the chigo procession are pleasures unique to this season. Around the temples are noted places unique to each land, shops serving shojin ryori (Buddhist vegetarian cuisine), and long-established Japanese confectionery shops, and together with Hana Matsuri worship, one can spend a leisurely spring day. Hana Matsuri, where Buddhist culture and spring nature harmonize, lets one feel the richness of Japan''s annual events.
+Confirm the location and time of the service or procession before arranging nearby sightseeing. The Eihei-ji area guide, for example, distinguishes the April 8 birth observance from the May celebration on the temple-front street: the temple name alone is not enough to build an itinerary. Choose the date using the event announcement, not a cherry-blossom forecast; check flowering information separately if blossoms are also a priority. Because this article covers observances nationwide, it does not prescribe a single restaurant, car park or walking time.
 
 ## Related Information
 
-Details on Hana Matsuri can be found in the information of each temple and in materials on Buddhist events. This event is the common name for the Buddhist event Kanbutsue celebrating the birth of Shakyamuni, held each year on April 8 (May 8 in some regions) at temples throughout the country. The center is placing a birth statue in a flower-decorated hanamido and having worshipers celebrate by pouring amacha; pouring amacha derives from the legend that the rain of sweet nectar fell from the heavens at Shakyamuni''s birth. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, and the like. The appearance of the white elephant (hakuzo) is after the legend that Maya, Shakyamuni''s mother, conceived after dreaming of a white elephant. Note that there are also distinctive Hana Matsuri events in each region, such as the Hana Matsuri held at the gate of Eihei-ji Temple in Fukui Prefecture, but these are held individually as events of each region. This event, celebrating the birth of the founder of Buddhism together with spring flowers, is a heartwarming annual event conveying to the present a part of the Buddhist culture deeply rooted in Japan.','hana-matsuri-kanbutsue','hana-matsuri-kanbutsue','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 16:04:59','katorisi','CC BY 3.0','https://commons.wikimedia.org/wiki/File:A_birthday_of_Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG','毎年4月8日','{"type": "fixed", "month": 4, "day": 8, "raw": "4月8日", "ctx": "生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+**Use explanatory sources and visit announcements for different purposes**
+[Jodo Shu''s Kanbutsue explanation](https://jodo.or.jp/event/kanbutue/) helps explain the flower hall, birth image and tea-pouring ritual; it is not a timetable for every temple in the current year. The [Eihei-ji area annual guide](https://zen-eiheiji.jp/annual_events/) helps distinguish the temple observance from the local street celebration. [Shojuin''s report](https://shojuin.jp/blog/574) explains a month-later observance and the penmanship tradition, but an old report should not be used as a current application notice.
+
+**Sources for questions about amacha**
+[Japan''s Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000082119.html) describes the plant''s classification, cases of vomiting after drinking amacha and the advice to avoid strongly brewed tea. Read folk beliefs about benefits separately from drinking precautions. Do not substitute ordinary hydrangea leaves for amacha: [Toho University''s medicinal plant garden](https://www.lab.toho-u.ac.jp/phar/yakusou/amatya.html) specifically warns against consuming related hydrangeas.
+','hana-matsuri-kanbutsue','hana-matsuri-kanbutsue','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 16:35:50','katorisi','CC BY 3.0','https://commons.wikimedia.org/wiki/File:A_birthday_of_Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG','毎年4月8日','{"type": "fixed", "month": 4, "day": 8, "raw": "4月8日", "ctx": "生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11655139','閃光ライオット','Senko Riot','10代アーティストのみによる日本のロック・フェスティバル','Japanese music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%96%83%E5%85%89%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%83%E3%83%88',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11678799','黒船祭','Shimoda Black Ship Festival','静岡県下田市で開催される祭',NULL,'Q653402','下田市','Shimoda','静岡県','chubu',NULL,NULL,NULL,5,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%BB%92%E8%88%B9%E7%A5%AD',NULL,70,'drafted','## 概要
 
@@ -39315,6 +39329,10 @@ INSERT INTO "publish_queue" VALUES('Q844110','Kofukuji','apply','同名別実体
 INSERT INTO "publish_queue" VALUES('Q11678183','Yamadera','reject','PLACENAME_v2: 正典側情報(Yamagata/山形/alias)が本文に皆無 + JA_SUFFIX,EN_SUFFIX,LOCAL_COMPOUND');
 CREATE TABLE skip_ledger(qid TEXT PRIMARY KEY, reason TEXT, source TEXT, created_at TEXT, resolved_at TEXT, note TEXT);
 INSERT INTO "skip_ledger" VALUES('Q11255045','log由来の恒久除外を移送','nxskip_log_migration_20260903','2026-09-03T18:22:54',NULL,'21日窓の自然復帰を止めるため台帳化');
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
+INSERT INTO "sqlite_sequence" VALUES('hold_queue',332);
+INSERT INTO "sqlite_sequence" VALUES('gate_log',496);
 CREATE TABLE verdict_ledger(
  tkey TEXT PRIMARY KEY, qid TEXT, ja TEXT, old TEXT, new TEXT,
  verdict TEXT, wd_label TEXT, wd_url TEXT, decided_at TEXT, src TEXT, en TEXT, note TEXT, url TEXT);
@@ -39553,8 +39571,4 @@ CREATE TRIGGER trg_festivals_updated
 AFTER UPDATE ON festivals FOR EACH ROW BEGIN
   UPDATE festivals SET updated_at=datetime('now','localtime') WHERE qid=NEW.qid;
 END;
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
-INSERT INTO "sqlite_sequence" VALUES('hold_queue',332);
-INSERT INTO "sqlite_sequence" VALUES('gate_log',496);
 COMMIT;
