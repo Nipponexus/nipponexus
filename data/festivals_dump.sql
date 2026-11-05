@@ -6972,7 +6972,7 @@ INSERT INTO "festivals" VALUES('Q1072387','七五三','Shichi-Go-San','日本の
 
 また、11月15日という日付が選ばれた理由には複数の説がある。旧暦の11月は収穫を終え、神に感謝する月であり、その月の満月にあたる15日が縁起の良い日とされたという説がある。さらに、陰陽道において11月は「一陽来復（いちようらいふく）」の月とされ、15日は鬼が出歩かないとされる吉日「鬼宿日（きしゅくにち）」に当たることから、婚礼以外の祝い事に適した日とされていたという説も存在する。
 
-江戸時代になると、呉服屋などの商人たちが商業政策としてこれらの三つの儀式をまとめて「七五三」と称し、宣伝するようになった。これにより、武家だけでなく町人や庶民の間にも急速に普及した。明治時代以降は、全国的に11月15日に神社へ参詣する習慣として定着し、現代に至るまで子どもの成長を祝う代表的な行事として親しまれている。
+儀礼の起源、名称の使用、全国への普及は同じ時期ではありません。国立国会図書館の解説は、公家社会の髪置・袴着・帯解などを源流とし、近世に武家や江戸の裕福な商人へ広まり、親子で氏神へ参詣する原型が成立したと説明しています。明治期に東京の都市部の庶民へ広がり、現在の呼称の定着と全国的な浸透は戦後、とくに1960年代としています。一方、明治神宮の解説は名称の使用を明治期からと説明していますが、これは全国定着の時期とは別の論点です。ここでは名称の最初の使用年や命名者を確定せず、江戸の商人が現在の名称を作り、明治期には全国で一律に定着したとは断定しません。[国立国会図書館：七五三の変遷](https://www.ndl.go.jp/kaleido/entry/31/column.html)／[明治神宮：神道一般Q1](https://www.meijijingu.or.jp/faq/?ca=3)
 
 ## 見どころ
 
@@ -6997,9 +6997,9 @@ INSERT INTO "festivals" VALUES('Q1072387','七五三','Shichi-Go-San','日本の
 ## 開催情報・アクセス
 
 - **開催日時（例年）**：七五三は例年11月15日に行われる。ただし、平日に当たる場合は前後の土日祝日に行う家庭が多く、10月中旬から12月上旬にかけて各神社で受け付けが行われている。最新の具体的な日程は、各神社の公式サイトで確認する必要がある。
-- **対象年齢**：通常は数え年で3歳・5歳・7歳だが、近年は満年齢で行う家庭も増えている。数え年の場合、3歳は満2歳（誕生日前後）、5歳は満4歳、7歳は満6歳となる。
-- **受付時間**：神社によって異なるが、多くの神社では午前9時から午後4時頃まで祈祷を受け付けている。人気の神社では事前予約が必要な場合がある。
-- **予約方法**：電話またはインターネットでの事前予約が推奨される。特に11月15日前後の週末は混雑が予想されるため、早めの予約が望ましい。
+- **年齢の数え方と祝う年**：数え年は生まれた年を1歳とし、元日ごとに1歳加えます。湊川神社の説明では、その年の誕生日前は現在の満年齢＋2、誕生日後は＋1です。「数え3歳なら常に満2歳」とは限りません。生まれた西暦年を使えば「参拝する年−生まれた年＋1」で数え年を確認できます。例えば2024年12月生まれなら2026年中は数え3歳で、12月の誕生日までは満1歳、誕生日後は満2歳です。これは計算例で、受付年齢や参拝日の指定ではありません。同神社は満年齢で祝っても構わないと説明しています。数え年・満年齢のどちらで祝うかを家族で整理し、参拝先の当年案内で対象年齢と受付期間を確認してください。[湊川神社：年齢の数え方](https://www.minatogawajinja.or.jp/column/8943/)
+- **祈祷の受付**：参拝先の公式「祈祷」「七五三」案内で、個人祈祷の予約要否、受付場所、最終受付、閉門時刻を確認してください。明治神宮の通常の個人祈願は予約不要・当日受付と案内されていますが、特別祈願には予約制のものもあります。全国の神社に同じ条件を当てはめないでください。[明治神宮：個人祈願の案内](https://www.meijijingu.or.jp/sanpai/3.php)
+- **衣装・着付け・撮影は別に確認**：祈祷の予約と、衣装レンタル・着付け・写真撮影の予約は別です。日枝神社の「七五三なごみプラン」は、祈祷・衣装・着付け等・撮影を組み合わせた平日限定の完全予約制プランとして案内されています。これは通常祈祷や他施設の予約条件を示すものではありません。セット利用を希望する場合は、希望日を決める前に提供者の公式案内で実施日・含まれるサービス・申込手順を確認し、祈祷のみの場合は神社の受付案内を確認しましょう。料金と空き状況は申込先で確認してください。[日枝神社：なごみプランの内容と予約](https://753.hiejinja.net/)
 - **持ち物・服装**：一般的に、祈祷料（初穂料）を納めるためののし袋、子どもの履き替え用の靴、カメラなどが必要となる。服装は、子どもは着物やスーツ、親は略礼装が基本とされる。
 - **アクセス**：全国の神社で行われており、特に有名な神社（神田明神、浅草神社、明治神宮など）では、公共交通機関の利用が便利である。当日は参道が大変混雑するため、時間に余裕を持った行動が推奨される。
 
@@ -7032,7 +7032,7 @@ The custom of combining these three ceremonies into a single event called Shichi
 
 Several theories exist regarding the selection of November 15 as the specific date. According to one theory, in the old lunar calendar, November was a month to give thanks to the gods for the autumn harvest, and the 15th, being the full moon, was considered an auspicious day. Another theory, based on Onmyōdō (the way of yin and yang), suggests that November was regarded as a month of "Ichiyōraifuku" (the return of spring, signifying good fortune after hardship), and the 15th was a "Kishukunit" (a day when demons do not walk), making it an auspicious day for celebrations other than weddings.
 
-During the Edo period, merchants, particularly kimono fabric sellers, bundled these three ceremonies together, named them "Shichi-Go-San" as a commercial strategy, and actively promoted this package. This commercial push led to the custom&#39;s rapid spread among both the warrior class and common citizens. Following the Meiji period, the practice of visiting Shinto shrines on November 15 became established nationwide as a representative event for celebrating children&#39;s growth, continuing to be widely observed to this day.
+The origins of the rites, use of the name and nationwide spread should be distinguished. The National Diet Library traces the celebration to court rites such as kamioki, hakamagi and obitoki. It explains that an early form of the family shrine visit developed among warriors and prosperous Edo merchants in the early modern period, spread among ordinary urban families in Tokyo during the Meiji period, and became widely established under the present name nationwide after World War II, particularly in the 1960s. Meiji Jingu separately discusses use of the name from the Meiji period; use of a term is not the same as nationwide adoption. This account does not establish an exact first-use year or a person who coined the name, and does not claim that Edo merchants invented it or that the celebration was already uniform nationwide in the Meiji period. [National Diet Library: development of Shichi-Go-San](https://www.ndl.go.jp/kaleido/entry/31/column.html) / [Meiji Jingu: general Shinto FAQ, Q1](https://www.meijijingu.or.jp/faq/?ca=3)
 
 ## Highlights
 
@@ -7057,9 +7057,9 @@ In contemporary Shichi-Go-San, it is common practice to have a child&#39;s forma
 ## Event Information and Access
 
 - **Date (Typical Year)**: Shichi-Go-San is traditionally observed on November 15. However, if this falls on a weekday, many families celebrate on the preceding or following weekends. Shrines generally accept prayer requests from mid-October through early December. For the latest specific dates, it is necessary to check the official website of each shrine.
-- **Target Ages**: The traditional age calculation uses the kazoedoshi (counted age) system: 3, 5, and 7. In recent years, many families use the man nenrei (full age) system. In kazoedoshi, an age 3 child is a full age of 2 years (around their birthday), age 5 is full age 4, and age 7 is full age 6.
-- **Reception Hours**: Prayer reception hours vary by shrine but are generally from 9:00 AM to 4:00 PM. At popular shrines, advance reservation may be required.
-- **Reservations**: Reservations by phone or online are recommended. As weekends around November 15 are particularly crowded, early booking is advisable.
+- **Counting Age and Choosing a Celebration Year**: Kazoedoshi counts the birth year as age one and adds a year each New Year. Minatogawa Jinja explains that it equals the child’s current age in completed years plus two before the birthday that year, or plus one after it. A child at counted age three is therefore not always two in completed years. Using calendar years, calculate counted age as the visit year minus the birth year plus one. For example, a child born in December 2024 has counted age three throughout 2026, but is one in completed years until the December birthday and two afterward. This is a calculation example, not an admission-age rule or a prescribed visit date. The shrine also says celebrating by completed years is acceptable. Decide which system your family is using, then check your chosen shrine’s current-year guidance for accepted ages and reception dates. [Minatogawa Jinja: counting ages](https://www.minatogawajinja.or.jp/column/8943/)
+- **Prayer Reception**: Check your destination’s official prayer or Shichi-Go-San page for whether an individual prayer requires booking, the reception location, last reception time and gate closing time. Meiji Jingu lists ordinary individual prayers as same-day registration without a reservation, while some special prayer services require booking. These are not nationwide rules. [Meiji Jingu: individual prayer information](https://www.meijijingu.or.jp/sanpai/3.php)
+- **Book Clothing, Dressing and Photography Separately**: A prayer reservation is different from arrangements for clothing rental, dressing and photography. Hie Jinja’s Nagomi plan is advertised as a weekday-only, reservation-required package combining prayer, clothing, dressing-related services and studio photography. It does not establish the booking rules for ordinary prayers or other venues. If you want a package, check the provider’s official dates, included services and application steps before fixing your visit; if you want only prayer, consult the shrine’s reception guidance. Confirm prices and availability with the provider. [Hie Jinja: Nagomi package and booking](https://753.hiejinja.net/)
 - **What to Bring**: Standard items include an envelope (noshibukuro) for the prayer offering (hatsuhōryō), a change of shoes for the child, and a camera. Formal attire for the child (kimono or suit) and semi-formal wear for parents is typical.
 - **Access**: Shichi-Go-San is observed at Shinto shrines nationwide. For particularly famous shrines such as Kanda Myojin, Asakusa Shrine, and Meiji Jingu, the use of public transportation is recommended. The approach paths can be extremely crowded on the day, so ample time is necessary.
 
@@ -7080,7 +7080,7 @@ In regions like Hokkaido, Shichi-Go-San is a relatively newer tradition, believe
 6. **Hakamagi**: One of the three origin ceremonies; wearing a hakama for the first time at age five.
 7. **Obitoki**: One of the three origin ceremonies; beginning to tie an adult obi at age seven.
 8. **Kanda Myojin**: A major Shinto shrine in Chiyoda-ku, Tokyo, famed for its Shichi-Go-San crowds since the Edo period.
-9. **Tokugawa Tsunayoshi**: The 5th Tokugawa shogun, whose celebration of his son Tokumatsu&#39;s growth is a key legend in the origin of the modern Shichi-Go-San custom.','shichi-go-san','shichi-go-san','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Bergmann at Japanese Wikipedia','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Shichigosan_at_Ikuta_Jinja_Shrine.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
+9. **Tokugawa Tsunayoshi**: The 5th Tokugawa shogun, whose celebration of his son Tokumatsu&#39;s growth is a key legend in the origin of the modern Shichi-Go-San custom.','shichi-go-san','shichi-go-san','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 04:38:02','Bergmann at Japanese Wikipedia','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Shichigosan_at_Ikuta_Jinja_Shrine.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q3090688','深川祭','Fukagawa Matsuri','東京都江東区の富岡八幡宮の祭礼','festival in Tokyo','Q654417','富岡八幡宮','Tomioka Hachiman Shrine','東京都','kanto',NULL,NULL,1642,8,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Tomioka%20hachimangu4.jpg','https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Fukagawa_Matsuri',85,'drafted','## 概要
 
 深川祭（ふかがわまつり）は、東京都江東区の富岡八幡宮(とみおかはちまんぐう)で行われる例祭で、神田祭・山王祭とともに江戸三大祭の一つに数えられます。とりわけ沿道の観衆が担ぎ手に清めの水を浴びせかけることから「水掛け祭り」の異名で親しまれ、真夏の江東の町を清涼と熱狂で包み込む勇壮な祭りとして知られています。
