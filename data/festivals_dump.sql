@@ -36933,25 +36933,37 @@ INSERT INTO "festivals" VALUES('Q16272167','花祭り','Hana matsuri','釈迦の
 
 ## 歴史・由来
 
-花祭り（灌仏会）は、仏教の開祖である釈迦の誕生日を祝う行事であり、その起源は仏教そのものの歴史にまでさかのぼる。釈迦は、今から約2500年前、インドの北部（現在のネパール付近）のルンビニーの花園で、シャーキャ族の王子として誕生したと伝えられる。その誕生にまつわる伝説が、花祭りの儀礼の由来となっている。
+花祭り（灌仏会）は、仏教の開祖である釈迦の誕生日を祝う行事であり、その起源は仏教そのものの歴史にまでさかのぼる。釈迦は、今から約2500年前、現在のネパールにあるルンビニーの花園で、シャーキャ族の王子として誕生したと伝えられる。その誕生にまつわる伝説が、花祭りの儀礼の由来となっている。
 
-行事の中心である「甘茶をそそぐ」習わしは、釈迦が誕生したとき、天から甘い露（甘露の雨）が降りそそぎ、その身を洗い清めたという伝説に由来する。この甘露の雨を模して、参拝者が誕生仏に甘茶をかけるのである。甘茶は、ユキノシタ科のアマチャの葉を煎じて作る甘い飲み物で、花祭りには欠かせないものとなっている。また、花御堂は、釈迦が誕生したルンビニーの花園を表したものとされ、色とりどりの花で飾られる。
+行事の中心である「甘茶をそそぐ」習わしは、釈迦が誕生したとき、天から甘い露（甘露の雨）が降りそそぎ、その身を洗い清めたという伝説に由来する。この甘露の雨を模して、参拝者が誕生仏に甘茶をかけるのである。甘茶は、アジサイ科のアマチャの葉を煎じて作る甘い飲み物で、花祭りには欠かせないものとなっている。また、花御堂は、釈迦が誕生したルンビニーの花園を表したものとされ、色とりどりの花で飾られる。
 
 誕生仏は、生まれたばかりの釈迦の姿をかたどった像で、右手を天に、左手を地に向けて立つ独特の姿をしている。これは、釈迦が誕生してすぐに七歩歩み、右手で天を、左手で地を指して「天上天下唯我独尊（てんじょうてんげゆいがどくそん）」と唱えたという伝説に基づいている。この言葉は、すべての人間が等しく尊い存在であることを説いたものと解釈されている。
 
-「花祭り」という親しみやすい呼び名が一般に用いられるようになったのは、明治期以降とされる。それ以前は、灌仏会や仏生会といった呼称が使われていた。花御堂を花で美しく飾ることから「花祭り」と呼ばれるようになり、この名が広く定着した。江戸時代には、この日は町中がお祝いの雰囲気に包まれたと伝えられ、古くから人々に親しまれてきた仏教行事である。
+「花祭り」という親しみやすい呼び名が一般に用いられるようになったのは、明治期以降とされる。それ以前は、灌仏会や仏生会といった呼称が使われていた。花御堂を花で美しく飾ることから「花祭り」と呼ばれるようになり、この名が広く定着した。江戸時代には民衆の間にも広まり、人々に親しまれてきた仏教行事である。
 
 ## 見どころ
 
-花祭りの見どころは、何といっても色とりどりの花で美しく飾られた花御堂と、参拝者が誕生仏に甘茶をそそぐ厳かで心和む儀礼である。春の花々で彩られた花御堂は、見るだけでも華やかで、釈迦が誕生したルンビニーの花園の情景を思い起こさせる。その中央に安置された小さな誕生仏に、参拝者が柄杓（ひしゃく）で甘茶を静かにそそぐ姿は、仏教の慈悲と、生命の誕生を祝う心が表れた、美しい光景である。
+**花々に彩られた花御堂**
+花祭りでは、花々で飾った小さなお堂である花御堂に、釈迦の誕生を表す像を安置する。浄土宗の行事案内でも、花御堂の中の像に甘茶をかける習わしが紹介されている。花による装飾と小さな像が組み合わさった姿は、この行事を知る手がかりになる。
 
-甘茶は、参拝者にふるまわれることも多く、お参りのあとに甘茶をいただくのも花祭りの楽しみの一つである。甘茶は無病息災にご利益があるとされ、また、その甘茶で墨をすって字を書くと上達するといった言い伝えもある。子どもたちが甘茶をいただく姿は、花祭りらしいほのぼのとした光景である。
+**天と地を指す誕生仏**
+誕生仏は、生まれたばかりの釈迦を表した像である。右手で天を、左手で地を指す姿は、誕生した釈迦が七歩歩き、天上天下唯我独尊と述べたという伝説に基づく。浄土宗はこの言葉を、一人ひとりの命の尊さと互いを慈しむ大切さを示すものと説明している。
 
-寺院によっては、稚児行列（ちごぎょうれつ）が行われるところもある。美しく着飾った子どもたちが、白い象をかたどった山車（白象）を引いて練り歩く稚児行列は、花祭りを代表する華やかな見どころである。白い象は、釈迦の母である摩耶夫人（まやぶにん）が、釈迦を身ごもったときに白い象が体内に入る夢を見たという伝説にちなむもので、花祭りにしばしば登場する。花と子どもたちと白象が織りなす春の行列は、見る人の心を和ませてくれる。
+**甘茶をそそぐ灌仏**
+参拝者が誕生仏に甘茶をそそぐことが、花祭りの中心となる儀礼である。釈迦の誕生時に甘露の水がそそがれたという経典の説示に由来すると、浄土宗は説明している。像にかける甘茶はその甘露水に見立てられ、誕生を祝う行為として位置づけられている。
+
+**甘茶のふるまいと飲用時の注意**
+甘茶は、誕生仏にそそぐだけでなく、参拝者にふるまわれることもある。飲用は行事の習わしだが、健康効果が保証されるわけではない。厚生労働省は子どもの嘔吐事例を紹介し、濃い甘茶を避けるよう案内している。
+
+**甘茶と筆上達の言い伝え**
+甘茶には、飲用や灌仏以外にも地域で伝えられてきた習わしがある。正壽院の花まつりの紹介には、甘茶で墨をすって字を書くと筆が上達するという言い伝えが記されている。これは伝承として紹介されるものであり、実際の上達を保証する説明ではない。
+
+**白象と子どもたちの行列**
+花祭りに合わせて、白象引きや稚児行列を行う地域もある。永平寺門前の年中行事案内では、五月連休の最終日に門前参道で行う催しとして紹介されている。白象は釈迦の母マーヤーが見たという夢にも登場するが、行列の有無や日程は訪問先ごとの確認が必要である。
 
 ## 開催情報・アクセス
 
-花祭り（灌仏会）は、例年4月8日に、全国の多くの寺院で営まれる。ただし、地域や寺院によっては、旧暦や月遅れに合わせて5月8日に行うところもある。釈迦の誕生を祝うこの行事は、宗派を問わず多くの仏教寺院で行われており、特定の一つの会場で行われるものではない。お近くの寺院でも花御堂が設けられ、甘茶をいただける場合が多い。
+花祭り（灌仏会）は、例年4月8日に、全国の多くの寺院で営まれる。ただし、地域や寺院によっては、月遅れの5月8日など、別の日に行うところもある。釈迦の誕生を祝うこの行事は、宗派を問わず多くの仏教寺院で行われており、特定の一つの会場で行われるものではない。お近くの寺院でも花御堂が設けられ、甘茶をいただける場合が多い。
 
 花祭りに参加したい場合は、お住まいの地域の寺院や、有名な寺院の情報を調べてみるとよい。大きな寺院では、花御堂の設置に加え、稚児行列や法要、甘茶のふるまいなど、さまざまな行事が行われることがある。アクセスや開催時間、稚児行列の有無などは寺院によって異なるため、訪れる前にそれぞれの寺院の情報を確認することが望ましい。4月上旬は桜の季節とも重なることが多く、寺院の境内に咲く花々とあわせて、春らしい風情を楽しむことができる。なお、参拝にあたっては、仏教行事であることをふまえ、静かに敬意をもって臨みたい。
 
@@ -36969,25 +36981,37 @@ Hana Matsuri is a Buddhist event celebrating the birth of Shakyamuni Buddha, for
 
 ## History and Origins
 
-Hana Matsuri (Kanbutsue) is an event celebrating the birthday of Shakyamuni, the founder of Buddhism, and its origin reaches back to the history of Buddhism itself. Shakyamuni is said to have been born about 2,500 years ago, in the flower garden of Lumbini in northern India (near present-day Nepal), as a prince of the Shakya clan. The legends surrounding his birth are the origin of the rituals of Hana Matsuri.
+Hana Matsuri (Kanbutsue) is an event celebrating the birthday of Shakyamuni, the founder of Buddhism, and its origin reaches back to the history of Buddhism itself. Shakyamuni is said to have been born about 2,500 years ago, in the flower garden of Lumbini in present-day Nepal, as a prince of the Shakya clan. The legends surrounding his birth are the origin of the rituals of Hana Matsuri.
 
-The custom of pouring amacha, the center of the event, derives from the legend that when Shakyamuni was born, sweet dew (the rain of sweet nectar) fell from the heavens and washed and purified his body. Imitating this rain of sweet nectar, worshipers pour amacha over the birth statue. Amacha is a sweet beverage made by decocting the leaves of the amacha plant of the saxifrage family, and it has become indispensable to Hana Matsuri. Also, the hanamido is said to represent the flower garden of Lumbini where Shakyamuni was born, and is decorated with colorful flowers.
+The custom of pouring amacha, the center of the event, derives from the legend that when Shakyamuni was born, sweet dew (the rain of sweet nectar) fell from the heavens and washed and purified his body. Imitating this rain of sweet nectar, worshipers pour amacha over the birth statue. Amacha is a sweet beverage made by decocting the leaves of the amacha plant of the hydrangea family (Hydrangeaceae), and it has become indispensable to Hana Matsuri. Also, the hanamido is said to represent the flower garden of Lumbini where Shakyamuni was born, and is decorated with colorful flowers.
 
 The birth statue is an image shaped in the form of the newly born Shakyamuni, standing in a distinctive posture with the right hand toward the heavens and the left hand toward the earth. This is based on the legend that Shakyamuni, immediately after birth, walked seven steps and, pointing with his right hand to the heavens and his left hand to the earth, proclaimed Tenjo Tenge Yuiga Dokuson. This phrase is interpreted as teaching that all human beings are equally precious existences.
 
-It is said that the approachable name Hana Matsuri came to be generally used from the Meiji period onward. Before that, designations such as Kanbutsue and Busshoe were used. Because the hanamido is beautifully decorated with flowers, it came to be called Hana Matsuri, and this name became widely established. In the Edo period, it is said that on this day the whole town was wrapped in a festive atmosphere, and it is a Buddhist event that has been beloved by people since old times.
+It is said that the approachable name Hana Matsuri came to be generally used from the Meiji period onward. Before that, designations such as Kanbutsue and Busshoe were used. Because the hanamido is beautifully decorated with flowers, it came to be called Hana Matsuri, and this name became widely established. The observance spread among ordinary people during the Edo period and became a familiar Buddhist event.
 
 ## Highlights
 
-The highlight of Hana Matsuri is, above all, the hanamido beautifully decorated with colorful flowers, and the solemn, heartwarming ritual in which worshipers pour amacha over the birth statue. The hanamido colored with spring flowers is splendid just to look at, calling to mind the scene of the flower garden of Lumbini where Shakyamuni was born. The sight of worshipers quietly pouring amacha with a ladle over the small birth statue placed at its center is a beautiful scene expressing the compassion of Buddhism and the heart that celebrates the birth of life.
+**The flower-decorated hanamido**
+A hanamido is a small hall decorated with flowers and used to house an image of the infant Buddha during Hana Matsuri. Jodo Shu''s account of the observance describes pouring amacha over the small image inside this hall. The combination of flowers and the birth image provides a visible introduction to the celebration.
 
-Amacha is often also served to worshipers, and receiving amacha after worship is one of the pleasures of Hana Matsuri. Amacha is said to have the benefit of good health, and there is also a saying that grinding ink with that amacha and writing characters improves one''s penmanship. The sight of children receiving amacha is a heartwarming scene characteristic of Hana Matsuri.
+**The posture of the birth statue**
+The birth statue represents the infant Shakyamuni with the right hand pointing toward the heavens and the left toward the earth. This posture recalls the legend that he walked seven steps and proclaimed Tenjo Tenge Yuiga Dokuson. Jodo Shu interprets the saying as an expression of the preciousness of every life and the importance of mutual care.
 
-Depending on the temple, there are places where a chigo gyoretsu (children''s procession) is held. The chigo procession, in which beautifully dressed children pull a float shaped like a white elephant (hakuzo) and parade, is a splendid highlight representative of Hana Matsuri. The white elephant is after the legend that Maya, the mother of Shakyamuni, had a dream in which a white elephant entered her body when she conceived Shakyamuni, and it often appears at Hana Matsuri. The spring procession woven by flowers, children, and the white elephant soothes the hearts of those who see it.
+**Pouring amacha over the image**
+Pouring amacha over the birth statue is the central ritual of Hana Matsuri. Jodo Shu explains that the practice derives from scriptural accounts of sweet nectar being poured at Shakyamuni''s birth. The tea stands for that nectar, making the act of pouring it a way of celebrating his birth rather than an ordinary washing of the image.
+
+**Amacha refreshments and precautions**
+Amacha may be offered to worshipers as well as poured over the birth statue. Drinking it is part of the observance at some temples, not a guarantee of health benefits. Japan''s Ministry of Health, Labour and Welfare reports cases of vomiting among children who drank amacha and advises avoiding strongly brewed tea.
+
+**A tradition associated with penmanship**
+Amacha also appears in folk traditions beyond drinking it or pouring it over the Buddha image. Shojuin''s account of Hana Matsuri mentions a belief that using amacha to grind ink helps improve one''s handwriting. This is presented as a traditional belief associated with the observance, not as a proven method or a promise of better penmanship.
+
+**White elephants and children''s processions**
+Some local celebrations include a white-elephant float and a children''s procession. The annual-events guide for the Eihei-ji temple-front area describes these activities on the final day of the May holiday period. A white elephant also appears in the legend of Maya''s dream, but visitors should check each venue for procession availability and dates.
 
 ## Event Information and Access
 
-Hana Matsuri (Kanbutsue) is held, usually on April 8, at many temples throughout the country. However, depending on the region and temple, there are places that hold it on May 8 in accordance with the old calendar or a one-month delay. This event celebrating the birth of Shakyamuni is held at many Buddhist temples regardless of sect and is not held at one specific venue. At a nearby temple too, a hanamido is often set up and one can receive amacha.
+Hana Matsuri (Kanbutsue) is held, usually on April 8, at many temples throughout the country. However, depending on the region and temple, there are places that hold it on other dates, such as May 8, one month later. This event celebrating the birth of Shakyamuni is held at many Buddhist temples regardless of sect and is not held at one specific venue. At a nearby temple too, a hanamido is often set up and one can receive amacha.
 
 If one wishes to participate in Hana Matsuri, it is best to look into information on temples in one''s area of residence or on famous temples. At large temples, in addition to setting up the hanamido, various events such as a chigo procession, memorial services, and the serving of amacha may be held. As access, holding times, and whether there is a chigo procession differ by temple, it is advisable to confirm the information of each temple before visiting. Early April often overlaps with the cherry-blossom season, and together with the flowers blooming in the temple precincts, one can enjoy a springlike atmosphere. When worshiping, bearing in mind that it is a Buddhist event, one should approach it quietly and with respect.
 
@@ -36999,7 +37023,7 @@ Around April 8, many regions overlap just with the peak of cherry blossoms. Part
 
 ## Related Information
 
-Details on Hana Matsuri can be found in the information of each temple and in materials on Buddhist events. This event is the common name for the Buddhist event Kanbutsue celebrating the birth of Shakyamuni, held each year on April 8 (May 8 in some regions) at temples throughout the country. The center is placing a birth statue in a flower-decorated hanamido and having worshipers celebrate by pouring amacha; pouring amacha derives from the legend that the rain of sweet nectar fell from the heavens at Shakyamuni''s birth. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, and the like. The appearance of the white elephant (hakuzo) is after the legend that Maya, Shakyamuni''s mother, conceived after dreaming of a white elephant. Note that there are also distinctive Hana Matsuri events in each region, such as the Hana Matsuri held at the gate of Eihei-ji Temple in Fukui Prefecture, but these are held individually as events of each region. This event, celebrating the birth of the founder of Buddhism together with spring flowers, is a heartwarming annual event conveying to the present a part of the Buddhist culture deeply rooted in Japan.','hana-matsuri-kanbutsue','hana-matsuri-kanbutsue','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','katorisi','CC BY 3.0','https://commons.wikimedia.org/wiki/File:A_birthday_of_Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG','毎年4月8日','{"type": "fixed", "month": 4, "day": 8, "raw": "4月8日", "ctx": "生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+Details on Hana Matsuri can be found in the information of each temple and in materials on Buddhist events. This event is the common name for the Buddhist event Kanbutsue celebrating the birth of Shakyamuni, held each year on April 8 (May 8 in some regions) at temples throughout the country. The center is placing a birth statue in a flower-decorated hanamido and having worshipers celebrate by pouring amacha; pouring amacha derives from the legend that the rain of sweet nectar fell from the heavens at Shakyamuni''s birth. The name Hana Matsuri is said to have been born in the Meiji period; before that it was called Kanbutsue, Busshoe, and the like. The appearance of the white elephant (hakuzo) is after the legend that Maya, Shakyamuni''s mother, conceived after dreaming of a white elephant. Note that there are also distinctive Hana Matsuri events in each region, such as the Hana Matsuri held at the gate of Eihei-ji Temple in Fukui Prefecture, but these are held individually as events of each region. This event, celebrating the birth of the founder of Buddhism together with spring flowers, is a heartwarming annual event conveying to the present a part of the Buddhist culture deeply rooted in Japan.','hana-matsuri-kanbutsue','hana-matsuri-kanbutsue','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 16:04:59','katorisi','CC BY 3.0','https://commons.wikimedia.org/wiki/File:A_birthday_of_Buddha%2Chanamatsuri%2Ckanpukuji-temple%2Ckatori-city%2Cjapan.JPG','毎年4月8日','{"type": "fixed", "month": 4, "day": 8, "raw": "4月8日", "ctx": "生を祝う仏教行事で、正式には「灌仏会（かんぶつえ）」という。毎年4月8日（地域や寺院により5月8日の場合", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11655139','閃光ライオット','Senko Riot','10代アーティストのみによる日本のロック・フェスティバル','Japanese music festival',NULL,NULL,NULL,NULL,NULL,NULL,NULL,2008,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E9%96%83%E5%85%89%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%83%E3%83%88',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11678799','黒船祭','Shimoda Black Ship Festival','静岡県下田市で開催される祭',NULL,'Q653402','下田市','Shimoda','静岡県','chubu',NULL,NULL,NULL,5,'spring',NULL,'https://ja.wikipedia.org/wiki/%E9%BB%92%E8%88%B9%E7%A5%AD',NULL,70,'drafted','## 概要
 
@@ -39291,10 +39315,6 @@ INSERT INTO "publish_queue" VALUES('Q844110','Kofukuji','apply','同名別実体
 INSERT INTO "publish_queue" VALUES('Q11678183','Yamadera','reject','PLACENAME_v2: 正典側情報(Yamagata/山形/alias)が本文に皆無 + JA_SUFFIX,EN_SUFFIX,LOCAL_COMPOUND');
 CREATE TABLE skip_ledger(qid TEXT PRIMARY KEY, reason TEXT, source TEXT, created_at TEXT, resolved_at TEXT, note TEXT);
 INSERT INTO "skip_ledger" VALUES('Q11255045','log由来の恒久除外を移送','nxskip_log_migration_20260903','2026-09-03T18:22:54',NULL,'21日窓の自然復帰を止めるため台帳化');
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
-INSERT INTO "sqlite_sequence" VALUES('hold_queue',332);
-INSERT INTO "sqlite_sequence" VALUES('gate_log',496);
 CREATE TABLE verdict_ledger(
  tkey TEXT PRIMARY KEY, qid TEXT, ja TEXT, old TEXT, new TEXT,
  verdict TEXT, wd_label TEXT, wd_url TEXT, decided_at TEXT, src TEXT, en TEXT, note TEXT, url TEXT);
@@ -39533,4 +39553,8 @@ CREATE TRIGGER trg_festivals_updated
 AFTER UPDATE ON festivals FOR EACH ROW BEGIN
   UPDATE festivals SET updated_at=datetime('now','localtime') WHERE qid=NEW.qid;
 END;
+DELETE FROM "sqlite_sequence";
+INSERT INTO "sqlite_sequence" VALUES('fetch_history',2);
+INSERT INTO "sqlite_sequence" VALUES('hold_queue',332);
+INSERT INTO "sqlite_sequence" VALUES('gate_log',496);
 COMMIT;
