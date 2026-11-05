@@ -38640,19 +38640,19 @@ INSERT INTO "festivals" VALUES('Q11638353','迎え火','Mukaebi','客人や神�
 
 迎え火（むかえび）は、地域のお盆の入りに、先祖の霊をこの世に迎え入れるために焚かれる火の行事である。家の門口や庭先で麻幹（おがら）や麦藁などを焚き、その煙と炎によって先祖の霊が迷わず帰ってこられるようにする目印とされる。この火は門火（かどび）とも呼ばれ、お盆の終わりに行われる送り火と対をなす行事として、日本の多くの地域で長く受け継がれてきた。
 
-迎え火の習慣は全国に広がっているが、地域ごとにその方法や時期には違いがある。一般的には8月13日の夕刻に行われるが、7月13日に行う地方もあり、その形態も麻幹を焚く簡素なものから大規模な松明を焚くものまで多様である。静岡県沼津市久連では7月31日に海に向かって薪を井の字に組んで一斉に着火する独自の迎え火が行われ、和歌山県では庚地蔵に集まって大きな松明を焚くなど、各地の風土や歴史を反映した形で継承されている。
+地域例として、和歌山県の記録は日高川町土生の家庭で8月13〜16日に行う習俗を紹介しています。13日夕方に提灯を持って庚地蔵に集まり、大きな松明や鐘、読経で先祖を迎える内容です。記録された家庭・地域の習俗であり、現在の一般向け公開イベントの開催案内ではありません。[和歌山県の記録](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 浄土宗の案内では、お盆は一般に7月または8月の13日から15日（16日）ですが、地方差があります。家庭で行う前に、家族や菩提寺に日付と作法を確認してください。公開行事を見に行く場合は、その会場の当年告知で時刻を確認し、家庭の夕刻の作法と混同しないでください。[浄土宗：お盆の迎え方](https://jodo.or.jp/event/urabone/)
 
 ## 歴史・由来
 
-迎え火の起源は仏教の盂蘭盆会（うらぼんえ）に由来する。盂蘭盆会は、目連尊者が餓鬼道に落ちた母を救うために釈迦の教えに従って供養した故事に始まるとされる。日本では推古天皇の時代（6世紀末から7世紀初頭）に斎行されたという記録があり、その後、平安時代から鎌倉時代にかけて徐々に一般庶民の間にも広まっていった。
+迎え火は、お盆に先祖を迎える習俗の一つです。浄土宗は、お盆の背景を『盂蘭盆経』の目連尊者が母を救う説話と結び付け、仏教の盂蘭盆会が日本の祖先を祀る信仰や儀礼と結び付いたものと説明しています。この説明はお盆の宗教的背景であり、迎え火そのものの初出年を確定するものではありません。[浄土宗：お盆の由来](https://jodo.or.jp/newspaper/news/10720/)
 
-迎え火が年中行事として定着したのは江戸時代と言われている。それ以前から民間では先祖の霊を迎える火を焚く習慣があったが、江戸時代の社会秩序の整備や暦の普及に伴い、多くの地域で盂蘭盆会の行事として統一されていった。盆提灯の風習も鎌倉時代から行われており、迎え火の代わりとして、あるいは補完する形で発展した。
+迎え方や日程は全国一律ではありません。浄土宗の案内には、火を焚くほか、寺の鐘を撞く、提灯を持って墓へ迎えに行く地域例もあります。家庭での実施は家族や菩提寺の作法を確認し、他地域の紹介をそのまま自分の家庭の決まりにしないでください。[迎え方の違い](https://jodo.or.jp/event/urabone/)
 
 迎え火の背景にあるのは、先祖の霊があの世からこの世に帰ってくる際、道が暗いと迷ってしまうという日本人の死生観である。迎え火はその道を照らす灯りとして、また霊が帰ってくる目印として重要な意味を持った。同様に、お盆の終わりには送り火を焚いて霊をあの世へ送り返すことで、死者と生者の間の循環を儀礼的に完結させてきた。
 
-地域によっては「御招霊（ごしょうれい）」と呼ばれる大がかりな迎え火行事が存在した。この行事は背丈の1.3倍から1.5倍もある大きな松明を若者たちが振り回しながら練り歩くもので、直径7センチから10センチの孟宗竹に稲藁や麦藁の束を縛り付けて火を付ける。村落の青年たちは10分から15分かけて松明を燃やし尽くし、「ござれ、ござれ」と叫んで先祖の霊を呼び寄せたとされる。
+地域の火の行事は、家庭の迎え火と規模や参加方法が異なります。日高川町土生の記録には庚地蔵で大きな松明を焚くことが記されていますが、松明の寸法や燃焼時間を家庭向けの作り方として示すものではありません。見学を希望する場合は、公開の可否を地域の案内で確認してください。[記録の対象と範囲](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 ## 見どころ
 
@@ -38660,127 +38660,131 @@ INSERT INTO "festivals" VALUES('Q11638353','迎え火','Mukaebi','客人や神�
 迎え火の最も一般的な方法は、家の門口や辻で麻の茎（おがら）の皮を剥いだものを折り重ねて着火するものである。おがらは燃えやすく、透き通るような炎を上げることから、先祖の霊の通り道を優しく照らす灯りとして最適とされた。夕暮れ時、各家の前でおがらが焚かれる情景は、日本の夏の風物詩として情緒深いものがある。
 
 **盆提灯の灯り**
-迎え火の変形として、盆提灯を灯す風習もある。盆提灯は先祖の霊が滞在しているしるしとされ、家の中や庭先に飾られる。この習慣は鎌倉時代から続いており、現代では電灯を用いた提灯も多いが、その役割は変わらない。提灯の柔らかな灯りが、先祖の霊が安心して滞在できる空間をつくり出す。
+盆提灯は、お盆に先祖の霊を迎える目印として飾る提灯です。浄土宗は精霊棚の左右に飾る例を紹介し、地域によって新盆に白い提灯を用いる場合もあると説明しています。名称・用途の説明と起源の年代は別であり、ここでは鎌倉時代に始まったとは断定しません。[浄土宗：盆提灯](https://jodo.or.jp/event/urabone/)
 
 **水棚と供え物**
-和歌山県などでは、8月13日に各家庭の庭先に水棚を設け、夏の畑で採れた野菜や果物、そうめんや引き豆腐などを供える。水棚は精霊棚とも呼ばれ、先祖の霊が休む場所とされる。家族は仏壇や水棚に向かって「よくお帰りなさい。ゆっくりなさってください」と声をかけ、来訪を歓迎する。
+和歌山県が記録する日高川町土生の例では、8月13日に庭先に水棚を作り、野菜や果物を供えます。帰宅して水棚と仏壇に手を合わせる流れや、仏壇へのそうめん・引き豆腐などの供物も記されています。全国共通の献立や設置場所ではありません。[和歌山県：日高川町土生](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 **萩・万灯会（迎え火）**
-山口県萩市では、萩藩主毛利家の菩提寺である大照院で、8月13日に万灯会（迎え火）が催される。墓所にある600基あまりの石灯籠にろうそくの灯がともされ、幻想的な景観が広がる。この行事は浴衣（和装）で来場した人にろうそくがプレゼントされるなど、観光行事としても人気を集めている。
+萩市観光協会は、8月13日に大照院、15日に東光寺で墓所の石灯籠に火をともす行事として紹介しています。家庭でおがらを焚く作法とは異なる、寺院での参拝・見学の例です。和装特典や呈茶は年ごとの条件を確認し、過去年の案内を恒常的な特典として扱わないでください。[萩市観光協会](https://www.hagishi.com/mantoue/)
 
-**盛岡の迎え火・送り火**
-岩手県盛岡市鉈屋町界隈では、昔から絶えることなく先祖のお迎え行事が行われてきた。夕方になると町内で一斉に迎え火が焚かれ、伝統的な景観を残す町並みが火の明かりに包まれる。近年では途絶えた「伝統さんさ踊りの門付け」が復活するなど、地域の文化継承の場ともなっている。
+**盛岡・鉈屋町の公開行事例**
+盛岡市は2026年8月14日の「第21回残したい盛岡のお盆 迎え火・黒川さんさ門付け」を、どなたでも見学できる催しとして告知しました。町内の迎え火の習俗と、黒川参差踊連中による門付けの紹介を含むものです。これは終了済みの年の告知で、実施後報告や翌年の予定ではありません。[盛岡市の2026年告知](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-**火災防止と現代的な工夫**
-迎え火は火災の原因となることがあるため、現代では焙烙（ほうろく）の上で焚いたり、盆提灯に電灯を灯したりするなどの工夫がなされている。また、川へ供え物を流すことが禁じられた地域では、流す真似をして引き上げて焼却するようになった。伝統を守りながらも、安全や環境に配慮した形で行事が続けられている点が特徴的である。
+**火を使う前の安全確認**
+家庭の迎え火では、火を使える場所か、住居や地域の決まりを先に確認してください。芦屋市消防の注意喚起は、消火用の水やバケツを準備すること、強風時は実施を控えること、完全に消火してから離れることを挙げています。提灯や仏壇の火も、つけたまま離れないでください。[消防の安全案内](https://www.city.ashiya.lg.jp/shoubou/obonn.html)
 
 ## 開催情報・アクセス
 
-1. **開催時期**: 一般的には毎年8月13日の夕刻に行われる。一部地域では7月13日に行う。静岡県沼津市久連では7月31日。最新の開催日程・実施可否は各自治体や公式サイトで確認する必要がある。
+1. **開催時期**: 家庭の迎え火は地域のお盆の入りに合わせます。7月盆・8月盆などの違いがあるため、家族や菩提寺に確認してください。公開行事の開催日・実施可否は、家庭の作法とは別に主催者の当年告知で確認します。[浄土宗の案内](https://jodo.or.jp/event/urabone/)
 
-2. **開催場所**: 主に各家庭の門口や庭先。大規模な行事として、山口県萩市の大照院（萩・万灯会の迎え火。15日の送り火は東光寺）、岩手県盛岡市鉈屋町界隈の町内一斉焚き上げなどがある。和歌山県日高川町では庚地蔵に集まって行う。
+2. **場所の選び方**: 家庭で行う場所は家族・菩提寺の作法と住居の条件を確認します。公開行事を見学するなら、萩は大照院の迎え火と東光寺の送り火、盛岡は鉈屋町の催しなど、行事名と会場を対応させて確認してください。日高川町土生の民俗記録は、そのまま観光客向けの参加案内にはなりません。[萩](https://www.hagishi.com/mantoue/)／[盛岡](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-3. **アクセス（萩・万灯会の例）**: 萩市観光協会の2026年案内では、大照院はJR萩駅から徒歩約15分。8月13日は萩市民病院・萩市民体育館に無料の臨時駐車場が案内されました。これは終了済みの2026年情報で、翌年の駐車場所や利用条件を保証するものではありません。[当年情報の確認先](https://www.hagishi.com/mantoue/)
+3. **アクセス・駐車場の確認**: 萩の会場と駅からの経路、臨時駐車場の有無・利用日を主催者の最新案内で確認してください。過去年の臨時駐車場が次回も使えるとは限りません。盛岡市の2026年告知は専用駐車場なし・公共交通利用と案内していました。[萩の確認先](https://www.hagishi.com/mantoue/)／[盛岡の告知](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-4. **家庭の実施と公開行事の見学を分ける**: 家庭の作法は地域・宗派・住環境に合わせて確認してください。浄土宗の案内にも、迎え火以外に鐘や提灯で迎える地域の例があります。萩・万灯会の2026年迎え火は、大照院で8月13日19時30分〜21時30分の自由参拝、供養祭は20時からと案内されました。家庭で火を焚くことと、寺院の灯籠を見学することは別の参加方法です。次回参加時は主催者の告知を確認してください。[浄土宗](https://jodo.or.jp/event/urabone/)／[萩市観光協会](https://www.hagishi.com/mantoue/)
+4. **参加方法を選ぶ**: 家庭で行う場合は日程・作法・火の使用可否を確認します。公開行事では、見学可能な範囲、参拝時刻、法要への参加条件を会場の案内で確認してください。萩の2026年案内では自由参拝と供養祭の時刻が別に示されましたが、次回の時刻は当年告知を参照してください。[萩市観光協会](https://www.hagishi.com/mantoue/)
 
-5. **費用（終了済みの2026年・萩の例）**: 萩市観光協会は自由参拝と案内し、ろうそく1個100円、呈茶1服500円・限定100服（なくなり次第終了）、和装の来場者にはろうそく1個無料と呈茶300円の特典を掲載しました。これは萩の当該年の条件であり、他の迎え火行事や翌年の料金には適用できません。家庭での実施にも用具代などがかかるため、一律に「無料」とは扱いません。[料金・特典の確認先](https://www.hagishi.com/mantoue/)
+5. **費用・特典の確認**: 家庭での実施には用具代などがかかる場合があります。公開行事も一律無料とは限りません。萩では参拝と、ろうそく・呈茶等の費用を分けて確認してください。和装特典、数量限定、終了条件も当年の告知が対象で、過去年の金額を次回の予算として使わないでください。[最新案内の確認先](https://www.hagishi.com/mantoue/)
 
 6. **注意事項**: 迎え火は火気を使用するため、周囲への延焼に注意する。風の強い日は焚き火を控えるなど、安全面での配慮が必要。また、近年では川への供え物の廃棄が禁じられている地域があるため、地域のルールに従うこと。
 
 ## 周辺情報
 
-盛岡市鉈屋町界隈は、「もりおか町家物語館」があり、伝統的な町家建築が並ぶ歴史的景観を有している。迎え火の行事が行われる8月中旬には、この界隈で「伝統さんさ踊りの門付け」も同時に催され、地域の文化に触れることができる。盛岡市中心部から徒歩圏内であり、バスやタクシーでのアクセスも可能である。
+盛岡の鉈屋町を訪ねる場合は、もりおか町家物語館などの施設見学と、お盆の公開行事の日程を分けて計画してください。2026年の市の催し案内には主催・共催と交通案内が掲載されていますが、通常開館時間や翌年の催し日時まで同じとは限りません。[盛岡市の案内](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
 山口県萩市の大照院と東光寺は、萩藩主毛利家の菩提寺として知られ、国指定重要文化財の建造物や国指定史跡の墓所がある。周辺には萩城下町の町並みが残り、夏休みの観光地としても人気が高い。萬灯会の際には、石灯籠の灯りと町並みが調和した風情を楽しむことができる。
 
-和歌山県日高川町では、迎え火の習慣とともに、精霊棚（水棚）に供えられた野菜や果物を川へ流す風習があった。ただし近年は環境保護の観点から、流す真似をして回収し焼却する方法に変わっている。周辺には温泉や自然景観もあり、お盆の時期に訪れる人の多い地域である。
+和歌山県の日高川町土生の記録では、供物や水棚を川へ流していた習俗と、流すことが禁じられてから流す真似をして引き上げるようになった変化が紹介されています。これは当地の民俗記録であり、現在の訪問者に焼却や投棄を勧める説明ではありません。片付けや供物の扱いは地域・施設の現在のルールを確認してください。[和歌山県の記録](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 ## 関連情報
 
-1. **送り火**: 迎え火と対をなす行事で、8月16日の夕刻に行われる。先祖の霊をあの世に送り返すために焚く火で、京都の五山送り火が特に有名である。
+1. **送り火**: お盆の終わりに先祖を送る習俗です。浄土宗は15日（16日）に送り、迎え火と同じように火を焚く地域を紹介しています。月や日程は地域で確認してください。[送り方の説明](https://jodo.or.jp/event/urabone/)
 
 2. **盂蘭盆会（うらぼんえ）**: 迎え火の背景にある仏教行事。7月15日または8月15日を中心に行われ、先祖の霊を供養する。日本では7月盆と8月盆の2つの時期が存在する。
 
-3. **盆提灯**: 迎え火の代わりとしても使われる提灯。先祖の霊が滞在する目印とされ、鎌倉時代からの風習である。現代では家の玄関や仏壇の前に飾られる。
+3. **盆提灯**: 先祖の霊を迎える目印として飾る提灯。飾り方は家庭や地域で異なり、精霊棚の左右に置く例があります。起源年代を、現在の使い方から推測しません。[浄土宗の説明](https://jodo.or.jp/event/urabone/)
 
 4. **灯籠流し**: 送り火の一種で、灯籠を川や海に流して霊を送る行事。迎え火とは対象的で、水を用いる点が特徴的である。
 
 5. **五山送り火**: 京都で行われる大規模な送り火行事。8月16日の夜に行われ、大文字などが山に描かれる。迎え火と同様に先祖の霊に関わる行事として、日本の夏の風物詩である。
 
-6. **地方の迎え火行事**: 富山県上市町や石川県志賀町など、北陸地方では御招霊と呼ばれる大規模な迎え火行事が伝承されている。高岡市金屋町などでも同様の行事が行われ、地域の無形民俗文化財として保護されているものもある。','## Overview
+6. **地域の習俗を調べる**: 日高川町土生のような自治体の民俗記録は、場所と家庭の営みを知る手掛かりです。行事名だけで見学可能と判断せず、現在の公開案内があるかを確認しましょう。[和歌山県の地域記録](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
+
+**見出し画像**: Batholith撮影、沼津市久連の2012年7月31日の迎え火。投稿者によるパブリックドメイン公開です。現在の公開行事の開催案内ではありません。[原画像・作者の説明](https://commons.wikimedia.org/wiki/File:Mukaebi_20120731.jpg)','## Overview
 
 Mukaebi (welcoming fire) is a ritual of lighting a fire at the beginning of the locally observed Obon period, to welcome the spirits of ancestors back to this world. Dried hemp stalks (ogara) or wheat straw are burned at the entrance of homes or in gardens, and the smoke and flames serve as markers to guide the ancestral spirits so they can return without losing their way. This fire is also called kadobi (gate fire) and, together with the okuribi (sending fire) held at the end of Obon, forms a pair of rituals that have been passed down for generations in many regions of Japan.
 
-The practice of mukaebi is widespread throughout Japan, but the methods and timing vary by region. Generally, it is performed on the evening of August 13, but some areas observe it on July 13. The forms range from simple burning of ogara to large-scale torch festivals. In Kure, Numazu City, Shizuoka Prefecture, a unique mukaebi ceremony is held on July 31, where firewood is stacked in the shape of the character for "well" (井) and lit all at once facing the sea. In Wakayama Prefecture, people gather at Koshin Jizo (a type of roadside deity statue) to burn large torches, reflecting the diverse ways this tradition has been adapted to local climates and histories.
+As a local example, Wakayama Prefecture documents household customs observed from August 13 to 16 in Habu, Hidakagawa. On the evening of the 13th, residents bring lanterns to the local Jizo, where a large torch, bell and sutra recitation form part of welcoming the ancestors. This is a record of household and community customs, not a current announcement of an event open to visitors. [Wakayama Prefecture record](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 Jodo Shu describes Obon as generally July or August 13–15 (or 16), with local differences. For a household observance, confirm the dates and customs with your family or family temple. For a public event, check that venue’s current-year announcement for its actual hours rather than assuming a household evening schedule. [Jodo Shu: welcoming Obon](https://jodo.or.jp/event/urabone/)
 
 ## History and Origins
 
-The origin of mukaebi is rooted in the Buddhist Urabon''e ( Ullambana) ceremony. The Urabon''e tradition is said to have begun with the story of Maudgalyayana (Mokuren), a disciple of the Buddha, who saved his mother from the realm of hungry ghosts by making offerings as instructed by the Buddha. In Japan, records indicate that the first Urabon''e ceremony was held during the reign of Empress Suiko (late 6th to early 7th century), and the practice gradually spread among common people from the Heian period through the Kamakura period.
+Mukaebi is one of the customs used to welcome ancestors during Obon. Jodo Shu relates the background of Obon to the Urabon Sutra story in which Mokuren helps his mother, and explains that Buddhist Urabon observances combined with Japanese ancestral beliefs and rituals. This describes the religious background of Obon; it does not establish a first recorded year for mukaebi itself. [Jodo Shu: background of Obon](https://jodo.or.jp/newspaper/news/10720/)
 
-It is believed that mukaebi became established as an annual event during the Edo period. While the custom of lighting fires to welcome ancestral spirits existed among the folk tradition before that time, it was standardized as part of Urabon''e observances across many regions along with the development of social order and the dissemination of the calendar during the Edo period. The practice of hanging bonbori (Obon lanterns) also dates back to the Kamakura period and developed as a complement to or substitute for mukaebi.
+Timing and welcoming practices are not uniform nationwide. Jodo Shu also describes communities welcoming ancestors by ringing a temple bell or taking a lantern to the grave. Check your family or temple’s practice rather than treating another locality’s example as a rule for your own household. [Different welcoming practices](https://jodo.or.jp/event/urabone/)
 
 The concept behind mukaebi is based on the Japanese view of life and death, which holds that the spirits of ancestors travel from the other world to this world and may lose their way if the path is dark. The welcoming fire serves as a light to illuminate their path and as a landmark for the spirits to find their way home. Similarly, at the end of Obon, okuribi (sending fire) is lit to send the spirits back to the other world, completing a ritual cycle between the dead and the living.
 
-In some regions, large-scale mukaebi events known as "Goshorei" existed. In these events, young men carried and swung large torches measuring 1.3 to 1.5 times their own height, made by binding bundles of rice straw or wheat straw to bamboo poles 7 to 10 centimeters in diameter. The young men would burn the torches for 10 to 15 minutes, shouting "Gozare, gozare" (meaning "come, come") to summon the spirits of their ancestors.
+Community fire observances differ from household mukaebi in scale and participation. The Habu record describes a large torch at the local Jizo, but is not a home-construction guide specifying torch dimensions or burning times. If you wish to watch a community observance, confirm whether visitors are welcomed. [Scope of the local record](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 ## Highlights
 
 **Burning Ogara (Hemp Stalks)**
 The most common method of mukaebi is to stack peeled hemp stalks (ogara) at the entrance of a home or at a crossroads and set them on fire. Ogara burns easily and produces a clear, translucent flame, making it considered ideal as a gentle light to guide the spirits of ancestors. The sight of ogara being burned in front of each house at dusk is a deeply evocative scene of summer in Japan.
 
-**Light of Bonbori (Obon Lanterns)**
-As a variation of mukaebi, there is also the custom of lighting bonbori (Obon lanterns). These lanterns are considered a sign that the spirits of ancestors are present and are displayed in homes or gardens. This custom has continued since the Kamakura period, and although many modern bonbori use electric lights, their role remains the same. The soft glow of the lanterns creates a space where the ancestral spirits can rest peacefully.
+**Bon Chochin (Obon Lanterns)**
+Bon chochin are lanterns displayed as guides for ancestral spirits during Obon. Jodo Shu describes placing them beside the spirit shelf and notes that some communities use white lanterns for a family’s first Obon after a death. The object’s name and purpose are separate from its historical origin; this account does not assign it a confirmed Kamakura-period starting date. [Jodo Shu: Obon lanterns](https://jodo.or.jp/event/urabone/)
 
-**Mizudana (Water Shelf) and Offerings**
-In Wakayama Prefecture and other areas, a mizudana (water shelf), also called shorodana (spirit shelf), is set up in the garden on August 13. Fresh vegetables and fruits from the summer harvest, as well as somen noodles and hiki-dofu (pressed tofu), are offered on the shelf. The mizudana serves as a resting place for the spirits of ancestors. Family members address the butsudan (Buddhist altar) or the mizudana, saying, "Welcome home. Please rest well," to greet the visiting spirits.
+**Mizudana and Offerings**
+In Wakayama Prefecture’s record of Habu, Hidakagawa, families set up a mizudana, a shelf for offerings, in the garden on August 13 and offer vegetables and fruit. The record also describes praying at the shelf and household altar after returning home, with somen noodles and hiki-dofu among the altar offerings. This is not a nationwide menu or rule for where to place a shelf. [Wakayama Prefecture: Habu customs](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
-**Hagi Manto-e (Welcoming Fire Event)**
-In Hagi City, Yamaguchi Prefecture, the Manto-e (welcoming fire event) is held on August 13 at Daisho-in Temple, the family temple of the Mori clan, the lords of the Hagi domain. Candles are lit in over 600 stone lanterns in the cemetery, creating a fantastical landscape. This event has become a popular tourist attraction, with visitors wearing yukata (summer kimono) receiving a free candle.
+**Hagi Manto-e: Temple Lanterns**
+Hagi Tourism Association describes lighting stone lanterns at Daisho-in on August 13 and Toko-ji on August 15. Visiting these temple grounds is different from burning ogara at home. Check the relevant year’s notice for tea service and any benefits for visitors in Japanese dress; past offers are not permanent entitlements. [Hagi Tourism Association](https://www.hagishi.com/mantoue/)
 
-**Morioka Mukaebi and Okuribi**
-In the Natanayamachi district of Morioka City, Iwate Prefecture, ancestor-greeting rituals have been continuously performed. In the evening, mukaebi fires are lit simultaneously throughout the neighborhood, and the historic streetscape is enveloped in firelight. In recent years, the "traditional Sansa Odori gate-visiting" has been revived, making the event a venue for passing on local culture.
+**Public Event Example: Natayacho, Morioka**
+Morioka City advertised the 21st “Obon Traditions We Want to Preserve: Welcoming Fires and Kurokawa Sansa Door-to-Door Dance” for August 14, 2026, as open for anyone to watch. The notice distinguishes neighborhood welcoming-fire customs from the Kurokawa Sansa dancers’ visits. This is an announcement from a completed year, not confirmation of the event’s outcome or a schedule for the following year. [Morioka City’s 2026 notice](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-**Fire Prevention and Modern Adaptations**
-Because mukaebi can cause fires, modern adaptations include burning ogara in a hōroku (earthenware pan) or using electric bonbori instead of actual flames. In areas where it has become prohibited to float offerings on rivers, people now simulate the act of floating before retrieving and incinerating them. These developments show how the tradition continues while adapting to safety and environmental concerns.
+**Check Safety Before Using Fire**
+Before a household observance, check whether flames are permitted at your intended location under the property and local rules. Ashiya’s fire service advises preparing water or a bucket, refraining in strong winds and confirming complete extinguishment before leaving. Do not leave lantern or altar flames unattended. [Fire-service guidance](https://www.city.ashiya.lg.jp/shoubou/obonn.html)
 
 ## Event Information and Access
 
-1. **Event Season**: Generally held on the evening of August 13 each year. Some regions observe it on July 13. In Kure, Numazu City, Shizuoka Prefecture, it is held on July 31. For the latest schedule and confirmation of whether the event will be held, please check the official website of each municipality or organizing body.
+1. **When to Observe or Visit**: Household mukaebi follows the locally observed beginning of Obon. Confirm July or August customs with your family or temple. Separately check a public event’s organizer for that year’s dates and whether it will take place. [Jodo Shu guidance](https://jodo.or.jp/event/urabone/)
 
-2. **Location**: Primarily at the entrance or garden of each household. Large-scale events include Daisho-in Temple in Hagi City, Yamaguchi Prefecture (Manto-e; the welcoming fire on the 13th, while the send-off fire on the 15th is held at Toko-ji Temple), and the simultaneous neighborhood fires in the Natanayamachi district of Morioka City, Iwate Prefecture. In Hidakagawa Town, Wakayama Prefecture, people gather at Koshin Jizo.
+2. **Choose the Right Setting**: For home practice, check household or temple customs and property conditions. For a public visit, match the event to its venue: Daisho-in for Hagi’s welcoming observance, Toko-ji for its send-off observance, or the advertised Natayacho event in Morioka. Habu’s folklore record is not itself an invitation to tourists. [Hagi](https://www.hagishi.com/mantoue/) / [Morioka](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-3. **Access: Hagi Manto-e example**: Hagi Tourism Association’s 2026 notice placed Daisho-in about 15 minutes on foot from JR Hagi Station and listed free temporary parking at Hagi Municipal Hospital and the municipal gymnasium on August 13. This is a completed 2026 example, not a guarantee of parking locations or conditions in a later year. [Check the event notice](https://www.hagishi.com/mantoue/)
+3. **Check Transport and Parking**: Use the latest organizer notice to confirm Hagi’s venue, route from the station and any temporary parking dates. A parking location listed in a past year may not be available next time. Morioka’s 2026 notice said there was no dedicated parking and requested public transport. [Hagi notice](https://www.hagishi.com/mantoue/) / [Morioka notice](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
-4. **Distinguish home practice from visiting an event**: Check household customs according to your locality, tradition and living conditions. Jodo Shu also describes communities welcoming ancestors with bells or lanterns instead of a welcoming fire. Hagi’s 2026 welcoming event at Daisho-in allowed visits on August 13 from 7:30 to 9:30 p.m., with a memorial service at 8 p.m. Visiting temple lanterns is different from conducting a fire ritual at home. Check the organizer’s notice for the next edition. [Jodo Shu](https://jodo.or.jp/event/urabone/) / [Hagi Tourism Association](https://www.hagishi.com/mantoue/)
+4. **Choose How to Participate**: For home practice, confirm dates, customs and permission to use flames. For an organized event, check viewing areas, visiting hours and any conditions for joining a service. Hagi’s 2026 notice distinguished open visiting hours from its memorial service; consult the relevant year’s announcement for your next visit. [Hagi Tourism Association](https://www.hagishi.com/mantoue/)
 
-5. **Costs: completed 2026 Hagi example**: Hagi Tourism Association listed open visitation, candles at 100 yen each, and tea at 500 yen per serving, limited to 100 servings while supplies lasted. Visitors in Japanese dress were offered one free candle and tea for 300 yen. These were that event’s 2026 conditions, not prices for other welcoming-fire events or a later year. A household observance may also involve supplies, so it should not be described as universally cost-free. [Check prices and benefits](https://www.hagishi.com/mantoue/)
+5. **Check Costs and Benefits**: A home observance may involve supplies, and public events are not universally free. For Hagi, distinguish visiting the grounds from costs for candles or tea. Check that year’s conditions for clothing-related benefits, quantity limits and availability rather than budgeting from an old price list. [Check the latest notice](https://www.hagishi.com/mantoue/)
 
 6. **Cautions**: Since mukaebi involves open flames, care must be taken to prevent the fire from spreading to surrounding areas. On windy days, the fire should be avoided, and other safety measures are necessary. In recent years, the disposal of offerings into rivers has been prohibited in some areas, so local rules must be followed.
 
 ## Surrounding Area Information
 
-The Natanayamachi district in Morioka City features the "Morioka Machiya Monogatari Kan" (Morioka Townhouse Story Museum) and a historic streetscape of traditional townhouses. In mid-August, when the mukaebi event takes place, the "Traditional Sansa Odori Gate-Visiting" is also held concurrently, offering visitors a chance to experience the local culture. The area is within walking distance of central Morioka and is accessible by bus or taxi.
+When visiting Natayacho, plan museum or townhouse visits separately from the dates of Obon events. Morioka City’s 2026 announcement identifies the organizer, co-organizers and transport directions, but does not establish ordinary museum hours or the following year’s event schedule. [Morioka City notice](https://www.city.morioka.iwate.jp/kanko_sports_bunka/kanko_miryoku/matsuri/1058502/1052930.html)
 
 Daisho-in Temple and Toko-ji Temple in Hagi City, Yamaguchi Prefecture, are known as the family temples of the Mori clan, the lords of the Hagi domain. They house buildings designated as Important Cultural Properties and cemeteries designated as National Historic Sites. The surrounding area retains the streetscape of the Hagi castle town and is a popular summer tourist destination. During the Manto-e, the illumination of stone lanterns harmonizes with the townscape, creating a unique atmosphere.
 
-In Hidakagawa Town, Wakayama Prefecture, the tradition of mukaebi is accompanied by the custom of floating vegetables and fruits offered on the shorodana (spirit shelf) down the river. However, in recent years, due to environmental concerns, this practice has changed to a symbolic gesture of floating followed by retrieval and incineration. The surrounding area offers hot springs and natural scenery, and many people visit during the Obon period.
+Wakayama’s Habu record describes a change from floating offerings and shelves downriver to a symbolic action followed by retrieval after river disposal was prohibited. This is a local folklore record, not an instruction for present-day visitors to burn or discard offerings. Check current community or venue rules for handling and disposing of offerings. [Wakayama record](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
 
 ## Related Information
 
-1. **Okuribi (Sending Fire)**: The counterpart to mukaebi, held on the evening of August 16. This fire is lit to send the spirits of ancestors back to the other world. The Gozan no Okuribi (Five Mountains Sending Fire) in Kyoto is particularly famous.
+1. **Okuribi (Sending Fires)**: A custom for seeing off ancestors at the end of Obon. Jodo Shu describes sending them off on the 15th or 16th, with fires similar to mukaebi in many communities. Confirm the locally observed month and dates. [Sending-off customs](https://jodo.or.jp/event/urabone/)
 
 2. **Urabon''e (Obon)**: The Buddhist ceremony that provides the background for mukaebi. It is centered around July 15 or August 15 and involves making offerings to the spirits of ancestors. In Japan, there are two periods for Obon: July Obon and August Obon.
 
-3. **Bonbori (Obon Lanterns)**: Lanterns sometimes used in place of mukaebi. They are considered a marker of the presence of ancestral spirits, a custom dating from the Kamakura period. In modern times, they are displayed at home entrances or in front of the butsudan.
+3. **Bon Chochin**: Lanterns displayed as guides for ancestral spirits, for example beside a spirit shelf. Arrangements vary by household and community; present-day use does not establish an origin date. [Jodo Shu explanation](https://jodo.or.jp/event/urabone/)
 
 4. **Toro Nagashi (Floating Lanterns)**: A form of okuribi in which lanterns are floated down rivers or out to sea to send off the spirits. It is the opposite of mukaebi in that it uses water as a medium and is a distinctive summer tradition in Japan.
 
 5. **Gozan no Okuribi (Five Mountains Sending Fire)**: A large-scale okuribi event held in Kyoto on the night of August 16. Giant bonfires in the shape of characters such as "Dai" (big) are lit on mountainsides. Like mukaebi, it is a ritual related to ancestral spirits and is a quintessential summer tradition in Japan.
 
-6. **Regional Mukaebi Events**: In the Hokuriku region, including Kamiichi Town in Toyama Prefecture and Shika Town in Ishikawa Prefecture, large-scale mukaebi events called Goshorei have been handed down. Similar events are held in Kanayamachi, Takaoka City, and some have been designated as intangible folk cultural properties for preservation.','mukaebi','mukaebi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 04:46:19','Batholith','Public domain','https://commons.wikimedia.org/wiki/File:Mukaebi_20120731.jpg','毎年7月13日','{"type": "fixed", "month": 7, "day": 13, "raw": "7月13日", "ctx": "迎え入れるためにたく野火のことを指す。1日から7日にやる地方もあるが、一般的には7月13日または8月13日の夕刻に行う。地域によっては御招霊など大掛かりなものもある。以前", "pos": 107}','jawiki導入部: 迎え入れるためにたく野火のことを指す。1日から7日にやる地方もあるが、一般的には7月13日または8月13日の夕刻に行う。地域によっては御招霊など大掛かりなものもある。以前','fixed_rule','concept','盆の風習の総称であり個別の祭りではない');
+6. **Research Local Customs**: Municipal or prefectural folklore records, such as the Habu example, help identify the locality and household practices. A recorded custom’s name alone does not mean that it is currently open to visitors; look for a current public notice. [Wakayama local record](https://wave.pref.wakayama.lg.jp/bunka-archive/matsuri/obon.html)
+
+**Header photograph**: Mukaebi in Kure, Numazu, photographed by Batholith on July 31, 2012, and released by the photographer into the public domain. The photograph is not an announcement of a current public event. [Original photograph and description](https://commons.wikimedia.org/wiki/File:Mukaebi_20120731.jpg)','mukaebi','mukaebi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:32:16','Batholith','Public domain','https://commons.wikimedia.org/wiki/File:Mukaebi_20120731.jpg','毎年7月13日','{"type": "fixed", "month": 7, "day": 13, "raw": "7月13日", "ctx": "迎え入れるためにたく野火のことを指す。1日から7日にやる地方もあるが、一般的には7月13日または8月13日の夕刻に行う。地域によっては御招霊など大掛かりなものもある。以前", "pos": 107}','jawiki導入部: 迎え入れるためにたく野火のことを指す。1日から7日にやる地方もあるが、一般的には7月13日または8月13日の夕刻に行う。地域によっては御招霊など大掛かりなものもある。以前','fixed_rule','concept','盆の風習の総称であり個別の祭りではない');
 INSERT INTO "festivals" VALUES('Q11635899','赤穂義士祭','Akō Gishi Festival','兵庫県赤穂市で毎年赤穂義士たちが討ち入りを果たした12月14日に行われる祭り',NULL,NULL,NULL,NULL,'兵庫県','kinki',NULL,NULL,1903,12,'winter','https://commons.wikimedia.org/wiki/Special:FilePath/Ako%20Gishisai%20De09%2013.jpg','https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD',NULL,85,'drafted','## 概要
 
 赤穂義士祭（あこうぎしさい）は、兵庫県赤穂市で毎年12月14日に行われる、赤穂市最大の年中行事である。元禄15年（1702年）のこの日、赤穂浪士四十七士が主君の仇を討つべく江戸の吉良邸へ討ち入りを果たした「忠臣蔵」の史実にちなみ、義士たちの偉業を称えて開催される。会場は赤穂城跡やお城通り、いきつぎ広場周辺で、元禄絵巻さながらの華やかなパレードが繰り広げられる。
