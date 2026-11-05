@@ -9572,7 +9572,7 @@ INSERT INTO "festivals" VALUES('Q11263690','かごしま錦江湾サマーナイ
 INSERT INTO "festivals" VALUES('Q11267368','さいすくい','Saisukui',NULL,NULL,'Q861221','中津市','Nakatsu','大分県','kinki',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%84%E3%81%99%E3%81%8F%E3%81%84',NULL,60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 07:12:16',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿児島県鹿児島市で行われる祭り','Festival in Kagoshima, Japan','Q11442666','天文館','Tenmonkan','鹿児島県','kyushu',NULL,NULL,NULL,11,'autumn','https://commons.wikimedia.org/wiki/Special:FilePath/Ohara%20festival%20in%20Kagoshima.jpg','https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AF%E3%82%89%E7%A5%AD',NULL,85,'drafted','## 概要
 
-おはら祭は、鹿児島市の繁華街・天文館周辺で毎年11月2日・3日に開催される南九州最大の祭りです。鹿児島を代表する民謡「おはら節」や「鹿児島ハンヤ節」「渋谷音頭」の軽快な音色に合わせて、揃いの衣装をまとった踊り手たちが大通りを埋め尽くして踊る「総踊り」が最大の見どころで、その数は約140の踊り連・延べ約2万人にのぼります。三味線と太鼓が響くなか、色とりどりの衣装の連が次々と通りを流れていく光景は壮観で、鹿児島の秋を彩る風物詩として広く親しまれています。
+おはら祭は、鹿児島市の繁華街・天文館周辺で毎年11月2日・3日に開催される南九州最大の祭りです。鹿児島を代表する民謡「おはら節」や「鹿児島ハンヤ節」「渋谷音頭」の軽快な音色に合わせて、揃いの衣装をまとった踊り手たちが大通りを埋め尽くして踊る「総踊り」が最大の見どころで、その数は約140の踊り連・約2万人の踊り手にのぼります。三味線と太鼓が響くなか、色とりどりの衣装の連が次々と通りを流れていく光景は壮観で、鹿児島の秋を彩る風物詩として広く親しまれています。
 
 祭りの2日間には約25万人の人出があり、市民が主役となって踊りに参加する市民参加型の祭りとして定着しています。昭和24年（1949年）に鹿児島市制施行60周年を記念して始まった比較的新しい祭りですが、そのもととなった民謡「おはら節」には江戸時代にさかのぼる古い歴史があり、鹿児島の郷土文化を体現する行事として発展してきました。
 
@@ -9589,7 +9589,7 @@ INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿�
 ## 見どころ
 
 **通りを埋め尽くす総踊り**
-おはら祭最大の見どころは、天文館の大通りを踊り手が埋め尽くす「総踊り」です。数百の踊り連から延べ約2万人が参加し、おはら節や鹿児島ハンヤ節に合わせていっせいに踊り流す光景はまさに壮観で、街全体が踊りの熱気に包まれます。午前と午後の二回にわたって行われ、長時間にわたって踊りの波が続きます。
+おはら祭最大の見どころは、天文館の大通りを踊り手が埋め尽くす「総踊り」です。約140の踊り連から約2万人が参加し、おはら節や鹿児島ハンヤ節に合わせていっせいに踊り流す光景はまさに壮観で、街全体が踊りの熱気に包まれます。午前と午後の二回にわたって行われ、長時間にわたって踊りの波が続きます。
 
 **多彩な楽曲とリズム**
 祭りではおはら節だけでなく、鹿児島ハンヤ節や渋谷音頭など複数の楽曲が用いられます。ゆったりとしたおはら節から軽快なハンヤ節まで、曲ごとに異なるリズムと振り付けがあり、踊り連ごとに個性を競い合う様子は見ていて飽きることがありません。
@@ -9610,7 +9610,7 @@ INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿�
 
 - 開催地：鹿児島県鹿児島市 天文館周辺（電車通りなど）
 - 開催時期：毎年11月2日・3日
-- 総踊り：午前・午後の二回、数百の踊り連・延べ約2万人が参加
+- 総踊り：午前・午後の二回、約140の踊り連・約2万人が参加
 - 人出：2日間で約25万人
 - 起源：昭和24年（1949年）鹿児島市制施行60周年記念
 - アクセス：鹿児島市電「天文館通」電停下車すぐ、JR鹿児島中央駅から市電で約10分
@@ -9629,10 +9629,10 @@ INSERT INTO "festivals" VALUES('Q11262273','おはら祭','Ohara Festival','鹿�
 - 都道府県・地域：鹿児島県（九州地方）
 - 起源：昭和24年（1949年）鹿児島市制施行60周年記念に創始
 - 名の由来：鹿児島民謡「おはら節」（日向安久の安久節起源説が有力）
-- 規模：南九州最大・総踊り延べ約2万人・2日間で約25万人の人出
+- 規模：南九州最大・総踊り約2万人・2日間で約25万人の人出
 - 主な楽曲：おはら節・鹿児島ハンヤ節・渋谷音頭','## Overview
 
-Ohara Matsuri is the largest festival of southern Kyushu, held every year on November 2 and 3 around Tenmonkan, the downtown district of Kagoshima City. Its greatest highlight is the mass dance, in which dancers in matching costumes fill the main streets and dance to the brisk tones of folk songs representative of Kagoshima, such as Ohara Bushi, Kagoshima Hanya Bushi, and Shibuya Ondo, and their number reaches about 140 dance groups totaling about 20,000 people. Amid the sound of shamisen and drums, the sight of colorfully costumed groups flowing one after another through the streets is spectacular, and it is widely cherished as a signature scene of autumn in Kagoshima.
+Ohara Matsuri is the largest festival of southern Kyushu, held every year on November 2 and 3 around Tenmonkan, the downtown district of Kagoshima City. Its greatest highlight is the mass dance, in which dancers in matching costumes fill the main streets and dance to the brisk tones of folk songs representative of Kagoshima, such as Ohara Bushi, Kagoshima Hanya Bushi, and Shibuya Ondo, and their number reaches about 140 dance groups with about 20,000 dancers. Amid the sound of shamisen and drums, the sight of colorfully costumed groups flowing one after another through the streets is spectacular, and it is widely cherished as a signature scene of autumn in Kagoshima.
 
 Over the two days of the festival the crowds reach about 250,000 people, and it has taken root as a festival of citizen participation in which the residents themselves take the leading role in the dancing. Although it is a relatively new festival that began in 1949 to commemorate the sixtieth anniversary of the founding of Kagoshima City as a municipality, the folk song Ohara Bushi that lies at its heart has an old history dating back to the Edo period, and the festival has developed as an event that embodies the local culture of Kagoshima.
 
@@ -9649,7 +9649,7 @@ In recent years, along with the traditional mass dance, ingenuity suited to the 
 ## Highlights
 
 **The Mass Dance That Fills the Streets**
-The greatest highlight of Ohara Matsuri is the mass dance, in which dancers fill the main streets of Tenmonkan. About 20,000 people from hundreds of dance groups take part, and the sight of them all dancing along in flow to Ohara Bushi and Kagoshima Hanya Bushi is truly spectacular, and the whole town is wrapped in the fervor of the dance. It is held twice, in the morning and the afternoon, and waves of dance continue over a long period of time.
+The greatest highlight of Ohara Matsuri is the mass dance, in which dancers fill the main streets of Tenmonkan. About 20,000 people from about 140 dance groups take part, and the sight of them all dancing along in flow to Ohara Bushi and Kagoshima Hanya Bushi is truly spectacular, and the whole town is wrapped in the fervor of the dance. It is held twice, in the morning and the afternoon, and waves of dance continue over a long period of time.
 
 **A Variety of Music and Rhythms**
 At the festival, not only Ohara Bushi but several pieces of music such as Kagoshima Hanya Bushi and Shibuya Ondo are used. From the leisurely Ohara Bushi to the brisk Hanya Bushi, each piece has a different rhythm and choreography, and the sight of the dance groups competing in their individuality is never tiresome to watch.
@@ -9670,7 +9670,7 @@ Supporting the mass dance are the tones of the brisk shamisen and the powerful d
 
 - Location: Around Tenmonkan (Densha-dori and other streets), Kagoshima City, Kagoshima Prefecture
 - Dates: November 2 and 3 every year
-- Mass dance: Twice, in the morning and the afternoon, with hundreds of dance groups totaling about 20,000 people
+- Mass dance: Twice, in the morning and the afternoon, with about 140 dance groups and about 20,000 people
 - Attendance: About 250,000 people over the two days
 - Origin: Commemoration of the sixtieth anniversary of the founding of Kagoshima City as a municipality in 1949
 - Access: Just off the Tenmonkan-dori stop of the Kagoshima City Tram, or about 10 minutes by tram from JR Kagoshima-Chuo Station
@@ -9689,8 +9689,8 @@ In Kagoshima City there remain many historic sites connected with Saigo Takamori
 - Prefecture and region: Kagoshima Prefecture (Kyushu region)
 - Origin: Founded in 1949 to commemorate the sixtieth anniversary of the founding of Kagoshima City as a municipality
 - Origin of the name: The Kagoshima folk song Ohara Bushi (the leading theory traces it to the Aku Bushi of Aku in Hyuga)
-- Scale: The largest in southern Kyushu; mass dance totaling about 20,000 people; about 250,000 in attendance over two days
-- Main pieces of music: Ohara Bushi, Kagoshima Hanya Bushi, and Shibuya Ondo','ohara-matsuri','ohara-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 13:29:54','Kagoshima City','CC BY 4.0','https://commons.wikimedia.org/wiki/File:Ohara_festival_in_Kagoshima.jpg','毎年11月2日','{"type": "fixed", "month": 11, "day": 2, "raw": "11月2日", "ctx": "## 概要おはら祭は、鹿児島市の繁華街・天文館周辺で毎年11月2日・3日に開催される南九州最大の祭", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+- Scale: The largest in southern Kyushu; mass dance with about 20,000 people; about 250,000 in attendance over two days
+- Main pieces of music: Ohara Bushi, Kagoshima Hanya Bushi, and Shibuya Ondo','ohara-matsuri','ohara-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-05 13:54:49','Kagoshima City','CC BY 4.0','https://commons.wikimedia.org/wiki/File:Ohara_festival_in_Kagoshima.jpg','毎年11月2日','{"type": "fixed", "month": 11, "day": 2, "raw": "11月2日", "ctx": "## 概要おはら祭は、鹿児島市の繁華街・天文館周辺で毎年11月2日・3日に開催される南九州最大の祭", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11257721','あつぎ鮎まつり',NULL,NULL,NULL,'Q389711','厚木市','Atsugi','神奈川県',NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A4%E3%81%8E%E9%AE%8E%E3%81%BE%E3%81%A4%E3%82%8A',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 10:43:07',NULL,NULL,NULL,'毎年8月第1土曜日','{"type": "nth_dow", "month": 8, "nth": 1, "dow": 5, "raw": "8月の第一土曜日", "ctx": "あつぎ鮎まつりは、神奈川県厚木市にて、8月の第一土曜日を中心に前後1日を含む2日間にわたって行われる祭りである。市民などからは鮎まつり", "pos": 19}','あつぎ鮎まつりは、神奈川県厚木市にて、8月の第一土曜日を中心に前後1日を含む2日間にわたって行われる祭りである。市民などからは鮎まつり','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11265601','くらやみ祭','Kurayami Matsuri','東京都府中市の大國魂神社で行われる例大祭',NULL,'Q611678','大國魂神社','Ōkunitama Shrine','東京都','kanto',NULL,NULL,NULL,4,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Okunitama-jinja-24.jpg','https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%89%E3%82%84%E3%81%BF%E7%A5%AD',NULL,85,'drafted','## 概要
 
