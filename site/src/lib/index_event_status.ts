@@ -23,5 +23,11 @@ export const verifiedIndexStatuses: Record<string, { ja: string; en: string; sou
     "en": "Ended after the FY2019 edition",
     "source": "https://www.city.sagamihara.kanagawa.jp/shisei/1026875/faq/event/1028587.html",
     "verifiedAt": "2026-11-06T06:28:00+09:00"
+  },
+  "Q11374839": {
+    "ja": "東山花灯路事業は2022年3月13日の開催をもって終了",
+    "en": "Higashiyama Hanatoro program ended with its final day on March 13, 2022",
+    "source": "https://www.pref.kyoto.jp/kanko/news/2021/r3hanatouro.html",
+    "verifiedAt": "2026-11-06T06:32:34+09:00"
   }
 };
