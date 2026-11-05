@@ -2925,7 +2925,7 @@ INSERT INTO "festivals" VALUES('Q1043431','東京国際映画祭','Tokyo Interna
 
 **ユース部門**
 
-若手映画作家の登竜門として、ユース部門が設けられている。この部門では35歳以下の監督による長編作品が対象となり、将来有望な才能が発掘される。選考は映画祭のプログラムチームが行い、世界的な映画祭での受賞歴のない新人が優先される。過去の受賞者の中には、後にカンヌやベルリンなどで活躍する監督もいる。観客にとっても、まだ知られていない才能をいち早く発見する楽しみがある。ユース部門専用の上映日程が組まれており、若い観客層の来場も促進している。
+ユース部門（TIFF Children / TIFF Teens）は、若い観客に向けて選ばれた作品を上映する部門である。映画と初めて出会う、または映画と出会いなおす体験の提供をねらいとしている。監督の年齢による区分ではなく、作品の選定趣旨や当年の上映内容は[公式の部門紹介](https://2026.tiff-jp.net/ja/lineup/sections.html)で確認できる。
 
 **ウィメンズ・エンパワーメント部門**
 
@@ -2997,7 +2997,7 @@ Co-sponsored by the Japan Foundation Asia Center, the festival actively screens 
 
 **Youth Section**
 
-The Youth section serves as a gateway for young filmmakers. It targets feature-length works by directors aged 35 or younger, aiming to discover promising talent. The selection is made by the festival''s programming team, prioritizing newcomers with no previous awards at major international festivals. Some past winners have later achieved success at Cannes, Berlin, and other festivals. For audiences, this section offers the excitement of discovering unknown talent early. A dedicated screening schedule is arranged, attracting younger viewers.
+The Youth section (TIFF Children / TIFF Teens) presents films selected for young audiences. It aims to offer a first encounter with cinema or an opportunity to rediscover it. The section is not defined by the age of the director; see the [official section guide](https://2026.tiff-jp.net/ja/lineup/sections.html) for its purpose and the current program.
 
 **Women''s Empowerment Section**
 
@@ -3038,7 +3038,7 @@ As for accommodation, the Imperial Hotel, a festival sponsor, is located in the 
 5. **Volunteer Program**: Volunteer staff are recruited annually to support festival operations. Roles include information guidance, venue setup, and guest assistance. Prior application and interviews are required, and participants receive a certificate of activity.
 6. **Past Awards Archive**: The official website lists all past Competition section winners, including the Tokyo Grand Prix, Special Jury Prize, Best Director, Best Actress, and Best Actor awards, arranged by year. This archive is a useful resource for tracing the festival''s history.
 7. **Official Social Media**: Twitter (@tiff_jp), Facebook (Tokyo International Film Festival), and Instagram (@tiff_jp) provide the latest news and behind-the-scenes photos. The hashtags #TIFF and #TIFFJP are widely used.
-8. **Film Preservation and Education**: UNIJAPAN also undertakes film preservation projects and educational programs for young filmmakers, contributing to the sustainability of Japan''s film heritage.','tokyo-international-film-festival','tokyo-international-film-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Tyuvc','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Day_bfefore_Tokyo_International_Film_festival%2C_at_EX_Theater_Roppongi.jpg',NULL,NULL,NULL,NULL,NULL,NULL);
+8. **Film Preservation and Education**: UNIJAPAN also undertakes film preservation projects and educational programs for young filmmakers, contributing to the sustainability of Japan''s film heritage.','tokyo-international-film-festival','tokyo-international-film-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:51:25','Tyuvc','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Day_bfefore_Tokyo_International_Film_festival%2C_at_EX_Theater_Roppongi.jpg',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11249715','TOKYO IDOL FESTIVAL','Tokyo Idol Festival','2010年より開催されている日本の音楽イベント','annual music event in Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2010,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL','https://en.wikipedia.org/wiki/Tokyo_Idol_Festival',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 13:44:56',NULL,NULL,NULL,'毎年7月27日','{"type": "fixed", "month": 7, "day": 27, "raw": "7月27日", "ctx": "体は例年通りSMILE GARDENに用意されていて出演者がそれを使用することは可能）。 7月27日19時47分、降雨のため、屋外のステージ（SMILE GAR", "pos": 12268}','体は例年通りSMILE GARDENに用意されていて出演者がそれを使用することは可能）。 7月27日19時47分、降雨のため、屋外のステージ（SMILE GAR','rule_only','ok','全文抽出(step97)');
 INSERT INTO "festivals" VALUES('Q446474','酒まつり','Sake Matsuri','毎年10月第2土・日曜の2日間にわたって広島県東広島市西条町の西条中央公園と西条酒蔵通りを中心にして行われる祭り',NULL,NULL,NULL,NULL,'広島県','chugoku',NULL,NULL,1979,10,'autumn','https://commons.wikimedia.org/wiki/Special:FilePath/Saij%C5%8D%20Sake%20Matsuri%202017.jpg','https://ja.wikipedia.org/wiki/%E9%85%92%E3%81%BE%E3%81%A4%E3%82%8A','https://en.wikipedia.org/wiki/Saij%C5%8D_Sake_Matsuri',85,'drafted','## 概要
 
@@ -3888,7 +3888,7 @@ The Chichibu Night Festival is regarded as one of the three great float festival
 INSERT INTO "festivals" VALUES('Q28153869','ウルトラ・ジャパン','Ultra Japan','毎年9月にお台場で開催されているエレクトロニック・ダンス・ミュージックのイベント','electronic music festival in Tokyo',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'autumn',NULL,'https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3','https://en.wikipedia.org/wiki/Ultra_Japan',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q21653307','しろんご祭り','Shirongo Matsuri','三重県鳥羽市の菅島で受け継がれている海女の伝統行事','Japanese festival',NULL,NULL,NULL,'三重県','kinki',34.5025,136.906388888,NULL,7,'summer',NULL,'https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%8D%E3%82%93%E3%81%94%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Shirongo_Matsuri',75,'drafted','## 概要
 
-しろんご祭り（しろんごまつり）は、三重県鳥羽市の菅島（すがしま）に古くから受け継がれている海女（あま）の伝統行事です。毎年7月11日頃、島の白浜「しろんご浜」と白髭（しらひげ）神社を舞台に行われ、ホラ貝の合図とともに磯着姿の海女たちが一斉に海へもぐり、つがいのアワビの初採りを競います。最初に採れたアワビは神社に奉納され、その年の豊漁と海上安全が祈願されます。ふだんは神聖な海域として禁漁とされている「しろんご浜」を、この日に限って開放して行われる点が大きな特徴で、海女漁の様子を比較的間近で見ることのできる貴重な機会として知られ、日本でもっとも海女が多く暮らす伊勢志摩の海女文化を、今に色濃く伝える祭りです。
+しろんご祭り（しろんごまつり）は、三重県鳥羽市の菅島（すがしま）に古くから受け継がれている海女（あま）の伝統行事です。7月の開催時期に、島の白浜「しろんご浜」と白髭（しらひげ）神社を舞台に行われ、ホラ貝の合図とともに磯着姿の海女たちが一斉に海へもぐり、つがいのアワビの初採りを競います。最初に採れたアワビは神社に奉納され、その年の豊漁と海上安全が祈願されます。ふだんは神聖な海域として禁漁とされている「しろんご浜」を、この日に限って開放して行われる点が大きな特徴で、海女漁の様子を比較的間近で見ることのできる貴重な機会として知られ、日本でもっとも海女が多く暮らす伊勢志摩の海女文化を、今に色濃く伝える祭りです。
 
 ## 歴史・由来
 
@@ -3896,17 +3896,35 @@ INSERT INTO "festivals" VALUES('Q21653307','しろんご祭り','Shirongo Matsur
 
 ## 見どころ
 
-最大の見どころは、ホラ貝の合図とともに、磯着姿の海女たちがしろんご浜の海へ一斉に飛び込み、いっせいに潜って漁を始める迫力ある場面です。海女たちが競って採るのは、雌雄つがいのアワビ。最初につがいのアワビを採り上げた海女は、その年の「海女頭（あまがしら）」として一年間敬われるという栄誉を担い、これは海女にとって大変な誇りとされています。採られたつがいのアワビは白髭神社に奉納され、豊漁と海上安全が祈願されます。陸からそう遠くない海域で行われるため、海に潜っては浮かび上がる海女たちの動きを、岸辺から間近に観察できるのも、この祭りならではの魅力です。普段は沖合で行われ目にする機会の少ない海女漁を、これほど近くで見られる行事は全国でも稀です。素潜りひとつで海に挑む海女の研ぎ澄まされた技と、海そのものへの畏敬の念とが一体となった、素朴でありながら力強い行事で、夏の朝の海に響き渡るホラ貝の音と、白い磯着が青い波間にきらめく光景は、見る者の心に深く刻まれます。
+**大漁旗を掲げる漁船と参拝**
+早朝、島の漁船は大漁旗を立てて白浜に集まります。漁船が集まるのは島の東北端の浜です。文化庁の記録では、その後に白鬚明神へ参拝する流れが紹介されています。
+
+**ホラ貝を合図に始まる海女の漁**
+ホラ貝の合図で、島の海女が一斉に海へ入ります。しろんご浜に集まる海女は磯着姿です。普段は禁漁区となっている浜で、この祭りの日に潜ってアワビを採る場面が見どころです。
+
+**雌雄一対のアワビの初採り**
+海女たちが競うのは、雌雄一対のアワビの初採りです。単に数を採るのではなく、つがいをそろえることに注目できます。最初に採れた一対は、続く神社への奉納に用いられます。
+
+**まねきアワビの奉納**
+最初に採れた雌雄のアワビは「まねきアワビ」と呼ばれます。文化庁の記録では舟板に載せて奉納するとされています。他のアワビを招くという信仰のもと、白髭神社で豊漁と海上安全を願う神事です。
+
+**海女の道具に込められた安全への願い**
+「セーマン」と「ドーマン」は、海女の魔除けの印です。磯手ぬぐいや磯ノミに記される星形と格子状の印には、危険を伴う漁から無事に帰る願いが込められています。海上安全を祈る奉納とあわせ、漁の技だけでなく海女の信仰にも目を向けられます。
+
+**岸辺から神事を見守る**
+海女が潜っては浮かぶ姿は、岸辺から見守ります。漁を妨げないよう静かに観覧し、神聖な神事であることに配慮してください。渡航前には当年の開催日と観覧条件、定期船の運航状況を確認し、日程を決めることが大切です。
+
+## 開催情報・アクセス
+
+鳥羽市の2026年6月12日更新の告知では、2026年の開催日は7月11日でした。これは終了した回の告知で、毎年7月11日固定という意味ではありません。文化庁の日本遺産ページには「7月第2土曜日」と「7月11日直近の土曜日」の両表現があるため、次回の日付をこのページで自動確定せず、鳥羽市の当年の告知を確認してください。渡航前には開催時刻、観覧条件、定期船の運航状況もあわせて確認します。[鳥羽市：しろんご祭](https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8404.html)／[文化庁：しろんご祭の記録](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4267/)
+
+しろんご祭りは7月の開催時期に、鳥羽市菅島町の白浜「しろんご浜」と白髭神社で行われ、漁はおおむね午前中（9時～11時半頃）に繰り広げられます。菅島へは、鳥羽マリンターミナルから市営定期船で約15分、菅島で下船し、定期船のりばから会場のしろんご浜までは徒歩約25分です。離島で行われる行事のため、定期船の時刻を事前にしっかり確認し、余裕をもって訪れるのが安心です。漁の様子は海岸から見学でき、夏の朝の海で繰り広げられる海女漁の迫力を間近に体感できます。観覧の際は、これが豊漁と安全を祈る神聖な神事であることに十分配慮し、漁の妨げにならないよう、マナーを守って静かに見守ることが大切です。島には飲食店が限られるため、飲み物などは事前に用意しておくとよいでしょう。
+
+## 周辺の見どころ
 
 菅島の海女に受け継がれてきた信仰も、この祭りの背景を理解するうえで欠かせない。海女たちは魔除けの印として「セーマン」と「ドーマン」を磯手ぬぐいや磯ノミに記す。セーマンは一筆書きで描いて必ず元の点に戻る星形（五芒星）で、海に潜った海女が無事に元の場所へ帰還できるようにとの願いが込められている。ドーマンは縦横に線を交差させた格子状の印で、隙間なく張り巡らせることで魔物の侵入を防ぐ護りとされる。いずれも危険と隣り合わせの素潜り漁を続けてきた海女たちの、命を守るための切実な祈りが形になったものである。また菅島の海女は、海上安全の信仰を集める青峯山正福寺の御札を授かり、舟や仕事道具の守りとする慣わしを持つ。しろんご祭りでつがいのアワビを白髭神社へ奉納する行為も、こうした海と神への信仰の体系のなかに位置づけられる。
 
 潜る海女は、漁場や潜り方によって区分される。舟に乗って沖合の深い漁場へ出て潜る海女は「舟人（ふなど）」、磯辺の浅い場所で徒歩で漁をする海女は「徒人（かちど）」と呼ばれ、しろんご祭りには菅島の海女が一堂に会する。祭りの舞台となる菅島には、明治期に築かれた菅島灯台が立つ。高さ約9.7メートルのレンガ造りで、現役の灯台としては日本最古級に数えられ、海に生きてきた島の歴史を今に伝える。約700年続くとされるこの祭りは、海女文化を象徴する行事として地域の誇りとなっており、文化的価値の発信という観点からも注目を集めている。
-
-## 開催情報・アクセス
-
-しろんご祭りは毎年7月11日頃、鳥羽市菅島町の白浜「しろんご浜」と白髭神社で行われ、漁はおおむね午前中（9時～11時半頃）に繰り広げられます。菅島へは、鳥羽マリンターミナルから市営定期船で約15分、菅島で下船し、定期船のりばから会場のしろんご浜までは徒歩約25分です。離島で行われる行事のため、定期船の時刻を事前にしっかり確認し、余裕をもって訪れるのが安心です。漁の様子は海岸から見学でき、夏の朝の海で繰り広げられる海女漁の迫力を間近に体感できます。観覧の際は、これが豊漁と安全を祈る神聖な神事であることに十分配慮し、漁の妨げにならないよう、マナーを守って静かに見守ることが大切です。島には飲食店が限られるため、飲み物などは事前に用意しておくとよいでしょう。
-
-## 周辺の見どころ
 
 菅島の東端には、現役の灯台としては日本最古級とされるレンガ造りの「菅島灯台」があります。高さ9.7メートルと小ぶりで愛らしい姿で、明治期に築かれた歴史的建造物として親しまれ、漁港から遊歩道を20分ほど歩いて訪れることができます。島内は素朴な漁村の風景が広がり、海女文化の息づく暮らしを肌で感じられます。鳥羽市街には、海女と漁師のまちならではの新鮮な海の幸を味わえる店が多く、海女が炭火で焼く海の幸を味わえる「海女小屋」体験も人気です。世界有数の飼育種数を誇る鳥羽水族館や、真珠養殖発祥の地であるミキモト真珠島など、伊勢志摩を代表する観光スポットも点在しており、離島めぐりと合わせて、鳥羽・志摩の豊かな海の文化を存分に堪能できます。
 
@@ -3915,7 +3933,7 @@ INSERT INTO "festivals" VALUES('Q21653307','しろんご祭り','Shirongo Matsur
 鳥羽・志摩地域は、現役の海女が日本で最も多く暮らす地域として知られ、その海女文化は「海女に出会えるまち 鳥羽・志摩」として日本遺産に認定されています。海女漁には、陸近くの海に潜るカチド（徒人）と、舟で沖に出て深い海に潜るフナド（舟人）の区分があり、それぞれの暮らしと技が受け継がれてきました。また、海女がとったアワビを薄く伸ばして干した「熨斗鮑（のしあわび）」は、古くから伊勢神宮への奉納品として欠かせないものであり、海女文化は神宮の祭祀とも深く結びついてきました。海女が使う道具に記される魔除けの印「セーマン」「ドーマン」など、海とともに生きる人々の信仰も今に色濃く残ります。しろんご祭りは、その海女文化を象徴する行事のひとつで、つがいのアワビを奉納するという独特の習わしや、ふだん禁漁の海を祭りの日にのみ開放するという形に、海の資源と共生してきた島の暮らしが鮮やかに映し出されています。素潜りで海に挑む海女の姿を間近に見られる数少ない機会として、近年は国内外からの注目も高まっています。
 ','## Overview
 
-The Shirongo Festival (Shirongo Matsuri) is a traditional rite of the *ama* female divers that has long been handed down on Sugashima Island in Toba City, Mie Prefecture. Held each year around July 11 at the island''s Shirongo Beach and Shirahige Shrine, it begins when, at the signal of a conch-shell horn, the ama in their diving garb plunge into the sea all at once and compete to be first to gather a mated pair of abalone. The first abalone taken is offered to the shrine, with prayers for a bountiful catch and safety at sea that year. A major feature is that Shirongo Beach, normally treated as sacred waters closed to fishing, is opened only on this one day. Known as a rare opportunity to watch ama diving at relatively close range, the festival vividly carries on, into the present day, the ama culture of Ise-Shima—the region with the largest population of ama divers in Japan.
+The Shirongo Festival (Shirongo Matsuri) is a traditional rite of the *ama* female divers that has long been handed down on Sugashima Island in Toba City, Mie Prefecture. Held in July at the island''s Shirongo Beach and Shirahige Shrine, it begins when, at the signal of a conch-shell horn, the ama in their diving garb plunge into the sea all at once and compete to be first to gather a mated pair of abalone. The first abalone taken is offered to the shrine, with prayers for a bountiful catch and safety at sea that year. A major feature is that Shirongo Beach, normally treated as sacred waters closed to fishing, is opened only on this one day. Known as a rare opportunity to watch ama diving at relatively close range, the festival vividly carries on, into the present day, the ama culture of Ise-Shima—the region with the largest population of ama divers in Japan.
 
 ## History and Origins
 
@@ -3923,11 +3941,29 @@ The Shirongo Festival is a divers'' rite said to have been passed down on Sugash
 
 ## Highlights
 
-The greatest spectacle is the powerful moment when, at the sound of the conch horn, the ama in their diving garb leap into the sea at Shirongo Beach all together and dive as one to begin their work. What they vie to gather is a mated pair—male and female—of abalone. The diver who first brings up such a pair is honored for the year as the "ama-gashira," the head of the divers, an honor held in great pride among the ama. The pair of abalone taken is offered to Shirahige Shrine, with prayers for a bountiful catch and safety at sea. Because the rite takes place in waters not far from shore, a charm unique to this festival is the chance to observe up close, from the shore, the movements of the ama as they dive and surface. Ama diving, normally carried out offshore and rarely seen, can seldom be watched this closely anywhere in the country. It is a simple yet powerful event in which the honed skill of women who challenge the sea with nothing but breath-hold diving merges with reverence for the sea itself; the sound of the conch horn ringing out over the summer morning sea and the white diving garb glittering among the blue waves are etched deeply into the hearts of those who watch.
+**Fishing Boats, Flags and Shrine Visit**
+Early in the morning, the island’s fishing boats gather at Shirahama with big-catch flags raised. The gathering place is the beach at the northeastern end of the island. The Japan Heritage record describes a visit to Shirahige Myojin as part of this opening sequence.
+
+**The Conch Signal and Diving Garb**
+At the signal of a conch-shell horn, the island’s ama enter the sea together. They assemble at Shirongo Beach in their traditional diving garb. The festival offers a view of this collective dive in waters that are normally closed to fishing.
+
+**Gathering a Male and Female Pair**
+The ama compete to bring up the first male and female pair of abalone. The focus is on gathering a pair rather than simply collecting a large number of shellfish. The first pair taken is then used in the offering at the shrine.
+
+**The Maneki-Awabi Offering**
+The first male and female abalone are called maneki-awabi, abalone believed to invite others. The Japan Heritage record describes placing them on a boat plank for the offering. At Shirahige Shrine, the rite joins this belief with prayers for a bountiful catch and safety at sea.
+
+**Protective Signs on Diving Tools**
+Seman and Doman are protective signs in local ama culture. The star-shaped and lattice marks appear on diving towels and chisels, expressing a wish to return safely from dangerous work at sea. Read alongside the shrine offering, they draw attention to the divers’ beliefs as well as their fishing skills.
+
+**Watching Respectfully from Shore**
+Watch the ama dive and surface from the shore. Observe quietly so as not to hinder their work, remembering that this is a sacred rite rather than a visitor activity. Before choosing a travel date, check the current festival announcement, viewing conditions and ferry operation.
 
 ## Visiting and Access
 
-The Shirongo Festival is held each year around July 11 at Shirongo Beach and Shirahige Shrine in Sugashima-cho, Toba City, with the diving taking place mainly in the morning (roughly from 9:00 to 11:30). To reach Sugashima, take the municipal ferry from the Toba Marine Terminal (about 15 minutes), disembark at Sugashima, and walk about 25 minutes from the ferry landing to the venue at Shirongo Beach. As the event takes place on a remote island, it is best to check the ferry schedule carefully in advance and allow plenty of time. The diving can be watched from the shore, where one can feel up close the power of ama diving unfolding on a summer morning sea. When viewing, it is important to be fully mindful that this is a sacred rite praying for a bountiful catch and safety, and to watch quietly, observing good manners so as not to hinder the divers. As the island has only limited dining options, it is wise to bring drinks and the like in advance.
+Toba City''s notice updated on June 12, 2026 listed July 11 for the 2026 edition. This is a notice for a completed edition, not a fixed July 11 date every year. The Japan Heritage page uses both "the second Saturday in July" and "the Saturday nearest July 11". This page therefore does not automatically assign a future date: check Toba City''s announcement for the relevant year, along with the time, viewing conditions and ferry operation before travelling. [Toba City: Shirongo Festival](https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8404.html) / [Japan Heritage festival record](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4267/)
+
+The Shirongo Festival is held in July at Shirongo Beach and Shirahige Shrine in Sugashima-cho, Toba City, with the diving taking place mainly in the morning (roughly from 9:00 to 11:30). To reach Sugashima, take the municipal ferry from the Toba Marine Terminal (about 15 minutes), disembark at Sugashima, and walk about 25 minutes from the ferry landing to the venue at Shirongo Beach. As the event takes place on a remote island, it is best to check the ferry schedule carefully in advance and allow plenty of time. The diving can be watched from the shore, where one can feel up close the power of ama diving unfolding on a summer morning sea. When viewing, it is important to be fully mindful that this is a sacred rite praying for a bountiful catch and safety, and to watch quietly, observing good manners so as not to hinder the divers. As the island has only limited dining options, it is wise to bring drinks and the like in advance.
 
 ## Nearby Attractions
 
@@ -3936,7 +3972,7 @@ At the eastern tip of Sugashima stands the brick-built Sugashima Lighthouse, reg
 ## Related Information
 
 The Toba-Shima region is known as the area with the largest population of active ama divers in Japan, and its ama culture has been recognized as a Japan Heritage under the title "A Town Where You Can Meet Ama Divers: Toba and Shima." Ama diving is divided into the *kachido* (those who dive in waters near the shore) and the *funado* (those who go offshore by boat to dive in deep waters), each with its own way of life and skills handed down over time. The "noshi-awabi"—abalone gathered by the ama, then thinly stretched and dried—has from ancient times been an indispensable offering to Ise Jingu, and ama culture has thus been deeply tied to the rituals of the Grand Shrine. The protective signs "Seman" and "Doman" marked on the divers'' tools, among other beliefs of people who live with the sea, also remain vividly alive today. The Shirongo Festival is one of the rites that symbolize that ama culture, and its distinctive custom of offering a mated pair of abalone, along with the practice of opening normally closed waters only on the festival day, brilliantly reflects an island life that has coexisted with the resources of the sea. As one of the few occasions to watch up close the figure of ama challenging the sea by breath-hold diving, it has in recent years drawn growing attention from within Japan and abroad.
-','shirongo-matsuri','shirongo-matsuri','2026-05-20T15:07:52.470287+00:00','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 07:36:51',NULL,NULL,NULL,'毎年7月11日','{"type": "fixed", "month": 7, "day": 11, "raw": "7月11日", "ctx": "り（しろんごまつり）は、三重県鳥羽市の菅島で受け継がれている海女の伝統行事。毎年7月11日直近の土曜日にアワビのつがいを神前に奉納して海上の安全と大漁を祈願する。", "pos": 45}','jawiki導入部: り（しろんごまつり）は、三重県鳥羽市の菅島で受け継がれている海女の伝統行事。毎年7月11日直近の土曜日にアワビのつがいを神前に奉納して海上の安全と大漁を祈願する。','fixed_rule','ok','');
+','shirongo-matsuri','shirongo-matsuri','2026-05-20T15:07:52.470287+00:00','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:51:26',NULL,NULL,NULL,'7月・開催日は当年の鳥羽市告知で確認','{"type": "unresolved", "month": 7, "reason": "second Saturday versus nearest Saturday: annual announcement required", "confirmed_edition": {"year": 2026, "date": "2026-07-11"}, "sources": ["https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8404.html", "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4267/"]}','鳥羽市2026年告知7/11；文化庁ページに第2土曜／7月11日直近土曜の両表現。恒久日付未確定。','official_2026_only_future_rule_unresolved','hold','固定7/11推定を解除。2026年7/11告知と次回未確定を区別。記事は公開維持。');
 INSERT INTO "festivals" VALUES('Q11568692','熊谷うちわ祭','Kumagaya Uchiwa Festival',NULL,NULL,'Q41106','熊谷市','Kumagaya','埼玉県','kanto',NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD','https://en.wikipedia.org/wiki/Kumagaya_Uchiwa_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年7月19日〜7月23日','{"type": "range_fixed", "month": 7, "day": 19, "end_month": 7, "end_day": 23, "raw": "7月19日から23日", "ctx": "熊谷うちわ祭（くまがやうちわまつり）は、毎年7月19日から23日にかけての5日間（一般向けは20日から22日の3日間）に開催される埼玉県熊谷市鎌", "pos": 22}','熊谷うちわ祭（くまがやうちわまつり）は、毎年7月19日から23日にかけての5日間（一般向けは20日から22日の3日間）に開催される埼玉県熊谷市鎌','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q30924149','豊年祭','Hōnen Matsuri','愛知県小牧市にある田縣神社の祭礼','Japanese festival','Q60581','田縣神社','Tagata Shrine','愛知県','chubu',35.315833333,136.941111111,NULL,3,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/H%C5%8Dnen%20Matsuri%202.JPG','https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B9%B4%E7%A5%AD_(%E7%94%B0%E7%B8%A3%E7%A5%9E%E7%A4%BE)','https://en.wikipedia.org/wiki/H%C5%8Dnensai',95,'drafted','## 概要
 豊年祭は、毎年3月15日に愛知県小牧市の田縣神社で開催される伝統的な祭礼です。この祭りは、五穀豊穣、万物育成、子孫繁栄、そして世界平和を祈願することを目的としています。祭りの最大の特徴は、木曽檜で作られた直径約60センチ、長さ約2メートルを超える巨大な男茎形（男性のシンボル）を御輿に載せ、厄年の男たちが街中を練り歩く点にあります。
@@ -6598,7 +6634,7 @@ FUJI ROCK FESTIVALは、新潟県南魚沼郡湯沢町の苗場スキー場で�
 幻想的なキャンドルアートに包まれたステージで、夜間の演出が特に美しい。数千本のキャンドルが灯され、観客は柔らかな光の中で音楽に浸ることができる。ヒーリングミュージックやアンビエント系のアクトが多く、フェスの喧騒から離れて静かに過ごしたい来場者に人気である。
 
 **GAN-BAN SQUARE（ガンバン・スクエア）**
-自由に踊れるスペースとして設置されたエリアで、特定の座席やステージがない開放的な空間である。ここでは観客自身がDJを務めることも可能で、ダンスミュージックが夜遅くまで流れる。フェスのコミュニティ精神を象徴する場所として、多くのリピーターに親しまれている。
+自由に踊れるスペースとして設置されたエリアで、特定の座席やステージがない開放的な空間である。公式ラインナップにはGAN-BAN SQUAREの出演者が掲載されている。観客自身がDJとして参加できるとは限らないため、参加企画の有無や条件は当年の主催者発表で確認する。フェスのコミュニティ精神を象徴する場所として、多くのリピーターに親しまれている。
 
 **苗場食堂（NAEBA SHOKUDO）**
 サプライズ出演が飛び出すことで知られる屋内ステージで、例年予告なしのライブが行われる。苗場スキー場のレストハウスを改装して使用しており、飲食ができるカジュアルな雰囲気が特徴である。過去には世界的アーティストが急遽出演した例もあり、常に何が起きるかわからない緊張感が楽しめる。
@@ -6618,7 +6654,7 @@ FUJI ROCK FESTIVALは、新潟県南魚沼郡湯沢町の苗場スキー場で�
 5. **駐車場**: 場内第1駐車場（S駐車券）や会場近隣徒歩圏内のA駐車場などが用意される。駐車券は入場券2名分と合わせて購入が必要で、単体では販売されない。
 6. **宿泊**: 会場内のキャンプサイト（通常サイト、PYRAMID GARDEN専用サイト、オートキャンプMOON CARAVAN）のほか、オフィシャルツアーセンターを通じて周辺ホテルや民宿の予約が可能。キャンプサイトは3種類あり、利用には開催期間中有効のキャンプサイト券が必要で、料金は公式サイトで確認する。
 7. **キャンプサイト**: 通常サイト（苗場スキー場内）、PYRAMID GARDEN（バス乗降所から徒歩1分の公式ツアーバス利用者専用サイト）、オートキャンプMOON CARAVAN（車両駐車可能な4泊限定サイト）の3区分。15歳以下は保護者同伴で無料。
-8. **チケット種類**: 3日通し券、1日券（金曜・土曜・日曜各日）、金曜ナイト券（7/24 18:00以降〜翌朝5:00まで有効）、Under 22 1日券（22歳以下限定）、Under 17 1日券（17歳以下限定）。15歳以下は保護者同伴で無料。
+8. **チケット種類**: 3日通し券、1日券（金曜・土曜・日曜各日）、金曜ナイト券（設定日・有効時間は当年の[公式チケット案内](https://en.fujirockfestival.com/ticket/index)で確認）、Under 22 1日券（22歳以下限定）、Under 17 1日券（17歳以下限定）。15歳以下は保護者同伴で無料。
 9. **チケット**: 3日通し券のほか1日券や金曜ナイト券が用意され、早期割引や先行販売など販売段階に応じた券種がある。価格は毎年改定されるため、最新の料金と販売スケジュールは公式サイトで確認する。
 10. **注意事項**: 3日通し券は早期に完売する傾向がある。駐車券は2名以上の入場券とセット購入が必須。金曜ナイト券・Under 22券・Under 17券では駐車券購入不可。
 
@@ -6636,8 +6672,8 @@ FUJI ROCK FESTIVALは、新潟県南魚沼郡湯沢町の苗場スキー場で�
 2. **公式SNS**: Twitter、Instagram、Facebookで情報発信が行われ、出演者発表や天候情報などがリアルタイムで更新される。ハッシュタグは「#fujirock」が公式タグとして使用される。
 3. **チケット販売**: e+(イープラス)が公式販売プラットフォーム。一般発売のほか、オフィシャル先行や早期割引や先行販売のほか、22歳以下と17歳以下を対象とした年齢別の券種が用意される。販売開始と同時に完売する人気券種もある。
 4. **環境対策**: 主催者は使い捨てプラスチック削減やゴミ分別の徹底、マイボトル持参促進など、持続可能な運営を目指す取り組みを継続している。会場内ではリユース容器の導入や、生分解性素材の食器使用が進められている。
-5. **子連れ参加**: キッズエリア「KIDS LAND」が設置され、託児サービスや親子で楽しめるプログラムが用意される。15歳以下の入場は保護者同伴で無料となり、ファミリー層の参加を促進している。
-6. **バリアフリー**: 車椅子利用者向けの専用観覧スペースや、介助者割引チケットが設定されている。会場内の移動手段として、一部エリアで電動カートの貸し出しも行われる（事前予約制）。
+5. **子連れ参加**: 公式FAQでは「KIDS LAND」と親子で参加できる活動が案内される一方、子どもの預かりは行わないと明記されている。子連れでの参加前に、当年の[公式FAQ](https://en.fujirockfestival.com/faq/index)で利用設備と保護者の同伴条件を確認する。15歳以下の入場は保護者同伴で無料となり、ファミリー層の参加を促進している。
+6. **バリアフリー**: 公式FAQではGREEN STAGE後方の車椅子利用者向けスペースが案内され、同伴者は1名までとされる。介助者向け料金や移動支援機器の貸出を前提にせず、参加前に当年の主催者案内で設備・同伴条件・予約の要否を確認する。
 7. **キャンプサイトルール**: テント設営可能エリアは事前指定され、火気の使用は制限がある。オートキャンプMOON CARAVANは車両の入出庫時間が限定される4泊施設で、専用チケットが必要となる。騒音ルールやゴミ分別の徹底が求められる。
 8. **シャトルバス**: 越後湯沢駅から会場間のシャトルバスは有料で、料金や支払い方法は公式サイトで確認する。場外駐車場からの利用者は駐車券にバス料金が含まれる。混雑時は運行本数が増便されるが、時間に余裕を持った行動が推奨される。
 9. **天候対策**: 苗場スキー場の標高約900メートルは夏季でも気温が20度を下回ることがあり、また雨や霧の発生頻度が高い。レインウェアや防寒着、長靴や防水シューズの持参が推奨される。キャンプ参加者は特に夜間の冷え込みに備える必要がある。
@@ -6675,7 +6711,7 @@ An eco-conscious area powered by clean energy, embodying the coexistence of natu
 A stage enveloped in fantastical candle art, with nighttime lighting effects that are especially beautiful. Thousands of candles illuminate the space, allowing the audience to immerse themselves in the music under soft, warm light. The area often hosts healing music and ambient acts, popular among those seeking a quiet respite from the festival''s hustle.
 
 **GAN-BAN SQUARE**
-An open space for free dancing, without designated seating or a formal stage. Festival-goers can even serve as DJs here, with dance music playing late into the night. This square embodies the festival''s community spirit and is cherished by many repeat visitors.
+An open space for free dancing, without designated seating or a formal stage. The official lineup lists performers for GAN-BAN SQUARE. Visitors should not assume they can participate as DJs; check the organizer’s announcements for any audience-participation programs and their conditions that year. This square embodies the festival''s community spirit and is cherished by many repeat visitors.
 
 **Naeba Shokudo (Naeba Cafeteria)**
 An indoor stage known for surprise unannounced performances, often held in a converted restaurant building of the Naeba Ski Resort. The casual atmosphere allows for dining while watching shows. World-renowned artists have made impromptu appearances here in the past, creating an air of anticipation where anything can happen.
@@ -6684,7 +6720,7 @@ An indoor stage known for surprise unannounced performances, often held in a con
 Events include a Bon Odori (traditional folk dance) to the tune of "Naeba Ondo," a fireworks display, and a lottery with luxurious prizes. The Bon Odori has become a unique tradition of FUJI ROCK, with participants forming circles to dance. Fireworks illuminate the Naeba night sky, serving as a climactic highlight of the festival.
 
 **Pre-Festival Event (Thursday Night)**
-A free pre-festival event held the day before the main event (Thursday), intended for campers and early arrivals. Live performances are held on a special stage, and campsites open early, allowing participants to check in calmly before the main three days begin.
+A free pre-festival event held the day before the main event (Thursday), intended for campers and early arrivals. Live performances are held on a special stage, and campsites open early, allowing participants to check in calmly before the main three days begin. Attendance at the pre-festival event does not itself grant campsite access, so check the current campsite ticket requirements and opening hours before arriving on Thursday.
 
 ## Event Information and Access
 
@@ -6695,7 +6731,7 @@ A free pre-festival event held the day before the main event (Thursday), intende
 5. **Parking**: On-site first parking lot (S parking ticket) and nearby walkable A parking lot are available. Parking tickets must be purchased together with two admission tickets; they are not sold separately.
 6. **Accommodation**: Options include campsites within the venue (regular sites, PYRAMID GARDEN exclusive sites, and auto-camp MOON CARAVAN) and nearby hotels or inns bookable through the official tour center. Campsite usage requires a campsite ticket valid throughout the festival period; check the official website for the current fee.
 7. **Campsite Types**: Regular sites (within Naeba Ski Resort), PYRAMID GARDEN (exclusive for official tour bus users, a 1-minute walk from the bus stop), and auto-camp MOON CARAVAN (a 4-night site where vehicles can be parked). Children aged 15 and under can stay free when accompanied by a parent or guardian.
-8. **Ticket Types**: 3-day pass, 1-day pass (for Friday, Saturday, or Sunday each), Friday Night Ticket (valid from 18:00 on Friday until 5:00 the next morning), Under 22 1-day ticket (for ages 22 and under), and Under 17 1-day ticket (for ages 17 and under). Children aged 15 and under enter free when accompanied by a parent or guardian.
+8. **Ticket Types**: 3-day pass, 1-day pass (for Friday, Saturday, or Sunday each), Friday Night Ticket (check the current [official ticket guide](https://en.fujirockfestival.com/ticket/index) for its date and valid hours), Under 22 1-day ticket (for ages 22 and under), and Under 17 1-day ticket (for ages 17 and under). Children aged 15 and under enter free when accompanied by a parent or guardian.
 9. **Tickets**: Three-day passes, one-day passes, and a Friday Night ticket are offered, with early-bird and advance sales at successive stages. Prices are revised each year, so check the official website for current fares and sales schedules.
 10. **Notes**: 3-day passes tend to sell out early. Parking tickets must be purchased as a set with two or more admission tickets. Friday Night Tickets, Under 22 tickets, and Under 17 tickets cannot be used to purchase parking tickets.
 
@@ -6713,12 +6749,12 @@ During the festival period, local shops and restaurants around Echigo-Yuzawa Sta
 2. **Official Social Media**: Information is disseminated via Twitter, Instagram, and Facebook, including real-time updates on artist announcements and weather conditions. The official hashtag is "#fujirock".
 3. **Ticket Sales**: e-plus is the official sales platform. In addition to general sales, early-bird and advance sales are offered in phases, along with age-based tickets for those aged 22 and under and 17 and under. Some popular ticket types sell out immediately upon release.
 4. **Environmental Measures**: The organizer promotes the reduction of single-use plastics, thorough waste separation, and the use of reusable bottles. Reusable containers and biodegradable tableware are being introduced within the venue.
-5. **Family Participation**: A "KIDS LAND" area is set up with childcare services and programs for parents and children. Children aged 15 and under enter free when accompanied by a parent or guardian, encouraging family attendance.
-6. **Barrier-Free Access**: Dedicated viewing spaces for wheelchair users and discounted tickets for attendants are available. Electric carts may be rented in some areas (advance reservation required).
+5. **Family Participation**: The official FAQ describes KIDS LAND and activities for parents and children, but explicitly states that children cannot be left in its care. Before attending with children, check the current [official FAQ](https://en.fujirockfestival.com/faq/index) for facilities and guardian-accompaniment requirements. Children aged 15 and under enter free when accompanied by a parent or guardian, encouraging family attendance.
+6. **Barrier-Free Access**: The official FAQ describes a wheelchair-user space behind the GREEN STAGE, with up to one accompanying person. Do not assume that discounted attendant tickets or mobility-equipment rental are available; check the organizer’s current facilities, accompaniment conditions, and any reservation requirements before attending.
 7. **Campsite Rules**: Tent setup areas are pre-designated, and open-flame use is restricted. The auto-camp MOON CARAVAN is a 4-night facility with limited vehicle entry and exit times, requiring a special ticket. Adherence to noise regulations and thorough waste separation is required.
 8. **Shuttle Bus**: Shuttle buses between Echigo-Yuzawa Station and the venue are paid services; check the official website for fares and payment methods. For those using off-site parking lots, the parking ticket includes the bus fare. During peak times, the number of bus runs is increased, but allowing ample time is recommended.
 9. **Weather Precautions**: At an altitude of approximately 900 meters, the Naeba Ski Resort can see temperatures drop below 20 degrees Celsius even in summer, with frequent rain and fog. Bringing rainwear, warm clothing, and waterproof boots or shoes is recommended. Campers especially should prepare for nighttime cold.
-10. **Past Records**: The first edition was held in 1997 at Fuji Tenjinyama Ski Resort in Yamanashi Prefecture, and since 1999, the venue has been fixed at Naeba Ski Resort in Niigata Prefecture. The second day of the first edition was canceled because of a typhoon. The 2020 festival was canceled outright for the first time due to the COVID-19 pandemic, while the 2021 edition took place with countermeasures, including a lineup centered on domestic artists and a reduced number of stages.','fuji-rock-festival','fuji-rock-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','Jmills74 at English Wikipedia','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:FujiGreenStage.jpg',NULL,NULL,NULL,NULL,NULL,NULL);
+10. **Past Records**: The first edition was held in 1997 at Fuji Tenjinyama Ski Resort in Yamanashi Prefecture, and since 1999, the venue has been fixed at Naeba Ski Resort in Niigata Prefecture. The second day of the first edition was canceled because of a typhoon. The 2020 festival was canceled outright for the first time due to the COVID-19 pandemic, while the 2021 edition took place with countermeasures, including a lineup centered on domestic artists and a reduced number of stages.','fuji-rock-festival','fuji-rock-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:51:25','Jmills74 at English Wikipedia','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:FujiGreenStage.jpg',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q2914758','五山送り火','Gozan no Okuribi','日本の京都府京都市で毎年8月16日の夜に行われるかがり火','Japanese festival',NULL,NULL,NULL,'京都府','kinki',NULL,NULL,NULL,8,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Gozanokuribi%20Daimonji2.jpg','https://ja.wikipedia.org/wiki/%E4%BA%94%E5%B1%B1%E9%80%81%E3%82%8A%E7%81%AB','https://en.wikipedia.org/wiki/Gozan_no_Okuribi',85,'drafted','## 概要
 
 五山送り火（ござんのおくりび）は、毎年8月16日の夜に京都市を囲む五つの山で炎を焚き、お盆に迎えた死者の霊「お精霊（しょらい）さん」をあの世へ送り届ける、京都の代表的な伝統行事です。東山如意ヶ嶽の「大文字」を皮切りに、「松ケ崎妙法」「船形万灯籠」「左大文字」「嵯峨鳥居本の鳥居形松明」の順に、五分間隔で山肌の巨大な文字や形が浮かび上がります。葵祭・祇園祭・時代祭とともに京都四大行事の一つに数えられ、盆行事の締めくくりとして市民に深く親しまれています。

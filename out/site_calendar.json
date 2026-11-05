@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06 05:45",
+ "generated": "2026-11-06 05:52",
  "today": "2026-11-06",
  "next": [
   {
@@ -1654,19 +1654,6 @@
    "slug_en": "narita-gion-festival",
    "name_en": "Narita Gion Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%A5%87%E5%9C%92%E7%A5%AD"
-  },
-  {
-   "qid": "Q21653307",
-   "name": "しろんご祭り",
-   "pref": "三重県",
-   "start": "2026-07-11",
-   "end": "",
-   "rule": "毎年7月11日",
-   "conf": "fixed_rule",
-   "slug": "shirongo-matsuri",
-   "slug_en": "shirongo-matsuri",
-   "name_en": "Shirongo Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%8D%E3%82%93%E3%81%94%E7%A5%AD%E3%82%8A"
   },
   {
    "qid": "Q11263106",
