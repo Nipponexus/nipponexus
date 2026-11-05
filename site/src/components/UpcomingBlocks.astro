@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { prefEn } from "../lib/i18n_geo";
+import { getPublicFestivalSlugs } from "../lib/public_index";
 const { locale = "ja" } = Astro.props;
 const en = locale === "en";
 let d = { generated: "", annual: [] };
@@ -14,7 +15,8 @@ const today = iso(t0), week = iso(add(6));
 const ym = today.slice(0, 7);
 const nm = new Date(Date.UTC(t0.getUTCFullYear(), t0.getUTCMonth() + 1, 1));
 const nym = iso(nm).slice(0, 7);
-const rows = (d.annual || []).filter((r) => r.start && (!en || r.name_en));
+const publicSlugs = getPublicFestivalSlugs(en ? "en" : "ja");
+const rows = (d.annual || []).filter((r) => r.start && (!en || r.name_en) && publicSlugs.has(en ? r.slug_en : r.slug));
 const between = (r, a, b) => { const s = r.start, e = r.end || r.start; return s <= b && e >= a; };
 const groups = [
   { key: "today", ja: "今日の祭り", en: "Festivals Today", rows: rows.filter((r) => between(r, today, today)) },

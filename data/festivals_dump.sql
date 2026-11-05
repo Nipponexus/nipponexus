@@ -6761,14 +6761,14 @@ INSERT INTO "festivals" VALUES('Q2914758','五山送り火','Gozan no Okuribi','
 - **点火時刻**：大文字20時00分／松ケ崎妙法20時05分／船形万燈籠20時10分／左大文字20時15分／鳥居形松明20時20分（各山とも約30分燃焼）
 - **場所**：京都市を囲む五山（左京区・北区・右京区に分布）
 - **観覧**：市内各所から無料で鑑賞可能。鴨川堤防や高台などが定番の鑑賞スポット
-- **注意**：点火当日は如意ヶ嶽（大文字山）への登山は13時までに下山が必要で、以降は全登山口で当日登山が禁止される
+- **注意**：京都市の2026年7月27日案内は、点火当日の各山への登山を禁止し、増水の有無に関わらず夜間の河川敷への立入りも控えるよう求めている。13時まで登山できるという案内ではない。現地の規制と警備担当者の指示を優先し、次回は当年の公式発表を確認する。[京都市：安全の案内](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html)
 - **問合せ**：大文字五山保存会連合会・京都市観光協会
 
 ## 周辺の見どころ
 
 大文字を望むなら、東山の麓に広がる銀閣寺（慈照寺）や哲学の道の散策とあわせて訪れるのがおすすめです。銀閣寺の北側は大文字山への主要な登山口でもあり、送り火の日以外は京都盆地を一望できる人気の山として親しまれています。
 
-松ケ崎妙法や船形のある京都市北部を訪れる際は、上賀茂神社や下鴨神社といった世界遺産の古社をあわせて巡ると、京都の信仰の重層を感じられます。鴨川の河原は送り火の鑑賞スポットとしても知られ、夕涼みをしながら炎の文字を待つ時間も夏の京都ならではの過ごし方です。
+松ケ崎妙法や船形のある京都市北部を訪れる際は、上賀茂神社や下鴨神社といった世界遺産の古社をあわせて巡ると、京都の信仰の重層を感じられます。夜間の河川敷には転落等の危険があり、市は立入りを控えるよう求めています。見学場所は、当年の開放状況と規制を確認して選んでください。
 
 鳥居形のある嵯峨鳥居本は、愛宕神社の門前町として栃葺きや瓦葺きの町家が残る重要伝統的建造物群保存地区で、渡月橋や竹林の小径で知られる嵐山・嵯峨野観光の拠点でもあります。送り火の前後に古都の風情ある町並みを歩けば、行事の余韻をいっそう深く味わうことができます。
 
@@ -6822,14 +6822,14 @@ It is said that writing one''s name or wish on the goma-gi votive wood burned in
 - **Ignition times**: Daimonji 8:00 p.m. / Matsugasaki Myoho 8:05 p.m. / Funagata Manto-doro 8:10 p.m. / Hidari Daimonji 8:15 p.m. / Torii-gata torches 8:20 p.m. (each burns about 30 minutes)
 - **Location**: Five mountains surrounding Kyoto City (spread across Sakyo, Kita, and Ukyo wards)
 - **Viewing**: Free viewing from many points in the city; the Kamo River embankment and elevated spots are popular
-- **Note**: On the day of ignition, climbers of Nyoigatake must descend by 1 p.m., after which same-day climbing is prohibited at all trailheads
+- **Note**: Kyoto City''s July 27, 2026 notice prohibited climbing any of the bonfire mountains on the lighting day and requested that visitors refrain from entering riverbeds at night, regardless of water levels. It did not grant climbing access until 1:00 PM. Follow local restrictions and staff instructions; check the relevant year''s official announcement before a future visit. [Kyoto City safety notice](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html)
 - **Inquiries**: Daimonji Gozan Preservation Society Federation, Kyoto City Tourism Association
 
 ## Around the Area
 
 To view the Daimonji, it is recommended to combine it with a walk to Ginkaku-ji, the Silver Pavilion, at the foot of the eastern hills, and along the Philosopher''s Path. The area north of Ginkaku-ji is also the main trailhead up Mount Daimonji, which on days other than the okuribi is a popular mountain offering a sweeping view of the Kyoto basin.
 
-When visiting the northern parts of the city where Matsugasaki Myoho and Funagata are located, combining the trip with the World Heritage shrines of Kamigamo and Shimogamo lets you feel the layered faith of Kyoto. The banks of the Kamo River are also well known as viewing spots, and waiting for the fiery characters while enjoying the evening cool is a way of spending time unique to Kyoto in summer.
+When visiting the northern parts of the city where Matsugasaki Myoho and Funagata are located, combining the trip with the World Heritage shrines of Kamigamo and Shimogamo lets you feel the layered faith of Kyoto. Riverbeds are hazardous at night, and the city asks visitors to refrain from entering them. Choose a viewing place only after checking that year''s access conditions and restrictions.
 
 Saga Toriimoto, where the Torii-gata is located, is a preservation district of important traditional buildings that survives as the gate town of Atago Shrine, with townhouses roofed in thatch and tile, and it is also a base for sightseeing in Arashiyama and Sagano, famous for the Togetsukyo bridge and the bamboo grove. Strolling through the elegant old streets before or after the okuribi lets you savor the afterglow of the event all the more deeply.
 
@@ -6841,7 +6841,7 @@ Saga Toriimoto, where the Torii-gata is located, is a preservation district of i
 - **Origin**: A Bon event that developed from the spirit-sending of the Urabon-e and the manto-e lantern customs (recorded in early modern sources)
 - **Standing**: One of Kyoto''s four great annual events, alongside the Aoi, Gion, and Jidai festivals
 - **Alternative name**: Daimonji Okuribi (the nationwide nickname is daimonji-yaki, but in Kyoto it is usually called daimonji)
-','gozan-no-okuribi','gozan-no-okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "五山送り火（ござんのおくりび）(京都五山送り火とも言う）は、毎年8月16日に京都府京都市左京区にある如意ヶ嶽（大文字山）などで行われるかがり火。宗教・歴史", "pos": 32}','jawiki導入部: 五山送り火（ござんのおくりび）(京都五山送り火とも言う）は、毎年8月16日に京都府京都市左京区にある如意ヶ嶽（大文字山）などで行われるかがり火。宗教・歴史','fixed_rule','ok','');
+','gozan-no-okuribi','gozan-no-okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:45:02','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "五山送り火（ござんのおくりび）(京都五山送り火とも言う）は、毎年8月16日に京都府京都市左京区にある如意ヶ嶽（大文字山）などで行われるかがり火。宗教・歴史", "pos": 32}','jawiki導入部: 五山送り火（ござんのおくりび）(京都五山送り火とも言う）は、毎年8月16日に京都府京都市左京区にある如意ヶ嶽（大文字山）などで行われるかがり火。宗教・歴史','fixed_rule','ok','');
 INSERT INTO "festivals" VALUES('Q1139891','東京フィルメックス','Tokyo Filmex','東京で毎年開催される国際映画祭','international film festival held annually in Tokyo, Japan','Q1490','東京都','Tokyo','東京都','kanto',NULL,NULL,2000,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9','https://en.wikipedia.org/wiki/Tokyo_Filmex',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q2238334','あえのこと','Oku-noto no Aenokoto','石川県奥能登地方で行われる農耕儀礼','agricultural ritual held in Oku-Noto area, Ishikawa, Japan','Q11446096','奥能登','Okunoto','石川県','chubu',NULL,NULL,NULL,12,'winter','https://commons.wikimedia.org/wiki/Special:FilePath/Oku-noto%20no%20Aenokoto%2C%20offering%20meals%20to%20the%20deities.jpg','https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%88','https://en.wikipedia.org/wiki/Oku-noto_no_Aenokoto',85,'drafted','## 概要
 
@@ -7010,7 +7010,7 @@ INSERT INTO "festivals" VALUES('Q1072387','七五三','Shichi-Go-San','日本の
 ## 周辺情報
 七五三の時期には、神社周辺の商店街やデパートで、子どもの晴れ着や千歳飴の特別販売が行われることが多い。例えば、東京都千代田区の神田明神周辺では、神社の門前町として古くから続く老舗の和菓子店が千歳飴を販売し、参詣者で賑わう。また、写真館では七五三の記念撮影プランが用意され、着物のレンタルとセットになったサービスも一般的である。
 
-沖縄県では、本土の七五三とは異なる独自の成長儀礼「十三祝い（じゅうさんうゐ）」が根付いている地域がある。これは数え年13歳になった子どもが、知恵や学問の成長を感謝し、今後の幸福を祈願する行事で、旧暦3月13日前後に行われることが多い。このように、子どもの成長を祝う習慣は、日本各地で地域ごとに異なる形で発展してきた。
+沖縄県では、本土の七五三とは異なる独自の成長儀礼「十三祝い（じゅうさんうゐ）」が根付いている地域がある。これは数え年13歳の最初の生年祝い（トゥシビー）として、子どもの成長とこれからの健康を願う節目である。沖縄観光情報「おきなわ物語」は生年祝いを旧暦1月2日～13日の行事として紹介し、沖縄県メモリアル整備協会は旧正月後の最初の自分の干支の日の拝みと、別日に行う十三祝いの祝いの席を区別している。日程は地域・家庭で異なるため、沖縄の十三祝いを旧暦3月13日前後と一律に案内せず、家庭や地域の習慣を確認したい。[おきなわ物語：旧暦行事](https://www.okinawastory.jp/feature/kurashi/calendar1_3)／[沖縄県メモリアル整備協会：生年祝い](https://www.oki-memorial.org/column/whattheyearsereblate0207)このように、子どもの成長を祝う習慣は、日本各地で地域ごとに異なる形で発展してきた。
 
 北海道などの一部地域では、七五三の歴史が比較的新しく、明治以降の移住者によって様式が持ち込まれたと言われている。そのため、神社の規模や祈祷の形式は地域によって様々であり、都市部の大規模神社から地方の小さな神社まで、それぞれのコミュニティに根ざした形で行われている。
 
@@ -7070,7 +7070,7 @@ In contemporary Shichi-Go-San, it is common practice to have a child&#39;s forma
 ## Nearby Information
 During the Shichi-Go-San season, shopping streets and department stores near shrines often hold special sales of children&#39;s formal wear and Chitose Ame. For example, around Kanda Myojin in Chiyoda-ku, Tokyo, long-established Japanese confectionery shops in the shrine&#39;s traditional temple town sell Chitose Ame, drawing large crowds of visitors. Photography studios offer special commemorative photo plans for Shichi-Go-San, often bundled with kimono rental services.
 
-In Okinawa Prefecture, a unique coming-of-age tradition called "Jusan Uwi" (Thirteen Celebration) is observed in some areas, distinct from mainland Shichi-Go-San. This event, where children who reach the counted age of 13 give thanks for their growth in wisdom and learning and pray for future happiness, is often held around the 13th day of the third month of the old lunar calendar. Such variations demonstrate how traditions for celebrating children&#39;s growth have developed unique local forms across Japan.
+In Okinawa Prefecture, a unique coming-of-age tradition called "Jusan Uwi" (Thirteen Celebration) is observed in some areas, distinct from mainland Shichi-Go-San. It marks the first birth-zodiac-year celebration (tushibi) at the counted age of 13, giving thanks for growth and wishing for health. Okinawa Story lists birth-year celebrations between the second and thirteenth days of the first lunar month. The Okinawa Memorial Association distinguishes prayers on the first day of one''s zodiac sign after Lunar New Year from a thirteenth-birthday celebration held on a separate day. Practices differ by locality and household: do not assume a fixed date around the thirteenth day of the third lunar month for Okinawa''s Jusan Uwi. Confirm the family or community custom. [Okinawa Story: lunar-calendar customs](https://www.okinawastory.jp/feature/kurashi/calendar1_3) / [Okinawa Memorial Association: birth-year celebrations](https://www.oki-memorial.org/column/whattheyearsereblate0207) Such variations demonstrate how traditions for celebrating children&#39;s growth have developed unique local forms across Japan.
 
 In regions like Hokkaido, Shichi-Go-San is a relatively newer tradition, believed to have been brought by settlers during and after the Meiji period. Consequently, the scale of shrines and the specific forms of prayer vary significantly by region, rooted in each local community, from large urban shrines to smaller, rural ones.
 
@@ -7084,7 +7084,7 @@ In regions like Hokkaido, Shichi-Go-San is a relatively newer tradition, believe
 6. **Hakamagi**: One of the three origin ceremonies; wearing a hakama for the first time at age five.
 7. **Obitoki**: One of the three origin ceremonies; beginning to tie an adult obi at age seven.
 8. **Kanda Myojin**: A major Shinto shrine in Chiyoda-ku, Tokyo, famed for its Shichi-Go-San crowds since the Edo period.
-9. **Tokugawa Tsunayoshi**: The 5th Tokugawa shogun, whose celebration of his son Tokumatsu&#39;s growth is a key legend in the origin of the modern Shichi-Go-San custom.','shichi-go-san','shichi-go-san','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 04:38:02','Bergmann at Japanese Wikipedia','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Shichigosan_at_Ikuta_Jinja_Shrine.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
+9. **Tokugawa Tsunayoshi**: The 5th Tokugawa shogun, whose celebration of his son Tokumatsu&#39;s growth is a key legend in the origin of the modern Shichi-Go-San custom.','shichi-go-san','shichi-go-san','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:45:02','Bergmann at Japanese Wikipedia','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Shichigosan_at_Ikuta_Jinja_Shrine.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q3090688','深川祭','Fukagawa Matsuri','東京都江東区の富岡八幡宮の祭礼','festival in Tokyo','Q654417','富岡八幡宮','Tomioka Hachiman Shrine','東京都','kanto',NULL,NULL,1642,8,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Tomioka%20hachimangu4.jpg','https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%B7%9D%E7%A5%AD','https://en.wikipedia.org/wiki/Fukagawa_Matsuri',85,'drafted','## 概要
 
 深川祭（ふかがわまつり）は、東京都江東区の富岡八幡宮(とみおかはちまんぐう)で行われる例祭で、神田祭・山王祭とともに江戸三大祭の一つに数えられます。とりわけ沿道の観衆が担ぎ手に清めの水を浴びせかけることから「水掛け祭り」の異名で親しまれ、真夏の江東の町を清涼と熱狂で包み込む勇壮な祭りとして知られています。
@@ -37936,25 +37936,19 @@ INSERT INTO "festivals" VALUES('Q11639333','送り火','Okuribi','お盆に帰�
 船形は西方浄土へ向かう精霊船をかたどった送り火で、横約200メートル、帆柱の高さ約90メートルの規模を持ちます。火床は79基あり、舳先が西を向いており、先祖の霊を浄土へ送り届けるという意味が込められています。点火後、麓の西方寺では六斎念仏が行われ、鉦や太鼓の音に合わせて念仏を唱えながら踊る民俗芸能が送り火の余韻を彩ります。
 
 **左大文字（衣笠大北山）**
-左大文字は大文字とよく似た形状ですが、筆順通りに火を付けるのが特徴です。火床は53基で、一画目48メートル、二画目68メートル、三画目59メートルと大文字よりやや小ぶりですが、金閣寺の背後に位置するため、鹿苑寺の庭園や西大路通から美しい景観を楽しめます。江戸時代前期の公家日記には「東山大文字」と対比する「西山大文字」として記録されており、大文字より遅れて成立したと推測されています。
+左大文字は大文字とよく似た形状ですが、筆順通りに火を付けるのが特徴です。火床は53基で、一画目48メートル、二画目68メートル、三画目59メートルと大文字よりやや小ぶりですが、金閣寺の背後に位置します。ただし、金閣寺の通常参拝は午前9時～午後5時であり、夜間の送り火を境内から見学できるという案内ではありません。見学場所の開放条件は別途確認してください。[金閣寺：参拝案内](https://www.shokoku-ji.jp/kinkakuji/access/)江戸時代前期の公家日記には「東山大文字」と対比する「西山大文字」として記録されており、大文字より遅れて成立したと推測されています。
 
 **鳥居形（嵯峨曼荼羅山）**
 鳥居形は他の四山と異なり、松明を一斉に走って各火床に突き立てる独特の点火方法を取ります。火床は108基で、鳥居の笠木に当たる部分は約70メートル、左右の脚は約80メートルと、京都市内で最も火床数の多い送り火です。この点火方法は親火から松明に火を移し、若い会員が「横の走り」、ベテランが「縦の走り」を担当する伝統的な役割分担が今も守られています。
 
 **点火の瞬間と静寂の街**
-五山の送り火が最も美しいのは、各山が順次点火される約1時間の時間差です。大文字が午後8時に点火されると、続いて妙法が午後8時5分、船形が午後8時10分、左大文字が午後8時15分、鳥居形が午後8時20分と、山々が次々と火に包まれていく様子は、まるで夜空に浮かぶ五つの灯台のように幻想的です。この間、京都市内は静寂と厳粛なムードに包まれ、鴨川の河畔などの鑑賞スポットには多くの人が集い、送り火の消えゆく様子を静かに見守ります。
+五山の送り火が最も美しいのは、各山が午後8時から午後8時20分にかけて順次点火される様子です。大文字が午後8時に点火されると、続いて妙法が午後8時5分、船形が午後8時10分、左大文字が午後8時15分、鳥居形が午後8時20分と、山々が次々と火に包まれていく様子は、まるで夜空に浮かぶ五つの灯台のように幻想的です。この間、京都市内は静寂と厳粛なムードに包まれ、鴨川の河畔などの鑑賞スポットには多くの人が集い、送り火の消えゆく様子を静かに見守ります。
 
 ## 開催情報・アクセス
 
 **安全な見学場所を先に確認**: 京都市の2026年7月27日案内は、点火当日の各山への登山を禁止し、夜間の河川敷への立入りも足元が暗く転落等の危険があるため控えるよう案内しています。増水時には立入り制限があり、現地の警備担当者の指示に従う必要があります。以下の鑑賞場所紹介を、当日そこへ立ち入れる保証として扱わないでください。終了済みの2026年の告知であり、次回の規制・点火時刻・交通案内は当年の公式発表を確認してください。護摩木の受付も保存会ごとに日時が異なり、見学と奉納は別に確認します。[京都市：点火に伴う協力のお願い](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html)
 
-- **開催日時**：例年8月16日。点火時間は大文字が午後8時、妙法が午後8時5分、船形が午後8時10分、左大文字が午後8時15分、鳥居形が午後8時20分。各山の点火から消えゆくまで約30分間。
-- **大文字の主な鑑賞スポット**：鴨川（賀茂川）河岸の丸太町橋から御薗橋付近。京都御苑も鑑賞可能。河原町通や木屋町通の高層ビルやホテルの屋上からも見えるが、有料エリアが多い。
-- **妙法の主な鑑賞スポット**：北山通の地下鉄松ヶ崎駅付近。京都ノートルダム女子大学周辺からも良好な視界が得られる。
-- **船形の主な鑑賞スポット**：賀茂川の北山大橋から西賀茂橋付近。北山通の松ヶ崎駅より東側のエリアも推奨される。
-- **左大文字の主な鑑賞スポット**：西大路通の円町から金閣寺付近。金閣寺境内も鑑賞場所として知られる。
-- **鳥居形の主な鑑賞スポット**：渡月橋付近、松尾橋付近、広沢池周辺。市内中心部からはやや離れているため、嵐山方面への移動が必要。
-- **アクセスと交通規制**：当日は各鑑賞スポット周辺で大規模な交通規制が実施され、自動車でのアクセスが困難になる。鴨川河岸へは京阪電車出町柳駅や地下鉄烏丸線丸太町駅から徒歩が便利。松ヶ崎方面へは地下鉄烏丸線松ヶ崎駅が最寄り。嵐山・鳥居形方面へは嵐電（京福電鉄）やJR嵯峨野線を利用する。最新の開催日程や交通規制情報は公式サイトで確認すること。
+2026年の京都市告知の点火予定は、大文字20時00分、松ヶ崎妙法20時05分、船形20時10分、左大文字20時15分、鳥居形20時20分でした。天候による変更があり、次回の予定を保証するものではありません。夜間の河川敷への立入りは控え、登山は禁止という市の案内を優先してください。金閣寺の通常参拝は17時までです。河川敷・寺院境内・大学敷地・ホテル屋上等を、夜間に自由に入れる鑑賞場所として扱わないでください。主催者・施設管理者の当年の公開案内で、開放範囲、予約・料金、交通規制を確認してから見学場所を選びます。現地で安全な場所を確保できない場合は、その年のテレビ・インターネット中継の案内を確認する方法もあります。[京都市：点火と安全の案内](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html)／[金閣寺：参拝案内](https://www.shokoku-ji.jp/kinkakuji/access/)
 
 ## 周辺情報
 
@@ -37999,25 +37993,19 @@ The character myo is lit on the western mountain with 103 fire pits spanning app
 The Funagata bonfire depicts a boat sailing toward the western pure land, with the bow pointing westward, symbolizing the journey of ancestral spirits to the afterlife. The fire bed measures approximately 200 meters horizontally, with the mast height reaching about 90 meters, and consists of 79 fire pits. After the lighting, Rokusai Nembutsu is performed at Saihoji Temple at the foot of the mountain, a folk performing art in which participants dance while chanting the nembutsu accompanied by gongs and drums.
 
 **Hidari Daimonji on Kinugasa Okitayama**
-The Hidari Daimonji resembles the main Daimonji in shape but is distinguished by the practice of lighting the fire in the order of brush strokes. The fire bed has 53 pits, with the first stroke measuring 48 meters, the second stroke 68 meters, and the third stroke 59 meters, making it slightly smaller than the main Daimonji. Located behind Kinkakuji Temple, it offers a beautiful view from the temple grounds and Nishioji Street. Court noble diaries from the early Edo period mention it as the Western Daimonji in contrast to the Eastern Daimonji, suggesting it was established later than the main Daimonji.
+The Hidari Daimonji resembles the main Daimonji in shape but is distinguished by the practice of lighting the fire in the order of brush strokes. The fire bed has 53 pits, with the first stroke measuring 48 meters, the second stroke 68 meters, and the third stroke 59 meters, making it slightly smaller than the main Daimonji. It is located behind Kinkakuji Temple. Normal temple visiting hours are 9:00 AM to 5:00 PM, so this is not an invitation to view the night-time fires from the temple grounds. Confirm any viewing location''s access conditions separately. [Kinkakuji visiting information](https://www.shokoku-ji.jp/kinkakuji/access/) Court noble diaries from the early Edo period mention it as the Western Daimonji in contrast to the Eastern Daimonji, suggesting it was established later than the main Daimonji.
 
 **Torii-gata Shrine Gate Shape on Saga Mandarayama**
 The Torii-gata bonfire differs from the other four in its unique lighting method, where participants run with torches and thrust them into each fire pit. The fire bed consists of 108 pits, with the horizontal beam section measuring approximately 70 meters and the vertical pillars approximately 80 meters, making it the bonfire with the largest number of fire pits in Kyoto City. The traditional division of roles is maintained, with younger members handling the horizontal beam area called yoko no hashiri and veteran members handling the vertical pillar area called tate no hashiri.
 
 **The Moment of Lighting and the Silent City**
-The beauty of the Gozan Okuribi lies in the sequential lighting of the five mountains over approximately one hour. The Daimonji is lit at 8:00 PM, followed by the Myo and Ho at 8:05 PM, the Funagata at 8:10 PM, the Hidari Daimonji at 8:15 PM, and the Torii-gata at 8:20 PM. The scene of the mountains gradually becoming enveloped in fire creates a fantastical vision like five beacons floating in the night sky. During this time, the city of Kyoto is enveloped in silence and a solemn mood, with crowds gathering along the banks of the Kamo River and other viewing spots to quietly watch the bonfires as they burn and fade.
+The beauty of the Gozan Okuribi lies in the sequential lighting of the five mountains from 8:00 PM to 8:20 PM. The Daimonji is lit at 8:00 PM, followed by the Myo and Ho at 8:05 PM, the Funagata at 8:10 PM, the Hidari Daimonji at 8:15 PM, and the Torii-gata at 8:20 PM. The scene of the mountains gradually becoming enveloped in fire creates a fantastical vision like five beacons floating in the night sky. During this time, the city of Kyoto is enveloped in silence and a solemn mood, with crowds gathering along the banks of the Kamo River and other viewing spots to quietly watch the bonfires as they burn and fade.
 
 ## Event Information and Access
 
 **Check Safe Viewing Access First**: Kyoto City’s July 27, 2026 notice prohibited climbing the bonfire mountains on the day of lighting and asked visitors to refrain from entering riverbeds at night because of darkness and fall risks. Rising water may bring access restrictions; follow on-site staff instructions. The viewing-place descriptions below are not guarantees that those areas will be accessible. This notice concerns the completed 2026 edition; check the relevant year’s official restrictions, lighting times and transport information for your next visit. Goma-wood offering reception also differs by preservation society and should be checked separately from watching the fires. [Kyoto City safety notice](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html)
 
-- **Date and Time**: Annually on August 16. Lighting times are Daimonji at 8:00 PM, Myo and Ho at 8:05 PM, Funagata at 8:10 PM, Hidari Daimonji at 8:15 PM, and Torii-gata at 8:20 PM. Each bonfire burns for approximately 30 minutes.
-- **Daimonji Viewing Spots**: Along the Kamo River banks between Marutamachi Bridge and Misono Bridge. Kyoto Gyoen Imperial Park also offers viewing opportunities. Rooftops of high-rise buildings along Kawaramachi Street and Kiyamachi Street provide views but are often paid areas.
-- **Myo and Ho Viewing Spots**: Along Kitayama Street near Matsugasaki Station on the Kyoto Municipal Subway. The area around Kyoto Notre Dame University also offers good visibility.
-- **Funagata Viewing Spots**: Along the Kamo River near Kitayama Ohashi Bridge and Nishigamo Bridge. The area east of Matsugasaki Station along Kitayama Street is also recommended.
-- **Hidari Daimonji Viewing Spots**: Along Nishioji Street between Marutamachi and Kinkakuji Temple. The grounds of Kinkakuji Temple are also a known viewing location.
-- **Torii-gata Viewing Spots**: Near Togetsukyo Bridge, Matsuo Bridge, and around Hirosawa Pond. This area is somewhat distant from the city center, so travel to the Arashiyama area is necessary.
-- **Access and Traffic Regulations**: Extensive traffic restrictions are implemented around all viewing spots, making car access difficult. For the Kamo River area, the Keihan Electric Railway Demachiyanagi Station or the Kyoto Municipal Subway Karasuma Line Marutamachi Station are convenient. For Matsugasaki, the Subway Karasuma Line Matsugasaki Station is the nearest stop. For Arashiyama and Torii-gata, the Randen Tram or JR Sagano Line are recommended. For the latest schedule and traffic information, please check the official website.
+Kyoto City''s 2026 notice scheduled Daimonji for 8:00 PM, Matsugasaki Myoho for 8:05 PM, Funagata for 8:10 PM, Hidari Daimonji for 8:15 PM and Torii-gata for 8:20 PM. Weather could change these times; they are not a promise for a future edition. Follow the city''s request to avoid riverbeds at night and its prohibition on climbing the bonfire mountains on the day. Kinkakuji''s normal visiting hours end at 5:00 PM. Do not treat riverbeds, temple or university grounds, or hotel rooftops as freely accessible night-time viewing areas. Choose a location only after checking the relevant year''s organiser and venue information for access, reservations, fees and traffic restrictions. If you cannot secure a safe place, check that year''s television or online broadcast information instead. [Kyoto City lighting and safety notice](https://www.city.kyoto.lg.jp/bunshi/page/0000356620.html) / [Kinkakuji visiting information](https://www.shokoku-ji.jp/kinkakuji/access/)
 
 ## Surrounding Information
 
@@ -38034,7 +38022,7 @@ Additionally, the summer tradition of dining on the noryo yuka platforms along t
 - On April 8, 1890, the Daimonji was lit to celebrate the completion of the Lake Biwa Canal, and on May 9, 1891, all five bonfires were lit to commemorate the visit of the Russian Crown Prince to Kyoto.
 - Following the example of the Kyoto Gozan Okuribi, similar bonfire festivals are held on August 16 in Hakone, Kanagawa Prefecture, and in Nakamura, Kochi Prefecture.
 - The Gozan Okuribi was designated as an intangible folk cultural property of Kyoto City on June 1, 1983, and preservation societies continue to maintain and pass on the tradition.
-- The lighting methods differ among the mountains: the Daimonji uses stacked firewood lit simultaneously, while the Torii-gata uses runners who thrust torches into each fire pit, reflecting the unique traditions of each mountain community.','okuribi','okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:35:52','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "## 概要京都五山送り火は、毎年8月16日の夜に京都市内を取り囲む五つの山", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+- The lighting methods differ among the mountains: the Daimonji uses stacked firewood lit simultaneously, while the Torii-gata uses runners who thrust torches into each fire pit, reflecting the unique traditions of each mountain community.','okuribi','okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:45:02','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "## 概要京都五山送り火は、毎年8月16日の夜に京都市内を取り囲む五つの山", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11651982','長岡まつり','Nagaoka Festival','毎年8月に日本の新潟県長岡市で開催される祭',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年8月1日〜8月3日','{"type": "range_fixed", "month": 8, "day": 1, "end_month": 8, "end_day": 3, "raw": "8月1日から3日", "ctx": "長岡まつり（ながおかまつり）は、新潟県長岡市で開催される祭である。毎年8月1日から3日にかけ、長岡市内で行われる。内容は大きく分けて平和祭・昼行事・大花火大会でありそ", "pos": 35}','長岡まつり（ながおかまつり）は、新潟県長岡市で開催される祭である。毎年8月1日から3日にかけ、長岡市内で行われる。内容は大きく分けて平和祭・昼行事・大花火大会でありそ','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11642810','那覇ハーリー','Naha Hari','沖縄県那覇市で行われるハーリー',NULL,'Q181966','那覇市','Naha','沖縄県','okinawa',NULL,NULL,NULL,5,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Hari.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,85,'drafted','## 概要
 

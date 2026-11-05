@@ -2,7 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import IndexTabs from '../../../components/IndexTabs.astro';
 import IndexSection from '../../../components/IndexSection.astro';
-import { getAllFestivalsForIndex, groupBySeason } from '../../../lib/festivals';
+import { getAllFestivalsForIndex, groupBySeason } from '../../../lib/public_index';
 const all = getAllFestivalsForIndex('en');
 const groups = groupBySeason(all, 'en');
 ---

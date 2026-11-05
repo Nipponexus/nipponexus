@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import IndexTabs from '../../components/IndexTabs.astro';
 import IndexSection from '../../components/IndexSection.astro';
-import { getAllFestivalsForIndex, groupByPrefecture } from '../../lib/festivals';
+import { getAllFestivalsForIndex, groupByPrefecture } from '../../lib/public_index';
 const all = getAllFestivalsForIndex('ja');
 const groups = groupByPrefecture(all, 'ja');
 ---
