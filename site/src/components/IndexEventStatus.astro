@@ -1,0 +1,7 @@
+---
+import { verifiedIndexStatuses } from '../lib/index_event_status';
+interface Props { qid: string; locale: 'ja' | 'en'; }
+const { qid, locale } = Astro.props;
+const status = verifiedIndexStatuses[qid];
+---
+{status && <span data-event-status={qid} style="display:inline-block;font-size:0.8rem;color:var(--color-sumi);margin-top:0.35rem;padding:0.2rem 0.45rem;border:1px solid currentColor;border-radius:6px;line-height:1.5;">{status[locale]}</span>}

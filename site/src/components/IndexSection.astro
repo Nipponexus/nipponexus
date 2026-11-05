@@ -1,5 +1,6 @@
 ---
 import type { GroupedFestivals } from '../lib/festivals';
+import IndexEventStatus from './IndexEventStatus.astro';
 interface Props {
   groups: GroupedFestivals[];
   locale: 'ja' | 'en';
@@ -41,6 +42,7 @@ const isJa = locale === 'ja';
           <a href={href} style="display:block;padding:0.8rem 1rem;background:white;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,0.06);text-decoration:none;color:var(--color-sumi);transition:transform 0.2s,box-shadow 0.2s;">
             <div style="font-family:var(--font-serif);font-size:1rem;font-weight:600;color:var(--color-shu);">{name}</div>
             <div style="font-size:0.8rem;color:var(--color-sumi-light);margin-top:0.2rem;">{sub}</div>
+            <IndexEventStatus qid={f.qid} locale={locale} />
           </a>
         ) : (
           <div style="padding:0.8rem 1rem;background:#f5f5f4;border-radius:6px;opacity:0.65;">
@@ -48,6 +50,7 @@ const isJa = locale === 'ja';
               {name}
             </div>
             <div style="font-size:0.8rem;color:var(--color-sumi-light);margin-top:0.2rem;">{sub}</div>
+            <IndexEventStatus qid={f.qid} locale={locale} />
           </div>
         );
       })}
