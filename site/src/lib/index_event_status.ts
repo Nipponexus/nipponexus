@@ -29,5 +29,11 @@ export const verifiedIndexStatuses: Record<string, { ja: string; en: string; sou
     "en": "Higashiyama Hanatoro program ended with its final day on March 13, 2022",
     "source": "https://www.pref.kyoto.jp/kanko/news/2021/r3hanatouro.html",
     "verifiedAt": "2026-11-06T06:32:34+09:00"
+  },
+  "Q2276034": {
+    "ja": "旧映画祭は2024年開催をもって終了",
+    "en": "The former film festival ended after its 2024 edition",
+    "source": "https://magazine.fany.lol/163311/",
+    "verifiedAt": "2026-11-06T09:08:58+09:00"
   }
 };
