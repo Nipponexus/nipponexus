@@ -38005,7 +38005,7 @@ INSERT INTO "festivals" VALUES('Q11639333','送り火','Okuribi','お盆に帰�
 ## 関連情報
 
 - 五山送り火は江戸時代後期には現在の五つ以外にも「い」（市原野）、「一」（鳴滝）、「竹の先に鈴」（西山）、「蛇」（北嵯峨）、「長刀」（観空寺）などが点火されていたが、早い段階で廃絶している。
-- 送り火の消炭を水に浸して飲むと中風（脳卒中）にならないという言い伝えがあり、実際に各保存会で護摩木を申し込んだ参拝者が消炭を持ち帰る習慣がある。
+- 京都観光公式サイトのインタビューでは、当時の左大文字保存会会長の話として、コップの水に消し炭を入れて飲むと病気にならないという言い伝えが紹介されています。[京都観光Naviぷらす：左大文字保存会会長インタビュー](https://plus.kyoto.travel/entry/okuribi)
 - 明治23年（1890年）4月8日には琵琶湖疏水竣工祝賀の夜会に合わせて大文字山に点火され、明治24年（1891年）5月9日にはロシア皇太子の入洛を記念して全山が点火された。
 - 京都五山送り火に倣って、神奈川県箱根町強羅では「大文字焼祭り」が8月16日に行われ、高知県中村市間崎でも「大文字送り火」が実施されている。
 - 五山送り火は昭和58年（1983年）6月1日に京都市登録無形民俗文化財として指定され、現在は各保存会が伝統の維持と継承に努めている。
@@ -38066,11 +38066,11 @@ Additionally, the summer tradition of dining on the noryo yuka platforms along t
 ## Related Information
 
 - During the late Edo period, in addition to the current five bonfires, other characters and shapes were lit, including the character i at Ichiharano, the character ichi at Narutaki, a bamboo tip with a bell at Nishiyama, a snake shape at Kitasaga, and a halberd shape at Kankuji Temple, but these were abandoned early on.
-- A traditional belief holds that drinking water in which the charcoal from the bonfires has been soaked prevents cerebral apoplexy, and participants who submit Goma wood offerings often take home the charcoal.
+- An interview on Kyoto’s official tourism website quotes the then chair of the Hidari Daimonji Preservation Society describing a traditional belief that drinking water with charcoal remnants in it wards off illness. [Kyoto official tourism interview](https://plus.kyoto.travel/entry/okuribi)
 - On April 8, 1890, the Daimonji was lit to celebrate the completion of the Lake Biwa Canal, and on May 9, 1891, all five bonfires were lit to commemorate the visit of the Russian Crown Prince to Kyoto.
 - Following the example of the Kyoto Gozan Okuribi, similar bonfire festivals are held on August 16 in Hakone, Kanagawa Prefecture, and in Nakamura, Kochi Prefecture.
 - The Gozan Okuribi was designated as an intangible folk cultural property of Kyoto City on June 1, 1983, and preservation societies continue to maintain and pass on the tradition.
-- The lighting methods differ among the mountains: the Daimonji uses stacked firewood lit simultaneously, while the Torii-gata uses runners who thrust torches into each fire pit, reflecting the unique traditions of each mountain community.','okuribi','okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 12:38:33','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "## 概要京都五山送り火は、毎年8月16日の夜に京都市内を取り囲む五つの山", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
+- The lighting methods differ among the mountains: the Daimonji uses stacked firewood lit simultaneously, while the Torii-gata uses runners who thrust torches into each fire pit, reflecting the unique traditions of each mountain community.','okuribi','okuribi','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 12:44:38','J_o','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Gozanokuribi_Daimonji2.jpg','毎年8月16日','{"type": "fixed", "month": 8, "day": 16, "raw": "8月16日", "ctx": "## 概要京都五山送り火は、毎年8月16日の夜に京都市内を取り囲む五つの山", "src": "rescue_20260813"}','本文の毎年/例年+日付(rescue_20260813)','rescue_rule','ok','本文の明示日付から復元(条件語・記念日・複数日付は除外)');
 INSERT INTO "festivals" VALUES('Q11651982','長岡まつり','Nagaoka Festival','毎年8月に日本の新潟県長岡市で開催される祭',NULL,NULL,NULL,NULL,'新潟県','chubu',NULL,NULL,NULL,NULL,'summer',NULL,'https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A',NULL,65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 08:17:29',NULL,NULL,NULL,'毎年8月1日〜8月3日','{"type": "range_fixed", "month": 8, "day": 1, "end_month": 8, "end_day": 3, "raw": "8月1日から3日", "ctx": "長岡まつり（ながおかまつり）は、新潟県長岡市で開催される祭である。毎年8月1日から3日にかけ、長岡市内で行われる。内容は大きく分けて平和祭・昼行事・大花火大会でありそ", "pos": 35}','長岡まつり（ながおかまつり）は、新潟県長岡市で開催される祭である。毎年8月1日から3日にかけ、長岡市内で行われる。内容は大きく分けて平和祭・昼行事・大花火大会でありそ','rule_only','ok','');
 INSERT INTO "festivals" VALUES('Q11642810','那覇ハーリー','Naha Hari','沖縄県那覇市で行われるハーリー',NULL,'Q181966','那覇市','Naha','沖縄県','okinawa',NULL,NULL,NULL,5,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Hari.jpg','https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%BC',NULL,85,'drafted','## 概要
 
