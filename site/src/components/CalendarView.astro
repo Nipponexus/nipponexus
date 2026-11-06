@@ -6,6 +6,7 @@ const { locale = "ja" } = Astro.props;
 const en = locale === "en";
 let d = { generated: "", next: [], annual: [] };
 try { d = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "../out/site_calendar.json"), "utf-8")); } catch (e) {}
+import { calendarForecastView } from "../lib/calendar_event_status"; d = calendarForecastView(d);
 const months = Array.from({ length: 12 }, (_, i) => {
   const m = String(i + 1).padStart(2, "0");
   return { m: i + 1, rows: d.annual.filter((r) => (r.start || "").slice(5, 7) === m) };
