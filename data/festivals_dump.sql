@@ -674,9 +674,9 @@ At overseas cherry blossom viewing spots, opportunities to experience Japanese c
 **Header image credit**: “Castle Himeji sakura02.jpg” by Miya.m. [Original image and history](https://commons.wikimedia.org/wiki/File:Castle_Himeji_sakura02.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en). Displayed as a header background with cropping to fit the display area and a color overlay.','hanami','hanami','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 05:34:34','Miya.m','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Castle_Himeji_sakura02.jpg',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q116021','多度祭','Tado Festival','三重県桑名市多度町で毎年5月4日、5日に行われる祭り','Japanese festival','Q116140','多度大社','Tado Taisha','三重県','kinki',NULL,NULL,NULL,5,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Tado%20Festival%202.jpg','https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%BA%A6%E7%A5%AD','https://en.wikipedia.org/wiki/Tado_Festival',85,'drafted','## 概要
 
-多度祭（たどまつり）は、三重県桑名市多度町に鎮座する多度大社で、毎年五月四日・五日に斎行される例祭です。その中心的な神事である「上げ馬神事（あげうましんじ）」は、地元の若者が馬に騎乗して急な坂を一気に駆け上がる勇壮な行事として全国に知られ、多くの見物客を集めてきました。
+多度祭（たどまつり）は、三重県桑名市多度町に鎮座する多度大社で、毎年五月四日・五日に斎行される例祭です。上げ馬神事（あげうましんじ）や流鏑馬行事が奉納されます。上げ馬の坂は二〇二四年以降に土壁が撤去され、勾配も緩和されており、以前の壁越えとは区別が必要です。
 
-上げ馬神事の起源は約七百年前の南北朝時代に遡るとされ、長い歴史のなかで受け継がれてきた伝統行事です。昭和五十三年（一九七八年）二月七日には三重県の無形民俗文化財に指定されました。馬と若者が急坂に挑む姿は、北伊勢地方の初夏を代表する光景として親しまれ、多度大社の信仰と地域の暮らしが結びついた祭りとして今日まで続いています。
+上げ馬神事の起源は約七百年前の南北朝時代に遡るとされ、長い歴史のなかで受け継がれてきた伝統行事です。昭和五十三年（一九七八年）二月七日には三重県の無形民俗文化財に指定されました。上げ馬神事は、北伊勢地方の初夏の行事として親しまれ、多度大社の信仰と地域の暮らしが結びついた祭りとして今日まで続いています。
 
 ## 歴史と由来
 
@@ -684,21 +684,21 @@ INSERT INTO "festivals" VALUES('Q116021','多度祭','Tado Festival','三重県�
 
 多度祭の中心をなす上げ馬神事の起源は、約七百年前の南北朝時代にさかのぼると伝えられています。地域の農耕と深く結びついた神事であり、若者が馬とともに急坂に挑むという形で、豊作や地域の安寧への祈りが表現されてきました。武を尊ぶ気風と農耕儀礼が融合したこの神事は、中世以来の地域社会のありようを今に伝えるものとして重視されてきました。
 
-かつての上げ馬神事では、坂の最上部に土壁が築かれ、馬がその土壁を越えた回数によって、その年の農作物の豊凶を占うという習わしがありました。坂を駆け上がり、壁を越えられるかどうかに人々が固唾をのんで見守るさまは、この神事の最大の見どころとして長く親しまれてきました。神事を担うのは神児（しんじ）と呼ばれる若者を中心とした担い手で、地域を挙げてこの祭りを支えてきました。
+かつての上げ馬神事では、坂の最上部に土壁が築かれ、馬がその土壁を越えた回数によって、その年の農作物の豊凶を占うという習わしがありました。坂を駆け上がり、壁を越えられるかどうかに人々が固唾をのんで見守るさまは、この神事の最大の見どころとして長く親しまれてきました。神児と騎手は別の役で、神児迎え式と騎手による上げ馬はそれぞれ異なる次第です。
 
 近年、この神事のあり方をめぐっては動物福祉の観点からの議論が起こり、二〇二四年（令和六年）以降は神事のスタイルが見直されることとなりました。坂の最上部の土壁を廃止するなどの変更が行われ、伝統を受け継ぎながらも時代の要請に応える形で祭りは続けられています。長い歴史を持つ神事が現代のなかでどのように継承されていくかという課題に、地域と多度大社が向き合っている状況にあります。
 
 ## 見どころ
 
-**坂を駆け上がる上げ馬** 多度祭最大の見どころは、やはり上げ馬神事です。若者が騎乗した馬が、勢いよく助走をつけて急な坂を一気に駆け上がる瞬間は、見る者の緊張と興奮を最高潮に高めます。馬と乗り手が一体となって坂に挑む姿には、南北朝時代以来受け継がれてきた勇壮さが凝縮されています。
+**土壁撤去後の上げ馬** 現在の上げ馬は、土壁を越える以前の形式ではなく、勾配を緩和した坂を上る神事です。[三重県の二〇二四年三月公表資料](https://www.pref.mie.lg.jp/TOPICS/m0046300304.htm)には、壁の撤去と馬場・力坂の勾配緩和が記載されています。過去の写真や映像を見る際も、当時の壁越えを現在の見どころとして受け取らないようにしてください。
 
-**神児と担い手たちの奉仕** 神事を担うのは、神児と呼ばれる若者を中心とした地域の担い手たちです。祭りに向けて心身を整え、神事の主役として奉仕する若者たちの姿には、地域が総出でこの伝統を支えてきた歴史が表れています。世代を超えて受け継がれる担い手の存在が、祭りの根幹を成しています。
+**神児と騎手の異なる役割** [五日の公式予定](https://tadotaisya.or.jp/年中行事/多度祭/五日予定/)では、神児迎え式を行い、その後に騎手による上げ馬が始まる流れが示されています。神児を迎える作法と、馬に乗って上げ坂を上る騎手の奉仕は別の役割です。神児・騎手・弓取は御例祭にも参列し、神輿渡御の行列にも加わります。
 
-**五月四日・五日の二日間の祭事** 多度祭は五月四日・五日の二日間にわたって営まれます。例祭前日祭に始まり、騎手の乗込、馬場乗、須賀馬場乗込など、次第に沿って多彩な行事が展開されます。二日間を通じて祭りが高まっていく構成は、単発の神事にとどまらない祭礼としての厚みを感じさせます。
+**前日祭と本祭の次第** 現行の[四日の公式予定](https://tadotaisya.or.jp/年中行事/多度祭/４日予定/)は例祭前日祭を午前八時、[五日の公式予定](https://tadotaisya.or.jp/年中行事/多度祭/五日予定/)は御例祭を午前六時としています。上げ馬は両日とも午後一時頃で、四日は三地区各二回の計六回、五日は計三回という案内です。これは二〇二六年十一月六日の確認内容であり、次回の時刻や回数は訪問年の発表で再確認してください。
 
-**北伊勢の初夏を彩る雰囲気** 新緑の五月、多度大社の境内とその周辺は祭りの熱気に包まれます。北伊勢地方に初夏の訪れを告げるこの祭りには、地域内外から多くの人々が訪れ、坂の周囲には見物客がひしめきます。歴史ある社を舞台に繰り広げられる神事の高揚感は、この季節ならではのものです。
+**観覧前の交通条件の確認** 主催者の[多度祭の交通案内](https://tadotaisya.or.jp/年中行事/多度祭/アクセス-2/)は、祭り当日の駐車場不足を理由に養老鉄道の利用を勧めています。同ページに交通規制図が掲載されています。通常時の参拝アクセスと祭礼日の車両通行条件は別なので、訪問年の案内で規制区間と時刻を確認してから移動手段を決めてください。
 
-**伝統と現代の交差** 二〇二四年以降のスタイル変更を経て、多度祭は伝統の継承と現代的な配慮の両立という新たな段階を迎えています。長く続いてきた神事が形を変えながらも守り継がれていく過程そのものが、いま祭りを訪れる人にとって注目すべき点となっています。変化のなかで受け継がれる祈りの本質を感じ取ることができます。
+**改善措置と安全確認を分ける** [三重県の公表資料](https://www.pref.mie.lg.jp/TOPICS/m0046300304.htm)には、土壌改良、馬の体調確認、負傷に備えた獣医師・馬運車の待機などの改善項目が記されています。これは二〇二四年に提出された改善内容であり、事故が起きないという保証や当年の観覧場所の指定ではありません。観覧条件や変更の有無は[多度大社の最新のお知らせ](https://tadotaisya.or.jp/)で確認してください。
 
 **多度大社の信仰の場** 上げ馬神事の舞台となる多度大社は、北伊勢総鎮守として広く信仰を集める古社です。祭りの日には神事とともに神社そのものの荘厳な空気に触れることができ、勇壮な神事と静謐な社の対比が、祭りの体験に深みを与えています。
 
@@ -706,11 +706,11 @@ INSERT INTO "festivals" VALUES('Q116021','多度祭','Tado Festival','三重県�
 
 - 開催日: 毎年五月四日・五日
 - 会場: 多度大社（三重県桑名市多度町）
-- 中心神事: 上げ馬神事（若者が騎乗し急坂を駆け上がる）
-- 主な行事: 例祭前日祭、騎手乗込、馬場乗、須賀馬場乗込ほか
+- 中心神事: 上げ馬神事（土壁撤去・勾配緩和後の上げ坂で奉納）
+- 主な行事: 四日の例祭前日祭・須賀馬場乗、五日の御例祭・神児迎え式・神輿渡御・流鏑馬行事ほか
 - 文化財指定: 三重県無形民俗文化財（昭和五十三年＝一九七八年二月七日指定）
 - 留意点: 二〇二四年（令和六年）以降、動物福祉の観点から神事のスタイルが見直されている
-- **アクセス**：会場の多度大社（桑名市多度町多度1681）へは、養老鉄道「多度駅」から徒歩約20分。桑名市コミュニティバスを利用する場合は「多度大社前」下車。
+- **アクセス**：多度大社（桑名市多度町多度1681）へは、[桑名市の通常アクセス案内](https://www.city.kuwana.lg.jp/kanko/miru/kankospot/kanko010.html)では養老鉄道「多度駅」から徒歩約20分、Kバス「多度大社前」下車すぐとされています。祭礼日の交通規制や運行変更は[主催者の交通案内](https://tadotaisya.or.jp/年中行事/多度祭/アクセス-2/)と交通事業者の当年案内を別途確認してください。
 
 ## 周辺の関連する行事と場所
 
@@ -727,11 +727,11 @@ INSERT INTO "festivals" VALUES('Q116021','多度祭','Tado Festival','三重県�
 - 主催神社: 多度大社（北伊勢総鎮守・主祭神は天津彦根命）
 - 起源: 上げ馬神事は約七百年前の南北朝時代に遡るとされる
 - 文化財: 三重県無形民俗文化財（昭和五十三年指定）
-- 特色: 若者が騎乗し急坂を駆け上がる上げ馬神事で知られる。二〇二四年以降スタイルを見直し','## Overview
+- 特色: 上げ馬神事と流鏑馬行事。以前の土壁越えと、土壁撤去・勾配緩和後の形式を区別','## Overview
 
-The Tado Festival is the annual grand festival held on May 4 and 5 each year at Tado Taisha, a shrine located in Tado-cho in the city of Kuwana, Mie Prefecture. Its central rite, the Ageuma Shinji, or rising-horse rite, is known throughout the country as a spirited event in which local young men ride horses and gallop at full speed up a steep slope, and it has long drawn many spectators.
+The Tado Festival is the annual grand festival held on May 4 and 5 each year at Tado Taisha, a shrine located in Tado-cho in the city of Kuwana, Mie Prefecture. The festival includes the Ageuma Shinji, or rising-horse rite, and mounted archery. Since 2024, the earthen wall has been removed and the slope made gentler; the current rite should not be confused with the former wall-clearing format.
 
-The origins of the rising-horse rite are said to trace back some seven hundred years to the period of the Northern and Southern Courts, and it is a traditional event that has been handed down through a long history. On February 7, 1978, it was designated an Intangible Folk Cultural Property of Mie Prefecture. The sight of horses and young men challenging the steep slope is cherished as a scene representative of early summer in the northern Ise region, and the festival continues to this day as one in which the faith of Tado Taisha and the life of the region are bound together.
+The origins of the rising-horse rite are said to trace back some seven hundred years to the period of the Northern and Southern Courts, and it is a traditional event that has been handed down through a long history. On February 7, 1978, it was designated an Intangible Folk Cultural Property of Mie Prefecture. The rising-horse rite is known as an early-summer event in the northern Ise region, and the festival continues to this day as one in which the faith of Tado Taisha and the life of the region are bound together.
 
 ## History and Origins
 
@@ -739,21 +739,21 @@ Tado Taisha is an ancient shrine whose principal deity is Amatsuhikone no Mikoto
 
 The origin of the rising-horse rite that forms the heart of the Tado Festival is said to reach back some seven hundred years to the period of the Northern and Southern Courts. It is a rite deeply bound up with the agriculture of the region, and prayers for a good harvest and for the peace of the community have been expressed in the form of young men challenging a steep slope together with their horses. Fusing a spirit that honors martial vigor with agricultural ritual, this rite has been valued as one that conveys to the present the shape of local society since medieval times.
 
-In the rising-horse rite of former times, an earthen wall was built at the very top of the slope, and the abundance or poverty of that year''s crops was divined by the number of times the horses cleared that wall. The sight of the people watching with bated breath whether a horse could gallop up the slope and clear the wall was long cherished as the greatest highlight of this rite. The rite was borne by participants centered on the young men called shinji, and the whole community supported the festival.
+In the rising-horse rite of former times, an earthen wall was built at the very top of the slope, and the abundance or poverty of that year''s crops was divined by the number of times the horses cleared that wall. The sight of the people watching with bated breath whether a horse could gallop up the slope and clear the wall was long cherished as the greatest highlight of this rite. The shinji, a ceremonial child participant, and the mounted riders have distinct roles: welcoming the shinji and performing the horse rite are separate parts of the program.
 
 In recent years, discussion arose over the nature of this rite from the standpoint of animal welfare, and from 2024 the style of the rite came to be reconsidered. Changes such as the removal of the earthen wall at the top of the slope were made, and the festival continues in a form that responds to the demands of the times while carrying on tradition. The region and Tado Taisha are facing the challenge of how a rite with a long history is to be handed down within the present age.
 
 ## Highlights
 
-**The Rising Horses Galloping Up the Slope** The greatest highlight of the Tado Festival is, of course, the rising-horse rite. The moment when a horse ridden by a young man gathers momentum and gallops in a single burst up the steep slope raises the tension and excitement of onlookers to their peak. In the sight of horse and rider as one challenging the slope is concentrated the spirited vigor handed down since the period of the Northern and Southern Courts.
+**The Horse Rite after Wall Removal** The current rite uses a gentler slope without the former earthen wall. The [Mie Prefecture release of March 2024](https://www.pref.mie.lg.jp/TOPICS/m0046300304.htm) records wall removal and reduced gradients on the course and approach slope. When viewing older photographs or footage, distinguish the former wall-clearing format from the rite described in current announcements.
 
-**The Service of the Shinji and the Bearers** The rite is borne by local participants centered on the young men called shinji. In the figures of the young men who prepare body and mind for the festival and serve as the central actors of the rite appears the history of a community that has supported this tradition as a whole. The presence of bearers handed down across generations forms the very foundation of the festival.
+**Distinct Roles of the Shinji and Riders** The [official May 5 program](https://tadotaisya.or.jp/年中行事/多度祭/五日予定/) places the welcoming ceremony for the shinji before the horse rite. The shinji is a ceremonial child participant, not another name for the mounted riders. The shinji, riders and archers also attend the grand festival service and take part in the procession to the temporary shrine.
 
-**The Two Days of May 4 and 5** The Tado Festival is conducted over the two days of May 4 and 5. Beginning with the eve rite of the grand festival, a varied array of events unfolds according to the sequence, including the entry of the riders, the riding of the course, and the entry to the Suga course. The structure in which the festival builds over two days conveys a depth as a festival rite that goes beyond a single isolated rite.
+**Eve Service and Main Festival Program** The current [May 4 program](https://tadotaisya.or.jp/年中行事/多度祭/４日予定/) lists the eve service at 8 a.m.; the [May 5 program](https://tadotaisya.or.jp/年中行事/多度祭/五日予定/) lists the grand service at 6 a.m. Both place the horse rite at about 1 p.m., with six runs on May 4 and three on May 5. These are the official pages checked on November 6, 2026, not a guarantee of the next edition; recheck the visiting year''s announcement.
 
-**The Atmosphere Coloring Early Summer in Northern Ise** In the fresh green of May, the precincts of Tado Taisha and their surroundings are wrapped in the fervor of the festival. Many people visit this festival, which heralds the arrival of early summer in the northern Ise region, from within and beyond the region, and spectators throng around the slope. The exhilaration of a rite performed against the backdrop of a historic shrine is something unique to this season.
+**Checking Festival-Day Traffic Conditions** The organizer''s [festival access notice](https://tadotaisya.or.jp/年中行事/多度祭/アクセス-2/) recommends the Yoro Railway because parking is insufficient on festival days. It also links a traffic restriction map. Ordinary shrine access does not establish festival-day vehicle access: check the visiting year''s notice for restricted roads and times before choosing how to travel.
 
-**The Crossing of Tradition and the Present** Having undergone the change of style from 2024, the Tado Festival has entered a new stage of reconciling the handing down of tradition with modern consideration. The very process by which a long-continued rite is preserved and carried on while changing its form has become a point of note for those who visit the festival now. One can sense the essence of the prayer handed down amid change.
+**Separating Reforms from Safety Guarantees** The [prefectural release](https://www.pref.mie.lg.jp/TOPICS/m0046300304.htm) lists soil improvements, checks on horse condition, and provision for a veterinarian and horse transport in case of injury. These are reform measures submitted in 2024, not a guarantee against accidents or a current designation of spectator areas. Check [Tado Taisha''s latest notices](https://tadotaisya.or.jp/) for viewing conditions and changes.
 
 **A Place of Faith at Tado Taisha** Tado Taisha, the stage of the rising-horse rite, is an ancient shrine that draws wide faith as the chief guardian shrine of northern Ise. On the day of the festival one can come into contact with the solemn air of the shrine itself along with the rite, and the contrast between the spirited rite and the quiet shrine lends depth to the experience of the festival.
 
@@ -761,11 +761,11 @@ In recent years, discussion arose over the nature of this rite from the standpoi
 
 - Date: May 4 and 5 each year
 - Venue: Tado Taisha (Tado-cho, Kuwana City, Mie Prefecture)
-- Central Rite: The rising-horse rite (young men ride and gallop up a steep slope)
-- Main Events: The eve rite of the grand festival, the entry of the riders, the riding of the course, the entry to the Suga course, and others
+- Central Rite: The rising-horse rite (performed on the modified slope without the former earthen wall)
+- Main Events: May 4 eve service and Suga riding; May 5 grand service, welcoming the shinji, shrine procession and mounted archery
 - Cultural Property: Intangible Folk Cultural Property of Mie Prefecture (designated February 7, 1978)
 - Note: From 2024, the style of the rite has been reconsidered from the standpoint of animal welfare
-- **Access**：Tado Taisha Shrine (1681 Tado, Tado-cho, Kuwana City) is about a 20-minute walk from Tado Station on the Yoro Railway. By Kuwana City community bus, alight at the Tado Taisha-mae stop. 
+- **Access**: [Kuwana City''s ordinary access guide](https://www.city.kuwana.lg.jp/kanko/miru/kankospot/kanko010.html) lists Tado Taisha (1681 Tado, Tado-cho, Kuwana City) as about a 20-minute walk from Tado Station on the Yoro Railway, or next to the Tado Taisha-mae K-bus stop. Check the [organizer''s traffic notice](https://tadotaisya.or.jp/年中行事/多度祭/アクセス-2/) and transport operators'' current-year announcements separately for festival restrictions or service changes.
 
 ## Related Events and Nearby Places
 
@@ -782,7 +782,7 @@ Kuwana City, where Tado Taisha is located, is a historic town that opened at the
 - Host Shrine: Tado Taisha (chief guardian shrine of northern Ise; principal deity Amatsuhikone no Mikoto)
 - Origin: The rising-horse rite is said to trace back some seven hundred years to the period of the Northern and Southern Courts
 - Cultural Property: Intangible Folk Cultural Property of Mie Prefecture (designated 1978)
-- Features: Known for the rising-horse rite in which young men ride and gallop up a steep slope; the style was reconsidered from 2024','tado-festival','tado-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-18 17:31:12','Douggers','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Tado_Festival_2.jpg','毎年5月4日','{"type": "fixed", "month": 5, "day": 4, "raw": "5月4日", "ctx": "多度祭（たどまつり）は、三重県桑名市多度町で毎年5月4日、5日に行われる祭りである。", "pos": 24}','jawiki導入部: 多度祭（たどまつり）は、三重県桑名市多度町で毎年5月4日、5日に行われる祭りである。','fixed_rule','ok','');
+- Features: Horse rite and mounted archery; distinguish the former wall-clearing format from the modified slope without the wall','tado-festival','tado-festival','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 09:04:16','Douggers','CC BY 3.0','https://commons.wikimedia.org/wiki/File:Tado_Festival_2.jpg','毎年5月4日','{"type": "fixed", "month": 5, "day": 4, "raw": "5月4日", "ctx": "多度祭（たどまつり）は、三重県桑名市多度町で毎年5月4日、5日に行われる祭りである。", "pos": 24}','jawiki導入部: 多度祭（たどまつり）は、三重県桑名市多度町で毎年5月4日、5日に行われる祭りである。','fixed_rule','ok','');
 INSERT INTO "festivals" VALUES('Q866977','彼岸','Higan','日本の雑節の一つ','Buddhist holiday exclusively during both the Spring and Autumnal Equinox',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%BD%BC%E5%B2%B8','https://en.wikipedia.org/wiki/Higan',65,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q834387','山形国際ドキュメンタリー映画祭','Yamagata International Documentary Film Festival',NULL,'film festival in Japan','Q205526','山形市','Yamagata','山形県','tohoku',NULL,NULL,1989,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E5%9B%BD%E9%9A%9B%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E7%A5%AD','https://en.wikipedia.org/wiki/Yamagata_International_Documentary_Film_Festival',60,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q844110','雛祭り','Hinamatsuri','毎年3月3日に行われる、日本の年中行事のひとつ','Japanese holiday',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,3,'spring','https://commons.wikimedia.org/wiki/Special:FilePath/Ist%20di%20Cultura%20giapponese%20-%20altare%20della%20festa%20delle%20bambole%20P1100919.JPG','https://ja.wikipedia.org/wiki/%E9%9B%9B%E7%A5%AD%E3%82%8A','https://en.wikipedia.org/wiki/Hinamatsuri',85,'drafted','## 概要
