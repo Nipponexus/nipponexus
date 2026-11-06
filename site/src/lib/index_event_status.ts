@@ -35,5 +35,11 @@ export const verifiedIndexStatuses: Record<string, { ja: string; en: string; sou
     "en": "The former film festival ended after its 2024 edition",
     "source": "https://magazine.fany.lol/163311/",
     "verifiedAt": "2026-11-06T09:08:58+09:00"
+  },
+  "Q7119701": {
+    "ja": "富田林市資料では令和2年度（2020年度）から中止と記載。再開・廃止は未確認",
+    "en": "Tondabayashi city document records the suspension as starting in FY2020 (Reiwa 2); reopening or abolition unverified",
+    "source": "https://www.city.tondabayashi.lg.jp/uploaded/attachment/80732.pdf",
+    "verifiedAt": "2026-11-06T18:14:13+09:00"
   }
 };
