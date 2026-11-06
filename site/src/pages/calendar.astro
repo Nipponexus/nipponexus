@@ -18,10 +18,10 @@ const link = (r) => (r.slug ? "/" + r.slug + "/" : null);
   <p>開催日は記事に記載された規則（例「7月第3土曜日」）から算出した推定値です。旧暦基準・隔年開催・過去の規則にあたるものは除外しています。実際の日程は主催者の発表をご確認ください。</p>
   <h2>次に来る祭り</h2>
   <ul>
-    {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> {r.slug ? <a href={link(r)}>{r.name}</a> : <span>{r.name}</span>} {r.pref && <span>（{r.pref}）</span>} <small>{r.rule}</small></li>))}
+    {d.next.map((r) => (<li><b>{fmt(r.start, r.end)}</b> {r.slug ? <a href={link(r)}>{r.name}</a> : r.wiki ? <a href={r.wiki}>{r.name}</a> : <span>{r.name}</span>}{r.slug ? null : r.wiki ? <small>（出典: Wikipedia）</small> : null} {r.pref && <span>（{r.pref}）</span>} <small>{r.rule}</small></li>))}
   </ul>
   {months.map((mo) => mo.rows.length > 0 && (
     <section><h2>{mo.m}月（{mo.rows.length}件）</h2>
-      <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} {r.slug ? <a href={link(r)}>{r.name}</a> : <span>{r.name}</span>} {r.pref && <span>（{r.pref}）</span>}</li>))}</ul>
+      <ul>{mo.rows.map((r) => (<li>{fmt(r.start, r.end)} {r.slug ? <a href={link(r)}>{r.name}</a> : r.wiki ? <a href={r.wiki}>{r.name}</a> : <span>{r.name}</span>}{r.slug ? null : r.wiki ? <small>（出典: Wikipedia）</small> : null} {r.pref && <span>（{r.pref}）</span>}</li>))}</ul>
     </section>))}
 </BaseLayout>

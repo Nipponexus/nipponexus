@@ -1,0 +1,23 @@
+{
+  "key": "NX4_ACCESS_KEY_INCIDENT_20261107",
+  "recorded_at": "2026-11-07T06:16:48+09:00",
+  "redacted": true,
+  "facts": {
+    "prepared_script_present": false,
+    "prepared_script_path_checked": "out/nx4_access_key_incident_record.py",
+    "prepared_script_result": "MISSING at 2026-11-07 06:10 JST check; per task rule the fact is recorded and reproduction skipped (official-doc verdict already established and reported previously; master key NX4_ACCESS_KEY_INCIDENT_DIAGNOSIS_20261107 NOT inserted here)",
+    "dist_embed_check": {
+      "scope": "site/dist/**/*.html",
+      "files_total": 637,
+      "files_containing_access_key_attribute_name": 637,
+      "note": "count of files only; value never printed or stored"
+    },
+    "footer_variable_check": {
+      "file": "site/src/components/Footer.astro",
+      "const_variable_named_ACCESS_KEY": false,
+      "form_input_line": 43,
+      "value_source": "LITERAL in template source (no import.meta.env reference anywhere in file; env_vars_referenced=[])",
+      "note": "variable name / mechanism only reported; value redacted"
+    }
+  }
+}
