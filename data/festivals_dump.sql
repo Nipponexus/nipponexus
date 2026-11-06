@@ -15335,7 +15335,7 @@ INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyam
 
 「京都・嵐山花灯路」は、京都市右京区の嵯峨・嵐山地域一帯で開催されていた夜間イルミネーションイベントです。露地行灯の「灯り」と、いけばな作品の「花」を組み合わせた情緒ある演出が特徴で、竹林の小径や渡月橋など名所を幻想的に照らし出していました。この事業は、京都・花灯路推進協議会が閑散期の誘客と夜間観光・宿泊観光の促進を目的として、平成14年度（2002年度）から開始した「灯り」をテーマとする観光資源創出事業の一環です。
 
-令和3年度（2021年度）の開催をもって、東山花灯路とともに惜しまれつつ終了しました。しかし、令和4年度（2022年度）からは「花灯路・ライトアップ支援事業」として、行灯や照明器具の貸出しを実施し、地域団体や民間事業者による夜間ライトアップイベントを支援する形でその理念を継承しています。過去最高の来場者数は、東山花灯路が137万4千人、嵐山花灯路が157万8千人を記録しました。
+令和3年度（2021年度）の開催をもって、東山花灯路とともに惜しまれつつ終了しました。しかし、令和4年度（2022年度）からは「灯りの催事奨励事業」として、行灯や照明器具の貸出しを実施し、地域団体や民間事業者による夜間ライトアップイベントを支援する形でその理念を継承しています。過去最高の来場者数は、東山花灯路が137万4千人、嵐山花灯路が157万8千人を記録しました。
 
 ## 歴史・由来
 
@@ -15347,7 +15347,7 @@ INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyam
 
 京都府と京都市観光協会は終了の理由について、閑散期の誘客と宿泊観光の促進という当初の目的に対し、月ごとの観光客数の繁閑差が縮小して年間を通じて観光客が訪れるようになったこと、民間によるライトアップイベントが各地で開催されるようになったことを大きな成果として挙げ、開始から20年の節目を迎えたことを踏まえた判断であると説明しました。
 
-終了後も、その手法や設備は「花灯路・ライトアップ支援事業」として地域に還元されています。行灯や照明器具の貸出しを通じて、地域団体や民間事業者が自らのライトアップイベントを実施できるよう支援しています。これにより、花灯路で培われたノウハウが、京都の夜を彩る新たな催しへと受け継がれているのです。
+終了後も、その手法や設備は「灯りの催事奨励事業」として地域に還元されています。行灯や照明器具の貸出しを通じて、地域団体や民間事業者が自らのライトアップイベントを実施できるよう支援しています。これにより、花灯路で培われたノウハウが、京都の夜を彩る新たな催しへと受け継がれているのです。
 
 ## 見どころ
 
@@ -15371,8 +15371,10 @@ INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyam
 
 ## 開催情報・アクセス
 
-- **開催時期**: 例年12月上旬から中旬にかけての10日間程度（例：12月10日～12月19日）。ただし、このイベントは令和3年度（2021年度）をもって終了しています。
-- **点灯時間**: 午後5時から午後8時30分まで。
+終了したのは花灯路イベントであり、嵯峨・嵐山地域への訪問とは別です。訪問時は各施設の公式案内で開館日・時間・入場条件を確認してください。
+
+- **開催時期（過去・2021年最終開催）**: 2021年12月10日～19日。嵐山花灯路はこの開催を最後に終了しました。[京都府の終了告知・最終開催日程](https://www.pref.kyoto.jp/kanko/news/2021/r3hanatouro.html)。
+- **点灯時間（過去・2021年最終開催）**: 午後5時から午後8時30分まで。
 - **開催場所**: 京都府京都市右京区の嵯峨・嵐山地域一帯。嵐山中ノ島公園から渡月橋を渡り、天龍寺周辺を通って竹林の小径、嵯峨野散策路から二尊院に至る周辺の寺院・神社等。
 - **料金**: 散策路の観覧は無料（ただし、特別拝観を行う寺院等は別途拝観料が必要な場合がありました）。
 - **交通アクセス**: JR嵯峨野線「嵯峨嵐山駅」から徒歩約10分。または嵐電（京福電鉄）「嵐山駅」から徒歩約10分。阪急電鉄「嵐山駅」から徒歩約15分。
@@ -15388,8 +15390,8 @@ INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyam
 
 ## 関連情報
 
-1. **京都・東山花灯路**: 同じく京都・花灯路推進協議会が主催した、東山地域の夜間イルミネーションイベント。嵐山花灯路と同時期に終了しました。
-2. **花灯路・ライトアップ支援事業**: 令和4年度（2022年度）から開始された事業。花灯路で使用していた行灯や照明器具を地域団体や民間事業者に貸出し、夜間ライトアップイベントを支援しています。
+1. **京都・東山花灯路**: 同じく京都・花灯路推進協議会が主催した、東山地域の夜間イルミネーションイベント。最終開催は2022年3月4日～13日で、嵐山の最終開催（2021年12月）とは暦上の日程が異なります。両事業とも2021年度をもって終了しました。
+2. **灯りの催事奨励事業**: 令和4年度（2022年度）から開始された事業。花灯路で使用していた行灯や照明器具を地域団体や民間事業者に貸出し、夜間ライトアップイベントを支援しています。
 3. **ローム株式会社**: 花灯路の開催に際し、LED電球を寄贈していた企業。灯りと花の路の温かみのある灯りを支えました。
 4. **いけばなプロムナード**: 会場内に大型のいけばな作品を展示した催しで、東山・嵐山の両会場に共通する演出のひとつでした。
 5. **嵐山月灯路**: 花灯路の終了後に嵯峨・嵐山で行われるようになった夜間イベント。竹林の小径のライトアップなどが行われました。最新の開催情報は主催者の公式発表で確認してください。
@@ -15397,7 +15399,7 @@ INSERT INTO "festivals" VALUES('Q11374838','京都・嵐山花灯路','Arashiyam
 
 The Kyoto Arashiyama Hanatoro was a nighttime illumination event held across the Saga-Arashiyama district in Ukyo Ward, Kyoto City. It was characterized by its atmospheric combination of "light" from traditional paper lanterns called roji-andon and "flowers" from ikebana arrangements, which cast a magical glow over famous spots like the Bamboo Grove Path and Togetsukyo Bridge. This project was initiated in fiscal year 2002 by the Kyoto Hanatoro Promotion Council with the goals of attracting visitors during the off-season and promoting nighttime and overnight tourism.
 
-The event ended in fiscal year 2021 after its 20th anniversary, together with the Higashiyama Hanatoro. Starting in fiscal year 2022, the council launched the Hanatoro Lighting Support Project, which lends andon lanterns and lighting equipment to local groups and private businesses to support their own nighttime illumination events. At its peak, the Arashiyama Hanatoro recorded a maximum attendance of 1.578 million visitors, while the Higashiyama Hanatoro reached 1.374 million.
+The event ended in fiscal year 2021 after its 20th anniversary, together with the Higashiyama Hanatoro. Starting in fiscal year 2022, the council launched the Akari no Saiji Shorei Jigyo (a lantern-lending program), which lends andon lanterns and lighting equipment to local groups and private businesses to support their own nighttime illumination events. At its peak, the Arashiyama Hanatoro recorded a maximum attendance of 1.578 million visitors, while the Higashiyama Hanatoro reached 1.374 million.
 
 ## History and Origin
 
@@ -15409,7 +15411,7 @@ Both Hanatoro events attracted large crowds each year and successfully reduced t
 
 Kyoto Prefecture and the Kyoto City Tourism Association explained the reason for ending the events: the original aims of attracting visitors in the off-season and promoting overnight tourism had been met, with seasonal gaps in visitor numbers narrowing and privately run illumination events taking root, and the decision was made at the 20-year milestone.
 
-Even after their conclusion, the techniques and equipment developed for the Hanatoro have been passed down to the local community through the Hanatoro Lighting Support Project. By lending andon lanterns and lighting equipment, the project enables local groups and private businesses to organize their own illumination events. In this way, the know-how cultivated through the Hanatoro is being inherited by new nighttime events that continue to illuminate Kyoto.
+Even after their conclusion, the techniques and equipment developed for the Hanatoro have been passed down to the local community through the Akari no Saiji Shorei Jigyo (a lantern-lending program). By lending andon lanterns and lighting equipment, the project enables local groups and private businesses to organize their own illumination events. In this way, the know-how cultivated through the Hanatoro is being inherited by new nighttime events that continue to illuminate Kyoto.
 
 ## Highlights
 
@@ -15433,8 +15435,10 @@ Temples, shrines, and cultural facilities such as Jojakkoji Temple, Nonomiya Shr
 
 ## Event Information and Access
 
-- **Event Period**: Typically held for about 10 days from early to mid-December (e.g., December 10 to December 19). Please note that this event has ended as of fiscal year 2021. For the latest schedule and availability, please check the official website.
-- **Lighting Hours**: From 5:00 PM to 8:30 PM.
+The closure concerns the Hanatoro event, not visits to the Saga-Arashiyama area; check each facility''s official information for opening dates, hours and admission conditions before visiting.
+
+- **Event Period (Historical: Final 2021 Edition)**: December 10-19, 2021. Arashiyama Hanatoro ended after this edition. See [Kyoto Prefecture''s closure notice and final event dates](https://www.pref.kyoto.jp/kanko/news/2021/r3hanatouro.html).
+- **Lighting Hours (Historical: Final 2021 Edition)**: From 5:00 PM to 8:30 PM.
 - **Location**: The Saga-Arashiyama district, Ukyo Ward, Kyoto City. The area spans from Arashiyama Nakanojima Park, across Togetsukyo Bridge, through the Tenryuji Temple area, along the Bamboo Grove Path and the Sagano walking path, and up to Nisonin Temple and surrounding temples and shrines.
 - **Admission**: Free for the walking paths. However, special admission fees may have been required for temples and other facilities offering special nighttime visits.
 - **Access**: About a 10-minute walk from JR Sagano Line "Saga-Arashiyama Station." About a 10-minute walk from Randen (Keifuku Electric Railroad) "Arashiyama Station." About a 15-minute walk from Hankyu Railway "Arashiyama Station."
@@ -15450,12 +15454,12 @@ Even after the end of Hanatoro, new nighttime events such as the "Arashiyama Tsu
 
 ## Related Information
 
-1. **Kyoto Higashiyama Hanatoro**: A nighttime illumination event in the Higashiyama district, also organized by the Kyoto Hanatoro Promotion Council. It ended at the same time as the Arashiyama Hanatoro.
-2. **Hanatoro Lighting Support Project**: A project launched in fiscal year 2022. It lends andon lanterns and lighting equipment previously used in the Hanatoro events to local groups and private businesses to support their own nighttime illumination events.
+1. **Kyoto Higashiyama Hanatoro**: A nighttime illumination event in the Higashiyama district, also organized by the Kyoto Hanatoro Promotion Council. Its final edition ran from March 4 to 13, 2022, rather than in December 2021 when Arashiyama held its final edition. Both projects ended in fiscal year 2021.
+2. **Akari no Saiji Shorei Jigyo (a lantern-lending program)**: A project launched in fiscal year 2022. It lends andon lanterns and lighting equipment previously used in the Hanatoro events to local groups and private businesses to support their own nighttime illumination events.
 3. **Rohm Co., Ltd.**: A company that donated the LED bulbs used in the Hanatoro events. They supported the warm lighting of the Path of Light and Flowers.
 4. **Ikebana Promenade**: An exhibition of large-scale ikebana works displayed within the venue, a feature shared by both the Higashiyama and Arashiyama events.
 5. **Arashiyama Tsukitouro**: A nighttime event held in Saga-Arashiyama after the Hanatoro ended, featuring illuminations such as the bamboo grove path. Check the organizer official announcements for the latest information.
-6. **Kyoto Hanatoro Promotion Council**: The body that operated the Higashiyama and Arashiyama events and served as the contact point for the project.','arashiyama-hanatoro','arashiyama-hanatoro','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-16 13:41:19','松岡明芳','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Arashiyama_Hanat%C5%8Dro%2C_Nison-in_%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF%E3%83%BB%E4%BA%8C%E5%B0%8A%E9%99%A2_%E7%B4%85%E8%91%89%E3%81%A8%E6%9C%88_DSCF5361.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
+6. **Kyoto Hanatoro Promotion Council**: The body that operated the Higashiyama and Arashiyama events and served as the contact point for the project.','arashiyama-hanatoro','arashiyama-hanatoro','2026-08-08 17:30:01','2026-05-20T15:07:52.470287+00:00','wikidata','2026-11-06 10:04:36','松岡明芳','CC BY-SA 3.0','https://commons.wikimedia.org/wiki/File:Arashiyama_Hanat%C5%8Dro%2C_Nison-in_%E5%B5%90%E5%B1%B1%E8%8A%B1%E7%81%AF%E8%B7%AF%E3%83%BB%E4%BA%8C%E5%B0%8A%E9%99%A2_%E7%B4%85%E8%91%89%E3%81%A8%E6%9C%88_DSCF5361.JPG',NULL,NULL,NULL,NULL,NULL,NULL);
 INSERT INTO "festivals" VALUES('Q11371526','二島祇園',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%B3%B6%E7%A5%87%E5%9C%92',NULL,35,'pending',NULL,NULL,NULL,NULL,NULL,'2026-05-20T15:07:52.470287+00:00','wikidata','2026-08-11 13:44:56',NULL,NULL,NULL,'毎年7月14日','{"type": "fixed", "month": 7, "day": 14, "raw": "7月14日", "ctx": "、二島祇園という名は、他地区でも祇園祭を開催しているため、区別するための名称である。 毎年7月14日、15日に行われていたが、近年14・15日に近い土日に行われ", "pos": 115}','、二島祇園という名は、他地区でも祇園祭を開催しているため、区別するための名称である。 毎年7月14日、15日に行われていたが、近年14・15日に近い土日に行われ','rule_only','ok','全文抽出(step97)');
 INSERT INTO "festivals" VALUES('Q11381874','住吉祭','Sumiyoshi Matsuri','大阪市の住吉大社で行われる祭礼','Shinto shrine in Osaka Prefecture, Japan','Q705949','住吉大社','Sumiyoshi Taisha','大阪府','kinki',NULL,NULL,NULL,7,'summer','https://commons.wikimedia.org/wiki/Special:FilePath/Sumiyoshi%20Matsuri%20%2804%29%20IMG%203224-2%2020140801.JPG','https://ja.wikipedia.org/wiki/%E4%BD%8F%E5%90%89%E7%A5%AD',NULL,85,'drafted','## 概要
 
