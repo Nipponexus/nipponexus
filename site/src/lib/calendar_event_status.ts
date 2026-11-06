@@ -17,7 +17,11 @@ export const verifiedCalendarCessations = {
   },
 };
 
-export function calendarForecastView<T extends { annual: { qid?: string }[]; next: { qid?: string }[] }>(data: T): T {
-  const active = (row: { qid?: string }) => !Object.hasOwn(verifiedCalendarCessations, row.qid || "");
-  return { ...data, annual: data.annual.filter(active), next: data.next.filter(active) };
+export function calendarForecastRows<T extends { qid?: string }>(rows: T[]): T[] {
+  return rows.filter((row) => !Object.hasOwn(verifiedCalendarCessations, row.qid || ""));
+}
+
+export function calendarForecastView<T extends { annual: { qid?: string }[]; next?: { qid?: string }[] }>(data: T): T {
+  return { ...data, annual: calendarForecastRows(data.annual),
+    ...(data.next ? { next: calendarForecastRows(data.next) } : {}) };
 }
