@@ -1,46 +1,7 @@
 {
- "generated": "2026-11-07 23:00",
- "today": "2026-11-07",
+ "generated": "2026-11-08 23:00",
+ "today": "2026-11-08",
  "next": [
-  {
-   "qid": "Q11260406",
-   "name": "うすき竹宵",
-   "pref": "大分県",
-   "start": "2026-11-07",
-   "end": "",
-   "rule": "毎年11月第1土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%99%E3%81%8D%E7%AB%B9%E5%AE%B5"
-  },
-  {
-   "qid": "Q11629710",
-   "name": "西都古墳まつり",
-   "pref": "",
-   "start": "2026-11-07",
-   "end": "",
-   "rule": "毎年11月第1土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Saito Kofun Festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%BD%E5%8F%A4%E5%A2%B3%E3%81%BE%E3%81%A4%E3%82%8A"
-  },
-  {
-   "qid": "Q11423732",
-   "name": "土浦全国花火競技大会",
-   "pref": "茨城県",
-   "start": "2026-11-07",
-   "end": "",
-   "rule": "毎年11月第1土曜日",
-   "conf": "rule_only",
-   "slug": "tsuchiura-all-japan-fireworks-competition",
-   "slug_en": "tsuchiura-all-japan-fireworks-competition",
-   "name_en": "Tsuchiura All Japan Fireworks Competition",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%9C%9F%E6%B5%A6%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A"
-  },
   {
    "qid": "Q65279849",
    "name": "芝山はにわ祭",
@@ -157,6 +118,45 @@
    "slug_en": "chichibu-night-festival",
    "name_en": "Chichibu Night Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD"
+  },
+  {
+   "qid": "Q11261622",
+   "name": "おしろい祭り",
+   "pref": "福岡県",
+   "start": "2026-12-02",
+   "end": "",
+   "rule": "毎年12月2日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8D%E3%81%84%E7%A5%AD%E3%82%8A"
+  },
+  {
+   "qid": "Q21654085",
+   "name": "日本一はっとフェスティバル",
+   "pref": "宮城県",
+   "start": "2026-12-06",
+   "end": "",
+   "rule": "毎年12月第1日曜日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AF%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
+  },
+  {
+   "qid": "Q122353106",
+   "name": "大湯祭",
+   "pref": "",
+   "start": "2026-12-10",
+   "end": "",
+   "rule": "毎年12月10日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Daitōsai",
+   "wiki": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B9%AF%E7%A5%AD"
   }
  ],
  "annual": [
