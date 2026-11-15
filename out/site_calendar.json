@@ -1,20 +1,7 @@
 {
- "generated": "2026-11-14 23:00",
- "today": "2026-11-14",
+ "generated": "2026-11-15 23:00",
+ "today": "2026-11-15",
  "next": [
-  {
-   "qid": "Q11530743",
-   "name": "松明あかし",
-   "pref": "",
-   "start": "2026-11-14",
-   "end": "",
-   "rule": "毎年11月第2土曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "Taimatsu Akashi",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%98%8E%E3%81%82%E3%81%8B%E3%81%97"
-  },
   {
    "qid": "Q11611763",
    "name": "胡子講",
@@ -157,6 +144,19 @@
    "slug_en": "sengakuji-gishi-sai",
    "name_en": "Gishi-sai",
    "wiki": "https://ja.wikipedia.org/wiki/%E7%BE%A9%E5%A3%AB%E7%A5%AD_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA)"
+  },
+  {
+   "qid": "Q11635899",
+   "name": "赤穂義士祭",
+   "pref": "兵庫県",
+   "start": "2026-12-14",
+   "end": "",
+   "rule": "毎年12月14日",
+   "conf": "fixed_rule",
+   "slug": "ako-gishi-festival",
+   "slug_en": "ako-gishi-festival",
+   "name_en": "Akō Gishi Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD"
   }
  ],
  "annual": [
