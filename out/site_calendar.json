@@ -1,20 +1,7 @@
 {
- "generated": "2026-11-17 23:00",
- "today": "2026-11-17",
+ "generated": "2026-11-18 23:00",
+ "today": "2026-11-18",
  "next": [
-  {
-   "qid": "Q11611763",
-   "name": "胡子講",
-   "pref": "広島県",
-   "start": "2026-11-17",
-   "end": "2026-11-20",
-   "rule": "毎年11月17日〜11月20日",
-   "conf": "fixed_rule",
-   "slug": "ebisuko",
-   "slug_en": "ebisuko",
-   "name_en": "Ebisukō",
-   "wiki": "https://ja.wikipedia.org/wiki/%E8%83%A1%E5%AD%90%E8%AC%9B"
-  },
   {
    "qid": "Q11265104",
    "name": "きらきらフェスティバル",
@@ -157,6 +144,19 @@
    "slug_en": "ako-gishi-festival",
    "name_en": "Akō Gishi Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E7%BE%A9%E5%A3%AB%E7%A5%AD"
+  },
+  {
+   "qid": "Q11513690",
+   "name": "春日若宮おん祭",
+   "pref": "奈良県",
+   "start": "2026-12-17",
+   "end": "",
+   "rule": "毎年12月17日",
+   "conf": "fixed_rule",
+   "slug": "kasuga-wakamiya-on-matsuri",
+   "slug_en": "kasuga-wakamiya-on-matsuri",
+   "name_en": "Kasuga Wakamiya On-Matsuri Festival",
+   "wiki": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD"
   }
  ],
  "annual": [
