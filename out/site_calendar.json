@@ -1,20 +1,7 @@
 {
- "generated": "2026-11-19 23:00",
- "today": "2026-11-19",
+ "generated": "2026-11-20 23:00",
+ "today": "2026-11-20",
  "next": [
-  {
-   "qid": "Q11265104",
-   "name": "きらきらフェスティバル",
-   "pref": "長崎県",
-   "start": "2026-11-19",
-   "end": "",
-   "rule": "毎年11月第3木曜日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB"
-  },
   {
    "qid": "Q11501518",
    "name": "新嘗祭",
@@ -157,6 +144,19 @@
    "slug_en": "kasuga-wakamiya-on-matsuri",
    "name_en": "Kasuga Wakamiya On-Matsuri Festival",
    "wiki": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E8%8B%A5%E5%AE%AE%E3%81%8A%E3%82%93%E7%A5%AD"
+  },
+  {
+   "qid": "Q11193741",
+   "name": "COUNTDOWN JAPAN",
+   "pref": "",
+   "start": "2026-12-31",
+   "end": "",
+   "rule": "毎年12月31日",
+   "conf": "rule_only",
+   "slug": "",
+   "slug_en": "",
+   "name_en": "Countdown Japan",
+   "wiki": "https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN"
   }
  ],
  "annual": [
