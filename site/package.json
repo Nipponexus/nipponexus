@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build --config astro.affiliate.config.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "prebuild": "cd .. && python3 scripts/restore_db.py"
