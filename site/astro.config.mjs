@@ -1,4 +1,4 @@
-import affiliateIntegration from './affiliate-integration.mjs';
+import affiliateIntegration from './affiliate-ledger-integration.mjs';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { lastmodFor } from './lastmod.mjs';

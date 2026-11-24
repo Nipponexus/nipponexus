@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "lastAdditionDateJst": null,
+  "approvedPages": [
+    {
+      "path": "/chichibu-night-festival/",
+      "locale": "ja",
+      "regionId": "chichibu-nagatoro"
+    }
+  ],
+  "scheduledPaths": [
+    "/chichibu-night-festival/"
+  ]
+}
