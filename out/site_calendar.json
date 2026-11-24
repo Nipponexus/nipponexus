@@ -1,46 +1,7 @@
 {
- "generated": "2026-11-22 23:00",
- "today": "2026-11-22",
+ "generated": "2026-11-25 05:37",
+ "today": "2026-11-25",
  "next": [
-  {
-   "qid": "Q11501518",
-   "name": "新嘗祭",
-   "pref": "",
-   "start": "2026-11-23",
-   "end": "",
-   "rule": "毎年11月23日",
-   "conf": "rule_only",
-   "slug": "niiname-no-matsuri",
-   "slug_en": "niiname-no-matsuri",
-   "name_en": "Niiname-no-Matsuri",
-   "wiki": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%98%97%E7%A5%AD"
-  },
-  {
-   "qid": "Q11356768",
-   "name": "三田祭",
-   "pref": "東京都",
-   "start": "2026-11-23",
-   "end": "",
-   "rule": "毎年11月23日",
-   "conf": "fixed_rule",
-   "slug": "mita-festival",
-   "slug_en": "mita-festival",
-   "name_en": "Mita festival",
-   "wiki": "https://ja.wikipedia.org/wiki/%E4%B8%89%E7%94%B0%E7%A5%AD"
-  },
-  {
-   "qid": "Q11466745",
-   "name": "山口天神祭",
-   "pref": "山口県",
-   "start": "2026-11-23",
-   "end": "",
-   "rule": "毎年11月23日",
-   "conf": "rule_only",
-   "slug": "",
-   "slug_en": "",
-   "name_en": "",
-   "wiki": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%A4%A9%E7%A5%9E%E7%A5%AD"
-  },
   {
    "qid": "Q11596116",
    "name": "秩父夜祭",
