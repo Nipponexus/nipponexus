@@ -4,7 +4,7 @@ const NIGHT = '/chichibu-night-festival/';
 const KAWASE = '/chichibu-kawase-matsuri/';
 const MARKER = 'data-nx-affiliate="chichibu-rakuten"';
 const OLD_LABEL = '広告｜秩父・長瀞の宿を探す（楽天トラベル）';
-const HOTEL_LABEL = '広告｜ナチュラルファームシティ農園ホテル（楽天トラベル）';
+const HOTEL_LABEL = '広告｜秩父・長瀞の宿を探す（楽天トラベル）';
 
 function kawaseBlock() {
   // 発行済みリンクを再生成せず、既存の広告枠からそのまま引き継ぐ。
