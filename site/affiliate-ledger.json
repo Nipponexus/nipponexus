@@ -6,6 +6,11 @@
       "path": "/chichibu-night-festival/",
       "locale": "ja",
       "regionId": "chichibu-nagatoro"
+    },
+    {
+      "path": "/chichibu-kawase-matsuri/",
+      "locale": "ja",
+      "regionId": "chichibu-nagatoro"
     }
   ],
   "scheduledPaths": [
