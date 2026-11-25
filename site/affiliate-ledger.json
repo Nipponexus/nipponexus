@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastAdditionDateJst": null,
+  "lastAdditionDateJst": "2026-11-26",
   "approvedPages": [
     {
       "path": "/chichibu-night-festival/",
@@ -14,6 +14,7 @@
     }
   ],
   "scheduledPaths": [
-    "/chichibu-night-festival/"
+    "/chichibu-night-festival/",
+    "/chichibu-kawase-matsuri/"
   ]
 }
