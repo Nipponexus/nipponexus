@@ -38,7 +38,6 @@ export function planAffiliateDay(state, dateJst) {
   if (state.lastAdditionDateJst && dateJst < state.lastAdditionDateJst) {
     throw new Error('JST date precedes the last rollout');
   }
-  if (dateJst === state.lastAdditionDateJst) return { state, additions: [] };
 
   const additions = selectAffiliateAdditions({
     pages: state.approvedPages,
