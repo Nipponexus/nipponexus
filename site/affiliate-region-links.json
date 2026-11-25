@@ -1,0 +1,20 @@
+{
+  "urawa-rakuten": {
+    "regionId": "urawa",
+    "label": "浦和駅周辺の宿を探す（楽天トラベル）",
+    "destination": "https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000134698.html",
+    "html": "<a href=\"https://hb.afl.rakuten.co.jp/hgc/59e243eb.8ca0aa23.59e243ec.b3529479/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftraffic%2Fsaitama%2F00000000000000134698.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000134698.html</a>"
+  },
+  "kawagoe-rakuten": {
+    "regionId": "kawagoe",
+    "label": "本川越駅周辺の宿を探す（楽天トラベル）",
+    "destination": "https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000135433.html",
+    "html": "<a href=\"https://hb.afl.rakuten.co.jp/hgc/59e243eb.8ca0aa23.59e243ec.b3529479/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftraffic%2Fsaitama%2F00000000000000135433.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000135433.html</a>"
+  },
+  "kuki-rakuten": {
+    "regionId": "kuki",
+    "label": "久喜駅周辺の宿を探す（楽天トラベル）",
+    "destination": "https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000134789.html",
+    "html": "<a href=\"https://hb.afl.rakuten.co.jp/hgc/59e243eb.8ca0aa23.59e243ec.b3529479/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Ftraffic%2Fsaitama%2F00000000000000134789.html&link_type=text&ut=eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">https://travel.rakuten.co.jp/yado/traffic/saitama/00000000000000134789.html</a>"
+  }
+}

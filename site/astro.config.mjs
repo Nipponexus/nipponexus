@@ -1,4 +1,4 @@
-import affiliateIntegration from './affiliate-ledger-chichibu-integration.mjs';
+import affiliateIntegration from './affiliate-ledger-regional-integration.mjs';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { lastmodFor } from './lastmod.mjs';

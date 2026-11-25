@@ -11,6 +11,24 @@
       "path": "/chichibu-kawase-matsuri/",
       "locale": "ja",
       "regionId": "chichibu-nagatoro"
+    },
+    {
+      "path": "/juninichi-machi/",
+      "locale": "ja",
+      "regionId": "urawa",
+      "linkId": "urawa-rakuten"
+    },
+    {
+      "path": "/kawagoe-hikawa-matsuri/",
+      "locale": "ja",
+      "regionId": "kawagoe",
+      "linkId": "kawagoe-rakuten"
+    },
+    {
+      "path": "/kuki-chochin-matsuri/",
+      "locale": "ja",
+      "regionId": "kuki",
+      "linkId": "kuki-rakuten"
     }
   ],
   "scheduledPaths": [

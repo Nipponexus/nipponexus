@@ -2,7 +2,7 @@ import { mkdtempSync, mkdirSync, readFileSync, renameSync, rmdirSync,
          unlinkSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { planAffiliateDay } from './affiliate-daily-plan.mjs';
+import { planAffiliateDay } from './affiliate-regional-daily-plan.mjs';
 
 export function updateLedger(file, dateJst) {
   const lock = `${file}.lock`;
